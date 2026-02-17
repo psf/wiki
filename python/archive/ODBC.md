@@ -60,7 +60,7 @@ Python versions
 
 Actively maintained Open Source project.
 
-Precompiled binary wheels are available for Windows and macOS for Python 2.7 and 3.4+, installable using `pip install pyodbc`{.backtick}. [RedHat](RedHat) Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
+Precompiled binary wheels are available for Windows and macOS for Python 2.7 and 3.4+, installable using `pip install pyodbc`{.backtick}. [RedHat](../people/RedHat) Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
 
 ### turbodbc
 
@@ -79,7 +79,7 @@ Python versions
 
 Actively maintained Open Source project.
 
-Turbodbc offers turbocharged database access for data scientists. It heavily relies on buffered I/O for maximum performance, and comes with built-in (optional) [NumPy](NumPy) support.
+Turbodbc offers turbocharged database access for data scientists. It heavily relies on buffered I/O for maximum performance, and comes with built-in (optional) [NumPy](../science/NumPy) support.
 
 ### ceODBC 
 
@@ -158,7 +158,7 @@ Python versions
 
 [A DBI 2.0 SQLAlchemy enabler driver for IronPython](http://code.google.com/p/pypyodbc/wiki/Enable_SQLAlchemy_on_IronPython) [And PyPy](https://code.google.com/p/pypyodbc/wiki/Enable_SQLAlchemy_on_PyPy)
 
-One pure Python script, runs on CPython / [IronPython](IronPython) / [PyPy](PyPy) , Version 2.4 / 2.5 / 2.6 / 2.7 / 3.2 / 3.3, Win / Linux , 32 / 64 bit.
+One pure Python script, runs on CPython / [IronPython](../implementations/IronPython) / [PyPy](../implementations/PyPy) , Version 2.4 / 2.5 / 2.6 / 2.7 / 3.2 / 3.3, Win / Linux , 32 / 64 bit.
 
 Almost totally same usage as pyodbc ( can be seen as a re-implementation of pyodbc in pure Python ).
 

@@ -40,7 +40,7 @@ Now, you do manage to get away with not declaring `a`{.backtick} as global in bo
 
 So, back to the problem with `b`{.backtick}. When Python compiles `fun1`{.backtick}, it has to consider that `b`{.backtick} itself is being assigned to and that there\'s no `global`{.backtick} declaration for `b`{.backtick} in `fun1`{.backtick}. So, Python then believes `b`{.backtick} to be a local. But then, in the assignment itself, it has to get the value of `b`{.backtick} (think of it as `b + 1; b = <result>`{.backtick}), and at that point there is no such local, so you get the error.
 
-In short, Python has to decide whether a name is local or global and stick with that decision for every mention of that name in a function: it can\'t switch between the two since it has to generate code that builds on the assumption that a name is always local or always global in that function. So you should always declare names as global in any function where you are assigning to them as globals. \-- [PaulBoddie](PaulBoddie) 2012-04-24 20:57:57
+In short, Python has to decide whether a name is local or global and stick with that decision for every mention of that name in a function: it can\'t switch between the two since it has to generate code that builds on the assumption that a name is always local or always global in that function. So you should always declare names as global in any function where you are assigning to them as globals. \-- [PaulBoddie](../../people/PaulBoddie) 2012-04-24 20:57:57
 
 ------------------------------------------------------------------------
 

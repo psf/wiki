@@ -12,7 +12,7 @@ Email: PowerPiano17@gmail.com
 
 # Places of Interest 
 
-- [FrontPage](FrontPage)
+- [FrontPage](../people/FrontPage)
 
 - [PowerPiano17/Doodles](PowerPiano17/Doodles)
 

@@ -16,15 +16,15 @@ In order to edit this wiki, you have to create a User Profile. Follow the link a
 
 There is room for arranging sprints both before and after the conference. You can even have sprints in the downstairs cafeteria area during the conference.
 
-- [PyPy](PyPy)
+- [PyPy](../../implementations/PyPy)
 
-- [ZopeSprint](ZopeSprint)
+- [ZopeSprint](../../web/ZopeSprint)
 
 ## BOF Sessions 
 
 There are a couple of areas at the conference site that are suitable for BOFs. You can also place a BOF in the Student Union house.
 
-[PythonBusinessForumBof](PythonBusinessForumBof)
+[PythonBusinessForumBof](../../archive/PythonBusinessForumBof)
 
 ## Leisure 
 
@@ -62,7 +62,7 @@ Add a link and create a page about yourself.
 
 - [MagnusLyckå](http://www.thinkware.se/cgi-bin/thinki.cgi/MagnusLyck%C3%A5 "Thinki")
 
-- [ReinoutVanRees](ReinoutVanRees)
+- [ReinoutVanRees](../../archive/ReinoutVanRees)
 
 ## Slides & Papers 
 

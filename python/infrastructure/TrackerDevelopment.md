@@ -11,7 +11,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 This page is dedicated to development of Python bug tracker instance at [http://bugs.python.org/](http://bugs.python.org/)\
-We have a [meta tracker](http://psf.upfronthosting.co.za/roundup/meta/) for current issues and [DesiredTrackerFeatures](DesiredTrackerFeatures) page for recording ideas. See also [TrackerDevelopmentPlanning](TrackerDevelopmentPlanning).
+We have a [meta tracker](http://psf.upfronthosting.co.za/roundup/meta/) for current issues and [DesiredTrackerFeatures](../archive/DesiredTrackerFeatures) page for recording ideas. See also [TrackerDevelopmentPlanning](TrackerDevelopmentPlanning).
 
 # Docker 
 
@@ -133,7 +133,7 @@ For other systems, follow instructions from [psycopg2 site](http://initd.org/psy
 
 Other backends may work, but it is recommended to keep development environment close to production.
 
-It has been reported that 8.2, 8.3, 8.4, and 9.1 work well. See [UpgradingPostgreSQL](UpgradingPostgreSQL) if you need to upgrade version.
+It has been reported that 8.2, 8.3, 8.4, and 9.1 work well. See [UpgradingPostgreSQL](../archive/UpgradingPostgreSQL) if you need to upgrade version.
 
 Access control in PostgreSQL is tricky. You need to know Unix user, under which you run Roundup, setup access for him to PostgreSQL database, and add PostgreSQL user that you\'ve configured in Roundup\'s configuration.
 
@@ -389,7 +389,7 @@ Public test instance of the Python tracker: [http://bot.bio.br/python-dev/](http
 
 Instance that attempts to match the code used in [http://bugs.python.org](http://bugs.python.org) to allow testing, reproducing and verifying fixes for tracker bugs. Can also be used as a sandbox by users interested in learning about Developer, Coordinator or Admin tasks and features. Testing new content (e.g. Components or Statuses) is OK, but new features show be tested in the Experimental Tracker instead.
 
-Currently the email system is disabled (redirected to file), so people interested in having an account there to test new features should email [tracker-discuss](http://mail.python.org/mailman/listinfo/tracker-discuss) to get one. Maintained by [DanielDiniz](DanielDiniz).
+Currently the email system is disabled (redirected to file), so people interested in having an account there to test new features should email [tracker-discuss](http://mail.python.org/mailman/listinfo/tracker-discuss) to get one. Maintained by [DanielDiniz](../people/DanielDiniz).
 
 ## The Experimental Tracker 
 
@@ -419,9 +419,9 @@ New features (2009-04-18):
 
 - [Mass-update/batch-editing support](http://psf.upfronthosting.co.za/roundup/meta/issue248)
 
-Currently the email system is disabled (redirected to file), so people interested in having an account there to test new features should email [tracker-discuss](http://mail.python.org/mailman/listinfo/tracker-discuss) to get one. Maintained by [DanielDiniz](DanielDiniz).
+Currently the email system is disabled (redirected to file), so people interested in having an account there to test new features should email [tracker-discuss](http://mail.python.org/mailman/listinfo/tracker-discuss) to get one. Maintained by [DanielDiniz](../people/DanielDiniz).
 
-There is also a list of additional [DesiredTrackerFeatures](DesiredTrackerFeatures) for which no patches yet exist.
+There is also a list of additional [DesiredTrackerFeatures](../archive/DesiredTrackerFeatures) for which no patches yet exist.
 
 # Getting Your Own Jython Tracker 
 

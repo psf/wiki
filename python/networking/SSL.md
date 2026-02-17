@@ -10,7 +10,7 @@ SSL stands for **Secure Sockets Layer** and is designed to create secure connect
 
 ### SSL support status 
 
-- **ssl** module (internal for Python 2.6+, external for Python 2.5 - [http://pypi.python.org/pypi/ssl](http://pypi.python.org/pypi/ssl)). Unfortunately, there are no external binaries for Python 2.5 on Windows (and that makes [AppEngine](AppEngine) uploads insecure).
+- **ssl** module (internal for Python 2.6+, external for Python 2.5 - [http://pypi.python.org/pypi/ssl](http://pypi.python.org/pypi/ssl)). Unfortunately, there are no external binaries for Python 2.5 on Windows (and that makes [AppEngine](../people/AppEngine) uploads insecure).
 
   - **ssl** doesn\'t validate server identity and hence vulnerable to MITM attack by default (read below).
 

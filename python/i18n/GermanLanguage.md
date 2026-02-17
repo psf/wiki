@@ -102,7 +102,7 @@ About this Language Page: ISO 639-1 Code: de
 
 - [PyCon DE YouTube Channel](https://www.youtube.com/user/PyConDE)
 
-- [PyCon](PyCon) DE Videos auf [pyvideo.org](http://pyvideo.org): [https://pyvideo.org/search.html?q=pyconde](https://pyvideo.org/search.html?q=pyconde). Hier finden sich zusätzlich zu den Videos auch noch die Zusammenfassungen der Vorträge.
+- [PyCon](../conferences/pycon/PyCon) DE Videos auf [pyvideo.org](http://pyvideo.org): [https://pyvideo.org/search.html?q=pyconde](https://pyvideo.org/search.html?q=pyconde). Hier finden sich zusätzlich zu den Videos auch noch die Zusammenfassungen der Vorträge.
 
 - [Videos von Vorträgen](http://www.egenix.com/library/pyddf/videos.html) des [Python Meeting Düsseldorf](http://pyddf.de/), die ein recht breites Spektrum an Themen rund um Python abdecken. Die Liste endet 2016, neuere Videos finden sich im [YouTube Channel](https://www.youtube.com/pyddf/).
 

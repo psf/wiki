@@ -14,7 +14,7 @@ Sourceforge project: [https://sourceforge.net/projects/pywin32](https://sourcefo
 
 Platform: Win32 License: Python Software Foundation License
 
-Win32all, Mark Hammond\'s add-on for the regular Python installer (also including the Win32 API, COM support, and Pythonwin), is available from the [pywin32](https://sourceforge.net/projects/pywin32) project on [SourceForge](SourceForge).
+Win32all, Mark Hammond\'s add-on for the regular Python installer (also including the Win32 API, COM support, and Pythonwin), is available from the [pywin32](https://sourceforge.net/projects/pywin32) project on [SourceForge](../people/SourceForge).
 
 ------------------------------------------------------------------------
 

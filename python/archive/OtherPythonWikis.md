@@ -24,7 +24,7 @@ See:
 
 - [PoundPython](http://purl.net/wiki/python/PoundPython "EfnetPythonWiki"): The #python and #jython [WikiWikiWeb](WikiWikiWeb)\] *(down 2009-07-06)*
 
-- [Seattle Python Interest Group](http://www.seapig.org/) ([SeaPig](SeaPig))
+- [Seattle Python Interest Group](http://www.seapig.org/) ([SeaPig](../people/SeaPig))
 
 Related:
 
@@ -40,7 +40,7 @@ Related:
 
 - Twisted
 
-- [wxPython wiki](http://www.wxpython.org/) - dedicated to [WxPython](WxPython)
+- [wxPython wiki](http://www.wxpython.org/) - dedicated to [WxPython](../gui/WxPython)
 
 - Zope
 
@@ -52,7 +52,7 @@ The best way to understand it, is to just traverse the local [WikiNodesNetwork,]
 
 To get into the nuts and bolts of it, visit the [WikiNodes wiki.](http://wikinodes.wiki.taoriver.net/)
 
-\-- [LionKimbro](LionKimbro)
+\-- [LionKimbro](../people/LionKimbro)
 
 # Thinki salvage 
 

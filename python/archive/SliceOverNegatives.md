@@ -28,7 +28,7 @@ In fact, any attempt to slice from a negative to a positive returns nothing. My 
 
 It isn\'t a problem that you run into very often. However, it counters user expectations and doesn\'t seem to provide a significant benefit. It probably wouldn\'t work as well in Python 4000 when lists start at 1, but for Python 3.4 or 3.5 it could make things simpler to understand.
 
-\.... [SkipMontanaro](SkipMontanaro) writes \....
+\.... [SkipMontanaro](../people/SkipMontanaro) writes \....
 
 I believe slicing with negative indices works as expected:
 

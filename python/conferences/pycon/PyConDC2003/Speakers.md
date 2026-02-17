@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ***Speakers by First Name, with Presentation Titles***
 
-Note to speakers **welcome to [PyCon](PyCon)** - Feel free to edit the section for your paper, or to start a [PyConYourName](PyConYourName) page dedicated to just your paper(s) - Thanks to [AndrewKuchling](AndrewKuchling) for adding synopses to most presentations - *SH*
+Note to speakers **welcome to [PyCon](../PyCon)** - Feel free to edit the section for your paper, or to start a [PyConYourName](../PyConYourName) page dedicated to just your paper(s) - Thanks to [AndrewKuchling](../../../people/AndrewKuchling) for adding synopses to most presentations - *SH*
 
 If you have multiple talks scheduled too closely together (see [http://www.python.org/pycon/pycon-schedule.html](http://www.python.org/pycon/pycon-schedule.html)), send e-mail to Neal Norwitz ([neal@metaslash.com](mailto:neal@metaslash.com)).
 
@@ -16,7 +16,7 @@ If you have multiple talks scheduled too closely together (see [http://www.pytho
 
 **Introduction from the Chair**
 
-Please see *[PyConSteveHolden](PyConSteveHolden)* for an example [CategoryPyConSpeakerPage](CategoryPyConSpeakerPage) page. The chairman\'s introductory remarks will now probably given at the end of the conference ![:-)](/wiki/europython/img/smile.png ":-)")
+Please see *[PyConSteveHolden](../PyConSteveHolden)* for an example [CategoryPyConSpeakerPage](CategoryPyConSpeakerPage) page. The chairman\'s introductory remarks will now probably given at the end of the conference ![:-)](/wiki/europython/img/smile.png ":-)")
 
 ## Aahz 
 
@@ -50,7 +50,7 @@ CMFTypes provides a framework that tries to provide some layering between concer
 
 **Using [ReStructured Text (reST)](http://docutils.sf.net/rst.html)**
 
-Go to [PyConBrettCannon](PyConBrettCannon) to let your questions, comments, etc. about this tutorial be heard!
+Go to [PyConBrettCannon](../PyConBrettCannon) to let your questions, comments, etc. about this tutorial be heard!
 
 ## Brian Warner 
 
@@ -60,7 +60,7 @@ The BuildBot is a system to automate the compile/test cycle required by most sof
 
 The overall goal is to reduce tree breakage and provide a platform to run tests or code-quality checks that are too annoying or pedantic for any human to waste their time with. Developers get immediate (and potentially public) feedback about their changes, encouraging them to be more careful about testing before checkin.
 
-Check out [PyConBrianWarner](PyConBrianWarner) for more details about this presentation.
+Check out [PyConBrianWarner](../PyConBrianWarner) for more details about this presentation.
 
 ## Brian Warner 
 
@@ -68,7 +68,7 @@ Check out [PyConBrianWarner](PyConBrianWarner) for more details about this prese
 
 One of the core services provided by the [Twisted](http://www.twistedmatrix.com) networking framework is \"Perspective Broker\", which provides a clean, secure, easy-to-use Remote Procedure Call (RPC) mechanism. This paper explains the novel features of PB, describes the security model and its implementation, and provides brief examples of usage.
 
-Check out [PyConBrianWarner](PyConBrianWarner) for more details about this presentation.
+Check out [PyConBrianWarner](../PyConBrianWarner) for more details about this presentation.
 
 ## C. Donour Sizemore, Jacob R. Lilly, and David M. Beazley 
 
@@ -82,7 +82,7 @@ Project details are available at our [Project Page](http://systems.cs.uchicago.e
 
 **KOBRA - .NET (Wrapper) for Python**
 
-Please see [PyConChetanGadgil](PyConChetanGadgil) for details.
+Please see [PyConChetanGadgil](../PyConChetanGadgil) for details.
 
 ## Christopher Armstrong 
 
@@ -90,7 +90,7 @@ Please see [PyConChetanGadgil](PyConChetanGadgil) for details.
 
 Twisted is a Python networking framework. At last count, the project contains 60,000 lines of effective code (not comments or blank lines). When preparing a release, many nits must be checked, and many steps must be followed. We describe here the technologies and tools we use, and explain how we built tools on top of them which help us make releasing as painless as possible.
 
-See [PyConChristopherArmstrong](PyConChristopherArmstrong) for more info.
+See [PyConChristopherArmstrong](../PyConChristopherArmstrong) for more info.
 
 ## Christopher Blunck 
 
@@ -102,7 +102,7 @@ Because the interface requirements were soft and time was short, we approached t
 
 ## Dana Moore 
 
-**Subversion from Within. Python in a Java world** Slides at: *[PyConDanaMoore](PyConDanaMoore)* Our goal in this paper and tutorial proposal is to preach to the unconverted rather than reinforce what some of us already know to be true - that lightweight languages and Python in particular are transformational and illuminate a path for the future of application design and delivery. We note with some concern that the emergence of the Java programming language as the \"COBOL of a new generation\" often clouds the thinking of system designers and developers. Too many designers and developers simply cannot think in terms of lightweight languages as the vehicle for delivering sophisticated and complete systems. This paper and presentation suggests a \"embrace and replace\" strategy for co-existing with languages such as Java with the eventual goal of replacing their functionality altogether.
+**Subversion from Within. Python in a Java world** Slides at: *[PyConDanaMoore](../PyConDanaMoore)* Our goal in this paper and tutorial proposal is to preach to the unconverted rather than reinforce what some of us already know to be true - that lightweight languages and Python in particular are transformational and illuminate a path for the future of application design and delivery. We note with some concern that the emergence of the Java programming language as the \"COBOL of a new generation\" often clouds the thinking of system designers and developers. Too many designers and developers simply cannot think in terms of lightweight languages as the vehicle for delivering sophisticated and complete systems. This paper and presentation suggests a \"embrace and replace\" strategy for co-existing with languages such as Java with the eventual goal of replacing their functionality altogether.
 
 We conduct a survey of strategies for Python and Java co-existence with discussion and practical demonstration.
 
@@ -130,9 +130,9 @@ With packages such as Mathematica and [MatLab](./MatLab.html), scientists and en
 
 ## Dean W. Hall 
 
-**[PyMite](PyMite): A Flyweight Python Interpreter for 8-bit Architectures**
+**[PyMite](../../../people/PyMite): A Flyweight Python Interpreter for 8-bit Architectures**
 
-[PyMite](PyMite) is a flyweight Python interpreter written from scratch to execute on 8-bit microcontrollers. It is a work-in-progress, but is developed enough to run demonstration programs. This paper explains the motivation for creating [PyMite](PyMite) and gives an overview of what [PyMite](PyMite) can and cannot do. Then the current status and the work ahead are discussed. This is followed by details on the design and implementation of [PyMite](PyMite). Two new features are mentioned: *stackless* frames and embedded native code. Finally, information is given on how to obtain [PyMite](PyMite).
+[PyMite](../../../people/PyMite) is a flyweight Python interpreter written from scratch to execute on 8-bit microcontrollers. It is a work-in-progress, but is developed enough to run demonstration programs. This paper explains the motivation for creating [PyMite](../../../people/PyMite) and gives an overview of what [PyMite](../../../people/PyMite) can and cannot do. Then the current status and the work ahead are discussed. This is followed by details on the design and implementation of [PyMite](../../../people/PyMite). Two new features are mentioned: *stackless* frames and embedded native code. Finally, information is given on how to obtain [PyMite](../../../people/PyMite).
 
 ## Francesc Alted 
 
@@ -140,7 +140,7 @@ With packages such as Mathematica and [MatLab](./MatLab.html), scientists and en
 
 Processing large amounts of data is a must for people working in such fields of scientific applications as CFD (Computational Fluid Dynamics), Meteorology, Astronomy, Human Genomic Sequence or High Energy Physics, to name only a few. Existing relational or object-oriented databases usually are good solutions for applications in which multiple distributed clients need to access and update a large centrally managed database (e.g., a financial trading system). However, they are not optimally designed for efficient read-only database queries to pieces, or even single attributes, of objects, a requirement for processing data in many scientific fields such as the ones mentioned above.
 
-[PyTables](PyTables) is a Python package designed for this precise aim. Go to my [PyConFrancescAlted](PyConFrancescAlted) wiki page for a bit more detailed explanation on my talk.
+[PyTables](../../../people/PyTables) is a Python package designed for this precise aim. Go to my [PyConFrancescAlted](../PyConFrancescAlted) wiki page for a bit more detailed explanation on my talk.
 
 ## Francesco Garelli 
 
@@ -274,7 +274,7 @@ This 15-30 minute talk will explain the fundamentals of RDF and provide a brief 
 
 The usability of many web applications can be increased dramatically by putting into place a configuration framework: an end-user interface to an application\'s configuration which looks like the rest of the application. This makes the application easier to use, increasing the number of potential users, without making the developer\'s job more difficult.
 
-More information and a work log available at [PyConLeonardRichardson](PyConLeonardRichardson).
+More information and a work log available at [PyConLeonardRichardson](../PyConLeonardRichardson).
 
 ## Michael Bernstein 
 
@@ -294,7 +294,7 @@ Lore is currently in use by the Twisted project to generate its documentation fo
 
 ## Nathan Yergler & Vern Ceder 
 
-**Teaching Programming with Python and [PyGame](PyGame)**
+**Teaching Programming with Python and [PyGame](../../../multimedia/PyGame)**
 
 Abstract, paper, etc now available at [http://tech.canterburyschool.org/pycon](http://tech.canterburyschool.org/pycon)
 
@@ -308,7 +308,7 @@ In our advanced elective and our May-Term mini-course we wanted to introduce our
 
 **Building a Better Bug Detector**
 
-[PyChecker](PyChecker) started nearly two years ago as an experiment: was it possible to build a tool which could reliably detect bugs in Python code? Before implementing [PyChecker](PyChecker), I thought only a few bugs could be found and the experiment would ultimately show the difficulties in uncovering bugs. I was quite happy to be proved wrong. With nearly 100 unique warnings already implemented, many potential error conditions can be found. This paper will explore the design of [PyChecker](PyChecker), including current limitations and suggestions for alternate designs, to enable building a better bug detector.
+[PyChecker](../../../people/PyChecker) started nearly two years ago as an experiment: was it possible to build a tool which could reliably detect bugs in Python code? Before implementing [PyChecker](../../../people/PyChecker), I thought only a few bugs could be found and the experiment would ultimately show the difficulties in uncovering bugs. I was quite happy to be proved wrong. With nearly 100 unique warnings already implemented, many potential error conditions can be found. This paper will explore the design of [PyChecker](../../../people/PyChecker), including current limitations and suggestions for alternate designs, to enable building a better bug detector.
 
 ## Paul Swartz 
 
@@ -358,7 +358,7 @@ Python uses a single global lock known as the global interpreter lock (or GIL) t
 
 This paper presents POSH, which is an extension module to Python that attempts to address the problems associated with the GIL by enabling placement of Python objects in shared memory. In particular, POSH allows multiple processes to share objects in much the same way that threads do with standard Python objects. We have found that the use of POSH allows some applications to be structured as if they used threads, but without the GIL bottleneck.
 
-More information about this talk is available on [PyConSteffenVikenValvaag](PyConSteffenVikenValvaag).
+More information about this talk is available on [PyConSteffenVikenValvaag](../PyConSteffenVikenValvaag).
 
 ## Tom Bryan 
 
@@ -366,7 +366,7 @@ More information about this talk is available on [PyConSteffenVikenValvaag](PyCo
 
 This presentation will show you that starting to use a standard unit test framework is so easy that you have no excuse not to use it. I will present at least unittest, a module available as part of the standard Python library. I will define \"unit testing,\" explain the basic use of at least unittest, and try to give you a sense of what development is like when using unit tests. Depending on the audience, the talk will either be a sort of tutorial for using unittest and how to start incorporating unit testing into your development, or it will be a brief introduction to the unittest module followed by an extended discussion of practical issues of using unittest to test non-trivial classes.
 
-I will be providing more information about this talk on [PyConTomBryan](PyConTomBryan). If you\'d like to see what this talk will (may) be about, or if you\'d like to influence what I will be presenting, please see that page.
+I will be providing more information about this talk on [PyConTomBryan](../PyConTomBryan). If you\'d like to see what this talk will (may) be about, or if you\'d like to influence what I will be presenting, please see that page.
 
 ## Tom Olivier 
 

@@ -12,8 +12,8 @@ Links to pages that discuss how to do things.
 
 - [Future Threading](http://code.activestate.com/recipes/84317/): How to make using threads simple.
 
-- [UsingAssertionsEffectively](UsingAssertionsEffectively)
+- [UsingAssertionsEffectively](../archive/UsingAssertionsEffectively)
 
-- [WikiSpam](WikiSpam)
+- [WikiSpam](../people/WikiSpam)
 
 - [WikiTipOfTheDay](WikiTipOfTheDay)

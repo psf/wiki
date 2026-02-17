@@ -38,7 +38,7 @@ Codec modules will attach the `decode` method to the class definition derived fr
 
 ------------------------------------------------------------------------
 
-See also: [StreamWriter](StreamWriter), [StreamReaderWriter](StreamReaderWriter), [StreamRecoder](StreamRecoder).
+See also: [StreamWriter](StreamWriter), [StreamReaderWriter](../archive/StreamReaderWriter), [StreamRecoder](StreamRecoder).
 
 ------------------------------------------------------------------------
 

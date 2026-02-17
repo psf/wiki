@@ -28,6 +28,6 @@ It is very important to emphasize TDD is *not* a testing methodology; it is a *d
 
 - [UnitTests](UnitTests)
 
-- [CodeCoverage](CodeCoverage)
+- [CodeCoverage](../people/CodeCoverage)
 
-- [ContinuousIntegration](ContinuousIntegration)
+- [ContinuousIntegration](../people/ContinuousIntegration)

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Lightning Talks, at least at [EuroPython](EuroPython), are short (5 minutes) talks about any subject you fancy. This year we\'ll be having a session of Lightning Talks at the end of each day. Some relevance to Python or Zope or maybe just computers would be preferred, but is hardly essential! Many Lightning Talks will be arranged at the conference, but you can sign up for one in advance too.
+Lightning Talks, at least at [EuroPython](..), are short (5 minutes) talks about any subject you fancy. This year we\'ll be having a session of Lightning Talks at the end of each day. Some relevance to Python or Zope or maybe just computers would be preferred, but is hardly essential! Many Lightning Talks will be arranged at the conference, but you can sign up for one in advance too.
 
 Please note that giving a Lightning Talk does not qualify you for the reduced entry offered to speakers on other tracks. Also, experience suggests that trying to give a 30 minute talk in 5 minutes doesn\'t work \-- please plan accordingly!
 

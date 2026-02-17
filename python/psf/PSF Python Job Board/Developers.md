@@ -16,12 +16,12 @@ Team members with Django skills to help with improving the Django app:
 
 - [[DanielBorzecki](./DanielBorzecki.html)]
 
-- [MarcAndreLemburg](MarcAndreLemburg)
+- [MarcAndreLemburg](../../archive/MarcAndreLemburg)
 
 - [GregBack](./GregBack.html)
 
 - [[JonClements](./JonClements.html)]
 
-- [GilesThomas](GilesThomas)
+- [GilesThomas](../../people/GilesThomas)
 
-- [GopalNarayanan](GopalNarayanan)
+- [GopalNarayanan](../../people/GopalNarayanan)

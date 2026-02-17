@@ -15,7 +15,7 @@ Tools that support auto-documentation of code can be broadly classified into too
 
 See [here](../archive/API Extraction) for a longer explanation of the two concepts.
 
-Tools that generate documentation from user-provided input typically use plain text markup formats such as [reStructuredText](reStructuredText) (reST, the markup used for writing the official Python documentation) or [Markdown](http://daringfireball.net/projects/markdown/).
+Tools that generate documentation from user-provided input typically use plain text markup formats such as [reStructuredText](../archive/reStructuredText) (reST, the markup used for writing the official Python documentation) or [Markdown](http://daringfireball.net/projects/markdown/).
 
 ## Python docstrings 
 
@@ -44,9 +44,9 @@ The `help()`{.backtick} function uses Python\'s standard pydoc module, as does t
 
 # No longer under development 
 
-- Another [PythonDoc](./PythonDoc.html) - uses [JavaDoc](./JavaDoc.html)-style comments, and produces HTML and XML output. Can also be used as a library, producing [ElementTree](ElementTree) descriptions of your source code. [http://effbot.org/zone/pythondoc.htm](http://effbot.org/zone/pythondoc.htm)
+- Another [PythonDoc](./PythonDoc.html) - uses [JavaDoc](./JavaDoc.html)-style comments, and produces HTML and XML output. Can also be used as a library, producing [ElementTree](../people/ElementTree) descriptions of your source code. [http://effbot.org/zone/pythondoc.htm](http://effbot.org/zone/pythondoc.htm)
 
-- [EpyDoc](EpyDoc), [http://epydoc.sourceforge.net/](http://epydoc.sourceforge.net/)
+- [EpyDoc](../people/EpyDoc), [http://epydoc.sourceforge.net/](http://epydoc.sourceforge.net/)
 
 - [Endo](https://svn.enthought.com/enthought/wiki/EndoHowTo) from Enthought Tool Suite - generates HTML API documentation from docstrings and from plain comments that immediately precede variable assignments.
 
@@ -56,13 +56,13 @@ The `help()`{.backtick} function uses Python\'s standard pydoc module, as does t
 
 - [EasyDoc](./EasyDoc.html) - uses an HTML-like markup language, similar to the language used by [JavaDoc;](http://c2.com/cgi/wiki?JavaDoc%3B "Wiki") and produces HTML output ([http://htmltmpl.sourceforge.net/easydoc.html](http://htmltmpl.sourceforge.net/easydoc.html))
 
-- [PythonDoc](./PythonDoc.html) - uses [StructuredText](StructuredText) input format (*not* reST), and can produce HTML and XML output. It uses XML as an intermediate representation, to simplify the addition of new output formats. [http://starship.python.net/crew/danilo/pythondoc/](http://starship.python.net/crew/danilo/pythondoc/)
+- [PythonDoc](./PythonDoc.html) - uses [StructuredText](../language/StructuredText) input format (*not* reST), and can produce HTML and XML output. It uses XML as an intermediate representation, to simplify the addition of new output formats. [http://starship.python.net/crew/danilo/pythondoc/](http://starship.python.net/crew/danilo/pythondoc/)
 
 - Apydia, [http://apydia.ematia.de/](http://apydia.ematia.de/)
 
 ## Documentation processing tools 
 
-- [DocUtils](DocUtils), [http://docutils.sourceforge.net/](http://docutils.sourceforge.net/) [reStructuredText](reStructuredText) processing engine
+- [DocUtils](DocUtils), [http://docutils.sourceforge.net/](http://docutils.sourceforge.net/) [reStructuredText](../archive/reStructuredText) processing engine
 
 - [Sphinx](Sphinx), [https://www.sphinx-doc.org/](https://www.sphinx-doc.org/) - converts reStructuredText documentation into various formats
 

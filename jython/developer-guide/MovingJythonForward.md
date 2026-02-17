@@ -18,7 +18,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ***Proposal Submitted to Python Software Foundation***
 
-Fall 2004 [BrianZimmer](BrianZimmer)
+Fall 2004 [BrianZimmer](../people/BrianZimmer)
 
 ## Abstract 
 

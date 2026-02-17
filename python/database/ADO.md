@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # ADO 
 
-ADO is a Microsoft high-level interface to databases on Windows. It usually stacks up on top of an [ODBC](ODBC) driver.
+ADO is a Microsoft high-level interface to databases on Windows. It usually stacks up on top of an [ODBC](../archive/ODBC) driver.
 
 ## DB API 2.0 Drivers 
 

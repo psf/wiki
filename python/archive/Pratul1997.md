@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - As a Fitness Enthusiast, he has a crush for Squash.
 
-- As a co-organiser of [PyJaipur](PyJaipur) community with more than 1.3k developers in the community, he is acting as community leader successfully organizing 7 meetups, 1 Hackathon, 2 Bootcamps, 1 #100DaysOfCode.
+- As a co-organiser of [PyJaipur](../people/PyJaipur) community with more than 1.3k developers in the community, he is acting as community leader successfully organizing 7 meetups, 1 Hackathon, 2 Bootcamps, 1 #100DaysOfCode.
 
 You can find him anywhere on the web using **Pratul1997** as username.
 

@@ -76,4 +76,4 @@ Since java **does** have support for thread-local variables (see [java.lang.Thre
 
 However, until that is the case, the above solution will be fully functional, if slightly slower. When a native implementation becomes available, no code-changes will be necessary, unless perhaps to tidy up the imports.
 
-[AlanKennedy](AlanKennedy)
+[AlanKennedy](../people/AlanKennedy)

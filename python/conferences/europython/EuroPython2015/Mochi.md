@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Mochi Sprint at EuroPython 2015 
 
-[Mochi](https://github.com/i2y/mochi) is a new functional language that is written in Python 3 and compiles down to Python 3. It provides interesting functional feature while keeping two-way compatability with Python 3 (CPython and [PyPy](PyPy)). There was a [talk](https://ep2015.europython.eu/conference/talks/functional-python-with-mochi) about Mochi at [EuroPython](EuroPython) 2015. The [talk slides](http://www.python-academy.com/talks/europython2015/Functional%20Python%20with%20Mochi.slides.html) and the [video](https://www.youtube.com/watch?v=Pv7Whze78ac) (start at 2:20:30) give more details.
+[Mochi](https://github.com/i2y/mochi) is a new functional language that is written in Python 3 and compiles down to Python 3. It provides interesting functional feature while keeping two-way compatability with Python 3 (CPython and [PyPy](../../../implementations/PyPy)). There was a [talk](https://ep2015.europython.eu/conference/talks/functional-python-with-mochi) about Mochi at [EuroPython](../EuroPython) 2015. The [talk slides](http://www.python-academy.com/talks/europython2015/Functional%20Python%20with%20Mochi.slides.html) and the [video](https://www.youtube.com/watch?v=Pv7Whze78ac) (start at 2:20:30) give more details.
 
 ## Potential Sprint Topics 
 

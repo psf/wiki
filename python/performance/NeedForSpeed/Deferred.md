@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-- Expose/develop pre-allocation arguments/methods for dict/list? API? [RichardJones](RichardJones) evaluated changes, but disapoointingly found that little or no speed advantage could be gained by preallocation of large structures!
+- Expose/develop pre-allocation arguments/methods for dict/list? API? [RichardJones](../../people/RichardJones) evaluated changes, but disapoointingly found that little or no speed advantage could be gained by preallocation of large structures!
 
 - Evaluate the PEPs for optimizing global and attribute lookups
   - [PEP 266](http://www.python.org/dev/peps/pep-0266/), [PEP 267](http://www.python.org/dev/peps/pep-0267/), and [PEP 280](http://www.python.org/dev/peps/pep-0280/) [JackDiederich](./JackDiederich.html) suggests that these changes would be too radical to be incorporated during the sprint.

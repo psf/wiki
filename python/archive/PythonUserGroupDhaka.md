@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Python User Group Dhaka was started in February 2025 by [Tamal Anwar Chowdhury](TamalChowdhury) and many other Python enthusiasts. The group runs monthly meetups every 15th of a calendar month. The group\'s main communication channel is [Facebook Group](https://www.facebook.com/groups/pythondhaka).
+Python User Group Dhaka was started in February 2025 by [Tamal Anwar Chowdhury](../people/TamalChowdhury) and many other Python enthusiasts. The group runs monthly meetups every 15th of a calendar month. The group\'s main communication channel is [Facebook Group](https://www.facebook.com/groups/pythondhaka).
 
 ## First Meetup 
 

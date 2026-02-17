@@ -22,7 +22,7 @@ Suggestions that involve working on various third-party libraries that aren\'t p
 
   - These are Python-level cross-toolkit compatibility libraries for GUI work. Currently there is a \"live\" project called [Cimarron](http://developer.berlios.de/projects/cimarron/) along these lines. (PyGUI is not a dead project, however Anygui is)
 
-- [NotebookInterfaceForIpython](NotebookInterfaceForIpython)
+- [NotebookInterfaceForIpython](../../archive/NotebookInterfaceForIpython)
 
 - [../PygameOnCtypes](PygameOnCtypes)
 
@@ -46,7 +46,7 @@ Suggestions that involve working on various third-party libraries that aren\'t p
 
 - Implement [IEEE Std 802.1X](http://www.ieee802.org/1/pages/802.1x.html) Authenticator for wired networks,with one of the low-level python networking libraries: [scapy](http://www.secdev.org/projects/scapy/),[http://twistedmatrix.comTwisted.Pair](http://twistedmatrix.comTwisted.Pair),[pycap](http://pycap.sourceforge.net/) or maybe something else.Probably some python firewall bindings will be needed too.
 
-- [PyGame](PyGame) Projects
+- [PyGame](../../multimedia/PyGame) Projects
 
   - Implement [CodingProjectIdeas/PygameOnCtypes](PygameOnCtypes)
 
@@ -62,7 +62,7 @@ Suggestions that involve working on various third-party libraries that aren\'t p
 
 - Implement a pure python library that handles unicode [CLDR](http://www.unicode.org/cldr/). (like ICU?)
 
-- Take an existing set of sources for [M2Crypto](M2Crypto) and build a robust distribution from it. This should include comprehensive API documentation, a full test suite, and providing a better Python interface, not just a light wrapper around openssl, for many of the functions like X.509 certificates that are not currently exposed.
+- Take an existing set of sources for [M2Crypto](../../archive/M2Crypto) and build a robust distribution from it. This should include comprehensive API documentation, a full test suite, and providing a better Python interface, not just a light wrapper around openssl, for many of the functions like X.509 certificates that are not currently exposed.
 
 - Work on [SAGE](http://sage.scipy.org/sage/), which is a Python-based free open source computer algebra system. SAGE is the algebraic analogue of [scipy](http://www.scipy.org)\-\--it incorporates and \"glues together\" a wide range of existing open-source mathematics packages such as Maxima, Matplotlib, and GAP. Here\'s a [list of projects](http://sage.scipy.org/sage/projects) and an [email contact](mailto:wstein@gmail.com).
 
@@ -103,7 +103,7 @@ Suggestions that involve working on various third-party libraries that aren\'t p
 
 - Choose some common modules and [eggsify](http://peak.telecommunity.com/DevCenter/PythonEggs) them; write about it to promote more eggsification
 
-- Extend the [CodeCoverage](CodeCoverage) module to extend into os.fork() and os.exec(\'python\') calls. Fix Nose to facilitate this.
+- Extend the [CodeCoverage](../../people/CodeCoverage) module to extend into os.fork() and os.exec(\'python\') calls. Fix Nose to facilitate this.
 
 - Write a [scipy](http://www.scipy.org) module that implements black-box, [automatic random number generation](http://statistik.wu-wien.ac.at/projects/arvag/index.html) algorithms for the numerous probability distributions defined in [scipy.stats](http://www.scipy.org/doc/api_docs/scipy.stats.distributions.html) ([contact](mailto:robert.kern@enthought.com)).
 

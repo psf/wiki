@@ -60,7 +60,7 @@ Fwd: Removal of GIL through refcounting removal.
 
 ------------------------------------------------------------------------
 
-Yet Another Attempt At Removing The GIL was proposed, and had a more positive reception than most of the times it has been brought up (in my memory). While the removal of the GIL has been both proposed and successfully attempted in the past, there have always been outstanding issues that keep the lock around. One of the primary issues is that of the C API and extension modules, which all expect reference counting. A technique used in [IronClad](./IronClad.html), a project that provides use of CPython extensions in the [IronPython](IronPython) implementation of the language, was suggested to provide reference counting semantics to legacy extensions, even if the internal objects no longer require them.
+Yet Another Attempt At Removing The GIL was proposed, and had a more positive reception than most of the times it has been brought up (in my memory). While the removal of the GIL has been both proposed and successfully attempted in the past, there have always been outstanding issues that keep the lock around. One of the primary issues is that of the C API and extension modules, which all expect reference counting. A technique used in [IronClad](./IronClad.html), a project that provides use of CPython extensions in the [IronPython](../../../../implementations/IronPython) implementation of the language, was suggested to provide reference counting semantics to legacy extensions, even if the internal objects no longer require them.
 
 Contributing thread:
 

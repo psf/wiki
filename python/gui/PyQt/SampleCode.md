@@ -158,7 +158,7 @@ This page contains links to some useful code snippets. Longer, more detailed cod
 
 ## PyQt 3 
 
-*Note: [PyQt](PyQt) 3 examples were not transferred from the old PyQt Wiki.*
+*Note: [PyQt]() 3 examples were not transferred from the old PyQt Wiki.*
 
 - [CustomListViewItems](./CustomListViewItems.html): How to customize the painting of list view items. (Qt 3)
 
@@ -168,11 +168,11 @@ This page contains links to some useful code snippets. Longer, more detailed cod
 
 - [CreatingMdiApplications](./CreatingMdiApplications.html): Some links and pointers for MDI development. (Qt 3)
 
-- [Wrapper_For_QWidgetFactory](./Wrapper_For_QWidgetFactory.html): How to set up the slot connections automatically in [PyQt](PyQt). (Qt 3)
+- [Wrapper_For_QWidgetFactory](./Wrapper_For_QWidgetFactory.html): How to set up the slot connections automatically in [PyQt](). (Qt 3)
 
 - [LoadingUIFilesAtRuntime](./LoadingUIFilesAtRuntime.html): How to load classes (as opposed to instances) directly from UI files, at runtime. (Qt 3)
 
-- [SimpleQScintillaExample](./SimpleQScintillaExample.html): a simple demonstration of QScintilla use with [PyQt](PyQt). (Qt 3)
+- [SimpleQScintillaExample](./SimpleQScintillaExample.html): a simple demonstration of QScintilla use with [PyQt](). (Qt 3)
 
 - [SignalDecorator](./SignalDecorator.html): a decorator that provides the signal signature for a method. (Qt 3)
 

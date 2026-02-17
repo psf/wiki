@@ -20,11 +20,11 @@ Location: not yet set; perhaps in the Addison room.
 
 ## Attendees 
 
-- [AndrewKuchling](AndrewKuchling) (Chair, [PyCon](PyCon) 2006, 2007?)
+- [AndrewKuchling](../../people/AndrewKuchling) (Chair, [PyCon](PyCon) 2006, 2007?)
 
-- [SteveHolden](SteveHolden) (Sponsorship Coordinator, [PyCon](PyCon) 2006)
+- [SteveHolden](../../people/SteveHolden) (Sponsorship Coordinator, [PyCon](PyCon) 2006)
 
-- [DavidGoodger](DavidGoodger)
+- [DavidGoodger](../../people/DavidGoodger)
 
 ## Notes 
 

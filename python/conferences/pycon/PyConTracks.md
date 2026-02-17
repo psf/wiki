@@ -13,11 +13,11 @@ WORK IN PROGRESS, NOT OFFICIAL
 - Python Core
   - Stackless 3.0 Traits
 
-    [PyMite](PyMite) Boost UCPy
+    [PyMite](../../people/PyMite) Boost UCPy
 - Newbies
   - Threads Tutorial, Aahz (1 hour) Objects vs. Classes, Aahz (1 hour)
 
-    [PyChecker](PyChecker) Lightning (15min)
+    [PyChecker](../../people/PyChecker) Lightning (15min)
 - Applications
   - Stackless applications ZConfig Twisted Reality
 - Web and XML
@@ -33,11 +33,11 @@ WORK IN PROGRESS, NOT OFFICIAL
 
   - NET wrapper (Kobra) - maybe lightning talk Managing Releasse of Large Projects Rapid Development POSH Smoke
 
-    [BuildBot](BuildBot)
+    [BuildBot](../../infrastructure/BuildBot)
 - Success Stories
   - CONVERTING A LARGE C PROGRAM Subversion from within
 
-    Teaching with [PyGame](PyGame) HALL
+    Teaching with [PyGame](../../multimedia/PyGame) HALL
 - Lightning Talks/Tutorials
   - ReST Prevayler Semantic Web Faceted Classification Solution Twisted Lore doc system Twisted SSH Py in Edu (Wesley Chun) Py in Medicine (Wesley Chun)
 - \"Show us the code\":

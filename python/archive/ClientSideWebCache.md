@@ -41,7 +41,7 @@ Some info for would-be cachers:
 
 - [urllib.urlretrieve](http://www.python.org/doc/current/lib/module-urllib.html) - performs some of what we want, though you have to do a lot of maintenance yourself
 
-\-- [LionKimbro](LionKimbro) 2005-03-29 06:45:28
+\-- [LionKimbro](../people/LionKimbro) 2005-03-29 06:45:28
 
 ## Primitive Example 
 

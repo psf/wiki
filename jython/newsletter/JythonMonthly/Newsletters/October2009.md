@@ -49,7 +49,7 @@ Visit Site: [http://code.google.com/p/django-jython/](http://code.google.com/p/d
 
 **Websphere Application Server Administration Using Jython Has Been Published!**
 
-This book's expert authors begin with practical introductions to both [WebSphere](WebSphere) Application Server administration and Jython, today's powerful, Java implementation of Python. Next, they cover a broad spectrum of [WebSphere](WebSphere) management tasks and techniques, presenting real, easy-to-adapt solutions for everything from server configuration and security to database management. These are powerful solutions you can begin using immediately--whether you're running [WebSphere](WebSphere) in production, development, or test environments.
+This book's expert authors begin with practical introductions to both [WebSphere](../../../user-guide/WebSphere) Application Server administration and Jython, today's powerful, Java implementation of Python. Next, they cover a broad spectrum of [WebSphere](../../../user-guide/WebSphere) management tasks and techniques, presenting real, easy-to-adapt solutions for everything from server configuration and security to database management. These are powerful solutions you can begin using immediately--whether you're running [WebSphere](../../../user-guide/WebSphere) in production, development, or test environments.
 
 View Book Information: [http://www.informit.com/store/product.aspx?isbn=0137043740](http://www.informit.com/store/product.aspx?isbn=0137043740)
 

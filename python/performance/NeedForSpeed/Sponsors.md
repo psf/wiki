@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The [NeedForSpeed](NeedForSpeed) sprint is being sponsored by two organizations, both of whom were also sponsors of [PyCon](PyCon) DC 2006 in Addison, TX. Both companies see Python\'s superiority as a strategic advantage in their markets, and therefore have commercial interests in improving the language\'s performance. Both companies are far-sighted enough to believe that open contributions to open source projects are the most effective way to reach their performance goals.
+The [NeedForSpeed]() sprint is being sponsored by two organizations, both of whom were also sponsors of [PyCon](../../conferences/pycon/PyCon) DC 2006 in Addison, TX. Both companies see Python\'s superiority as a strategic advantage in their markets, and therefore have commercial interests in improving the language\'s performance. Both companies are far-sighted enough to believe that open contributions to open source projects are the most effective way to reach their performance goals.
 
 EWT, LLC is a proprietary securities trading company formed to capitalize on the shift of the securities industry in the United States and abroad towards electronic trading platforms. EWT\'s trading systems combine trading expertise and algorithmic models to produce technologies that provide superior trading performance for a broad range of securities.
 

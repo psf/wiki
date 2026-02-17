@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Getting the version numbers of Qt, SIP and PyQt 
 
-When you report a bug in PyQt you need to supply information about the configuration you are using, including the versions of the Qt library, SIP and [PyQt](PyQt) modules. The following code should help.
+When you report a bug in PyQt you need to supply information about the configuration you are using, including the versions of the Qt library, SIP and [PyQt]() modules. The following code should help.
 
 :::: 
 ::: 
@@ -24,7 +24,7 @@ When you report a bug in PyQt you need to supply information about the configura
 :::
 ::::
 
-Note that the pyqtconfig module is deprecated in [PyQt](PyQt) 4.10. See [http://pyqt.sourceforge.net/Docs/PyQt4/build_system.html](http://pyqt.sourceforge.net/Docs/PyQt4/build_system.html) for more details. If you are unable to import pyqtconfig (for example when using Riverbank\'s packaged binaries) you can use the following:
+Note that the pyqtconfig module is deprecated in [PyQt]() 4.10. See [http://pyqt.sourceforge.net/Docs/PyQt4/build_system.html](http://pyqt.sourceforge.net/Docs/PyQt4/build_system.html) for more details. If you are unable to import pyqtconfig (for example when using Riverbank\'s packaged binaries) you can use the following:
 
 :::: 
 ::: 
@@ -40,4 +40,4 @@ Note that the pyqtconfig module is deprecated in [PyQt](PyQt) 4.10. See [http://
 :::
 ::::
 
-For [PyQt5](./PyQt5.html) getting the version is the same as in the last example above, just exchange [PyQt4](PyQt4) for [PyQt5](./PyQt5.html)
+For [PyQt5](./PyQt5.html) getting the version is the same as in the last example above, just exchange [PyQt4](../PyQt4) for [PyQt5](./PyQt5.html)

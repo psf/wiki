@@ -8,6 +8,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Augmented Web Browser 
 
-The [augmented.py](attachments/PyQt(2f)Augmented(20)Web(20)Browser/augmented.py) example was written for [PyCon](PyCon) Tre ([PyCon](PyCon) Italia 2009) in Firenze.
+The [augmented.py](attachments/PyQt(2f)Augmented(20)Web(20)Browser/augmented.py) example was written for [PyCon](../../conferences/pycon/PyCon) Tre ([PyCon](../../conferences/pycon/PyCon) Italia 2009) in Firenze.
 
 A video showing the example in action can be seen [on YouTube](http://www.youtube.com/watch?v=ccwVDvSrPys).

@@ -20,7 +20,7 @@ Part of that is knowing the terms you often hear on the lists, both what it stan
 
 - TSTTCPW (the simplest thing that could possibly work)
 
-- (drat - at some previous [PyCon](PyCon) someone put up list of such
+- (drat - at some previous [PyCon](../conferences/pycon/PyCon) someone put up list of such
 
   - acronyms, and I can\'t remember them)
 

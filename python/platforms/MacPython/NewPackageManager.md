@@ -48,9 +48,9 @@ I think that we can deprecate the REQUIRES and PROVIDES files by adding Depends,
 
 - Needs extra metadata from PKG-INFO (PEP-241 extension)
 
-- Must work without mandatory crypto support see commentary started by [MichaelHudson](MichaelHudson)
+- Must work without mandatory crypto support see commentary started by [MichaelHudson](../../people/MichaelHudson)
 
-- Should use hashes to be as secure as possible without crypto, where hashes of the [PackMan](./PackMan.html) database should be available at 3rd party sites (i.e. \"I Jack Jansen, trust that Bob\'s repository has a SHA-1 hash of \.....\") see \"check integrity\" comments by [JackJansen](JackJansen)
+- Should use hashes to be as secure as possible without crypto, where hashes of the [PackMan](./PackMan.html) database should be available at 3rd party sites (i.e. \"I Jack Jansen, trust that Bob\'s repository has a SHA-1 hash of \.....\") see \"check integrity\" comments by [JackJansen](../../people/JackJansen)
 
 - Should leverage SSL certificates (when assigned by a trusted CA) whenever possible
 
@@ -90,7 +90,7 @@ I think that we can deprecate the REQUIRES and PROVIDES files by adding Depends,
 
 - Try not to import modules to check versions
 
-- [../PyObjC](PyObjC) implementation would be awesome, should also do [WxPython](WxPython) implementation for win32?
+- [../PyObjC](PyObjC) implementation would be awesome, should also do [WxPython](../../gui/WxPython) implementation for win32?
 
 - Allow user to install from local files (downloaded binary packages or source packages themselves)
 

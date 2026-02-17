@@ -14,7 +14,7 @@ Email: naomi.ceder AT gmail DOT com
 
 Web: [http://learnpython.wordpress.com](http://learnpython.wordpress.com)
 
-Creator of the Pycon US Poster session and the [PyCon](PyCon) UK Poster Session, co-founder of [Trans\*Code](http://trans-code.org), [PyCon Education Summit](EducationSummit) organizer
+Creator of the Pycon US Poster session and the [PyCon](../conferences/pycon/PyCon) UK Poster Session, co-founder of [Trans\*Code](http://trans-code.org), [PyCon Education Summit](../education/EducationSummit) organizer
 
 Member & vice chair of PSF board of directors for 2015-2017.
 

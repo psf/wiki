@@ -18,9 +18,9 @@ Are mostly on [freenode](http://freenode.net) IRC network:
 
 ## Facts 
 
-- There is no cross-platform IRC client written in Python (or at least I don\'t know any \-- [techtonik](techtonik) 2011-03-25 02:38:43)
+- There is no cross-platform IRC client written in Python (or at least I don\'t know any \-- [techtonik](../archive/techtonik) 2011-03-25 02:38:43)
 
-  - But it is easy to write one in Twisted (but I don\'t know how \-- [techtonik](techtonik) 2011-03-25 02:38:43)
+  - But it is easy to write one in Twisted (but I don\'t know how \-- [techtonik](../archive/techtonik) 2011-03-25 02:38:43)
 
   - But there is still no cross-platform support for console UI in Python
 

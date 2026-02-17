@@ -49,7 +49,7 @@ The marketing workgroup will strive to:
 
 ### Merchandise 
 
-- [Merchandise](Merchandise)
+- [Merchandise](../marketing/Merchandise)
 
 ### Marketing Strategies 
 

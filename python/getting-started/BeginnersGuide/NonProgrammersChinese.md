@@ -72,7 +72,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [PythonTurtle](http://pythonturtle.org) 适合初学者和孩子的Python学习环境，受Logo语言启发而设计。主要面向儿童，但成人也可以用它来入门。
 
-- [Young Coders tutorial](http://www.letslearnpython.com/learn/) 历年来[PyCon](PyCon)北美的完整教程，贯穿实例与练习。以基本编程技能开始教程，随后介绍复杂逻辑和游戏。适用于10岁以上儿童及成人初学者。
+- [Young Coders tutorial](http://www.letslearnpython.com/learn/) 历年来[PyCon](../../conferences/pycon/PyCon)北美的完整教程，贯穿实例与练习。以基本编程技能开始教程，随后介绍复杂逻辑和游戏。适用于10岁以上儿童及成人初学者。
 
 ## 教程网站 
 
@@ -132,7 +132,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 下列网站面向科学课程编写，但有足够的通用性以便大家都能学习。
 
-- [生物信息学Python学习入门](http://www.onlamp.com/pub/a/python/2002/10/17/biopython.html) 作者 Patrick O\'Brien. 面向生物学者介绍[PyCrust](PyCrust)环境和基本的Python数据类型
+- [生物信息学Python学习入门](http://www.onlamp.com/pub/a/python/2002/10/17/biopython.html) 作者 Patrick O\'Brien. 面向生物学者介绍[PyCrust](../../people/PyCrust)环境和基本的Python数据类型
 
 - [Python数值理论](http://illustratedtheoryofnumbers.com/prog.html) 一系列的Python notebooks（Jupyter）围绕着数值理论和密码学。教程假设读者没有编程经验，所以很适合同时学习基础的数值理论,同时包括了基本的密码学介绍 (Diffie-Hellman, RSA).
 
@@ -152,7 +152,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [Python邮件教程 - 请只添加免费资源]
 
-- [Finxter 邮件计算机学院](https://blog.finxter.com/email-academy/): 20+ 免费Python及计算机科学邮件视频课程。 **内容**: 速览，Python基础，数据结构，[NumPy](NumPy)，数据科学，职业发展，编码效率和机器学习
+- [Finxter 邮件计算机学院](https://blog.finxter.com/email-academy/): 20+ 免费Python及计算机科学邮件视频课程。 **内容**: 速览，Python基础，数据结构，[NumPy](../../science/NumPy)，数据科学，职业发展，编码效率和机器学习
 
 ## 工具 
 

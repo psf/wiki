@@ -8,6 +8,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 A fine granular distribution cross compiled for arm-linux based machines, e.g. PDAs.
 
-Used by the [OpenZaurus](./OpenZaurus.html), [OpenEmbedded](OpenEmbedded), [OpenSimpad](./OpenSimpad.html) and Opie projects.
+Used by the [OpenZaurus](./OpenZaurus.html), [OpenEmbedded](../people/OpenEmbedded), [OpenSimpad](./OpenSimpad.html) and Opie projects.
 
 Link: [http://www.Vanille.de/projects/python.spy](http://www.Vanille.de/projects/python.spy)

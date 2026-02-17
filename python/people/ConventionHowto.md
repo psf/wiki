@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Rough checklist for running [PyCon](PyCon)-style conventions.
+Rough checklist for running [PyCon](../conferences/pycon/PyCon)-style conventions.
 
-This table intends to list every single step required to plan and carry out a conference. *Do not remove items* from this list, because this isn\'t the to-do list for any particular year; the list of remaining tasks for a specific conference such as [PyCon](PyCon) 2006 would be on other pages. Do feel free to *add* any tasks that you think of.
+This table intends to list every single step required to plan and carry out a conference. *Do not remove items* from this list, because this isn\'t the to-do list for any particular year; the list of remaining tasks for a specific conference such as [PyCon](../conferences/pycon/PyCon) 2006 would be on other pages. Do feel free to *add* any tasks that you think of.
 
 The dates are given in terms of time before the conference. Larger conferences need lots of preparation time, and a smaller event can probably compress the timeline significantly.
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Alan Kennedy is a current jython committer, and has contributed
 
-1.  A [NewSocketModule](NewSocketModule) with support for
+1.  A [NewSocketModule](../modules/NewSocketModule) with support for
 
     - Timeout and non-blocking operations
     - UDP / Datagrams
@@ -17,7 +17,7 @@ Alan Kennedy is a current jython committer, and has contributed
     - Internet Protocol V6 (IPV6)
     - Internationalized Domain Names for Applications (IDNA)
 
-2.  A [SelectModule](SelectModule) with
+2.  A [SelectModule](../modules/SelectModule) with
 
     - Support for the select function
     - Support for poll objects

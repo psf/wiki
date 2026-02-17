@@ -32,31 +32,31 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PyCon India 
 
-- [PyConIndiaSpeakerNotes](PyConIndiaSpeakerNotes)
+- [PyConIndiaSpeakerNotes](../conferences/pycon/PyConIndiaSpeakerNotes)
 
-- [PyConIndiaBidRequirements](PyConIndiaBidRequirements)
+- [PyConIndiaBidRequirements](../conferences/pycon/PyConIndiaBidRequirements)
 
-- [PyConIndiaTShirt](PyConIndiaTShirt)
+- [PyConIndiaTShirt](../conferences/pycon/PyConIndiaTShirt)
 
-- [PyConIndiaVolunteers](PyConIndiaVolunteers)
+- [PyConIndiaVolunteers](../conferences/pycon/PyConIndiaVolunteers)
 
-- [PyConIndiaLogos](PyConIndiaLogos)
+- [PyConIndiaLogos](../conferences/pycon/PyConIndiaLogos)
 
 - [PyConIndiaPublicity](./PyConIndiaPublicity.html)
 
-- [PyConIndiaCallForProposals](PyConIndiaCallForProposals)
+- [PyConIndiaCallForProposals](../conferences/pycon/PyConIndiaCallForProposals)
 
 - [PyConIN_Sponsors](http://wiki.python.org/moin/PyConIN_Sponsors)
 
-- [PyConIndiaInvitation](PyConIndiaInvitation)
+- [PyConIndiaInvitation](../conferences/pycon/PyConIndiaInvitation)
 
-- [PyConIndiaAccommodation](PyConIndiaAccommodation)
+- [PyConIndiaAccommodation](../conferences/pycon/PyConIndiaAccommodation)
 
-- [PyConIndiaFlyer](PyConIndiaFlyer)
+- [PyConIndiaFlyer](../conferences/pycon/PyConIndiaFlyer)
 
 ## Ideation 
 
-- [ProposalForPyConIndia](ProposalForPyConIndia)
+- [ProposalForPyConIndia](../archive/ProposalForPyConIndia)
 
 # Meetings 
 

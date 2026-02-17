@@ -233,7 +233,7 @@ Unfortunately there does not appear to be a well-maintained single point of entr
 
 - Should `__cmp__`{.backtick} (and possibly `cmp()`{.backtick}) be removed? [\[8](./Python3(2e)0.html#h)\]
 
-  - Reason: [TOOWTDI](TOOWTDI) and rich comparisons are another way.
+  - Reason: [TOOWTDI](../archive/TOOWTDI) and rich comparisons are another way.
 
 - Should list comprehensions be equivalent to passing a generator expression to `list()`{.backtick}?
 
@@ -265,7 +265,7 @@ Unfortunately there does not appear to be a well-maintained single point of entr
 
 - \[3\] PEP 4 \-- Deprecation of Standard Modules: [http://python.org/peps/pep-0004.html](http://python.org/peps/pep-0004.html)
 
-- \[4\] [PyCon](PyCon) 2003 State of the Union Address: [http://www.python.org/doc/essays/ppt/pycon2003/pycon2003.ppt](http://www.python.org/doc/essays/ppt/pycon2003/pycon2003.ppt)
+- \[4\] [PyCon](../conferences/pycon/PyCon) 2003 State of the Union Address: [http://www.python.org/doc/essays/ppt/pycon2003/pycon2003.ppt](http://www.python.org/doc/essays/ppt/pycon2003/pycon2003.ppt)
 
 - \[5\] PEP 3000 \-- Python 3.0 Plans: [http://python.org/peps/pep-3000.html](http://python.org/peps/pep-3000.html)
 
@@ -285,7 +285,7 @@ Unfortunately there does not appear to be a well-maintained single point of entr
 
 - \[11\] PEP 8 \-- Style Guide for Python Code: [http://python.org/peps/pep-0008.html](http://python.org/peps/pep-0008.html)
 
-- \[12\] [PythonThreeDotOh](PythonThreeDotOh)
+- \[12\] [PythonThreeDotOh](../archive/PythonThreeDotOh)
 
 - \[13\] PEP 332 \-- Byte vectors and String/Unicode Unification: [http://python.org/peps/pep-0332.html](http://python.org/peps/pep-0332.html)
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Open Spaces at PyOhio 
 
-[Open Spaces](http://www.co-intelligence.org/P-Openspace.html) are set aside at [PyOhio](PyOhio) (and [PyCon](http://us.pycon.org), and many similar conferences) for attendees to create their own creative content on the fly. [PyOhio](PyOhio) will have 1-3 rooms available for Open Space use throughout the day; some of them will have overhead projectors.
+[Open Spaces](http://www.co-intelligence.org/P-Openspace.html) are set aside at [PyOhio]() (and [PyCon](http://us.pycon.org), and many similar conferences) for attendees to create their own creative content on the fly. [PyOhio]() will have 1-3 rooms available for Open Space use throughout the day; some of them will have overhead projectors.
 
 ## What can you do with Open Spaces? 
 
@@ -32,7 +32,7 @@ You can! You don\'t need a detailed plan, and you don\'t need anybody\'s approva
 
 ## How do I schedule an Open Space? 
 
-There will be a large posterboard at [PyOhio](PyOhio) used for Open Space scheduling, with slots representing each available room for each time slot. Take an index card (they\'ll be provided), write down a topic and your name, and stick it to the board. Show up and see what happens!
+There will be a large posterboard at [PyOhio]() used for Open Space scheduling, with slots representing each available room for each time slot. Take an index card (they\'ll be provided), write down a topic and your name, and stick it to the board. Show up and see what happens!
 
 Optionally, if you have a specific idea for an Open Space in mind ahead of time, you may propose it on this page (edit the page by clicking the word-balloon-shaped icon at the upper right of this page) by putting the topic name, your name, and any notes you want to add. That gives people a chance to work up some enthusiasm and ideas in advance. If you like, you show that enthusiasm by listing your own name here under the organizer\'s.
 

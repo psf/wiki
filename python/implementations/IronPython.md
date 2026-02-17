@@ -22,7 +22,7 @@ Reasons that CPython programmers might be interested in IronPython include:
 
 - Corporate credibility (introducing new technologies can be very difficult in some companies, if .NET is already established then you may need no excuse to start using IronPython)
 
-- No [GlobalInterpreterLock](GlobalInterpreterLock) - IronPython has *no GIL* and multi-threaded code can use multi core processors
+- No [GlobalInterpreterLock](../archive/GlobalInterpreterLock) - IronPython has *no GIL* and multi-threaded code can use multi core processors
 
 - The .NET framework library is *very big*. Particularly the user interface library Windows Forms is very good.
 
@@ -56,4 +56,4 @@ Some other Python-like languages for .NET and Mono include:
 
 ------------------------------------------------------------------------
 
-See also: [PythonAndParrot](PythonAndParrot), [LoGix](LoGix), IronPython IDE
+See also: [PythonAndParrot](../archive/PythonAndParrot), [LoGix](../people/LoGix), IronPython IDE

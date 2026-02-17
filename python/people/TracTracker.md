@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Trac as an issue tracker for Python 
 
-[CallForTrackers](CallForTrackers)
+[CallForTrackers](../infrastructure/CallForTrackers)
 
 Check out the full status at [here](http://python-trac.swapoff.org/wiki/PythonTrackerStatus).
 

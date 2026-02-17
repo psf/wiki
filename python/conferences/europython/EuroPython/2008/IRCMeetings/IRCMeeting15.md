@@ -37,7 +37,7 @@ David, Jacob, John, Laura, Lennart, Samuele
 - Sponsorship
   - Brief discussion of the status of sponsors, incoming materials, and so on. - **Jacob will make a private list of the current sponsors.**
 
-  - Organising sponsors - what do we award companies that are active in organising [EuroPython](EuroPython)? - **Organising sponsors will get Web banners.**
+  - Organising sponsors - what do we award companies that are active in organising [EuroPython](../..)? - **Organising sponsors will get Web banners.**
 
   - Further discussion of the sponsorship of attendees (plus any information that should be published). - **There are 4 requests for sponsored attendees so far.**
 

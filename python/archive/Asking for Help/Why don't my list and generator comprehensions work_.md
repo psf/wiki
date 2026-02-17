@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Asking for Help: Why don\'t my list and generator comprehensions work? 
 
-[lwickjr](lwickjr): \[2008-Jul-09\]
+[lwickjr](../lwickjr): \[2008-Jul-09\]
 
     Python 2.5.2 (r252:60911, Feb 21 2008, 13:11:45) [MSC v.1310 32 bit (Intel)] on win32
     Type "copyright", "credits" or "license()" for more information.
@@ -57,7 +57,7 @@ What is wrong with the third example? If I pre-define `S = Source[1]`, it work
 
 My answer: In case someone reads this, the third example has got \"for\" loops in the wrong order. The first for loop runs first, and therefore it should be written as `[os.path.join(S, t) for S in Source[1:] for t in os.listdir(S)].`
 
-Answer from [PaulBoddie](PaulBoddie):
+Answer from [PaulBoddie](../../people/PaulBoddie):
 
 - In the second example, you get generator objects because that is what a generator comprehension produces, and these generators must then be \"materialised\" (or consumed by something like `list`{.backtick} in order to get a list of objects).
 

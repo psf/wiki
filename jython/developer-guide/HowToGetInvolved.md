@@ -28,4 +28,4 @@ To get started with the code, see the [JythonDeveloperGuide](JythonDeveloperGuid
 
 ### Features 
 
-Jython is incomplete, esepcially when compared to recent version of Python. There is a [RoadMap](RoadMap) and a status page for [ModulePorting](ModulePorting). If there is some aspect of Jython you want to work on, the best thing to do is float the idea on jython-dev, if only to see if anyone else is working on or wants to work that area.
+Jython is incomplete, esepcially when compared to recent version of Python. There is a [RoadMap](RoadMap) and a status page for [ModulePorting](../modules/ModulePorting). If there is some aspect of Jython you want to work on, the best thing to do is float the idea on jython-dev, if only to see if anyone else is working on or wants to work that area.

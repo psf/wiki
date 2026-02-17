@@ -35,9 +35,9 @@ Problems:
 
 - fijall: *need to patch (\...) all places that might modify anything. (All side effects)*
 
-=\> ncoghlan: *[PyPy](PyPy) is still a \*much\* better platform for that kind of experimentation than CPython*
+=\> ncoghlan: *[PyPy](../implementations/PyPy) is still a \*much\* better platform for that kind of experimentation than CPython*
 
-See also the presentation: [Securing Python: Controlling the abilities of the interpreter](http://us.pycon.org/common/talkdata/PyCon2007/062/PyCon_2007.pdf), [PyCon](PyCon) US 2007, Brett Cannon and Eric Wohlstadter
+See also the presentation: [Securing Python: Controlling the abilities of the interpreter](http://us.pycon.org/common/talkdata/PyCon2007/062/PyCon_2007.pdf), [PyCon](../conferences/pycon/PyCon) US 2007, Brett Cannon and Eric Wohlstadter
 
 Related issue: [Taint a la Perl?](http://bugs.python.org/issue500698).
 
@@ -57,7 +57,7 @@ Email: security AT python.org
 
 ## Sandboxing 
 
-- [PyPy](PyPy) project: [PyPy\'s sandboxing features](http://codespeak.net/pypy/dist/pypy/doc/sandbox.html).
+- [PyPy](../implementations/PyPy) project: [PyPy\'s sandboxing features](http://codespeak.net/pypy/dist/pypy/doc/sandbox.html).
 
 - [CapPython](http://mail.python.org/pipermail/python-dev/2008-September/082475.html) is an object-capability subset of Python, inspired by Joe-E and Caja/Cajita, which are object-capability subsets of Java and Javascript respectively.
 
@@ -79,4 +79,4 @@ Email: security AT python.org
 
 Victor Stinner wrote a fuzzer called [Fusil](https://github.com/clem1/segvault/tree/master/fusil) to test Python. It already helped to fix many bugs. fusil-python works on Python 2.4 .. 3.0.
 
-Fusil was also used on [PyPy](PyPy) ([Finding Bugs in PyPy with a Fuzzer](http://morepypy.blogspot.com/2008/07/finding-bugs-in-pypy-with-fuz.html)).
+Fusil was also used on [PyPy](../implementations/PyPy) ([Finding Bugs in PyPy with a Fuzzer](http://morepypy.blogspot.com/2008/07/finding-bugs-in-pypy-with-fuz.html)).

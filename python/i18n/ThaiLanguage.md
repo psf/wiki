@@ -18,7 +18,7 @@ ISO 639-1 Code: th
 
 - **เว็บโปรแกรมมิง**
 
-ได้แก่ [CGI](http://wiki.python.org/moin/CgiScripts), [Zope](http://www.zope.org/), [Django](http://www.djangoproject.com/), [TurboGears](http://www.turbogears.org/), [XML](http://wiki.python.org/moin/PythonXml) โดยเฉพาะตัว Zope นี่ถือว่าเป็นระดับ enterprise เพราะมีเครื่องมือครบครัน ส่วน Django จะเด่นในเรื่องของ admin ที่เราไม่ต้องสร้างเองเลย ระบบสร้างให้เสร็จไม่ว่าจะ add, edit, delete ส่วน [TurboGears](TurboGears) นั้นจะเด่นในเรื่องของการผสมตัว Ajax เข้ามาไว้ในระบบ
+ได้แก่ [CGI](http://wiki.python.org/moin/CgiScripts), [Zope](http://www.zope.org/), [Django](http://www.djangoproject.com/), [TurboGears](http://www.turbogears.org/), [XML](http://wiki.python.org/moin/PythonXml) โดยเฉพาะตัว Zope นี่ถือว่าเป็นระดับ enterprise เพราะมีเครื่องมือครบครัน ส่วน Django จะเด่นในเรื่องของ admin ที่เราไม่ต้องสร้างเองเลย ระบบสร้างให้เสร็จไม่ว่าจะ add, edit, delete ส่วน [TurboGears](../web/TurboGears) นั้นจะเด่นในเรื่องของการผสมตัว Ajax เข้ามาไว้ในระบบ
 
 - **การพัฒนาโปรแกรมที่มีส่วนติดต่อผู้ใช้แบบกราฟิก (GUI)**
 
@@ -68,13 +68,13 @@ ISO 639-1 Code: th
 
   **ODBC** และ **non-relational databases**
 
-- [MetaKit](MetaKit)
+- [MetaKit](../people/MetaKit)
 
 - ZODB
 
 - BerkeleyDB
 
-- [KirbyBase](KirbyBase)
+- [KirbyBase](../people/KirbyBase)
 
 - Durus
 
@@ -112,7 +112,7 @@ ISO 639-1 Code: th
 
 - Windows CE หรือ Pocket PC
 
-อีกส่วนที่ผมคิดว่าเป็นข้อดีของ Python อีกอย่างก็คือ เอา Python ไปผสมกับภาษาโปรแกรมมิ่งภาษาอื่น ๆ แต่ที่เด่นก็ได้แก่ Jython (Java) และ [IronPython](IronPython) (.NET) ส่วนภาษาอื่น ๆ คงลองหากันดูครับ เช่น
+อีกส่วนที่ผมคิดว่าเป็นข้อดีของ Python อีกอย่างก็คือ เอา Python ไปผสมกับภาษาโปรแกรมมิ่งภาษาอื่น ๆ แต่ที่เด่นก็ได้แก่ Jython (Java) และ [IronPython](../implementations/IronPython) (.NET) ส่วนภาษาอื่น ๆ คงลองหากันดูครับ เช่น
 
 - Java ก็ได้โครงการ [Jython](http://www.jython.org) ก็คือเอาคุณสมบัติที่มีของ Java มาเขียนโดยใช้ Python หรือจะให้งานก็คือ รู้ Java แต่ไม่อยากเขียนโดย Java ก็ใช้ Python แทน หรือว่าใครอยากเปลี่ยนภาษาแต่ยังไม่อยากแก้ไขอะไรมาก
 
@@ -168,7 +168,7 @@ ISO 639-1 Code: th
 
 - [isiam](http://isiam.blogspot.com/2005/08/python-links.html) - Let\'s run Python on mobile - lots of code and accompanying Thai text.
 
-- [codenone](http://www.codenone.com/node/462) - forum - [IronPython](IronPython) and Oracle code
+- [codenone](http://www.codenone.com/node/462) - forum - [IronPython](../implementations/IronPython) and Oracle code
 
 - [plynoi.exteen](http://plynoi.exteen.com/20080517/ironpython-and-me-1) - ironpython and me - some code
 

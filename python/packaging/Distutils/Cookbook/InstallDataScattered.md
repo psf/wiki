@@ -34,7 +34,7 @@ then specify that the command class for \'install_data\' is to be smart_install_
         **extraArguments
     )
 
-This code was created by Pete Shinners (of [PyGame](PyGame) fame).
+This code was created by Pete Shinners (of [PyGame](../../../multimedia/PyGame) fame).
 
 You can see a real-world usage example in the [PyTable setup script](http://cvs.sourceforge.net/viewcvs.py/pytable/table/setup.py?view=markup)
 

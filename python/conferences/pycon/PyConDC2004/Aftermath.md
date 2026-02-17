@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-See also [PyConPostMortem](PyConPostMortem).
+See also [PyConPostMortem](../PyConPostMortem).
 
 # Words 
 
-- [Feedster summary](http://now.feedster.com/pycon) of [PyCon](PyCon)-related weblog entries.
+- [Feedster summary](http://now.feedster.com/pycon) of [PyCon](../PyCon)-related weblog entries.
 
 - [David Goodger\'s account](http://starship.python.net/~goodger/pycon_dc_2004/)
 
 - [http://www.sauria.com/\~twl/conferences/pycon2004/](http://www.sauria.com/~twl/conferences/pycon2004/) [SubEthaEdit](./SubEthaEdit.html) transcriptions.
 
-- [PyCon2004Successes](./PyCon2004Successes.html) \-\-- records things that got done at [PyCon](PyCon). Please add your accomplishments to this page.
+- [PyCon2004Successes](./PyCon2004Successes.html) \-\-- records things that got done at [PyCon](../PyCon). Please add your accomplishments to this page.
 
 # Pictures 
 

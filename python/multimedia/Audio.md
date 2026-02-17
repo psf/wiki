@@ -12,7 +12,7 @@ This page tries to provide a starting point for those who want to work with audi
 
 If you are creating a game, most of what you are looking for may already be included in the many [PythonGameLibraries](PythonGameLibraries) that are available.
 
-If you are looking for podcasts related to Python, go to the [PythonAudioMaterial](PythonAudioMaterial) page.
+If you are looking for podcasts related to Python, go to the [PythonAudioMaterial](../archive/PythonAudioMaterial) page.
 
 ## Built in modules 
 

@@ -12,7 +12,7 @@ The goal of this page is to list alternatives to the [reference implementation](
 
 Applications that implement the [Package Index API](http://peak.telecommunity.com/DevCenter/EasyInstall#package-index-api):
 
-- [PyPI](CheeseShopDev) (aka [CheeseShop](CheeseShop)) - The reference implementation, powering the main index.
+- [PyPI](CheeseShopDev) (aka [CheeseShop](../people/CheeseShop)) - The reference implementation, powering the main index.
 
 - [chishop](https://github.com/ask/chishop) and its more recent [djangopypi](https://github.com/benliles/djangopypi) fork - django based
 

@@ -57,7 +57,7 @@ Read More:
 
 ## Jython Training 
 
-IBM [WebSphere](WebSphere) Application Server V6.1 Scripting and Automation
+IBM [WebSphere](../../../user-guide/WebSphere) Application Server V6.1 Scripting and Automation
 
 Find out more about this training: [http://www.integrotraining.com/CourseProfile.aspx?CourseCode=WA661](http://www.integrotraining.com/CourseProfile.aspx?CourseCode=WA661)
 

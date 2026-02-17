@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Pygame wraps some SDL libraries (SDL, SDL_Image etc) using C code. It also provides some extra misc. C functions.
 
-Python2.5 will include [ctypes](ctypes) in the standard library. SoC 2006 is a good opportunity to recreate the pygame API using ctypes. This will let the average python programmer, who does not work with C, to hack on and extend pygame.
+Python2.5 will include [ctypes](../../implementations/ctypes) in the standard library. SoC 2006 is a good opportunity to recreate the pygame API using ctypes. This will let the average python programmer, who does not work with C, to hack on and extend pygame.
 
 This same work (ctypes conversion) is already happening with PyOpenGL. Note that the pyopengl-ctypes project has been going for years now, and is still not complete.
 

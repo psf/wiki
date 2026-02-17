@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 *For current and complete Twisted documentation, please refer to [http://twistedmatrix.com/trac/wiki/Documentation](http://twistedmatrix.com/trac/wiki/Documentation)*
 
-This page maintained by Jacob [Mathai](Mathai).
+This page maintained by Jacob [Mathai](../archive/Mathai).
 
 [http://www.jacobmathai.org](http://www.jacobmathai.org)
 

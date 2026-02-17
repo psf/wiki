@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-**When**: Saturday and Sunday before [EuroPython](EuroPython) (June 25th-26th 2005) - the dates are now confirmed.
+**When**: Saturday and Sunday before [EuroPython](../conferences/europython/EuroPython) (June 25th-26th 2005) - the dates are now confirmed.
 
-**Sprint leader**: [AlexanderLimi](AlexanderLimi)
+**Sprint leader**: [AlexanderLimi](../people/AlexanderLimi)
 
 **Remote Sprinting via IRC is also encouraged!**
 
@@ -38,14 +38,14 @@ Where, oh where?
 
 **Add your name below if you plan to participate**
 
-(indicate whether you\'ll actually be at [EuroPython](EuroPython), or remote sprinting)
+(indicate whether you\'ll actually be at [EuroPython](../conferences/europython/EuroPython), or remote sprinting)
 
-- Alexander Limi (at [EuroPython](EuroPython))
+- Alexander Limi (at [EuroPython](../conferences/europython/EuroPython))
 
-- Martin Aspeli (at [EuroPython](EuroPython))
+- Martin Aspeli (at [EuroPython](../conferences/europython/EuroPython))
 
 - Alan Runyan (at Enfold Houston Office)
 
-- [ReinoutVanRees](ReinoutVanRees) (at [EuroPython](EuroPython))
+- [ReinoutVanRees](../archive/ReinoutVanRees) (at [EuroPython](../conferences/europython/EuroPython))
 
-- Ivo van der Wijk (at [EuroPython](EuroPython))
+- Ivo van der Wijk (at [EuroPython](../conferences/europython/EuroPython))

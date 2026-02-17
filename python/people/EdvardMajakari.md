@@ -10,9 +10,9 @@ Enthusiastic fan of language which allows you to concentrate on the problem itse
 
 Haven\'t published much content yet, \'tho - stuff I\'ve written so far is limited to
 
-- [PyTest](PyTest)
+- [PyTest](../testing/PyTest)
 
-- [TestDrivenDevelopment](TestDrivenDevelopment)
+- [TestDrivenDevelopment](../testing/TestDrivenDevelopment)
 
 Obligatory [home page link](http://majakari.net/)
 

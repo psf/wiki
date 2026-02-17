@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Björn Lindqvist restarted the discussion about getting Path into the stdlib in January. The PEP and reference implementation is available here: [PEP 355](http://www.python.org/dev/peps/pep-0355), [PathModule](PathModule), [PathModuleTests](PathModuleTests)
+Björn Lindqvist restarted the discussion about getting Path into the stdlib in January. The PEP and reference implementation is available here: [PEP 355](http://www.python.org/dev/peps/pep-0355), [PathModule](PathModule), [PathModuleTests](../archive/PathModuleTests)
 
-There are alternative proposals as well: [AlternativePathClass](AlternativePathClass), [AlternativePathDiscussion](AlternativePathDiscussion), [AlternativePathModuleTests](AlternativePathModuleTests)
+There are alternative proposals as well: [AlternativePathClass](../language/AlternativePathClass), [AlternativePathDiscussion](../language/AlternativePathDiscussion), [AlternativePathModuleTests](../language/AlternativePathModuleTests)
 
 # Path class Pre-Pre-PEP 
 
@@ -53,7 +53,7 @@ The motivation for a single standard class or module to handle filesystem operat
 
 ## Backwards Compatibility 
 
-If this PEP is accepted, then several of the existing standard modules will become redundant, which violates the [TOOWTDI](TOOWTDI) principle. The following modules will become redundant:
+If this PEP is accepted, then several of the existing standard modules will become redundant, which violates the [TOOWTDI](../archive/TOOWTDI) principle. The following modules will become redundant:
 
 - os.path
 - shutils

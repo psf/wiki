@@ -38,7 +38,7 @@ Codec modules will attach the `encode` method to the class definition derived fr
 
 ------------------------------------------------------------------------
 
-See also: [StreamReader](StreamReader), [StreamReaderWriter](StreamReaderWriter), [StreamRecoder](StreamRecoder).
+See also: [StreamReader](StreamReader), [StreamReaderWriter](../archive/StreamReaderWriter), [StreamRecoder](StreamRecoder).
 
 ------------------------------------------------------------------------
 

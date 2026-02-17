@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PyDotOrg Virtual Sprints 
 
-Some of the sprinters at [PyCon](PyCon) 2006 are continuing to work on the python.org website independently and sometimes in the context of virtual sprints.
+Some of the sprinters at [PyCon](../conferences/pycon/PyCon) 2006 are continuing to work on the python.org website independently and sometimes in the context of virtual sprints.
 
 ## When/Who 
 

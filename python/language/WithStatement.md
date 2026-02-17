@@ -10,7 +10,7 @@ This page is dedicated to the public discussion of [PEP 343](http://www.python.o
 
 I think this is a good one; I hope people agree. Its acceptance will obsolete about 4 other PEPs! (A sign that it fulfills a need and that the proposed solution is powerful.)
 
-Please read the PEP; then add your comments here. Please sign your comments with your name. [GvR](GvR) (Guido van Rossum)
+Please read the PEP; then add your comments here. Please sign your comments with your name. [GvR](../archive/GvR) (Guido van Rossum)
 
 ------------------------------------------------------------------------
 
@@ -18,9 +18,9 @@ Can someone please speak to the implementation schedule for WithStatement? I am 
 
 ------------------------------------------------------------------------
 
-I feel like PEP 343 and PEP 342 work together in some important way, but it\'s not clear what that is. Does one depend on the other? What kind of things are possible if both are accepted (vs. just one of them)? I think this is important to understanding where PEP 343 is leading; some discussion of this would be appreciated. \-- [IanBicking](IanBicking)
+I feel like PEP 343 and PEP 342 work together in some important way, but it\'s not clear what that is. Does one depend on the other? What kind of things are possible if both are accepted (vs. just one of them)? I think this is important to understanding where PEP 343 is leading; some discussion of this would be appreciated. \-- [IanBicking](../people/IanBicking)
 
-- No, they are quite independent. PEP 342 is for making generators into real coroutines. Maybe throw() can help a tiny bit there but I think it\'s not essential. PEP 342 adds argument-less yield to PEP 343 which is a very minor improvement (no \"yield None\"). [GvR](GvR)
+- No, they are quite independent. PEP 342 is for making generators into real coroutines. Maybe throw() can help a tiny bit there but I think it\'s not essential. PEP 342 adds argument-less yield to PEP 343 which is a very minor improvement (no \"yield None\"). [GvR](../archive/GvR)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ or
 
 \-- *Eric Nieuwland*
 
-- I\'d be very surprised if an object supporting `__enter__` and `__exit__` would say \"do not use this in a with-statement.\" ![:-)](/wiki/europython/img/smile.png ":-)") What makes sense, however, is to distinguish between objects that can be used at most once in a with-statement (like files) and objects that can be used over and over (like locks). [GvR](GvR)
+- I\'d be very surprised if an object supporting `__enter__` and `__exit__` would say \"do not use this in a with-statement.\" ![:-)](/wiki/europython/img/smile.png ":-)") What makes sense, however, is to distinguish between objects that can be used at most once in a with-statement (like files) and objects that can be used over and over (like locks). [GvR](../archive/GvR)
 
 The solution to this problem recommended in PEP 346 is to throw an explicit exception in `__enter__` when a non-reusable template is reused. PEP 343 uses this approach for the [generator-based templates](http://3d2f.com/tags/generator/based/templates/download/), and I would expect an `__enter__` method on file objects to do the same thing. \-- *Alyssa Coghlan*
 
@@ -42,13 +42,13 @@ The solution to this problem recommended in PEP 346 is to throw an explicit exce
 
 next_throw() is easier to grep with next(). *Niki Spahiev*
 
-- Given that 99% of uses of both are implicit, I don\'t see how that matters. [GvR](GvR)
+- Given that 99% of uses of both are implicit, I don\'t see how that matters. [GvR](../archive/GvR)
 
 I don\'t want to teach beginners why python uses \'raise\' sometimes and \'throw\' other times. I predict: they\'re going to be coming from other languages, they\'re going to accidentally use \'throw\' as the statement, and they\'re going to get mad at \"all of python\'s weird quirks, like how it has both raise and throw\". *Drew Perttula*
 
-- I\'m not so worried. Your tolerance for language quirks seems rather low. ![:-)](/wiki/europython/img/smile.png ":-)") [GvR](GvR)
+- I\'m not so worried. Your tolerance for language quirks seems rather low. ![:-)](/wiki/europython/img/smile.png ":-)") [GvR](../archive/GvR)
 
-  Raymond Hettinger added on python-dev (copied here by [GvR](GvR)):
+  Raymond Hettinger added on python-dev (copied here by [GvR](../archive/GvR)):
 
   - \"This was intended. There was much discussion about this for PEP 288 and this was more or less a concensus choice. The term is already associated with exceptions in other languages and it captures the concept of the raise occurring somewhere else (what is thrown at or into). It is simple, clear, and tends to suggest all the right things. I have no doubt that someone can point out differing semantics in other languages but I don\'t care. The verbal cue is what we are after.\"
 
@@ -63,17 +63,17 @@ A few immediate comments:
 1.  Is g.throw(\...) supposed to let you raise exceptions in other threads (by having g catch the exception you throw it, then raise its own exception for its caller)? The PEP should be clear about this. It would be great if the answer is yes and if that\'s the case, objects like queues and sockets should be turned into generators to permit cross-thread signalling using generator exceptions. But I had the impression that this would be difficult in CPython.
     - This is not the intention at all. The PEP specifically speaks of \"where the generator g is currently suspended\". By definition this implies that it is not running in another thread. You must have had threads on your mind too much
 
-      recently to even think of this. ![:-)](/wiki/europython/img/smile.png ":-)") [GvR](GvR)
+      recently to even think of this. ![:-)](/wiki/europython/img/smile.png ":-)") [GvR](../archive/GvR)
 
       - I will read it again, but I don\'t remember seeing anything that made me think the generator couldn\'t be suspended in another thread. phr
         - Generators aren\'t tied to a thread, but they can only be executing in one thread at a time. When a generator yields in one thread, another thread can resume it with next() or throw() \-- but then the resumed generator executes in the thread that called next() or throw(). There\'s nothing new to this \-- it\'s been like this
 
-          since generators were invented. [GvR](GvR)
+          since generators were invented. [GvR](../archive/GvR)
 
           - Well, throw() didn\'t exist when generators were invented, so throw hasn\'t always been like anything ;-). If throw is supposed to resume execution in the throwing thread rather than the thread where the generator was last suspended, the PEP should clearly specify that. \--phr
-            - It already says that throw() is just like next(). [GvR](GvR)
+            - It already says that throw() is just like next(). [GvR](../archive/GvR)
 2.  I thought some of the original motivation of PEP 310 was to lessen the pain of giving up the idiom of expecting files to be closed when their last reference goes away. So if 343 no longer guarantees that the exit method will be run when the \"with\" statement finishes, it\'s lost some of its main motivating functionality. I wonder if having a more serious treatment of block scope, so that destructors are guaranteed to be called when a scope exits (by falling through or via an exception), would also take care of this issue.
-    - Where did you read that the `__exit__` method isn\'t guaranteed to be called upon exit from the with statement? The translation explicitly calls it! Read again. You may be confused with g.close(). That\'s only relevant when you use a for-loop without an explicit with-statement. [GvR](GvR)
+    - Where did you read that the `__exit__` method isn\'t guaranteed to be called upon exit from the with statement? The translation explicitly calls it! Read again. You may be confused with g.close(). That\'s only relevant when you use a for-loop without an explicit with-statement. [GvR](../archive/GvR)
 
 There was some good discussion on clpy a while ago that I\'ll try to locate, and add some more comments during the weekend. \--Paul Rubin (phr)
 
@@ -85,7 +85,7 @@ I can see a lot of areas in the standard libs where improvements could be made u
 
 The only negative to the proposal is the extra complexity. The idea is a little magical, and may not be easy for new users to pick up. New users will not be forced to use it of course. However ironically the very usefulness of the idiom will probably lead to it being widely used in libraries, which will of course require new users to learn it sooner or later!
 
-\-- [MichaelSmith](MichaelSmith)
+\-- [MichaelSmith](../people/MichaelSmith)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ I like the idea and the \"with .. as ..\" syntax, where readable keywords are us
 
 Patrick Ellis
 
-- Well, you have a choice not to use generators. ![:-)](/wiki/europython/img/smile.png ":-)") To many who participated in the discussion on python-dev, using generators to write templates is an essential part. The more state you carry over from `__enter__` to `__exit__` the more you will appreciate the generator. [GvR](GvR)
+- Well, you have a choice not to use generators. ![:-)](/wiki/europython/img/smile.png ":-)") To many who participated in the discussion on python-dev, using generators to write templates is an essential part. The more state you carry over from `__enter__` to `__exit__` the more you will appreciate the generator. [GvR](../archive/GvR)
 
 ------------------------------------------------------------------------
 
@@ -109,12 +109,12 @@ Thomas Leonard
 
 - When this were combined with an except or finally clause, it would be confusing to the reader which applies to which \-- does the except clause
 
-  catch exceptions in the `__exit__` method, or does the `__exit__` method see exceptions raised in the except clause? [GvR](GvR)
+  catch exceptions in the `__exit__` method, or does the `__exit__` method see exceptions raised in the except clause? [GvR](../archive/GvR)
 
   - Python already has this problem when combining except and finally. If we take the same solution (make them mutually exclusive) then there\'s no problem. You still get a more readable syntax and one less keyword. Thomas Leonard
     - Doesn\'t help.
 
-      When combining except & finally, the answer is explicit: control moves only forward. (At the very least you can use this to remember the rule.) But when combining with & except (or finally), the handler for with is implicit, so there is no parallel heuristic to decide which one handles which. [GvR](GvR)
+      When combining except & finally, the answer is explicit: control moves only forward. (At the very least you can use this to remember the rule.) But when combining with & except (or finally), the handler for with is implicit, so there is no parallel heuristic to decide which one handles which. [GvR](../archive/GvR)
 
       - I meant, don\'t allow combining with & except or with & finally. Ie, the try: has neither an except nor a finally clause if it has an expression. After all, the proposed with: syntax doesn\'t allow these either. I\'m not sure what you mean about control moving forwards. The versions of Python here (2.3 and 2.4) don\'t allow except and finally at the same time.
 
@@ -124,11 +124,11 @@ I can\'t tell from the PEP whether or not it is recommended that objects themsel
 
 I do understand the reluctance to pick the one-and-only way an object can be used in a `with` statement, but I suspect that most classes are factored well enough that the default `with` behavior is obvious (and more obvious than using a helper function like `opening` or `locking`). And any object that may have more than one `with` behavior can have 0 or 1 inherent behaviors and 1 or more helpers, but I seriously doubt there would be any cases like that in the standard library.
 
-\-- [BenjiYork](BenjiYork)
+\-- [BenjiYork](../people/BenjiYork)
 
 - Time will tell. The with-statement doesn\'t force you either way. The PEP doesn\'t strongly recommend either way because we don\'t have the experience with this yet to know which pattern is better. Personally I\'d like to be cautious \-- use explicit wrapper methods
 
-  like opening() and locking() first, and add `__enter__` and `__exit__` methods to some objects later. [GvR](GvR)
+  like opening() and locking() first, and add `__enter__` and `__exit__` methods to some objects later. [GvR](../archive/GvR)
 
 ------------------------------------------------------------------------
 
@@ -136,17 +136,17 @@ Personally I find the half-hearted approach to adding features rather frustratin
 
 It also means much more tracking of versions. Now will I have to know that, in Python 2.4 I use `try:finally:`, in Python 2.5 `with opening()`, in Python 2.6 `with open()`, etc.? Can\'t we have a little faith in our imaginations and add a few `__enter__` and `__exit__` methods that seem so obviously useful, like to files and threading.Lock objects?
 
-Adding features is always a problem, but adding them gradually just makes it that much worse. I think the reception of this feature is positive enough (+1 from me, BTW) that it shows people understand why it matters and understand where we should start using it right away. \-- [IanBicking](IanBicking)
+Adding features is always a problem, but adding them gradually just makes it that much worse. I think the reception of this feature is positive enough (+1 from me, BTW) that it shows people understand why it matters and understand where we should start using it right away. \-- [IanBicking](../people/IanBicking)
 
 - Trust me, it is frustrating for me too. But given the large number of users we *have* to go slowly. Compare it to upgrading a freeway or an airport. It\'s much more complicated than building a new one, because you have to accommodate existing traffic while the work is going on. But the alternative is Perl 6\...
 
   In this particular case, I actually believe that adding `__enter__` and `__exit__` to file objects is *wrong*, but for lock objects it is *right*. Does that help?
 
-  [GvR](GvR)
+  [GvR](../archive/GvR)
 
   - So you don\'t think we should detect `with open(X)` as a special language construct?!? Sorry, just trying to think about how Perl would approach this\... ![;)](/wiki/europython/img/smile4.png ";)") I\'m certainly not set on any particular example, I haven\'t
 
-I would prefer that `__enter__` and `__exit__` be added to `Lock` and `RLock` objects, since it\'s really, REALLY obvious what `with lock:` does. Hey, and nice work on unifying the synchronize keyword, database transactions, etc into the (consistent and intuitive) PEP 343. I see why [IanBicking](IanBicking) thinks PEP 342 and 343 are related: they both do black magic with generators, look weird at first, but end up making a lot of sense and looking Pythonic. I didn\'t think coroutines could be expressed so cleanly in Python, either. It\'s impressive, really. \-- [ConnellyBarnes](./ConnellyBarnes.html)
+I would prefer that `__enter__` and `__exit__` be added to `Lock` and `RLock` objects, since it\'s really, REALLY obvious what `with lock:` does. Hey, and nice work on unifying the synchronize keyword, database transactions, etc into the (consistent and intuitive) PEP 343. I see why [IanBicking](../people/IanBicking) thinks PEP 342 and 343 are related: they both do black magic with generators, look weird at first, but end up making a lot of sense and looking Pythonic. I didn\'t think coroutines could be expressed so cleanly in Python, either. It\'s impressive, really. \-- [ConnellyBarnes](./ConnellyBarnes.html)
 
 ## Using \".something\" syntax 
 

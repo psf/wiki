@@ -18,7 +18,7 @@ These are implementations based on the [CPython](CPython) runtime core (the de-f
 
 - [CrossTwine Linker](http://crosstwine.com/linker/python.html) - a combination of CPython and an add-on library offering improved performance (currently proprietary)
 
-- [Stackless Python](StacklessPython) - CPython with an emphasis on concurrency using tasklets and channels (used by [dspython](https://www.develer.com/trac/dspython/) for the Nintendo DS)
+- [Stackless Python](../people/StacklessPython) - CPython with an emphasis on concurrency using tasklets and channels (used by [dspython](https://www.develer.com/trac/dspython/) for the Nintendo DS)
 
 - [Pyston](https://github.com/pyston/pyston) - a fork of CPython, originally developed at Dropbox but now by independent developers, performance-focused including bytecode quickening and a lightweight JIT.
 
@@ -42,7 +42,7 @@ These are implementations based on the [CPython](CPython) runtime core (the de-f
 
 ### Reduced Python Variants 
 
-These provide a subset of the full language + standard library, for use in embedded scenarios (see also the [EmbeddedPython](EmbeddedPython) topic)
+These provide a subset of the full language + standard library, for use in embedded scenarios (see also the [EmbeddedPython](../people/EmbeddedPython) topic)
 
 - [MicroPython](https://micropython.org/) - Python for microcontrollers (runs on the pyboard and the BBC Microbit)
 
@@ -54,7 +54,7 @@ Also look at the sections on Python compilers and extensions below, some of whic
 
 These are re-implementations of the Python language that do not depend on (or necessarily interact with) the [CPython](CPython) runtime core. Many of them reuse (a large part of) the standard library implementation.
 
-Note that most of these projects have not yet achieved language compliance. However, many of these have goals and features or run in certain environments that make them interesting in their own regard. The only implementations that are known to be compatible with a given version of the language are [IronPython](IronPython), [Jython](Jython) and [PyPy](PyPy).
+Note that most of these projects have not yet achieved language compliance. However, many of these have goals and features or run in certain environments that make them interesting in their own regard. The only implementations that are known to be compatible with a given version of the language are [IronPython](IronPython), [Jython](../archive/Jython) and [PyPy](PyPy).
 
 ### Working Implementations 
 
@@ -62,7 +62,7 @@ The following implementations may be not comprehensive or even complete, but at 
 
 - [PyPy](https://pypy.org) - Python in Python, includes a tracing JIT compiler
 
-- [Jython](Jython) - Python in Java for the Java platform
+- [Jython](../archive/Jython) - Python in Java for the Java platform
 
 - [IronPython](IronPython) - Python in C# for the Common Language Runtime (CLR/.NET) and the [FePy](http://fepy.sourceforge.net/) project\'s [IronPython](IronPython) Community Edition (IPCE)
 
@@ -72,13 +72,13 @@ The following implementations may be not comprehensive or even complete, but at 
 
 - [Brython](http://www.brython.info/) - a way to run Python in the browser through translation to [JavaScript](./JavaScript.html)
 
-- [CLPython](CLPython) - Python in Common Lisp
+- [CLPython](../archive/CLPython) - Python in Common Lisp
 
 - [HotPy](http://www.dcs.gla.ac.uk/~marks/) - a virtual machine for Python supporting bytecode optimisation and translation (to native code) using type information gathered at runtime
 
 - [pyjs](http://pyjs.org/) - (formally Pyjamas) a Python to [JavaScript](./JavaScript.html) compiler plus Web/GUI framework
 
-- [PyMite](PyMite) - Python for embedded devices
+- [PyMite](../people/PyMite) - Python for embedded devices
 
 - [pyvm](http://students.ceid.upatras.gr/~sxanth/pyvm-2.0/) - a Python-related virtual machine and software suite providing a nearly self-contained \"userspace\" system
 
@@ -146,7 +146,7 @@ These compilers usually implement something close to Python, although some compi
 
 ## Numerical Accelerators 
 
-- [Numba](http://numba.pydata.org) - [NumPy](NumPy)-aware optimizing runtime compiler for Python
+- [Numba](http://numba.pydata.org) - [NumPy](../science/NumPy)-aware optimizing runtime compiler for Python
 
 - [Pythran](https://pythran.readthedocs.io/en/latest/) - ahead of time compiler for a subset of Python with a focus on scientific computing
 
@@ -160,7 +160,7 @@ These languages don\'t attempt to be directly compatible even with a subset of P
 
 - [Alore](http://www.alorelang.org/) - a compilable language with optional typing and Python/Ruby inspired syntax; an Alore-Python bridge is planned; development effort has been transferred to mypy (see below)
 
-- [Cobra](Cobra)
+- [Cobra](../archive/Cobra)
 
 - [Converge](http://convergepl.org/) - inspired by Python, Haskell, Icon and Smalltalk, provides macros which can be evaluated at compile-time
 
@@ -196,9 +196,9 @@ Comparisons:
 
 ## Topic Guides 
 
-- [EmbeddedPython](EmbeddedPython)
+- [EmbeddedPython](../people/EmbeddedPython)
 
-- [PythonDistributions](PythonDistributions)
+- [PythonDistributions](../archive/PythonDistributions)
 
 ## (Fun) Python Preprocessors 
 
@@ -218,7 +218,7 @@ Python implementations and compilers have been the topic of various papers and t
 
 ------------------------------------------------------------------------
 
-This page aims to replace one formerly maintained as \"[Cameron Laird\'s personal notes on varieties of Python implementation](http://phaseit.net/claird/comp.lang.python/python_varieties.html)\". Also of interest will be [IntegratingPythonWithOtherLanguages](IntegratingPythonWithOtherLanguages), which, among other variants, mentions *embeddings* of Python in other languages.
+This page aims to replace one formerly maintained as \"[Cameron Laird\'s personal notes on varieties of Python implementation](http://phaseit.net/claird/comp.lang.python/python_varieties.html)\". Also of interest will be [IntegratingPythonWithOtherLanguages](../archive/IntegratingPythonWithOtherLanguages), which, among other variants, mentions *embeddings* of Python in other languages.
 
 ------------------------------------------------------------------------
 

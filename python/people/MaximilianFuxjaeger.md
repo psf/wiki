@@ -18,7 +18,7 @@ I made this wiki account to cleanup old and dead links to other pages. Since thi
 
 ## Wiki Pages I want to edit 
 
-[PythonXml](PythonXml): Does not mention xmlschema, has dead links
+[PythonXml](../archive/PythonXml): Does not mention xmlschema, has dead links
 
 ## Contact 
 

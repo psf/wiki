@@ -8,19 +8,19 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PyCon India 2010 Hosting Proposal 
 
-**\'We are looking forward for a host who makes [PyCon](PyCon) India 2010 bigger and better than ever!**\'
+**\'We are looking forward for a host who makes [PyCon](../PyCon) India 2010 bigger and better than ever!**\'
 
 *Note: The Indian Python Software Society is only interested in conference proposals that are led by either Python communities or educational institutions who are active in the Python community, such as user groups, Python consulting firms, institutional Python users, etc.*
 
 ## Schedule 
 
-[PyCon](PyCon) India 2010 is scheduled to be held on September 25 -- 26, 2010.
+[PyCon](../PyCon) India 2010 is scheduled to be held on September 25 -- 26, 2010.
 
 ## Introduction 
 
 This document is call for proposals to host Python Conference 2010. This document contains specific guidance on the elements of a conference proposal, conference requirements, locations, and the schedule for the Python Conference 2010 selection process.
 
-The first [PyCon](PyCon) India (2009) was held at IISc, Bangalore.
+The first [PyCon](../PyCon) India (2009) was held at IISc, Bangalore.
 
 ## Conference Vision and Goals 
 

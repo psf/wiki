@@ -20,11 +20,11 @@ The goal of this article is to clear concurrency-related questions, problems, or
 
 - [Concurrency/TipsAndTricks](Concurrency/TipsAndTricks) - Hints for writing better concurrent code
 
-- [GlobalInterpreterLock](GlobalInterpreterLock) - a limitation for multithreading in CPython
+- [GlobalInterpreterLock](../archive/GlobalInterpreterLock) - a limitation for multithreading in CPython
 
 ## Talks 
 
-- [Concurrency from the Ground Up - LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4) [DavidBeazley](DavidBeazley) blows some minds at Pycon 2015
+- [Concurrency from the Ground Up - LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4) [DavidBeazley](../people/DavidBeazley) blows some minds at Pycon 2015
 
 - [Keynote on Concurrency](https://www.youtube.com/watch?v=9zinZmE3Ogk) [RaymondHettinger](./RaymondHettinger.html) at [PyBay](./PyBay.html) 2017
 
@@ -34,7 +34,7 @@ The goal of this article is to clear concurrency-related questions, problems, or
 
 ## Concurrency support offered by the Standard Library 
 
-- [multiprocessing](http://docs.python.org/library/multiprocessing.html) (available in CPython 2.6+ and 3, also in recent [PyPy](PyPy) 1.5 alpha builds)
+- [multiprocessing](http://docs.python.org/library/multiprocessing.html) (available in CPython 2.6+ and 3, also in recent [PyPy](../implementations/PyPy) 1.5 alpha builds)
 
 - [threading](http://docs.python.org/library/threading.html) - make your GIL-burdened life easy and your code fast: use multiprocessing. ![;)](/wiki/europython/img/smile4.png ";)")
 
@@ -46,9 +46,9 @@ The goal of this article is to clear concurrency-related questions, problems, or
 
 ## Popular Frameworks 
 
-See also: [ParallelProcessing](ParallelProcessing), [Pypi Distributed Computing Trove](http://pypi.python.org/pypi?:action=browse&show=all&c=450)
+See also: [ParallelProcessing](../people/ParallelProcessing), [Pypi Distributed Computing Trove](http://pypi.python.org/pypi?:action=browse&show=all&c=450)
 
-- [StacklessPython](StacklessPython) - A Python Implementation That Does Not Use The C Stack. It purportedly can handle thousands of threads (tasklets) in the context of a very parallel game application, but remains pretty single-core.
+- [StacklessPython](../people/StacklessPython) - A Python Implementation That Does Not Use The C Stack. It purportedly can handle thousands of threads (tasklets) in the context of a very parallel game application, but remains pretty single-core.
 
 - [Twisted](http://twistedmatrix.com) - Full-featured and well-tested asynchronous networking library. Concurrency model: Asynchronous code written around central objects known as Deferreds. Cooperative task scheduler via the [Cooperator](http://twistedmatrix.com/trac/browser/trunk/twisted/internet/task.py#L182) object. Time based scheduling with [LoopingCall](http://twistedmatrix.com/trac/browser/trunk/twisted/internet/task.py#L23)and reactor.callLater.
 
@@ -56,7 +56,7 @@ See also: [ParallelProcessing](ParallelProcessing), [Pypi Distributed Computing 
 
 - [trio](https://github.com/python-trio/trio) Pythonic asynchronous I/O for humans and snakes
 
-- [Greenlet](http://pypi.python.org/pypi/greenlet) - The \"greenlet\" package is a spin-off of [StacklessPython](StacklessPython), a version of CPython that supports micro-threads called \"tasklets\". Tasklets run pseudo-concurrently (typically in a single or a few OS-level threads) and are synchronized with data exchanges on \"channels\". [Documentation](http://codespeak.net/py/0.9.2/greenlet.html)
+- [Greenlet](http://pypi.python.org/pypi/greenlet) - The \"greenlet\" package is a spin-off of [StacklessPython](../people/StacklessPython), a version of CPython that supports micro-threads called \"tasklets\". Tasklets run pseudo-concurrently (typically in a single or a few OS-level threads) and are synchronized with data exchanges on \"channels\". [Documentation](http://codespeak.net/py/0.9.2/greenlet.html)
 
 - [Gevent](http://www.gevent.org/) - coroutine-based networking library that uses greenlet to provide a high-level synchronous API on top of libevent event loop. It features standard library-inspired API and high performance.
 
@@ -100,4 +100,4 @@ See also: [ParallelProcessing](ParallelProcessing), [Pypi Distributed Computing 
 
 - **Introduction to Multiprocessing** - Jesse Noller, Pycon 2009 [Slides](http://jessenoller.com/code/pycon_jnoller_multiprocessing.pdf) [Video](http://pycon.blip.tv/file/1947354/)
 
-- **Inside the GIL** - a detailed analysis of how the GIL is even worse than we thought by David Beazley, [ChiPy](ChiPy) June 2009 [Slides](http://www.dabeaz.com/python/GIL.pdf) [Video](http://blip.tv/file/2232410)
+- **Inside the GIL** - a detailed analysis of how the GIL is even worse than we thought by David Beazley, [ChiPy](../people/ChiPy) June 2009 [Slides](http://www.dabeaz.com/python/GIL.pdf) [Video](http://blip.tv/file/2232410)

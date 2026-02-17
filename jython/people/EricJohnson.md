@@ -6,4 +6,4 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Adding a page on Swing Examples using [SwingWorker](SwingWorker)
+Adding a page on Swing Examples using [SwingWorker](../examples/SwingWorker)

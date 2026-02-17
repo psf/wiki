@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Scientific Python Working Group Charter 
 
-Also see [ScientificWG](ScientificWG)
+Also see [ScientificWG]()
 
 ## Purpose & Common Goals 
 
@@ -51,7 +51,7 @@ The bulk of communication among the working group shall be over the mailing list
 
 ## Administration & Membership 
 
-Please refer to [ScientificWG](ScientificWG)
+Please refer to [ScientificWG]()
 
 ## Support Requirements 
 

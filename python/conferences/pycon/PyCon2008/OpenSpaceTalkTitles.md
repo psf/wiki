@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The following is a list of all the open space sessions at [PyCon](PyCon) 2008; Peter Kropf wrote down the titles from the index cards used to mark slots as taken. There were 84 sessions, up from 54 at [PyCon](PyCon) 2007.
+The following is a list of all the open space sessions at [PyCon](../PyCon) 2008; Peter Kropf wrote down the titles from the index cards used to mark slots as taken. There were 84 sessions, up from 54 at [PyCon](../PyCon) 2007.
 
     Anyone up for P oker?
     Bazaar Overview

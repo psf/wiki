@@ -16,6 +16,6 @@ So You Wanna \...
 
 - [GoClientServer](GoClientServer)
 
-- know about [GameProgramming](GameProgramming)
+- know about [GameProgramming](../multimedia/GameProgramming)
 
 - [UsePythonAsAnInteractiveShell](UsePythonAsAnInteractiveShell)

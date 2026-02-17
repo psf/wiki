@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Python Training Events 
 
-This page lists Python training events happening around the world or online and complements the [PythonTraining](PythonTraining) page.
+This page lists Python training events happening around the world or online and complements the [PythonTraining]() page.
 
 If you have contributions for this page, please edit the page to add them. Please include dates of the event, contact information, and a URL that people can follow for more information. Try to add the appropriate color from the [legend](./PythonTraining(2f)Events.html#Legend).
 

@@ -59,7 +59,7 @@ There it is!
 
 - If you set XMLRPC_namespace to None, then namespaces aren\'t used.
 
-- This code demonstrates [ModulesAsPlugins](ModulesAsPlugins), [CgiScripts](CgiScripts), [DocXmlRpcServer](DocXmlRpcServer), and (hopefully) [PythonStyle](PythonStyle).
+- This code demonstrates [ModulesAsPlugins](ModulesAsPlugins), [CgiScripts](../people/CgiScripts), [DocXmlRpcServer](DocXmlRpcServer), and (hopefully) [PythonStyle](PythonStyle).
 
 - If you define a function \"uli\" (`def uli(msg):`), you can call it in IRC with [UliBot!](http://onebigsoup.wiki.taoriver.net/moin.cgi/UliBot)
 
@@ -167,4 +167,4 @@ This could be improved. Some ideas:
   - If you\'re either brave or insane, make use of the [LoggingModule](./LoggingModule.html).
 - Perhaps perform some sort of caching, to speed up invocation.
 
-\-- [LionKimbro](LionKimbro) 2005-04-17 05:51:41
+\-- [LionKimbro](../people/LionKimbro) 2005-04-17 05:51:41

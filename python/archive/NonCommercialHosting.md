@@ -18,4 +18,4 @@ Non-commercial hosting is any hosting setup which might cost money, but is not g
 
 ------------------------------------------------------------------------
 
-See also: [PythonHosting](PythonHosting)
+See also: [PythonHosting](../libraries/PythonHosting)

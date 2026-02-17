@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Draft of a proposed flyer:
 
-[PyCon](PyCon) 2005
+[PyCon](../PyCon) 2005
 
     Cafritz Conference Center
     George Washington University
@@ -17,7 +17,7 @@ Draft of a proposed flyer:
 
 March 23-25
 
-[PyCon](PyCon) is a volunteer-run conference for the users and developers of the Python programming language. The 2005 conference will include:
+[PyCon](../PyCon) is a volunteer-run conference for the users and developers of the Python programming language. The 2005 conference will include:
 
 - Refereed presentation track.
 
@@ -27,9 +27,9 @@ March 23-25
 
 - Open Space, for impromptu presentations and discussions.
 
-- Keynote speech by Jim Hugunin, author of [IronPython](IronPython).
+- Keynote speech by Jim Hugunin, author of [IronPython](../../../implementations/IronPython).
 
-For more information about [PyCon](PyCon), visit [http://www.python.org/pycon/2005/](http://www.python.org/pycon/2005/)
+For more information about [PyCon](../PyCon), visit [http://www.python.org/pycon/2005/](http://www.python.org/pycon/2005/)
 
 Registration: \$175 (\$125 student) before January 28 2005; \$250 (\$175 student) afterwards.
 

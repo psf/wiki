@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-See also [PromotingPythonBof](PromotingPythonBof) and [Advocacy](Advocacy).
+See also [PromotingPythonBof](PromotingPythonBof) and [Advocacy](../community/Advocacy).
 
-[PSF](http://www.python.org/psf) chairman [Stephan Deibel](StephanDeibel) aptly observed that these are \"needed:
+[PSF](http://www.python.org/psf) chairman [Stephan Deibel](../people/StephanDeibel) aptly observed that these are \"needed:
 
 - Slides / notes for presentation overviewing the PSF (I have some very simple slides I can provide as a start to whoever takes this on, and can help but can\'t lead this)
 
@@ -16,13 +16,13 @@ See also [PromotingPythonBof](PromotingPythonBof) and [Advocacy](Advocacy).
 
 - Review of PSF web pages to make them more evangelist-friendly
 
-- Possibly, printable handouts and other supplementary materials\". Some notes on this are on the [PsfMaterials](PsfMaterials) page.
+- Possibly, printable handouts and other supplementary materials\". Some notes on this are on the [PsfMaterials](../people/PsfMaterials) page.
 
 This [Wiki](http://wiki.python.org/moin/) page is where we\'ll start to flesh out Stephan\'s outline. Note, for example, AMK\'s [slides for a talk on the Python development process](http://www.amk.ca/talks/python-dev/).
 
 ------------------------------------------------------------------------
 
-Here is the outline from my slides (the ones I attempted to show at [PyCon](PyCon) 2005 except my laptop didn\'t work w/ the projector). The slides are also available in [Powerpoint format](http://www.python.org/psf/psf-overview.ppt) and [OpenOffice format](http://www.python.org/psf/psf-overview.sxi):
+Here is the outline from my slides (the ones I attempted to show at [PyCon](../conferences/pycon/PyCon) 2005 except my laptop didn\'t work w/ the projector). The slides are also available in [Powerpoint format](http://www.python.org/psf/psf-overview.ppt) and [OpenOffice format](http://www.python.org/psf/psf-overview.sxi):
 
 \* Cover Page:
 
@@ -45,7 +45,7 @@ Here is the outline from my slides (the ones I attempted to show at [PyCon](PyCo
 
 \* What is the PSF? (Slide 2)
 
-- Makes [PyCon](PyCon) Possible
+- Makes [PyCon](../conferences/pycon/PyCon) Possible
 
   - Takes the fixed cost risk
   - May lose money some years
@@ -90,7 +90,7 @@ Here is the outline from my slides (the ones I attempted to show at [PyCon](PyCo
   - appetizers, main course, desert
   - a bottle of Burgundy with that
 - The PSF
-  - [PyCon](PyCon)
+  - [PyCon](../conferences/pycon/PyCon)
 
   - IP
 

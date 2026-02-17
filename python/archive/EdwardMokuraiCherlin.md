@@ -22,6 +22,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [FriendlyFavors](./FriendlyFavors.html), [LinkedIn](./LinkedIn.html), [StumbleUpon](./StumbleUpon.html)
 
-- Volunteer at [OneLaptopPerChild](OneLaptopPerChild). Check out their [SugarUi](SugarUi), written in Python.
+- Volunteer at [OneLaptopPerChild](OneLaptopPerChild). Check out their [SugarUi](../people/SugarUi), written in Python.
 
 [CategoryHomepage](CategoryHomepage)

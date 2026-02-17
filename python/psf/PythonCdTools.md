@@ -51,4 +51,4 @@ You said you wanted to mirror the Python wiki on the CD, here is a little script
 :::
 ::::
 
-Thanks! \-- [ThomasWaldmann](ThomasWaldmann) 2004-06-22 05:23:14
+Thanks! \-- [ThomasWaldmann](../people/ThomasWaldmann) 2004-06-22 05:23:14

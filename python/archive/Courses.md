@@ -603,9 +603,9 @@ ISBN 13: 9781789808926 Packt Course Length: 3 hours 31 minutes (30 May 2019)
 
 Build high-performance, distributed, and parallel applications in Dask
 
-Data analysts, Machine Learning professionals, and data scientists often use tools such as Pandas, Scikit-Learn, and [NumPy](NumPy) for data analysis on their personal computer. However, when they want to apply their analyses to larger datasets, these tools fail to scale beyond a single machine, and so the analyst is forced to rewrite their computation.
+Data analysts, Machine Learning professionals, and data scientists often use tools such as Pandas, Scikit-Learn, and [NumPy](../science/NumPy) for data analysis on their personal computer. However, when they want to apply their analyses to larger datasets, these tools fail to scale beyond a single machine, and so the analyst is forced to rewrite their computation.
 
-In this course, you'll learn to scale your data analysis. Firstly, you will execute distributed data science projects right from data ingestion to data manipulation and visualization using Dask. Then, you will explore the Dask framework. After, see how Dask can be used with other common Python tools such as [NumPy](NumPy), Pandas, matplotlib, Scikit-learn, and more.
+In this course, you'll learn to scale your data analysis. Firstly, you will execute distributed data science projects right from data ingestion to data manipulation and visualization using Dask. Then, you will explore the Dask framework. After, see how Dask can be used with other common Python tools such as [NumPy](../science/NumPy), Pandas, matplotlib, Scikit-learn, and more.
 
 [Publisher\'s page](https://www.packtpub.com/web-development/scalable-data-analysis-python-dask-video)
 
@@ -655,7 +655,7 @@ Creating actionable data from raw sources
 
 For data to be useful and meaningful, it must be curated and refined. Data Wrangling with Python teaches you the core ideas behind these processes and equips you with knowledge of the most popular tools and techniques in the domain.
 
-The course starts with the absolute basics of Python, focusing mainly on data structures. It then delves into the fundamental tools of data wrangling like [NumPy](NumPy) and Pandas libraries. You\'ll explore useful insights into why you should stay away from traditional ways of data cleaning, as done in other languages, and take advantage of the specialized pre-built routines in Python. This combination of Python tips and tricks will also demonstrate how to use the same Python backend and extract/transform data from an array of sources including the Internet, large database vaults, and Excel financial tables. To help you prepare for more challenging scenarios, you\'ll cover how to handle missing or wrong data, and reformat it based on the requirements from the downstream analytics tool. The course will further help you grasp concepts through real-world examples and datasets.
+The course starts with the absolute basics of Python, focusing mainly on data structures. It then delves into the fundamental tools of data wrangling like [NumPy](../science/NumPy) and Pandas libraries. You\'ll explore useful insights into why you should stay away from traditional ways of data cleaning, as done in other languages, and take advantage of the specialized pre-built routines in Python. This combination of Python tips and tricks will also demonstrate how to use the same Python backend and extract/transform data from an array of sources including the Internet, large database vaults, and Excel financial tables. To help you prepare for more challenging scenarios, you\'ll cover how to handle missing or wrong data, and reformat it based on the requirements from the downstream analytics tool. The course will further help you grasp concepts through real-world examples and datasets.
 
 By the end of this course, you will be confident in using a diverse array of sources to extract, clean, transform, and format your data efficiently.
 
@@ -923,7 +923,7 @@ Delve into the fundamentals of the platform: Python, IPython, and the Jupyter No
 
 Python is a user-friendly and powerful programming language. IPython offers a convenient interface to the language and its analysis libraries, while Jupyter Notebook is a rich environment, well-adapted to data science and visualization. Together, these open-source tools are widely used by beginners and experts around the world, and in a huge variety of fields and endeavors.
 
-This course is a beginner-friendly guide to the Python data analysis platform. After an introduction to the Python language, IPython, and Jupyter Notebook, you will learn how to analyze and visualize data on real-world examples, how to create graphical user interfaces for image processing in Notebook, and how to perform fast numerical computations for scientific simulations with [NumPy](NumPy), Numba, Cython, and ipyparallel. By the end of this course, you will be able to perform in-depth analyses of all sorts of data.
+This course is a beginner-friendly guide to the Python data analysis platform. After an introduction to the Python language, IPython, and Jupyter Notebook, you will learn how to analyze and visualize data on real-world examples, how to create graphical user interfaces for image processing in Notebook, and how to perform fast numerical computations for scientific simulations with [NumPy](../science/NumPy), Numba, Cython, and ipyparallel. By the end of this course, you will be able to perform in-depth analyses of all sorts of data.
 
 [Publisher\'s page](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-vid)
 
@@ -993,7 +993,7 @@ ISBN 13: 9781789538526 Packt Course Length: 3 hours 15 minutes (MONTH YEAR)
 
 Become an efficient data science practitioner by understanding Python\'s key concepts
 
-The Python Data Science Essentials video series takes you through all you need to know to succeed in data science using Python. Get insights into the core of Python data, including the latest versions of Jupyter Notebook, [NumPy](NumPy), Pandas and scikit-learn. In this course, you will delve into building your essential Python 3.6 data science toolbox, using a single-source approach that will allow to work with Python 2.7 as well. Get to grips fast with data munging and preprocessing, and prepare for machine learning and visualization techniques.
+The Python Data Science Essentials video series takes you through all you need to know to succeed in data science using Python. Get insights into the core of Python data, including the latest versions of Jupyter Notebook, [NumPy](../science/NumPy), Pandas and scikit-learn. In this course, you will delve into building your essential Python 3.6 data science toolbox, using a single-source approach that will allow to work with Python 2.7 as well. Get to grips fast with data munging and preprocessing, and prepare for machine learning and visualization techniques.
 
 The course is structured as a data science project. You will always benefit from clear code and simplified examples to help you understand the underlying mechanics and real-world datasets.
 
@@ -1447,7 +1447,7 @@ This video gives you access to the world of predictive analytics and demonstrate
 
 - Use powerful open source machine learning libraries to train predictive models
 
-- Use pandas, [NumPy](NumPy), and matplotlib to manipulate data
+- Use pandas, [NumPy](../science/NumPy), and matplotlib to manipulate data
 
 - Evaluate and fine-tune machine learning models
 

@@ -173,7 +173,7 @@ The location of the package will need to depend on both the python package name 
 
 - We think that the [symlink](./PyCon2011(2f)Distro(20)Sprint.html#Use_a_symlink_farm) idea will work and be the least invasive. Our action is to try implementing this in packaging and create any tooling that is needed (Tooling may be overengineering).
 
-- We need to talk to Larry Hastings at [PyCon](PyCon) since he\'s adding some virtualenv features into python core. Object of discussion is to figure out how to make it easier for users to access the different versions of the packages that users might need.
+- We need to talk to Larry Hastings at [PyCon](../PyCon) since he\'s adding some virtualenv features into python core. Object of discussion is to figure out how to make it easier for users to access the different versions of the packages that users might need.
 
 - Depending on the above, write PEP for anything needing support from python itself.
   - Maybe write an informational PEP for distros to be pointed at if some of this is not required support from python itself.
@@ -222,7 +222,7 @@ Some questions about how namespace packages will affect python
 
 ## Licensing issue 
 
-Paul Hildebrandt asked about meeting with Matthias Klose and Van about licensing concerns for Lib/profile.py and Lib/pstat.py. Unfortunately, van was not around and Paul was worried it would have to wait another year for resolution (next [PyCon](PyCon)).
+Paul Hildebrandt asked about meeting with Matthias Klose and Van about licensing concerns for Lib/profile.py and Lib/pstat.py. Unfortunately, van was not around and Paul was worried it would have to wait another year for resolution (next [PyCon](../PyCon)).
 
 ### Action 
 

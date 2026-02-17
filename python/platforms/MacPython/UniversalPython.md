@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Differences between [MacPython](MacPython) 2.4.1 and Universal Python 2.4.2:
+Differences between [MacPython]() 2.4.1 and Universal Python 2.4.2:
 
 - `/ApplicationsMacPython-2.4` is now `/Applications/Python 2.4`
 
@@ -22,7 +22,7 @@ Differences between [MacPython](MacPython) 2.4.1 and Universal Python 2.4.2:
 
 - Versions of Mac OS X prior to 10.3.9 are not supported with this build
 
-Unfinished differences between [MacPython](MacPython) 2.4.1 and Universal Python 2.4.2:
+Unfinished differences between [MacPython]() 2.4.1 and Universal Python 2.4.2:
 
 - The Python HTML documentation is now in Python.framework/Versions/2.4/Doc/html, which IDLE knows about.
 

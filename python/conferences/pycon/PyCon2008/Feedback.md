@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-These are the results from the feedback forms (both online and paper) for [PyCon](PyCon) 2008. There were 497 respondents in all, but not every person answered every question.
+These are the results from the feedback forms (both online and paper) for [PyCon](../PyCon) 2008. There were 497 respondents in all, but not every person answered every question.
 
 Numbers in parentheses are the counts of how many times an item was mentioned.
 
@@ -1160,7 +1160,7 @@ N/A 14.8% (66)
 
 # Location 
 
-[PyCon](PyCon) 2009 will be in Chicago again. Where would you like to see [PyCon](PyCon) 2010 or a future [PyCon](PyCon)? Enter up to 3 cities or regions:
+[PyCon](../PyCon) 2009 will be in Chicago again. Where would you like to see [PyCon](../PyCon) 2010 or a future [PyCon](../PyCon)? Enter up to 3 cities or regions:
 
     abq
     Addison, Texas
@@ -2877,11 +2877,11 @@ No 34.2% (151)
     Zope Development
     Zope/Grok
 
-How can we improve [PyCon](PyCon) next year?
+How can we improve [PyCon](../PyCon) next year?
 
 See [/Comments](Feedback/Comments).
 
-Do you have any other comments about [PyCon](PyCon) 2008?
+Do you have any other comments about [PyCon](../PyCon) 2008?
 
 See [/Comments](Feedback/Comments).
 

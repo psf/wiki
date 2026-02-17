@@ -10,7 +10,7 @@ Signed up:
 
 - Chris [McDonough](./McDonough.html) ([chrism@plope.com](mailto:chrism@plope.com)) (availablility: Mar 20 - Mar 23)
 
-  [PaulWinkler](PaulWinkler) (availability: Mar 20 (mid-afternoon) - Mar 23)
+  [PaulWinkler](../people/PaulWinkler) (availability: Mar 20 (mid-afternoon) - Mar 23)
 
   Duncan [McGreggor](./McGreggor.html) (availability: Mar 20 (mid-afternoon), Mar 22,23)
 
@@ -26,7 +26,7 @@ Topic Suggestions for Zope 2 sprint at Pycon
   Improved Large Blob Support
   - Downloading and uploading large binary files to Zope sucks rocks. ZEO may exacerbate the issue, I\'m not sure. Chris, I know you\'ve worked on this before \... ZC has some code but they tell me it\'s not production-quality and nobody has time to work on it\... maybe we could tackle it for this sprint. This would be very useful to my
 
-    employer and would help justify my attending the sprint ![;-)](/wiki/europython/img/smile4.png ";-)") - [PaulWinkler](PaulWinkler) Addendum: I now suspect that 99% of the problem in practice is due to the initial load time when using ZEO. Without ZEO, zope benchmarks much slower than apache on localhost - but across a network zope is very close to apache. Adding ZEO to the mix is about 10 times slower. After that, if the data (or most of it) is in the ZEO cache, speed is very close to plain-Zope speed. More testing needed.
+    employer and would help justify my attending the sprint ![;-)](/wiki/europython/img/smile4.png ";-)") - [PaulWinkler](../people/PaulWinkler) Addendum: I now suspect that 99% of the problem in practice is due to the initial load time when using ZEO. Without ZEO, zope benchmarks much slower than apache on localhost - but across a network zope is very close to apache. Adding ZEO to the mix is about 10 times slower. After that, if the data (or most of it) is in the ZEO cache, speed is very close to plain-Zope speed. More testing needed.
 
   CMF Core / Default
   - There\'s probably plenty of useful work that could be done on CMF. Suggestions?
@@ -34,7 +34,7 @@ Topic Suggestions for Zope 2 sprint at Pycon
   Documentation
   - There\'s a number of things that could use attention \... The API reference is outdated and hard to maintain: it lives in its own little corner of the CVS tree, doesn\'t use docstrings of actual classes or interfaces, omits lots of useful information, contains at least
 
-    one big lie ([ObjectManagerItem](ObjectManagerItem)), and is hard to synchronize with the online Zope Book API reference. We could create & implement a better plan. The Zope Book hasn\'t been updated in about a year and does not cover 2.7. We could spend a day or two editing the book. :-P The Developers\' Guide could probably use attention\... at least, integrating the accumulated user comments. The Backtalk Book product used for all of the above docs could really benefit from a new feature: an auto-generated table of contents within each chapter, showing the structure of the chapter. This would really help in the HTML version - some of the chapters are really long!
+    one big lie ([ObjectManagerItem](../archive/ObjectManagerItem)), and is hard to synchronize with the online Zope Book API reference. We could create & implement a better plan. The Zope Book hasn\'t been updated in about a year and does not cover 2.7. We could spend a day or two editing the book. :-P The Developers\' Guide could probably use attention\... at least, integrating the accumulated user comments. The Backtalk Book product used for all of the above docs could really benefit from a new feature: an auto-generated table of contents within each chapter, showing the structure of the chapter. This would really help in the HTML version - some of the chapters are really long!
 
   Fix Sessions
   - Help Chris bail himself out of session hell!

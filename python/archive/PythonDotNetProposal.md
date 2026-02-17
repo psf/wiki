@@ -106,7 +106,7 @@ Starship.python.net is a machine hosted by Stefan Drees in a datacenter in Germa
 - Greg Ward greg-starship at gerg dot ca
 - [Jim Tittsler](mailto:jwt@python.net)
 - Tom Bryan tbryan at python dot net
-- [Michael Hudson](MichaelHudson)
+- [Michael Hudson](../people/MichaelHudson)
 
 Are all willing to administer the future ship like they have administered the current.
 :::

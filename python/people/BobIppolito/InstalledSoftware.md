@@ -24,7 +24,7 @@ I\'m running Mac OS X 10.3 (7B85). This is the development related software that
 
 - Subversion 0.31.0 - [http://subversion.tigris.org/](http://subversion.tigris.org/)
 
-- [MacPython](MacPython) (10.3 additions, second release) - [http://homepages.cwi.nl/\~jack/macpython/index.html](http://homepages.cwi.nl/~jack/macpython/index.html)
+- [MacPython](../../platforms/MacPython) (10.3 additions, second release) - [http://homepages.cwi.nl/\~jack/macpython/index.html](http://homepages.cwi.nl/~jack/macpython/index.html)
 
 - Tcl/Tk Aqua 8.4.4.0 Batteries Included - [http://tcltkaqua.sf.net/](http://tcltkaqua.sf.net/)
 

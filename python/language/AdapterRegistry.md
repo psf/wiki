@@ -59,11 +59,11 @@ Whenever I\'m programming, and I find a situation where this would be useful, I\
 
 (I\'m about to say a bunch of things. I can\'t substantiate them with links right at this moment, though. If you know the links, though, please provide them, so it doesn\'t look like I\'m just making this stuff up. Of course, I may just well be flat wrong, or have seriously misunderstood. Caveat Emptor.)
 
-People have talked about how in the Java camp, people build on standards. There has been talk also that perhaps this is because of interface support in Java. With well-defined interfaces, the thinking goes, people focus on the ability to provide multiple implementations specialized for different circumstances, different uses. And also, it\'s easy to know if you meet an interface or you do not. And there seems to be something attractive about having a well defined specification. (As opposed to, say, [SubclassingBuiltInTypes](SubclassingBuiltInTypes) .)
+People have talked about how in the Java camp, people build on standards. There has been talk also that perhaps this is because of interface support in Java. With well-defined interfaces, the thinking goes, people focus on the ability to provide multiple implementations specialized for different circumstances, different uses. And also, it\'s easy to know if you meet an interface or you do not. And there seems to be something attractive about having a well defined specification. (As opposed to, say, [SubclassingBuiltInTypes](../archive/SubclassingBuiltInTypes) .)
 
 People disagree about whether it\'s a good or not. But the point is, it\'s plausible to believe that if we have interface support and an AdapterRegistry built into Python, that we may experience a change in Python culture. There is a tension here.
 
-You may find something interesting in the bottom of the page: \"[PythonThreeDotOh](PythonThreeDotOh).\" You should perhaps also read: \"[PythonFederalEnterpriseArchitecture](PythonFederalEnterpriseArchitecture).\"
+You may find something interesting in the bottom of the page: \"[PythonThreeDotOh](../archive/PythonThreeDotOh).\" You should perhaps also read: \"[PythonFederalEnterpriseArchitecture](../archive/PythonFederalEnterpriseArchitecture).\"
 
 ## Zope Adapter Registry 
 
@@ -87,4 +87,4 @@ re: use cases, it strikes me that it\'s perhaps not just the uses in code, but a
 
 We may not be able to find striking use cases, (\"look at how fewer lines this takes!\"), because the utility might come from the pragmatics of our use of our language.
 
-\-- [LionKimbro](LionKimbro) 2005-04-01 20:54:27
+\-- [LionKimbro](../people/LionKimbro) 2005-04-01 20:54:27

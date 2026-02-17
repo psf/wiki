@@ -20,7 +20,7 @@ The source can be found in [AlternativePathModule](AlternativePathModule).
 
 Hello,
 
-I saw the discussion about including the [path type](PathClass) in the standard library. As it turned out, I recently wrote a program which does quite a lot of path manipulation. This caused me to think that the proposed path module:
+I saw the discussion about including the [path type](../people/PathClass) in the standard library. As it turned out, I recently wrote a program which does quite a lot of path manipulation. This caused me to think that the proposed path module:
 
 - Makes path manipulation significantly easier
 - Can be improved.

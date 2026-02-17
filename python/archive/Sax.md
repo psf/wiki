@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 \"Sax\" is an XML parser that operates element by element, line by line.
 
-[MiniDom](MiniDom) sucks up an entire XML file, holds it in memory, and lets you work with it. Sax, on the other hand, emits events as it goes step by step through the file.
+[MiniDom](../people/MiniDom) sucks up an entire XML file, holds it in memory, and lets you work with it. Sax, on the other hand, emits events as it goes step by step through the file.
 
 **NOTE**: A similarly fast but much simpler way to extract information from an XML document in an event-driven, memory efficient fashion is [ElementTree.iterparse()](http://docs.python.org/library/xml.etree.elementtree.html#xml.etree.ElementTree.iterparse).
 
@@ -38,7 +38,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Python Library Reference, xml.sax](http://docs.python.org/lib/module-xml.sax.html) \-- API documentation
 
-- [Python XML FAQ and How-to](http://www.rexx.com/~dkuhlman/pyxmlfaq.html) \-- describes sax & [MiniDom](MiniDom)
+- [Python XML FAQ and How-to](http://www.rexx.com/~dkuhlman/pyxmlfaq.html) \-- describes sax & [MiniDom](../people/MiniDom)
 
 - [SAX: The Simple API for XML](http://pyxml.sourceforge.net/topics/howto/section-SAX.html) \-- wordy tutorial
 

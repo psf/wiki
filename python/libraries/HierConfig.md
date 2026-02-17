@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Many programs are built these days by assembling components together, and Python programs are no exception. In general, the designer may choose to expose multiple configuration points, and will benefit if there is one standard way of doing so. From the perspective which views programs as hierarchical constructions of configurable components, it would seem to follow logically that configuration of the components should also be hierarchical in nature. The two-level (section, key) model as exemplified by the present [ConfigParser](ConfigParser) does not offer sufficient power. If it did, why does Windows need a registry? ![;-)](/wiki/europython/img/smile4.png ";-)")
+Many programs are built these days by assembling components together, and Python programs are no exception. In general, the designer may choose to expose multiple configuration points, and will benefit if there is one standard way of doing so. From the perspective which views programs as hierarchical constructions of configurable components, it would seem to follow logically that configuration of the components should also be hierarchical in nature. The two-level (section, key) model as exemplified by the present [ConfigParser](../language/ConfigParser) does not offer sufficient power. If it did, why does Windows need a registry? ![;-)](/wiki/europython/img/smile4.png ";-)")
 
-I\'ve been thinking about how to improve the configuration of the logging package (which currently uses [ConfigParser](ConfigParser)) and playing with some ideas which may have more general applicability. I\'m posting them here and seeking feedback.
+I\'ve been thinking about how to improve the configuration of the logging package (which currently uses [ConfigParser](../language/ConfigParser)) and playing with some ideas which may have more general applicability. I\'m posting them here and seeking feedback.
 
 I think a good configuration system should provide the following (in addition to being textual, easy to read and edit):
 
@@ -72,11 +72,11 @@ An implementation module using this format has been released: see the [tutorial]
 
 You can download the latest implementation from [PyPI](http://www.python.org/pypi?:action=display&name=config) or via the download link on the tutorial page.
 
-\-- [VinaySajip](VinaySajip)
+\-- [VinaySajip](../people/VinaySajip)
 
 ------------------------------------------------------------------------
 
-I ([PeterOtten](./PeterOtten.html)) have tried to translate the above sample configuration into a much simpler format that was recently suggested by [SkipMontanaro](SkipMontanaro).
+I ([PeterOtten](./PeterOtten.html)) have tried to translate the above sample configuration into a much simpler format that was recently suggested by [SkipMontanaro](../people/SkipMontanaro).
 
 I think that calculations like building an email address should not be performed in a configfile but are rather the task of the application that uses it. The example has therefore significantly been dumbed down.
 
@@ -122,7 +122,7 @@ I think that calculations like building an email address should not be performed
             to=support@pythonsolutions.com
             subject=Take cover
 
-I ([VinaySajip](VinaySajip)) like this syntax, except for:
+I ([VinaySajip](../people/VinaySajip)) like this syntax, except for:
 
 - I don\'t see why we need to (in the above example, under loggers/root) say \"handler=XXX\" three times, rather than using a notation like \"handlers = \[console, file, email\]\".
 - It may be restrictive to only allow identifiers as keys.
@@ -159,9 +159,9 @@ In a very \"user-friendly\" format, which is then turned into a proper DSN in ou
 
 ------------------------------------------------------------------------
 
-[ZCML](http://cvs.zope.org/Zope3/doc/zcml/) (unlike .ini files) handles nested input fairly well. The syntax looks a little like an Apache config; though from much of what I\'ve seen, it\'s straight XML. \-- [IanBicking](IanBicking)
+[ZCML](http://cvs.zope.org/Zope3/doc/zcml/) (unlike .ini files) handles nested input fairly well. The syntax looks a little like an Apache config; though from much of what I\'ve seen, it\'s straight XML. \-- [IanBicking](../people/IanBicking)
 
-- Is there a better link for ZCML than the one above? There appears to be nothing in the form of overview documentation on the Zope site, including dev.zope.org - I did site searches for \"ZCML\" and \"configuration\" and nothing came up which looked immediately useful. I don\'t have a particular problem with ZCML, other than the fact that by dint of being XML, it is fairly verbose; and I would guess (please correct me if I\'m wrong) that it is Zope-centric rather than general-purpose. \-- [VinaySajip](VinaySajip)
+- Is there a better link for ZCML than the one above? There appears to be nothing in the form of overview documentation on the Zope site, including dev.zope.org - I did site searches for \"ZCML\" and \"configuration\" and nothing came up which looked immediately useful. I don\'t have a particular problem with ZCML, other than the fact that by dint of being XML, it is fairly verbose; and I would guess (please correct me if I\'m wrong) that it is Zope-centric rather than general-purpose. \-- [VinaySajip](../people/VinaySajip)
 
 Maybe I\'m confusing ZCML and [ZConfig](http://www.zope.org/Members/fdrake/zconfig/); there\'s a ZConfig presentation at [http://zope.org/Members/mcdonc/Presentations/ZConfigPaper](http://zope.org/Members/mcdonc/Presentations/ZConfigPaper) \-- ZCML is much more XML-based, where ZConfig is like an Apache file. ZCML is used for a lot of configuration inside Zope 3, which has a very different idea of what configuration is. (Intended for \"system integrators\" as opposed to \"system administrators\".) I believe both were intended to be usable outside of Zope, but haven\'t been packaged as such (yet).
 
@@ -236,11 +236,11 @@ The first form would be more useful for being able to refer to individual hosts 
       $virtual_host_definitions['host two']
     ]
 
-You might use the dict to access a specific host, and the sequence for iterating over the hosts in a pre-determined order. \-- [VinaySajip](VinaySajip)
+You might use the dict to access a specific host, and the sequence for iterating over the hosts in a pre-determined order. \-- [VinaySajip](../people/VinaySajip)
 
 ------------------------------------------------------------------------
 
-I ([MichaelFoord](MichaelFoord)) have improved [ConfigObj](ConfigObj) to handle nested sections. The config file syntax is based on the \'INI\' format - so it will read files created for [ConfigParser](ConfigParser) (with a few exceptions).
+I ([MichaelFoord](../people/MichaelFoord)) have improved [ConfigObj](../people/ConfigObj) to handle nested sections. The config file syntax is based on the \'INI\' format - so it will read files created for [ConfigParser](../language/ConfigParser) (with a few exceptions).
 
 It uses \'dictionary\' access - which maintains a proper separation of the attribtues/methods of the object and the members of the config file.
 
@@ -293,4 +293,4 @@ Not being critical because I certainly applaud your effort and design thinking.
 
 The format is similar to Python and JSON but a superset of it, which is why JSON wasn\'t used - it wasn\'t enough. For example, standard JSON does not support the use of the include notation (`@"abc.def"`), evaluation (`` `abc` ``), cross-reference (`$abc`), or expressions (`abc + def`). In addition, JSON (like Python, and unlike [JavaScript](./JavaScript.html)) requires use of literal strings as keys in mappings. Hence the more natural ` { path : "a/b" } ` must be written as ` { "path" : "a/b" } `, which is harder to parse.
 
-\-- [VinaySajip](VinaySajip)
+\-- [VinaySajip](../people/VinaySajip)

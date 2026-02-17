@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## HomePage 
 
-My Homepage is[IvoNet.nl](http://IvoNet.nl) and it is completely written in Python / js / HTML / CSS. Yes Even the server. I use a very early edition of [CherryPy](CherryPy) as my server. Upgrading is to the newest version is almost impossible because I have changed so much of the early code that I don\'t want to do that. I use SQLite3 as my database enginge and it performs beautifully on my PIV 1.8Mhz.
+My Homepage is[IvoNet.nl](http://IvoNet.nl) and it is completely written in Python / js / HTML / CSS. Yes Even the server. I use a very early edition of [CherryPy](../web/CherryPy) as my server. Upgrading is to the newest version is almost impossible because I have changed so much of the early code that I don\'t want to do that. I use SQLite3 as my database enginge and it performs beautifully on my PIV 1.8Mhz.
 
 ## Contributions 
 

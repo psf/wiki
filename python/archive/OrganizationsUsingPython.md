@@ -121,7 +121,7 @@ There\'s [a paper from the 2002 Game Developer Conference](http://www.cygnus-sof
 
 [Industrial Light & Magic](http://www.ilm.com/)
 
-ILM uses Python in the production of their FX, as described in the [RenderMan](RenderMan) Course Notes from Siggraph 2001 (they name \"The Phantom Menace\", \"The Mummy Returns\" and other productions as ones where Python was used\...).
+ILM uses Python in the production of their FX, as described in the [RenderMan](../people/RenderMan) Course Notes from Siggraph 2001 (they name \"The Phantom Menace\", \"The Mummy Returns\" and other productions as ones where Python was used\...).
 
 [Walt Disney Feature Animation](http://python.oreilly.com/news/disney_0201.html)
 
@@ -221,7 +221,7 @@ The [nmag](http://nmag.soton.ac.uk/) project uses a Python user interface to con
 
 [Objexx Engineering](http://objexx.com/)
 
-Objexx Engineering develops sophisticated scientific and engineering applications using Python. Pure Python applications are developed using packages such as [NumPy](NumPy) and [PyTables](PyTables) for computational efficiency, [PySide](PySide) or [PyQt](PyQt) for GUIs, and matplotlib or [PyQwt](./PyQwt.html) for plotting. Hybrid applications are also built with a Python user-centric wrapper around a (legacy or new) C++ or Fortran computational core using binding generators such as Boost.Python and F2PY.
+Objexx Engineering develops sophisticated scientific and engineering applications using Python. Pure Python applications are developed using packages such as [NumPy](../science/NumPy) and [PyTables](../people/PyTables) for computational efficiency, [PySide](../people/PySide) or [PyQt](../gui/PyQt) for GUIs, and matplotlib or [PyQwt](./PyQwt.html) for plotting. Hybrid applications are also built with a Python user-centric wrapper around a (legacy or new) C++ or Fortran computational core using binding generators such as Boost.Python and F2PY.
 
 ## Electronic Design Automation 
 
@@ -231,9 +231,9 @@ Ciranova is an [Electronics Design Automation (EDA)](http://en.wikipedia.org/wik
 
 [Productivity Design Tools](http://www.productive-eda.com/)
 
-Productivity Design Tools (PDTi) is an [Electronics Design Automation (EDA)](http://en.wikipedia.org/wiki/Electronic_design_automation) company providing the most extensible [Electronic System Level (ESL)](http://www.productive-eda.com/auto-pg-glos/glossary.html#esl) tools for managing [IP](http://www.productive-eda.com/auto-pg-glos/glossary.html#ip) specifications, and automating code and documentation generation. [Soft IP](http://www.productive-eda.com/auto-pg-glos/glossary.html#softIp) generators built upon PDTi\'s [SpectaGen](SpectaGen) Framework make significant efficiency improvements for all [aspects](http://www.productive-eda.com/auto-pg-glos/glossary.html#aop) of system and chip development. PDTi was founded to address needs identified during its founder\'s time as a chip developer. Unlike the typical in-house solution or the competitors\' offerings, [SpectaGen](SpectaGen) is flexible enough for any environment and is designed to be extended based on customer-specific knowledge and design experience using [object-oriented](http://www.productive-eda.com/auto-pg-glos/glossary.html#ood) Python and XML.
+Productivity Design Tools (PDTi) is an [Electronics Design Automation (EDA)](http://en.wikipedia.org/wiki/Electronic_design_automation) company providing the most extensible [Electronic System Level (ESL)](http://www.productive-eda.com/auto-pg-glos/glossary.html#esl) tools for managing [IP](http://www.productive-eda.com/auto-pg-glos/glossary.html#ip) specifications, and automating code and documentation generation. [Soft IP](http://www.productive-eda.com/auto-pg-glos/glossary.html#softIp) generators built upon PDTi\'s [SpectaGen](../people/SpectaGen) Framework make significant efficiency improvements for all [aspects](http://www.productive-eda.com/auto-pg-glos/glossary.html#aop) of system and chip development. PDTi was founded to address needs identified during its founder\'s time as a chip developer. Unlike the typical in-house solution or the competitors\' offerings, [SpectaGen](../people/SpectaGen) is flexible enough for any environment and is designed to be extended based on customer-specific knowledge and design experience using [object-oriented](http://www.productive-eda.com/auto-pg-glos/glossary.html#ood) Python and XML.
 
-PDTi\'s [SpectaReg](SpectaReg) product is an eXtensible [Memory-Mapped Register](http://www.productive-eda.com/auto-pg-glos/glossary.html#mmr) generator.
+PDTi\'s [SpectaReg](../people/SpectaReg) product is an eXtensible [Memory-Mapped Register](http://www.productive-eda.com/auto-pg-glos/glossary.html#mmr) generator.
 
 ## Software Development 
 
@@ -281,7 +281,7 @@ The Smeal College of Business was an early adopter of the Python-based web frame
 
 [New Zealand Digital Library](http://www.nzdl.org/)
 
-The NZDL\'s [PostScript](PostScript) to ASCII converter project, [PreScript](http://www.nzdl.org/html/prescript.html), was converted from Perl to Python for the sake of maintainability.
+The NZDL\'s [PostScript](../people/PostScript) to ASCII converter project, [PreScript](http://www.nzdl.org/html/prescript.html), was converted from Perl to Python for the sake of maintainability.
 
 [IT Certification Exam preparation](http://www.whizlabs.com/)
 
@@ -289,7 +289,7 @@ Ensure your success in IT Certification exam with Whizlabs IT certification exam
 
 [SchoolTool](http://www.schooltool.org/)
 
-[SchoolTool](SchoolTool) is a project to develop a common global school administration infrastructure that is freely available under an Open Source licence.
+[SchoolTool](../people/SchoolTool) is a project to develop a common global school administration infrastructure that is freely available under an Open Source licence.
 
 ## Business Software 
 
@@ -343,7 +343,7 @@ Nektra is using Python for developing scripts to trace the behaviour of user sof
 
 [WuBook](http://wubook.net/)
 
-provides tourism technologies as a booking engine (individual booking on line) and a Channel Manager. Services are completely developed in Python and Twisted. Moreover, [WuBook](./WuBook.html) provides a large Web Services Framework ([XmlRpc](XmlRpc) Protocol, xmlrpc python library) succesfully integrated by different programming languages.
+provides tourism technologies as a booking engine (individual booking on line) and a Channel Manager. Services are completely developed in Python and Twisted. Moreover, [WuBook](./WuBook.html) provides a large Web Services Framework ([XmlRpc](../networking/XmlRpc) Protocol, xmlrpc python library) succesfully integrated by different programming languages.
 
 ## Government 
 

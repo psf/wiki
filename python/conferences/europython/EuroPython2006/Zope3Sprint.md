@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Anyone interested in attending a Zope 3 sprint at [EuroPython](EuroPython) please list yourself here:
+Anyone interested in attending a Zope 3 sprint at [EuroPython](../EuroPython) please list yourself here:
 
 \* Martijn Faassen (30 thru 2 july - want to work on convention over configuration mode/bobo)
 

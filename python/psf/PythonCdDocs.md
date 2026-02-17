@@ -42,4 +42,4 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [PEP index](http://legacy.python.org/dev/peps/) {en}
 
-- Docs, Tutorials and FAQs to non-core components (like [PyGtk](PyGtk) etc.)
+- Docs, Tutorials and FAQs to non-core components (like [PyGtk](../people/PyGtk) etc.)

@@ -22,7 +22,7 @@ For more information about the decorator pattern in general, see:
 
 ## What is a Python Decorator 
 
-The \"decorators\" we talk about with concern to Python are not exactly the same thing as the [DecoratorPattern](DecoratorPattern) described above. A Python decorator is a specific change to the Python syntax that allows us to more conveniently alter functions and methods (and possibly classes in a future version). This supports more readable applications of the [DecoratorPattern](DecoratorPattern) but also other uses as well.
+The \"decorators\" we talk about with concern to Python are not exactly the same thing as the [DecoratorPattern](../people/DecoratorPattern) described above. A Python decorator is a specific change to the Python syntax that allows us to more conveniently alter functions and methods (and possibly classes in a future version). This supports more readable applications of the [DecoratorPattern](../people/DecoratorPattern) but also other uses as well.
 
 Support for the decorator syntax was proposed for Python in [PEP 318](http://www.python.org/peps/pep-0318.html), and will be implemented in Python 2.4.
 
@@ -174,7 +174,7 @@ And here is an example taken from the current test_decorators.py. This exposes t
 
 - \- Would not work in interactive mode (list would be interpreted right away)
 
-- \- [EuroPython](EuroPython) didn\'t like it ( why? ) (hard to teach newbies about the magic)
+- \- [EuroPython](../conferences/europython/EuroPython) didn\'t like it ( why? ) (hard to teach newbies about the magic)
 
 - \- The backwards compatability wouldn\'t be portable to Jython
 

@@ -10,13 +10,13 @@ Comparing Python to various other languages:
 
 Full Treatments:
 
-- [PythonVsHaskell](PythonVsHaskell)
+- [PythonVsHaskell](../archive/PythonVsHaskell)
 
-- [PythonVsNice](PythonVsNice)
+- [PythonVsNice](../archive/PythonVsNice)
 
-- [PythonVsRuby](PythonVsRuby)
+- [PythonVsRuby](../archive/PythonVsRuby)
 
-- [PythonVsPhp](PythonVsPhp)
+- [PythonVsPhp](../archive/PythonVsPhp)
 
 External Articles:
 
@@ -31,7 +31,7 @@ External Articles:
 
   - *Several in 2000*: [Lutz Prechelt](http://www.ipd.uka.de/~prechelt/Biblio/)\'s article *[An Empirical Comparison of C, C++, Java, Perl, Python, Rexx, and Tcl for a Search/String-Processing Program](http://page.mi.fu-berlin.de/~prechelt/Biblio/jccpprt_computer2000.pdf) (pdf)* is a little old, but it is REAL RESEARCH, comparing productivity and program performance for 80 different implementations of the same requirements, in seven languages.
 
-  - *Several in 1997*: Guido\'s essay *[Comparing Python to Other Languages](http://www.python.org/doc/essays/comparisons.html)* is an essay comparison of Python to Java, [JavaScript](./JavaScript.html), Perl, Tcl, [Smalltalk](Smalltalk), C++, Common Lisp, and Scheme.
+  - *Several in 1997*: Guido\'s essay *[Comparing Python to Other Languages](http://www.python.org/doc/essays/comparisons.html)* is an essay comparison of Python to Java, [JavaScript](./JavaScript.html), Perl, Tcl, [Smalltalk](../archive/Smalltalk), C++, Common Lisp, and Scheme.
 
   - erratically updated: \"[Bilateral comparisons of scripting languages](http://phaseit.net/claird/comp.lang.misc/language_comparisons.html#scripting)\"
 
@@ -69,7 +69,7 @@ External Articles:
 
 \... please add more!
 
-See also [StrongVsWeakTyping](StrongVsWeakTyping).
+See also [StrongVsWeakTyping](../archive/StrongVsWeakTyping).
 
 ------------------------------------------------------------------------
 

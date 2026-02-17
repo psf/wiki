@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This is a list of all the accomplishments from the [PyCon](PyCon) 2008 Sprints.
+This is a list of all the accomplishments from the [PyCon](../conferences/pycon/PyCon) 2008 Sprints.
 
 # 03/17/2008 
 
@@ -48,7 +48,7 @@ This is a list of all the accomplishments from the [PyCon](PyCon) 2008 Sprints.
 
 - Got a new C function-based extension type API working, after several months simmering in development.
 
-- Made [TurboGears](TurboGears) testutil.DBTest work with SQLAlchemy (lmacken)
+- Made [TurboGears](../web/TurboGears) testutil.DBTest work with SQLAlchemy (lmacken)
 
 # 03/19/2008 
 
@@ -112,7 +112,7 @@ From [Frank Wierzbicki](http://fwierzbicki.blogspot.com/2008/03/pycon-2008-and-j
 
 - Yearly calendar view displays term information (Filip).
 
-- Made [SchoolTool](SchoolTool) more beautiful (Andrew).
+- Made [SchoolTool](../people/SchoolTool) more beautiful (Andrew).
 
 - Creation of a manage tab, centralizing management screens.
 
@@ -128,7 +128,7 @@ From [Frank Wierzbicki](http://fwierzbicki.blogspot.com/2008/03/pycon-2008-and-j
 
 - Significantly improved weekly calendar view with timetable integration (Chris).
 
-- Improved [SchoolTool](SchoolTool) resource booking view (Andrew).
+- Improved [SchoolTool](../people/SchoolTool) resource booking view (Andrew).
 
 # Orbited Sprint 
 

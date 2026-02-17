@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[FrankWierzbicki](FrankWierzbicki) is leading the implementation of the datetime module.
+[FrankWierzbicki](../people/FrankWierzbicki) is leading the implementation of the datetime module.
 
 ### Background 
 
@@ -26,7 +26,7 @@ My original plan was to write the entire module in Java, using zxDateTime for gu
 
 - [http://cvs.sourceforge.net/viewcvs.py/zxpy/zxDateTime/](http://cvs.sourceforge.net/viewcvs.py/zxpy/zxDateTime/) .
 
-However, after reading this addition by [BrianZimmer](BrianZimmer) to [JythonModulesInJava](JythonModulesInJava):
+However, after reading this addition by [BrianZimmer](../people/BrianZimmer) to [JythonModulesInJava](../examples/JythonModulesInJava):
 
       My new approach is borrowed slightly from CPython where it's very
     common to write a C library, a straight wrapper and then a Pythonic
@@ -53,7 +53,7 @@ And after discussing it with Brian, I\'ve re-thought that approach, and I now pl
 
 ### Discussion 
 
-[FrankWierzbicki](FrankWierzbicki) 2005-02-13
+[FrankWierzbicki](../people/FrankWierzbicki) 2005-02-13
 
 For the short term I plan to use the Python unit tests as the absolute definition of the datetime module, and will not try to go beyond the CPython implementation. This means (for example) that dates will be limited to 1-9999AD, because that is what the CPython unit tests expect. Even though java.util.Calendar does not have this limitation, I will enforce it. This may change once Jython starts to catch up with the leading edge of CPython development and we can productively review the unit tests themselves.
 
@@ -67,4 +67,4 @@ Might [Joda Time](http://joda-time.sourceforge.net/) come in handy?
 
 Joda Time is interesting but we should look to minimize Jython\'s dependencies.
 
-\- [BrianZimmer](BrianZimmer)
+\- [BrianZimmer](../people/BrianZimmer)

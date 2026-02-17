@@ -14,7 +14,7 @@ Your chance to become a Python star.
 
 - [/SessionChairs](PyConDC2004/SessionChairs)
 
-- [CreatingBuzz](CreatingBuzz)
+- [CreatingBuzz](../../people/CreatingBuzz)
 
 - [/Sponsors](PyConDC2004/Sponsors)
 
@@ -44,7 +44,7 @@ A summary of the feedback from attendees is at [PyConDC2004/Feedback](PyConDC200
 
 ### Background 
 
-The second annual [PyCon community conference](http://www.pycon.org/dc2004), [PyConDC2004](PyConDC2004), took place on 24-26 March 2004 at George Washington University\'s Cafritz Conference Center in Washington, DC. This was a low-cost community-organized conference. There were four days of sprinting on various projects before the con, from March 20 to March 23; see [SprintPlan2004](./SprintPlan2004.html) - as an opportunity to see [ExtremeProgramming](ExtremeProgramming) in action, the [PyCon](PyCon) sprint was said to have been a good place to start.
+The second annual [PyCon community conference](http://www.pycon.org/dc2004), [PyConDC2004](PyConDC2004), took place on 24-26 March 2004 at George Washington University\'s Cafritz Conference Center in Washington, DC. This was a low-cost community-organized conference. There were four days of sprinting on various projects before the con, from March 20 to March 23; see [SprintPlan2004](./SprintPlan2004.html) - as an opportunity to see [ExtremeProgramming](../../people/ExtremeProgramming) in action, the [PyCon](PyCon) sprint was said to have been a good place to start.
 
 *(copyright 2004, Python Software Foundation)*
 

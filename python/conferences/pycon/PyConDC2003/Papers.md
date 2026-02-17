@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Here is a quick index of the talks from [PyCon](PyCon) 2003, and links to the papers and/or any other information I could find. Though this started as an index of the scheduled talks, I an expanding it to include resources for lightning talks, open space sessions,etc.
+Here is a quick index of the talks from [PyCon](../PyCon) 2003, and links to the papers and/or any other information I could find. Though this started as an index of the scheduled talks, I an expanding it to include resources for lightning talks, open space sessions,etc.
 
 - \--[Jeff Kunce](mailto:kuncej@mdc.conservation.state.mo.us)
 
@@ -20,7 +20,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#IntroChair)
 
-- [PyConSteveHolden](PyConSteveHolden)
+- [PyConSteveHolden](../PyConSteveHolden)
 
 ## Aahz: Threads tutorial 
 
@@ -54,7 +54,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#ReST)
 
-- [PyConBrettCannon](PyConBrettCannon)
+- [PyConBrettCannon](../PyConBrettCannon)
 
 - [ReStructured Text](http://docutils.sf.net/rst.html) documentation at docutils.sf.net
 
@@ -64,7 +64,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#BuildBot)
 
-- [PyConBrianWarner](PyConBrianWarner)
+- [PyConBrianWarner](../PyConBrianWarner)
 
 ## Brian Warner: Perspective Broker: \"Translucent\" Remote Method calls in Twisted 
 
@@ -72,7 +72,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#PerspectiveBroker)
 
-- [PyConBrianWarner](PyConBrianWarner)
+- [PyConBrianWarner](../PyConBrianWarner)
 
 - [Twisted](http://www.twistedmatrix.com/)
 
@@ -96,7 +96,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#NetWrapper)
 
-- [PyConChetanGadgil](PyConChetanGadgil)
+- [PyConChetanGadgil](../PyConChetanGadgil)
 
 - [KOBRA Project Page](http://home.attbi.com/~chetangadgil//DotNetWrapperForPython.htm)
 
@@ -118,7 +118,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#SubversionFromWithin)
 
-- [PyConDanaMoore](PyConDanaMoore)
+- [PyConDanaMoore](../PyConDanaMoore)
 
 ## David Abrahams: Introducing Boost.Python 
 
@@ -142,7 +142,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#PyMite)
 
-- [PyMite](PyMite)
+- [PyMite](../../../people/PyMite)
 
 ## Francesc Alted: Processing And Analyzing Extremely Large Amounts Of Data In Python 
 
@@ -153,9 +153,9 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
   - [Slides](http://pytables.sourceforge.net/doc/pycon-slides.pdf)
 
-- [PyConFrancescAlted](PyConFrancescAlted)
+- [PyConFrancescAlted](../PyConFrancescAlted)
 
-- [PyTables](PyTables)
+- [PyTables](../../../people/PyTables)
 
 ## Francesco Garelli: Satine: a XML Data Binding technology for Python 
 
@@ -269,7 +269,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#BeyondTheConfigFile)
 
-- [PyConLeonardRichardson](PyConLeonardRichardson)
+- [PyConLeonardRichardson](../PyConLeonardRichardson)
 
 ## Michael Bernstein: Case Study: A Faceted Classification Solution for a Reusable Digital Asset Repository 
 
@@ -287,7 +287,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#TeachingPyGame)
 
-- [PyGame](PyGame)
+- [PyGame](../../../multimedia/PyGame)
 
 ## Neal Norwitz: Building a Better Bug Detector 
 
@@ -342,7 +342,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#POSH)
 
-- [PyConSteffenVikenValvaag](PyConSteffenVikenValvaag)
+- [PyConSteffenVikenValvaag](../PyConSteffenVikenValvaag)
 
 - [POSH](http://poshmodule.sourceforge.net/)
 
@@ -355,7 +355,7 @@ See also [../OpenSpaceSessions](OpenSpaceSessions) and [../SprintPlan](SprintPla
 
 - [PyConSpeakers Entry](./PyConSpeakers.html#UnitTesting)
 
-- [PyConTomBryan](PyConTomBryan)
+- [PyConTomBryan](../PyConTomBryan)
 
 ## Tom Olivier: A Population Simulation System Written in Python 
 

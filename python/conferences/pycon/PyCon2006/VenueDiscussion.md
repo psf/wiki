@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Requirements: Discussion 
 
-- Low-cost, so that [PyCon](PyCon) will continue to make money. If the venue cost is going to rise dramatically, then it would be better to limit attendance to [PyCon](PyCon).
+- Low-cost, so that [PyCon](../PyCon) will continue to make money. If the venue cost is going to rise dramatically, then it would be better to limit attendance to [PyCon](../PyCon).
 
   - *Can we put a number on this? \"Low-cost\" is a bit vague, although clearly desirable \-- sh*
 
@@ -16,11 +16,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - *Shall we say: the venue\'s cost must let the PSF charge at most \$200 and still break even or earn a profit. \--amk*
 
-- When eventually the venue does change, does it have to stay in the DC area or do we want to start moving [PyCon](PyCon) around?
+- When eventually the venue does change, does it have to stay in the DC area or do we want to start moving [PyCon](../PyCon) around?
 
   - *There\'s nothing carved in stone, but close to DC means we can predict attendance based on past history more easily.*
 
-  - *I would really like for [PyCon](PyCon) to move, because right now you are losing all the people for whom, for whatever reason, cannot or will not go to D.C. And there is no reason to assume that these people are smaller in number than the people who will not attend if we move it from D.C. or indeed that the \_D.C. or lose me_crowd is any more desirable than the \_West Coast or lose me\_ crowd or any other such. Arguing that OSCON is on the west coast is besides the point, since OSCON is so expensive. The current membership of [PyCon](PyCon) organisers 2004 may be terrily biased in liking D.C., because people do tend to volunteer for \'around home\'. The people who dislike D.C. may be entirely off the radar. lac*
+  - *I would really like for [PyCon](../PyCon) to move, because right now you are losing all the people for whom, for whatever reason, cannot or will not go to D.C. And there is no reason to assume that these people are smaller in number than the people who will not attend if we move it from D.C. or indeed that the \_D.C. or lose me_crowd is any more desirable than the \_West Coast or lose me\_ crowd or any other such. Arguing that OSCON is on the west coast is besides the point, since OSCON is so expensive. The current membership of [PyCon](../PyCon) organisers 2004 may be terrily biased in liking D.C., because people do tend to volunteer for \'around home\'. The people who dislike D.C. may be entirely off the radar. lac*
 
   - *Non-DC organizers are sparse, so it\'s easier to stick with the DC area. \--amk*
 

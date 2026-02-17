@@ -41,7 +41,7 @@ Aiste, Christian, David, Jacob, John, Laura, Paul, Samuele
 - Sponsorship
   - Brief discussion of the status of sponsors, incoming materials, and so on.
 
-  - Organising sponsors - what do we award companies that are active in organising [EuroPython](EuroPython)?
+  - Organising sponsors - what do we award companies that are active in organising [EuroPython](../..)?
 
   - Further discussion of the sponsorship of attendees (plus any information that should be published).
 

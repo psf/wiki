@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Element-based syntax typically uses XML-like elements to either annotate parts of a Web page (see [StructureAnnotation](StructureAnnotation)) or to introduce program code into the document (see [PythonInWebPage](PythonInWebPage)). For example:
+Element-based syntax typically uses XML-like elements to either annotate parts of a Web page (see [StructureAnnotation](../language/StructureAnnotation)) or to introduce program code into the document (see [PythonInWebPage](PythonInWebPage)). For example:
 
     <table>
       <python-block>

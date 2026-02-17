@@ -30,7 +30,7 @@ Streamline how we handle membership signup and management. Work on evolving pydo
 
 - [Pydotorg WG Mailing List](http://mail.python.org/mailman/listinfo/pydotorg-wg)
 
-  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](EwaJodlowska) is the list admin.
+  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](../people/EwaJodlowska) is the list admin.
 
 ## Discussions 
 

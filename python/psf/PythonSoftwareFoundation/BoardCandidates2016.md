@@ -69,7 +69,7 @@ Read through the [Letter from PSF Director of Operations - Expectations of Board
 ::: 
 Note
 
-Please follow the instructions on the [FrontPage](FrontPage) to gain wiki edit access.
+Please follow the instructions on the [FrontPage](../../people/FrontPage) to gain wiki edit access.
 :::
 
 **Registering to vote on PSF ballots**

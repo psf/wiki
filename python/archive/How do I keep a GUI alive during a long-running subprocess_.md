@@ -12,7 +12,7 @@ This frequently-asked question appears, for example, in [this Usenet posting](ht
 
 - put the subprocess in the background, return to the GUI\'s event loop, and poll to detect when the subprocess has terminated;
 
-- put the subprocess in its own thread, and rely on Python [ThreadProgramming](ThreadProgramming) \...;
+- put the subprocess in its own thread, and rely on Python [ThreadProgramming](../people/ThreadProgramming) \...;
 
 - launch **subprocess.Popen()** in a conventional way, but interleave attention in a single thread of control between the GUI controller and the **stdout** from the subprocess.
 

@@ -30,7 +30,7 @@ The extensions which we should consider adding directly to distutils include:
 
 - Dependency support. This is also being worked on by Phillip Eby, but it would be nice to get more information from the community about the requirements.
 
-Anthony Baxter, [FredDrake](FredDrake), [BobIppolito](BobIppolito), and Kapil added a very simple dependency mechanism on Monday; we can discuss what was done and whether it\'s sufficient.
+Anthony Baxter, [FredDrake](../people/FredDrake), [BobIppolito](../people/BobIppolito), and Kapil added a very simple dependency mechanism on Monday; we can discuss what was done and whether it\'s sufficient.
 
 (Guys: you might have a look at setuptools.depends and setuptools.command.depends in the sandbox, as the dependency mechanisms there are more fleshed out (including unit tests), although they are not as smoothly integrated with distutils (e.g., I don\'t have a \"skip\" option for dependency checking yet). In particular, note that using import as a dependency checking mechanism will fail when installing to a directory not on the current PYTHONPATH; setuptools\' dependency checking can handle this correctly, even in the presence of \'extra_path\'. Also, I\'m awfully YAGNI on *provides* in general. What are the use cases? \--PJE)
 
@@ -46,7 +46,7 @@ The following people showed up for the first hour of the BOF; once we\'d overrun
 
 - Andrew Kuchling
 
-- [BobIppolito](BobIppolito)
+- [BobIppolito](../people/BobIppolito)
 
 - Zac Bir
 

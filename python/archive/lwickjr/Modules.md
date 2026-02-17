@@ -30,9 +30,9 @@ My more-interesting modules include \"[Alias](./lwickjr(2f)Modules(2f)Modules(2f
 
 It seems to me that Edit is something that makes it so that you can jump straight to where a variable is defined, in IDLE. (Not really sure.) If so, that\'s awesome! I\'ve often times wished IDLE were more powerful; This is the kind of thing I\'d like to see more of. ![:)](/wiki/europython/img/smile.png ":)")
 
-\-- [LionKimbro](LionKimbro) 2005-04-01 21:16:29
+\-- [LionKimbro](../../people/LionKimbro) 2005-04-01 21:16:29
 
-[lwickjr](lwickjr): You have the right idea, but variables are too simple for Edit to deal with. When you type \"edit thing\", \"thing\" \*MUST\* evaluate to an object for which one of the standard modules, \"inspect\", I believe, is capable of locating the information required to open the source module. For the module to open for editing at the line where the object is defined, it is required for perfect positioning that inspect be capable of determining the line number. In the absence of reliable information, Edit makes an educated guess, and positions the editor there. When the educated guess fails, the editor is positioned wherever I.D.L.E. would have positioned it had you opened the file for editing via another method. Basically, Edit is given a class, instance, module, etc., and attempts to display the Python source for the definition. Edit will work, however, for anything that Inspect can retrieve the required information from. Edit also provides a hook for invoking custom editors in place of I.D.L.E.\`s built-in editor. This would be useful, for example, for having edit invoke a G.U.I. editor instead when invoked on objects created by the G.U.I. editor.
+[lwickjr](): You have the right idea, but variables are too simple for Edit to deal with. When you type \"edit thing\", \"thing\" \*MUST\* evaluate to an object for which one of the standard modules, \"inspect\", I believe, is capable of locating the information required to open the source module. For the module to open for editing at the line where the object is defined, it is required for perfect positioning that inspect be capable of determining the line number. In the absence of reliable information, Edit makes an educated guess, and positions the editor there. When the educated guess fails, the editor is positioned wherever I.D.L.E. would have positioned it had you opened the file for editing via another method. Basically, Edit is given a class, instance, module, etc., and attempts to display the Python source for the definition. Edit will work, however, for anything that Inspect can retrieve the required information from. Edit also provides a hook for invoking custom editors in place of I.D.L.E.\`s built-in editor. This would be useful, for example, for having edit invoke a G.U.I. editor instead when invoked on objects created by the G.U.I. editor.
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ I hereby offer any modules that \"\"I\"\" attach to this page for inclusion in t
 
 I have a hard time understanding what the modules are for; There\'s a lot of focus on *how* these things work, but I have difficulty figuring out what they are for.
 
-\-- [LionKimbro](LionKimbro) 2005-04-01 21:16:29
+\-- [LionKimbro](../../people/LionKimbro) 2005-04-01 21:16:29

@@ -175,7 +175,7 @@ Link: [http://webpages.charter.net/edreamleo/front.html](http://webpages.charter
 
 ## Logical Desktop 
 
-Logical Desktop (LD) is a \"desktop environment\" written in [PyQt](PyQt) (and soon PyKDE). In LD, you work by executing \"actions\", which are composed of one \"verb\" and one or more \"objects\" (e.g. \"Print\" is the verb, and the objects are the printer, the files to print, and the program used for printing).
+Logical Desktop (LD) is a \"desktop environment\" written in [PyQt]() (and soon PyKDE). In LD, you work by executing \"actions\", which are composed of one \"verb\" and one or more \"objects\" (e.g. \"Print\" is the verb, and the objects are the printer, the files to print, and the program used for printing).
 
 In all desktop environments you specify \"verbs\" and \"objects\", in one way or another. What\'s new about Logical Desktop is \_how\_ you specify those things: 1) in any order 2) with automatic hiding of the things that don\'t make sense. Feature (1) enables LD to unify the \"task-oriented\" and \"document-oriented\" styles of interaction. Feature (2) is called \"reciprocal incremental list narrowing\" and allows you to find the right item to click much easier.\
 Author: Maurizio Colucci\
@@ -280,7 +280,7 @@ Link: [http://pmpu.sharesource.org/](http://pmpu.sharesource.org/)
 
 ## pydingo
 
-[PyDingo](./PyDingo.html) will be a multi purpose GUI application (file manager, text editor, other) based on [PyQt4](PyQt4).\
+[PyDingo](./PyDingo.html) will be a multi purpose GUI application (file manager, text editor, other) based on [PyQt4](../PyQt4).\
 Author: riklaunim\
 Link: [http://code.google.com/p/pydingo/](http://code.google.com/p/pydingo/)
 
@@ -311,13 +311,13 @@ Link: [https://sourceforge.net/projects/zpymoney/](https://sourceforge.net/proje
 
 ## pynguin
 
-Pynguin is Python turtle graphics application. It includes a unified editor, interactive console, and graphics display area. It is written in Python and uses the [PyQt4](PyQt4) toolkit. Pynguin is meant to be an easy environment for introducing programming concepts to beginning programmers.\
+Pynguin is Python turtle graphics application. It includes a unified editor, interactive console, and graphics display area. It is written in Python and uses the [PyQt4](../PyQt4) toolkit. Pynguin is meant to be an easy environment for introducing programming concepts to beginning programmers.\
 Author: Lee Harr\
 Link: [https://bitbucket.org/leeharr/pynguin](https://bitbucket.org/leeharr/pynguin)
 
 ## PyPI Browser 
 
-A [PyQt4](PyQt4)-based GUI browser for the Python Package Index.\
+A [PyQt4](../PyQt4)-based GUI browser for the Python Package Index.\
 Author: David Boddie\
 Link: [http://www.boddie.org.uk/david/Projects/Python/PyPI-Browser/](http://www.boddie.org.uk/david/Projects/Python/PyPI-Browser/)
 
@@ -368,7 +368,7 @@ Link: [http://www.digitalfox.org/projets/qPyProfiler/](http://www.digitalfox.org
 An interactive Python shell which allows the qt module to be imported and used interactively.\
 Author: David Boddie\
 Link: [http://www.boddie.org.uk/david/Projects/Python/Qt/](http://www.boddie.org.uk/david/Projects/Python/Qt/)\
-**Note:** this is really only a toy shell; ipython provides many more features and can be used with [PyQt](PyQt).
+**Note:** this is really only a toy shell; ipython provides many more features and can be used with [PyQt]().
 
 ## QTorrent 
 
@@ -431,7 +431,7 @@ Link: [https://github.com/danboid/shufti](https://github.com/danboid/shufti)
 
 ## Spyder 
 
-A [PyQt5](./PyQt5.html)-based IDE combining the editing, analysis, debugging and profiling functionality of a software development tool with the data exploration, interactive execution, deep inspection, and rich visualization capabilities of a scientific environment. Furthermore, Spyder offers built-in integration with many popular scientific Python packages, including [NumPy](NumPy), [SciPy](SciPy), Pandas, IPython, [QtConsole](./QtConsole.html), Matplotlib, [SymPy](SymPy), and more.\
+A [PyQt5](./PyQt5.html)-based IDE combining the editing, analysis, debugging and profiling functionality of a software development tool with the data exploration, interactive execution, deep inspection, and rich visualization capabilities of a scientific environment. Furthermore, Spyder offers built-in integration with many popular scientific Python packages, including [NumPy](../../science/NumPy), [SciPy](SciPy), Pandas, IPython, [QtConsole](./QtConsole.html), Matplotlib, [SymPy](../../people/SymPy), and more.\
 
 Spyder uses its homegrown [QtPy](https://github.com/spyder-ide/qtpy) Qt abstraction library to be able to work with multiple Qt bindings, although [PyQt5](./PyQt5.html) is currently the primary development target. Spyder can also be used as a [PyQt5](./PyQt5.html) extension library, allowing others to build upon its functionality and embed its components, such as the interactive console, in other software.\
 
@@ -486,7 +486,7 @@ Link: [http://www.vitables.org/](http://www.vitables.org/)
 
 ## XPathEvaluator 
 
-A [PyQt4](PyQt4)-based tool that helps you \"write\" XPath expressions.\
+A [PyQt4](../PyQt4)-based tool that helps you \"write\" XPath expressions.\
 Author: Andreas Pakulat\
 Link: [http://www.apaku.de/linux/xpathevaluator/index.php](http://www.apaku.de/linux/xpathevaluator/index.php)
 

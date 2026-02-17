@@ -32,7 +32,7 @@ The poll had around 100 people voting with around 64 percent for Bangalor and 36
 
 - Good student participation from Chennai last year.
 
-- Change in [PyCon](PyCon) location would create awareness about Python in Chennai and would be helpful for college students.
+- Change in [PyCon](../PyCon) location would create awareness about Python in Chennai and would be helpful for college students.
 
 - Kausik has met people at the recent Barcamp which indicates enough volunteers for ground work.
 

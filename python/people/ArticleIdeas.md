@@ -60,7 +60,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ***Testing Your Python Program***
 
-  - Introduce the reader to the test frameworks of Python. Cover the test and unittest modules, to show the conventional ways of building tests. Then progress to the doctest module, a more Pythonic approach, including both tests in the doc strings as well as those in standalone text files. For ideas/examples, look at how Zope3 has used text tutorial documents with embedded doctest expressions to combine teaching and testing. Consult the handouts from the Agile Testing tutorial at [PyCon](PyCon) 2006 for other ideas of what to cover.
+  - Introduce the reader to the test frameworks of Python. Cover the test and unittest modules, to show the conventional ways of building tests. Then progress to the doctest module, a more Pythonic approach, including both tests in the doc strings as well as those in standalone text files. For ideas/examples, look at how Zope3 has used text tutorial documents with embedded doctest expressions to combine teaching and testing. Consult the handouts from the Agile Testing tutorial at [PyCon](../conferences/pycon/PyCon) 2006 for other ideas of what to cover.
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ***Making Things Add Up with Python***
 
-  - An odd topic perhaps, but it would be cool to cover the various ways that Python can represent numbers. Introduce the integer / long integer pair, how conversions are automatic and then roll in the decimal module. Step up then to the [NumPy](NumPy) framework and how vast arrays can be efficiently handled in Python. Then cover the rational and units module for Python and end with an overview of one of the symbolic algebra modules for Python. An article for the language or math geek, to be sure.
+  - An odd topic perhaps, but it would be cool to cover the various ways that Python can represent numbers. Introduce the integer / long integer pair, how conversions are automatic and then roll in the decimal module. Step up then to the [NumPy](../science/NumPy) framework and how vast arrays can be efficiently handled in Python. Then cover the rational and units module for Python and end with an overview of one of the symbolic algebra modules for Python. An article for the language or math geek, to be sure.
 
 ------------------------------------------------------------------------
 

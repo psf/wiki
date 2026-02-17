@@ -30,7 +30,7 @@ See the [PyCon2006/NearbyRestaurants](NearbyRestaurants) for more restaurant-fin
 
 - Motel 6
 
-(Do please note that [PyCon](PyCon) needs to fill its room allocation; if we don\'t fill it, [PyCon](PyCon) will end up paying penalty fees. If you can\'t afford the room rates, do what you have to, but it\'s better for the conference if you stay in the conference\'s hotel. \--amk)
+(Do please note that [PyCon](../PyCon) needs to fill its room allocation; if we don\'t fill it, [PyCon](../PyCon) will end up paying penalty fees. If you can\'t afford the room rates, do what you have to, but it\'s better for the conference if you stay in the conference\'s hotel. \--amk)
 
 # Night Life 
 

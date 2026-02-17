@@ -22,7 +22,7 @@ Going the other way fails. Take for example:
         File "<console>", line 1, in ?
       TypeError: java.util.ArrayList(): 1st arg can't be coerced to java.util.Collection or int
 
-In this example the ArrayList constructor is expecting a java.util.Collection instance but since the PyList does not implement this interface the TypeError is thrown. Since the Collection framework is fundamental to Java since 1.2 the [JythonDevelopmentTeam](./JythonDevelopmentTeam.html) will address this issue. The implementation is currently being written by [ClarkUpdike](ClarkUpdike).
+In this example the ArrayList constructor is expecting a java.util.Collection instance but since the PyList does not implement this interface the TypeError is thrown. Since the Collection framework is fundamental to Java since 1.2 the [JythonDevelopmentTeam](./JythonDevelopmentTeam.html) will address this issue. The implementation is currently being written by [ClarkUpdike](../people/ClarkUpdike).
 
 ### Design 
 
@@ -52,7 +52,7 @@ Approach 2 offers the best integration options. Jython is primarily an implement
 
 ------------------------------------------------------------------------
 
-[ClarkUpdike](ClarkUpdike) Mar 2 2005 PM\
+[ClarkUpdike](../people/ClarkUpdike) Mar 2 2005 PM\
 Reflecting further on PyArray, we may want to consider not having it implement `List`{.backtick}. When I read the docs on the jarray and array modules at the respective jython and python websites, I find the following:
 
 - jython\'s jarray moduleis primarily for interaction with java
@@ -93,7 +93,7 @@ Here\'s what this design would look like:
 
 ------------------------------------------------------------------------
 
-[ClarkUpdike](ClarkUpdike) Mar 2 2005 AM\
+[ClarkUpdike](../people/ClarkUpdike) Mar 2 2005 AM\
 This is in response to \<waiting for post to show up on sourceforge\>. It is a work in progress\--but feel free to comment. I\'ve concentrated on the impact of implementing the `List`{.backtick} interface:
 
 \`List\`
@@ -115,7 +115,7 @@ I\'ve been thinking on how to accomplish the \"Approach 2\" design, which is bas
   PyString           PySequence    `private String string;`{.backtick}                 jython depends heavily on interning of String
   PyTuple            PySequence    \*`public PyObject[] list;`{.backtick}              `list`{.backtick} field is referenced directly by 8 classes in 14 methods
   PyXRange           PySequence    N/A                                                 int attributes start, stop, step, (useless without `PySequence.__iter__()`{.backtick}
-  PySet              PyObject      `protected Hash`{.backtick}`Set _set;`{.backtick}   based on [BrianZimmer](BrianZimmer)\'s [SetsModule](SetsModule)
+  PySet              PyObject      `protected Hash`{.backtick}`Set _set;`{.backtick}   based on [BrianZimmer](../people/BrianZimmer)\'s [SetsModule](../modules/SetsModule)
   PyDictionary       PyObject      `protected Hashtable table;`{.backtick}             
   ------------------ ------------- --------------------------------------------------- ---------------------------------------------------------------------------------------
 :::
@@ -142,11 +142,11 @@ Other general improvements:
 
 ------------------------------------------------------------------------
 
-- [ClarkUpdike](ClarkUpdike) Feb 12 2005
+- [ClarkUpdike](../people/ClarkUpdike) Feb 12 2005
 
-  - [java.util.Collections](http://java.sun.com/j2se/1.3/docs/api/java/util/Collections.html): Is there a need to provide a jython version of this class (especially the synchronized and unmodifiable wrapper methods)? If it is not implemented and the java.util.Collections wrappers are used on new collection objects, the returned objects will only proxy for the java.util interface and will be broken in jython. There is also a PyImmutableSet in [BrianZimmer](BrianZimmer)\'s [SetsModule](SetsModule), but I don\'t think there is an immutable dictionary equivalent.
+  - [java.util.Collections](http://java.sun.com/j2se/1.3/docs/api/java/util/Collections.html): Is there a need to provide a jython version of this class (especially the synchronized and unmodifiable wrapper methods)? If it is not implemented and the java.util.Collections wrappers are used on new collection objects, the returned objects will only proxy for the java.util interface and will be broken in jython. There is also a PyImmutableSet in [BrianZimmer](../people/BrianZimmer)\'s [SetsModule](../modules/SetsModule), but I don\'t think there is an immutable dictionary equivalent.
 
-  [BrianZimmer](BrianZimmer) Feb 13 2005
+  [BrianZimmer](../people/BrianZimmer) Feb 13 2005
 
   - I\'m inclinded to say *no*. Consider this code:
 

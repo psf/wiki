@@ -22,7 +22,7 @@ Well, sometimes. A lighter-weight variant with desirable properties is
 
 `import os; print os.uname()[1]`
 
-[lwickjr](lwickjr): \--which doesn\`t seem to work on Windows. ![:(](/wiki/europython/img/sad.png ":(")
+[lwickjr](../../archive/lwickjr): \--which doesn\`t seem to work on Windows. ![:(](/wiki/europython/img/sad.png ":(")
 
 [snark](./snark.html): \-- use `import platform; print platform.uname()[1]`
 

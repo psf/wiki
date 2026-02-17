@@ -81,7 +81,7 @@ The following code attempts to combine simple output of a Web page with the proc
 
 ## See Also 
 
-- [WebProgramming](WebProgramming) - the natural next step beyond simple CGI scripts.
+- [WebProgramming](../web/WebProgramming) - the natural next step beyond simple CGI scripts.
 
 - [cgi module documentation](http://www.python.org/doc/current/lib/module-cgi.html)
 
@@ -110,7 +110,7 @@ The following code attempts to combine simple output of a Web page with the proc
 
 Yes\....
 
-There are many frameworks for Python Web Application [TurboGears](TurboGears) Django Zope [ModPython](ModPython) Pso Aquarium Cheetah ++++++\...
+There are many frameworks for Python Web Application [TurboGears](../web/TurboGears) Django Zope [ModPython](ModPython) Pso Aquarium Cheetah ++++++\...
 
 But it would be Nice if python provides native support for Session Handling, JSON - like XML-RPC Standard Environment for RPC + WSGI and future technologies\.... for Easy Web Development
 

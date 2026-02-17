@@ -19,7 +19,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - PEP 352 (exception hierarchy)
 
-  - any other PEPs Guido might OK @ [PyCon](PyCon) (PEP 352, 357, etc.)
+  - any other PEPs Guido might OK @ [PyCon](../../PyCon) (PEP 352, 357, etc.)
 - AST work
   - export AST to Python
     - Basic pychecker functionality
@@ -35,7 +35,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - Bugs/patches left over from last Bug Day ([PythonBugDayStatus](./PythonBugDayStatus.html))
 
-  - [BuildBot](BuildBot)-discovered bugs ([http://wiki.python.org/moin/BuildBot](http://wiki.python.org/moin/BuildBot) and [http://www.python.org/dev/buildbot/](http://www.python.org/dev/buildbot/))
+  - [BuildBot](../../../../infrastructure/BuildBot)-discovered bugs ([http://wiki.python.org/moin/BuildBot](http://wiki.python.org/moin/BuildBot) and [http://www.python.org/dev/buildbot/](http://www.python.org/dev/buildbot/))
 - Build
   - Rewrite setup.py (for simplification and easier customization)
 - Hash out bytes type

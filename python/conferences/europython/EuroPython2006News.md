@@ -12,7 +12,7 @@ This page was updated frequently during the [EuroPython2006](EuroPython2006) con
 
 [AndreasPfeiffer](./AndreasPfeiffer.html) \-- for the local organisers at CERN
 
-[PaulBoddie](PaulBoddie) \-- updating the page with interesting finds
+[PaulBoddie](../../people/PaulBoddie) \-- updating the page with interesting finds
 
 ------------------------------------------------------------------------
 

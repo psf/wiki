@@ -8,15 +8,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Columbus residents 
 
-Can you help a friendly out-of-town Python user afford their stay in Columbus for [PyOhio](PyOhio)?
+Can you help a friendly out-of-town Python user afford their stay in Columbus for [PyOhio]()?
 
 If you have space in your house / apartment / cardboard box, or if you\'re looking for someone who can loan space, please list your name and email address here (along with any other details that may be useful).
 
-Thanks so much for helping make [PyOhio](PyOhio) a region-wide event!
+Thanks so much for helping make [PyOhio]() a region-wide event!
 
 # Non-Columbus residents 
 
-If you plan to get a hotel room, and would like to share the room and cost with another [PyOhio](PyOhio) attendee, sign up here with your name, email address, and any other details that may be useful.
+If you plan to get a hotel room, and would like to share the room and cost with another [PyOhio]() attendee, sign up here with your name, email address, and any other details that may be useful.
 
 # Speaking of sharing 
 

@@ -55,7 +55,7 @@ Some ways to execute the bash-style command:
 
 - Completely separate bash-style commands from Python commands, executing it with bash.
 
-\-- [JohannesGijsbers](JohannesGijsbers) 2002-12-07 03:34:05
+\-- [JohannesGijsbers](../people/JohannesGijsbers) 2002-12-07 03:34:05
 
 There is a project that attempts to acheive this. Quasi ([http://quasi-shell.sourceforge.net/](http://quasi-shell.sourceforge.net/)) provides a shell within which Python can be freely mixed with OS (and certain database) commands. \-- [BenLast](./BenLast.html)
 

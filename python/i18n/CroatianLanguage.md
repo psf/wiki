@@ -34,7 +34,7 @@ There is a Python tutorial in Croatian, written by Nikola Plejic. Three parts ar
 
 [PDF - tutorial/overview](http://www.irb.hr/users/maks/pdf/UIpython.pdf) - covers data types and methods - language doc.
 
-[PyQt kroz primere](http://science.webhostinggeeks.com/pyqt-kroz-primere) - [PyQt](PyQt) book
+[PyQt kroz primere](http://science.webhostinggeeks.com/pyqt-kroz-primere) - [PyQt](../gui/PyQt) book
 
 [pytest](http://science.webhostinggeeks.com/praksa-dobre-integracije)
 

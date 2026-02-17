@@ -171,7 +171,7 @@ I (IL) believe reading from `stdin` does not involve coercion at all because the
       None
       <type 'unicode'> 4
 
-See also: [Unicode](Unicode)
+See also: [Unicode](../archive/Unicode)
 
 ------------------------------------------------------------------------
 

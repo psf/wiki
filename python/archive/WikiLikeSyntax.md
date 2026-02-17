@@ -64,7 +64,7 @@ We start with:
 
 Our first task is to spec out the types of lines that exist.
 
-Use [RegularExpression](RegularExpression)s!
+Use [RegularExpression](../people/RegularExpression)s!
 
 Let\'s start with just three types of lines. (It\'ll be clear how to add more.)
 
@@ -83,7 +83,7 @@ Examples:
     Look, a paragraph without a blank line above it!
     No problem, we can parse it!
 
-Here are our [RegularExpression](RegularExpression)s:
+Here are our [RegularExpression](../people/RegularExpression)s:
 
 :::: 
 ::: 
@@ -254,7 +254,7 @@ So, there\'s some things you might want to do.
 
 You might want to escape \< and \> and \" to \< and \> and \" before you output your paragraph text.
 
-There\'s a page on this wiki about how to do it; The mis-named [EscapingHtml](EscapingHtml), or something like that.
+There\'s a page on this wiki about how to do it; The mis-named [EscapingHtml](../people/EscapingHtml), or something like that.
 
 ## Italics, Bold, Links 
 
@@ -383,11 +383,11 @@ Another alternative is to, in your token, keep track of the original line. Then 
 
 This is how I figured out how to do these things. If you know of better ways, please- by all means, list them here, point to them, or- probably best, just edit this text in-place. ![:)](/wiki/europython/img/smile.png ":)")
 
-\-- [LionKimbro](LionKimbro) 2005-05-06 20:03:23
+\-- [LionKimbro](../people/LionKimbro) 2005-05-06 20:03:23
 
 A whole book is dedicated to it: [TextProcessingInPython](TextProcessingInPython). But thank you for this page which is very useful. I think that kind of thing should be also directly plugged into the official documentation a bit like the PHP doc. That might help a lot. A full [HowToCreateaWiki](./HowToCreateaWiki.html) with extensive code would be good too. It would help to have a modular architecture of it.
 
-\-- [KarlDubost](KarlDubost)
+\-- [KarlDubost](../people/KarlDubost)
 
 Here\'s an alternate way to classify lines of text:
 
@@ -426,7 +426,7 @@ Now you just need to add some code to text_to_paragraph to handle the new types 
 
 \-- [SamDenton3](./SamDenton3.html)
 
-It\'s been almost 3 years now. I have found a better technique for doing wiki-like syntax. I don\'t recall seeing this technique in [TextProcessingInPython](TextProcessingInPython). (I suspect the [RegularExpression](RegularExpression) `(?P<...>)` form didn\'t exist yet.)
+It\'s been almost 3 years now. I have found a better technique for doing wiki-like syntax. I don\'t recall seeing this technique in [TextProcessingInPython](TextProcessingInPython). (I suspect the [RegularExpression](../people/RegularExpression) `(?P<...>)` form didn\'t exist yet.)
 
 The technique involves automatically turning `(?P<...>)` capture results into functions, and then recursing back into regexes.
 
@@ -442,7 +442,7 @@ From a high level, the technique is:
 
 The methods are called, and they use the match object to construct the node. This often times involves calling `re.sub` again on matched context, and this is where the recursive element comes in.
 
-\-- [LionKimbro](LionKimbro)
+\-- [LionKimbro](../people/LionKimbro)
 
 Note also, that you can use re.finditer instead of re.sub if you want to have a little more control on the flow (for example, if you want to use yield to return partial parse as you go). Here is a nicer `_replace` function:
 
@@ -478,7 +478,7 @@ I use unicode strings, so I had to convert the group names to strings first to u
 :::
 ::::
 
-Note how the `link_text` group is optional, so the corresponding argument needs a default value. \-- [RadomirDopieralski](RadomirDopieralski)
+Note how the `link_text` group is optional, so the corresponding argument needs a default value. \-- [RadomirDopieralski](../people/RadomirDopieralski)
 
 See also: [Sheep:2007-10-25_Wiki_parser_in_python](http://sheep.art.pl/2007-10-25_Wiki_parser_in_python)
 
@@ -490,7 +490,7 @@ Key techniques:
 
 - re nesting (order & method)
 
-- comfort w/ [RegularExpression](RegularExpression) re.X, re.U, re.M, multilining
+- comfort w/ [RegularExpression](../people/RegularExpression) re.X, re.U, re.M, multilining
 
 questions:
 
@@ -504,4 +504,4 @@ ideas:
 - doc-node creation generic / automatic, modification manual; mirror the successful parse
 - link not only to functions, but also to other regexes
 
-\-- [LionKimbro](LionKimbro)
+\-- [LionKimbro](../people/LionKimbro)

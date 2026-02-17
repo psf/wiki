@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 PyKDE, written and actively maintained by Jim Bublitz, is a full interface to KDE\'s libraries. This allows you to write fully-fledged KDE applications with python.
 
-PyKDE needs [PyQt](PyQt) and [SIP](SIP) to run. These are both actively maintained by Phil Thompson.
+PyKDE needs [PyQt](../gui/PyQt) and [SIP](SIP) to run. These are both actively maintained by Phil Thompson.
 
 [Main Website](http://sourceforge.net/projects/pykde/)
 
@@ -20,7 +20,7 @@ If you have written an application for PyKDE, please list it here:
 
 - [Python KIOSlave Tutorial](http://www.boddie.org.uk/david/Projects/Python/KDE/Docs/kioslaves-tutorial.html)
 
-- The [PyQt](PyQt) Wiki contains a [list of applications using PyQt and/or PyKDE](https://wiki.python.org/moin/PyQt/SomeExistingApplications).
+- The [PyQt](../gui/PyQt) Wiki contains a [list of applications using PyQt and/or PyKDE](https://wiki.python.org/moin/PyQt/SomeExistingApplications).
 
 - [Frescobaldi](http://www.frescobaldi.org/) is a LilyPond music text editor written in Python using PyKDE4
 

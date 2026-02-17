@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Email: [Daniel.Bonniot@inria.fr](mailto:Daniel.Bonniot@inria.fr)
 
-I\'m the main designer of the [Nice programming language](http://nice.sourceforge.net). See [PythonVsNice](PythonVsNice) for a comparison with Python.
+I\'m the main designer of the [Nice programming language](http://nice.sourceforge.net). See [PythonVsNice](../archive/PythonVsNice) for a comparison with Python.
 
 ------------------------------------------------------------------------
 

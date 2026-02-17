@@ -28,7 +28,7 @@ But see also:
 
 **Q.** I run a Windows 95 200 MHz Compaq computer, when I tried to install Python 2.0, the installation program consistently crashes/freezes at 52% of the process. Can you give me any suggestions?
 
-**A.** Make sure you have enough disk space. Accept the default choices the installer suggests. Make sure all other programs are killed first, especially virus scanners (use Ctrl+Alt+Del repeatedly to kill off everything except Explorer and Systray). Try a more recent version of Python (like 2.2.1), which uses better installer technology. Try an [ActiveState](ActiveState) installer, which uses completely different installer technology. Try the minimalist [PythonWare](./PythonWare.html) installer, which seems to amount to an automated unzip. Accept that Microsoft no longer supports Win95 and plan to get another OS.
+**A.** Make sure you have enough disk space. Accept the default choices the installer suggests. Make sure all other programs are killed first, especially virus scanners (use Ctrl+Alt+Del repeatedly to kill off everything except Explorer and Systray). Try a more recent version of Python (like 2.2.1), which uses better installer technology. Try an [ActiveState](../platforms/ActiveState) installer, which uses completely different installer technology. Try the minimalist [PythonWare](./PythonWare.html) installer, which seems to amount to an automated unzip. Accept that Microsoft no longer supports Win95 and plan to get another OS.
 
 ## pyexpat Module 
 
@@ -46,7 +46,7 @@ But see also:
 
 ## Windows XP look-and-feel 
 
-**Q.** How can I make [WxPython](WxPython) on Windows XP assume XP look-and-feel?
+**Q.** How can I make [WxPython](../gui/WxPython) on Windows XP assume XP look-and-feel?
 
 **A.** Put two files **python.exe.manifest** and **pythonw.exe.manifest**, both with the following contents:
 
@@ -159,7 +159,7 @@ Or is that not possible, without making a dictionary to hold it?
 
 ------------------------------------------------------------------------
 
-Contributors: [SteveHolden](SteveHolden), [FredrikLundh](FredrikLundh), [JohannesGijsbers](JohannesGijsbers), [SkipMontanaro](SkipMontanaro)
+Contributors: [SteveHolden](../people/SteveHolden), [FredrikLundh](../people/FredrikLundh), [JohannesGijsbers](../people/JohannesGijsbers), [SkipMontanaro](../people/SkipMontanaro)
 
 ------------------------------------------------------------------------
 

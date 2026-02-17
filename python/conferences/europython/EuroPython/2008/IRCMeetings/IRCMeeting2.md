@@ -62,7 +62,7 @@ Posted in [this message](http://mail.python.org/mailman/private/europython-impro
 - Sponsorship was not discussed at this meeting.
 
 - Keynotes
-  - Several speakers were [suggested](http://mg.pov.lt/europython-irclog/%23europython.2008-02-07.log.html#t2008-02-07T20:52:32), although availability of some of them was questioned, and one keynote may be done as a video conference (like Alan Kay at [EuroPython2006](EuroPython2006)).
+  - Several speakers were [suggested](http://mg.pov.lt/europython-irclog/%23europython.2008-02-07.log.html#t2008-02-07T20:52:32), although availability of some of them was questioned, and one keynote may be done as a video conference (like Alan Kay at [EuroPython2006](../../../EuroPython2006)).
 
   - Although not necessarily keynote speakers, [some other suggestions were made](http://mg.pov.lt/europython-irclog/%23europython.2008-02-07.log.html#t2008-02-07T20:57:48).
 

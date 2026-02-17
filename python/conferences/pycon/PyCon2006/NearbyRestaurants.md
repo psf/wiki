@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [BJ\'s Restaurant & Brewhouse](http://www.addisontexas.net/where_to_eat/restaurants/BJs.asp) ([Directions](http://maps.google.com/maps?spn=0.005491,0.010131&saddr=14901+Dallas+Pky,+Dallas,+TX+75254&daddr=4901+Belt+Line+Rd,+Dallas,+TX+75254%C2%A0(B+J's+Restaurant+%26+Brewhouse)&hl=en), Distance 1 mile) has Pizza and Americana, decent beer (free samples), and a killer baked deep-dish cookie called a \"pizzookie\" or somesuch for desert.
 
-From [JeffRush](JeffRush)\'s email:
+From [JeffRush](../../../people/JeffRush)\'s email:
 
 The Addison hotel is in the center of an entertainment district. On the corner of the hotel is a comedy club and at least four nice sports bars, for discussing Python over a beer. ![;-)](/wiki/europython/img/smile4.png ";-)")
 

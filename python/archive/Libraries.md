@@ -8,12 +8,12 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 A guide to the guides on libraries and distributions:
 
-- [ApplicationFrameworks](ApplicationFrameworks)
+- [ApplicationFrameworks](../people/ApplicationFrameworks)
 
 - [ApplicationSupportLibraries](ApplicationSupportLibraries)
 
-- [GeneralLibraries](GeneralLibraries)
+- [GeneralLibraries](../people/GeneralLibraries)
 
 - [PythonDistributions](PythonDistributions)
 
-- [UsefulModules](UsefulModules)
+- [UsefulModules](../people/UsefulModules)

@@ -112,11 +112,11 @@ ISBN-13: 979-8852254672 572 Pages ((July 14, 2023)
 
 \"Essential Python for Machine Learning\" is a comprehensive guide that equips readers with the fundamental Python programming skills necessary to kickstart their journey into the exciting world of machine learning. This book covers the essential topics and techniques required to understand and apply Python in the field of machine learning.
 
-Starting with the basics of Python programming, readers learn about conditional statements, loops, data structures, and functions. The book then delves into important libraries like [NumPy](NumPy) and Pandas, enabling readers to manipulate and analyze data efficiently. With a focus on practical application, readers explore topics such as file handling, regular expressions, and error handling, gaining essential skills for real-world machine learning projects.
+Starting with the basics of Python programming, readers learn about conditional statements, loops, data structures, and functions. The book then delves into important libraries like [NumPy](../science/NumPy) and Pandas, enabling readers to manipulate and analyze data efficiently. With a focus on practical application, readers explore topics such as file handling, regular expressions, and error handling, gaining essential skills for real-world machine learning projects.
 
 Key Features:
 
-1\. Comprehensive coverage of Python programming fundamentals. 2. In-depth exploration of key libraries like [NumPy](NumPy) and Pandas for data manipulation and analysis. 3. Practical application of Python concepts to real-world machine learning scenarios. 4. Clear explanations, illustrative examples, and practical exercises to enhance learning. 5. Suitable for beginners and those with some programming experience looking to enter the field of machine learning.
+1\. Comprehensive coverage of Python programming fundamentals. 2. In-depth exploration of key libraries like [NumPy](../science/NumPy) and Pandas for data manipulation and analysis. 3. Practical application of Python concepts to real-world machine learning scenarios. 4. Clear explanations, illustrative examples, and practical exercises to enhance learning. 5. Suitable for beginners and those with some programming experience looking to enter the field of machine learning.
 
 Whether you are a student, aspiring data scientist, or a Python enthusiast looking to venture into machine learning, \"Essential Python for Machine Learning\" provides the essential knowledge and skills needed to get started. Gain a strong foundation in Python programming and unlock the power of machine learning with this practical and accessible guide.
 
@@ -802,11 +802,11 @@ This book provides a rich set of independent recipes that dive into the world of
 
 - Understand your data and explore the relationships between variables using Pandas and D3.js.
 
-- Explore a variety of techniques to classify and cluster outbound marketing campaign calls data of a bank using Pandas, mlpy, [NumPy](NumPy), and Statsmodels.
+- Explore a variety of techniques to classify and cluster outbound marketing campaign calls data of a bank using Pandas, mlpy, [NumPy](../science/NumPy), and Statsmodels.
 
-- Reduce the dimensionality of your dataset and extract the most important features with pandas, [NumPy](NumPy), and mlpy.
+- Reduce the dimensionality of your dataset and extract the most important features with pandas, [NumPy](../science/NumPy), and mlpy.
 
-- Predict the output of a power plant with regression models and forecast water flow of American rivers with time series methods using pandas, [NumPy](NumPy), Statsmodels, and scikit-learn.
+- Predict the output of a power plant with regression models and forecast water flow of American rivers with time series methods using pandas, [NumPy](../science/NumPy), Statsmodels, and scikit-learn.
 
 - Explore social interactions and identify fraudulent activities with graph theory concepts using NetworkX and Gephi.
 
@@ -1390,9 +1390,9 @@ Ebook and print book are both available from the publisher at [www.manning.com/c
 - Manning Publications
 - 480 pages (March 2009)
 
-[IronPython](IronPython) is an implementation of Python for the Microsoft .NET framework, Mono, and the Silverlight and Moonlight browser plugins. [IronPython](IronPython) in Action is an introduction to programming with [IronPython](IronPython) for both .NET programmers interested in Python and Python programmers new to .NET.
+[IronPython](../implementations/IronPython) is an implementation of Python for the Microsoft .NET framework, Mono, and the Silverlight and Moonlight browser plugins. [IronPython](../implementations/IronPython) in Action is an introduction to programming with [IronPython](../implementations/IronPython) for both .NET programmers interested in Python and Python programmers new to .NET.
 
-[IronPython](IronPython) in Action includes a swift paced Python tutorial, chapters introducing .NET libraries and structured application development with Python, integrating with other .NET languages like C# and VB.NET, server side web programming with ASP.NET and client side web programming with Silverlight, system administration, working with the WPF and Windows Forms user interface libraries and embedding the [IronPython](IronPython) engine in .NET applications.
+[IronPython](../implementations/IronPython) in Action includes a swift paced Python tutorial, chapters introducing .NET libraries and structured application development with Python, integrating with other .NET languages like C# and VB.NET, server side web programming with ASP.NET and client side web programming with Silverlight, system administration, working with the WPF and Windows Forms user interface libraries and embedding the [IronPython](../implementations/IronPython) engine in .NET applications.
 
 As well as covering specific topics and both Python and .NET libraries the book pays special attention to the nitty-gritty details of Python and .NET integration that previous experience with Python or C# won\'t necessarily have prepared you for.
 
@@ -1496,7 +1496,7 @@ This is a textbook for a \"traditional\" introduction to computer science course
 
 [0971677506](http://www.amazon.com/exec/obidos/ISBN=0971677506 "ISBN"), Green Tea Press 288 pages
 
-How to Think\... is a free textbook available under the GNU Free Documentation License. It is a true beginners book. The ebook version is free and available in PDF, HTML and [PostScript](PostScript).
+How to Think\... is a free textbook available under the GNU Free Documentation License. It is a true beginners book. The ebook version is free and available in PDF, HTML and [PostScript](../people/PostScript).
 
 [Home Page](http://thinkpython.com)
 
@@ -1578,11 +1578,11 @@ This handy reference guide summarizes Python statements, built-in functions, esc
 
 **Python Standard Library**
 
-- [FredrikLundh](FredrikLundh)
+- [FredrikLundh](../people/FredrikLundh)
 
 [0596000960](http://www.amazon.com/exec/obidos/ISBN=0596000960 "ISBN"), O\'Reilly & Associates, 250 pages (February 2001)
 
-Based in part on 3,000 newsgroup articles written by Python veteran [FredrikLundh](FredrikLundh) over the last four and half years, this book provides sample scripts for all standard modules in the Python library. Also available in German.
+Based in part on 3,000 newsgroup articles written by Python veteran [FredrikLundh](../people/FredrikLundh) over the last four and half years, this book provides sample scripts for all standard modules in the Python library. Also available in German.
 
 [Author\'s book page](http://www.pythonware.com/people/fredrik/librarybook.htm) [Electronic edition (archived snapshot)](https://web.archive.org/web/20201017142948/http://effbot.org/zone/librarybook-index.htm)
 
@@ -1642,7 +1642,7 @@ Buy the dead-trees version at:
 
 A review by Danny Yee at: [http://dannyreviews.com/h/Text_Python.html](http://dannyreviews.com/h/Text_Python.html)
 
-See also: [TextProcessingInPython](TextProcessingInPython)
+See also: [TextProcessingInPython](../archive/TextProcessingInPython)
 
 ------------------------------------------------------------------------
 

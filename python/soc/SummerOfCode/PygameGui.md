@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # A Pygame GUI Toolkit. 
 
-**On second thoughts, this sort of project probably isn\'t needed, for many different reasons.** - [SimonWittber](SimonWittber)
+**On second thoughts, this sort of project probably isn\'t needed, for many different reasons.** - [SimonWittber](../../people/SimonWittber)
 
 ------------------------------------------------------------------------
 

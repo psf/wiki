@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### Note: This page has become somewhat obsolete with the release of Qt 4.x under the GPL. 
 
-There is a new page that describes how to build [PyQt4](PyQt4) at [BuildPyQt4Windows](BuildPyQt4Windows).
+There is a new page that describes how to build [PyQt4](../PyQt4) at [BuildPyQt4Windows](../../archive/BuildPyQt4Windows).
 
 ## Background 
 
@@ -19,7 +19,7 @@ One of the frustrations I\'ve always had with Qt is that current versions could 
 - I really couldn\'t afford it, and
 - I wasn\'t writing commercial software anyways.
 
-However, this has changed. The people over at the kde-cygwin project have taken the GPLed version of Qt and ported it to native Windows (i.e. it does not require Cygwin). As soon as I saw this, I immediately started to try and get [PyQt](PyQt) to compile against this version. Amazingly, it didn\'t take nearly as much work as I thought it would.
+However, this has changed. The people over at the kde-cygwin project have taken the GPLed version of Qt and ported it to native Windows (i.e. it does not require Cygwin). As soon as I saw this, I immediately started to try and get [PyQt]() to compile against this version. Amazingly, it didn\'t take nearly as much work as I thought it would.
 
 ## Requirements 
 
@@ -84,13 +84,13 @@ However, this has changed. The people over at the kde-cygwin project have taken 
 
   <!-- -->
 
-  - **\* 3) Get and install [PyQt](PyQt)**
+  - **\* 3) Get and install [PyQt]()**
 
     - PyQt is available at [Riverbank Computing](http://www.riverbankcomputing.co.uk/) [here](http://www.riverbankcomputing.co.uk/pyqt/download.php).
 
     <!-- -->
 
-    - I have been using version [PyQt](PyQt)-x11-gpl-3.13.
+    - I have been using version [PyQt]()-x11-gpl-3.13.
 
       Like SIP, PyQt also needs to be patched. If you downloaded the source from Riverbank, you need to apply this [patch](http://prdownloads.sourceforge.net/kscraft/PyQt-x11-3.13.diff?download). I have also made an already patched .zip archive available [here](http://prdownloads.sourceforge.net/kscraft/PyQt-x11-gpl-3.13-patched.zip?download). The patch is for some types that the Windows port of Qt needs that aren\'t included in PyQt by default.
 

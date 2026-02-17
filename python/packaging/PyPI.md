@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PyPI: The Python Package Index 
 
-PyPI, the Python Package Index, is a web-based software catalogue and distribution mechanism. See [PublishingPythonModules](PublishingPythonModules) for other channels through which Python software may be distributed and obtained.
+PyPI, the Python Package Index, is a web-based software catalogue and distribution mechanism. See [PublishingPythonModules](../archive/PublishingPythonModules) for other channels through which Python software may be distributed and obtained.
 
 At the time of writing the following pages are available when searching for \"PyPI\":
 
@@ -287,4 +287,4 @@ At the time of writing the following pages are available when searching for \"Ch
 15. [SummerOfCode/2006](./SummerOfCode(2f)2006.html?highlight=%28Cheese+Shop%29)
 :::
 
-The real point of this page, however, is to provide some help for the poor unfortunates who do not know that PyPI is also known colloquially as the \"Cheese Shop\" (due to misplaced enthusiasm for Monty Python humour even when it obscures the real purpose of a piece of software). \-- [SteveHolden](SteveHolden)
+The real point of this page, however, is to provide some help for the poor unfortunates who do not know that PyPI is also known colloquially as the \"Cheese Shop\" (due to misplaced enthusiasm for Monty Python humour even when it obscures the real purpose of a piece of software). \-- [SteveHolden](../people/SteveHolden)

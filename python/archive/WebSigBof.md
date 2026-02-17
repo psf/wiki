@@ -20,4 +20,4 @@ Specific possible topics of discussion:
 - Unifying frameworks
 - Layering frameworks
 - Whatever
-  - \-- [IanBicking](IanBicking)
+  - \-- [IanBicking](../people/IanBicking)

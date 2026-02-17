@@ -20,7 +20,7 @@ Most of your questions would be solved if you go through this list. As a general
 
 If you are new to Python or are looking for an IDE/Editor to try\...you are encouraged to go through the above links, before asking about it on the [BangPyper](./BangPyper.html)\'s list.
 
-Some of the Python Editors which featured discussion at [BangPypers](BangPypers):
+Some of the Python Editors which featured discussion at [BangPypers](../../community/BangPypers):
 
 [http://www.netbeans.org/features/python/](http://www.netbeans.org/features/python/) [http://wiki.netbeans.org/NetBeansPythonTutorial](http://wiki.netbeans.org/NetBeansPythonTutorial)
 

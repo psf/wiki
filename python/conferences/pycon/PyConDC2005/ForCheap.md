@@ -42,7 +42,7 @@ Check out this Google Maps search for [motels, arlington va](http://maps.google.
 
 (For the budget-conscious, who know they aren\'t going to be spending much time in their hotel anyway.)
 
-Beds at the [Washington International Student Center](http://www.washingtondchostel.com/) go for \$22/night, and there\'s at least one private room for \$55/night. Breakfast & kitchen facilities included. It\'s located in the Adams-Morgan area (\"on the hippest street in town\"), near the Dupont Circle metro station, about 3 km (2 miles) from [PyCon](PyCon) (GWU). Open to anyone, not just for students.
+Beds at the [Washington International Student Center](http://www.washingtondchostel.com/) go for \$22/night, and there\'s at least one private room for \$55/night. Breakfast & kitchen facilities included. It\'s located in the Adams-Morgan area (\"on the hippest street in town\"), near the Dupont Circle metro station, about 3 km (2 miles) from [PyCon](../PyCon) (GWU). Open to anyone, not just for students.
 
 ### Flights 
 

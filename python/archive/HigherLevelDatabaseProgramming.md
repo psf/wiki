@@ -16,7 +16,7 @@ There are several wrappers that provide improved or simplified interfaces to SQL
 
 - [dal.py](http://code.google.com/p/web2py/source/browse/gluon/dal.py): a Database Abstraction Layer (DAL), an API that maps Python objects into database objects such as queries, tables, and records. [101 video](http://vimeo.com/20760298) (This module is normally distributed as part of web2py but it does not depend on web2py, except for few some web2py specific functionalities)
 
-- [DbObj](DbObj): ORM
+- [DbObj](../people/DbObj): ORM
 
 - [Dejavu](http://www.aminus.net/dejavu): Public domain, thread-safe, Data Mapper ORM. (latest rel. 1.5 dd. 2007-01-24)
 
@@ -24,7 +24,7 @@ There are several wrappers that provide improved or simplified interfaces to SQL
 
 - [libschevo](https://pypi.python.org/pypi/libschevo/3.2.10/): Next-generation Object-Oriented DBMS.
 
-- [MiddleKit](MiddleKit): ORM
+- [MiddleKit](../people/MiddleKit): ORM
 
 - [Modeling Object-Relational Bridge](http://modeling.sourceforge.net/): ORM and schema design with Zope integration
 
@@ -56,7 +56,7 @@ There are several wrappers that provide improved or simplified interfaces to SQL
 
 - [pySQLFace](https://fedorahosted.org/pySQLFace/): SQL interface over DBAPI2. It provides a database specific API to retrive and save data by creating SQL/DML command objects from a configuration file.
 
-- [PyTable](PyTable)
+- [PyTable](../people/PyTable)
 
 - The [PythonWebModules](PythonWebModules) web.database module - Database abstraction layer to make it possible to run the same SQL on different databases without changing your code.
 

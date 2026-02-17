@@ -62,7 +62,7 @@ If so, I rather like that ability as it makes the graphics programmer\'s intent 
 
 ------------------------------------------------------------------------
 
-I\'m (Andrew Dalke) often one to resist change to Python. The [WithStatement](WithStatement) is a counter-example. I really like how it cleans up some OpenGL programming. Consider this example from OpenGLContext\'s indexlineset.py
+I\'m (Andrew Dalke) often one to resist change to Python. The [WithStatement](../language/WithStatement) is a counter-example. I really like how it cleans up some OpenGL programming. Consider this example from OpenGLContext\'s indexlineset.py
 
                dl = displaylist.DisplayList()
                ...

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Coordination pages 
 
-for the Python Documentation Team (see also [DocTools](DocTools)).
+for the Python Documentation Team (see also [DocTools](../people/DocTools)).
 
 - [/FAQ](DocsCoordination/FAQ) \-- what you need to know
 

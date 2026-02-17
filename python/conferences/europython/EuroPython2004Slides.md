@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 If you are a speaker at [EuroPython2004](EuroPython2004) looking for somewhere to upload your slides, you\'ve come to the right place!
 
-If you can upload your slides to your own website, you can do that and add a link in the appropriate section of that page. Alternatively, you can get a link or the slides into the hands of [MichaelHudson](MichaelHudson) ([mwh@python.net](mailto:mwh@python.net)) and he\'ll sort things out.
+If you can upload your slides to your own website, you can do that and add a link in the appropriate section of that page. Alternatively, you can get a link or the slides into the hands of [MichaelHudson](../../people/MichaelHudson) ([mwh@python.net](mailto:mwh@python.net)) and he\'ll sort things out.
 
 ## Python Language 
 
 [BDFL Keynote](http://www.python.org/doc/essays/ppt/euro2004/euro2004.ppt)
 
-[PyPy](PyPy), by Armin Rigo and others [tarball](http://starship.python.net/crew/mwh/ep2004slides/ep2004-pypy.tgz). Requires [PyGame](PyGame). Please don\'t try to read the source.
+[PyPy](../../implementations/PyPy), by Armin Rigo and others [tarball](http://starship.python.net/crew/mwh/ep2004slides/ep2004-pypy.tgz). Requires [PyGame](../../multimedia/PyGame). Please don\'t try to read the source.
 
 [How Python is developed](http://www.egenix.com/files/python/EuroPython2004-How-Python-is-developed.pdf) by Marc-Andre Lemburg, [eGenix.com](http://www.egenix.com/) Software GmbH, Germany.
 
@@ -120,7 +120,7 @@ Slides used during the Science Track are available from the [\"Europython websit
 
 [Think Python, run S60](http://www.geocities.com/mikfi/presentations/) by Michele Marchetti
 
-[TalkMistakes](TalkMistakes) - a list of common talk mistakes made during the conference, and tips for improving talks
+[TalkMistakes](../../people/TalkMistakes) - a list of common talk mistakes made during the conference, and tips for improving talks
 
 ## Applications 
 

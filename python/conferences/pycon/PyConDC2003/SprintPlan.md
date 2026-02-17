@@ -18,13 +18,13 @@ See also the section \"Sprinting Explained\" at the bottom of this page: [http:/
 
 ### Sprints being planned 
 
-- [TwistedSprint](TwistedSprint) - Come hack with the Twisted development team on Twisted or other closely-related projects.
+- [TwistedSprint](../../../web/TwistedSprint) - Come hack with the Twisted development team on Twisted or other closely-related projects.
 
-- [I18n/l10n/Zope 3 sprint](http://dev.zope.org/Wikis/DevSite/Projects/ComponentArchitecture/PyConSprint) - The focus of this sprint will be I18n/L10n for Zope and other Python applications. See [JimsPyconSprintMessage](JimsPyconSprintMessage) and [PyconZ3SprintQuestions](PyconZ3SprintQuestions).
+- [I18n/l10n/Zope 3 sprint](http://dev.zope.org/Wikis/DevSite/Projects/ComponentArchitecture/PyConSprint) - The focus of this sprint will be I18n/L10n for Zope and other Python applications. See [JimsPyconSprintMessage](../../../archive/JimsPyconSprintMessage) and [PyconZ3SprintQuestions](../../../archive/PyconZ3SprintQuestions).
 
-- [WebwareSprint](WebwareSprint) - We can\'t let the Zopatistas and Twistinis have all the fun, now, can we?
+- [WebwareSprint](../../../people/WebwareSprint) - We can\'t let the Zopatistas and Twistinis have all the fun, now, can we?
 
-- [PyCoreSprint](PyCoreSprint) - 4 Pythonlabs folks are showing up to sprint on\... something. Add suggestions to the wiki page.
+- [PyCoreSprint](../../../archive/PyCoreSprint) - 4 Pythonlabs folks are showing up to sprint on\... something. Add suggestions to the wiki page.
 
 ### Proposed sprint topics 
 
@@ -58,7 +58,7 @@ See also the section \"Sprinting Explained\" at the bottom of this page: [http:/
 
 - Update, pare-down, and clean-up Demo and Tools/Scripts
 
-  I you want to attend the sprints, but don\'t know what topic to sprint on, you can add your name to the [ListOfInterestedSprinters](ListOfInterestedSprinters).
+  I you want to attend the sprints, but don\'t know what topic to sprint on, you can add your name to the [ListOfInterestedSprinters](../../../archive/ListOfInterestedSprinters).
 
 ### Logistics 
 

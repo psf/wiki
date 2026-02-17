@@ -14,7 +14,7 @@ If it\'s any consolation, the tools happen to be written in Python. ![:)](/wiki/
 
 # Discussion 
 
-Please keep comments here, above the description section. \-- [LionKimbro](LionKimbro) 2004-07-06 23:39:32
+Please keep comments here, above the description section. \-- [LionKimbro](../people/LionKimbro) 2004-07-06 23:39:32
 
 # Description 
 

@@ -12,15 +12,15 @@ I am Baiju M from [Kerala](http://en.wikipedia.org/wiki/Kerala). I love Python.
 
 My Journal: [http://baijum81.livejournal.com/](http://baijum81.livejournal.com/)
 
-[LearnByObservation](LearnByObservation) - An experimetal page, let me see whether it is becoming somthing or not\...
+[LearnByObservation](../archive/LearnByObservation) - An experimetal page, let me see whether it is becoming somthing or not\...
 
-[PyConVideos](PyConVideos)
+[PyConVideos](../conferences/pycon/PyConVideos)
 
-[ZwjAndZwnjAsIdentifiers](ZwjAndZwnjAsIdentifiers)
+[ZwjAndZwnjAsIdentifiers](../archive/ZwjAndZwnjAsIdentifiers)
 
-[PythonNotes](PythonNotes)
+[PythonNotes](../archive/PythonNotes)
 
-[SAML](SAML)
+[SAML](../archive/SAML)
 
 ------------------------------------------------------------------------
 

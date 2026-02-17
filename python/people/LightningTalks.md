@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-[PyCon](PyCon) 2004
+[PyCon](../conferences/pycon/PyCon) 2004
 
 - If you presented a lightning talk at Pycon 2004, please post links to your presentations at [PyCon2004LightningTalks](./PyCon2004LightningTalks.html)!
 

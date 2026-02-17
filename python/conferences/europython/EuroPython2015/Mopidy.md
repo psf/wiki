@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Mopidy plays music from local disk, Spotify, [SoundCloud](./SoundCloud.html), Google Play Music, and more. You edit the playlist from any phone, tablet, or computer using a range of MPD and web clients.
 
-During the [EuroPython2015](EuroPython2015) sprints in Bilbao, Spain, we\'re going to sprint on Mopidy.
+During the [EuroPython2015]() sprints in Bilbao, Spain, we\'re going to sprint on Mopidy.
 
 # Details 
 

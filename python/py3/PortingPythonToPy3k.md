@@ -231,7 +231,7 @@ These are porting notes on differences in third party libraries when run on Pyth
 - a bunch of very useful reference code: [http://code.google.com/p/python-incompatibility/](http://code.google.com/p/python-incompatibility/)
 - [PortingDjangoTo3k](PortingDjangoTo3k)
 - [Porting Durus / QP / Qpy / Dulcinea, using approach targeting Python 2 and Python 3 off same code base](http://mail.mems-exchange.org/durusmail/qp/441/) - packages released but not in pypi yet.
-- [Early2to3Migrations](Early2to3Migrations)
+- [Early2to3Migrations](../archive/Early2to3Migrations)
 - [Stephan Deibel\'s blog post on code usable from Python 2.0 through 3.0](http://pythonology.blogspot.com/2009/02/making-code-run-on-python-20-through-30.html)
 - [Python code that demonstrates differences between 2.5 and 3.0, and ways of making the same code run on 2.6 and 3.x](http://python-incompatibility.googlecode.com/)
 - Georg Brandl\'s blog post collecting some information: [http://pythonic.pocoo.org/2008/12/14/python-3-porting-resources](http://pythonic.pocoo.org/2008/12/14/python-3-porting-resources)

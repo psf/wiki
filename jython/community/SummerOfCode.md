@@ -12,7 +12,7 @@ Some project ideas that might work for Google\'s summer of code. The Python folk
 
 ## Potential Mentors 
 
-- [FrankWierzbicki](FrankWierzbicki)
+- [FrankWierzbicki](../people/FrankWierzbicki)
 
 ## AcceptedProjects 
 

@@ -22,7 +22,7 @@ Ideal:
 
 Is there anything *easily reusable* in Python that presently does this sort of work?
 
-(Perhaps [WxPython](WxPython) can be (ab)used for this purpose..? Can you do all the size calculations, without ever rendering anything, or initializing wx?)
+(Perhaps [WxPython](../gui/WxPython) can be (ab)used for this purpose..? Can you do all the size calculations, without ever rendering anything, or initializing wx?)
 
 ## Example 
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-(For the Docutils sprint at [PyCon2007](PyCon2007), see [PyCon2007/DocutilsSprint](../conferences/pycon/PyCon2007/DocutilsSprint). For the Docutils sprint at [PyCon2006](PyCon2006), see [PyCon2006/Sprints/DocutilsSprint](../conferences/pycon/PyCon2006/Sprints/DocutilsSprint).)
+(For the Docutils sprint at [PyCon2007](../conferences/pycon/PyCon2007), see [PyCon2007/DocutilsSprint](../conferences/pycon/PyCon2007/DocutilsSprint). For the Docutils sprint at [PyCon2006](../conferences/pycon/PyCon2006), see [PyCon2006/Sprints/DocutilsSprint](../conferences/pycon/PyCon2006/Sprints/DocutilsSprint).)
 
 ## Preliminaries 
 
 PyConDC2004 is over. See [A Week at PyCon DC 2004](http://starship.python.net/~goodger/pycon_dc_2004/) for a narrative account of events.
 
-For introductory information and information about the other sprints going on at [PyConDC2004](PyConDC2004), please see [SprintPlan2004](./SprintPlan2004.html).
+For introductory information and information about the other sprints going on at [PyConDC2004](../conferences/pycon/PyConDC2004), please see [SprintPlan2004](./SprintPlan2004.html).
 
 We also had a birds-of-a-feather session; see [DocutilsBof](DocutilsBof).
 
@@ -20,7 +20,7 @@ Also see the [Docutils home page](http://docutils.sourceforge.net) and the [reSt
 
 ### Duration 
 
-The sprints at [PyConDC2004](PyConDC2004) were held from March 20 (Saturday) through March 23 (Tuesday), for a total of 4 days. I was there for all 4 sprint days, and sprinters joined in as they were able.
+The sprints at [PyConDC2004](../conferences/pycon/PyConDC2004) were held from March 20 (Saturday) through March 23 (Tuesday), for a total of 4 days. I was there for all 4 sprint days, and sprinters joined in as they were able.
 
 Please feel free to comment here or [email me](mailto:goodger@python.org).
 
@@ -68,7 +68,7 @@ Here are the sprinters who attended:
 
 ### Sponsorship 
 
-This sprint and my participation at [PyConDC2004](PyConDC2004) were sponsored by Silver Sponsor [Wing IDE (Archaeopteryx Software)](http://WingIDE.com), the [Python Software Foundation (PSF)](http://www.python.org/psf), and individual contributors. Thank you all!
+This sprint and my participation at [PyConDC2004](../conferences/pycon/PyConDC2004) were sponsored by Silver Sponsor [Wing IDE (Archaeopteryx Software)](http://WingIDE.com), the [Python Software Foundation (PSF)](http://www.python.org/psf), and individual contributors. Thank you all!
 
 ## Sprint Topic Ideas 
 

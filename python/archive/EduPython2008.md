@@ -37,7 +37,7 @@ Dinner options:
 
 Feel free to list your interest in attending either of the above below:
 
-- [VernCeder](VernCeder) (both)
+- [VernCeder](../people/VernCeder) (both)
 
 - Charles Severance (both might work - but something during the day might be nice as well)
 
@@ -45,7 +45,7 @@ Feel free to list your interest in attending either of the above below:
 
 - Kirby Urner, checked in (rm 730), see you at Kai Tak, interested in Saturday dinner plan ([kirby.urner@gmail.com](mailto:kirby.urner@gmail.com))
 
-- [AndyHarrington](AndyHarrington), planning on both. Hearing about Google\'s involvement in education sounds good, too.
+- [AndyHarrington](../people/AndyHarrington), planning on both. Hearing about Google\'s involvement in education sounds good, too.
 
 - Jessie Chavez, new to python but former teacher and currently at Google in Chicago.
 

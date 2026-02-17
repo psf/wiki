@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Four trackers were set up by the deadline of August 7 2006; see below for the list. A committee of four people is now looking at the submitted trackers, and will recommend one for use as the new Python bug tracker. The committee will make its recommendation in the fall, perhaps in October.
 
-Once a tracker has been selected, a new installation will be set up and the [SourceForge](SourceForge) bug data will be converted once more. That conversion may be more carefully done than the conversion for the demo trackers.
+Once a tracker has been selected, a new installation will be set up and the [SourceForge](../people/SourceForge) bug data will be converted once more. That conversion may be more carefully done than the conversion for the demo trackers.
 
 # Participating Trackers 
 
@@ -20,13 +20,13 @@ Once a tracker has been selected, a new installation will be set up and the [Sou
 +--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+:-----------------:+:--------------------------------------------------------------------------------:+
 | **Tracker wiki page**                                                          | **Test Tracker URL**                                                                                         | **Contact Person** (name & email)                                                                    |
 +--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
-| [TracTracker](TracTracker)                                              | [http://python-trac.swapoff.org](http://python-trac.swapoff.org)                                      | Alec Thomas       | [alec@swapoff.org](mailto:alec@swapoff.org)                             |
+| [TracTracker](../people/TracTracker)                                              | [http://python-trac.swapoff.org](http://python-trac.swapoff.org)                                      | Alec Thomas       | [alec@swapoff.org](mailto:alec@swapoff.org)                             |
 +--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
 | [Roundup](http://www.mechanicalcat.net/tech/roundup/wiki/PythonTracker) | [http://efod.se/python-tracker/](http://efod.se/python-tracker/)                                      | Stefan Seefeld    | [seefeld@sympatico.ca](mailto:seefeld@sympatico.ca)                     |
 +--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
-| [JiraTracker](JiraTracker)                                              | [http://jira.python.atlassian.com](http://jira.python.atlassian.com)                                  | Jonathan Nolen    | [jonathan@atlassian.com](mailto:jonathan@atlassian.com)                 |
+| [JiraTracker](../people/JiraTracker)                                              | [http://jira.python.atlassian.com](http://jira.python.atlassian.com)                                  | Jonathan Nolen    | [jonathan@atlassian.com](mailto:jonathan@atlassian.com)                 |
 +--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
-| [LaunchpadTracker](LaunchpadTracker)                                    | [https://demo.launchpad.net/products/python/+bugs](https://demo.launchpad.net/products/python/+bugs) | James Henstridge  | [james.henstridge@canonical.com](mailto:james.henstridge@canonical.com) |
+| [LaunchpadTracker](../people/LaunchpadTracker)                                    | [https://demo.launchpad.net/products/python/+bugs](https://demo.launchpad.net/products/python/+bugs) | James Henstridge  | [james.henstridge@canonical.com](mailto:james.henstridge@canonical.com) |
 +--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
 :::
 
@@ -36,7 +36,7 @@ To learn what the committee liked about various trackers participating, see [Goo
 
 # The Announcement 
 
-The Python Software Foundation\'s Infrastructure committee has been charged with finding a new tracker system to be used by the Python development team as a replacement for [SourceForge](SourceForge). The development team is currently unhappy with SF for several reasons which include:
+The Python Software Foundation\'s Infrastructure committee has been charged with finding a new tracker system to be used by the Python development team as a replacement for [SourceForge](../people/SourceForge). The development team is currently unhappy with SF for several reasons which include:
 
 - Bad interface
   - Most obvious example is the \"Check to Upload\" button

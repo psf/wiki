@@ -26,7 +26,7 @@ Note that `.pyc`{.backtick} files are not portable between different versions of
 
 ## Executable Creators (or Installers) 
 
-Tools exist which embed modules and a Python interpreter together into an executable, like [PyInstaller](PyInstaller) and py2exe (see [DistributionUtilities](DistributionUtilities)). These tools offer an additional layer of obfuscation over merely supplying bytecode files, since any decompilation of the bytecode may only take place once the bytecode has been located in the executable. However, unless additional processes are introduced to obscure the bytecode, it is likely that the task of locating the bytecode would be trivial for even the least determined inquisitive individual.
+Tools exist which embed modules and a Python interpreter together into an executable, like [PyInstaller](../../people/PyInstaller) and py2exe (see [DistributionUtilities](../../people/DistributionUtilities)). These tools offer an additional layer of obfuscation over merely supplying bytecode files, since any decompilation of the bytecode may only take place once the bytecode has been located in the executable. However, unless additional processes are introduced to obscure the bytecode, it is likely that the task of locating the bytecode would be trivial for even the least determined inquisitive individual.
 
 ## Software as a Service 
 
@@ -42,7 +42,7 @@ Diligently using search engines reveals that at least three obfuscators exist wh
 
 Even if you compile your code to .pyc files before distributing it, these transformations should increase the labor required to reverse-engineer your code.
 
-There are some other ways to obfuscate code object in runtime, like [Pyarmor](Pyarmor):
+There are some other ways to obfuscate code object in runtime, like [Pyarmor](../Pyarmor):
 
 - Encrypt code object by DES to protect constants and literal strings.
 - Obfuscate byte code of each code object when code object completed execution.
@@ -58,7 +58,7 @@ Commercial developers should perhaps consider the necessity of concealing their 
 
 \[Futility of protection schemes\--but equally for Java, C, \...\]
 
-Also see \"[deployment](deployment)\".
+Also see \"[deployment](../deployment)\".
 
 ------------------------------------------------------------------------
 

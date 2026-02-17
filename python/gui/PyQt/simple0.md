@@ -24,7 +24,7 @@ Mac users might want to follow
 
 - [http://works13.com/blog/mac/installing-eric4-on-mac-os-x-leopard.htm](http://works13.com/blog/mac/installing-eric4-on-mac-os-x-leopard.htm)
 
-to get a working [PyQt](PyQt) development environment. (Note: the Qt link is broken at the time of writing, try to use: [http://qt.nokia.com/downloads/qt-for-open-source-cpp-development-on-mac-os-x](http://qt.nokia.com/downloads/qt-for-open-source-cpp-development-on-mac-os-x))
+to get a working [PyQt]() development environment. (Note: the Qt link is broken at the time of writing, try to use: [http://qt.nokia.com/downloads/qt-for-open-source-cpp-development-on-mac-os-x](http://qt.nokia.com/downloads/qt-for-open-source-cpp-development-on-mac-os-x))
 
 Linux users should install the packages provided by the distribution, which are usually called python-sip, python-qt4, python-qscintilla. Watch out for related -devel packages also. They\'re needed as well, if the packager has split them off. (Many thanks to **Hans-Peter Jansen** for this section of the tutorial and many other valuable suggestions.)
 

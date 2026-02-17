@@ -16,7 +16,7 @@ Here\'s where you should list packages that you would like to see available in a
 
 - wxPython (automatic installer, not dmg)
 
-- [PyQt](PyQt)
+- [PyQt](../../gui/PyQt)
 
 - Tkinter (automatic installer for [../TclTkAqua](TclTkAqua))
 

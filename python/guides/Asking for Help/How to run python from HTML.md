@@ -30,7 +30,7 @@ The HTML will refer to the Python script using the `action`{.backtick} attribute
 
 8.  The Python script will now have some form data and can validate it. In response, it can produce the same HTML page again, or it can produce another HTML page, making it seem that the page being served has changed.
 
-I hope this makes sense. \-- [PaulBoddie](PaulBoddie) 2012-01-09 22:07:55
+I hope this makes sense. \-- [PaulBoddie](../../people/PaulBoddie) 2012-01-09 22:07:55
 
 ------------------------------------------------------------------------
 

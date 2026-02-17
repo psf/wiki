@@ -112,9 +112,9 @@ The ability to cross-link Python bugs with bugs filed on other projects might be
 
 # Notes / Comments 
 
-- On Roundup ([DavidLinke](DavidLinke)):
+- On Roundup ([DavidLinke](../../people/DavidLinke)):
 
-  - Your speculation was correct: Roundup will not send an email to the message submitter. [RichardJones](RichardJones): This is configurable.
+  - Your speculation was correct: Roundup will not send an email to the message submitter. [RichardJones](../../people/RichardJones): This is configurable.
 
   - Search interface: More search fields can be easiliy added (also submitter, actor or user id, attachment yes/no, attachment type). It is just not active in the demo. Also you can store your personal searches under a name which gets added to the sidebar. Searches can be public or private so that some searches like \"recently submitted\" can be made available for all.
 

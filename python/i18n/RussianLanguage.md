@@ -122,7 +122,7 @@ Where these pages really need help:
 
 - [django - twitter app](http://www.codeisart.ru/python-the-latest-messages-from-twitter/) - latest messages from twitter
 
-- [roinet](http://roinet.livejournal.com/5740.html) - C# + [IronPython](IronPython): вызов методов
+- [roinet](http://roinet.livejournal.com/5740.html) - C# + [IronPython](../implementations/IronPython): вызов методов
 
 - [nolar](http://nolar.livejournal.com/212307.html) - generators with code
 
@@ -224,7 +224,7 @@ Where these pages really need help:
 
 - [charnad](http://www.charnad.com/blog/python-igraem-s-pygame-nachalo/) - ython-igraem-s-pygame-nachalo
 
-- [forum.woweb.ru](http://forum.woweb.ru/topic45403.html) - [UnicodeDecodeError](UnicodeDecodeError)
+- [forum.woweb.ru](http://forum.woweb.ru/topic45403.html) - [UnicodeDecodeError](../archive/UnicodeDecodeError)
 
 - [eking-go](http://eking-go.livejournal.com/85732.html) - command line one liners (bash + python)
 

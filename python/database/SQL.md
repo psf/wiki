@@ -8,4 +8,4 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Python supports numerous SQL databases. Most interface modules implement the standard [PythonDbApi](./PythonDbApi.html).
 
-For a list of available interface modules, see [ChoosingDatabase](ChoosingDatabase) and the [DatabaseProgramming](DatabaseProgramming) topic guide.
+For a list of available interface modules, see [ChoosingDatabase](../people/ChoosingDatabase) and the [DatabaseProgramming](DatabaseProgramming) topic guide.

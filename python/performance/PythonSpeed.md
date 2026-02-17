@@ -36,7 +36,7 @@ Here are some coding guidelines for applications that demand peak performance (i
 
 - Custom sort ordering is best performed with Py2.4\'s key= option or with the traditional decorate-sort-undecorate technique. Both approaches call the key function just once per element. In contrast, sort\'s cmp= option is called many times per element during a sort. For example, sort(key=str.lower) is faster than sort(cmp=lambda a,b: cmp(a.lower(), b.lower())).
 
-  See also [TimeComplexity](TimeComplexity).
+  See also [TimeComplexity](../language/TimeComplexity).
 
 ### Take advantage of interpreter optimizations 
 
@@ -48,7 +48,7 @@ Here are some coding guidelines for applications that demand peak performance (i
 
 - List comprehensions run a bit faster than equivalent for-loops (unless you\'re just going to throw away the result).
 
-- Starting with Py2.3, the interpreter optimizes `while 1` to just a single jump. In contrast, prior to Python 3, `while True` took several more steps. While the latter was preferred for clarity, time-critical code should have used the first form. Starting in Python 3, *True*, *False*, and *None* are reserved words, so there is no longer any performance difference here. See [WhileLoop](WhileLoop) for additional details.
+- Starting with Py2.3, the interpreter optimizes `while 1` to just a single jump. In contrast, prior to Python 3, `while True` took several more steps. While the latter was preferred for clarity, time-critical code should have used the first form. Starting in Python 3, *True*, *False*, and *None* are reserved words, so there is no longer any performance difference here. See [WhileLoop](../getting-started/WhileLoop) for additional details.
 
 - Multiple assignment is slower than individual assignment. For example \"`x,y=a,b`\" is slower than \"`x=a; y=b`\". However, multiple assignment is faster for variable swaps. For example, \"`x,y=y,x`\" is faster than \"`t=x; x=y; y=t`\".
 

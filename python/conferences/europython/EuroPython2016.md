@@ -18,7 +18,7 @@ See the official site for more details:
 
 **This page is meant to organize information collected by attendees.**
 
-If you want to add information to this page and find that it is immutable, please sign up to the wiki and see the [FrontPage](FrontPage) for details on how to get editing permissions.
+If you want to add information to this page and find that it is immutable, please sign up to the wiki and see the [FrontPage](../../people/FrontPage) for details on how to get editing permissions.
 
 ## Discussion 
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The Python Software Foundation (PSF) is looking for GSoC students to work on a variety of Python-related projects as well as Python itself. The PSF acts as an \"umbrella organization\" under which many smaller sub-organizations can participate in Google Summer of Code. [SummerOfCode](SummerOfCode) will have the current list of accepted projects.
+The Python Software Foundation (PSF) is looking for GSoC students to work on a variety of Python-related projects as well as Python itself. The PSF acts as an \"umbrella organization\" under which many smaller sub-organizations can participate in Google Summer of Code. [SummerOfCode]() will have the current list of accepted projects.
 
 Before submitting an application,
 
@@ -16,7 +16,7 @@ Before submitting an application,
 
 - contact either a mentor or the list itself to inquire about the suitability of your idea(s).
 
-For the most part, you want to contact mentors via their project mailing lists, which are listed on [SummerOfCode](SummerOfCode) or talk to them via IRC.
+For the most part, you want to contact mentors via their project mailing lists, which are listed on [SummerOfCode]() or talk to them via IRC.
 
 Your goal is to develop your GSoC application in concert with one or more possible mentors, taking their feedback to heart and revising your application accordingly. Applications with no willing mentors will generally not be considered, and mentor opinions are taken very seriously in the review process, so you want to impress them.
 

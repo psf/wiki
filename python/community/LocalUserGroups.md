@@ -16,9 +16,9 @@ There about **1,637** Python user groups **worldwide** in almost **191** cities,
 
 - A world map of [Python Meetups](https://www.meetup.com/pro/python-software-foundation-meetups/) in meetup.com. Enter your country and city to list the local group if any.
 
-If there is not a Python user group in your area, please check [StartingYourUsersGroup](StartingYourUsersGroup) if you are interested in organizing one.
+If there is not a Python user group in your area, please check [StartingYourUsersGroup](../archive/StartingYourUsersGroup) if you are interested in organizing one.
 
-There are also a number of \"In House Users Group\" within some, (mostly larger), companies - while these are normally closed to anybody who does not work for the company your company may already have one or you may wish to start one. In either case you may find the information at [TipsForInHouseUserGroups](TipsForInHouseUserGroups) useful.
+There are also a number of \"In House Users Group\" within some, (mostly larger), companies - while these are normally closed to anybody who does not work for the company your company may already have one or you may wish to start one. In either case you may find the information at [TipsForInHouseUserGroups](../archive/TipsForInHouseUserGroups) useful.
 
 ## Africa 
 
@@ -171,7 +171,7 @@ There are also a number of \"In House Users Group\" within some, (mostly larger)
 
 - [Python Bangladesh](https://www.facebook.com/groups/402353916617590) is the largest Python User Group from Bangladesh.
 
-- [Python User Group Dhaka](PythonUserGroupDhaka) is the new and active user group in Dhaka. [Facebook Group](https://www.facebook.com/groups/pythondhaka)
+- [Python User Group Dhaka](../archive/PythonUserGroupDhaka) is the new and active user group in Dhaka. [Facebook Group](https://www.facebook.com/groups/pythondhaka)
 
 ### Cambodia(សីល \>\>\> សមាធិ \>\>\> បញ្ញា) 
 
@@ -377,11 +377,11 @@ There are also a number of \"In House Users Group\" within some, (mostly larger)
 
 - [Brisbane](http://www.meetup.com/Brisbane-Python-User-Group/) - A monthly meeting of food, drink and Python.
 
-- [MelbournePUG](MelbournePUG) - meets for talks, chats, food and drink on the first Monday of each month in Melbourne.
+- [MelbournePUG](../archive/MelbournePUG) - meets for talks, chats, food and drink on the first Monday of each month in Melbourne.
 
 - [Sydney Python Users Group](http://www.sypy.org/) - A group of Python users who meet in Sydney for discussions and drinks every couple of months. See also [our maillist](http://groups.google.com/group/sydneypython/).
 
-- [CanberraPUG](CanberraPUG) - Active (2023), punching above our weight Canberra User Group, come down and hang out with a lovely community all levels and backgrounds welcome, first Thursday of every month at Hannah Neumann building(MSI), ANU. Events link: [CanberraPUG](https://www.meetup.com/canberra-python-meetup-group/).
+- [CanberraPUG](../archive/CanberraPUG) - Active (2023), punching above our weight Canberra User Group, come down and hang out with a lovely community all levels and backgrounds welcome, first Thursday of every month at Hannah Neumann building(MSI), ANU. Events link: [CanberraPUG](https://www.meetup.com/canberra-python-meetup-group/).
 
 - [North Queensland Python Users Group (PyNQ)](http://pynq.org) - Pythonistas and friends getting together in Townsville (at present - venue/times TBD). Visit the site to register interest.
 
@@ -405,7 +405,7 @@ There are also a number of \"In House Users Group\" within some, (mostly larger)
 
 - [KWPUG](http://www.kwpug.org) - the Kitchener/Waterloo Python User Group - just starting July 17, 2006.
 
-- [WinniPUG - Winnipeg Python Users Group](WinniPUG) - active since December 2005.
+- [WinniPUG - Winnipeg Python Users Group](../archive/WinniPUG) - active since December 2005.
 
 - [VanPyZ](http://www.vanpyz.org/) - The Vancouver Python and Zope User Group discusses Python and various uses of the language.
 
@@ -705,7 +705,7 @@ There are also a number of \"In House Users Group\" within some, (mostly larger)
 
 ### Slovakia 
 
-- [pycon.sk](http://pycon.sk) - Slovak Python user group and [PyCon](PyCon) SK homepage
+- [pycon.sk](http://pycon.sk) - Slovak Python user group and [PyCon](../conferences/pycon/PyCon) SK homepage
 
 ### Slovenia 
 
@@ -777,7 +777,7 @@ There are also a number of \"In House Users Group\" within some, (mostly larger)
 
 - [Python Liverpool](http://pypool.github.io/)
 
-- [London Financial Python User Group](LondonFinancialPythonUserGroup)
+- [London Financial Python User Group](../archive/LondonFinancialPythonUserGroup)
 
 - [PyData London Meetup](http://london.pydata.org/) - a very large group with regular meetings focused on uses of Python in data science
 
@@ -953,11 +953,11 @@ There are also a number of \"In House Users Group\" within some, (mostly larger)
 
 ### Arizona 
 
-- [DesertPy](DesertPy) - The Phoenix area Python User Group. - [DesertPy Website](http://desertpy.com) - [DesertPy Meetup](http://www.meetup.com/Phoenix-Python-Meetup-Group/)
+- [DesertPy](../people/DesertPy) - The Phoenix area Python User Group. - [DesertPy Website](http://desertpy.com) - [DesertPy Meetup](http://www.meetup.com/Phoenix-Python-Meetup-Group/)
 
 - [PhoenixGeoPythonGroup](./(5b)PhoenixGeoPythonGroup.html)\] - New Phoenix Geo/Python User Group - \[[http://phxgeo.org](http://phxgeo.org)\]
 
-- [TuPLE](TucsonPythonUserGroup) - Tucson Python Language Enthusiasts. [Mailing list](http://groups.google.com/group/TuPLEgroup)
+- [TuPLE](../archive/TucsonPythonUserGroup) - Tucson Python Language Enthusiasts. [Mailing list](http://groups.google.com/group/TuPLEgroup)
 
 ### Arkansas 
 
@@ -1039,7 +1039,7 @@ There are also a number of \"In House Users Group\" within some, (mostly larger)
 
 ### Kansas 
 
-- [CaneyPUGgies - Caney Python Users Group](http://caneypuggies.alwaysreformed.com/) - Meets every Tuesday to learn web development using [TurboGears](TurboGears). Remote attendees welcome!
+- [CaneyPUGgies - Caney Python Users Group](http://caneypuggies.alwaysreformed.com/) - Meets every Tuesday to learn web development using [TurboGears](../web/TurboGears). Remote attendees welcome!
 
 - [PythonKC (pyKC)](https://groups.google.com/group/pythonkc) - Python developers, enthusiast and hackers of the Kansas City Metro Area and surroundings.
 

@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 jim sent this email to the participants\... see also [PyconZ3SprintQuestions](PyconZ3SprintQuestions)
 
-Subject: [PyCon](PyCon) Sprint Date: Thu, 20 Mar 2003 06:46:31 -0500 From: Jim Fulton (snip) To: (snip)
+Subject: [PyCon](../conferences/pycon/PyCon) Sprint Date: Thu, 20 Mar 2003 06:46:31 -0500 From: Jim Fulton (snip) To: (snip)
 
 Hi,
 
 Sprint participants, meet the other sprint participants. ![:)](/wiki/europython/img/smile.png ":)")
 
-This is a reminder that we\'ll be sprinting at [PyCon](PyCon) this coming Monday and Tuesday. We\'ll start at 9am both days. I don\'t know how late we\'ll be able to stay in the rooms. We\'ll have to play that by ear. I hope we can make these somewhat long days.
+This is a reminder that we\'ll be sprinting at [PyCon](../conferences/pycon/PyCon) this coming Monday and Tuesday. We\'ll start at 9am both days. I don\'t know how late we\'ll be able to stay in the rooms. We\'ll have to play that by ear. I hope we can make these somewhat long days.
 
 The sprint will be at the same location as the rest of the conference. We don\'t know the exact room yet, so you need to show up a little early on Monday to allow a little extra time to find the room.
 

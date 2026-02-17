@@ -49,13 +49,13 @@ After my CGI experience, I decided I wanted to use a real web framework for my n
 
 Without a doubt, Webware has a higher entry bar than straight CGI programming. There is a LOT of stuff in Webware (much of which goes unused for most sites), and it requires root access for at least part of the installation process, so you can fire up the persistent server process at boot time.
 
-One of the nice things about Webware, from a programming perspective, is that it uses class inheritance as a fundamental part of its operation. Your basic [SitePage](./SitePage.html), which contains the basic layout rules for your site, derives from the basic Page class in [WebKit](WebKit) (or one of its useful subclasses). If you have several different areas in your web site, you can derive subclasses for each area. You can derive a subclass to use as a base for the parts that need username/password protection. Finally, you derive leaf classes for each page. This encourages re-use and good programming practice.
+One of the nice things about Webware, from a programming perspective, is that it uses class inheritance as a fundamental part of its operation. Your basic [SitePage](./SitePage.html), which contains the basic layout rules for your site, derives from the basic Page class in [WebKit](../people/WebKit) (or one of its useful subclasses). If you have several different areas in your web site, you can derive subclasses for each area. You can derive a subclass to use as a base for the parts that need username/password protection. Finally, you derive leaf classes for each page. This encourages re-use and good programming practice.
 
 ### Webware with PSP Templates 
 
 After playing with Webware for a while, I got jealous of the kind of inline symbol substitution that the .ASP programmers were doing over on Windows. Thus, I started playing with the PSP (Python Server Pages) capability included with Webware. (Note that there are at least 2 completely different technologies calling themselves PSP; I\'m talking specifically about the one built-in to Webware.)
 
-The Webware PSP module allows you to write pages and modules in a manner very similar to ASP. Unlike straight Webware, where you have Python scripts with the occasional HTML chunk, a PSP script is a web page with special tags containing Python code and symbols. The fun thing about PSP and [WebKit](WebKit) is that the PSP pages get compiled into Python code, so they can participate fully in the inheritance structure. You can put the guts of your processing in a Python module, and derive a PSP from it containing the presentation. Plus, the PSP files are sufficiently standard HTML that you can use an HTML editor, should that be your cup of tea.
+The Webware PSP module allows you to write pages and modules in a manner very similar to ASP. Unlike straight Webware, where you have Python scripts with the occasional HTML chunk, a PSP script is a web page with special tags containing Python code and symbols. The fun thing about PSP and [WebKit](../people/WebKit) is that the PSP pages get compiled into Python code, so they can participate fully in the inheritance structure. You can put the guts of your processing in a Python module, and derive a PSP from it containing the presentation. Plus, the PSP files are sufficiently standard HTML that you can use an HTML editor, should that be your cup of tea.
 
 Webware, by default, doesn\'t care about the extension on your files. So, if you have a file that starts out as a .psp but later needs to migrate to a .py, you don\'t have to change any of the references, and your users\' saved bookmarks will still work. You can even include plain .html files; the Webware server will deliver them without further processing, and you can change it to a .psp later, should your needs change.
 
@@ -77,13 +77,13 @@ For the time being, this is still my favorite Python web solution.
 
 ### CherryPy 
 
-With [CherryPy](CherryPy), all of the templeted HTML pages in your web site are compiled into a single Python file, *including* the web server. I find this concept fascinating, and over the years, I came back to the [CherryPy](CherryPy) web site several times. I finally did get the time to create a small web site, and I still think it is fascinating.
+With [CherryPy](../web/CherryPy), all of the templeted HTML pages in your web site are compiled into a single Python file, *including* the web server. I find this concept fascinating, and over the years, I came back to the [CherryPy](../web/CherryPy) web site several times. I finally did get the time to create a small web site, and I still think it is fascinating.
 
 It is powerful, neat, and standalone. You compile your site to a file, and deploy that file to a Windows or Linux system without modification, regardless of which web server is installed, and even if the host has no web server at all.
 
-The [CherryPy](CherryPy) language strongly enforces the processing/presentation split. The model/view/controller concept is built-in to the language, although they use slightly different terminology. [CherryPy](CherryPy) templates can do simple substitution and limited symbol manipulation, but no heavy processing.
+The [CherryPy](../web/CherryPy) language strongly enforces the processing/presentation split. The model/view/controller concept is built-in to the language, although they use slightly different terminology. [CherryPy](../web/CherryPy) templates can do simple substitution and limited symbol manipulation, but no heavy processing.
 
-[CherryPy](CherryPy) is well worth a look.
+[CherryPy](../web/CherryPy) is well worth a look.
 
 \- Note that the current version 2 of Cherrypy does no longer perform compilation. Instead, you just import cherrypy and declare a method as \'exposed\' to turn it into a request handler. It\'s even more elegant and efficient now.
 
@@ -117,13 +117,13 @@ My evolution in web programming is similar: *Perl -\> PHP2 -\> PHP3 -\> Python C
 
 The often criticized diversity of the python web programming projects is a \"paradise of choice\" for me. Maybe the only thing we need is a good decision support for beginners. Something like a document or website saying:
 
-- If you are new to programming or python, take a look at: [Zope](Zope), Plone, [PythonWebModules](PythonWebModules), \...
+- If you are new to programming or python, take a look at: [Zope](../web/Zope), Plone, [PythonWebModules](PythonWebModules), \...
 
-- If you want to dig into network programming, take a look at [TwistedMatrix](TwistedMatrix), \...
+- If you want to dig into network programming, take a look at [TwistedMatrix](../web/TwistedMatrix), \...
 
 - If you want to have an environment containing application server, servlets, python server pages etc. take look at [Webware](./Webware.html), \...
 
-- If you want a self-contained environment (including http server etc.) take a look at [Zope](Zope), [TwistedMatrix](TwistedMatrix), [CherryPy](CherryPy), \...
+- If you want a self-contained environment (including http server etc.) take a look at [Zope](../web/Zope), [TwistedMatrix](../web/TwistedMatrix), [CherryPy](../web/CherryPy), \...
 
 - \...
 
@@ -139,10 +139,10 @@ Would be nice to add [PythonServletEngine](./PythonServletEngine.html) [http://n
 
 \-- [MichalGajda](./MichalGajda.html) 2005-20-04
 
-A number of frameworks can be run with mod_python (rather than as their own standalone server), and are listed on the [ModPython](ModPython) page.
+A number of frameworks can be run with mod_python (rather than as their own standalone server), and are listed on the [ModPython](../people/ModPython) page.
 
-\-- [JohnGabriele](JohnGabriele) 2006-01-26
+\-- [JohnGabriele](../people/JohnGabriele) 2006-01-26
 
-How does this compare to [Django](Django), [TurboGears](TurboGears), other more recent Python web components, i.e. [Kid](./Kid.html), [Myghty](./Myghty.html), and even Ruby on Rails?
+How does this compare to [Django](../web/Django), [TurboGears](../web/TurboGears), other more recent Python web components, i.e. [Kid](./Kid.html), [Myghty](./Myghty.html), and even Ruby on Rails?
 
 \-- [MikeSchinkel](./MikeSchinkel.html) 2007-02-20

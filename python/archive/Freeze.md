@@ -414,7 +414,7 @@ ta da!
 
 ## See Also 
 
-- [Py2Exe](Py2Exe) \-- like Freeze, but makes Windows executables
+- [Py2Exe](../platforms/Py2Exe) \-- like Freeze, but makes Windows executables
 
 - [PythonInstalledByDefault](PythonInstalledByDefault) \-- OS/desktop distributions that come with Python installed
 
@@ -424,7 +424,7 @@ ta da!
 
 I may be doing something wrong; I don\'t think it should be including just about every module under the sun.
 
-\-- [LionKimbro](LionKimbro) 2004-08-30 04:06:38
+\-- [LionKimbro](../people/LionKimbro) 2004-08-30 04:06:38
 
 The \"problem\" is pydoc. It includes Tkinter and some internet related modules for its gui. Just excluding pydoc with
 
@@ -500,7 +500,7 @@ Quite a difference\... The sizes of the resulting binaries are:
   -------------- ---------- -------------------
 :::
 
-\-- [MarcChr](MarcChr) 2005-02-03 16:42:03
+\-- [MarcChr](../people/MarcChr) 2005-02-03 16:42:03
 
 I have errors trying to freeze a wxPython script:
 
@@ -599,4 +599,4 @@ How can I fix it?
 
 ------------------------------------------------------------------------
 
-You probably need to install the `python-dev`{.backtick} or `python-devel`{.backtick} package for your system. For example, on Debian the [python2.7-dev](http://packages.debian.org/wheezy/python2.7-dev) package provides the `/usr/lib/python2.7/config`{.backtick} directory (amongst [other things](http://packages.debian.org/wheezy/i386/python2.7-dev/filelist)), and will itself be installed if you install the `python-dev`{.backtick} package in this case. \-- [PaulBoddie](PaulBoddie) 2013-12-01 23:13:20
+You probably need to install the `python-dev`{.backtick} or `python-devel`{.backtick} package for your system. For example, on Debian the [python2.7-dev](http://packages.debian.org/wheezy/python2.7-dev) package provides the `/usr/lib/python2.7/config`{.backtick} directory (amongst [other things](http://packages.debian.org/wheezy/i386/python2.7-dev/filelist)), and will itself be installed if you install the `python-dev`{.backtick} package in this case. \-- [PaulBoddie](../people/PaulBoddie) 2013-12-01 23:13:20

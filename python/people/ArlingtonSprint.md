@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-For more information about sprints in general, read the [SprintIntroduction](SprintIntroduction) page.
+For more information about sprints in general, read the [SprintIntroduction](../sprints/SprintIntroduction) page.
 
 ## Date/time 
 

@@ -140,7 +140,7 @@ Blogs noted in **bold** are only presented in newsletter, not on podcast.
 
 [Benchmarking JSR-223 Java Integration](http://tiagofernandez.blogspot.com/2010/01/benchmarking-jsr-223-java-integration.html) - Tiago Fernandez
 
-The following micro-benchmark covers Java integration with [JavaScript](JavaScript), Python, Groovy and Ruby through JSR-223 via Rhino, Jython, Groovy and JRuby, respectively. The similar implementations calculate with Fibonacci numbers from 1 to 35 (e.g. 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ..., 9227465) recursively, populate the values in a JTree and displays it with a Frame. Although simple, this task proves valuable because it measures how a scripting engine behaves when calling Java code. [Read More](http://tiagofernandez.blogspot.com/2010/01/benchmarking-jsr-223-java-integration.html)
+The following micro-benchmark covers Java integration with [JavaScript](../../../modules/JavaScript), Python, Groovy and Ruby through JSR-223 via Rhino, Jython, Groovy and JRuby, respectively. The similar implementations calculate with Fibonacci numbers from 1 to 35 (e.g. 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ..., 9227465) recursively, populate the values in a JTree and displays it with a Frame. Although simple, this task proves valuable because it measures how a scripting engine behaves when calling Java code. [Read More](http://tiagofernandez.blogspot.com/2010/01/benchmarking-jsr-223-java-integration.html)
 
 [My New Job at Sauce Labs](http://fwierzbicki.blogspot.com/2010/02/my-new-job-at-sauce-labs.html) - Frank Wierzbicki
 

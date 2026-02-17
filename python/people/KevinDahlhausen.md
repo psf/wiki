@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Kevin Dahlhausen [kdahlhaus@yahoo.com](mailto:kdahlhaus@yahoo.com)
 
-Interested in [CherryPy](CherryPy), FLTK, Vim, Pyrex,
+Interested in [CherryPy](../web/CherryPy), FLTK, Vim, Pyrex,
 
 [http://powertwenty.com/kpd/blog](http://powertwenty.com/kpd/blog)
 

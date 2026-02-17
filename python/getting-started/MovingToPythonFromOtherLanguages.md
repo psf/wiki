@@ -12,7 +12,7 @@ Here is an account of a programmer coming to Python and being extremely producti
 
 - [Eric S. Raymond \'Why Python?\'](https://www.linuxjournal.com/article/3882)
 
-Below are the key points to be aware when starting Python. Make sure to visit [LanguageComparisons](LanguageComparisons) page for detailed info about Python differences from particular language.
+Below are the key points to be aware when starting Python. Make sure to visit [LanguageComparisons](../people/LanguageComparisons) page for detailed info about Python differences from particular language.
 
 ## Significant Whitespace 
 
@@ -97,4 +97,4 @@ The following was taken from a post in comp.lang.python from Mel Wilson, which I
 
 ------------------------------------------------------------------------
 
-See also: [LanguageComparisons](LanguageComparisons) [MovingToPythonFromPerl](MovingToPythonFromPerl)
+See also: [LanguageComparisons](../people/LanguageComparisons) [MovingToPythonFromPerl](../archive/MovingToPythonFromPerl)

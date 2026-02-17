@@ -22,11 +22,11 @@ I thought, \"`cgi` module,\" but realized it\'s for writing pages, not reading t
 
 Does anyone know of Python code or a Python module that will help you read out forms, and create responses to them?
 
-\-- [StefanBehnel](StefanBehnel)
+\-- [StefanBehnel](../people/StefanBehnel)
 
 [lxml.html](http://lxml.de/lxmlhtml.html#forms) has pretty sophisticated HTML form support.
 
-\-- [LionKimbro](LionKimbro) 2004-06-03 07:39:12
+\-- [LionKimbro](../people/LionKimbro) 2004-06-03 07:39:12
 
 Look at:
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-These are the minutes of a meeting of some of the [MacPython](MacPython) developers (Jack Jansen, Bob Ippolito and Ronald Oussoren) at Mar 15 2004
+These are the minutes of a meeting of some of the [MacPython]() developers (Jack Jansen, Bob Ippolito and Ronald Oussoren) at Mar 15 2004
 
 #### Do we want to unify MacPython and PyObjC? 
 
 - If not: where is the IDE/PackMan/etc going?
 - If yes: how are we going to organise this?
-  - Split [MacPython](MacPython) out from Python?
+  - Split [MacPython]() out from Python?
 
   - Merge [../PyObjC](PyObjC) into Python?
 
@@ -24,7 +24,7 @@ old contributors that they are okay with this.
 
 #### What is our timeline? 
 
-We would like to have a [MacPython](MacPython) distribution in summer. This distribution will consist of the new IDE, [PackMan](./PackMan.html), [BuildApplet](./BuildApplet.html), [../PyObjC](PyObjC) and bug fixes for the Panther Addon distribution. For the Jaguar distribution it will also contain Python 2.3.X for whatever X is current then, for the Panther Addon distribution it will rely on Apple-installed [MacPython](MacPython).
+We would like to have a [MacPython]() distribution in summer. This distribution will consist of the new IDE, [PackMan](./PackMan.html), [BuildApplet](./BuildApplet.html), [../PyObjC](PyObjC) and bug fixes for the Panther Addon distribution. For the Jaguar distribution it will also contain Python 2.3.X for whatever X is current then, for the Panther Addon distribution it will rely on Apple-installed [MacPython]().
 
 #### Who is our audience? 
 
@@ -36,7 +36,7 @@ We would like to have a [MacPython](MacPython) distribution in summer. This dist
 
 Both 10.2 and 10.3 are widely used, so we should try to cater for 10.2 too. 10.1 is too much work.
 
-We need to make sure existing Python users migrating to the Mac feel comfortable with [MacPython](MacPython). They seem so at the moment, we need to keep it that way.
+We need to make sure existing Python users migrating to the Mac feel comfortable with [MacPython](). They seem so at the moment, we need to keep it that way.
 
 [AppleScripters](./AppleScripters.html) may be an interesting audience in the future, but we have to have more infrastructure finished before we actively target them.
 
@@ -71,7 +71,7 @@ Another interesting audience is education. For this we definitely need the new I
 
 - x11 integration
 
-Because our first aim is the summer [MacPython](MacPython) distribution for 2.3.X we are concentrating on what is needed for that: IDE, packman, [../BuildApplet](./MacPython(2f)BuildApplet.html) and icon. The others are optional (or not doable before 2.4).
+Because our first aim is the summer [MacPython]() distribution for 2.3.X we are concentrating on what is needed for that: IDE, packman, [../BuildApplet](./MacPython(2f)BuildApplet.html) and icon. The others are optional (or not doable before 2.4).
 
 Bob is going to go after the icon artist again to try and get glasses on the snake, which will hopefully make it acceptable to people with snake-fobia.
 
@@ -107,7 +107,7 @@ We\'ve discussed some of the alternatives:
 
 - Xcode is too project-based for newbies and/or use in a teaching environment, otherwise we could try to create some add-ons for Xcode to transform it into a Python IDE.
 
-The long term view is to create an IDE that can do everything, but for the summer release we\'ll focus on a functional replacement for the current [MacPython](MacPython) IDE (perfect is the enemy of good enough). In the long run we\'d like to see:
+The long term view is to create an IDE that can do everything, but for the summer release we\'ll focus on a functional replacement for the current [MacPython]() IDE (perfect is the enemy of good enough). In the long run we\'d like to see:
 
 - Must be able to print both scripts and script output. This is essential for use in a classroom environment.
 - User scripts run in a seperate executable (like IDLE). This functionality is in idlelib, that might be usuable. There\'s also the HAP debugger, which can be used for debugging over TCP/IP (e.g. from another machine).

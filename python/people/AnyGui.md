@@ -36,13 +36,13 @@ Current status of platform support [available](http://anygui.sourceforge.net/pla
 
 - Java Swing
 
-- [PythonWin](PythonWin) (MSW via [Win32All](Win32All))
+- [PythonWin](../archive/PythonWin) (MSW via [Win32All](../platforms/Win32All))
 
 - [PyGtk](PyGtk)
 
-- [WxPython](WxPython)
+- [WxPython](../gui/WxPython)
 
-- [PyQt](PyQt)
+- [PyQt](../gui/PyQt)
 
 - Plain Text (also Curses)
 

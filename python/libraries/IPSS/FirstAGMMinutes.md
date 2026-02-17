@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## 1. Quorum 
 
-- 10 members were present along with 14 invitees who had attended the annual [PyCon](PyCon) so quorum was met
+- 10 members were present along with 14 invitees who had attended the annual [PyCon](../../conferences/pycon/PyCon) so quorum was met
 
 ## 2. Proceedings 
 

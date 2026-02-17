@@ -20,18 +20,18 @@ For an intranet solution for a company or organisation of almost any size, the p
 
     - Would an established solution like Plone be enough, perhaps with customisation?
 
-    - Or are you looking at some development from the ground up on top of one of the [WebFrameworks](WebFrameworks)?
+    - Or are you looking at some development from the ground up on top of one of the [WebFrameworks](../web/WebFrameworks)?
 
-3.  Now choose a server! Apache on GNU/Linux is quite versatile, but you may not need Apache if you\'re set on running a multi-protocol server like Zope or even one of the [WebServers](WebServers).
+3.  Now choose a server! Apache on GNU/Linux is quite versatile, but you may not need Apache if you\'re set on running a multi-protocol server like Zope or even one of the [WebServers](../people/WebServers).
 
 4.  Generate content:
     - A Wiki engine like [MoinMoin](MoinMoin) (the basis for the Python Wiki) can provide a flexible solution, especially where the editing and review processes aren\'t fully defined or mapped out.
 
-    - You may be extracting data from different sources and then need to present it as Web pages. Here, the [DataRepresentation](DataRepresentation) and [Templating](Templating) may provide good solutions. And there\'s probably lots of existing documents lying around anyway which can be served up as they are.
+    - You may be extracting data from different sources and then need to present it as Web pages. Here, the [DataRepresentation](../language/DataRepresentation) and [Templating](Templating) may provide good solutions. And there\'s probably lots of existing documents lying around anyway which can be served up as they are.
 
 5.  Integrate into business processes - not only merits a \"top level\" mention, but an entire Web site devoted to it. ![:)](/wiki/europython/img/smile.png ":)")
 
-6.  Test! It\'s nice if your [WebProgramming](WebProgramming) framework allows development and testing outside a Web browser, XML-RPC, SOAP, etc. Like from the command prompt, for example.
+6.  Test! It\'s nice if your [WebProgramming](../web/WebProgramming) framework allows development and testing outside a Web browser, XML-RPC, SOAP, etc. Like from the command prompt, for example.
 
 ------------------------------------------------------------------------
 

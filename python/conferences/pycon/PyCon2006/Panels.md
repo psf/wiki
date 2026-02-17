@@ -37,7 +37,7 @@ It\'d be nice to have a place where we could talk about blue-sky future ideas. \
 
 # Panel on writing books and articles about Python 
 
-This can be an authors/editors/publishers panel, might include information on trends in Python books, or general writing advice. \--[MichaelBernstein](MichaelBernstein)
+This can be an authors/editors/publishers panel, might include information on trends in Python books, or general writing advice. \--[MichaelBernstein](../../../people/MichaelBernstein)
 
 # Other ideas 
 

@@ -10,7 +10,7 @@ This page demonstrates functional programming in Python.
 
 ## Challenge: Italicizing Text 
 
-The challenge is to italicize some text that is specially marked in a [WikiLikeSyntax](WikiLikeSyntax).
+The challenge is to italicize some text that is specially marked in a [WikiLikeSyntax](../archive/WikiLikeSyntax).
 
 For example, it should translate:
 
@@ -146,7 +146,7 @@ Regardless, there are clear advantages to programming this functionally, rather 
 
 If you found this intriguing, may I make a recommendation?
 
-Study *the first section* of *the first chapter* of [TextProcessingInPython](TextProcessingInPython), by [DavidMertz](DavidMertz).
+Study *the first section* of *the first chapter* of [TextProcessingInPython](../archive/TextProcessingInPython), by [DavidMertz](DavidMertz).
 
 And then answer all the questions- in particular, question #3. If you can completely answer that question, (and it will require asking yourself a lot of sub-questions, and identifying commonalities in a lot of situations where ident is used,) you\'re probably in good shape.
 

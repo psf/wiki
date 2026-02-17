@@ -18,13 +18,13 @@ This will be updated regularly so check back often.
 
 - [Dive into Python](http://www.diveintopython.net/) - This is a good source for learning *Python*. (and [Python 3 version](http://diveintopython3.ep.io/))
 
-- [JythonFaq](JythonFaq)
+- [JythonFaq](../faq/JythonFaq)
 
 **Manuals:**
 
 - [Offical User Guide](http://www.jython.org/Project/userguide.html) (based on Jython 2.1)
 
-- [NewUsersGuide](NewUsersGuide) - ![/!\\](/wiki/modernized/img/alert.png "/!\") This is in the progress of being updated to version 2.2
+- [NewUsersGuide](../user-guide/NewUsersGuide) - ![/!\\](/wiki/modernized/img/alert.png "/!\") This is in the progress of being updated to version 2.2
 
 **Examples:**
 
@@ -32,19 +32,19 @@ This will be updated regularly so check back often.
 
 Examples updated as of June 8, 2008\
 
-- [CoreJythonExamples](CoreJythonExamples) - Standard Python / Jython Examples
+- [CoreJythonExamples](../examples/CoreJythonExamples) - Standard Python / Jython Examples
 
-- Standard [JavaLibraries](JavaLibraries) - Using Java standard libraries with Jython
+- Standard [JavaLibraries](../modules/JavaLibraries) - Using Java standard libraries with Jython
 
-- [SwingExamples](SwingExamples) - Swing is really easy with Jython
+- [SwingExamples](../examples/SwingExamples) - Swing is really easy with Jython
 
-- [DatabaseExamples](DatabaseExamples) - Interact with various relational databases
+- [DatabaseExamples](../examples/DatabaseExamples) - Interact with various relational databases
 
-- [XmlRelatedExamples](XmlRelatedExamples) - XML and SOAP examples including XPath, etc
+- [XmlRelatedExamples](../examples/XmlRelatedExamples) - XML and SOAP examples including XPath, etc
 
-- [OtherExamples](OtherExamples) - Examples that don\'t have their own category yet.
+- [OtherExamples](../examples/OtherExamples) - Examples that don\'t have their own category yet.
 
-- [ComparisonJavaJython](ComparisonJavaJython) - What to use in Jython when converting from Java
+- [ComparisonJavaJython](../internals/ComparisonJavaJython) - What to use in Jython when converting from Java
 
 - [Using Java Libraries with Jython - RSS Example](http://wiki.python.org/jython/JythonMonthly/Articles/October2007/1)
 
@@ -56,4 +56,4 @@ Examples updated as of June 8, 2008\
 
 **Editors / IDE\'s and other tools**
 
-- [JythonEditors](JythonEditors) - Editors and IDE\'s
+- [JythonEditors](../community/JythonEditors) - Editors and IDE\'s

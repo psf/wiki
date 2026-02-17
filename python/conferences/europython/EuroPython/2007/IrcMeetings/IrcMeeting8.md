@@ -44,7 +44,7 @@ Suggestions:
 - Finishing the theme descriptions for use in Indico.
   - Status of the Agile and Social Skills theme descriptions ([EuroPython/2007/TrackDescriptions](../TrackDescriptions)) - Bea will have approved these, or have provided suggestions for improvements.
 - Sponsorship/finance:
-  - Laura will have asked about [PyCon](PyCon)\'s sponsorship packages and will give details.
+  - Laura will have asked about [PyCon](../../../../pycon/PyCon)\'s sponsorship packages and will give details.
 
   - Status on handing over information about the budgets for 2005 and 2006 to the EP 2007 organisers.
 
@@ -60,7 +60,7 @@ Suggestions:
 
   - Harald mentioned that the information about accommodation and food costs needs to be clarified.
 
-  - Work on the fee structure will be carried out on the mailing list. See [EuroPython/2007/FeeStructureAttendees](../FeeStructureAttendees) for a comparison between fees in previous years. *(Ask [PaulBoddie](PaulBoddie) for access to the sponsor-related [EuroPython/2007/FeeStructure](./EuroPython(2f)2007(2f)FeeStructure.html) page.)*
+  - Work on the fee structure will be carried out on the mailing list. See [EuroPython/2007/FeeStructureAttendees](../FeeStructureAttendees) for a comparison between fees in previous years. *(Ask [PaulBoddie](../../../../../people/PaulBoddie) for access to the sponsor-related [EuroPython/2007/FeeStructure](./EuroPython(2f)2007(2f)FeeStructure.html) page.)*
 
   - Registration is supposed to open *very soon*, so some idea of fees needs to materialise quickly.
 

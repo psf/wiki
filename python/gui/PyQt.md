@@ -40,9 +40,9 @@ A comprehensive list of tutorials can also be found on the [Tutorials](PyQt/Tuto
 
 On this Wiki, you can also find the following tutorials, now mostly of historical interest only:
 
-- A tutorial presented by Jonathan Gardner at the 2003 Northwest Linux Fest is available at [JonathanGardnerPyQtTutorial](JonathanGardnerPyQtTutorial).
+- A tutorial presented by Jonathan Gardner at the 2003 Northwest Linux Fest is available at [JonathanGardnerPyQtTutorial](../archive/JonathanGardnerPyQtTutorial).
 
-- A tutorial presented by Oleksandr Yakovlyev for embedding PyQt in C++/Qt application [EmbedingPyQtTutorial](EmbedingPyQtTutorial)
+- A tutorial presented by Oleksandr Yakovlyev for embedding PyQt in C++/Qt application [EmbedingPyQtTutorial](../archive/EmbedingPyQtTutorial)
 
 ## Developing with PyQt and PyKDE 
 
@@ -88,7 +88,7 @@ PyQt implements around 300 classes and over 5,750 functions and methods includin
 
 - a substantial set of GUI widgets
 
-- classes for accessing SQL databases (ODBC, [MySQL](MySQL), [PostgreSQL](PostgreSQL), [Oracle](Oracle))
+- classes for accessing SQL databases (ODBC, [MySQL](../database/MySQL), [PostgreSQL](../database/PostgreSQL), [Oracle](../database/Oracle))
 
 - QScintilla, [Scintilla-based](http://www.scintilla.org/) rich text editor widget
 

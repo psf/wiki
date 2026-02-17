@@ -66,7 +66,7 @@ There it is!
 
 - If you set XMLRPC_namespace to None, then namespaces aren\'t used.
 
-- This code demonstrates [ModulesAsPlugins](ModulesAsPlugins), [DocXmlRpcServer](DocXmlRpcServer), [OptParse](OptParse), and (hopefully) [PythonStyle](PythonStyle).
+- This code demonstrates [ModulesAsPlugins](ModulesAsPlugins), [DocXmlRpcServer](DocXmlRpcServer), [OptParse](../people/OptParse), and (hopefully) [PythonStyle](PythonStyle).
 
 - If you define a function \"uli\" (`def uli(msg):`), you can call it in IRC with [UliBot!](http://onebigsoup.wiki.taoriver.net/moin.cgi/UliBot)
 
@@ -188,7 +188,7 @@ There it is!
 
 This could be improved. Some ideas:
 
-- Make it so you can specify modules (and possibly namespaces for them) with command line options. (hint: [OptParse](OptParse).)
+- Make it so you can specify modules (and possibly namespaces for them) with command line options. (hint: [OptParse](../people/OptParse).)
 
 - What if there\'s an exception while loading a module? What then?
 
@@ -197,4 +197,4 @@ This could be improved. Some ideas:
 - Log modules successfully loaded.
   - If you\'re either brave or insane, make use of the [LoggingModule](./LoggingModule.html).
 
-\-- [LionKimbro](LionKimbro) 2005-04-17 05:51:41
+\-- [LionKimbro](../people/LionKimbro) 2005-04-17 05:51:41

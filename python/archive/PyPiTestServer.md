@@ -22,7 +22,7 @@ The work is separated into three steps:
 
 \- [2011 updated idea](http://tarekziade.wordpress.com/2011/02/21/qa-portal-ideas/)
 
-\- On this wiki: [PyPITestingInfrastructure](PyPITestingInfrastructure)
+\- On this wiki: [PyPITestingInfrastructure](../packaging/PyPITestingInfrastructure)
 
 ## What do people want 
 

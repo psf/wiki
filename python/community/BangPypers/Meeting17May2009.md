@@ -13,7 +13,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Agenda 
 
-- Discuss [PyCon](PyCon) India (Follow up on the points from the last meeting)
+- Discuss [PyCon](../../conferences/pycon/PyCon) India (Follow up on the points from the last meeting)
 
 ## Participants 
 
@@ -41,7 +41,7 @@ Anand Chitipothu, Senthil Kumaran, Noufal Ibrahim, Srikanth Gaikwad, Puneeth, Ka
 
 - Rs. 200 early bird registration and Rs. 300 spot registration.
 
-- We are planning to have a small [PyCon](PyCon) India Logo Design contest. Noufal will mail the list with the details.
+- We are planning to have a small [PyCon](../../conferences/pycon/PyCon) India Logo Design contest. Noufal will mail the list with the details.
 
 ### From last meeting 
 
@@ -56,7 +56,7 @@ Anand Chitipothu, Senthil Kumaran, Noufal Ibrahim, Srikanth Gaikwad, Puneeth, Ka
 
 - The website is the gating point for us to being publicity and marketing.
 
-- Anand has mailed Python.org and they\'ve the mailing should be (or is already) functional. This will be advertised on the [BangPypers](BangPypers) list.
+- Anand has mailed Python.org and they\'ve the mailing should be (or is already) functional. This will be advertised on the [BangPypers]() list.
 
 - As for the website. We have to
   - Get the in.pycon.org domain from the official pycon people

@@ -21,8 +21,8 @@ There is an enhanced fork of Pyrex, called [Cython](http://www.cython.org). It f
 
 [PyrexOnWindows](PyrexOnWindows) provides a step-by-step guide to **Pyrex installation on Windows**.
 
-[pyrexdoc](http://www.freenet.org.nz/python/pyrexdoc) is a tool for **generating HTML documentation** from a compiled Pyrex module, by [DavidMcNab](./DavidMcNab.html). See other [DocumentationTools](DocumentationTools).
+[pyrexdoc](http://www.freenet.org.nz/python/pyrexdoc) is a tool for **generating HTML documentation** from a compiled Pyrex module, by [DavidMcNab](./DavidMcNab.html). See other [DocumentationTools](../documentation/DocumentationTools).
 
-If you are looking for speed improvement, you may also want to consider **other Python speedup solutions** such as [PyPy](PyPy) and [weave](weave). [PyPy](PyPy)\'s spiritual predecessor, [psyco](http://psyco.sf.net), has been deprecated and is no longer actively maintained.
+If you are looking for speed improvement, you may also want to consider **other Python speedup solutions** such as [PyPy](PyPy) and [weave](../archive/weave). [PyPy](PyPy)\'s spiritual predecessor, [psyco](http://psyco.sf.net), has been deprecated and is no longer actively maintained.
 
 For accessing existing C libraries, the **ctypes** module is also available in Python 2.5 and above.

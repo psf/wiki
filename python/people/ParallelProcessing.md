@@ -20,7 +20,7 @@ Some Python libraries allow compiling Python functions at run time, this is call
   - Nuitka translates Python into a C program that then is linked against libpython to execute exactly like CPython
   - For version 0.6 of Nuitka and Python 2.7 speedup was 312% !
 
-- [Numba](http://numba.pydata.org/) - Numba is an open source JIT compiler that translates a subset of Python and [NumPy](NumPy) code into fast machine code.
+- [Numba](http://numba.pydata.org/) - Numba is an open source JIT compiler that translates a subset of Python and [NumPy](../science/NumPy) code into fast machine code.
 
   - Numba can use vectorized instructions (SIMD - Single Instruction Multiple Data) like SSE/AVX
   - Numba can simplify multithreading
@@ -84,7 +84,7 @@ Advantages of such approaches include convenient process creation and the abilit
 
 ## Cluster Computing 
 
-Unlike SMP architectures and especially in contrast to thread-based concurrency, cluster (and grid) architectures offer high scalability due to the relative absence of shared resources, although this can make the programming paradigms seem somewhat alien to uninitiated developers. In this domain, some overlap with other distributed computing technologies may be observed (see [DistributedProgramming](DistributedProgramming) for more details).
+Unlike SMP architectures and especially in contrast to thread-based concurrency, cluster (and grid) architectures offer high scalability due to the relative absence of shared resources, although this can make the programming paradigms seem somewhat alien to uninitiated developers. In this domain, some overlap with other distributed computing technologies may be observed (see [DistributedProgramming](../packaging/DistributedProgramming) for more details).
 
 - [batchlib](http://seweb.se.wtb.tue.nl/~hat/batchlib.html) - a distributed computation system with automatic selection of processing services (*no longer developed*)
 
@@ -96,7 +96,7 @@ Unlike SMP architectures and especially in contrast to thread-based concurrency,
 
   - Dynamic task scheduling optimized for computation. This is similar to Airflow, Luigi, Celery, or Make, but optimized for interactive computational workloads.
 
-  - "Big Data" collections like parallel arrays, dataframes, and lists that extend common interfaces like [NumPy](NumPy), Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of dynamic task schedulers.
+  - "Big Data" collections like parallel arrays, dataframes, and lists that extend common interfaces like [NumPy](../science/NumPy), Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of dynamic task schedulers.
 
   - It extends Numpy/Pandas data structures allowing computing on many cores, many servers and managing data that does not fit in memory
 
@@ -140,7 +140,7 @@ Unlike SMP architectures and especially in contrast to thread-based concurrency,
 
 - [pypvm](http://pypvm.sourceforge.net/) - PVM-based solution
 
-- [pynpvm](http://pynpvm.sourceforge.net/) - PVM-based solution for [NumPy](NumPy)
+- [pynpvm](http://pynpvm.sourceforge.net/) - PVM-based solution for [NumPy](../science/NumPy)
 
 - [Pyro](http://irmen.home.xs4all.nl/pyro/) PYthon Remote Objects, distributed object system, takes care of network communication between your objects once you split them over different machines on the network
 

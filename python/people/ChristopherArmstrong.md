@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [http://radix.twistedmatrix.com/](http://radix.twistedmatrix.com/)
 
-Doing stuff with the [TwistedSprint](TwistedSprint)
+Doing stuff with the [TwistedSprint](../web/TwistedSprint)
 
 ------------------------------------------------------------------------
 

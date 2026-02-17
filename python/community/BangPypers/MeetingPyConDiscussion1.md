@@ -10,14 +10,14 @@ Pycon India 2009 ================
 
 Author: Noufal Ibrahim \<noufal@sanctuary\> Date: 2009-04-28 22:39:01 IST
 
-Table of Contents ================= 1 [PyCon](PyCon) India discussion
+Table of Contents ================= 1 [PyCon](../../conferences/pycon/PyCon) India discussion
 
 - 1.1 Items discussed
   - 1.1.1 Venue 1.1.2 Format 1.1.3 Speakers from outside 1.1.4 Site 1.1.5 Money matters 1.1.6 Publicity/sponsorhip 1.1.7 Approx expenses
 
   1.2 Things to do 1.3 Approx timeline
 
-1 [PyCon](PyCon) India discussion \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
+1 [PyCon](../../conferences/pycon/PyCon) India discussion \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
 1.1 Items discussed ====================
 

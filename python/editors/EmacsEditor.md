@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Emacs 
 
-Emacs (the major flavors being [GnuEmacs](GnuEmacs) and XEmacs) is a text editor which come with good support for writing Python code. Each has its strengths and weaknesses, but in general either provide very nice environments for the Python programmer.
+Emacs (the major flavors being [GnuEmacs](../people/GnuEmacs) and XEmacs) is a text editor which come with good support for writing Python code. Each has its strengths and weaknesses, but in general either provide very nice environments for the Python programmer.
 
 ## Tools for Python coders 
 

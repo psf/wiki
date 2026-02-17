@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-**Tentative price list for sponsorship levels for [PyConDC2004](PyConDC2004)**
+**Tentative price list for sponsorship levels for [PyConDC2004]()**
 
-The 2004 [PyCon](PyCon) conference will be hosted in Washington D.C. March 24-26. This page describes the sponsorship opportunities.
+The 2004 [PyCon](../PyCon) conference will be hosted in Washington D.C. March 24-26. This page describes the sponsorship opportunities.
 
 ## Why sponsor PyCon 2004? 
 
-[PyCon](PyCon) 2004 is a community-oriented conference. There is no exhibit hall, and product placement in talks is discouraged. The conference has a strong technical focus, and thus attracts key players in the Python community, from industry, academia, non-profits, etc. Sponsors have in the past participated for one or more of the following reasons:
+[PyCon](../PyCon) 2004 is a community-oriented conference. There is no exhibit hall, and product placement in talks is discouraged. The conference has a strong technical focus, and thus attracts key players in the Python community, from industry, academia, non-profits, etc. Sponsors have in the past participated for one or more of the following reasons:
 
 - Increasing brand recognition among Python community in specific and open source community in general
 - Recruiting top technical talent
@@ -58,7 +58,7 @@ The 2004 [PyCon](PyCon) conference will be hosted in Washington D.C. March 24-26
 
 ## Contact 
 
-If you\'re interested in becoming a [PyConDC2004](PyConDC2004) sponsor, please contact [David Ascher](mailto:davida@activestate.com).
+If you\'re interested in becoming a [PyConDC2004]() sponsor, please contact [David Ascher](mailto:davida@activestate.com).
 
 Note that we will be accepting sponsorships until the last minute, although clearly some of the swag depends on early commitments.
 

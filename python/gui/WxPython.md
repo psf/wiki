@@ -10,11 +10,11 @@ wxPython is a blending of the [WxWidgets](WxWidgets) (formerly [WxWindows](WxWin
 
 A short series on wxPython can be found on [pythonspot.com](https://pythonspot.com/wx/)
 
-[IgorTamara](IgorTamara): WxPython in a [good linux distribution](http://www.debian.org) is really easy to install, just : **apt-get install libwxgtk3.0-python** or
+[IgorTamara](../people/IgorTamara): WxPython in a [good linux distribution](http://www.debian.org) is really easy to install, just : **apt-get install libwxgtk3.0-python** or
 
-[MythDebunking](MythDebunking): *WxPython is hard to install on Unix. You need the right versions of GTK, [WxWidgets](WxWidgets) and WxPython.*
+[MythDebunking](../people/MythDebunking): *WxPython is hard to install on Unix. You need the right versions of GTK, [WxWidgets](WxWidgets) and WxPython.*
 
-Also check the [WxDesigner](WxDesigner) and [BoaConstructor](BoaConstructor).
+Also check the [WxDesigner](../people/WxDesigner) and [BoaConstructor](../people/BoaConstructor).
 
 ------------------------------------------------------------------------
 

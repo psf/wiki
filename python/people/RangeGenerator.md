@@ -10,11 +10,11 @@ Below is a little range generator, irange, which is compatible with range. More 
 
 Would a function of similar semantics likely be accepted into the standard library within itertools?
 
-[lwickjr](lwickjr): I like the idea. Anyone else?
+[lwickjr](../archive/lwickjr): I like the idea. Anyone else?
 
 The author doesn\'t have the time/energy to write/push a [PEP](PEP) for the [PythonEnhancementProcess](./PythonEnhancementProcess.html). If you think this generator is a good idea, please submit a [PEP](PEP).
 
-[lwickjr](lwickjr): Neither do I. Anyone else?
+[lwickjr](../archive/lwickjr): Neither do I. Anyone else?
 
 # Test Suite 
 
@@ -147,6 +147,6 @@ I think it\'s way too much code, and also it does not accept named parameters. H
 
 *The alternate implementation is fine, though I\'d prefer to see a \"takewhile\" rather than a while loop in the spirit of functional programming - but thats minor.*
 
-The test case I am less fond of - while it does test the functionality, it doesn\'t support [TestDrivenDevelopment](TestDrivenDevelopment) as well. It would be nice to have a test from unitest to allow someone building a big system to easily run a suite of tests they like.
+The test case I am less fond of - while it does test the functionality, it doesn\'t support [TestDrivenDevelopment](../testing/TestDrivenDevelopment) as well. It would be nice to have a test from unitest to allow someone building a big system to easily run a suite of tests they like.
 
 Next step write a PEP someone?

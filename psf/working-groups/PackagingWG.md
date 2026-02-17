@@ -60,7 +60,7 @@ The Packaging Working Group is seeking [sponsorships](https://pyfound.blogspot.c
 
 ### Sprints 
 
-We run [PackagingSprints](PackagingSprints) at conventions and as standalone events. We\'re open to companies and organizations hosting sprints and work weeks to help us move packaging forward; get in contact with a Working Group member.
+We run [PackagingSprints](../packaging/PackagingSprints) at conventions and as standalone events. We\'re open to companies and organizations hosting sprints and work weeks to help us move packaging forward; get in contact with a Working Group member.
 
 ### PyPI Malware Reporting and Response project 
 
@@ -184,7 +184,7 @@ The Packaging Working Group applied for and is receiving a gift from Facebook to
 
 - *Schedule*: As of 2 January 2020, the PSF has hired contractors to carry out this work, and has commenced work.
 
-- *Roadmap*: [WarehouseRoadmap](WarehouseRoadmap)
+- *Roadmap*: [WarehouseRoadmap](../packaging/WarehouseRoadmap)
 
 - *Code and discussion*: [GitHub repository for Warehouse](https://github.com/pypa/warehouse/), [Zulip livechat](https://python.zulipchat.com/#narrow/stream/223926-pep458-implementation/), and [Discourse forum](https://discuss.python.org/c/packaging).
 
@@ -220,7 +220,7 @@ The Packaging Working Group applied for and is receiving funding to work in 2020
 
 - *Schedule*: The PSF chose contractors to carry out this work in late 2019/early 2020, and commenced work in early 2020. In July 2020 the team delivered pip 20.2, which includes a beta of the new resolver. The team [shipped the new resolver as default in pip 20.3](https://pip.pypa.io/en/latest/user_guide/#changes-to-the-pip-dependency-resolver-in-20-3-2020), in November 2020. The work will end in December 2020/early January 2021.
 
-- *Roadmap*: [Pip2020DonorFundedRoadmap](Pip2020DonorFundedRoadmap)
+- *Roadmap*: [Pip2020DonorFundedRoadmap](../packaging/Pip2020DonorFundedRoadmap)
 
 - *Code and discussion*: [GitHub repository for pip](https://github.com/pypa/pip/), [Zulip livechat](https://python.zulipchat.com/#narrow/stream/218659-pip-development), and [Discourse forum](https://discuss.python.org/c/packaging).
 
@@ -353,7 +353,7 @@ The Packaging Working Group applied for and [received a performance-based contra
 
 - *Deployment*: [pypi.org](https://pypi.org/).
 
-- *Testing*: [WarehousePackageMaintainerTesting](WarehousePackageMaintainerTesting)
+- *Testing*: [WarehousePackageMaintainerTesting](../packaging/WarehousePackageMaintainerTesting)
 
 - *Manager*: Sumana Harihareswara
 
@@ -406,13 +406,13 @@ The Packaging Working Group supported the implementation & deployment of Warehou
 
 - *Summary*: [PSF blog post about the MOSS grant](https://pyfound.blogspot.com/2017/11/the-psf-awarded-moss-grant-pypi.html).
 
-- *Roadmap*: [WarehouseRoadmap](WarehouseRoadmap). As of 30 April 2018, the Warehouse team has shut down the legacy PyPI installation, and \-- on a volunteer basis \-- is working on Milestone 6, \"Post Legacy Shutdown\".
+- *Roadmap*: [WarehouseRoadmap](../packaging/WarehouseRoadmap). As of 30 April 2018, the Warehouse team has shut down the legacy PyPI installation, and \-- on a volunteer basis \-- is working on Milestone 6, \"Post Legacy Shutdown\".
 
 - *Code*: [GitHub repository](https://github.com/pypa/warehouse/).
 
 - *Deployment*: [pypi.org](https://pypi.org/).
 
-- *Testing*: See [the PSF blog post about testing for the beta](https://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html#test). (Previously: [WarehousePackageMaintainerTesting](WarehousePackageMaintainerTesting), [PSF blog post about testing package maintainer functionality](https://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html).)
+- *Testing*: See [the PSF blog post about testing for the beta](https://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html#test). (Previously: [WarehousePackageMaintainerTesting](../packaging/WarehousePackageMaintainerTesting), [PSF blog post about testing package maintainer functionality](https://pyfound.blogspot.com/2018/02/python-package-maintainers-help-test.html).)
 
 - *Manager*: Sumana Harihareswara
 

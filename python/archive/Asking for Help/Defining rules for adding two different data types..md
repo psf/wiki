@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Asking for Help: Defining rules for adding two different data types 
 
-I\'m a beginner with Python and am trying to create a Complex number class. The problem I am having is as follows, if z is a complex number (or other special type) how can I find 1+z? I am able to handle z+1, but it would be much nicer to have the operation be commutative. Whenever I attempt to compute 1+z I receive a [TypeError](TypeError).
+I\'m a beginner with Python and am trying to create a Complex number class. The problem I am having is as follows, if z is a complex number (or other special type) how can I find 1+z? I am able to handle z+1, but it would be much nicer to have the operation be commutative. Whenever I attempt to compute 1+z I receive a [TypeError](../../people/TypeError).
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ However, you could certainly define your own for educational purposes. It sounds
 
 2.  Python looks for a `__radd__`{.backtick} method on the right hand side operand. If this isn\'t found or doesn\'t want to use the left hand side operand, then you get a `TypeError`{.backtick}.
 
-So perhaps your class needs to define the `__radd__`{.backtick} method. \-- [PaulBoddie](PaulBoddie) 2011-03-26 23:04:42
+So perhaps your class needs to define the `__radd__`{.backtick} method. \-- [PaulBoddie](../../people/PaulBoddie) 2011-03-26 23:04:42
 
 ::: note
 When *answering* questions, add the [CategoryAskingForHelpAnswered](CategoryAskingForHelpAnswered) category when saving the page. This will move the link to this page from the questions section to the answers section on the [Asking for Help]() page.

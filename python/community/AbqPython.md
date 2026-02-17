@@ -20,6 +20,6 @@ Members are encouraged to get themselves into [the editor\'s group of this Wiki]
 
 ### Members\' Personal Pages 
 
-- [ErikJohnson](ErikJohnson)
+- [ErikJohnson](../people/ErikJohnson)
 
-- [KrisHardy](KrisHardy)
+- [KrisHardy](../people/KrisHardy)

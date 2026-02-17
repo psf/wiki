@@ -15,7 +15,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - Function to specify if the module being tested is \"optional\" (i.e., reasonable to not have built).
 
-  - Decorators (method and class) to classify tests; OS, known failure, implementation detail or not, etc. Helpful for [PyPy](PyPy) et. al. so they know they don\'t need to test something (e.g., refcount specifics).
+  - Decorators (method and class) to classify tests; OS, known failure, implementation detail or not, etc. Helpful for [PyPy](../../implementations/PyPy) et. al. so they know they don\'t need to test something (e.g., refcount specifics).
 
   - Make unittest not print the docstring of a test instead of the method name when running a test.
 

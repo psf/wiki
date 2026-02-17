@@ -75,7 +75,7 @@ To account for both common inputs, you could use:
 :::
 ::::
 
-I seem to require receiving both while working with [XmlRpc](XmlRpc) produced by a mix of both Python and Perl code. The [XmlRpc](XmlRpc) specification is not very particular about the ISO8601 variant used for it\'s DateTime.
+I seem to require receiving both while working with [XmlRpc](../networking/XmlRpc) produced by a mix of both Python and Perl code. The [XmlRpc](../networking/XmlRpc) specification is not very particular about the ISO8601 variant used for it\'s DateTime.
 
 Note that this method does not handle time zones, so trying to parse `2004-06-03T12:34:56-0700`{.backtick} or `2004-06-03T12:34:56Z`{.backtick} will fail. This is a fundamental limitation of `time.strptime`{.backtick} for which there is no easy workaround.
 
@@ -144,7 +144,7 @@ This page is meant just to give you the basics. You may also want to read:
 
 ## Contributors 
 
-[LionKimbro](LionKimbro)
+[LionKimbro](../people/LionKimbro)
 
 ## Discussion 
 

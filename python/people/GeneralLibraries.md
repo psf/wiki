@@ -38,7 +38,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - *Any good pointers to client-side web prog resources, anybody?*
 
-  - Grail: but where can I find it? \--[lwickjr](lwickjr)
+  - Grail: but where can I find it? \--[lwickjr](../archive/lwickjr)
 
 **Data compression**
 
@@ -50,7 +50,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [pydoctor](http://codespeak.net/~mwh/pydoctor/) - documentation generator reinvented by Twisted project\
   \
-  See also [DocumentationTools](DocumentationTools)
+  See also [DocumentationTools](../documentation/DocumentationTools)
 
 **Language Processing and Parsing**
 
@@ -66,4 +66,4 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [libextractor](http://gnunet.org/libextractor/) - meta-data extraction library with Python binding
 
-  See [LanguageParsing](LanguageParsing) for more tools.
+  See [LanguageParsing](../language/LanguageParsing) for more tools.

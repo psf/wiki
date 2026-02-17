@@ -13,10 +13,10 @@ Add your sprint suggestion to the list below. If you intend to provide more than
 ::: {}
   ------------------------------------------------------------------------------ ----------------------------------------- ------------------------------------------ -------------------------------------------
   **Group/Topic**                                                                **Approx. number of people**              **Pre/Post EP**                            **Room (see \"Sprint locations\" below)**
-  [GrokSprint](GrokSprint)                                                8-12                                      after: 12-14 july                          ?
-  [SchoolToolSprint](SchoolToolSprint)                                    6                                         after: 12 - 14 july                        ?
-  [ParsingForEducationalLinguistics](ParsingForEducationalLinguistics)    6                                         after: 12 - 14 july                        ?
-  [LocalizingChandler](LocalizingChandler)                                ?                                         after: 12 - 13 july                        ?
+  [GrokSprint](../../people/GrokSprint)                                                8-12                                      after: 12-14 july                          ?
+  [SchoolToolSprint](../../archive/SchoolToolSprint)                                    6                                         after: 12 - 14 july                        ?
+  [ParsingForEducationalLinguistics](../../archive/ParsingForEducationalLinguistics)    6                                         after: 12 - 14 july                        ?
+  [LocalizingChandler](../../people/LocalizingChandler)                                ?                                         after: 12 - 13 july                        ?
   [EuroPython2007/VisualStudio2005](EuroPython2007/VisualStudio2005)   2-3                                       after: 12 - 14 july                        ?
   [EuroPython2007/PyPySprint](EuroPython2007/PyPySprint)               ?                                         after: 12 - 14 july                        ?
   [EuroPython2007/BazaarSprint](EuroPython2007/BazaarSprint)           (4? 5?)                                   after: 12 - 14 july                        ?

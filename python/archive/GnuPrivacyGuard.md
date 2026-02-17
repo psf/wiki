@@ -65,7 +65,7 @@ Not mentioned in this history there are a number of other old libraries which we
 
 ## history of libraries that call the gpg program 
 
-The original Python/GnuPG interface was written by [amk](http://amk.ca/). This was updated in 2005 by [SteveTraugott](SteveTraugott) to GPG.py 2005 using pipes) building on Richard Jones\' 1.3 update and adding more support for the decryption, signing, key management, bells, whistles, and so on which amk\'s original design implied. This was still a pure-python implementation for Python 2.2.1 requiring only gpg executable itself. This was \*not\* a drop-in replacement.
+The original Python/GnuPG interface was written by [amk](http://amk.ca/). This was updated in 2005 by [SteveTraugott](../people/SteveTraugott) to GPG.py 2005 using pipes) building on Richard Jones\' 1.3 update and adding more support for the decryption, signing, key management, bells, whistles, and so on which amk\'s original design implied. This was still a pure-python implementation for Python 2.2.1 requiring only gpg executable itself. This was \*not\* a drop-in replacement.
 
 In parallel with the GnuPG interface a separate [GnuPGInterface](https://pypi.org/project/GnuPGInterface/) was released in 2002. This project has not been updated since 2006 and the project pages are now broken so it should no longer be used in new software. It concentrates on interacting with GnuPG via filehandles, providing access to control GnuPG via versatile and extensible means.
 

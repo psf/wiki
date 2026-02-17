@@ -42,7 +42,7 @@ ISO 639-1 Code: km
 
 - [pykhmer](http://khmerlc.org/pykhmer/) - blog with some - ample example code
 
-- [vuthdevlopment](http://vuthdevelopment.blogspot.com/2009/10/blog-post_3773.html) - more Qt GUI - similar to [PyQt4](PyQt4) content above
+- [vuthdevlopment](http://vuthdevelopment.blogspot.com/2009/10/blog-post_3773.html) - more Qt GUI - similar to [PyQt4](../gui/PyQt4) content above
 
 - [vuthweekend](http://vuthweekend.wordpress.com/category/%E1%9E%9B%E1%9F%92%E1%9E%94%E1%9F%82%E1%9E%84%E2%80%8B%E1%9E%80%E1%9F%86%E1%9E%96%E1%9F%92%E1%9E%99%E1%9E%BC%E1%9E%91%E1%9F%90%E1%9E%9A/page/7/) - pyQt and pygame
 

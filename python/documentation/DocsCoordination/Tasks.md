@@ -56,7 +56,7 @@ The `doctools/TODO`{.backtick} file lists some things that should be done. At th
 
 **In the Wiki**
 
-- There are also quite a few wiki pages concerning things missing from the documentation, see [MissingFromDocumentation](MissingFromDocumentation) and [CategoryDocumentation](CategoryDocumentation).
+- There are also quite a few wiki pages concerning things missing from the documentation, see [MissingFromDocumentation](../../archive/MissingFromDocumentation) and [CategoryDocumentation](CategoryDocumentation).
 
 **Python 3000**
 

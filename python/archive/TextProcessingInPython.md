@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-**Text Processing in Python** is a book by [DavidMertz](DavidMertz).
+**Text Processing in Python** is a book by [DavidMertz](../people/DavidMertz).
 
 The free text is available at:
 
@@ -20,7 +20,7 @@ A review by Danny Yee at: [http://dannyreviews.com/h/Text_Python.html](http://da
 
 # Notes 
 
-I\'m uploading some notes I kept from section 1.1, on his combinatorial [HigherOrderFunction](./HigherOrderFunction.html)s, in the thought that someone might gain some use or insight out of it. \-- [LionKimbro](LionKimbro)
+I\'m uploading some notes I kept from section 1.1, on his combinatorial [HigherOrderFunction](./HigherOrderFunction.html)s, in the thought that someone might gain some use or insight out of it. \-- [LionKimbro](../people/LionKimbro)
 
 ## Chapter 1, Section 1 
 

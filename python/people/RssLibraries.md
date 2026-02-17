@@ -45,7 +45,7 @@ Download it, and then start a Python prompt in the same directory.
 :::
 ::::
 
-You now have the RSS feed data for the [PythonInfo](PythonInfo) wiki!
+You now have the RSS feed data for the [PythonInfo](../archive/PythonInfo) wiki!
 
 Take a look at it; There\'s a lot of data there.
 
@@ -111,7 +111,7 @@ Now that you have your feeds, extract all the entries.
 :::
 ::::
 
-\...and sort them, by [SortingListsOfDictionaries](SortingListsOfDictionaries):
+\...and sort them, by [SortingListsOfDictionaries](../archive/SortingListsOfDictionaries):
 
 :::: 
 ::: 

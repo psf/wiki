@@ -18,7 +18,7 @@ Attendance figures for past [PyCons](./PyCons.html):
 
 - 2002: 225
 
-- 2003: \~250 (DC; the first \"[PyCon](PyCon)\")
+- 2003: \~250 (DC; the first \"[PyCon]()\")
 
 - 2004: 364 attendees
 

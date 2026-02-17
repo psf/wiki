@@ -16,9 +16,9 @@ We plan to have a meeting on Wednesday 7th of March 2007 at 1700 GMT+1XX in the 
 
 Currently these people have said they will come:
 
-- [NicolasPettiaux](NicolasPettiaux)
+- [NicolasPettiaux](../../../../../people/NicolasPettiaux)
 
-- [MichaelHudson](MichaelHudson)
+- [MichaelHudson](../../../../../people/MichaelHudson)
 
 - XXX
 
@@ -29,14 +29,14 @@ Let\'s try to keep it to 60 minutes.
 Suggested Agenda (please change ahead of the meeting if you like): (taken from 2006 first irc meeting agenda)
 
 - brief posting about everyone\'s interest (to get a picture of why everyone attends)
-  - [NicolasPettiaux](NicolasPettiaux) wants to see EP2007 moves forward and help it
+  - [NicolasPettiaux](../../../../../people/NicolasPettiaux) wants to see EP2007 moves forward and help it
 
-  - [MichaelHudson](MichaelHudson) is doing the program chair thing again
+  - [MichaelHudson](../../../../../people/MichaelHudson) is doing the program chair thing again
 
 - detailed status of preparations at Vilnius
 
 - track planning / chairs status
-  - [NicolasPettiaux](NicolasPettiaux) proposes to chair the Europython2007/EducationTrack
+  - [NicolasPettiaux](../../../../../people/NicolasPettiaux) proposes to chair the Europython2007/EducationTrack
 
 - PR-considerations, mostly thinking about keynote-givers
 

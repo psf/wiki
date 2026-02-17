@@ -220,7 +220,7 @@ Platforms
 Python versions
 :   2.4 - 3.3
 
-One pure Python script, runs on CPython / [IronPython](IronPython) / [PyPy](PyPy) , Version 3.3 / 3.2 / 3.1 / 2.4 / 2.5 / 2.6 / 2.7 , Win / Linux , 32 / 64 bit.
+One pure Python script, runs on CPython / [IronPython](../implementations/IronPython) / [PyPy](../implementations/PyPy) , Version 3.3 / 3.2 / 3.1 / 2.4 / 2.5 / 2.6 / 2.7 , Win / Linux , 32 / 64 bit.
 
 Almost totally same usage as pyodbc ( can be seen as a re-implementation of pyodbc in pure Python ).
 
@@ -263,14 +263,14 @@ These entries still need to be updated to the standard format (see above):
 
   - Barebones pure-Python PostgreSQL client
 
-- [sipPQ](sipPQ)
+- [sipPQ](../archive/sipPQ)
 
 ------------------------------------------------------------------------
 
 ## Supported Python Applications 
 
-- [Zope](Zope)
+- [Zope](../web/Zope)
 
 - [DbDoc](./DbDoc.html)
 
-- three PostgreSQL drivers (using pgdb, included with the PostgreSQL distro, pypgsql, and psycopg) exist for [PyDO](PyDO) (Python Data Objects)
+- three PostgreSQL drivers (using pgdb, included with the PostgreSQL distro, pypgsql, and psycopg) exist for [PyDO](../archive/PyDO) (Python Data Objects)

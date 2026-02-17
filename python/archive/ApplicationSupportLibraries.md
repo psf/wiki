@@ -12,30 +12,30 @@ Q: Shall we really try to duplicate the [Vaults of Parnassus](http://www.vex.net
 
 [lwickjr](lwickjr): Suggestion: provide links TO [the Vaults of Parnassus](http://www.vex.net/parnassus/) where appropriate.
 
-- [AppLogging](AppLogging)
+- [AppLogging](../people/AppLogging)
 
 - [AppInternationalization](./AppInternationalization.html) *(I18N)*
 
-- [AppLocalization](AppLocalization) *(L10N)*
+- [AppLocalization](../people/AppLocalization) *(L10N)*
 
-- [DatabaseInterfaces](DatabaseInterfaces)
+- [DatabaseInterfaces](../database/DatabaseInterfaces)
 
-- [EngineeringLibraries](EngineeringLibraries)
+- [EngineeringLibraries](../people/EngineeringLibraries)
 
 - [GraphicsAndImages](GraphicsAndImages)
 
-- [Audio](Audio)
+- [Audio](../multimedia/Audio)
 
-- [InternetSupport](InternetSupport)
+- [InternetSupport](../people/InternetSupport)
 
-- [LanguageParsing](LanguageParsing)
+- [LanguageParsing](../language/LanguageParsing)
 
-- [NetworkingSupport](NetworkingSupport)
+- [NetworkingSupport](../people/NetworkingSupport)
 
-- [NumericAndScientific](NumericAndScientific)
+- [NumericAndScientific](../science/NumericAndScientific)
 
-- [OptionParsing](OptionParsing)
+- [OptionParsing](../people/OptionParsing)
 
 - [PlatformExtensions](./PlatformExtensions.html)
 
-- [WebServices](WebServices)
+- [WebServices](../people/WebServices)

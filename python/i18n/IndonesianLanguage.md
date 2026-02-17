@@ -104,6 +104,6 @@ Where these pages really need help:
 
 - [Klinik Python](http://klinikpython.wordpress.com/) - Portal Belajar Pemrograman Python No.1 di Indonesia
 
-- [POSS UPI Python](http://www.poss-upi.org/category/python/) - Kumpulan tutorial python yang dirilis oleh Pemberdayaan Open Source Software Universitas Pendidikan Indonesia (POSS UPI). Membahas Network Programming, [PyQt4](PyQt4), dan dasar - dasar Python
+- [POSS UPI Python](http://www.poss-upi.org/category/python/) - Kumpulan tutorial python yang dirilis oleh Pemberdayaan Open Source Software Universitas Pendidikan Indonesia (POSS UPI). Membahas Network Programming, [PyQt4](../gui/PyQt4), dan dasar - dasar Python
 
 [CategoryLanguage](CategoryLanguage)

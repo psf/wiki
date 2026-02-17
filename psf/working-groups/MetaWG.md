@@ -16,7 +16,7 @@ Discuss creation/dissolution/management of PSF working groups. Maintain a list o
 
 ## Active PSF Working Groups 
 
-Essentially the same list as on the [Contents](Contents) page:
+Essentially the same list as on the [Contents](../about/Contents) page:
 
 - [Meta WG](MetaWG) - manage WGs
 
@@ -26,7 +26,7 @@ Essentially the same list as on the [Contents](Contents) page:
 
 - [PSF Meta WG Mailing List](http://mail.python.org/mailman/listinfo/psf-meta-wg)
 
-  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [VanLindberg](./VanLindberg.html) and [MarcAndreLemburg](MarcAndreLemburg) are the list admins.
+  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [VanLindberg](./VanLindberg.html) and [MarcAndreLemburg](../people/MarcAndreLemburg) are the list admins.
 
 ## Resources 
 

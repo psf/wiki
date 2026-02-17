@@ -6,8 +6,8 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[PyLint](PyLint)
+[PyLint](../people/PyLint)
 
-[PyChecker](PyChecker)
+[PyChecker](../people/PyChecker)
 
 [figleaf](http://darcs.idyll.org/~t/projects/figleaf/doc/)

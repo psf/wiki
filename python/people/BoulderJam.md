@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-List of topics jam discussed at August meeting of [FrontRangePythoneers](FrontRangePythoneers):
+List of topics jam discussed at August meeting of [FrontRangePythoneers](../community/FrontRangePythoneers):
 
 - Parsing Apache logs along with cookie and session info
 

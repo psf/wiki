@@ -14,17 +14,17 @@ For now, put proposals forth here if you want to try and kick them around a bit 
 
 # Enhancement Proposals 
 
-- [RangeGenerator](RangeGenerator)
+- [RangeGenerator](../people/RangeGenerator)
 
 - [SliceOverNegatives](SliceOverNegatives)
 
 - [IfStatementWithValue](IfStatementWithValue)
 
-- [ArrayInterface](ArrayInterface)
+- [ArrayInterface](../people/ArrayInterface)
 
-- [Python3kStringRepr](Python3kStringRepr)
+- [Python3kStringRepr](../py3/Python3kStringRepr)
 
-- [Python3UnicodeDecodeError](Python3UnicodeDecodeError)
+- [Python3UnicodeDecodeError](../py3/Python3UnicodeDecodeError)
 
 # About Using Wiki to Discuss Enhancement Proposals 
 

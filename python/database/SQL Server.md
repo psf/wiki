@@ -133,7 +133,7 @@ Python versions
 
 [Run SQLAlchemy on PyPy with pypyodbc driver](https://code.google.com/p/pypyodbc/wiki/Enable_SQLAlchemy_on_PyPy)
 
-PyPyODBC is a pure Python script, it runs on CPython / [IronPython](IronPython) / [PyPy](PyPy) , Version 2.4 / 2.5 / 2.6 / 2.7 , Win / Linux , 32 / 64 bit.
+PyPyODBC is a pure Python script, it runs on CPython / [IronPython](../implementations/IronPython) / [PyPy](../implementations/PyPy) , Version 2.4 / 2.5 / 2.6 / 2.7 , Win / Linux , 32 / 64 bit.
 
 Almost totally same usage as pyodbc ( can be seen as a re-implementation of pyodbc in pure Python ).
 

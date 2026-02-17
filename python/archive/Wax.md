@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Wax is a GUI toolkit. It sits on top of wxPython, removing some of the low-level aspects of that GUI, and adding some useful abstractions.
 
-The goal is that Wax should be easier to use than [WxPython](WxPython), to be more \"Pythonic\". It\'s far from feature complete but very nice for quick hacks.
+The goal is that Wax should be easier to use than [WxPython](../gui/WxPython), to be more \"Pythonic\". It\'s far from feature complete but very nice for quick hacks.
 
 Last version is from 2006
 

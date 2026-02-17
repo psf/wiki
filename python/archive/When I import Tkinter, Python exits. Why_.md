@@ -43,4 +43,4 @@ Any help would be appresiciated.
 
 ------------------------------------------------------------------------
 
-I\'d go ask on [the TkInter wiki.](http://tkinter.unpythonic.net/wiki/) \-- [LionKimbro](LionKimbro) 2004-09-02 20:03:43
+I\'d go ask on [the TkInter wiki.](http://tkinter.unpythonic.net/wiki/) \-- [LionKimbro](../people/LionKimbro) 2004-09-02 20:03:43

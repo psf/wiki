@@ -59,11 +59,11 @@ e.g.
         config.filename = filename
         config.write()
 
-[ConfigObj](ConfigObj) also has a feature I \*think\* is unique - in the shape of a tightly integrated type checking/conversion system. This is (allegedly) substantially simpler than the type system of ZConfig and \*doesn\'t\* involve storing type info in the config file.
+[ConfigObj](../people/ConfigObj) also has a feature I \*think\* is unique - in the shape of a tightly integrated type checking/conversion system. This is (allegedly) substantially simpler than the type system of ZConfig and \*doesn\'t\* involve storing type info in the config file.
 
 The type specification is kept in a separate schema (which has a simple key = checkname(parameters) syntax and also allows for default values. The validation process checks that the config file matches the schema and fills in any default values. It also converts all values that pass into the required type.
 
-This means a [ConfigObj](ConfigObj) is an abstraction of \*config data\* - not just the config file, at no cost to the \*user\*. The validation system is simple and extendable.
+This means a [ConfigObj](../people/ConfigObj) is an abstraction of \*config data\* - not just the config file, at no cost to the \*user\*. The validation system is simple and extendable.
 
 ## M. Chermside\'s candidate 
 
@@ -202,7 +202,7 @@ My reasons for not using Python itself for the syntax and parser are:
 2.  I wanted to be more forgiving of missing commas.
 3.  I wanted to allow easy cross-referencing, inclusion and evaluation, using a more compact notation, which precludes the use of standard Python.
 
-If someone could show me a way to meet the above desires whilst using Python syntax and parser, I\'ll gladly revisit the issue. \-- [VinaySajip](VinaySajip)
+If someone could show me a way to meet the above desires whilst using Python syntax and parser, I\'ll gladly revisit the issue. \-- [VinaySajip](../people/VinaySajip)
 
 ## cfgparse
 
@@ -343,21 +343,21 @@ I think it is reasonable to ask the setting code to create the object (possibly 
 
 A marriage of the two would make a lot of sense to me. My thought is for the user (script) to instantiate a parser and add options to it much like optparse does today. When the parser processes the command line args (or args passed to it) it should also look at the configuration file (possibly using the long setting name) for the option settings. Its first priority would be command line args.
 
-- I don\'t believe that a configuration module should need to interface directly to command line options. Rather, an application should inspect command line arguments, select one or more configuration files to load, and then examine the configuration data together with command line options to determine behaviour. My [config module documentation](http://www.red-dove.com/python_config.html#integrating-with-command-line-options) shows one way to easily interface with optparse. \-- [VinaySajip](VinaySajip) An easy way, maybe, but it doesn\'t seem very useful to me. What\'s the advantage of fetching a command-line option from cfg.cmdline_values.verbose instead of options.verbose? Also, we need to specify every option twice, once for optparse and once in the configuration file itself. For docutils, this would mean every config file would have 40(!) lines which are, essentially, implementation details.
+- I don\'t believe that a configuration module should need to interface directly to command line options. Rather, an application should inspect command line arguments, select one or more configuration files to load, and then examine the configuration data together with command line options to determine behaviour. My [config module documentation](http://www.red-dove.com/python_config.html#integrating-with-command-line-options) shows one way to easily interface with optparse. \-- [VinaySajip](../people/VinaySajip) An easy way, maybe, but it doesn\'t seem very useful to me. What\'s the advantage of fetching a command-line option from cfg.cmdline_values.verbose instead of options.verbose? Also, we need to specify every option twice, once for optparse and once in the configuration file itself. For docutils, this would mean every config file would have 40(!) lines which are, essentially, implementation details.
 
-  - It was only an example, and I accept it may not be the best example to showcase the functionality. Consider this, though: you can use a [ConfigList](./ConfigList.html) to cascade configurations. If one of these is a set of options picked up from the command line, and another is from configuration files, then you can easily in your application just get e.g. \'cfglist.verbosity\' which is picked from a command line option (if defined) or from the configuration file (otherwise). There\'s no need to define things twice, other than to define what happens when command line options are not provided. I\'ll work with you, if you like, to see how docutils configuration can be achieved using the module. See the example for verbosity below - you\'ll see that you don\'t necessarily need to specify things twice, and can access values from either command line or configuration transparently. \-- [VinaySajip](VinaySajip)
+  - It was only an example, and I accept it may not be the best example to showcase the functionality. Consider this, though: you can use a [ConfigList](./ConfigList.html) to cascade configurations. If one of these is a set of options picked up from the command line, and another is from configuration files, then you can easily in your application just get e.g. \'cfglist.verbosity\' which is picked from a command line option (if defined) or from the configuration file (otherwise). There\'s no need to define things twice, other than to define what happens when command line options are not provided. I\'ll work with you, if you like, to see how docutils configuration can be achieved using the module. See the example for verbosity below - you\'ll see that you don\'t necessarily need to specify things twice, and can access values from either command line or configuration transparently. \-- [VinaySajip](../people/VinaySajip)
 
   These are probably fixable, but I think they exist because you\'re not solving the interesting part of optparse integration: every application still has to merge the command-line options with the options from the configuration file manually. I just grepped through my \'src\' directory and found shtoom, docutils, roundup, logilab-common and spambayes all have modules which allow them to specify options only once. IPython, offlineimap, and trac are still merging without the aid of such a module.
 
-  - The work required to merge can be as simple as setting up a [ConfigList](./ConfigList.html) with a command-line-based configuration object first in the list, followed by one or more configurations read from files. Thereafter, the application resolves configuration data by asking the [ConfigList](./ConfigList.html). If a configuration item has been referenced in the command line, that value is returned; otherwise, a value defined in a configuration file is returned. You could even have e.g. project, user and application level configuration files, though there is no need for such complexity in most cases, and the API remains IMO fairly lean. \-- [VinaySajip](VinaySajip)
+  - The work required to merge can be as simple as setting up a [ConfigList](./ConfigList.html) with a command-line-based configuration object first in the list, followed by one or more configurations read from files. Thereafter, the application resolves configuration data by asking the [ConfigList](./ConfigList.html). If a configuration item has been referenced in the command line, that value is returned; otherwise, a value defined in a configuration file is returned. You could even have e.g. project, user and application level configuration files, though there is no need for such complexity in most cases, and the API remains IMO fairly lean. \-- [VinaySajip](../people/VinaySajip)
 
   Given that this is a problem which is being solved again and again, maybe the Python library should be providing mechanism \*and\* policy here. I don\'t think it would be too hard to draw up a reasonable default.
 
-  \-- [JohannesGijsbers](JohannesGijsbers)
+  \-- [JohannesGijsbers](../people/JohannesGijsbers)
 
   I whole heartedly agree with Johannes\' comments. In my scripts I have no interest in knowing whether the setting came from the command line or from a configuration file. It just adds complexity to the script and the explanation how to use it to even allow the use of such knowledge. I don\'t know if I understood the [ConfigList](./ConfigList.html) approach completely but it seems to me it adds an unnecessary layer and complexity. If we were to go down the road of a marriage I believe it would be one of three possibilities 1) add functionality to optparse 2) subclass optparse or 3) make a new module independent of optparse that duplicates alot of its functionality. I think we would need the input from the optparse implementors to help with the decision as the first option would require a great deal of work for them and the second option would require a commitment by them to an interface between us. The third wouldn\'t require any work but they may want to be involved. \-- [dan.gass@gmail.com](mailto:dan.gass@gmail.com)
 
-  I feel that the option \"4) provide a mechanism for using optparse as is\", as I have proposed, warrants further study because it lacks the drawbacks you have identified with the other 3 options. I\'ll try to address your concerns about how to make configuration-with-command-line-override work easily using the config module. As a first cut, I\'ll aim for a simple example of a \"verbose\" flag which can be placed in a configuration and overridden via a command-line option. If you think that\'s too simple as a proof of how it can work, please indicate a use case you\'d like to see. Otherwise, below is the \'verbose\' example: \-- [VinaySajip](VinaySajip)
+  I feel that the option \"4) provide a mechanism for using optparse as is\", as I have proposed, warrants further study because it lacks the drawbacks you have identified with the other 3 options. I\'ll try to address your concerns about how to make configuration-with-command-line-override work easily using the config module. As a first cut, I\'ll aim for a simple example of a \"verbose\" flag which can be placed in a configuration and overridden via a command-line option. If you think that\'s too simple as a proof of how it can work, please indicate a use case you\'d like to see. Otherwise, below is the \'verbose\' example: \-- [VinaySajip](../people/VinaySajip)
 
 Assume that the config file is simply
 
@@ -425,19 +425,19 @@ and the code which sets the parser options to (indent appropriately):
 
 Remember, this is just one way of doing it - not the only way and perhaps not the best way for your needs, but a simple enough way.
 
-\-- [VinaySajip](VinaySajip)
+\-- [VinaySajip](../people/VinaySajip)
 
 A hierarchical "key" or "namespace" scheme should exist so that multiple settings may be stored in the user configuration file. I would propose a standard -k, --key option always present in the parser so the user can pass a list of keys to control the group of settings to use (I'd also like some of the other ways to control keys that I use in my config.py module). In addition I'd propose a -c, --config option that specifies a configuration file to use instead of the user's default configuration file.
 
-- I ([VinaySajip](VinaySajip)) agree that a hierarchical namespace is essential. I\'m not sure I agree with removing \"-k\" and \"-c\" from the command line namespace for all applications by reserving these for use by particular library modules.
+- I ([VinaySajip](../people/VinaySajip)) agree that a hierarchical namespace is essential. I\'m not sure I agree with removing \"-k\" and \"-c\" from the command line namespace for all applications by reserving these for use by particular library modules.
 
   Along the lines of Johannes\' comment regarding \"providing a mechanism \*and\* policy\" (which I agree with), I think having a consistent command line option such as -k and -c is important. I don\'t really care what specifically they are, even if we required the use of long form \--keys and \--config (change the names if you like). So long as policy is set I\'m happy. \-- [dan.gass@gmail.com](mailto:dan.gass@gmail.com)
 
-  I\'m not sure about the policy part, because people have different needs and I\'m not sure it\'s good to be too prescriptive here. \-- [VinaySajip](VinaySajip)
+  I\'m not sure about the policy part, because people have different needs and I\'m not sure it\'s good to be too prescriptive here. \-- [VinaySajip](../people/VinaySajip)
 
 My last proposal for today is to change the "options" interface a bit from optparse. Instead of returning a static object of options it should be an object with a get() method so that additional keys can be used to get at settings in the configuration "on the fly". One application where this is important is in test frameworks. "Test specification" input files may have additional "keys" to be used and aren't known when the parser is instantiated.
 
-- Please take a look at [this config module](http://www.red-dove.com/python_config.html) and let me know how you think it fails to meet the particular use case you have in mind. I don\'t see any need to change optparse to work well with a configuration module \-- [VinaySajip](VinaySajip)
+- Please take a look at [this config module](http://www.red-dove.com/python_config.html) and let me know how you think it fails to meet the particular use case you have in mind. I don\'t see any need to change optparse to work well with a configuration module \-- [VinaySajip](../people/VinaySajip)
 
   I looked and here is where it falls short from my perspecitve. To get a setting using your module you would use \"cfg.setting\". Instead a method should be offered so that keys may be passed \"cfg.setting.get(\'key1\')\". Sometimes a script needs more than one instance of the setting. Other times the script processes an input file (after the configuration has already been read) which specifies the key. I\'m sure there are other cases as well. \-- [dan.gass@gmail.com](mailto:dan.gass@gmail.com) I don\'t think this is a real showstopper. To get a setting using my module you can use cfg.setting, cfg\[\'setting\'\] or even cfg.getByPath(\'setting\'). The last of these is useful when you have a hierarchical path which you compute, as in:
 
@@ -448,23 +448,23 @@ My last proposal for today is to change the "options" interface a bit from optpa
 
 - I\'m assuming the config file could have a database connection setting for each platform, in the above example. If this is not what you meant by \'more than one instance of the setting\', please clarify.
 
-  \-- [VinaySajip](VinaySajip)
+  \-- [VinaySajip](../people/VinaySajip)
 
 One benefit of this marriage is that the help messages available from the command line would also apply to what can be set in the configuration file. Also there is a lot of flexibility for the user with this scheme. For options they always use they can hard code them in their default configuration as settings. If they want to temporarily override them they can use command line options. For groups of settings that are always used together, they can be used by simply passing in a key with the -k option to select the group.
 
-- There are other ways in which help messages for configuration can be implemented. For example, with full hierarchical name support for configuration items, you could locate help for a configuration item in the configuration item itself - e.g. help on \"a.config.item\" might be found at \"help.a.config.item\". This approach can be used to store other meta-information, not just help text. \-- [VinaySajip](VinaySajip)
+- There are other ways in which help messages for configuration can be implemented. For example, with full hierarchical name support for configuration items, you could locate help for a configuration item in the configuration item itself - e.g. help on \"a.config.item\" might be found at \"help.a.config.item\". This approach can be used to store other meta-information, not just help text. \-- [VinaySajip](../people/VinaySajip)
 
   It\'s my preference to have the application control the help like optparse does. IMO its better to have that information close to where the parser is being set up and not have to have or go to another file for that information. \-- [dan.gass@gmail.com](mailto:dan.gass@gmail.com)
 
-  Well, you\'re not being \*forced\* to use any particular idiom. Want to hardcode the information in the program? No problem. Want to have it in the file? That\'s fine, too. Want to use gettext for internationalization? That\'s also quite easy. \-- [VinaySajip](VinaySajip)
+  Well, you\'re not being \*forced\* to use any particular idiom. Want to hardcode the information in the program? No problem. Want to have it in the file? That\'s fine, too. Want to use gettext for internationalization? That\'s also quite easy. \-- [VinaySajip](../people/VinaySajip)
 
 The part that isn't addressed here that bothers me yet is how to weave in the ability to pass in real python objects as settings. It would be good to have both a secure (restricted to strings and simple settings) and a second less than secure parser for those applications that need the flexibility of python. I'd like to see the API's of the same for both the parser and the configuration file. \-- [dan.gass@gmail.com](mailto:dan.gass@gmail.com)
 
-- I ([VinaySajip](VinaySajip)) believe that I have covered this in [this config module](http://www.red-dove.com/python_config.html) - if you feel something fundamental is missing, please let me know.
+- I ([VinaySajip](../people/VinaySajip)) believe that I have covered this in [this config module](http://www.red-dove.com/python_config.html) - if you feel something fundamental is missing, please let me know.
 
   When I use python to set up objects to pass in as settings I often use multiple lines of code to do it. Sometimes I need to import modules so that I can instantiate a class. Other times I\'m using the os module to figure out where the configuration file is located because I need the path information to figure out the absolute paths of other things that are located relative to it. Don\'t change yours on my account I\'m holding tight with mine until a new and improved standard is available (so long as it works for me). Who is concerned about the security hole of executing Python and what restrictions do they want? \-- [dan.gass@gmail.com](mailto:dan.gass@gmail.com)
 
-  Well, I do have this concern - not so much for a security hole in the sense of bad guys in black hats, but the possibility of end users editing configuration files with executable code isn\'t in my view a recipe for robust software which behaves predictably. I don\'t fancy those support headaches , thanks. \-- [VinaySajip](VinaySajip)
+  Well, I do have this concern - not so much for a security hole in the sense of bad guys in black hats, but the possibility of end users editing configuration files with executable code isn\'t in my view a recipe for robust software which behaves predictably. I don\'t fancy those support headaches , thanks. \-- [VinaySajip](../people/VinaySajip)
 
 ## Extension to configuration editing 
 
@@ -482,9 +482,9 @@ So where are we? The wiki hasn\'t seen much activity since January of 2005. Are 
 
 His reason for this is that he wants to discourage developers from mixing configuration options with application data more suited to a data persistence format. For this he recommends an XML type solution.
 
-I personally think that complex configuration use cases are reasonably common, and that nested sections is a reasonable requirement. Editing/reading XML is not fun, whether it\'s for configuration \*or\* data persistence. For this reason [ConfigObj](ConfigObj) is listed as an [XML Alternative](http://www.pault.com/xmlalternatives.html).
+I personally think that complex configuration use cases are reasonably common, and that nested sections is a reasonable requirement. Editing/reading XML is not fun, whether it\'s for configuration \*or\* data persistence. For this reason [ConfigObj](../people/ConfigObj) is listed as an [XML Alternative](http://www.pault.com/xmlalternatives.html).
 
-- I agree that nested configurations may be overkill for non-technical users, but they definitely have a useful place. I don\'t like to use XML everywhere, one notable exception being where interoperability is a factor. Even if a new non-backward-compatible module doesn\'t make it into the standard library, the community would still benefit from a peer review of the available offerings on this page. \-- [VinaySajip](VinaySajip)
+- I agree that nested configurations may be overkill for non-technical users, but they definitely have a useful place. I don\'t like to use XML everywhere, one notable exception being where interoperability is a factor. Even if a new non-backward-compatible module doesn\'t make it into the standard library, the community would still benefit from a peer review of the available offerings on this page. \-- [VinaySajip](../people/VinaySajip)
 
 That aside, it seems like he wouldn\'t be averse to improvements on [ConfigParser](ConfigParser) in the following ways :
 
@@ -493,7 +493,7 @@ That aside, it seems like he wouldn\'t be averse to improvements on [ConfigParse
 - Better way of supplying default values.
 - Tracking values from more than one file, and storing which file changes apply to.
 
-\-- [MichaelFoord](MichaelFoord)
+\-- [MichaelFoord](../people/MichaelFoord)
 
 I think we have to distinguish between configurations primarily intended for editing by *users* and configurations primarily intended for *programmatic* editing. For example, XML makes a lot of sense as an interchangeable language for systems configurations (e.g., SuSE Linux AutoYaST). But XML is a horrid format for manual editing. The delimiter cruft makes it hard to comprehend for all but the simplest cases.
 

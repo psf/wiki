@@ -10,6 +10,6 @@ You can email me at [daniel@stutzbachenterprises.com](mailto:daniel@stutzbachent
 
 I created and maintain the external [blist package](http://pypi.python.org/pypi/blist), that provides a list-like type with better asymptotic performance for many operations.
 
-I also started the page on [TimeComplexity](TimeComplexity).
+I also started the page on [TimeComplexity](../language/TimeComplexity).
 
 [CategoryHomepage](CategoryHomepage)

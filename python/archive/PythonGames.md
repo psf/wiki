@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Python Games 
 
-See also: [GameProgramming](GameProgramming)
+See also: [GameProgramming](../multimedia/GameProgramming)
 
 ## Resources 
 
-- [pygame.org](http://pygame.org/) - home of the [PyGame](PyGame) module and a portal with links to lots of Python games
+- [pygame.org](http://pygame.org/) - home of the [PyGame](../multimedia/PyGame) module and a portal with links to lots of Python games
 
 - [PyWeek](http://www.pyweek.org/) is a bi-annual programming challenge that produces several great games
 
@@ -20,9 +20,9 @@ See also: [GameProgramming](GameProgramming)
 
 - [Harfang 3D](https://www.harfang3d.com/) - is a python framework for 2D, 3D and VR game development (other allowed languages are Lua and C++). It is little known, with poor documentation, but promising. Run on any supported platform. Example game demo [video](https://www.youtube.com/watch?v=sPNPPfVWqY8&t=1s) and [code](https://github.com/harfang3d/game-dogfight).
 
-- [PyGame](http://pygame.org/) - [PyGame](PyGame) adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language. Pygame is highly portable and runs on nearly every platform and operating system.
+- [PyGame](http://pygame.org/) - [PyGame](../multimedia/PyGame) adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language. Pygame is highly portable and runs on nearly every platform and operating system.
 
-- [PySoy](http://www.pysoy.org/) - [PySoy](PySoy) is a high-level 3d game engine for Python 3 which tightly binds rendering, physics, animation, and networking.
+- [PySoy](http://www.pysoy.org/) - [PySoy](../people/PySoy) is a high-level 3d game engine for Python 3 which tightly binds rendering, physics, animation, and networking.
 
 - [Pyglet](http://www.pyglet.org/) - pyglet is an opengl only cross-platform windowing and multimedia library for Python found in the mods/bfheores/python folder.
 
@@ -64,7 +64,7 @@ See also: [GameProgramming](GameProgramming)
 
 - [BalazarBrothers](http://home.gna.org/oomadness/en/balazar_brothers/index.html) is an action-puzzle 3D game with Python and Soya 3D
 
-- [EVE Online](http://www.eve-online.com/) is a massively multiplayer online space game written in [StacklessPython](StacklessPython)
+- [EVE Online](http://www.eve-online.com/) is a massively multiplayer online space game written in [StacklessPython](../people/StacklessPython)
 
 - [Freedom Force](http://www.freedomfans.com/) is a 2002 real-time tactical role-playing game developed by Irrational Games, that uses Python for its mission system
 

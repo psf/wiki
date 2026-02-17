@@ -18,9 +18,9 @@ The sprint approach works best when the first few hours are spent getting orient
 
 ### Why sprint at PyCon? 
 
-The sprints are intended to benefit the Python core, and to encourage more developers to take part in Python\'s development. They will also be a good place to see [ExtremeProgramming](ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced Python developers. What would you like to see done, or at least attempted?
+The sprints are intended to benefit the Python core, and to encourage more developers to take part in Python\'s development. They will also be a good place to see [ExtremeProgramming](../../../people/ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced Python developers. What would you like to see done, or at least attempted?
 
-[PyCon](PyCon) will always have a core Python sprint. Other topics will come and go each year.
+[PyCon](../PyCon) will always have a core Python sprint. Other topics will come and go each year.
 
 If you wish to participate in a sprint, please contact the sprint organizers in advance! Sprint topics are listed below.
 
@@ -28,29 +28,29 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
 Brief summaries of and links to approved sprints should go here.
 
-- [CoreSprint](CoreSprint) \-- Coaches: Raymond Hettinger, Brett Cannon, and Guido van Rossum \-- work on various projects in the core Python project consisting of new features, documentation, and bug fixing. Will last all four days.
+- [CoreSprint](../../../people/CoreSprint) \-- Coaches: Raymond Hettinger, Brett Cannon, and Guido van Rossum \-- work on various projects in the core Python project consisting of new features, documentation, and bug fixing. Will last all four days.
 
-- [DocutilsSprint](DocutilsSprint) \-- Coach: David Goodger \-- Extend the Docutils project (including reStructuredText), aiming for inclusion in Python 2.4\'s standard library. Everyone welcome! No prior Docutils hacking experience is required. Participants should either be experienced Python programmers, or interested in documentation.
+- [DocutilsSprint](../../../people/DocutilsSprint) \-- Coach: David Goodger \-- Extend the Docutils project (including reStructuredText), aiming for inclusion in Python 2.4\'s standard library. Everyone welcome! No prior Docutils hacking experience is required. Participants should either be experienced Python programmers, or interested in documentation.
 
-- [TwistedSprint](TwistedSprint) \-- There will be no [TwistedSprint](TwistedSprint) per se, but multiple mini-sprints related to Twisted. See [TwistedSprint](TwistedSprint) for more info.
+- [TwistedSprint](../../../web/TwistedSprint) \-- There will be no [TwistedSprint](../../../web/TwistedSprint) per se, but multiple mini-sprints related to Twisted. See [TwistedSprint](../../../web/TwistedSprint) for more info.
 
-- [Zope3Sprint](Zope3Sprint) \-- Coach: Jim Fulton. There will be a Zope 3 sprint. The tasks performed will depend on the interests of the participants and the things that need to be done.
+- [Zope3Sprint](../../../web/Zope3Sprint) \-- Coach: Jim Fulton. There will be a Zope 3 sprint. The tasks performed will depend on the interests of the participants and the things that need to be done.
 
-- [Zope2Sprint](Zope2Sprint) \-- Coach: Chris [McDonough](./McDonough.html) \-- Not certain what to sprint on here, but a topic should come up soon. Recommended topics so far have been: bugathon, improved ZODB \"blob\" support, and documentation.
+- [Zope2Sprint](../../../web/Zope2Sprint) \-- Coach: Chris [McDonough](./McDonough.html) \-- Not certain what to sprint on here, but a topic should come up soon. Recommended topics so far have been: bugathon, improved ZODB \"blob\" support, and documentation.
 
-- [PloneSprint](PloneSprint) \-- Coach: Alan Runyan. A group of people familiar with Zope 2 and the Plone product with focus on performance and writing documentation on how to optimize Plone or Zope 2.
+- [PloneSprint](../../../web/PloneSprint) \-- Coach: Alan Runyan. A group of people familiar with Zope 2 and the Plone product with focus on performance and writing documentation on how to optimize Plone or Zope 2.
 
-- [ChandlerSprint](ChandlerSprint) \-- Coaches: Ted Leung and Jeffrey Harris. Various topics around the Chandler repository.
+- [ChandlerSprint](../../../people/ChandlerSprint) \-- Coaches: Ted Leung and Jeffrey Harris. Various topics around the Chandler repository.
 
-- [GuidovanRobot](GuidovanRobot) \-- Coaches: Paul Carduner and Steve Howell.
+- [GuidovanRobot](../../../people/GuidovanRobot) \-- Coaches: Paul Carduner and Steve Howell.
 
 ### Proposed Sprint Topics 
 
 Here are several topics that have been proposed but not yet accepted. If you think this would be a good sprint topic, add a comment in the wiki or send a comment to [Jeremy Hylton](mailto:jeremy@alum.mit.edu). In some cases, the topic has been assigned but the coach hasn\'t. Feel free to volunteer to coach one of these sprints.
 
-- [Mailman3Sprint](Mailman3Sprint) \-- Coach: Barry Warsaw \-- Take experimental Mailman 3 code to a more viable state, concentrating especially on the major interfaces of the system. (Still tentative)
+- [Mailman3Sprint](../../../archive/Mailman3Sprint) \-- Coach: Barry Warsaw \-- Take experimental Mailman 3 code to a more viable state, concentrating especially on the major interfaces of the system. (Still tentative)
 
-- [EmailSigSprint](EmailSigSprint) \-- Coach: Anthony Baxter or Barry Warsaw \-- Work on version 3.0 of the email library, in conjuction with discussions on the email-sig. (Still tentative)
+- [EmailSigSprint](../../../archive/EmailSigSprint) \-- Coach: Anthony Baxter or Barry Warsaw \-- Work on version 3.0 of the email library, in conjuction with discussions on the email-sig. (Still tentative)
 
 - PyXMLSprint \-- There are a number of topics which would be worth working on, e.g. XMLSchema. \-- Martin v. Lwis
 
@@ -73,7 +73,7 @@ Other ideas:
 
   - Write a crude command-line installer.
 
-  - Update the [MacPython](MacPython) packager manager to use the database.
+  - Update the [MacPython](../../../platforms/MacPython) packager manager to use the database.
 
   - Make any PyPI changes that are required (to a test installation, not the live one on python.org).
 
@@ -81,7 +81,7 @@ Other ideas:
 
 ### Willing Participants Without a Particular Sprint Yet 
 
-- [BobIppolito](BobIppolito) - Currently interested in [MacPython](MacPython), PyObjC, Stackless, [PyPy](PyPy), Distutils
+- [BobIppolito](../../../people/BobIppolito) - Currently interested in [MacPython](../../../platforms/MacPython), PyObjC, Stackless, [PyPy](../../../implementations/PyPy), Distutils
 
 - Nick Bastin - Core (Profiler) - UPDATE: Done, SF Patch 920509
 
@@ -91,17 +91,17 @@ Other ideas:
 
 - Neal Norwitz - Core, AST (Sat and/or Sun, not sure about Mon and Tue)
 
-- [MichaelChermside](MichaelChermside) - Interested in a Jython sprint if anyone else will join me. Otherwise, I\'m available.
+- [MichaelChermside](../../../people/MichaelChermside) - Interested in a Jython sprint if anyone else will join me. Otherwise, I\'m available.
 
 - Fred Drake - Docutils, [DistutilsDependencies](./DistutilsDependencies.html), distutils
 
-- [DougFort](DougFort) - Chandler, any. If I find a job, I may not make Monday and Tuesday.
+- [DougFort](../../../people/DougFort) - Chandler, any. If I find a job, I may not make Monday and Tuesday.
 
 - Andrew Kuchling \-- Core, Distutils
 
 - Jacob Hallén \-- Docutils, Twisted, Mailman \-- Will happily code Python to somebody\'s specification
 
-- [PaulWinkler](PaulWinkler) \-- Zope 2, Zope 3, Plone.
+- [PaulWinkler](../../../people/PaulWinkler) \-- Zope 2, Zope 3, Plone.
 
 - Brian Dorsey
 

@@ -18,4 +18,4 @@ It\'s good to mention [CORBA](./CORBA.html). Someone needs to compare [Pyro](Pyr
 
 ------------------------------------------------------------------------
 
-See [CorbaPython](CorbaPython)
+See [CorbaPython](../networking/CorbaPython)

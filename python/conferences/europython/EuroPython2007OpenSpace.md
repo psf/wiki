@@ -30,7 +30,7 @@ These are sessions which attendees are planning on doing.
 
 - **MoinMoin Wiki Users/Developers Meeting**
 
-  [MoinMoin Wiki](http://moinmo.in/) users / developers could meet to talk about misc. topics: core and plugin development, tuning, current and future versions, news from Summer of Code 2007. \-- [ThomasWaldmann](ThomasWaldmann)
+  [MoinMoin Wiki](http://moinmo.in/) users / developers could meet to talk about misc. topics: core and plugin development, tuning, current and future versions, news from Summer of Code 2007. \-- [ThomasWaldmann](../../people/ThomasWaldmann)
 
 ## Staying in Contact 
 

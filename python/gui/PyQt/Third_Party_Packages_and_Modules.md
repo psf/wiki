@@ -71,7 +71,7 @@ Link: [http://paul.giannaros.org/pykhtml/](http://paul.giannaros.org/pykhtml/)
 
 ## PyPoppler 
 
-[PyQt4](PyQt4)-based bindings to the Poppler PDF library.\
+[PyQt4](../PyQt4)-based bindings to the Poppler PDF library.\
 Author: Rajeev J. Sebastian\
 Link: [http://svn.pardus.org.tr/uludag/trunk/playground/pypoppler-qt4/](http://svn.pardus.org.tr/uludag/trunk/playground/pypoppler-qt4/)
 
@@ -95,25 +95,25 @@ Link: [http://pyqwt.sourceforge.net/](http://pyqwt.sourceforge.net/)
 
 ## Pywidget KDM Patch 
 
-This patch makes it possible to embed widgets developed with [PyQt](PyQt) in a KDM theme.\
+This patch makes it possible to embed widgets developed with [PyQt]() in a KDM theme.\
 Author: Dental On Line\
 Link: [http://opensource.dental-on-line.com/?page_id=18](http://opensource.dental-on-line.com/?page_id=18)
 
 ## PyQt3Support 
 
-Independently maintained Qt3Support wrappers for [PyQt4](PyQt4).\
+Independently maintained Qt3Support wrappers for [PyQt4](../PyQt4).\
 Author: Matteo Bertini \<[pyqt3support@develer.com](mailto:pyqt3support@develer.com)\>\
 Link: [http://www.develer.com/oss/PyQt3Support](http://www.develer.com/oss/PyQt3Support)
 
 ## Q3 
 
-(dead/unmaintained) Another independently maintained Qt3Support wrappers for [PyQt4](PyQt4).\
+(dead/unmaintained) Another independently maintained Qt3Support wrappers for [PyQt4](../PyQt4).\
 Author: James Lamanna\
 Link: [http://kscraft.svn.sourceforge.net/viewvc/kscraft/Q3/trunk/](http://kscraft.svn.sourceforge.net/viewvc/kscraft/Q3/trunk/)
 
 ## qcmwidgets
 
-QcmWidgets are a collection of controls (widgets) for the Qt Ui Framework. The widgets are implemented in Python using [PyQt](PyQt).\
+QcmWidgets are a collection of controls (widgets) for the Qt Ui Framework. The widgets are implemented in Python using [PyQt]().\
 Author: chris.pm\
 Link: [http://code.google.com/p/qcmwidgets/](http://code.google.com/p/qcmwidgets/)
 

@@ -22,8 +22,8 @@ Everyone attending the sprint that has never sprinted before, add your name unde
 ::: 
 #### Developers
 
-- [Alex Clark](AlexClark) (helper)
-- [Fred Drake](FredDrake) (helper)
+- [Alex Clark](../people/AlexClark) (helper)
+- [Fred Drake](../people/FredDrake) (helper)
 - Eric Groo
 - Owen Martin
 - Barry Austin
@@ -56,7 +56,7 @@ The interpreter and standard library.
 #### Developers
 
 - [Eric Smith](./EricSmith.html)
-- [Fred Drake](FredDrake)
+- [Fred Drake](../people/FredDrake)
 :::
 
 ::: 
@@ -80,9 +80,9 @@ For this, it\'s important to use \"clean\" Pythons; you don\'t want to have any 
 ::: 
 #### Developers
 
-- [Fred Drake](FredDrake)
-- [Alex Clark](AlexClark)
-- [Arc Riley](ArcRiley)
+- [Fred Drake](../people/FredDrake)
+- [Alex Clark](../people/AlexClark)
+- [Arc Riley](../people/ArcRiley)
 :::
 
 ::: 
@@ -110,9 +110,9 @@ Look at fixing some long-standing and reasonably trivial documentation issues. S
 ::: 
 #### Developers
 
-- [Steve Holden](SteveHolden) but not on my own! ;-)
-- [Steve Waterbury](StephenWaterbury) but this is not a Steves-only project! ;-)
-- [Alex Clark](AlexClark) Maybe I\'ll watch! :-)
+- [Steve Holden](../people/SteveHolden) but not on my own! ;-)
+- [Steve Waterbury](../people/StephenWaterbury) but this is not a Steves-only project! ;-)
+- [Alex Clark](../people/AlexClark) Maybe I\'ll watch! :-)
 - Eric Palakovich Carr
 - Adam Reilly
 :::
@@ -136,7 +136,7 @@ Python-based, open-source CMS
 ::: 
 #### Developers
 
-- [Alex Clark](AlexClark)
+- [Alex Clark](../people/AlexClark)
 :::
 
 ::: 
@@ -156,7 +156,7 @@ Utility app for importing static website content into Plone
 ::: 
 #### Developers
 
-- [Alex Clark](AlexClark)
+- [Alex Clark](../people/AlexClark)
 :::
 
 ::: 
@@ -174,7 +174,7 @@ A tool for creating repeatable environments
 ::: 
 #### Developers
 
-- [Alex Clark](AlexClark)
+- [Alex Clark](../people/AlexClark)
 :::
 
 ::: 

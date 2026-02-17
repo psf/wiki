@@ -45,7 +45,7 @@ Mark and Sumana to discuss what\'s left over once we\'ve received April invoices
 
 ## Bloomberg sprint Oct 27-28 
 
-[NY/London - weekend sprint](PackagingSprints)
+[NY/London - weekend sprint](../../packaging/PackagingSprints)
 
 ## Issues to work on at PyCon sprint 
 
@@ -55,7 +55,7 @@ Mark and Sumana to discuss what\'s left over once we\'ve received April invoices
 
 Anaconda people will be at sprints
 
-Sumana added to [sprint page](PackagingSprints)
+Sumana added to [sprint page](../../packaging/PackagingSprints)
 
 ## Leftover TODOs? 
 

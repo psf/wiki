@@ -16,4 +16,4 @@ This BOF brings together folks interested in Python in Education. Particular are
 
 - Bringing [PythonCard](./PythonCard.html) into the classroom.
 
-- Expanding the view of college CS0 to increase the programming component using Python ( [AndyHarrington](AndyHarrington) )
+- Expanding the view of college CS0 to increase the programming component using Python ( [AndyHarrington](../people/AndyHarrington) )

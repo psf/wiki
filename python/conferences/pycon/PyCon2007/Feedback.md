@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-These are the results from the feedback forms (both online and paper) for [PyCon](PyCon) 2007. There were 156 respondents in all, but not every person answered every question.
+These are the results from the feedback forms (both online and paper) for [PyCon](../PyCon) 2007. There were 156 respondents in all, but not every person answered every question.
 
 Numbers in parentheses are the counts of how many times an item was mentioned.
 

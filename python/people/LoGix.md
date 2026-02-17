@@ -18,4 +18,4 @@ A front-end to Python that has powerful macro capabilities.
 
 ------------------------------------------------------------------------
 
-See also: [BooLanguage](BooLanguage), [IronPython](IronPython)
+See also: [BooLanguage](../implementations/BooLanguage), [IronPython](../implementations/IronPython)

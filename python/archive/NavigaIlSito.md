@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 NavigaIlSito è il punto di ingresso all\'esplorazione di questo wiki. [MoinMoin](MoinMoin) supporta i seguenti sistemi di ricerca (vedi anche [IndexingScheme](http://www.usemod.com/cgi-bin/mb.pl?IndexingScheme "MeatBall")):
 
-- [ModificheRecenti](ModificheRecenti)
+- [ModificheRecenti](../people/ModificheRecenti)
 
 - [IndiceDeiTitoli](./IndiceDeiTitoli.html)
 
 - [IndicePerParola](./IndicePerParola.html)
 
-- [CercaPagina](CercaPagina)
+- [CercaPagina](../people/CercaPagina)
 
 - [PagineAssenti](./PagineAssenti.html)
 

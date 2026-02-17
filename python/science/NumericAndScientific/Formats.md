@@ -12,17 +12,17 @@ Interfaces to Standard Formats
 
 - [Unidata NetCDF](http://www.unidata.ucar.edu/packages/netcdf/) Interfaces The netCDF datafile format stores large, uniform, data arrays efficiently and avoids byte-order problems when moving binary data between different machines. It is well-documented and looks like a good compromise between simplicity and generality.
 
-  - \+ [NetCDF interface in ScientificPython](http://dirac.cnrs-orleans.fr/ScientificPython/) - NetCDF interface that makes array variables look like [NumPy](NumPy) arrays. ([KonradHinsen](KonradHinsen))
+  - \+ [NetCDF interface in ScientificPython](http://dirac.cnrs-orleans.fr/ScientificPython/) - NetCDF interface that makes array variables look like [NumPy](../NumPy) arrays. ([KonradHinsen](../../people/KonradHinsen))
 
     \+ [NetCDF interface](http://snow.cit.cornell.edu/noon/ncmodule.html) - Interface to NetCDF portable data files (William Noon)
 
     \+ [interface](http://www.geog.ubc.ca/~kschalmNetCDF) - A Numeric-Python aware NetCDF portable data file interface (Kyle Schalm)
 
-    \+ [PyNIO](http://www.pyngl.ucar.edu/Nio.shtml) - A Numeric-based Python package that allows read and/or write access to a variety of data formats (NetCDF, HDF 4, GRIB) using an interface modelled on [KonradHinsen](KonradHinsen)\'s [NetCDF interface](http://dirac.cnrs-orleans.fr/ScientificPython/).
+    \+ [PyNIO](http://www.pyngl.ucar.edu/Nio.shtml) - A Numeric-based Python package that allows read and/or write access to a variety of data formats (NetCDF, HDF 4, GRIB) using an interface modelled on [KonradHinsen](../../people/KonradHinsen)\'s [NetCDF interface](http://dirac.cnrs-orleans.fr/ScientificPython/).
 
   <!-- -->
 
-  - \+ [PyPnetCDF](http://www.pyacts.org/pypnetcdf) - A Numeric-based Python package that allows read and/or write access to NetCDF file in a parallel environment using MPI and an interface to the [PnetCDF](http://www-unix.mcs.anl.gov/parallel-netcdf/) library. The object PNetCDFVariable and PNetCDFFile are very similar to [KonradHinsen](KonradHinsen)\'s definitions but PyPnetCDF implements a parallel access in a transparent and simple way to the programmer.
+  - \+ [PyPnetCDF](http://www.pyacts.org/pypnetcdf) - A Numeric-based Python package that allows read and/or write access to NetCDF file in a parallel environment using MPI and an interface to the [PnetCDF](http://www-unix.mcs.anl.gov/parallel-netcdf/) library. The object PNetCDFVariable and PNetCDFFile are very similar to [KonradHinsen](../../people/KonradHinsen)\'s definitions but PyPnetCDF implements a parallel access in a transparent and simple way to the programmer.
 
     \+ [netcdf4-python](http://code.google.com/p/netcdf4-python/) - python/numpy interface to netCDF version 4 library. netCDF version 4 has many features not found in earlier versions of the library, such as hierarchical groups, zlib compression, multiple unlimited dimensions, and new data types. It is implemented on top of HDF5. This module implements many of the new features, and can read and write netCDF files compatibile with older versions of the library. The API is modelled after Scientific.IO.NetCDF, and should be familiar to users of that module (Jeff Whitaker).
 
@@ -45,7 +45,7 @@ Python-specific Tools
 
   - \"When I first started using Python, I wanted to read lots of numbers into
 
-    [NumPy](NumPy) arrays. This can be done with the standard Python file reading methods, but I found that to be prohibitively slow for largish data sets. So I wrote TableIO (\_tableio.c and TableIO.py), which lets me start with a file containing a rectangular array of ASCII data (a \`table\') and read it into Python so I can manipulate it. For example, if I have a file containing an table in a file with 10 columns and 50 rows, I can use
+    [NumPy](../NumPy) arrays. This can be done with the standard Python file reading methods, but I found that to be prohibitively slow for largish data sets. So I wrote TableIO (\_tableio.c and TableIO.py), which lets me start with a file containing a rectangular array of ASCII data (a \`table\') and read it into Python so I can manipulate it. For example, if I have a file containing an table in a file with 10 columns and 50 rows, I can use
 
           >>> d = TableIO.readTableAsArray(file)
 
@@ -57,7 +57,7 @@ Python-specific Tools
 
     to read the first column in to the 1D array x and the eigth and ninth into yand dy.\"
 
-- [Scientific.IO.FortranFormat](http://dirac.cnrs-orleans.fr/ScientificPython/) by [KonradHinsen](KonradHinsen).
+- [Scientific.IO.FortranFormat](http://dirac.cnrs-orleans.fr/ScientificPython/) by [KonradHinsen](../../people/KonradHinsen).
 
   - \"This module provides two classes that aid in reading and writing Fortran-formatted text files. Only a subset of formatting options is supported: A, D, E, F, G, I, and X formats, plus string constants for output. Repetition (e.g. 4I5 or 3(1X,A4)) is supported. Complex numbers are not supported; you have to treat real and imaginary parts separately.\"
 

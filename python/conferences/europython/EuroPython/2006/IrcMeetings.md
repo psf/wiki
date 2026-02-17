@@ -10,7 +10,7 @@ We plan to have a meeting on Monday the 9th of January at 1700 GMT+1 in the #eur
 
 Currently these people have said they will come:
 
-- [MichaelHudson](MichaelHudson)
+- [MichaelHudson](../../../../people/MichaelHudson)
 
 - [AisteKesminaite](./AisteKesminaite.html)
 
@@ -38,6 +38,6 @@ Suggested Agenda (please change ahead of the meeting if you like):
 
 - PR-considerations (Paul/Holger), mostly thinking about keynote-givers
 
-- Timeline [EuroPython](EuroPython) 2006 (can someone prepare a proposal from past experiences?)
+- Timeline [EuroPython](..) 2006 (can someone prepare a proposal from past experiences?)
 
 - schedule Next Meeting (early Feb?)

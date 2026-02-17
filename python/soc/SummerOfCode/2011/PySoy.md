@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PySoy Ideas for GSoC 2011 
 
-The best way to get started is to join \#[PySoy](PySoy) on irc.freenode.net. [ArcRiley](ArcRiley) is also available via email to answer questions directly.
+The best way to get started is to join \#[PySoy](PySoy) on irc.freenode.net. [ArcRiley](../../../people/ArcRiley) is also available via email to answer questions directly.
 
 These ideas are starting points only, one of the team members can help you get the current code installed and walk you through how a specific component works so you can draft a more complete proposal (or think of a completely different one).
 

@@ -26,7 +26,7 @@ Devices which could be considered as \"embedded\" by modern standards and which 
 
 - [Telit GSM/GPRS modules](http://www.telit.com/en/products/python/why-python.php) (also available as [AarLogic family](http://www.roundsolutions.com/aarlogic/index.htm) GPRS/GPS QUAD Band Modules)
 
-See also [PythonForArmLinux](PythonForArmLinux) and [OpenEmbedded](OpenEmbedded).
+See also [PythonForArmLinux](../archive/PythonForArmLinux) and [OpenEmbedded](OpenEmbedded).
 
 ## Work to improve CPython for embedded applications 
 
@@ -36,7 +36,7 @@ Various efforts have been made to make CPython more usable for embedded applicat
 
 - Cross-compilation issues: [1006238](http://bugs.python.org/issue1006238 "Issue"), [5404](http://bugs.python.org/issue5404 "Issue"), [3871](http://bugs.python.org/issue3871 "Issue")
 
-- General interpreter startup costs: [SpeedUpInterpreterStartup](SpeedUpInterpreterStartup)
+- General interpreter startup costs: [SpeedUpInterpreterStartup](../performance/SpeedUpInterpreterStartup)
 
 - File access overhead on startup: [Improving interpreter startup speed](http://mail.python.org/pipermail/python-list/2008-October/467718.html), [Tons of stats/opens to non-existing files increases Python\'s startup on loaded NFS servers](http://mail.python.org/pipermail/python-list/2005-May/339691.html), [Startup time](http://mail.python.org/pipermail/python-dev/2003-May/035359.html)
 
@@ -54,7 +54,7 @@ Examples of such implementations include the following:
 
 - [Tiny Python](Tiny Python)
 
-- [Zerynth](Zerynth) formerly Viper
+- [Zerynth](../archive/Zerynth) formerly Viper
 
 On the other hand, one can start with a full build, and simply remove unneeded modules, *e.g.*, Tkinter, etc., to realize a reduced-size Python with little effort.
 

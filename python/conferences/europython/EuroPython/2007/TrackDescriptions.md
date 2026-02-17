@@ -26,7 +26,7 @@ The track chair is XX (in 2006 : Nicolas Chauvat)
 
 # Python Language and Libraries 
 
-A theme centred on \"Python the Language\" with all batteries included. Suitable for consideration within this theme are talks about the language, language evolution, patterns and idioms, implementations (CPython, [IronPython](IronPython), Jython, [PyPy](PyPy), CLPython, [ShedSkin](./ShedSkin.html), and especially any new ones presented for the first time) along with implementation issues and attempts to port Python implementations to new or novel devices. Talks about the standard library or interesting third-party libraries (and frameworks) are also welcome, unless the talks would fit better into one of the other themes.
+A theme centred on \"Python the Language\" with all batteries included. Suitable for consideration within this theme are talks about the language, language evolution, patterns and idioms, implementations (CPython, [IronPython](../../../../implementations/IronPython), Jython, [PyPy](../../../../implementations/PyPy), CLPython, [ShedSkin](./ShedSkin.html), and especially any new ones presented for the first time) along with implementation issues and attempts to port Python implementations to new or novel devices. Talks about the standard library or interesting third-party libraries (and frameworks) are also welcome, unless the talks would fit better into one of the other themes.
 
 The track chair is XX (in 2006 : Samuele Pedroni)
 
@@ -53,7 +53,7 @@ The track chairs are XX (in 2006 : Paul Everitt and Godefroid Chapelle)
 
 # Business and Applications 
 
-This is where [EuroPython](EuroPython) thinks outside our Python community - about the applications we have written for ordinary people and businesses, and about how we\'ve sold them to the outside world.
+This is where [EuroPython](..) thinks outside our Python community - about the applications we have written for ordinary people and businesses, and about how we\'ve sold them to the outside world.
 
 - What Python apps have you written? Tell your fellow Pythonistas about them. Exchange knowledge and maybe gain new business partners.
 - How do you sell your apps and services into the business community?
@@ -70,7 +70,7 @@ The track chairs are XX ( in 2006: John Pinner and Harald Armin Massa)
 
 # Education and Teaching 
 
-*The following is a modified version of the description from 2006.* \-- [DavidBoddie](DavidBoddie)
+*The following is a modified version of the description from 2006.* \-- [DavidBoddie](../../../../people/DavidBoddie)
 
 Are you trying to teach Python to somebody, or are you using Python to try to teach something else? Whether you have something to say about the use of Python as a teaching language in its own right, or simply use it to augment an existing curriculum, attendees are interested in hearing about your experiences.
 
@@ -78,7 +78,7 @@ In previous years, talks on this theme have covered a wide range of subjects and
 
 All people who are using Python in a teaching environment are welcome.
 
-The track chair is XX ([NicolasPettiaux](NicolasPettiaux) volunteers for 2007; in 2006 : Laura Creighton)
+The track chair is XX ([NicolasPettiaux](../../../../people/NicolasPettiaux) volunteers for 2007; in 2006 : Laura Creighton)
 
 # Games and Entertainment 
 
@@ -106,9 +106,9 @@ The track chair is XX ( in 2006 : ? )
 
 # Social Skills 
 
-*The following is a suggestion for a missing theme description.* \-- [DavidBoddie](DavidBoddie)
+*The following is a suggestion for a missing theme description.* \-- [DavidBoddie](../../../../people/DavidBoddie)
 
-Python plays an important role in the lives of most of the contributors and attendees at [EuroPython](EuroPython). Although many newcomers to the language choose it purely on its merits, there are also a number of social factors that influence their decisions to use Python.
+Python plays an important role in the lives of most of the contributors and attendees at [EuroPython](..). Although many newcomers to the language choose it purely on its merits, there are also a number of social factors that influence their decisions to use Python.
 
 Similarly, Python has found its way into a variety of situations and uses where it is used, directly or indirectly, to improve communication and social interaction between people.
 

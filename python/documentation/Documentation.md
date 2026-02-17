@@ -28,17 +28,17 @@ To read official Python documentation:
 
 Start here if you\'re new to Python or are considering trying Python after using other languages.
 
-- [Python for Beginners](BeginnersGuide)
+- [Python for Beginners](../getting-started/BeginnersGuide)
 
-- [Python for Intermediates](IntermediatesGuide)
+- [Python for Intermediates](../people/IntermediatesGuide)
 
-- [LanguageComparisons](LanguageComparisons)
+- [LanguageComparisons](../people/LanguageComparisons)
 
-- [MovingToPythonFromOtherLanguages](MovingToPythonFromOtherLanguages)
+- [MovingToPythonFromOtherLanguages](../getting-started/MovingToPythonFromOtherLanguages)
 
-- [PythonGlossary](PythonGlossary)
+- [PythonGlossary](../archive/PythonGlossary)
 
-- [BeginnerErrorsWithPythonProgramming](BeginnerErrorsWithPythonProgramming)
+- [BeginnerErrorsWithPythonProgramming](../archive/BeginnerErrorsWithPythonProgramming)
 
 - [Python Libraries - Tutorial Compilation](https://coderslegacy.com/python/libraries-in-python/)
 
@@ -50,43 +50,43 @@ Start here if you\'re new to Python or are considering trying Python after using
 
 If you are developing a particular kind of program or library, you might wish to study some related material.
 
-- [CommandlineTools](CommandlineTools)
+- [CommandlineTools](../people/CommandlineTools)
 
-- [Concurrency](Concurrency)
+- [Concurrency](../language/Concurrency)
 
-- [DatabaseProgramming](DatabaseProgramming)
+- [DatabaseProgramming](../database/DatabaseProgramming)
 
-- [DistributedProgramming](DistributedProgramming)
+- [DistributedProgramming](../packaging/DistributedProgramming)
 
-- [GameProgramming](GameProgramming)
+- [GameProgramming](../multimedia/GameProgramming)
 
-- [GuiProgramming](GuiProgramming)
+- [GuiProgramming](../gui/GuiProgramming)
 
 - [One-Liners](../guides/Powerful Python One-Liners)
 
-- [ParallelProcessing](ParallelProcessing)
+- [ParallelProcessing](../people/ParallelProcessing)
 
-- [WebProgramming](WebProgramming)
+- [WebProgramming](../web/WebProgramming)
 
-- [WorkingWithTime](WorkingWithTime)
+- [WorkingWithTime](../archive/WorkingWithTime)
 
-- [Unicode](Unicode)
+- [Unicode](../archive/Unicode)
 
 ## Advanced Topics 
 
-- [Python 3 porting guide](PortingToPy3k) including a [quick reference](../py3/PortingToPy3k/BilingualQuickRef)
+- [Python 3 porting guide](../py3/PortingToPy3k) including a [quick reference](../py3/PortingToPy3k/BilingualQuickRef)
 
-- [IntegratingPythonWithOtherLanguages](IntegratingPythonWithOtherLanguages)
+- [IntegratingPythonWithOtherLanguages](../archive/IntegratingPythonWithOtherLanguages)
 
-- [Windows compilers for Python](WindowsCompilers)
+- [Windows compilers for Python](../platforms/WindowsCompilers)
 
-- [PatternProgramming](PatternProgramming)
+- [PatternProgramming](../people/PatternProgramming)
 
-- [FromFunctionToMethod](FromFunctionToMethod)
+- [FromFunctionToMethod](../archive/FromFunctionToMethod)
 
-- [ComputedAttributesUsingPropertyObjects](ComputedAttributesUsingPropertyObjects)
+- [ComputedAttributesUsingPropertyObjects](../language/ComputedAttributesUsingPropertyObjects)
 
-- [AlternativeDescriptionOfProperty](AlternativeDescriptionOfProperty)
+- [AlternativeDescriptionOfProperty](../language/AlternativeDescriptionOfProperty)
 
 - [Introduction into Text Categorization and Classification using Python](http://www.python-course.eu/text_classification_introduction.php)
 
@@ -94,19 +94,19 @@ If you are developing a particular kind of program or library, you might wish to
 
 ## Philosophy and Wisdom 
 
-- [PythonDevWisdom](PythonDevWisdom)
+- [PythonDevWisdom](../archive/PythonDevWisdom)
 
-- [PythonPhilosophy](PythonPhilosophy)
+- [PythonPhilosophy](../archive/PythonPhilosophy)
 
-- [PythonSpeed](PythonSpeed)
+- [PythonSpeed](../performance/PythonSpeed)
 
 ## Other Resources 
 
-- [PythonBooks](PythonBooks)
+- [PythonBooks](../books/PythonBooks)
 
-- [PythonPapers](PythonPapers) - see also [PythonPeriodicals](PythonPeriodicals) (for \"The Python Papers\")
+- [PythonPapers](../archive/PythonPapers) - see also [PythonPeriodicals](../books/PythonPeriodicals) (for \"The Python Papers\")
 
-- [PythonPeriodicals](PythonPeriodicals)
+- [PythonPeriodicals](../books/PythonPeriodicals)
 
 ## Working on the Official Documentation 
 

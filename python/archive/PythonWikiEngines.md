@@ -44,7 +44,7 @@ The following projects are not available anymore:
 
 - [Hatta](http://hatta-wiki.org) \-- a Wiki which runs out of a Mercurial repository whose pages are just the files in that repository.
 
-- [mojibake](http://frotz.net/sakana/space/mojibake) \-- based on [Sakana](http://frotz.net/sakana/space/home), runs with [ModPython](ModPython)
+- [mojibake](http://frotz.net/sakana/space/mojibake) \-- based on [Sakana](http://frotz.net/sakana/space/home), runs with [ModPython](../people/ModPython)
 
 - [MonkeyWiki](http://c2.com/cgi/wiki?MonkeyWiki "Wiki") \-- another [PikiPiki](http://c2.com/cgi/wiki?PikiPiki "Wiki") fork that claims to be simple to install/use, single file, very flexible templating, rewrite-friendly.
 

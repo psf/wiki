@@ -75,7 +75,7 @@ When the page bore a roadmap was for v2.6, this material was in it. Some of it i
 
 - [bz2 module](http://www.python.org/doc/lib/module-bz2.html)
 
-- [ReplaceJythonc](ReplaceJythonc)
+- [ReplaceJythonc](../internals/ReplaceJythonc)
 
 - [MigrateBugtests](MigrateBugtests)
 

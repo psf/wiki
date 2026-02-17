@@ -48,7 +48,7 @@ From the [conference Web site](http://www.europython.org/) for 2006 (before it g
   24th June            Paper submission deadline
   26th June            Online registration closes
   30th June-2nd July   Pre-conference sprints
-  3rd July-5th July    [EuroPython](EuroPython) conference
+  3rd July-5th July    [EuroPython](../EuroPython) conference
   4th July             Conference dinner
   6th July             CERN visit
   6th July-9th July    Post-conference sprints
@@ -64,7 +64,7 @@ This is a big contrast to the original [IRC meeting](http://mail.python.org/pipe
   31st March          Deadline for proposal submissions
   30th April          Prelininary Program with accepted talks
   19th May            Closing Early Bird registration
-  3rd July-5th July   [EuroPython](EuroPython) conference
+  3rd July-5th July   [EuroPython](../EuroPython) conference
   ------------------- ------------------------------------------------------
 :::
 
@@ -76,7 +76,7 @@ It\'s always fun to compare things! Comparing the above with [PyCon 2007](http:/
 
 ::: {}
   ---------------------------------------------------------------------------------------------------- ------------------------------------------ ----------------------------------------
-                                                                                                       **[EuroPython](EuroPython) 2006**   **[PyCon](PyCon) 2007**
+                                                                                                       **[EuroPython](../EuroPython) 2006**   **[PyCon](../../pycon/PyCon) 2007**
   Registration period prior to conference (duration)                                                   47 days (40 days)                          70 days (63 days)
   Talk submission start, deadline and acceptance prior to conference (duration of submission period)   91 days, 33 days, 29 days (58 days)        161 days, 115 days, 100 days (46 days)
   ---------------------------------------------------------------------------------------------------- ------------------------------------------ ----------------------------------------

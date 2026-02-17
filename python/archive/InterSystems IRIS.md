@@ -63,7 +63,7 @@ Python versions
 
 Actively maintained Open Source project.
 
-Precompiled binaries are available for Windows. [RedHat](RedHat) Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
+Precompiled binaries are available for Windows. [RedHat](../people/RedHat) Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
 
 **Documentation**
 

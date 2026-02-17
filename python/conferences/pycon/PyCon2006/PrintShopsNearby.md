@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-- This is not an exhaustive list. If these shops don\'t suit you, post a note on the [PyCon](PyCon) mailing list and I will get others added. I looked for 5 Print Shops that were close to the Marriot Quorum, where [PyCon](PyCon) 2006 is being held.
+- This is not an exhaustive list. If these shops don\'t suit you, post a note on the [PyCon](../PyCon) mailing list and I will get others added. I looked for 5 Print Shops that were close to the Marriot Quorum, where [PyCon](../PyCon) 2006 is being held.
 
 # Overall notes 
 

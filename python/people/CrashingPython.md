@@ -144,7 +144,7 @@ I\`ve got another way:
 
 I have written a Tkinter GUI editor \[called \"GWiz\"\] to help me create and maintain Tk GUIs for my own projects. \[The editor itself is a GWiz project, too.\] On several occasions, I have forgotten to close the GWiz-created GUI before exiting I.D.L.E., and Python \[always?\] crashes on exit with an \"application requested an abnormal termination\" error requester. When I remember to close my app before closing I.D.L.E., everything goes away cleanly. I should add code to GWiz to do sys.atexit() clean-up, but I do not know how to UNregister atexit callbacks; it would be easy enough to fix, but it would require that the atexit module\`s call-back registration return the item added to the call-back list, and the addition of another function to remove items from the call-back list. I can post modifications to the library module, if someone will tell me where to post them.
 
-\-- [lwickjr](lwickjr), 2006-Apr-21
+\-- [lwickjr](../archive/lwickjr), 2006-Apr-21
 
 `python2.5 -c 'lambda((x)): x'`
 

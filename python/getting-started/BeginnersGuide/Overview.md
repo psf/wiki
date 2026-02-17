@@ -22,7 +22,7 @@ Some of Python\'s notable features:
 
 - Can also be embedded into an application to provide a programmable interface.
 
-- Runs anywhere, including [Mac OS X](https://www.python.org/downloads/mac-osx/), [Windows](https://www.python.org/downloads/windows/), [Linux](https://docs.python.org/3/using/unix.html), and [Unix](https://docs.python.org/3/using/unix.html), with unofficial builds also available for [Android](Android) and iOS.
+- Runs anywhere, including [Mac OS X](https://www.python.org/downloads/mac-osx/), [Windows](https://www.python.org/downloads/windows/), [Linux](https://docs.python.org/3/using/unix.html), and [Unix](https://docs.python.org/3/using/unix.html), with unofficial builds also available for [Android](../../platforms/Android) and iOS.
 
 - Is free software in two senses. It doesn\'t cost anything to download or use Python, or to include it in your application. Python can also be freely modified and re-distributed because while the language is copyrighted it\'s available under [an open-source license](http://www.python.org/psf/license/).
 
@@ -36,10 +36,10 @@ Some programming-language features of Python are:
 - Python contains advanced programming features such as generators and list comprehensions.
 - Python\'s automatic memory management frees you from having to manually allocate and free memory in your code.
 
-See the [SimplePrograms](SimplePrograms) collection of short programs, gradually increasing in length, which shows off Python\'s syntax and readability.
+See the [SimplePrograms](../SimplePrograms) collection of short programs, gradually increasing in length, which shows off Python\'s syntax and readability.
 
 Writing Pythonic code is not hard\-\--but you have to get used to the (PEP) code style rules. You can test, check, and improve your code style at online resources such as [Pythonium](https://pythonium.net/linter).
 
 Translations:
 
-- 中文介绍 [ChineseOverview](TODO)
+- 中文介绍 [ChineseOverview](../../archive/TODO)

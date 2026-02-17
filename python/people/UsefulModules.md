@@ -8,25 +8,25 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Useful Modules, Packages and Libraries 
 
-The intent of this page is to list some of the most commonly used Python modules, in the hope that it will provide useful recommendations for other programmers (especially beginners). Remember that in addition to the listings below, there are other directories of Python modules - see [PublishingPythonModules](PublishingPythonModules) for details. Another collection of library details can be found on the [Libraries](Libraries) page.
+The intent of this page is to list some of the most commonly used Python modules, in the hope that it will provide useful recommendations for other programmers (especially beginners). Remember that in addition to the listings below, there are other directories of Python modules - see [PublishingPythonModules](../archive/PublishingPythonModules) for details. Another collection of library details can be found on the [Libraries](../archive/Libraries) page.
 
 Be warned that this list is subjective by its very nature - it is only intended as a helpful guide. It is not definitive in any way, nor should it discourage developers from developing their own modules.
 
 ## Standard Library Backports 
 
-- [StandardLibraryBackports](StandardLibraryBackports) - modules that make later standard library functionality available in earlier version
+- [StandardLibraryBackports](../archive/StandardLibraryBackports) - modules that make later standard library functionality available in earlier version
 
 ## Cryptography 
 
-- [Python and Cryptography](Cryptography)
+- [Python and Cryptography](../security/Cryptography)
 
 ## Database 
 
 - [SQLAlchemy](http://www.sqlalchemy.org/) or [SQLObject](http://sqlobject.org/) - Object oriented access to several different database systems
 
-- [DatabaseInterfaces](DatabaseInterfaces) - Direct Python interfaces to relational and non-relational database backends
+- [DatabaseInterfaces](../database/DatabaseInterfaces) - Direct Python interfaces to relational and non-relational database backends
 
-- See also [DatabaseProgramming](DatabaseProgramming) for guidance on choosing a database backend system
+- See also [DatabaseProgramming](../database/DatabaseProgramming) for guidance on choosing a database backend system
 
 ## Foreign Function Interface 
 
@@ -38,7 +38,7 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 - [PyGame](http://www.pygame.org/) - Principal wrapper of the SDL library.
 
-- See also [GameProgramming](GameProgramming). A more comprehensive list of packages can be found on the [PythonGameLibraries](PythonGameLibraries) page.
+- See also [GameProgramming](../multimedia/GameProgramming). A more comprehensive list of packages can be found on the [PythonGameLibraries](../multimedia/PythonGameLibraries) page.
 
 ## GIS (Geographic Information System) 
 
@@ -48,17 +48,17 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 - [PyGtk](PyGtk) - Bindings for the cross-platform Gtk toolkit.
 
-- [PyQt](PyQt) - Bindings for the cross-platform Qt framework.
+- [PyQt](../gui/PyQt) - Bindings for the cross-platform Qt framework.
 
 - [TkInter](TkInter) - The traditional Python user interface toolkit.
 
-- [WxPython](WxPython) - wxWidgets bindings for Python supporting [PythonCard](./PythonCard.html), [Wax](Wax) and other frameworks.
+- [WxPython](../gui/WxPython) - wxWidgets bindings for Python supporting [PythonCard](./PythonCard.html), [Wax](../archive/Wax) and other frameworks.
 
 - [PyjamasDesktop](PyjamasDesktop) - Bindings and a framework for the cross-platform [webkit](http://webkit.org).
 
-- [PySimpleGUI](PySimpleGUI) - Wrapper for [TkInter](TkInter), Qt, wxpython and Remi (Web) that makes GUI development easy and compact
+- [PySimpleGUI](../archive/PySimpleGUI) - Wrapper for [TkInter](TkInter), Qt, wxpython and Remi (Web) that makes GUI development easy and compact
 
-- GUI Programming is, in many cases, a matter of taste. See a more extensive list on the [GuiProgramming](GuiProgramming) page.
+- GUI Programming is, in many cases, a matter of taste. See a more extensive list on the [GuiProgramming](../gui/GuiProgramming) page.
 
 ### Console 
 
@@ -66,7 +66,7 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 ## Audio / Music 
 
-- [Audio in Python](Audio)
+- [Audio in Python](../multimedia/Audio)
 
 ## ID3 Handling 
 
@@ -146,9 +146,9 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 - [ReportLab](http://www.reportlab.org/) includes a charting package
 
-- [Veusz](http://home.gna.org/veusz/) - Postscript output with a [PyQt](PyQt) front end
+- [Veusz](http://home.gna.org/veusz/) - Postscript output with a [PyQt](../gui/PyQt) front end
 
-- [pyqtgraph](http://www.pyqtgraph.org/) - Pure-python plotting and graphics library based on [PyQt](PyQt) and numpy.
+- [pyqtgraph](http://www.pyqtgraph.org/) - Pure-python plotting and graphics library based on [PyQt](../gui/PyQt) and numpy.
 
 The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98ffdb309ccce4e4504a25ea75b5c806e4897b6) page has a longer list.
 
@@ -212,7 +212,7 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - [Flask](http://flask.pocoo.org/) - microframework for Python based on Werkzeug, Jinja 2. (It\'s BSD licensed)
 
-- See a more complete list of topics on the [WebProgramming](WebProgramming) page and frameworks on the [WebFrameworks](WebFrameworks) page.
+- See a more complete list of topics on the [WebProgramming](../web/WebProgramming) page and frameworks on the [WebFrameworks](../web/WebFrameworks) page.
 
 ### HTML Forms 
 
@@ -222,7 +222,7 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - [lxml.html](http://lxml.de/) has support for dealing with forms in HTML documents
 
-- See also the [WebProgramming](WebProgramming) and [WebFrameworks](WebFrameworks) pages.
+- See also the [WebProgramming](../web/WebProgramming) and [WebFrameworks](../web/WebFrameworks) pages.
 
 ### HTML Parser 
 
@@ -234,7 +234,7 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - [lxml.html](http://lxml.de/) is a very fast, easy-to-use and versatile library for handling (and fixing up) HTML
 
-- See also [PythonXml](PythonXml) for related tools.
+- See also [PythonXml](../archive/PythonXml) for related tools.
 
 ## Workflow 
 
@@ -250,11 +250,11 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - [Amara](http://wiki.xml3k.org/Amara2) - Amara provides tools you can trust to conform with XML standards without losing the familiar Python feel. (see also the [1.x version](http://wiki.xml3k.org/Amara))
 
-- [PythonXml](PythonXml) provides a list of available XML processing solutions.
+- [PythonXml](../archive/PythonXml) provides a list of available XML processing solutions.
 
 ## Flow Based Programming 
 
-- [Python and Flow Based Programming (pipelines)](FlowBasedProgramming)
+- [Python and Flow Based Programming (pipelines)](../archive/FlowBasedProgramming)
 
 ## Editorial Notes 
 
@@ -263,7 +263,7 @@ Please avoid listing modules where\...
 - You are one of the developers (and you just want to promote your work somewhere).
 - The modules in question do not have widespread approval or usage.
 
-If you do want to make people aware of a module, package or library (perhaps your own), consider submitting it to one or more of the directories mentioned in [PublishingPythonModules](PublishingPythonModules), perhaps also adding it to the topic-specific part of this site (eg. [WebProgramming](WebProgramming), [GuiProgramming](GuiProgramming)).
+If you do want to make people aware of a module, package or library (perhaps your own), consider submitting it to one or more of the directories mentioned in [PublishingPythonModules](../archive/PublishingPythonModules), perhaps also adding it to the topic-specific part of this site (eg. [WebProgramming](../web/WebProgramming), [GuiProgramming](../gui/GuiProgramming)).
 
 Do list modules that:
 

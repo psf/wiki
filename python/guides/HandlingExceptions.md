@@ -102,7 +102,7 @@ Look to class documentation to find out what exceptions a given class can raise.
 
 # See Also: 
 
-On this wiki: [WritingExceptionClasses](WritingExceptionClasses), [TracebackModule](./TracebackModule.html).
+On this wiki: [WritingExceptionClasses](../archive/WritingExceptionClasses), [TracebackModule](./TracebackModule.html).
 
 For general (non-Python specific) ideas about exceptions, consult [ExceptionPatterns](http://c2.com/cgi/wiki?ExceptionPatterns "Wiki").
 
@@ -146,9 +146,9 @@ However, it originally was:
 
 Someone pointed out that \"except\" catches more than just `except Exception as e`
 
-*Why is that the case? What is the difference?*\-- [LionKimbro](LionKimbro)
+*Why is that the case? What is the difference?*\-- [LionKimbro](../people/LionKimbro)
 
-For now (version \<= 2.4) exception doesn\'t have to be inherited from Exception. Thus plain \'except:\' catches all exceptions, not only system. String exceptions are one example of an exception that doesn\'t inherit from Exception. \-- [MikeRovner](MikeRovner)
+For now (version \<= 2.4) exception doesn\'t have to be inherited from Exception. Thus plain \'except:\' catches all exceptions, not only system. String exceptions are one example of an exception that doesn\'t inherit from Exception. \-- [MikeRovner](../people/MikeRovner)
 
 I believe that as of 2.7, exceptions still don\'t have to be inherited from Exception or even [BaseException](./BaseException.html). However, as of Python 3, exceptions *must* subclass `BaseException`. \-- [ElephantJim](./ElephantJim.html)
 
@@ -315,4 +315,4 @@ In effect, exceptions allow the Python programmer to concentrate on his actual p
 
 ------------------------------------------------------------------------
 
-See also: Italian translation at [ManutenereLeEccezioni](ManutenereLeEccezioni).
+See also: Italian translation at [ManutenereLeEccezioni](../archive/ManutenereLeEccezioni).

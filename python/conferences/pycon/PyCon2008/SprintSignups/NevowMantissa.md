@@ -14,7 +14,7 @@ Please add your name below, include your email address.
 
 If you\'re not sure which project to join, you can register in the [generic sprint sign-up page](http://wiki.python.org/moin/PyCon2008/SprintSignups).
 
-See you at [PyCon](PyCon)!
+See you at [PyCon](../../PyCon)!
 
 # Nevow/Mantissa 
 
@@ -26,7 +26,7 @@ In particular, we are preparing for a \"Mantissa Community Release\" with in-pro
 
 **Project URL**: [http://divmod.org](http://divmod.org)
 
-**Sprint Leaders**: [DuncanMcGreggor](DuncanMcGreggor), Glyph Lefkowitz, Jean-Paul Calderone
+**Sprint Leaders**: [DuncanMcGreggor](../../../../archive/DuncanMcGreggor), Glyph Lefkowitz, Jean-Paul Calderone
 
 **Source code and documentation**:
 
@@ -54,6 +54,6 @@ In particular, we are preparing for a \"Mantissa Community Release\" with in-pro
 
 - JP Calderone
 
-- [DuncanMcGreggor](DuncanMcGreggor) (oubiwann at divmod dot org)
+- [DuncanMcGreggor](../../../../archive/DuncanMcGreggor) (oubiwann at divmod dot org)
 
 - L. Daniel Burr

@@ -12,13 +12,13 @@ Patterns along the lines of [GangOfFour](http://c2.com/cgi/wiki?GangOfFour "Wiki
 
 - [DependencyInjectionPattern](DependencyInjectionPattern)
 
-- [DecoratorPattern](DecoratorPattern)
+- [DecoratorPattern](../people/DecoratorPattern)
 
-- [ObserverPattern](ObserverPattern)
+- [ObserverPattern](../language/ObserverPattern)
 
-- [FunctionWrappers](FunctionWrappers)
+- [FunctionWrappers](../people/FunctionWrappers)
 
-- [MementoPattern](MementoPattern)
+- [MementoPattern](../people/MementoPattern)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ I\'ve removed \"Inversion of Control in Python\" from the side of [DependencyInj
 
 Even \"Inversion of Control\" may even be poorly named; I would want to call it \"Network of Control.\" But that is neither here nor there, for the purposes of this page.
 
-\-- [LionKimbro](LionKimbro) 2005-05-05 18:00:02
+\-- [LionKimbro](../people/LionKimbro) 2005-05-05 18:00:02

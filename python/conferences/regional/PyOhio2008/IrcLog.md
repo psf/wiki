@@ -68,7 +68,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 (2:08:53 PM) martinh: i\'m martin!
 
-(2:09:08 PM) matthewarnold: Martin, what\' s your involvement with [PyOhio](PyOhio)?
+(2:09:08 PM) matthewarnold: Martin, what\' s your involvement with [PyOhio](../PyOhio)?
 
 (2:09:29 PM) martinh: right now just lurking. seeing if I can help.
 
@@ -92,7 +92,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 (2:12:22 PM) matthewarnold: oh, yes. I assisted Tux with his interview with a couple of live webcasts.
 
-(2:13:02 PM) matthewarnold: I started a new software project for conference schedulers. It\'s in [TurboGears](TurboGears) and has two developers, not counting me (as I am more of the knowledge domain specialist and requirements designer). If [PyOhio](PyOhio) could use such an app, we would welcome more developers. [http://crem.miscellaneouswhatnot.net/trac/](http://crem.miscellaneouswhatnot.net/trac/)
+(2:13:02 PM) matthewarnold: I started a new software project for conference schedulers. It\'s in [TurboGears](../../../web/TurboGears) and has two developers, not counting me (as I am more of the knowledge domain specialist and requirements designer). If [PyOhio](../PyOhio) could use such an app, we would welcome more developers. [http://crem.miscellaneouswhatnot.net/trac/](http://crem.miscellaneouswhatnot.net/trac/)
 
 (2:13:07 PM) siddfinch: I would highly recommend a OLF booth \... good way to get the word out and probably help in finding some sponsers .. if you go that way.
 
@@ -282,7 +282,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 (2:37:13 PM) matthewarnold: I\'d pick a summer weekend.
 
-(2:37:49 PM) catherinedevlin: jleedev: winter has [CodeMash](./CodeMash.html) (January - Sandusky) and prep for [PyCon](PyCon) (March), so I prefer summer
+(2:37:49 PM) catherinedevlin: jleedev: winter has [CodeMash](./CodeMash.html) (January - Sandusky) and prep for [PyCon](../../pycon/PyCon) (March), so I prefer summer
 
 (2:39:44 PM) catherinedevlin: oh, cycling back around to something Dave mentioned: he\'s going to check the possibility of the Microsoft office hosting us. Think we need to worry about FOSS zealots shrivelling and dying at the thought?
 
@@ -300,7 +300,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 (2:47:17 PM) matthewarnold: sorry, I\'m excused for Penguicon booth duties.
 
-(2:47:34 PM) matthewarnold: are there [PyOhio](PyOhio) photos or movies?
+(2:47:34 PM) matthewarnold: are there [PyOhio](../PyOhio) photos or movies?
 
 (2:47:58 PM) catherinedevlin1: hey, some people were taking photos, but I never heard anything about where they went to. Hmm.
 
@@ -312,7 +312,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 (2:49:21 PM) catherinedevlin1: ooh, good idea - sure!
 
-(2:49:42 PM) catherinedevlin1: how about cheap swag? I\'m asking about Python stickers like they gave out at [PyCon](PyCon)
+(2:49:42 PM) catherinedevlin1: how about cheap swag? I\'m asking about Python stickers like they gave out at [PyCon](../../pycon/PyCon)
 
 (2:49:55 PM) matthewarnold: if you can get it, sure.
 
@@ -322,13 +322,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 (2:50:32 PM) matthewarnold: talk recordings on CD, with permission of the presenters.
 
-(2:50:57 PM) matthewarnold: I\'ve got a duplicator. If [PyOhio](PyOhio) can pay for the blank media in advance, I\'ll bring them.
+(2:50:57 PM) matthewarnold: I\'ve got a duplicator. If [PyOhio](../PyOhio) can pay for the blank media in advance, I\'ll bring them.
 
 (2:51:09 PM) catherinedevlin1: alas that we don\'t have any originals to duplicate.
 
 (2:51:25 PM) catherinedevlin1: but that\'s a good idea for next time around!
 
-(2:52:21 PM) matthewarnold: is there a [PyOhio](PyOhio) banner?
+(2:52:21 PM) matthewarnold: is there a [PyOhio](../PyOhio) banner?
 
 (2:52:33 PM) matthewarnold: I might find time to paint one.
 
@@ -366,7 +366,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 (2:58:41 PM) catherinedevlin1: yeah, the day will come when they BEG us to sponsor. ![:)](/wiki/europython/img/smile.png ":)") but not quite yet
 
-(2:59:39 PM) catherinedevlin1: (seriously, I\'ve watched national [PyCon](PyCon) go from \"Does anybody know anyone hiring Python people? Anyone? Anyone?\" to \"enough of the recruiters, already! Get them off!\" in four years. We\'re just a little slow here in the interior.)
+(2:59:39 PM) catherinedevlin1: (seriously, I\'ve watched national [PyCon](../../pycon/PyCon) go from \"Does anybody know anyone hiring Python people? Anyone? Anyone?\" to \"enough of the recruiters, already! Get them off!\" in four years. We\'re just a little slow here in the interior.)
 
 (2:59:41 PM) matthewarnold: talk to Michael Meffie, if he\'s still running [LinuxFest](./LinuxFest.html)
 

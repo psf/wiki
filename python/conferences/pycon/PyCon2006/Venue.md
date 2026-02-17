@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The venue for [PyCon2006](PyCon2006) is the [Dallas / Addison Marriott Quorum](http://marriott.com/property/propertypage/DALQC), 14901 Dallas Pkwy, Dallas, TX 75254-7551
+The venue for [PyCon2006]() is the [Dallas / Addison Marriott Quorum](http://marriott.com/property/propertypage/DALQC), 14901 Dallas Pkwy, Dallas, TX 75254-7551
 
 The original bid is at: [Dallas/Fort Worth](http://python.taupro.com/DfwPyConBid/Overview)
 
 # Desirable Venue Characteristics 
 
-- Must allow maintaining [PyCon](PyCon) as a low-cost conference (early bird registration around \$175-200).
+- Must allow maintaining [PyCon](../PyCon) as a low-cost conference (early bird registration around \$175-200).
 
 - Close to public transport. We are interpreting this to mean within a five-minute walk of a Metro station, with no obstacles to wheelchair-bound or otherwise disabled delegates.
 
 - Convenient for low-cost accommodation. Not necessarily in the immediate vicinity, but if not then we\'d need to establish such accommodation and the route(s) to it.
 
-- Able to handle at least 750-800 delegates (estimated figure for [PyCon](PyCon) 2007). Given that consensus was to begin moving [PyCon](PyCon) around, [PyCon](PyCon) 2008 will presumably be in a different city.
+- Able to handle at least 750-800 delegates (estimated figure for [PyCon](../PyCon) 2007). Given that consensus was to begin moving [PyCon](../PyCon) around, [PyCon](../PyCon) 2008 will presumably be in a different city.
 
 - Facilities support must be comparable or better than what you have at GWU. Plus be aware that the cost of catering, networking, equipment, etc. could be significant additional costs beyond the base venue. *as they were for the first two events, but yes, they clearly have to be budgeted \-- sh*
 
@@ -34,9 +34,9 @@ The original bid is at: [Dallas/Fort Worth](http://python.taupro.com/DfwPyConBid
 
 # Ideas 
 
-- Withdrawn: The Chicago Python User Group ([http://chipy.org](http://chipy.org)) bid for hosting [PyCon](PyCon); an unnamed university\'s offer.
+- Withdrawn: The Chicago Python User Group ([http://chipy.org](http://chipy.org)) bid for hosting [PyCon](../PyCon); an unnamed university\'s offer.
 
-- Rejected: [InnAndConferenceCenter](InnAndConferenceCenter), near DC
+- Rejected: [InnAndConferenceCenter](../../../archive/InnAndConferenceCenter), near DC
 
 - a university near Boston that prefers to remain unnamed.
 
@@ -52,7 +52,7 @@ The original bid is at: [Dallas/Fort Worth](http://python.taupro.com/DfwPyConBid
 
 ## Questions for site visit 
 
-- Get detailed food costs: costs for breakfast, lunch, breaks. Are tips/tax included? **Do we have a choice of caterers? \--[CatherineDevlin](CatherineDevlin)**
+- Get detailed food costs: costs for breakfast, lunch, breaks. Are tips/tax included? **Do we have a choice of caterers? \--[CatherineDevlin](../../../people/CatherineDevlin)**
 
 - How much will wireless support cost? Can it be open to everyone or are access controls required?
 

@@ -12,6 +12,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Sean Reifschneider, [\"JOTWeb Web Development System\"](http://jotweb.tummy.com/)
 
-- [IanBicking](IanBicking), [Dealing with stale code in long-running processes Webware\'s Shotgun Approach](http://ianbicking.org/docs/Webware_reload.html), [PyLogo: the Logo Language implemented in Python](http://ianbicking.org/docs/PyLogo_lightning.html)
+- [IanBicking](../../../people/IanBicking), [Dealing with stale code in long-running processes Webware\'s Shotgun Approach](http://ianbicking.org/docs/Webware_reload.html), [PyLogo: the Logo Language implemented in Python](http://ianbicking.org/docs/PyLogo_lightning.html)
 
 ------------------------------------------------------------------------

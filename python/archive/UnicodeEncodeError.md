@@ -31,7 +31,7 @@ The choice of the `ASCII` encoder for \"down-conversion\" might be considered wi
 
 However, unlike a similar issue with [UnicodeDecodeError](UnicodeDecodeError) while encoding, there would be not ambiguity if `decode()` simply returned the `unicode` argument unmodified. There seems to be not such a shortcut in `decode()` functions as of Python2.5.
 
-Alternatively, a [TypeError](TypeError) exception could always be thrown on receiving a `unicode` argument in `decode()` functions. (This would require `stream.read()` to produce only `str` for [StreamReader](StreamReader)`.read()`. The latter would only produce `unicode`).
+Alternatively, a [TypeError](../people/TypeError) exception could always be thrown on receiving a `unicode` argument in `decode()` functions. (This would require `stream.read()` to produce only `str` for [StreamReader](../people/StreamReader)`.read()`. The latter would only produce `unicode`).
 
     Decoding from str to unicode.
 

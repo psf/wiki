@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The DocXmlRpcServer is a *very* simple [XmlRpc](XmlRpc) server that is also simultaneously a self-documenting web server.
+The DocXmlRpcServer is a *very* simple [XmlRpc](../networking/XmlRpc) server that is also simultaneously a self-documenting web server.
 
 :::: 
 ::: 
@@ -61,7 +61,7 @@ Writing a client to call the wait function is left as an exercise for the reader
 
 ## Resources 
 
-- [XmlRpc](XmlRpc) \-- general information on XML-RPC
+- [XmlRpc](../networking/XmlRpc) \-- general information on XML-RPC
 
 - [BaseHttpServer](BaseHttpServer) \-- class that DocXmlRpcServer inherits from
 
@@ -79,7 +79,7 @@ Also:
 
 ## Notes 
 
-This page was based on [SeaPig:DocXMLRPCServer,](http://www.seapig.org/DocXMLRPCServer) with [BrianDorsey](BrianDorsey)\'s permission.
+This page was based on [SeaPig:DocXMLRPCServer,](http://www.seapig.org/DocXMLRPCServer) with [BrianDorsey](../people/BrianDorsey)\'s permission.
 
 # Discussion 
 

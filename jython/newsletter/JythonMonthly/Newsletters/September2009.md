@@ -39,7 +39,7 @@ The Jython Developer team has delivered the 2.5.1 final release. This release co
 
 \- Upgraded to ANTLR 3.1.3
 
-\- \[ 1859477 \] Dynamically loaded [ServletFilters](./ServletFilters.html) like [PyServlet](PyServlet)
+\- \[ 1859477 \] Dynamically loaded [ServletFilters](./ServletFilters.html) like [PyServlet](../../../user-guide/PyServlet)
 
 \- Built in JSR 223 scripting engine, with [LiveTribe](./LiveTribe.html) JSR 223 implementation for JDK 5
 

@@ -25,7 +25,7 @@ The configuration files are kept in a mercurial repository, so please commit you
 
 MoinMoin uses WSGI, which is configured to restart after 1000 requests, so any such change will propagate eventually (typically after about 1h).
 
-See also [PythonWikiChanges](PythonWikiChanges)
+See also [PythonWikiChanges](../PythonWikiChanges)
 
 ------------------------------------------------------------------------
 

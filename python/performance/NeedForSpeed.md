@@ -14,7 +14,7 @@ The following pages were used to plan and report on the sprint:
 
 - [/Tasks](NeedForSpeed/Tasks): What people are currently working on. Also see
 
-  - [ListOfPerformanceRelatedPatches](ListOfPerformanceRelatedPatches)
+  - [ListOfPerformanceRelatedPatches](../archive/ListOfPerformanceRelatedPatches)
 
 - [/Toolsets](NeedForSpeed/Toolsets): What should I install before I come?
 

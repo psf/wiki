@@ -19,4 +19,4 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-See also: [PythonHosting](PythonHosting)
+See also: [PythonHosting](../libraries/PythonHosting)

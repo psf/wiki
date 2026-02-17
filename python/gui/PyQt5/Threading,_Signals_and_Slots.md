@@ -97,7 +97,7 @@ Now that we have seen how an instance of the `Window`{.backtick} class uses the 
 
 ## The Worker Thread 
 
-The worker thread is implemented as a [PyQt](PyQt) thread rather than a Python thread since we want to take advantage of the signals and slots mechanism to communicate with the main application.
+The worker thread is implemented as a [PyQt](../PyQt) thread rather than a Python thread since we want to take advantage of the signals and slots mechanism to communicate with the main application.
 
     class Worker(QThread):
         output = pyqtSignal(QRect, QImage)
@@ -140,7 +140,7 @@ For convenience, we define a method to set up the attributes required by the thr
             self.stars = stars
             self.start()
 
-The `start()`{.backtick} method is a special method that sets up the thread and calls our implementation of the `run()`{.backtick} method. We provide the `render()`{.backtick} method instead of letting our own `run()`{.backtick} method take extra arguments because the `run()`{.backtick} method is called by [PyQt](PyQt) itself with no arguments.
+The `start()`{.backtick} method is a special method that sets up the thread and calls our implementation of the `run()`{.backtick} method. We provide the `render()`{.backtick} method instead of letting our own `run()`{.backtick} method take extra arguments because the `run()`{.backtick} method is called by [PyQt](../PyQt) itself with no arguments.
 
 The `run()`{.backtick} method is where we perform the processing that occurs in the thread provided by the `Worker`{.backtick} instance:
 

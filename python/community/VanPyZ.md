@@ -70,7 +70,7 @@ We\'ll be trying some quick lightning talks. Please come prepared to talk about 
 
 - \... you?
 
-Brett, Trent and others were also at [PyCon](PyCon) in February. Brett will give a quick summary and we\'ll discuss that for a bit. Videos online here: [http://pycon.blip.tv/](http://pycon.blip.tv/)
+Brett, Trent and others were also at [PyCon](../conferences/pycon/PyCon) in February. Brett will give a quick summary and we\'ll discuss that for a bit. Videos online here: [http://pycon.blip.tv/](http://pycon.blip.tv/)
 
 # 2009 
 
@@ -114,7 +114,7 @@ Brett is one of the core Python developers and will explain how the development 
 
 Brett Cannon and Doug Latornell, April 7th, 2009
 
-Brett and Doug both attended [PyCon](PyCon), the main annual Python conference, and will be back to tell us what was the coolness, what was the hotness, and how many flavours of Python there are now out in the wild.
+Brett and Doug both attended [PyCon](../conferences/pycon/PyCon), the main annual Python conference, and will be back to tell us what was the coolness, what was the hotness, and how many flavours of Python there are now out in the wild.
 
 ### Scrambled Eggs: Digesting Python Packaging 
 

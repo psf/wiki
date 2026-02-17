@@ -22,7 +22,7 @@ Dimensions: 3.5 x 10.5 cm
 
 PDF: [Python-Sticker-White.pdf](attachments/Merchandise/Python-Sticker-White.pdf)
 
-Created by [MarcAndreLemburg](MarcAndreLemburg) in 2013. Please contact if you need different formats.
+Created by [MarcAndreLemburg](../people/MarcAndreLemburg) in 2013. Please contact if you need different formats.
 
 #### Python logo on dark blue background 
 
@@ -32,7 +32,7 @@ Dimensions: 3.5 x 10.5 cm
 
 PDF: [Python-Sticker-Darkblue.pdf](attachments/Merchandise/Python-Sticker-Darkblue.pdf)
 
-Created by [MarcAndreLemburg](MarcAndreLemburg) in 2013. Please contact if you need different formats.
+Created by [MarcAndreLemburg](../people/MarcAndreLemburg) in 2013. Please contact if you need different formats.
 
 #### PSF Associate Membership bookmark 
 
@@ -43,7 +43,7 @@ Dimensions: 5.2 x 14.8 cm (DIN A7 long, two-sided)
 
 PDF: [PSF-AM-Bookmark.pdf](attachments/Merchandise/PSF-AM-Bookmark.pdf)
 
-Created by [MarcAndreLemburg](MarcAndreLemburg) in 2013. Please contact if you need different formats.
+Created by [MarcAndreLemburg](../people/MarcAndreLemburg) in 2013. Please contact if you need different formats.
 
 ## Ideas for Python Merchandise 
 

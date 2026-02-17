@@ -10,25 +10,25 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 *Please add software under the categories. If a category is missing, please add it.*
 
-- [AutomatedRefactoringTools](AutomatedRefactoringTools)
+- [AutomatedRefactoringTools](../archive/AutomatedRefactoringTools)
 
 - [BugTracking](BugTracking)
 
-- [ConfigurationAndBuildTools](ConfigurationAndBuildTools)
+- [ConfigurationAndBuildTools](../archive/ConfigurationAndBuildTools)
 
 - [DistributionUtilities](DistributionUtilities)
 
-- [DocumentationTools](DocumentationTools)
+- [DocumentationTools](../documentation/DocumentationTools)
 
-- [IntegratedDevelopmentEnvironments](IntegratedDevelopmentEnvironments)
+- [IntegratedDevelopmentEnvironments](../editors/IntegratedDevelopmentEnvironments)
 
-- [PythonDebuggers](PythonDebuggers)
+- [PythonDebuggers](../archive/PythonDebuggers)
 
-- [PythonEditors](PythonEditors)
+- [PythonEditors](../editors/PythonEditors)
 
-- [PythonShells](PythonShells)
+- [PythonShells](../archive/PythonShells)
 
-- [SkeletonBuilderTools](SkeletonBuilderTools)
+- [SkeletonBuilderTools](../archive/SkeletonBuilderTools)
 
 - [TestSoftware](TestSoftware)
 

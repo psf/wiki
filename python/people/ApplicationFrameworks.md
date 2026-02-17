@@ -20,13 +20,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [txObject ATK](../archive/txObject ATK)- Tom\'s Cross-Platform Object Application Tool Kit features I/O & Timers, Native/Home Grown Threads, and IPC
 
-- [Win32All](Win32All) - COM and MFC on Microsoft Windows.
+- [Win32All](../platforms/Win32All) - COM and MFC on Microsoft Windows.
 
 ## Graphical 
 
 - [Envisage](http://www.python.org/pycon/2005/papers/81/PyCon-2005.txt) - a plugin architecture with GUI support
 
-- [Kiwi](Kiwi) - a framework and a set of enhanced PyGTK widgets to make building GUI programs easier.
+- [Kiwi](../archive/Kiwi) - a framework and a set of enhanced PyGTK widgets to make building GUI programs easier.
 
 ## Middleware 
 
@@ -38,11 +38,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Medusa](http://www.nightmare.com/medusa/) - A high-performance, extensible Internet server framework.
 
-- [ToolserverFrameworkForPython](ToolserverFrameworkForPython) - a Framework for simple creation of XMLRPC, SOAP or REST style API servers
+- [ToolserverFrameworkForPython](../archive/ToolserverFrameworkForPython) - a Framework for simple creation of XMLRPC, SOAP or REST style API servers
 
-- [TwistedMatrix](TwistedMatrix) - Framework, Application Suite and Integrated Environment
+- [TwistedMatrix](../web/TwistedMatrix) - Framework, Application Suite and Integrated Environment
 
-- [WebProgramming](WebProgramming) - application frameworks for Web programming
+- [WebProgramming](../web/WebProgramming) - application frameworks for Web programming
 
 ## Editorial Notes 
 

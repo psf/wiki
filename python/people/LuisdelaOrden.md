@@ -14,7 +14,7 @@ From Spain.
 
 Email: `<luis AT SPAMFREE delaorden DOT info>`
 
-Editing [OutOfPrintBooks](OutOfPrintBooks)
+Editing [OutOfPrintBooks](../archive/OutOfPrintBooks)
 
 ------------------------------------------------------------------------
 

@@ -12,7 +12,7 @@ As a programming language, Python is the foundation of many software projects pr
 
 - [Applications](Applications) - a list of Python-based applications
 
-- [UsefulModules](UsefulModules) - libraries, modules and packages
+- [UsefulModules](../people/UsefulModules) - libraries, modules and packages
 
 - [PublishingPythonModules](PublishingPythonModules) - places where modules are often publicised
 
@@ -40,7 +40,7 @@ Useful code does not always exist in the context of a project - smaller fragment
 
 Sometimes there is no project addressing a certain need, or perhaps a project has been started and requires help to reach its objectives.
 
-- [CodingProjectIdeas](CodingProjectIdeas) - a list of ideas for projects of various sizes
+- [CodingProjectIdeas](../getting-started/CodingProjectIdeas) - a list of ideas for projects of various sizes
 
 - [Python Practice Projects](http://pythonpracticeprojects.com) - Collection of larger project ideas with references to get you started.
 

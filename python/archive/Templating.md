@@ -54,13 +54,13 @@ The introduction of such logic may also cause problems for some XML-based tools.
 
 - [Cheetah](Cheetah)
 
-- [CubicTemp](CubicTemp)
+- [CubicTemp](../people/CubicTemp)
 
 - [Django template system](https://docs.djangoproject.com/en/1.6/topics/templates/)
 
 - [Elements](http://www.nthwave.net/elements/)
 
-- [EmPy](EmPy)
+- [EmPy](../people/EmPy)
 
 - [Evoque page on pypi](https://pypi.python.org/pypi/evoque) - managed eval-based full-featured templating engine, for Python 2.4, 2.5, 2.6 **and 3.0**, features such as unicode, dynamic overlays, *format-extensible* automatic quoting, in-process sandbox, et cetera, while still remaining small, simple and extremely fast \-- performance benchmarks show it to be more or less as fast as Mako, and faster on simpler templates.
 
@@ -133,7 +133,7 @@ The following engines feature template documents whose sections are marked using
 
 In some systems, the sections are then manipulated within program code; in others, the template structure indicates sections which are to be repeated, omitted, and so on, and the templating system then merges the template with some data structure provided by the program. Generally, the reason for annotating templates in this way (particularly through the use of attributes) is to better support the editing of such templates in XML-based tools which might otherwise complain about or damage template information if it were not included carefully in documents.
 
-- [ClearSilver](ClearSilver) - uses special elements/tags
+- [ClearSilver](../people/ClearSilver) - uses special elements/tags
 
 - [HTMLTemplate](http://sourceforge.net/projects/py-templates//) - special attributes denote HTML elements that can be manipulated as Python objects (**As of 2013-12-05, this project is no longer under active development.**)
 
@@ -179,7 +179,7 @@ The libraries in this section implement simpler markup languages that can be aut
 
 - [Markdown](https://pypi.python.org/pypi/Markdown)
 
-- [PyTextile](PyTextile)
+- [PyTextile](../people/PyTextile)
 
 - [reStructuredText](reStructuredText)
 
@@ -247,7 +247,7 @@ The following templating engines are accessible or usable via Jython:
 
 ## CPython-accessible C Templating Engines 
 
-- [ClearSilver](ClearSilver) - HTML generation, uses HDF as input format
+- [ClearSilver](../people/ClearSilver) - HTML generation, uses HDF as input format
 
 ------------------------------------------------------------------------
 

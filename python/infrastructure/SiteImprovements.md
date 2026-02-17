@@ -36,7 +36,7 @@ Improving a web site is a process of enhancing user experience so that informati
 
 But the process of improvement has to solicit feedback in order to capture ideas about areas of improvement, and this channel for feedback should be easy to reach and visible to others. An example of such a channel is the online manual comments that one sees in the documentation for technologies such as PHP, MySQL [(example)](http://dev.mysql.com/doc/refman/5.0/en/multiple-tablespaces.html) and PostgreSQL.
 
-A lot of information causes frustration: that\'s why people prefer Twitter to Blogger. Too much \"[inventory](Inventory)\" in the room makes it hard to navigate and notice things that are needed. The process of cleanup should involve throwing unused stuff away, leaving relevant and updated information in place. Naturally, the Wiki has accumulated lots of arguably unused and dated pages, but various python.org pages are affected as well. Too much information reduces the \"fun factor\": a separate status page will help people see what\'s going on and let them have more fun by focusing their work and enabling them to work together with others.
+A lot of information causes frustration: that\'s why people prefer Twitter to Blogger. Too much \"[inventory](../archive/Inventory)\" in the room makes it hard to navigate and notice things that are needed. The process of cleanup should involve throwing unused stuff away, leaving relevant and updated information in place. Naturally, the Wiki has accumulated lots of arguably unused and dated pages, but various python.org pages are affected as well. Too much information reduces the \"fun factor\": a separate status page will help people see what\'s going on and let them have more fun by focusing their work and enabling them to work together with others.
 
 ## Miscellaneous 
 
@@ -46,13 +46,13 @@ A lot of information causes frustration: that\'s why people prefer Twitter to Bl
 
 - (done) Badly need bug tracker for python.org website ([metatracker issue340](http://psf.upfronthosting.co.za/roundup/meta/issue340))
 
-  - I wonder if roundup is better than some hosted solution \-- [techtonik](techtonik) 2010-04-06 14:06:34
+  - I wonder if roundup is better than some hosted solution \-- [techtonik](../archive/techtonik) 2010-04-06 14:06:34
 
-    - Now [on GitHub](https://github.com/python/pythondotorg/issues) \-- [SumanaHarihareswara](SumanaHarihareswara) 2019-08-23 10:39:43
+    - Now [on GitHub](https://github.com/python/pythondotorg/issues) \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:39:43
 
 ## Web Site 
 
-Note: we should probably review these, see which ones are still problems and file them [on GitHub](https://github.com/python/pythondotorg/issues), and then remove this section. \-- [SumanaHarihareswara](SumanaHarihareswara) 2019-08-23 10:39:43
+Note: we should probably review these, see which ones are still problems and file them [on GitHub](https://github.com/python/pythondotorg/issues), and then remove this section. \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:39:43
 
 - CSS: Increase interval between list items to be the same as between lines - compare [http://www.python.org/dev/doc/](http://www.python.org/dev/doc/) and [http://www.python.org/dev/pydotorg/](http://www.python.org/dev/pydotorg/)
 
@@ -63,7 +63,7 @@ Note: we should probably review these, see which ones are still problems and fil
 - Add paragraph anchors to site generator
 
 - Add an RSS feed and/or mailing list for python security advisories
-  - Now that [the security-announce mailing list is on Mailman 3](https://mail.python.org/archives/list/security-announce@python.org/latest), resolving [this HyperKitty issue](https://gitlab.com/mailman/hyperkitty/issues/51) would add a syndication feed \-- [SumanaHarihareswara](SumanaHarihareswara) 2019-08-23 10:39:43
+  - Now that [the security-announce mailing list is on Mailman 3](https://mail.python.org/archives/list/security-announce@python.org/latest), resolving [this HyperKitty issue](https://gitlab.com/mailman/hyperkitty/issues/51) would add a syndication feed \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:39:43
 
 - Add release timer and calendar to [Core Development](http://www.python.org/dev/) page
 
@@ -90,68 +90,68 @@ If you find stale pages, please add here, this might be useful work for voluntee
 
 - (done) [MacPython/PythonDistributionsForMac](../platforms/MacPython/PythonDistributionsForMac) does not mention homebrew
 
-- [MacPython](MacPython) has a link for 10.5 Leopard but MacOS has moved on a number of releases from there. There should be something on the mess with Apple\'s buggy tcl/tk, how to not create conflicts with the system version of Python, etc.
+- [MacPython](../platforms/MacPython) has a link for 10.5 Leopard but MacOS has moved on a number of releases from there. There should be something on the mess with Apple\'s buggy tcl/tk, how to not create conflicts with the system version of Python, etc.
 
-- [BeginnerErrorsWithPythonProgramming](BeginnerErrorsWithPythonProgramming) could really stand updating and being made more useful. There are more common beginner problems than this. The page should focus on how to anticipate and not have these be such problems rather than idly speculating on whether the language could change to eliminate these \"problems\".
+- [BeginnerErrorsWithPythonProgramming](../archive/BeginnerErrorsWithPythonProgramming) could really stand updating and being made more useful. There are more common beginner problems than this. The page should focus on how to anticipate and not have these be such problems rather than idly speculating on whether the language could change to eliminate these \"problems\".
 
 - (done) BeginnersGuide/Programmers could be improved: some links are probably stale (e.g. the Google course pointed at code.google.com, which is obsolete though usually still redirects correctly). It\'s just a Big Lump of Links, that\'s not very helpful in a beginner picking what to pursue (maybe add some curated mini-reviews?). Not sure - make suggestions!
 
 - Clean up [CategoryJython](CategoryJython)
 
 - Clean up Community/Python Writers page, above all: remove dead links
-  - How to scan [DeadLinks](DeadLinks) in Python? \-- [techtonik](techtonik) 2010-03-16 08:36:41
+  - How to scan [DeadLinks](../people/DeadLinks) in Python? \-- [techtonik](../archive/techtonik) 2010-03-16 08:36:41
 
 - Shorten URLs - remove /moin/ prefix from [http://wiki.python.org/moin/SiteImprovements#Wiki](SiteImprovements#Wiki)
 
-  - This requires moving Jython wiki from [http://wiki.python.org/jython/](../../jython/) to [http://wiki.jython.org/](http://wiki.jython.org/) and placing a temporary redirect on the previous places. \-- [techtonik](techtonik) 2010-03-16 08:39:34
+  - This requires moving Jython wiki from [http://wiki.python.org/jython/](../../jython/) to [http://wiki.jython.org/](http://wiki.jython.org/) and placing a temporary redirect on the previous places. \-- [techtonik](../archive/techtonik) 2010-03-16 08:39:34
 
 - Rationalize the natural language coverage (merging the \"new\" language pages with the old ones)
 
 ## Wiki Theme 
 
-- Upgrade the Python theme to the one used by [the EuroPython Wiki site](http://wiki.europython.eu/) ![(./)](/wiki/europython/img/checkmark.png "(./)") Added to [InterWikiMap](InterWikiMap) as `Issue`{.backtick}. For example: [7942](http://bugs.python.org/issue7942 "Issue") in the tracker. \-- [PaulBoddie](PaulBoddie) 2010-03-15 15:32:26
+- Upgrade the Python theme to the one used by [the EuroPython Wiki site](http://wiki.europython.eu/) ![(./)](/wiki/europython/img/checkmark.png "(./)") Added to [InterWikiMap](../archive/InterWikiMap) as `Issue`{.backtick}. For example: [7942](http://bugs.python.org/issue7942 "Issue") in the tracker. \-- [PaulBoddie](../people/PaulBoddie) 2010-03-15 15:32:26
 
-  - Even though natural syntax would be more welcomed this is a nice helper. Are there any side effects if the prefix is added lowercased? It seems like it is still not possible for it to show word \"issue\" automatically. \-- [techtonik](techtonik) 2010-03-15 16:47:59
+  - Even though natural syntax would be more welcomed this is a nice helper. Are there any side effects if the prefix is added lowercased? It seems like it is still not possible for it to show word \"issue\" automatically. \-- [techtonik](../archive/techtonik) 2010-03-15 16:47:59
 
-  - I\'m just following the [InterWiki](InterWiki) conventions, really. I\'m sure I should use `PythonIssue:xxx`{.backtick} instead, but I suppose `Issue:xxx`{.backtick} is unlikely to be used by accident. As for the prefix, it\'s only included in the title for the icon, I think. And as for autolinking, I think that would require a parser extension or modification. I\'d personally be comfortable with a macro (like `<<PythonIssue(xxx)>>`{.backtick}), but then people would need to know how to use it, and it wouldn\'t obviously be natural to write. \-- [PaulBoddie](PaulBoddie) 2010-03-15 16:56:18
+  - I\'m just following the [InterWiki](InterWiki) conventions, really. I\'m sure I should use `PythonIssue:xxx`{.backtick} instead, but I suppose `Issue:xxx`{.backtick} is unlikely to be used by accident. As for the prefix, it\'s only included in the title for the icon, I think. And as for autolinking, I think that would require a parser extension or modification. I\'d personally be comfortable with a macro (like `<<PythonIssue(xxx)>>`{.backtick}), but then people would need to know how to use it, and it wouldn\'t obviously be natural to write. \-- [PaulBoddie](../people/PaulBoddie) 2010-03-15 16:56:18
 
 - Add \"automatically subscribe to pages I edit\" plugin from [http://moinmo.in/MoinMoinPatch/AutomaticSubscriptionOnEditPreference](http://moinmo.in/MoinMoinPatch/AutomaticSubscriptionOnEditPreference) to increase people\'s awareness about changes going on on the wiki.
 
 - **Fix bug** can\'t rename the page (A page with the name \'xxx\' already exists. Try a different name.)
 
-  - Can you give a walk-through of how to reproduce this? \-- [PaulBoddie](PaulBoddie) 2010-03-15 15:44:04
+  - Can you give a walk-through of how to reproduce this? \-- [PaulBoddie](../people/PaulBoddie) 2010-03-15 15:44:04
 
-    - Try to rename [http://wiki.python.org/moin/ReStructuredText](./ReStructuredText.html) to [http://wiki.python.org/moin/reStructuredText](reStructuredText) without being superuser
+    - Try to rename [http://wiki.python.org/moin/ReStructuredText](./ReStructuredText.html) to [http://wiki.python.org/moin/reStructuredText](../archive/reStructuredText) without being superuser
 
 - Remove annoying \"captcha\" for sane users who logged in
-  - This just needs the feature to be [configured properly](./HelpOnTextChas.html). Then a system is required to add people to the exempt users list after their intentions have been verified. \-- [PaulBoddie](PaulBoddie) 2010-03-15 15:44:04
+  - This just needs the feature to be [configured properly](./HelpOnTextChas.html). Then a system is required to add people to the exempt users list after their intentions have been verified. \-- [PaulBoddie](../people/PaulBoddie) 2010-03-15 15:44:04
 
-  - Is there an automatic group for users with 10 or more successful edits? \-- [techtonik](techtonik) 2010-03-15 17:56:09
+  - Is there an automatic group for users with 10 or more successful edits? \-- [techtonik](../archive/techtonik) 2010-03-15 17:56:09
 
-  - I think it all has to be done manually. It would be quite easy for spammers to make accounts, perform edits manually and then automate more spamming. The [TextCha](http://moinmo.in/TextCha "MoinMoin") page has plenty of discussion about this, but I agree that it would be nicer to have some kind of workflow in the Wiki itself. \-- [PaulBoddie](PaulBoddie) 2010-03-15 19:21:55
+  - I think it all has to be done manually. It would be quite easy for spammers to make accounts, perform edits manually and then automate more spamming. The [TextCha](http://moinmo.in/TextCha "MoinMoin") page has plenty of discussion about this, but I agree that it would be nicer to have some kind of workflow in the Wiki itself. \-- [PaulBoddie](../people/PaulBoddie) 2010-03-15 19:21:55
 
-  - It is easier for them to automate [TextCha](./TextCha.html) entry than enter it 10 times manually and in the end have their accounts banned. \-- [techtonik](techtonik) 2010-03-16 08:25:16
+  - It is easier for them to automate [TextCha](./TextCha.html) entry than enter it 10 times manually and in the end have their accounts banned. \-- [techtonik](../archive/techtonik) 2010-03-16 08:25:16
 
 - Add improved event calendar support such as that provided by [EventAggregator](http://moinmo.in/MacroMarket/EventAggregator) or another similar extension
 
 - Switch to [TracWiki syntax](http://trac.edgewall.org/wiki/WikiFormatting)
 
-  - Why? Trac\'s syntax, apart from the stuff that\'s identical to [MoinMoin](MoinMoin)\'s syntax, is like the old [MoinMoin](MoinMoin) syntax, and although it\'s better than [MediaWiki](./MediaWiki.html) syntax in various ways (take the [link syntax](http://www.mediawiki.org/wiki/Help:Links) and its inconsistencies), switching to it would be like reverting a number of fixes that [MoinMoin](MoinMoin) applied when its syntax (particularly the [link syntax](http://moinmo.in/LinkPattern "MoinMoin")) was changed in 1.6. I don\'t deny that bits of it can be complicated, but that\'s not usually the basic stuff. \-- [PaulBoddie](PaulBoddie) 2010-03-15 15:32:26
+  - Why? Trac\'s syntax, apart from the stuff that\'s identical to [MoinMoin](MoinMoin)\'s syntax, is like the old [MoinMoin](MoinMoin) syntax, and although it\'s better than [MediaWiki](./MediaWiki.html) syntax in various ways (take the [link syntax](http://www.mediawiki.org/wiki/Help:Links) and its inconsistencies), switching to it would be like reverting a number of fixes that [MoinMoin](MoinMoin) applied when its syntax (particularly the [link syntax](http://moinmo.in/LinkPattern "MoinMoin")) was changed in 1.6. I don\'t deny that bits of it can be complicated, but that\'s not usually the basic stuff. \-- [PaulBoddie](../people/PaulBoddie) 2010-03-15 15:32:26
 
-  - Using Trac for various Python (and not only Python) I got used to separate [http://links](./(5b)http(3a2f2f)links(2f).html) with description using space\] - as it is more readable. I can\'t see where \[[LinkPattern](http://moinmo.in/LinkPattern "MoinMoin") link syntax\] will conflict with anything. Anyway it is the last point in this list. \-- [techtonik](techtonik) 2010-03-15 17:27:00
+  - Using Trac for various Python (and not only Python) I got used to separate [http://links](./(5b)http(3a2f2f)links(2f).html) with description using space\] - as it is more readable. I can\'t see where \[[LinkPattern](http://moinmo.in/LinkPattern "MoinMoin") link syntax\] will conflict with anything. Anyway it is the last point in this list. \-- [techtonik](../archive/techtonik) 2010-03-15 17:27:00
 
-  - I\'ve become accustomed to the newer syntax now, and I think there\'s probably some reason why they moved away from the older syntax, possibly for extensibility reasons where spaces can appear naturally and confuse the process of isolating arguments. I\'ve not been too impressed by the Wiki capabilities of Trac, but that might have something to do with the visually unimpressive styling of Trac for most installations and the lack of [MoinMoin](MoinMoin) conveniences, not the syntax as such. \-- [PaulBoddie](PaulBoddie) 2010-03-15 19:21:55
+  - I\'ve become accustomed to the newer syntax now, and I think there\'s probably some reason why they moved away from the older syntax, possibly for extensibility reasons where spaces can appear naturally and confuse the process of isolating arguments. I\'ve not been too impressed by the Wiki capabilities of Trac, but that might have something to do with the visually unimpressive styling of Trac for most installations and the lack of [MoinMoin](MoinMoin) conveniences, not the syntax as such. \-- [PaulBoddie](../people/PaulBoddie) 2010-03-15 19:21:55
 
-  - [MoinMoin](MoinMoin) is a general purpose wiki like [MediaWiki](./MediaWiki.html) and it may happen that old syntax created problems with porting content between them. However, for software projects, Trac and [Google Code](http://code.google.com/p/support/wiki/WikiSyntax) were inspired by the old variant of markup and there is [no single ticket](http://code.google.com/p/support/issues/list) to switch to [MediaWiki](./MediaWiki.html). I would really like to see reasoning behind the choice in [MoinMoin](MoinMoin) 1.6, and know if there is a preference to turn on the old markup. \-- [techtonik](techtonik) 2010-03-16 08:20:29
+  - [MoinMoin](MoinMoin) is a general purpose wiki like [MediaWiki](./MediaWiki.html) and it may happen that old syntax created problems with porting content between them. However, for software projects, Trac and [Google Code](http://code.google.com/p/support/wiki/WikiSyntax) were inspired by the old variant of markup and there is [no single ticket](http://code.google.com/p/support/issues/list) to switch to [MediaWiki](./MediaWiki.html). I would really like to see reasoning behind the choice in [MoinMoin](MoinMoin) 1.6, and know if there is a preference to turn on the old markup. \-- [techtonik](../archive/techtonik) 2010-03-16 08:20:29
 
-  - A good summary of why the syntax was changed was posted in an IRC conversation on the #moin channel, and I\'ve uploaded it [here](SiteImprovements/WikiSyntaxComparison) \-- [PaulBoddie](PaulBoddie) 2010-04-23 11:36:53
+  - A good summary of why the syntax was changed was posted in an IRC conversation on the #moin channel, and I\'ve uploaded it [here](SiteImprovements/WikiSyntaxComparison) \-- [PaulBoddie](../people/PaulBoddie) 2010-04-23 11:36:53
 
 - There should be a \"Logout\" link in the left navigation (Actions)
-  - Don\'t you see a \"Logout\" link under \"User\" or are you not using the new (and awesome) default theme? \-- [PaulBoddie](PaulBoddie) 2011-03-25 20:53:00
+  - Don\'t you see a \"Logout\" link under \"User\" or are you not using the new (and awesome) default theme? \-- [PaulBoddie](../people/PaulBoddie) 2011-03-25 20:53:00
 
-    - I was using the \"python\" theme, now I changed to \"\<Default\>\" and I can see the \"Logout\", Thanks ! But it would be nice, if we can add a \"Logout\" link for the \"python\" theme. \-- [BaijuMuthukadan](BaijuMuthukadan) 2012-10-22 07:18:08
+    - I was using the \"python\" theme, now I changed to \"\<Default\>\" and I can see the \"Logout\", Thanks ! But it would be nice, if we can add a \"Logout\" link for the \"python\" theme. \-- [BaijuMuthukadan](../people/BaijuMuthukadan) 2012-10-22 07:18:08
 
-      - I think the \"python\" theme is unmaintained. There was a suggestion that the new default theme, also known as \"europython\", be renamed to \"python\" and thus appear for everyone who has chosen \"python\" as their theme, but that could be confusing for people. \-- [PaulBoddie](PaulBoddie) 2011-03-25 23:01:36
+      - I think the \"python\" theme is unmaintained. There was a suggestion that the new default theme, also known as \"europython\", be renamed to \"python\" and thus appear for everyone who has chosen \"python\" as their theme, but that could be confusing for people. \-- [PaulBoddie](../people/PaulBoddie) 2011-03-25 23:01:36
 
 ## Broken Links 
 
@@ -163,7 +163,7 @@ If you find stale pages, please add here, this might be useful work for voluntee
 
 ## Core Developer Web Resources 
 
-The [Core Development Helper Tools](CoreDevHelperTools) page discusses enhancements for version control and bug tracking, particularly with regard to integration.
+The [Core Development Helper Tools](../archive/CoreDevHelperTools) page discusses enhancements for version control and bug tracking, particularly with regard to integration.
 
 ------------------------------------------------------------------------
 

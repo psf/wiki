@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [MyHDL](./MyHDL.html) - A Python-Based Hardware Description Language [http://www.myhdl.org/](http://www.myhdl.org/)
 
-- [SimPy](SimPy) - A General Purpose Discrete Event Simulator [http://sourceforge.net/p/simpy/](http://sourceforge.net/p/simpy/)
+- [SimPy](../people/SimPy) - A General Purpose Discrete Event Simulator [http://sourceforge.net/p/simpy/](http://sourceforge.net/p/simpy/)
 
 - [PyCell Studio](PyCell Studio) - A stand-alone solution for [OpenAccess](./OpenAccess.html) PCell design. Free download. [http://www.ciranova.com](http://www.ciranova.com)
 

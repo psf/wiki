@@ -88,7 +88,7 @@ The following quote also talks about problems with comparisons.
 
 ### Libraries 
 
-1\) Include wxPython or [PyGtk](http://www.moeraki.com/pygtktutorial/pygtk2tutorial/index.html) in core library? Would anygui also be a good option. Place Tkinter into legacy status? (Musing again. Seems like we need a more mainstream, higher performance standard GUI in the core distribution. wxPython is very popular, so I suggested it as an option. The [PyGtk](PyGtk) is an awesomely thin layer over the C library and it makes Gtk objects look like native Python classes.)
+1\) Include wxPython or [PyGtk](http://www.moeraki.com/pygtktutorial/pygtk2tutorial/index.html) in core library? Would anygui also be a good option. Place Tkinter into legacy status? (Musing again. Seems like we need a more mainstream, higher performance standard GUI in the core distribution. wxPython is very popular, so I suggested it as an option. The [PyGtk](../people/PyGtk) is an awesomely thin layer over the C library and it makes Gtk objects look like native Python classes.)
 
 2\) Add appropriate numeric python libraries. Only installed if the \--with-numeric flag is set.
 

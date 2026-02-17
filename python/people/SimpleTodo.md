@@ -36,7 +36,7 @@ With the conversion to use `Py_ssize_t`{.backtick}, it\'s important that we didn
 
 ## Add Py_LOCAL, Py_LOCAL_INLINE declarations 
 
-At the [NeedForSpeed](NeedForSpeed) sprint, these macros were added to use a faster calling convention on Windows. There are probably many modules where these macros could be used.
+At the [NeedForSpeed](../performance/NeedForSpeed) sprint, these macros were added to use a faster calling convention on Windows. There are probably many modules where these macros could be used.
 
 Currently these macros only make a difference on Windows. Are there other pragmas that could be used with GCC or other compilers?
 

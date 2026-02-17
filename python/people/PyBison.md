@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 There are scattered references to it all over the web, which all seem to point to `http://coho.stanford.edu/~hassan/Python/pybison.tar.gz`, which forwards to the dead link `http://dotfunk.com/hassan/homepage/Python`
 
-[ActiveState](ActiveState) has a copy (version 0.1.0.0 as of 2005-08-19):
+[ActiveState](../platforms/ActiveState) has a copy (version 0.1.0.0 as of 2005-08-19):
 
 - [for linux-i686](http://ppm.activestate.com/PPMPackages/PyPPM/2.2/packages/PyBison-0.1.0.0.linux-i686.2.2.tar.gz)
 

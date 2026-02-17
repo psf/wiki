@@ -24,19 +24,19 @@ Some years ago, I had to carry out a Monte-Carlo study about the sensitivity to 
 
 ### Working configurations 
 
-- In classroom : WinXP PCs (not my choice) with Python 2.5, and the three [NumPy](NumPy)-[SciPy](SciPy), PIL, and matplotLib packages ;
+- In classroom : WinXP PCs (not my choice) with Python 2.5, and the three [NumPy](../science/NumPy)-[SciPy](SciPy), PIL, and matplotLib packages ;
 
 - At office, same under (Debian) Linux ;
 
-- While travelling or working at home, a [MacBook](./MacBook.html) Pro (10.4.11) with [MacPython](MacPython) 2.4 : I had hard time to find and install it ; it seems to miss the module manager ; therefore, I don\'t know where to install the modules ![:-(](/wiki/europython/img/sad.png ":-(") Not a satisfying install\...
+- While travelling or working at home, a [MacBook](./MacBook.html) Pro (10.4.11) with [MacPython](../platforms/MacPython) 2.4 : I had hard time to find and install it ; it seems to miss the module manager ; therefore, I don\'t know where to install the modules ![:-(](/wiki/europython/img/sad.png ":-(") Not a satisfying install\...
 
 - At home, still a working Py-2.3 on a purple iMac (8.6) i do awake once a month or so\... And a family machine, a WinXP machine with Python 2.3, and some modules for trying.
 
 ### My present difficulties and concerns (july 2008) : 
 
-1.  to get a clean [MacPython](MacPython) install, with all the necessary modules\...
+1.  to get a clean [MacPython](../platforms/MacPython) install, with all the necessary modules\...
 
-2.  \...which are : [NumPy](NumPy)-[SciPy](SciPy), PIL, and matplotLib ; plus some others for trying them.
+2.  \...which are : [NumPy](../science/NumPy)-[SciPy](SciPy), PIL, and matplotLib ; plus some others for trying them.
 
 3.  to develop a series of one-to-two screen pages sample codes, for applied science students (Earth and environmental sciences)\...
 

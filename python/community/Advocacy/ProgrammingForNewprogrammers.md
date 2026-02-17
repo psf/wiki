@@ -14,12 +14,12 @@ The idea is that normal people, typical people, non-programming people, do not e
 
 ## But what would I do with Python? 
 
-To get them involved, we must realize that programming, for them, is not an end but a means to doing something that is important to them. Towards that goal, let\'s collect a list of [ProjectsForLearning](ProjectsForLearning) that might interesting them.
+To get them involved, we must realize that programming, for them, is not an end but a means to doing something that is important to them. Towards that goal, let\'s collect a list of [ProjectsForLearning](../../getting-started/ProjectsForLearning) that might interesting them.
 
 ## Where would I find what I need to do that? 
 
-Next, they need to have at hand the raw materials, the building blocks with which to construct their solution. The Python language itself is only part of this \-- the standard library, and the world of third-party modules are key as well. And there must also be available a rich selection of data, such as icons, audio samples, cartographic templates, caloric reference tables and the periodic chart of elements. This [LearningRepertoire](LearningRepertoire) of building blocks needs to be easy to find, easy to install, well documented (for new-programmers) and free of licensing hassles.
+Next, they need to have at hand the raw materials, the building blocks with which to construct their solution. The Python language itself is only part of this \-- the standard library, and the world of third-party modules are key as well. And there must also be available a rich selection of data, such as icons, audio samples, cartographic templates, caloric reference tables and the periodic chart of elements. This [LearningRepertoire](../../people/LearningRepertoire) of building blocks needs to be easy to find, easy to install, well documented (for new-programmers) and free of licensing hassles.
 
 ## What do I need to know to get started? 
 
-Last, in teaching them we need to provide a [ConceptualRoadmap](ConceptualRoadmap) of programming, essentially a list of ideas they need to know, the order in which they might learn it and where they can gain the knowledge.
+Last, in teaching them we need to provide a [ConceptualRoadmap](../../people/ConceptualRoadmap) of programming, essentially a list of ideas they need to know, the order in which they might learn it and where they can gain the knowledge.

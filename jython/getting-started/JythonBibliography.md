@@ -34,7 +34,7 @@ For a detailed list of books and articles look at:
 
 **Jython Articles**
 
-1\. [Scripting from scratch: Creating a Jython administrative script for IBM WebSphere Application Server](http://www.IBM.com/developerworks/websphere/library/techarticles/1004_gibson/1004_gibson.html) - 07 Apr 2010, by Bob Gibson (primary author of \"[WebSphere](WebSphere) Application Server Administration Using Jython\" - see above).
+1\. [Scripting from scratch: Creating a Jython administrative script for IBM WebSphere Application Server](http://www.IBM.com/developerworks/websphere/library/techarticles/1004_gibson/1004_gibson.html) - 07 Apr 2010, by Bob Gibson (primary author of \"[WebSphere](../user-guide/WebSphere) Application Server Administration Using Jython\" - see above).
 
 **Jython Tutorials**
 

@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [lwickjr](lwickjr) 2011-09-15 18:20:53: Trivial edit to get the comment into the log. ![:)](/wiki/europython/img/smile.png ":)")
 
-Quote: \"Editor: [PaulBoddie](PaulBoddie) Comment: Suspicious edit resembling spam. Apologies if casino stuff is now actually lwickjr\'s focus.\" Nope; you\`re right. Thanks!
+Quote: \"Editor: [PaulBoddie](../people/PaulBoddie) Comment: Suspicious edit resembling spam. Apologies if casino stuff is now actually lwickjr\'s focus.\" Nope; you\`re right. Thanks!
 
 [lwickjr](lwickjr) 2010-09-06 19:25:09: Gah! I\`ve lost my edits TWICE now, once to not being logged in \[I haven\'t been around so long that I forgot I had never logged in from this particular machine; it\'s newish\], and once to failing to answer the question that I presume protects the site from unauthorized editing.
 
@@ -30,11 +30,11 @@ Whew! Third time\`s the charm, I hope! Also, each time brought forth a somewhat-
 
 Attention, please: I am interested in the possibility of de-linting some of the documentation. How do I go about signing up?
 
-[FredDrake](FredDrake) sez: See the [Documentation Development](http://www.python.org/dev/doc/) page.
+[FredDrake](../people/FredDrake) sez: See the [Documentation Development](http://www.python.org/dev/doc/) page.
 
 [lwickjr](lwickjr) 2026-02-14 16:15:21: Done, which I noted on your page some time ago. ![:)](/wiki/europython/img/smile.png ":)") \[I find myself wondering if anyone found the delinted pages.\]
 
-[lwickjr](lwickjr) 2026-02-14 16:15:21: [LionKimbro](LionKimbro): \"Parnassus\". ![;)](/wiki/europython/img/smile4.png ";)")
+[lwickjr](lwickjr) 2026-02-14 16:15:21: [LionKimbro](../people/LionKimbro): \"Parnassus\". ![;)](/wiki/europython/img/smile4.png ";)")
 
 ------------------------------------------------------------------------
 
@@ -70,19 +70,19 @@ Could someone [please] write a page on [PublishingPythonModules](PublishingPytho
 
 ## Links 
 
-[PublishingPythonModules](PublishingPythonModules) [SkipMontanaro](SkipMontanaro) [Some of my more publishable modules](lwickjr/Modules) [Vaults of Parnassus](http://py.vaults.ca/apyllo.py)
+[PublishingPythonModules](PublishingPythonModules) [SkipMontanaro](../people/SkipMontanaro) [Some of my more publishable modules](lwickjr/Modules) [Vaults of Parnassus](http://py.vaults.ca/apyllo.py)
 
 ------------------------------------------------------------------------
 
-Hi lwick, before I answer some of your questions, I\'d like you to consider [RealNamesPlease](http://c2.com/cgi/wiki?RealNamesPlease "Wiki"). It is one of our [WikiGuidelines](WikiGuidelines), and it has worked well for us so far.
+Hi lwick, before I answer some of your questions, I\'d like you to consider [RealNamesPlease](http://c2.com/cgi/wiki?RealNamesPlease "Wiki"). It is one of our [WikiGuidelines](../people/WikiGuidelines), and it has worked well for us so far.
 
-I\'m not completely sure what you mean by publishing Python modules. If you need a space to upload your Python modules, you might want to consider [StarshipPython](StarshipPython). It used to be free for PSA members, but the PSA has ceased to exist, so I guess a small donation to the [PythonSoftwareFoundation](PythonSoftwareFoundation) will do now. Would that solve your problem?
+I\'m not completely sure what you mean by publishing Python modules. If you need a space to upload your Python modules, you might want to consider [StarshipPython](../people/StarshipPython). It used to be free for PSA members, but the PSA has ceased to exist, so I guess a small donation to the [PythonSoftwareFoundation](../psf/PythonSoftwareFoundation) will do now. Would that solve your problem?
 
-\-- [JohannesGijsbers](JohannesGijsbers)
+\-- [JohannesGijsbers](../people/JohannesGijsbers)
 
 [lwickjr](lwickjr): Possibly. I\'ve written a few useful-to-me modules that I think others might also find useful. I\'d like to share them, but I am NOT on-line 24/7, and would like someone to host them for downloading. As for [WikiName](WikiName)s, would LWickJr do? If so, how do I change it?
 
-With a real name I meant the one in your passport, not capitalizing your nick into a [WikiName](WikiName). Changing it is easy: just create the new page and cut all content from this page into it. Then delete this page and log in using your new name. \-- [JohannesGijsbers](JohannesGijsbers)
+With a real name I meant the one in your passport, not capitalizing your nick into a [WikiName](WikiName). Changing it is easy: just create the new page and cut all content from this page into it. Then delete this page and log in using your new name. \-- [JohannesGijsbers](../people/JohannesGijsbers)
 
 [lwickjr](lwickjr): Don\'t have a passport. As for my \"nick\", the L is my first initial, the Wick is my family name, and the Jr is because I\'ve got the same name as my father. Isn\'t this \"real\" enough?
 
@@ -97,11 +97,11 @@ BTW, what do you think of the modules I describe [here](lwickjr/Modules)?
 
 As for publishing modules, it seems to me that we in the Python community are not yet [as organized as the Ruby community.](http://rubyforge.org/softwaremap/trove_list.php)
 
-For the most part, people set up their own website, maybe something on [SourceForge](SourceForge), get a listing on [PyPi](./PyPi.html) or the vaults (of what-I-cant-spell,) and mention it on the python-announce usenet forum.
+For the most part, people set up their own website, maybe something on [SourceForge](../people/SourceForge), get a listing on [PyPi](./PyPi.html) or the vaults (of what-I-cant-spell,) and mention it on the python-announce usenet forum.
 
 It would be a good subject for a new wiki page. I think there\'s already one that\'s started somewhere, that it would be worthwhile to revisit.
 
-\-- [LionKimbro](LionKimbro) 2005-04-01 21:16:29
+\-- [LionKimbro](../people/LionKimbro) 2005-04-01 21:16:29
 
 [lwickjr](lwickjr): Um, sorry about that. The descriptions are heavy on \*what\* the modules do, but totally void of either of how they work or why one would want to use them.
 

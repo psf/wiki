@@ -48,7 +48,7 @@ It should be possible to direct Eclipse to the on-line Jython repository at hg.p
 
 8.  At the next dialogue you may choose the \"branch\". These instructions assume you are developing on the default (tip).
 
-9.  The next operation is equivalent to an `hg update` instruction and will populate the project with files from the repository. It may take a few minutes to execute. (If it fails with a message about the server certificate, follow the advice on Subversion and SSL in [JythonDeveloperGuide](JythonDeveloperGuide).)
+9.  The next operation is equivalent to an `hg update` instruction and will populate the project with files from the repository. It may take a few minutes to execute. (If it fails with a message about the server certificate, follow the advice on Subversion and SSL in [JythonDeveloperGuide]().)
 
 10. The wizard will prompt you to import a project called \"jython-trunk\". Accept this.
 
@@ -241,7 +241,7 @@ Preserved through revert
 
 The above probably supersededes this but it\'s preserved here for now.
 
-1.  Run the checkout and ant build steps from the regular [JythonDeveloperGuide](JythonDeveloperGuide)
+1.  Run the checkout and ant build steps from the regular [JythonDeveloperGuide]()
 
 2.  In your Eclipse preferences, go to Java \> Build Path \> Classpath Variables and add a new variable named ANT_HOME that points to your ant install. That directory should have a lib/ant.jar inside of it.
 

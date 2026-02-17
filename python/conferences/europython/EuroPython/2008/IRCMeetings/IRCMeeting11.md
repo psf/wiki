@@ -35,7 +35,7 @@ Aiste, David, Paul
 
   - *Aiste, Marius, Laura:* Update on the videoconferencing arrangements. **Google has apparently taken control of this process.**
 - Sponsorship
-  - Further discussion of the [SponsorOffers](SponsorOffers) document.
+  - Further discussion of the [SponsorOffers](../../../../../people/SponsorOffers) document.
 
   - Brief discussion of existing offers from sponsors.
 

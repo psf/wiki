@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-At [PyCon](PyCon) 2009, Steve Holden suggested building a microsite for people who wish to learn Python.
+At [PyCon](../../conferences/pycon/PyCon) 2009, Steve Holden suggested building a microsite for people who wish to learn Python.
 
-We already have [BeginnersGuide](BeginnersGuide), but it\'s buried in the wiki and is pretty dense text. This microsite would have a cleaner design and fewer links.
+We already have [BeginnersGuide](../../getting-started/BeginnersGuide), but it\'s buried in the wiki and is pretty dense text. This microsite would have a cleaner design and fewer links.
 
 ## Possible names 
 
@@ -20,7 +20,7 @@ Vote here:
 - Python from scratch \[\]
 - Python for beginners \[\]
 
-(Note: I ([MichaelFoord](MichaelFoord)) own the domain startingpython.org and would be happy to donate the domain to the PSF or administer it for this site.)
+(Note: I ([MichaelFoord](../../people/MichaelFoord)) own the domain startingpython.org and would be happy to donate the domain to the PSF or administer it for this site.)
 
 We should probably avoid \'Learning Python\', since that\'s an O\'Reilly book title. Likewise there is a book called \'Beginning Python\'.
 

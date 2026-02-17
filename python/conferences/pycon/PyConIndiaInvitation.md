@@ -18,7 +18,7 @@ Pycon India 2009 is a community conference by the Indian Python user and develop
 
 ## Who\'s organizing? 
 
-The conference will be run by the [PyCon](PyCon) India Society, which is being set up specially for this and future conferences.The Conference and Society have been initiated by [BangPypers](BangPypers) - the Bangalore Python User Group and welcomes Python programmers from other parts of the country to join in. At present python enthusiasts from around the country are working together to organise the conference. There is a mailing list at [inpycon@pycon.org](mailto:inpycon@pycon.org) which is the primary forum for organising this.
+The conference will be run by the [PyCon](PyCon) India Society, which is being set up specially for this and future conferences.The Conference and Society have been initiated by [BangPypers](../../community/BangPypers) - the Bangalore Python User Group and welcomes Python programmers from other parts of the country to join in. At present python enthusiasts from around the country are working together to organise the conference. There is a mailing list at [inpycon@pycon.org](mailto:inpycon@pycon.org) which is the primary forum for organising this.
 
 ## When? 
 

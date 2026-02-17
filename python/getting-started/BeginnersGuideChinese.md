@@ -22,11 +22,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 它用来读取Python程序并执行指令：在进行任何Python编程前你需要准备好它。
 
-目前Python有两个主要版本：Python 2和Python 3。根据[Python2orPython3](Python2orPython3) 页面提供的建议，你可以决定哪个版本最适合你。在撰写本文时（2010年6月21号），以下内容假设你决定使用Python 2。
+目前Python有两个主要版本：Python 2和Python 3。根据[Python2orPython3](../py3/Python2orPython3) 页面提供的建议，你可以决定哪个版本最适合你。在撰写本文时（2010年6月21号），以下内容假设你决定使用Python 2。
 
 查看文章 [BeginnersGuide/Download](BeginnersGuide/Download)，按步骤下载正确的Python版本。
 
-在某些阶段，你想编辑并保存你的程序代码，可以看一下 [HowToEditPythonCode](HowToEditPythonCode) 以听取一些意见和推荐方法。
+在某些阶段，你想编辑并保存你的程序代码，可以看一下 [HowToEditPythonCode](../guides/HowToEditPythonCode) 以听取一些意见和推荐方法。
 
 ## 学习Python 
 
@@ -44,19 +44,19 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 当你读完教程后，可以浏览[Python在线文档](http://docs.python.org)。它包括：有用的[a tutorial](http://docs.python.org/tut/)，[a Library Reference](http://docs.python.org//lib/)详列了Python的标准库中的模块和\[\[[http://docs.python.org/ref/\|the](http://docs.python.org/ref/%7Cthe) Language Reference\]介绍了Python语法的完整解释（有些枯燥）
 
-在准备写第一个程序前，你需要一个文本编辑器。开始时使用任何你熟悉的编辑器（用记事本也可以）-但当你有经验后，你会想使用带有Python编程辅助功能的文本编辑器。参考 [PythonEditors](PythonEditors) ，里面包含了一个软件列表，介绍各种方便Python代码编辑功能的编辑器软件。
+在准备写第一个程序前，你需要一个文本编辑器。开始时使用任何你熟悉的编辑器（用记事本也可以）-但当你有经验后，你会想使用带有Python编程辅助功能的文本编辑器。参考 [PythonEditors](../editors/PythonEditors) ，里面包含了一个软件列表，介绍各种方便Python代码编辑功能的编辑器软件。
 
 ## 需要帮助吗? 
 
 需要一些帮助吗？加入邮件列表和新闻组，阅读 [BeginnersGuide/Help](BeginnersGuide/Help)。
 
-绝大多数的Python书籍会包含Python语言的介绍：请查看 [IntroductoryBooks](IntroductoryBooks)中的建议。
+绝大多数的Python书籍会包含Python语言的介绍：请查看 [IntroductoryBooks](../books/IntroductoryBooks)中的建议。
 
 参考[BeginnersGuide/Examples](BeginnersGuide/Examples)，里面的简单程序和代码片段会对你的学习有帮助。
 
 或者，如果你喜欢通过听课的方式学习Python，你可以参加培训课或请一位培训老师到你公司上课。
 
-参考 [PythonEvents](PythonEvents) 页面看在当地有无定期的培训课程，在[PythonTraining](PythonTraining)页面有培训老师列表。
+参考 [PythonEvents](../conferences/regional/PythonEvents) 页面看在当地有无定期的培训课程，在[PythonTraining](../archive/PythonTraining)页面有培训老师列表。
 
 老师可以加入 [EDU-SIG](http://www.python.org/sigs/edu-sig/)，在该邮件列表中讨论如何教从K-12到大学的各种水平的学生来应用Python。
 

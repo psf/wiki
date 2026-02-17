@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## See Also 
 
-- [SubclassingDictionaries](SubclassingDictionaries)
+- [SubclassingDictionaries](../people/SubclassingDictionaries)
 
 # Discussion 
 
@@ -28,7 +28,7 @@ What do people do about this?
 
 Because I read all these things saying, \"Don\'t use `type`!\" \"Don\'t use `isInstance`!\" But I don\'t see much in the way of what *to* use.
 
-\-- [LionKimbro](LionKimbro) 2004-09-12 17:10:47
+\-- [LionKimbro](../people/LionKimbro) 2004-09-12 17:10:47
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ If you want to make something that\'s functionally *like* an int, can you get ar
 
 Maybe I have the wrong page title; Maybe this shouldn\'t be called \"SubclassingBuiltInTypes,\" but rather \"[SimulatingBuiltInTypes](./SimulatingBuiltInTypes.html).\"
 
-\-- [LionKimbro](LionKimbro) 2004-09-13 00:00:50
+\-- [LionKimbro](../people/LionKimbro) 2004-09-13 00:00:50

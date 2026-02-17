@@ -78,7 +78,7 @@ The following groups of modules may intentionally provide similar functionality 
 
 - hashlib, hmac, md5, sha (common theme: cryptography)
 
-- mailcap, robotparser, netrc, [ConfigParser](ConfigParser) (common theme: configuration, albeit with specific and generic cases)
+- mailcap, robotparser, netrc, [ConfigParser](../../../language/ConfigParser) (common theme: configuration, albeit with specific and generic cases)
 
 Modules in the above groups would be placed in intuitively named packages, possibly with improved names.
 
@@ -299,7 +299,7 @@ The most natural starting point for the definition of a restructured standard li
 
   - netrc
 
-  - generic (replaces [ConfigParser](ConfigParser))
+  - generic (replaces [ConfigParser](../../../language/ConfigParser))
 
   - robots (replaces robotparser)
 
@@ -384,30 +384,30 @@ The current standard library has a sys package along with other auxilliary packa
 
 ## Editorial Notes 
 
-This is currently a draft, featuring a number of points that should be discussed rather than being interpreted as a final opinion or a final set of recommendations. \-- [PaulBoddie](PaulBoddie)
+This is currently a draft, featuring a number of points that should be discussed rather than being interpreted as a final opinion or a final set of recommendations. \-- [PaulBoddie](../../../people/PaulBoddie)
 
 ## Open Issues 
 
-1.  Should there be a top-level package representing the entire standard distribution, e.g., \"std\"? `from std.database import anydbm` \-- [SkipMontanaro](SkipMontanaro)
+1.  Should there be a top-level package representing the entire standard distribution, e.g., \"std\"? `from std.database import anydbm` \-- [SkipMontanaro](../../../people/SkipMontanaro)
 
-    - *I think the proposed hierarchy (which is obviously tentative) should be at the top level, although the risk of name collisions with independent packages and the issue of how \"selfish\" the standard library should be ought to be worked out.* \-- [PaulBoddie](PaulBoddie)
+    - *I think the proposed hierarchy (which is obviously tentative) should be at the top level, although the risk of name collisions with independent packages and the issue of how \"selfish\" the standard library should be ought to be worked out.* \-- [PaulBoddie](../../../people/PaulBoddie)
 
-    - *It\'s not obvious to me that putting all these package at the top level will improve matters significantly. On the one hand, people have been living with the current flat standard module namespace and using names that avoid collisions. By creating a bunch of top-level packages that avoid the current names you run the risk of stomping on names others have selected for their own use (text, config, audio, image, database all seem like names people might have chosen). By giving Python its own one package namespace you avoid most of that.* \-- [SkipMontanaro](SkipMontanaro)
+    - *It\'s not obvious to me that putting all these package at the top level will improve matters significantly. On the one hand, people have been living with the current flat standard module namespace and using names that avoid collisions. By creating a bunch of top-level packages that avoid the current names you run the risk of stomping on names others have selected for their own use (text, config, audio, image, database all seem like names people might have chosen). By giving Python its own one package namespace you avoid most of that.* \-- [SkipMontanaro](../../../people/SkipMontanaro)
 
-    - *It\'s a trade-off to avoid Java-style deep hierarchies: we could move the xml package up out of the text package, but would we then want it under std? Perhaps a conservative set of names is best: put client and server under net, for example, but reserve things like audio and image. I suspect that generic standard library names are least likely to collide with published packages (and only config from the suggested names seems to do so), and there\'s an argument that the standard library provides definitive answers: the archive package is **the** archive package for Python. Would prefixing such solutions with std not add \"conceptual boilerplate\"?* \-- [PaulBoddie](PaulBoddie)
+    - *It\'s a trade-off to avoid Java-style deep hierarchies: we could move the xml package up out of the text package, but would we then want it under std? Perhaps a conservative set of names is best: put client and server under net, for example, but reserve things like audio and image. I suspect that generic standard library names are least likely to collide with published packages (and only config from the suggested names seems to do so), and there\'s an argument that the standard library provides definitive answers: the archive package is **the** archive package for Python. Would prefixing such solutions with std not add \"conceptual boilerplate\"?* \-- [PaulBoddie](../../../people/PaulBoddie)
 
     - *Would it make any sense to have a few top-level slots for people\'s packages? Things like \"pypi\" and \"local\" or \"optlib\", \"ext\" and \"user\" (or \"spkg\" only), so that non-std packages (which I assume will be less used than the standard lib) carry the burden of deep hierarchies. It would also allow for easy hooks for some \"separated Python environments\" functionality and would extend the organization down to site-packages (e.g. PIL and numpy are de facto \"optlib\", my own dirty scripts are \"local\" or \"trash\"). And if someone really needs some special module in the top-level, a simple **mv** hack should be enough.* \-- ajaksu
 
-    - *The danger of having user, local, trash and other subjective packages is that as soon as you promote your work to something non-dirty, you have to go and change all the imports. And people are likely to forget to do this when releasing their code, too. Of course, definitive naming in the Java world involves strict hierarchies which use Internet domains (apart from Sun\'s stuff, understandably, and Oracle\'s stuff, not so understandably), but this just produces long branches. I guess people would just have to do due diligence before choosing names, but this isn\'t a different situation to what we have now. Still, \"non-functional\" categories at the top-level is an interesting idea.* \-- [PaulBoddie](PaulBoddie)
+    - *The danger of having user, local, trash and other subjective packages is that as soon as you promote your work to something non-dirty, you have to go and change all the imports. And people are likely to forget to do this when releasing their code, too. Of course, definitive naming in the Java world involves strict hierarchies which use Internet domains (apart from Sun\'s stuff, understandably, and Oracle\'s stuff, not so understandably), but this just produces long branches. I guess people would just have to do due diligence before choosing names, but this isn\'t a different situation to what we have now. Still, \"non-functional\" categories at the top-level is an interesting idea.* \-- [PaulBoddie](../../../people/PaulBoddie)
 
-2.  Should client and server be under net? Would this be too much of the obvious? \-- [PaulBoddie](PaulBoddie)
+2.  Should client and server be under net? Would this be too much of the obvious? \-- [PaulBoddie](../../../people/PaulBoddie)
 
-3.  Should encodings be under text or merged with text? \-- [PaulBoddie](PaulBoddie)
+3.  Should encodings be under text or merged with text? \-- [PaulBoddie](../../../people/PaulBoddie)
 
-4.  Is the io package too weak? Things like XML parsers do I/O and they\'re probably best in the text package (or their own top-level package). \-- [PaulBoddie](PaulBoddie)
+4.  Is the io package too weak? Things like XML parsers do I/O and they\'re probably best in the text package (or their own top-level package). \-- [PaulBoddie](../../../people/PaulBoddie)
 
-    - *I question whether the xml package belongs in text. Lots of people use XML for stuff other than HTML on steroids.* \-- [SkipMontanaro](SkipMontanaro)
+    - *I question whether the xml package belongs in text. Lots of people use XML for stuff other than HTML on steroids.* \-- [SkipMontanaro](../../../people/SkipMontanaro)
 
-    - *Yes, it\'s something which is potentially important enough to have its own category.* \-- [PaulBoddie](PaulBoddie)
+    - *Yes, it\'s something which is potentially important enough to have its own category.* \-- [PaulBoddie](../../../people/PaulBoddie)
 
-5.  Are the io package and files package too close in purpose? Could things like tempfile (with a nicer API) be part of the files package? \-- [PaulBoddie](PaulBoddie)
+5.  Are the io package and files package too close in purpose? Could things like tempfile (with a nicer API) be part of the files package? \-- [PaulBoddie](../../../people/PaulBoddie)

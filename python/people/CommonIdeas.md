@@ -17,7 +17,7 @@ This page lists ideas that have been discussed frequently or at great length. It
 
 Commonly proposed ideas:
 
-- [Multi-line anonymous function](MultiLineLambda)
+- [Multi-line anonymous function](../archive/MultiLineLambda)
 
 - [OrderedSet](./OrderedSet.html)
 

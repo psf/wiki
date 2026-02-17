@@ -16,9 +16,9 @@ This year, I\'d like to collaborate on building a new and cool application *with
 
 - If you aren\'t planning to be available for all four days of the sprint, please note which days you will be around next to your name.
 
-- [MichaelBernstein](MichaelBernstein)
+- [MichaelBernstein](../people/MichaelBernstein)
 
-- [AndyDustman](AndyDustman)
+- [AndyDustman](../people/AndyDustman)
 
 - (add your name here)
 
@@ -61,7 +61,7 @@ Ideally, the app should be one we can credibly complete in four days time, with 
 
     7.  Make it scale.
 
-        \-- [AndyDustman](AndyDustman)
+        \-- [AndyDustman](../people/AndyDustman)
 
 - A discussion board (the Zope 3 programmers guide already [implements one](http://svn.zope.org/messageboard/))
 

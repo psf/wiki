@@ -20,7 +20,7 @@ This page explains how to use the Python bug tracker:
 
 ### Reporting 
 
-Check the [SubmittingBugs](SubmittingBugs) page for an overview of the bug reporting process. In a nutshell, it\'s more important to provide a good description of the issue than it is to set all fields and options correctly. Understanding the usual [Issue Workflow](http://www.python.org/dev/workflow/) also helps in creating good bug reports, raising the chances of your bug report (or feature request) being resolved efficiently.
+Check the [SubmittingBugs](../people/SubmittingBugs) page for an overview of the bug reporting process. In a nutshell, it\'s more important to provide a good description of the issue than it is to set all fields and options correctly. Understanding the usual [Issue Workflow](http://www.python.org/dev/workflow/) also helps in creating good bug reports, raising the chances of your bug report (or feature request) being resolved efficiently.
 
 ### Fixing and triaging 
 
@@ -131,9 +131,9 @@ For information on how to setup your own instance of the python tracker to help 
 
 # Logging into Roundup with your SourceForge account 
 
-If you have ever used your [SourceForge](SourceForge) account on the old Python bug tracker, you also have a Roundup account. If you have never submitted a bug to the Python bug tracker, read [SubmittingBugs](SubmittingBugs).
+If you have ever used your [SourceForge](../people/SourceForge) account on the old Python bug tracker, you also have a Roundup account. If you have never submitted a bug to the Python bug tracker, read [SubmittingBugs](../people/SubmittingBugs).
 
-To get your new Roundup password, you need to go through the \"forgotten password\" procedure (we don\'t have access to your [SourceForge](SourceForge) password). On the tracker, go to [\"Lost your login?\"](http://bugs.python.org/user?@template=forgotten), and enter your SF username into the Username field.
+To get your new Roundup password, you need to go through the \"forgotten password\" procedure (we don\'t have access to your [SourceForge](../people/SourceForge) password). On the tracker, go to [\"Lost your login?\"](http://bugs.python.org/user?@template=forgotten), and enter your SF username into the Username field.
 
 This will send you an email (Confirm reset of password for Tracker), where you need to follow the link. You will get another email (Password reset for tracker) which contains the new password. The two-email procedure prevents somebody else maliciously resetting your password.
 
@@ -141,7 +141,7 @@ You then might want to change your password. You can also change the email addre
 
 # About Differences between SF and Roundup 
 
-[Roundup](http://roundup.sourceforge.net/) is not hugely different from [SourceForge](SourceForge) in terms of usage. Because the initial transition is mostly for resource reasons (i.e., to control our own tracker), the information presented for issues is almost identical to what the SF tracker had.
+[Roundup](http://roundup.sourceforge.net/) is not hugely different from [SourceForge](../people/SourceForge) in terms of usage. Because the initial transition is mostly for resource reasons (i.e., to control our own tracker), the information presented for issues is almost identical to what the SF tracker had.
 
 The largest change people will notice, though, are the additions of some Roundup-specific fields. Those are denoted with **NEW** in their descriptions below. All of them help with the management of bugs and thus should be used when possible and even filled in on existing issues brought over from SF.
 

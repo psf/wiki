@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **\"Code tags\"** are defined in [PEP-0350.](http://www.python.org/peps/pep-0350.html)
 
-It standardizes code tags like \"FIXME\" and \"TODO\" and \"DOC\" and stuff like that, and you might consider it part of [PythonStyle](PythonStyle).
+It standardizes code tags like \"FIXME\" and \"TODO\" and \"DOC\" and stuff like that, and you might consider it part of [PythonStyle](../archive/PythonStyle).
 
 - [CodeTag wiki](http://tracos.org/codetag/)
 

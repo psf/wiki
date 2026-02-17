@@ -36,11 +36,11 @@ PSF Sponsor Members ===================
 
 The PSF would not be possible without the generous financial help of the following `sponsor members <sponsorship>`{.backtick}\_:
 
-.. \|[ActiveState](ActiveState)\| image:: /images/activestate_logo.gif
+.. \|[ActiveState](../platforms/ActiveState)\| image:: /images/activestate_logo.gif
 
 - :height: 53 :width: 150
 
-  :alt: [ActiveState](ActiveState) logo :align: middle :target: [http://www.activestate.com](http://www.activestate.com)
+  :alt: [ActiveState](../platforms/ActiveState) logo :align: middle :target: [http://www.activestate.com](http://www.activestate.com)
 
 .. \|ASTI\| image:: /images/astilogo.gif
 
@@ -174,7 +174,7 @@ The PSF would not be possible without the generous financial help of the followi
 
   :target: [http://www.zope.com](http://www.zope.com)
 
-\|[ActiveState](ActiveState)\| `ActiveState <http://www.activestate.com>`{.backtick}\_ \*(founding sponsor)\*
+\|[ActiveState](../platforms/ActiveState)\| `ActiveState <http://www.activestate.com>`{.backtick}\_ \*(founding sponsor)\*
 
 \|ASTI\| `Advanced Simulation Technology Inc. (ASTi) <http://www.asti-usa.com>`{.backtick}\_
 

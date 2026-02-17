@@ -31,7 +31,7 @@ Paul, David, Christian, Marius, Carl, Stephan
 
   - *Marius, Laura:* Update on the videoconferencing arrangements. **Guido has apparently been in direct contact with the hotel\'s contact.**
 
-  - *Christian* will report back about copyright assignment forms for filmed contributors. **A discussion took place, with the conclusion being that it would be much easier (based on Carl Karsten\'s [PyCon](PyCon) experiences) to get permission when talks are submitted. A Creative Commons BY-NC-SA licence was proposed. Later discussion focused on the possibility to add an item to the registration form saying that people agreed to the recording policy, thus potentially covering lightning talks, too.**
+  - *Christian* will report back about copyright assignment forms for filmed contributors. **A discussion took place, with the conclusion being that it would be much easier (based on Carl Karsten\'s [PyCon](../../../../pycon/PyCon) experiences) to get permission when talks are submitted. A Creative Commons BY-NC-SA licence was proposed. Later discussion focused on the possibility to add an item to the registration form saying that people agreed to the recording policy, thus potentially covering lightning talks, too.**
 - Registration/Budget
   - *Aiste/Laura/Jacob* to report on the progress of the budget and fees.
 
@@ -43,7 +43,7 @@ Paul, David, Christian, Marius, Carl, Stephan
 - Sponsorship
   - *Aiste* to provide information on venue costs (booths, streamers, etc.) in order to help with sponsor rate planning.
 
-  - Further discussion of the [SponsorOffers](SponsorOffers) document.
+  - Further discussion of the [SponsorOffers](../../../../../people/SponsorOffers) document.
 
   - Further discussion of the sponsorship of attendees (plus any information that should be published).
 - General discussion (if necessary)

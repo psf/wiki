@@ -68,7 +68,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The [PyQt Wiki pages](PyQt) aim to provide tutorials and sample code for PyQt4.
 
-An [overview of PyQt4](http://indico.cern.ch/contributionDisplay.py?contribId=33&sessionId=41&confId=44) was presented at [EuroPython](EuroPython) 2006.
+An [overview of PyQt4](http://indico.cern.ch/contributionDisplay.py?contribId=33&sessionId=41&confId=44) was presented at [EuroPython](../conferences/europython/EuroPython) 2006.
 
 An introduction to using [PyQt4 with Qt Designer](http://www.diotavelli.net/PyQtWiki/Creating_GUI_Applications_with_PyQt_and_Qt_Designer) for the development of GUI applications was given at [PyCon UK 2007](http://www.pyconuk.org).
 

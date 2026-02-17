@@ -20,7 +20,7 @@ Please contact [Sue@ewtllc.com](mailto:Sue@ewtllc.com) or 310-595-0115 with ANY 
 
 - Jack Diederich Iceland Air 630 out of Logan, 9:30pm Sat. Redhead, good luck picking which one out of Boston (new Python logo on laptop, if showing).
 
-- [SeanReifschneider](SeanReifschneider), Saturday May 20, arrive in Boston at 6:10, leave on Icelandair flight 630 at 9:30pm. See my page here (link at left) for a photo. My laptop says \"I Miss Freedom\".
+- [SeanReifschneider](../../people/SeanReifschneider), Saturday May 20, arrive in Boston at 6:10, leave on Icelandair flight 630 at 9:30pm. See my page here (link at left) for a photo. My laptop says \"I Miss Freedom\".
 
 - Bob Ippolito
 
@@ -30,7 +30,7 @@ Please contact [Sue@ewtllc.com](mailto:Sue@ewtllc.com) or 310-595-0115 with ANY 
 
 - Georg Brandl
 
-- [RichardJones](RichardJones), 1:00 PM Icelandair flight from Heathrow on the 21st. My page here (link at left) has a recent photo. Looks like I might catch people at Keflavik (those arriving around 3:00pm).
+- [RichardJones](../../people/RichardJones), 1:00 PM Icelandair flight from Heathrow on the 21st. My page here (link at left) has a recent photo. Looks like I might catch people at Keflavik (those arriving around 3:00pm).
 
 IF SOMEONE IS MISSING E-MAIL [sue@ewtllc.com](mailto:sue@ewtllc.com)
 

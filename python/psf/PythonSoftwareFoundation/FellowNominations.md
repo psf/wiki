@@ -18,7 +18,7 @@ Please add new nominations here and also post them to the psf-members mailing li
 
 ### Example Entry: Joe User 
 
-I, John Doe, propose that Joe User be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a co-founder of the [PyCon](PyCon) Foobar regional conference, a lead organizer for the 2011 and 2012 editions of the Marsian Python community\'s flagship Python conference, [MarsPython](./MarsPython.html) and as a long-term contributor to international collaborative efforts amongst the Marsian Python community.
+I, John Doe, propose that Joe User be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a co-founder of the [PyCon](../../conferences/pycon/PyCon) Foobar regional conference, a lead organizer for the 2011 and 2012 editions of the Marsian Python community\'s flagship Python conference, [MarsPython](./MarsPython.html) and as a long-term contributor to international collaborative efforts amongst the Marsian Python community.
 
 ## 2025 Q4 Nominations 
 
@@ -38,17 +38,17 @@ All the above efforts have led to a much wider adoption of Python within the ban
 
 I, Noa Tamir, propose that Inessa Pawson be recognized as a Fellow of the Python Software Foundation, due to her significant and consistent contributions to the Python community as:
 
-\- [NumPy](NumPy) Steering Council member (2021 - present) and key contributor (2019 - present) - Scientific Python Project SPEC Steering Committee member and contributor (2022 - present) - Maintainers Summit at [PyCon](PyCon) US organizer (2020 - present) - [SciPy](SciPy) conference organizer (2020 - present) - [PyLadies](./PyLadies.html) South Florida founder and organizer (2019 - present) - PySWFL founder and organizer (2020 - present) - pyOpenSci Advisory Board member (2023 - present) - CHAOSS Science and Research Working Group co-chair (2023 - present)
+\- [NumPy](../../science/NumPy) Steering Council member (2021 - present) and key contributor (2019 - present) - Scientific Python Project SPEC Steering Committee member and contributor (2022 - present) - Maintainers Summit at [PyCon](../../conferences/pycon/PyCon) US organizer (2020 - present) - [SciPy](SciPy) conference organizer (2020 - present) - [PyLadies](./PyLadies.html) South Florida founder and organizer (2019 - present) - PySWFL founder and organizer (2020 - present) - pyOpenSci Advisory Board member (2023 - present) - CHAOSS Science and Research Working Group co-chair (2023 - present)
 
-Her contributions and achievements were previously recognized by: 2019 [NumPy](NumPy) New Contributor Award 2024 NumFOCUS Community Leadership Award
+Her contributions and achievements were previously recognized by: 2019 [NumPy](../../science/NumPy) New Contributor Award 2024 NumFOCUS Community Leadership Award
 
 ### Mia Bajić 
 
 *Selected in Q4 of 2025*
 
-I, Cristián Maureira-Fredes, nominate Mia Bajić for her exhaustive contributions to the Python community, specifically focusing on the Czechia community and [EuroPython](EuroPython) conference. Mia has been the main organizer of the Prague Python meetups since 2021, organized a Python Pizza event in 2024, and was in charge of many tasks during [PyCon](PyCon) CZ 2023 including speaker management, media communications, and web development. Mia also joined the [EuroPython](EuroPython) conference as an organizer in 2023, 2024 and 2025, taking care of [PyLadies](./PyLadies.html) events,workshops, speaker dinner, communication, design, programme, and many more things. She joined the [EuroPython](EuroPython) Society board in 2024 and has been there since.
+I, Cristián Maureira-Fredes, nominate Mia Bajić for her exhaustive contributions to the Python community, specifically focusing on the Czechia community and [EuroPython](../../conferences/europython/EuroPython) conference. Mia has been the main organizer of the Prague Python meetups since 2021, organized a Python Pizza event in 2024, and was in charge of many tasks during [PyCon](../../conferences/pycon/PyCon) CZ 2023 including speaker management, media communications, and web development. Mia also joined the [EuroPython](../../conferences/europython/EuroPython) conference as an organizer in 2023, 2024 and 2025, taking care of [PyLadies](./PyLadies.html) events,workshops, speaker dinner, communication, design, programme, and many more things. She joined the [EuroPython](../../conferences/europython/EuroPython) Society board in 2024 and has been there since.
 
-Besides all the organizing she is doing, she has been also a speaker in many conferences including [PyCon](PyCon) US, [PyCon](PyCon) UK, [PyCon](PyCon) FR, [PyCon](PyCon) Namibia, [PyCon](PyCon) IE, [PyCon](PyCon) CZ, [EuroPython](EuroPython), and many others.
+Besides all the organizing she is doing, she has been also a speaker in many conferences including [PyCon](../../conferences/pycon/PyCon) US, [PyCon](../../conferences/pycon/PyCon) UK, [PyCon](../../conferences/pycon/PyCon) FR, [PyCon](../../conferences/pycon/PyCon) Namibia, [PyCon](../../conferences/pycon/PyCon) IE, [PyCon](../../conferences/pycon/PyCon) CZ, [EuroPython](../../conferences/europython/EuroPython), and many others.
 
 Mia is a person focused on having a conference that includes many people, paying attention on how to push for underrepresented groups in different communities, and highlighting people that deserve some recognition. She is very good at taking ownership and being accountable for all her responsibilities, which is not a very common trait in the different communities that I have been around.
 
@@ -196,7 +196,7 @@ Serving as a technical reviewer and contributor to Python books such as Function
 
 Delivering Python training to engineering faculty and students across India, as well as organizing Python workshops for corporate developers between 2015 and 2022.
 
-Serving as a speaker at international Python conferences, including [PyCon](PyCon) Italy and [PyCon](PyCon) X (Europe), where his sessions were top-rated by attendees.
+Serving as a speaker at international Python conferences, including [PyCon](../../conferences/pycon/PyCon) Italy and [PyCon](../../conferences/pycon/PyCon) X (Europe), where his sessions were top-rated by attendees.
 
 Founding and organizing the Python Penang Meetup (Malaysia, 2019--2022) and volunteering with AI Saturdays to evangelize Python in real-world AI/ML projects.
 
@@ -240,9 +240,9 @@ Personally for me Alex became the first python tutor and first CTO. He helped me
 
 *Selected in Q3 of 2025*
 
-I, George Hickman, would like to nominate Becky Smith be recognised as a Fellow of the PSF, due to her significant contributions to Python, specifically in the event space. Becky is serving as conference director for [PyCon](PyCon) UK 2025, has been a trustee of the UK Python Association since 2019, was \[co-\]director of [DjangoCon](./DjangoCon.html) Europe 2023, and has organised [PyLadies](./PyLadies.html) and Django Girls events.
+I, George Hickman, would like to nominate Becky Smith be recognised as a Fellow of the PSF, due to her significant contributions to Python, specifically in the event space. Becky is serving as conference director for [PyCon](../../conferences/pycon/PyCon) UK 2025, has been a trustee of the UK Python Association since 2019, was \[co-\]director of [DjangoCon](./DjangoCon.html) Europe 2023, and has organised [PyLadies](./PyLadies.html) and Django Girls events.
 
-I do not think the UK Python community would be where it is today without Becky\'s continued work to keep events like [PyCon](PyCon) UK running.
+I do not think the UK Python community would be where it is today without Becky\'s continued work to keep events like [PyCon](../../conferences/pycon/PyCon) UK running.
 
 ### Chandrani Mukherjee 
 
@@ -268,7 +268,7 @@ I, Manabu Terada, a Fellow of the Python Software Foundation, nominate Maaya Ish
 
 I would like to wholeheartedly support the nomination of Maaya Ishida as a Fellow of the Python Software Foundation. Maaya Ishida is a recipient of the Outstanding [PyLady](./PyLady.html) Award, a recognition given to individuals who have made exceptional contributions to the [PyLadies](./PyLadies.html) community. This honor alone speaks volumes about her long-standing dedication to promoting diversity and inclusion within the Python ecosystem.
 
-I have observed Maaya's continuous and meaningful contributions to the Python community in Japan and across Asia. What makes her contributions remarkable is her dedication to inclusion and outreach. Through [PyLadies](./PyLadies.html) Tokyo and the [PyLadies](./PyLadies.html) Caravan initiative, she has gone far beyond urban centers to empower underrepresented Python users and women in tech in regional areas. This work is both logistically and emotionally demanding, and yet Maaya has continued this mission for many years with sincerity and commitment. In addition to her outreach work, Maaya has been a dependable part of the [PyCon](PyCon) JP community. She contributes not only as a volunteer but also as a bridge between communities, especially among women in Python. Her efforts in connecting with the wider APAC [PyLadies](./PyLadies.html) communities have helped build stronger, more diverse networks throughout the region.
+I have observed Maaya's continuous and meaningful contributions to the Python community in Japan and across Asia. What makes her contributions remarkable is her dedication to inclusion and outreach. Through [PyLadies](./PyLadies.html) Tokyo and the [PyLadies](./PyLadies.html) Caravan initiative, she has gone far beyond urban centers to empower underrepresented Python users and women in tech in regional areas. This work is both logistically and emotionally demanding, and yet Maaya has continued this mission for many years with sincerity and commitment. In addition to her outreach work, Maaya has been a dependable part of the [PyCon](../../conferences/pycon/PyCon) JP community. She contributes not only as a volunteer but also as a bridge between communities, especially among women in Python. Her efforts in connecting with the wider APAC [PyLadies](./PyLadies.html) communities have helped build stronger, more diverse networks throughout the region.
 
 I strongly believe that Maaya Ishida's contributions deserve to be recognized with the PSF Fellow award.
 
@@ -330,7 +330,7 @@ He is also active in the community itself, serving on the Django Software Founda
 
 I, Hynek Schlawack, would like to nominate Becky and Mark Smith (aka judy2k) as fellows of the PSF.
 
-Both have been active members of the Python community for at least a decade, but mostly silently in the background. They've run at least one [DjangoCon](./DjangoCon.html) Europe: [https://2023.djangocon.eu/organisers/](https://2023.djangocon.eu/organisers/) been involved in the Edinburgh edition of [EuroPython](EuroPython) and are now running [PyCon](PyCon) UK after taking over the chair: [https://2025.pyconuk.org/contact/](https://2025.pyconuk.org/contact/) As I have witnessed first-hand, they were heavily involved in earlier editions too.
+Both have been active members of the Python community for at least a decade, but mostly silently in the background. They've run at least one [DjangoCon](./DjangoCon.html) Europe: [https://2023.djangocon.eu/organisers/](https://2023.djangocon.eu/organisers/) been involved in the Edinburgh edition of [EuroPython](../../conferences/europython/EuroPython) and are now running [PyCon](../../conferences/pycon/PyCon) UK after taking over the chair: [https://2025.pyconuk.org/contact/](https://2025.pyconuk.org/contact/) As I have witnessed first-hand, they were heavily involved in earlier editions too.
 
 Both have also been involved in outreach activities like [DjangoGirls](./DjangoGirls.html) workshops. Becky has even founded [PyLadies](./PyLadies.html) Edinburgh and [DjangoGirls](./DjangoGirls.html) Edinburgh: [https://blog.djangogirls.org/post/99309948348/your-django-story-meet-becky-smith](https://blog.djangogirls.org/post/99309948348/your-django-story-meet-becky-smith)
 
@@ -386,7 +386,7 @@ In 2017 I was a Sr Data Analyst at [YouGov](./YouGov.html) programming in R for 
 
 ### Kalyan Prasad 
 
-I, Cheuk Ting Ho, PSF director and fellow would like to express my support for fellow application of Kalyan Prasad. Kalyan has been an active contributor in the India community for years and has been actively organising local conferences. Besides conference organisation, he has also been pushing for diversity and inclusion in his community. He has mentored other speakers and has been involved in CoC responses for conferences and [NumFocus](./NumFocus.html). His contributions are not limited locally, he has been helping other conferences such as [PyCon](PyCon) JP and [PyData](./PyData.html) Global. I think he would be a great addition to the PSF fellows and the PSF can benefit from his community contributions.
+I, Cheuk Ting Ho, PSF director and fellow would like to express my support for fellow application of Kalyan Prasad. Kalyan has been an active contributor in the India community for years and has been actively organising local conferences. Besides conference organisation, he has also been pushing for diversity and inclusion in his community. He has mentored other speakers and has been involved in CoC responses for conferences and [NumFocus](./NumFocus.html). His contributions are not limited locally, he has been helping other conferences such as [PyCon](../../conferences/pycon/PyCon) JP and [PyData](./PyData.html) Global. I think he would be a great addition to the PSF fellows and the PSF can benefit from his community contributions.
 
 ### Karen Dalton 
 
@@ -410,9 +410,9 @@ Laís has made significant contributions to the Python community as an organizer
 
 - Former committee/board member of Python Ireland
 
-  Long-term organizing volunteer and emeritus board member of the [EuroPython](EuroPython) Society Co-organizer of the Pyjamas Conferences Co-organizer of the first edition of [FlaskCon](./FlaskCon.html) Frequent organizer and community leader of [PyLadies](./PyLadies.html) Dublin Organizer of Django Girls workshops Mentoring a lot of beginning Python developers at Humble Data workshops
+  Long-term organizing volunteer and emeritus board member of the [EuroPython](../../conferences/europython/EuroPython) Society Co-organizer of the Pyjamas Conferences Co-organizer of the first edition of [FlaskCon](./FlaskCon.html) Frequent organizer and community leader of [PyLadies](./PyLadies.html) Dublin Organizer of Django Girls workshops Mentoring a lot of beginning Python developers at Humble Data workshops
 
-In addition, I\'ve seen firsthand how Laís stepped up for the European Python community when it was dearly needed. When the board struggled, Laís went beyond what you may expect of a volunteer board member. Without her tremendous efforts and personal sacrifices, I do not think [EuroPython](EuroPython) 2024 would have been the success it was or would even have gone forward at all.
+In addition, I\'ve seen firsthand how Laís stepped up for the European Python community when it was dearly needed. When the board struggled, Laís went beyond what you may expect of a volunteer board member. Without her tremendous efforts and personal sacrifices, I do not think [EuroPython](../../conferences/europython/EuroPython) 2024 would have been the success it was or would even have gone forward at all.
 
 Laís brings people and communities together, including in her activities for [PyLadies](./PyLadies.html), black Python devs, and other underrepresented groups. In 2024, Laís was awarded the Q2 2024 PSF Community Service Award, but I feel she also deserves recognition as a Python Software Foundation Fellow.
 
@@ -420,7 +420,7 @@ I am not the only one who feels that Laís deserves this recognition, and I've i
 
 \--
 
-Lais has been committing herself in [EuroPython](EuroPython), the Python and Pyladies community in Ireland, and Humble Data around the world. She brings joy everywhere she goes and has always outdone herself everytime a volunteer task is given to her. I would love to have her as a Python Software Foundation fellow for her contribution to the community.
+Lais has been committing herself in [EuroPython](../../conferences/europython/EuroPython), the Python and Pyladies community in Ireland, and Humble Data around the world. She brings joy everywhere she goes and has always outdone herself everytime a volunteer task is given to her. I would love to have her as a Python Software Foundation fellow for her contribution to the community.
 
 Cheuk Ting Ho
 
@@ -436,7 +436,7 @@ Jay Miller
 
 \--
 
-It has been a privilege to know my friend Laís through the [EuroPython](EuroPython) community for a number of years. In that time I have seen her determination and hard work bring important contributions and change to the European Python community: [PyBurger](./PyBurger.html)(!), her running of Humble Data, her significant voluntary contributions to the [EuroPython](EuroPython) conference and her infectious enthusiasm and warmth all spring to mind. I can\'t think of a more deserving person to be nominated for PSF fellowship.
+It has been a privilege to know my friend Laís through the [EuroPython](../../conferences/europython/EuroPython) community for a number of years. In that time I have seen her determination and hard work bring important contributions and change to the European Python community: [PyBurger](./PyBurger.html)(!), her running of Humble Data, her significant voluntary contributions to the [EuroPython](../../conferences/europython/EuroPython) conference and her infectious enthusiasm and warmth all spring to mind. I can\'t think of a more deserving person to be nominated for PSF fellowship.
 
 Nicholas H.Tollervey
 
@@ -460,7 +460,7 @@ Leon Sandøy & Ege Akman
 
 I, Naomi Ceder, would support the nomination of Lais Carvalho as a Fellow of the PSF.
 
-I have known Lais for a number of years in connection with her work on [EuroPython](EuroPython) and Humble Data, and she has always been a leader by example, doing immense amounts of work to help events succeed. Beyond that, she has always put in extra effort to make sure that everyone feels included and welcome.
+I have known Lais for a number of years in connection with her work on [EuroPython](../../conferences/europython/EuroPython) and Humble Data, and she has always been a leader by example, doing immense amounts of work to help events succeed. Beyond that, she has always put in extra effort to make sure that everyone feels included and welcome.
 
 I can\'t express strongly enough that Lais embodies what we look for in a fellow - dedication to the community, willingness to work to ensure the success of community events and of others, and a willingness to teach and share her knowledge to bring in new members of the community.
 
@@ -514,7 +514,7 @@ Abigail has demonstrated exceptional leadership across multiple key roles within
 
 Abigail\'s technical contributions extend across multiple domains: - Made significant contributions to the Django project, working on the accessibility team - Provided updates through the Django Newsletter - Serves as a Board Member of the Django Software Foundation, supporting and advancing the Django ecosystem
 
-Her speaking engagements demonstrate her commitment to knowledge sharing: - Keynote speaker at the Python Ho Conference - Speaker at [PyCon](PyCon) Africa (2022) on using the Python Click to create Command Line Interfaces and another on making Open Source Contributions. - Presented \"Handling Exceptions\" at a [PyLadies](./PyLadies.html) Meetup - Active in [PyLadies](./PyLadies.html) Ghana events - Spoke on a Panel at [PyLadiesCon](./PyLadiesCon.html) 2024 - Serves on the [DjangoCon](./DjangoCon.html) US Program Team and as a session chair
+Her speaking engagements demonstrate her commitment to knowledge sharing: - Keynote speaker at the Python Ho Conference - Speaker at [PyCon](../../conferences/pycon/PyCon) Africa (2022) on using the Python Click to create Command Line Interfaces and another on making Open Source Contributions. - Presented \"Handling Exceptions\" at a [PyLadies](./PyLadies.html) Meetup - Active in [PyLadies](./PyLadies.html) Ghana events - Spoke on a Panel at [PyLadiesCon](./PyLadiesCon.html) 2024 - Serves on the [DjangoCon](./DjangoCon.html) US Program Team and as a session chair
 
 In 2024, Microsoft recognised her outstanding contributions by awarding her the Most Valuable Professional for Python and Web Technologies, highlighting her significant impact on both local and global scales.
 
@@ -564,7 +564,7 @@ He is giving and caring and always stands up when it's right, for what is right.
 
 I, Christopher L. Truedeau, would like to nominate Christopher Bailey as a PSF Fellow for his continuing work on education in the Python community. Christopher has hosted over two hundred episodes of The Real Python Podcast ([https://realpython.com/podcasts/rpp/](https://realpython.com/podcasts/rpp/)) giving a voice to all sorts of Pythonistas. As host, he actively seeks out people from a variety of backgrounds, both culturally and from differing Python use cases.
 
-Christopher has also written over a dozen courses and tutorials covering introductory topics like strings and lists, intermediate topics like decorators, and more advanced niche topics like using the Arduino and writing games with [PyGame](PyGame).
+Christopher has also written over a dozen courses and tutorials covering introductory topics like strings and lists, intermediate topics like decorators, and more advanced niche topics like using the Arduino and writing games with [PyGame](../../multimedia/PyGame).
 
 Behind the scenes at Real Python, Christopher is the main editor for all the video courses. His teaching approach goes beyond his own work to mentoring others. Every video course produced at RP in the last six years has gone through his hands, ensuring a high quality of education for Python students of every calibre while producing more educators of Christopher\'s own calibre through his mentoring.
 
@@ -574,7 +574,7 @@ Finally, Christopher truly embodies the culture of the Python Community. He is b
 
 *Selected in Q4 of 2025*
 
-I, Jon Banafato, nominate Dave Forgac to be recognized as a Fellow of the Python Software Foundation. Dave is a community organizer for CLEpy (the Cleveland Python Meetup) since 2014 and for [PyOhio](PyOhio) since 2016, including serving as [PyOhio](PyOhio)'s Conference Chair from 2018 through 2023. He has also presented talks at both [PyOhio](PyOhio) and [PyCon](PyCon) US. [PyOhio](PyOhio) is consistently a high quality conference with the kind of welcoming environment that we strive for in the Python community, thanks in no small part to Dave's contributions.
+I, Jon Banafato, nominate Dave Forgac to be recognized as a Fellow of the Python Software Foundation. Dave is a community organizer for CLEpy (the Cleveland Python Meetup) since 2014 and for [PyOhio](../../conferences/regional/PyOhio) since 2016, including serving as [PyOhio](../../conferences/regional/PyOhio)'s Conference Chair from 2018 through 2023. He has also presented talks at both [PyOhio](../../conferences/regional/PyOhio) and [PyCon](../../conferences/pycon/PyCon) US. [PyOhio](../../conferences/regional/PyOhio) is consistently a high quality conference with the kind of welcoming environment that we strive for in the Python community, thanks in no small part to Dave's contributions.
 
 ### Jon Banafato 
 
@@ -590,7 +590,7 @@ Jon is a model Pythonista and someone whose contributions have made the Python c
 
 *Selected in Q1 of 2025*
 
-I, Jon Banafato, nominate Mike Pirnat to be recognized as a Fellow of the Python Software Foundation. Mike is a community organizer, serving as [PyOhio](PyOhio)'s Program Chair since 2018 and previously as an organizer of CLEpy. Mike has also written a Python book, hosted a Python podcast, and presented talks at several conferences. [PyOhio](PyOhio) is consistently a high quality conference with the kind of welcoming environment that we strive for in the Python community, thanks in no small part to Mike's contributions.
+I, Jon Banafato, nominate Mike Pirnat to be recognized as a Fellow of the Python Software Foundation. Mike is a community organizer, serving as [PyOhio](../../conferences/regional/PyOhio)'s Program Chair since 2018 and previously as an organizer of CLEpy. Mike has also written a Python book, hosted a Python podcast, and presented talks at several conferences. [PyOhio](../../conferences/regional/PyOhio) is consistently a high quality conference with the kind of welcoming environment that we strive for in the Python community, thanks in no small part to Mike's contributions.
 
 ### Mohit Mittal 
 
@@ -646,7 +646,7 @@ I, Guido van Rossum, nominate Ziyodkhan from Kyrgyzstan as a PSF Fellow.
 
 His full name is Зиедхон Атахожаев (Google Translate gives \" Ziedkhon Atakhozhaev\"). He teaches informatics in Kyrgyzstan and had been elected teacher of the year before I heard from him.
 
-I\'ve been communicating with Ziyod\[khan\] since 2018, when he sought my help to spread the word about Python in his country. I gave him encouragement and soon enough he had visited the Ministry of Education and organized a local [PyCon](PyCon). He even sent me an official PyConKG T-shirt.
+I\'ve been communicating with Ziyod\[khan\] since 2018, when he sought my help to spread the word about Python in his country. I gave him encouragement and soon enough he had visited the Ministry of Education and organized a local [PyCon](../../conferences/pycon/PyCon). He even sent me an official PyConKG T-shirt.
 
 A few years later he organized a \"Summer Camp 21\".
 
@@ -742,9 +742,9 @@ With his open source tools, he\'s tackling some of the most important and freque
 
 I, Miguel Magalhaes, propose that David Vaz and myself be recognized as a Fellows of the Python Software Foundation, due to our significant contributions to the Python community.
 
-[PyCon](PyCon) Portugal David and I founded [PyCon](PyCon) Portugal in 2022 and we have been the lead organizers since (3 editions in a row). The conference has been growing both in terms of days and content but also participants with a new record each year.The event has been essential in creating a local Python sense of community in Portugal which did not exist at all in the past. It follows an itenerating model where it takes place in a different portuguese city every year, so far it took place in Porto, Coimbra, and Braga this year. All the talks are published for free online for broader visibility. Moreover, we also have a grants program in place which is supported by the PSF, [EuroPython](EuroPython) Society and the DSF. All editions follow a public code of conduct which has been essential to make everyone feel welcomed.
+[PyCon](../../conferences/pycon/PyCon) Portugal David and I founded [PyCon](../../conferences/pycon/PyCon) Portugal in 2022 and we have been the lead organizers since (3 editions in a row). The conference has been growing both in terms of days and content but also participants with a new record each year.The event has been essential in creating a local Python sense of community in Portugal which did not exist at all in the past. It follows an itenerating model where it takes place in a different portuguese city every year, so far it took place in Porto, Coimbra, and Braga this year. All the talks are published for free online for broader visibility. Moreover, we also have a grants program in place which is supported by the PSF, [EuroPython](../../conferences/europython/EuroPython) Society and the DSF. All editions follow a public code of conduct which has been essential to make everyone feel welcomed.
 
-[DjangoCon](./DjangoCon.html) Europe On top of [PyCon](PyCon) Portugal, we have also organized multiple editions of the european Django conference. We have organized 2 virtual editions in 2020 and 2021, and 2 hybrid editions in Porto (Portugal) in 2022 and Vigo (Spain) in 2024. Moreover, we will also be organizing the next edition of the conference in Dublin (Ireland) in 2025. This conference also counts with a grants program, public code of conduct, discounted student tickets, and all the talks are published freely only afterwards.
+[DjangoCon](./DjangoCon.html) Europe On top of [PyCon](../../conferences/pycon/PyCon) Portugal, we have also organized multiple editions of the european Django conference. We have organized 2 virtual editions in 2020 and 2021, and 2 hybrid editions in Porto (Portugal) in 2022 and Vigo (Spain) in 2024. Moreover, we will also be organizing the next edition of the conference in Dublin (Ireland) in 2025. This conference also counts with a grants program, public code of conduct, discounted student tickets, and all the talks are published freely only afterwards.
 
 Based on the wide impact of these 7 conference editions that we have organized so far, and the upcoming 2 editions next year. I believe we have demonstrated a deep Python community involvement worthy of being named as fellows.
 
@@ -774,7 +774,7 @@ I am inspired by the possibility of furthering my contributions as a Python Fell
 
 \--
 
-I, Naomi Ceder, nominate Felipe de Morais (AKA [AfroPython](./AfroPython.html)) as a Fellow of the PSF. Felipe has been a tireless promoter of the global Python community, both in Brazil as founder of [AfroPython](./AfroPython.html) and organizer of various events, giving his time and resources above and beyond. He has been a frequent and engaged attendee at [PyCon](PyCon) US, and has been a supporter of those around him. (I think he was happier than I was when I was awarded the DSA).
+I, Naomi Ceder, nominate Felipe de Morais (AKA [AfroPython](./AfroPython.html)) as a Fellow of the PSF. Felipe has been a tireless promoter of the global Python community, both in Brazil as founder of [AfroPython](./AfroPython.html) and organizer of various events, giving his time and resources above and beyond. He has been a frequent and engaged attendee at [PyCon](../../conferences/pycon/PyCon) US, and has been a supporter of those around him. (I think he was happier than I was when I was awarded the DSA).
 
 ### Frank Wiles 
 
@@ -788,7 +788,7 @@ I, Joannah Nanjekye, nominate Hassan Kibirige to be recognised as a Fellow of th
 
 As the author and maintainer of plotnine, a popular package implementing a Grammar of Graphics visualisation system in Python, and scikit-misc, a library providing LOESS smoothing in Python, Hassan has been a flag bearer for Python programming and scientific computing in Uganda and Africa. His efforts have been recognised through awards like the Google Open Source Peer Bonus, which he has received three times.
 
-Beyond his technical achievements, Hassan serves as the chair of [PyCon](PyCon) Uganda and is a co-founder of the Python Software Society of Uganda. This non-profit organisation unites all Python communities in Uganda under a broader umbrella and provides them with administrative
+Beyond his technical achievements, Hassan serves as the chair of [PyCon](../../conferences/pycon/PyCon) Uganda and is a co-founder of the Python Software Society of Uganda. This non-profit organisation unites all Python communities in Uganda under a broader umbrella and provides them with administrative
 
 support as needed.
 
@@ -812,7 +812,7 @@ Awards:
 
   [https://opensource.googleblog.com/2023/05/google-open-source-peer-bonus-program-announces-first-group-of-winners-2023.html](https://opensource.googleblog.com/2023/05/google-open-source-peer-bonus-program-announces-first-group-of-winners-2023.html)
 
-Hassan continues to serve the Python community in Uganda and surrounding East African regions. He is slated to chair [PyCon](PyCon) Africa in 2026 which will be hosted in Uganda. I believe recognizing his contributions thus far will motivate more impact from him.
+Hassan continues to serve the Python community in Uganda and surrounding East African regions. He is slated to chair [PyCon](../../conferences/pycon/PyCon) Africa in 2026 which will be hosted in Uganda. I believe recognizing his contributions thus far will motivate more impact from him.
 
 ### Janine van Niekerk 
 
@@ -824,7 +824,7 @@ The contributions include running or being a key person involved in a majority o
 
 \- Running \"Git and Github bootcamps\"\--live stream events focuses on teaching users who have never used git to both use it and work with others on a shared project
 
-\- Being a leading figure in the management of the [PyWeek](PyWeek) event on the Python Discord, including scheduling and announcements on various platforms, and managing the chat channels
+\- Being a leading figure in the management of the [PyWeek](../../people/PyWeek) event on the Python Discord, including scheduling and announcements on various platforms, and managing the chat channels
 
 \- Running our \"Advent of Code\" events,
 
@@ -850,7 +850,7 @@ She was the president of the Python Spain association from 2022 until 2024, and 
 
 It\'s worth noting that she was one of the Keynotes from the first [PyLadiesCon](./PyLadiesCon.html) conference.
 
-Before that, Jimena was a [PyCon](PyCon) Spain organizer (from 2019 to 2023) establishing a diversity and inclusion (DEI) protocol to enhance diversity in all areas. She was helping with sponsorship as well as engaging with national and international companies to secure the necessary support. She was also a session chair and host during many talks, and managed to achieve the record of 40% of women speakers during one of those conferences.
+Before that, Jimena was a [PyCon](../../conferences/pycon/PyCon) Spain organizer (from 2019 to 2023) establishing a diversity and inclusion (DEI) protocol to enhance diversity in all areas. She was helping with sponsorship as well as engaging with national and international companies to secure the necessary support. She was also a session chair and host during many talks, and managed to achieve the record of 40% of women speakers during one of those conferences.
 
 She started in 2022 [PyLadies](./PyLadies.html) Spain, and stay as organizer in order to help the many [PyLadies](./PyLadies.html) chapters in the country, establishing the community, creating DEI protocols, mentoring new people, organizing a few events, etc.
 
@@ -880,7 +880,7 @@ Other Tech Talks
 
 - I enjoy sharing my knowledge through mentoring, speaking at events, participating in podcasts, and writing publications. You can find some of my talks at www.youtube.com/@jimena_eb/playlists
 
-  Python Organizers\' Panel: Exploring Community-Driven Python Confs. [EuroPython](EuroPython) 2023 El Show de Truman PyConES 2019.
+  Python Organizers\' Panel: Exploring Community-Driven Python Confs. [EuroPython](../../conferences/europython/EuroPython) 2023 El Show de Truman PyConES 2019.
 
 With all that in mind, I firmly believe that Jimena has achieved and done many things that are deserving of a fellowship award.
 
@@ -898,7 +898,7 @@ Jon fits our \"I\'m surprised they aren\'t already a Fellow\" checkbox, which we
 
 I, Charles Bartels Squire, am honored to nominate Julius Boakye for recognition as a Fellow of the Python Software Foundation due to his exceptional contributions to the Python community.
 
-Julius Boakye has been a cornerstone of the Python community, particularly as the [PyClub](./PyClub.html) Lead for Accra Technical University (ATU) and his work with the Local Organizing Committee (LOC) for [PyCon](PyCon) Africa. His contributions are multifaceted, including such as organizing events, teaching Python, and guiding the members of [PyClub](./PyClub.html) through various Python projects.
+Julius Boakye has been a cornerstone of the Python community, particularly as the [PyClub](./PyClub.html) Lead for Accra Technical University (ATU) and his work with the Local Organizing Committee (LOC) for [PyCon](../../conferences/pycon/PyCon) Africa. His contributions are multifaceted, including such as organizing events, teaching Python, and guiding the members of [PyClub](./PyClub.html) through various Python projects.
 
 Julius has been deeply involved in mentoring and empowering the next generation of Python developers through workshops, talks, and other community initiatives. During this year\'s Python Accra Build session, Julius delivered an insightful talk on \"Leveraging Gemini API for Intelligent Data Analysis in Python,\" showcasing his deep expertise in Python and his commitment to advancing the use of Python in cutting-edge technologies. His work in this area has inspired many and myself to explore the capabilities of Python for data analysis and has demonstrated the power of integrating Python with modern APIs. As a software engineer specializing in Python Django and all things Python, Julius has not only excelled in his professional career but also contributed significantly to the open-source community. His contributions to various open-source projects have been widely recognized, and his work continues to support and improve the Python ecosystem.
 
@@ -908,7 +908,7 @@ Thank you for considering Julius Boakye for this prestigious recognition. His on
 
 ### Kalyan Prasad 
 
-I, Jessica Greene, am writing to nominate Kalyan Prasad for the prestigious PSF Fellow membership. Kalyan has significantly contributed to the Python community through his various roles and activities. I was pleased to meet him at [PyCon](PyCon) India where he was co-chair.
+I, Jessica Greene, am writing to nominate Kalyan Prasad for the prestigious PSF Fellow membership. Kalyan has significantly contributed to the Python community through his various roles and activities. I was pleased to meet him at [PyCon](../../conferences/pycon/PyCon) India where he was co-chair.
 
 Kaylan\'s contributions (please see below) make him a deserving candidate for this honour. Thank you for considering this nomination.
 
@@ -918,7 +918,7 @@ a\. [HydPy](./HydPy.html)-
 
 2019 to till date- Lead Organiser
 
-b\. [PyCon](PyCon) India-
+b\. [PyCon](../../conferences/pycon/PyCon) India-
 
 2024- Contributing to CFP, Review, Mentorship & Diversity Workgroups
 
@@ -932,29 +932,29 @@ c\. [PyConf](./PyConf.html) Hyderabad-
 
 2022 to till date- Conference Co-Chair
 
-d\. [PyCon](PyCon) JP-
+d\. [PyCon](../../conferences/pycon/PyCon) JP-
 
-Part of [PyCon](PyCon) JP 2024 Organising team and helping the programming committee WG.
+Part of [PyCon](../../conferences/pycon/PyCon) JP 2024 Organising team and helping the programming committee WG.
 
 2\. Contributions as speaker, reviewer, mentor & COC.
 
 Speaker 2020 to till date-
 
-[PyData](./PyData.html) Global, [JupyterCon](./JupyterCon.html), [SciPy](SciPy), [PyCon](PyCon) APAC, [PyCon](PyCon) Hong Kong, [PyCon](PyCon) JP, [PyCon](PyCon) ZA, [PyCon](PyCon) Sweden, [PyCon](PyCon) India, Pyjamas, Google Devfest, Google Cloud Community Days, Data Science Global Summit, Conf42, [BelPy](./BelPy.html) and more.
+[PyData](./PyData.html) Global, [JupyterCon](./JupyterCon.html), [SciPy](SciPy), [PyCon](../../conferences/pycon/PyCon) APAC, [PyCon](../../conferences/pycon/PyCon) Hong Kong, [PyCon](../../conferences/pycon/PyCon) JP, [PyCon](../../conferences/pycon/PyCon) ZA, [PyCon](../../conferences/pycon/PyCon) Sweden, [PyCon](../../conferences/pycon/PyCon) India, Pyjamas, Google Devfest, Google Cloud Community Days, Data Science Global Summit, Conf42, [BelPy](./BelPy.html) and more.
 
 Reviewer 2019- till date-
 
-[PyCon](PyCon) US, [JupyterCon](./JupyterCon.html), [EuroPython](EuroPython), [SciPy](SciPy), [PyData](./PyData.html) Global, [PyCon](PyCon) India, [PyCon](PyCon) Japan and [PyConfHyderabad](./PyConfHyderabad.html)
+[PyCon](../../conferences/pycon/PyCon) US, [JupyterCon](./JupyterCon.html), [EuroPython](../../conferences/europython/EuroPython), [SciPy](SciPy), [PyData](./PyData.html) Global, [PyCon](../../conferences/pycon/PyCon) India, [PyCon](../../conferences/pycon/PyCon) Japan and [PyConfHyderabad](./PyConfHyderabad.html)
 
-Helped to [PyCon](PyCon) US 2024 Documentation Summit
+Helped to [PyCon](../../conferences/pycon/PyCon) US 2024 Documentation Summit
 
 Reviewed [SciPy](SciPy) Scientific Papers for 2023 & 2024
 
 Mentor 2022- till date-
 
-2022 to 2024- [PyCon](PyCon) US & Euro Python CFP mentorship i
+2022 to 2024- [PyCon](../../conferences/pycon/PyCon) US & Euro Python CFP mentorship i
 
-2022- 2024- [PyCon](PyCon) India Speaker Mentorship
+2022- 2024- [PyCon](../../conferences/pycon/PyCon) India Speaker Mentorship
 
 2022- [PyConf](./PyConf.html) Hyderabad Speaker Mentorship i
 
@@ -964,7 +964,7 @@ COC committee --
 
 2022- [PyConf](./PyConf.html) Hyderabad COC Squad
 
-2023- [PyCon](PyCon) India COC Squad
+2023- [PyCon](../../conferences/pycon/PyCon) India COC Squad
 
 3\. Other Open-source community contributions
 
@@ -974,11 +974,11 @@ COC committee --
 
 ### Koti Vellanki 
 
-I, Jessica Greene, am writing to nominate Koti Vellanki for the prestigious PSF Fellow membership. Koti has significantly contributed to the Python community both within India and abroad through his various roles and activities. I was pleased to meet him at [PyCon](PyCon) India where he was supporting speakers and a member of the CoC group and then reconnected at [PyCon](PyCon) US where he was supporting onsite as well as in the lead up.
+I, Jessica Greene, am writing to nominate Koti Vellanki for the prestigious PSF Fellow membership. Koti has significantly contributed to the Python community both within India and abroad through his various roles and activities. I was pleased to meet him at [PyCon](../../conferences/pycon/PyCon) India where he was supporting speakers and a member of the CoC group and then reconnected at [PyCon](../../conferences/pycon/PyCon) US where he was supporting onsite as well as in the lead up.
 
 Koti\'s many contributions (please see below) make him a deserving candidate for this honour. Thank you for considering this nomination.
 
-[PyCon](PyCon) India (2021, 2023, 2024)
+[PyCon](../../conferences/pycon/PyCon) India (2021, 2023, 2024)
 
 • 2021: Actively participated as a volunteer, contributing to various organizational tasks, including logistics, speaker coordination, and attendee support.
 
@@ -986,23 +986,23 @@ Koti\'s many contributions (please see below) make him a deserving candidate for
 
 • 2024: Took on a leadership role as the Diversity, Equity, and Inclusion (DEI) Work Group Lead, spearheading initiatives to foster a welcoming environment for diverse participants. Continued to contribute to the CoC Working Group and supported logistics, registrations, and speaker management, while playing a significant role in mentoring participants and facilitating smooth event operations.
 
-[PyCon](PyCon) APAC 2023
+[PyCon](../../conferences/pycon/PyCon) APAC 2023
 
-• Contributed to organizing [PyCon](PyCon) APAC 2023 by managing the attendee check-in process and supporting session operations as a session chair and session runner.
+• Contributed to organizing [PyCon](../../conferences/pycon/PyCon) APAC 2023 by managing the attendee check-in process and supporting session operations as a session chair and session runner.
 
 • Played a crucial role in ensuring a smooth event experience for attendees, including logistical support and facilitating speaker sessions.
 
-[PyCon](PyCon) JP 2024
+[PyCon](../../conferences/pycon/PyCon) JP 2024
 
 • Volunteered in the Attendee Management Work Group and Program Work Group, focusing on enhancing attendee services and supporting program coordination tasks.
 
-• Assisted in organizing sessions, speaker engagement, and event logistics, ensuring a seamless experience for participants.[PyCon](PyCon) PH 2024 • Actively contributed to [PyCon](PyCon) PH 2024 by reviewing Call for Proposals (CFPs) and supporting speaker management as a speaker concierge.
+• Assisted in organizing sessions, speaker engagement, and event logistics, ensuring a seamless experience for participants.[PyCon](../../conferences/pycon/PyCon) PH 2024 • Actively contributed to [PyCon](../../conferences/pycon/PyCon) PH 2024 by reviewing Call for Proposals (CFPs) and supporting speaker management as a speaker concierge.
 
 • Took on roles as a session chair, facilitating speaker sessions, and helping with the flow of the conference.
 
 • Volunteered on-site to assist with attendee registrations, ensuring smooth event operations.
 
-[EuroPython](EuroPython) 2024
+[EuroPython](../../conferences/europython/EuroPython) 2024
 
 • Reviewed CFP proposals and participated in the speaker mentorship program, helping to prepare speakers for their presentations.
 
@@ -1010,7 +1010,7 @@ Koti\'s many contributions (please see below) make him a deserving candidate for
 
 • Contributed to the overall coordination of the event, supporting the organizing committee's efforts to deliver a successful conference.
 
-[PyCon](PyCon) US 2024
+[PyCon](../../conferences/pycon/PyCon) US 2024
 
 • Played an active role in the CoC Working Group, ensuring that the Code of Conduct was upheld and that any issues were promptly addressed.
 
@@ -1018,9 +1018,9 @@ Koti\'s many contributions (please see below) make him a deserving candidate for
 
 • Supported the [PyLadies](./PyLadies.html) Auction, helping to organize and volunteer for the event, demonstrating a commitment to inclusiveness and diversity within the community.
 
-[PyCon](PyCon) APAC 2024
+[PyCon](../../conferences/pycon/PyCon) APAC 2024
 
-• Supported the planning and organizing of [PyCon](PyCon) APAC 2024, taking on responsibilities including session chairing, logistical support, and attendee services.
+• Supported the planning and organizing of [PyCon](../../conferences/pycon/PyCon) APAC 2024, taking on responsibilities including session chairing, logistical support, and attendee services.
 
 • Continued to engage in various roles to enhance the conference experience, assisting with program coordination and volunteer management.
 
@@ -1036,7 +1036,7 @@ Leah set up pyOpenSci in 2018 and has been tackling the thorny problem of too ma
 
 Through pyOpenSci, Leah organises a software peer review process, whereby scientists can have their Python open-source projects peer-reviewed, and also have it fast-tracked into the Journal of Open Source Software, thereby also providing a valuable, citable paper in addition to modern, maintainable software.
 
-Leah has given talks at [PyCon](PyCon) US and [SciPy](SciPy); helped organise the Maintainers Summit at [PyCon](PyCon) US 2024; held beginner-friendly sprints with the goal of making new contributors feel welcome; in addition to organising and running events such as the pyOpenSci Fall Festival.
+Leah has given talks at [PyCon](../../conferences/pycon/PyCon) US and [SciPy](SciPy); helped organise the Maintainers Summit at [PyCon](../../conferences/pycon/PyCon) US 2024; held beginner-friendly sprints with the goal of making new contributors feel welcome; in addition to organising and running events such as the pyOpenSci Fall Festival.
 
 Leah is passionate about building a diverse community to empower people to achieve more with Python, open source and open science.
 
@@ -1044,9 +1044,9 @@ Leah is passionate about building a diverse community to empower people to achie
 
 *Selected in Q1 of 2025*
 
-I Mariano Reingart, propose that Leandro E. Colombo Viña be recognized as a Fellow of the Python Software Foundation, as he has served the Python community through extraordinary efforts in organizing Python events like the Python Argentina national conference in 2016, being co-chair in 2019, 2020 (virtual) and 2021.at Buenos Aires. He also helps with the coordination for smaller events like several [PyDays](./PyDays.html) and [PyCamps](./PyCamps.html) at many provinces. He has given several talks promoting Python across South America, including [PyCon](PyCon) Latam, Chile, Colombia between 2022 and 2024. (references bellow)
+I Mariano Reingart, propose that Leandro E. Colombo Viña be recognized as a Fellow of the Python Software Foundation, as he has served the Python community through extraordinary efforts in organizing Python events like the Python Argentina national conference in 2016, being co-chair in 2019, 2020 (virtual) and 2021.at Buenos Aires. He also helps with the coordination for smaller events like several [PyDays](./PyDays.html) and [PyCamps](./PyCamps.html) at many provinces. He has given several talks promoting Python across South America, including [PyCon](../../conferences/pycon/PyCon) Latam, Chile, Colombia between 2022 and 2024. (references bellow)
 
-Leandro is a co-founder of the Argentina Python Civil Association, acting as its treasurer since the beginning in 2016. He has been managing the financial aspects of the organization, including [PyCon](PyCon) Argentina sponsorship and expenses, financial aid grants and umbrella support for other related events and communities. He has been responsible for carrying out the most tedious paperwork with accountants and lawyers, Python Argentina cloud infrastructure procurement and hardware acquisition. He also has been involved in the coordination of Argentina\'s community portal, internal accounting and job board systems development.
+Leandro is a co-founder of the Argentina Python Civil Association, acting as its treasurer since the beginning in 2016. He has been managing the financial aspects of the organization, including [PyCon](../../conferences/pycon/PyCon) Argentina sponsorship and expenses, financial aid grants and umbrella support for other related events and communities. He has been responsible for carrying out the most tedious paperwork with accountants and lawyers, Python Argentina cloud infrastructure procurement and hardware acquisition. He also has been involved in the coordination of Argentina\'s community portal, internal accounting and job board systems development.
 
 [https://ac.python.org.ar/](https://ac.python.org.ar/)
 
@@ -1056,19 +1056,19 @@ Finally, Leandro is widely recognized as a referent in the Argentinian community
 
 ### Matti Picus 
 
-I, CF Bolz-Tereick, propose that Matti Picus be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community in his role as a [PyPy](PyPy) core contributor, Numpy Core Dev, and Numpy Steering Council member.
+I, CF Bolz-Tereick, propose that Matti Picus be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community in his role as a [PyPy](../../implementations/PyPy) core contributor, Numpy Core Dev, and Numpy Steering Council member.
 
-Matti has worked tirelessly on various areas of the [PyPy](PyPy) project. Perhaps most important has been his dedication to [PyPy](PyPy)\'s C extension compatibility, which made it possible to use [PyPy](PyPy) in a much wider range of applications. He has also worked on updating [PyPy](PyPy) towards newer CPython versions, improved Windows and Mac OS support, maintained buildbot infrastructure, and has done the work of single-handedly moving the project\'s repository to Github to open the project for wider community participation.
+Matti has worked tirelessly on various areas of the [PyPy](../../implementations/PyPy) project. Perhaps most important has been his dedication to [PyPy](../../implementations/PyPy)\'s C extension compatibility, which made it possible to use [PyPy](../../implementations/PyPy) in a much wider range of applications. He has also worked on updating [PyPy](../../implementations/PyPy) towards newer CPython versions, improved Windows and Mac OS support, maintained buildbot infrastructure, and has done the work of single-handedly moving the project\'s repository to Github to open the project for wider community participation.
 
-In summary, he has worked continuously on most central components of [PyPy](PyPy) for more than a decade and thus has been, and continues to be, a vital part of the project\'s continued success.
+In summary, he has worked continuously on most central components of [PyPy](../../implementations/PyPy) for more than a decade and thus has been, and continues to be, a vital part of the project\'s continued success.
 
 ### Miguel Magalhaes 
 
 I, Miguel Magalhaes, propose that David Vaz and myself be recognized as a Fellows of the Python Software Foundation, due to our significant contributions to the Python community.
 
-[PyCon](PyCon) Portugal David and I founded [PyCon](PyCon) Portugal in 2022 and we have been the lead organizers since (3 editions in a row). The conference has been growing both in terms of days and content but also participants with a new record each year.The event has been essential in creating a local Python sense of community in Portugal which did not exist at all in the past. It follows an itenerating model where it takes place in a different portuguese city every year, so far it took place in Porto, Coimbra, and Braga this year. All the talks are published for free online for broader visibility. Moreover, we also have a grants program in place which is supported by the PSF, [EuroPython](EuroPython) Society and the DSF. All editions follow a public code of conduct which has been essential to make everyone feel welcomed.
+[PyCon](../../conferences/pycon/PyCon) Portugal David and I founded [PyCon](../../conferences/pycon/PyCon) Portugal in 2022 and we have been the lead organizers since (3 editions in a row). The conference has been growing both in terms of days and content but also participants with a new record each year.The event has been essential in creating a local Python sense of community in Portugal which did not exist at all in the past. It follows an itenerating model where it takes place in a different portuguese city every year, so far it took place in Porto, Coimbra, and Braga this year. All the talks are published for free online for broader visibility. Moreover, we also have a grants program in place which is supported by the PSF, [EuroPython](../../conferences/europython/EuroPython) Society and the DSF. All editions follow a public code of conduct which has been essential to make everyone feel welcomed.
 
-[DjangoCon](./DjangoCon.html) Europe On top of [PyCon](PyCon) Portugal, we have also organized multiple editions of the european Django conference. We have organized 2 virtual editions in 2020 and 2021, and 2 hybrid editions in Porto (Portugal) in 2022 and Vigo (Spain) in 2024. Moreover, we will also be organizing the next edition of the conference in Dublin (Ireland) in 2025. This conference also counts with a grants program, public code of conduct, discounted student tickets, and all the talks are published freely only afterwards.
+[DjangoCon](./DjangoCon.html) Europe On top of [PyCon](../../conferences/pycon/PyCon) Portugal, we have also organized multiple editions of the european Django conference. We have organized 2 virtual editions in 2020 and 2021, and 2 hybrid editions in Porto (Portugal) in 2022 and Vigo (Spain) in 2024. Moreover, we will also be organizing the next edition of the conference in Dublin (Ireland) in 2025. This conference also counts with a grants program, public code of conduct, discounted student tickets, and all the talks are published freely only afterwards.
 
 Based on the wide impact of these 7 conference editions that we have organized so far, and the upcoming 2 editions next year. I believe we have demonstrated a deep Python community involvement worthy of being named as fellows.
 
@@ -1128,7 +1128,7 @@ The reason why I am nominating him is mainly because he created a Django Cameroo
 
 I, Steve Yonkeu, am writing to self-nominate for consideration as a PSF Fellow, a recognition I truly value in light of my commitment and contributions to the Python community.
 
-Over the past four years, I have had the privilege to contribute to the Python ecosystem through managing different Python communities, creating videos, talks, open source projects and lastly organizing [PyCon](PyCon) Africa. Some highlights of my involvement include:
+Over the past four years, I have had the privilege to contribute to the Python ecosystem through managing different Python communities, creating videos, talks, open source projects and lastly organizing [PyCon](../../conferences/pycon/PyCon) Africa. Some highlights of my involvement include:
 
 \- Creating a Django community for Cameroon: [DjangoCameroon](./DjangoCameroon.html).site with over 800 members to date.
 
@@ -1136,9 +1136,9 @@ Over the past four years, I have had the privilege to contribute to the Python e
 
 \- Creating Blogs Dev.to (@yokwejuste) and videos Youtube (@iamyokwejuste) content to help developers in the Python ecosystem with over 10k people following.
 
-\- Organizing [PyCon](PyCon) Africa 2024 and making a great come back for it: [PyCon](PyCon) Africa IOC team. Definitely hoping to do better next year.
+\- Organizing [PyCon](../../conferences/pycon/PyCon) Africa 2024 and making a great come back for it: [PyCon](../../conferences/pycon/PyCon) Africa IOC team. Definitely hoping to do better next year.
 
-\- Organizing a workshop at [PyCon](PyCon) Africa 2024: My [PyCon](PyCon) Talk
+\- Organizing a workshop at [PyCon](../../conferences/pycon/PyCon) Africa 2024: My [PyCon](../../conferences/pycon/PyCon) Talk
 
 In addition to these technical contributions, I've also been actively engaged in supporting and mentoring newcomers to the Python community, organizing local Python meetups, and promoting Python's values of openness and inclusivity.
 
@@ -1148,13 +1148,13 @@ I am passionate about the continued growth of Python and deeply committed to hel
 
 I, Manabu Terada, a Fellow of the Python Software Foundation, nominate Takanori Suzuki [https://github.com/takanory](https://github.com/takanory) for PSF Fellow recognition.
 
-Takanori has been a central figure in Japan\'s Python community since 2010, significantly contributing to the growth of [PyCon](PyCon) JP and the broader Python ecosystem.
+Takanori has been a central figure in Japan\'s Python community since 2010, significantly contributing to the growth of [PyCon](../../conferences/pycon/PyCon) JP and the broader Python ecosystem.
 
-As a founding board member of the [PyCon](PyCon) JP Association, and now its Representative Board Chair since 2023, Takanori has played a key role in the development of [PyCon](PyCon) JP. From 2014 to 2016, he chaired [PyCon](PyCon) JP, expanding the event\'s reach and influence. His leadership also extended to launching the Python Bootcamp in 2016, a nationwide initiative to bring Python tutorials to communities across Japan.
+As a founding board member of the [PyCon](../../conferences/pycon/PyCon) JP Association, and now its Representative Board Chair since 2023, Takanori has played a key role in the development of [PyCon](../../conferences/pycon/PyCon) JP. From 2014 to 2016, he chaired [PyCon](../../conferences/pycon/PyCon) JP, expanding the event\'s reach and influence. His leadership also extended to launching the Python Bootcamp in 2016, a nationwide initiative to bring Python tutorials to communities across Japan.
 
-During the COVID-19 pandemic, he led a Python charity event to raise donate for the PSF and co-hosted [PyCon](PyCon) JP TV, providing valuable resources to the community. His efforts to encourage participation in global events like [PyCon](PyCon) US have helped bridge the gap between Japan and the international Python community.
+During the COVID-19 pandemic, he led a Python charity event to raise donate for the PSF and co-hosted [PyCon](../../conferences/pycon/PyCon) JP TV, providing valuable resources to the community. His efforts to encourage participation in global events like [PyCon](../../conferences/pycon/PyCon) US have helped bridge the gap between Japan and the international Python community.
 
-Currently, he serves as co-chair for [PyCon](PyCon) JP 2024 and continues to actively speak at Python events both in Japan and abroad. His leadership, dedication, and continuous contributions to the Python community make him an excellent candidate for PSF Fellow membership.
+Currently, he serves as co-chair for [PyCon](../../conferences/pycon/PyCon) JP 2024 and continues to actively speak at Python events both in Japan and abroad. His leadership, dedication, and continuous contributions to the Python community make him an excellent candidate for PSF Fellow membership.
 
 ## 2024 Q3 Nominations 
 
@@ -1180,7 +1180,7 @@ I, Cristián Maureira-Fredes, would like to nominate Aidis Stukas for his long a
 
 \- In 2024 There was another event, this time with close to 550 participants, the first full 3 day conference, with 60 sessions.
 
-To sum up I have chaired 7 [PyCon](PyCon) Lithuania, growing it from 80 to 550 participants, from 8 to 60 talks, from 0 international speakers to majority international speakers.
+To sum up I have chaired 7 [PyCon](../../conferences/pycon/PyCon) Lithuania, growing it from 80 to 550 participants, from 8 to 60 talks, from 0 international speakers to majority international speakers.
 
 #### Python meetups 
 
@@ -1202,15 +1202,15 @@ Additionally, I helped organize, using PSF funding, two seminars, in collaborati
 
 #### Closing 
 
-We are very lucky to have Aidis in Lithuania, because it\'s a key person that has kept the Python community in Lithuania alive. I met Aidist in the last [PyCon](PyCon) Lithuania, and I was impressed by all the contributions that he has been giving to the Python community for so long, and I believe he deserves the PSF Fellow recognition.
+We are very lucky to have Aidis in Lithuania, because it\'s a key person that has kept the Python community in Lithuania alive. I met Aidist in the last [PyCon](../../conferences/pycon/PyCon) Lithuania, and I was impressed by all the contributions that he has been giving to the Python community for so long, and I believe he deserves the PSF Fellow recognition.
 
 ### Artur Czepiel 
 
 *Selected in Q3 of 2024*
 
-I, Mia Bajić, would like to nominate Artur Czepiel for the PSF fellowship for his exceptional contributions to the [EuroPython](EuroPython) Society. He has played a key role in organizing Python Pizza in the Czech Republic and [PyData](./PyData.html) and Pykonik meetups in Krakow.
+I, Mia Bajić, would like to nominate Artur Czepiel for the PSF fellowship for his exceptional contributions to the [EuroPython](../../conferences/europython/EuroPython) Society. He has played a key role in organizing Python Pizza in the Czech Republic and [PyData](./PyData.html) and Pykonik meetups in Krakow.
 
-Artur began contributing to the Python community in 2017 by rewriting the [EuroPython](EuroPython) website. He joined the [EuroPython](EuroPython) Society Board in 2018 and served on it in 2021 and 2022. During his tenure, he led significant initiatives, including a major infrastructure migration and played an important role in venue selection and conference budgeting for 2019, 2022, and 2023.
+Artur began contributing to the Python community in 2017 by rewriting the [EuroPython](../../conferences/europython/EuroPython) website. He joined the [EuroPython](../../conferences/europython/EuroPython) Society Board in 2018 and served on it in 2021 and 2022. During his tenure, he led significant initiatives, including a major infrastructure migration and played an important role in venue selection and conference budgeting for 2019, 2022, and 2023.
 
 In 2023, as Chair of the Board, Artur introduced forward-thinking practices, such as planning the next year\'s venue within the current term, greatly improving the conference planning process.
 
@@ -1234,7 +1234,7 @@ One of the main things people doubt about using Python is its performance, and t
 
 *Selected in Q2 of 2025*
 
-I, David Mertz, nominate Hamdalah Adetunji to be a Fellow of the Python Software Foundation. I had the opportunity to speak with her at [PyCon](PyCon) Nigeria, at which she spoke and helped organize. She has both a warm and welcoming manner, bringing people into Python communities, and a deep commitment to organizing the communities via conferences and other events.
+I, David Mertz, nominate Hamdalah Adetunji to be a Fellow of the Python Software Foundation. I had the opportunity to speak with her at [PyCon](../../conferences/pycon/PyCon) Nigeria, at which she spoke and helped organize. She has both a warm and welcoming manner, bringing people into Python communities, and a deep commitment to organizing the communities via conferences and other events.
 
 Hamdalah has been a part of the Python Nigeria team for the last 7 years. She joined only a few months after only learning about Python, but was then invited to be a member of the its Board due to the passion she showed for the community.
 
@@ -1248,43 +1248,43 @@ Hamdalah is in charge of the financial team of Python Nigeria and responsible fo
 
 I, [KwonHan](./KwonHan.html) Bae, am pleased to recommend Ivy Fung Oi Wei for the PSF Fellow membership. Ivy has demonstrated exceptional dedication and leadership in the Python community through various initiatives.
 
-\- Organized [PyCon](PyCon) MY since 2019
+\- Organized [PyCon](../../conferences/pycon/PyCon) MY since 2019
 
-\- Chairperson for [PyCon](PyCon) APAC 2020, held in Sabah, East Malaysia
+\- Chairperson for [PyCon](../../conferences/pycon/PyCon) APAC 2020, held in Sabah, East Malaysia
 
-\- Successfully transitioned [PyCon](PyCon) APAC 2020 to an online format due to the global pandemic
+\- Successfully transitioned [PyCon](../../conferences/pycon/PyCon) APAC 2020 to an online format due to the global pandemic
 
 \- Focused on panel discussions and invited international speakers
 
-\- Established connections with [PyCon](PyCon) organizers regionally
+\- Established connections with [PyCon](../../conferences/pycon/PyCon) organizers regionally
 
 \- Volunteered for translation and emceeing at [PyLadies](./PyLadies.html) events
 
 \- Actively participated in [PyCons](./PyCons.html) across the APAC region
 
-\- Aimed to make [PyCon](PyCon) MY self-sustainable and groom successors
+\- Aimed to make [PyCon](../../conferences/pycon/PyCon) MY self-sustainable and groom successors
 
-\- Collaborated with local authorities and communities to promote [PyCon](PyCon) MY
+\- Collaborated with local authorities and communities to promote [PyCon](../../conferences/pycon/PyCon) MY
 
 Ivy\'s proactive approach and unwavering commitment make her a deserving candidate for the PSF Fellow honor. Thank you for considering her nomination.
 
 ### James Tang Ing Wei 
 
-I, [KwonHan](./KwonHan.html) Bae, am writing to nominate James Tang Ing Wei for the prestigious PSF Fellow membership. James has made significant contributions to the Python community through his involvement in [PyCon](PyCon) MY.
+I, [KwonHan](./KwonHan.html) Bae, am writing to nominate James Tang Ing Wei for the prestigious PSF Fellow membership. James has made significant contributions to the Python community through his involvement in [PyCon](../../conferences/pycon/PyCon) MY.
 
-• Core committee member for [PyCon](PyCon) MY since 2017
+• Core committee member for [PyCon](../../conferences/pycon/PyCon) MY since 2017
 
-• Chairperson for [PyCon](PyCon) MY 2019 and 2023
+• Chairperson for [PyCon](../../conferences/pycon/PyCon) MY 2019 and 2023
 
 • Coached juniors on event organization and Python skills
 
-• Managed infrastructure and applications for [PyCon](PyCon) MY, including a virtual conference platform during COVID-19
+• Managed infrastructure and applications for [PyCon](../../conferences/pycon/PyCon) MY, including a virtual conference platform during COVID-19
 
 • Handled budget management and sponsorship acquisition
 
-• Spoke at various [PyCons](./PyCons.html) around the region, applying learned insights to [PyCon](PyCon) MY
+• Spoke at various [PyCons](./PyCons.html) around the region, applying learned insights to [PyCon](../../conferences/pycon/PyCon) MY
 
-• Contributed approximately 10 hours per week during [PyCon](PyCon) MY preparation periods
+• Contributed approximately 10 hours per week during [PyCon](../../conferences/pycon/PyCon) MY preparation periods
 
 I strongly believe that James's dedication and contributions make him a deserving candidate for this honor. Thank you for considering this nomination.
 
@@ -1294,7 +1294,7 @@ I strongly believe that James's dedication and contributions make him a deservin
 
 I, Iqbal Abdullah, a PSF Fellow hereby would like to nominate Jay Miller for PSF Fellow.
 
-Jay has been involved in the Python community since 2014. Jay is an example Pythonista: He was most recently the keynote speaker for [PyCon](PyCon) US 2024 in Pittsburgh. He also spoke as a keynote at [DjangoCon](./DjangoCon.html) 2022. He is also the founder of the Black Python Devs initiative, which aims to open doors and opportunities to learn and grow for anyone who identifies as black within the Python community.
+Jay has been involved in the Python community since 2014. Jay is an example Pythonista: He was most recently the keynote speaker for [PyCon](../../conferences/pycon/PyCon) US 2024 in Pittsburgh. He also spoke as a keynote at [DjangoCon](./DjangoCon.html) 2022. He is also the founder of the Black Python Devs initiative, which aims to open doors and opportunities to learn and grow for anyone who identifies as black within the Python community.
 
 Jay has put in consistent effort in breaking barriers and stereotypes inside and outside of the Python community. He is an example Pythonista, and worthy to become a PSF Fellow.
 
@@ -1310,9 +1310,9 @@ I, [KwonHan](./KwonHan.html) Bae, am writing to nominate Jessica Greene for the 
 
 • Python Pizza Hamburg Organizer for 2023
 
-• Keynote speaker at [PyCon](PyCon) Italia 2022 and [PyCon](PyCon) India 2023
+• Keynote speaker at [PyCon](../../conferences/pycon/PyCon) Italia 2022 and [PyCon](../../conferences/pycon/PyCon) India 2023
 
-• Tutorial presenter at [PyConDe](./PyConDe.html) 2022 and [PyCon](PyCon) US 2024
+• Tutorial presenter at [PyConDe](./PyConDe.html) 2022 and [PyCon](../../conferences/pycon/PyCon) US 2024
 
 I strongly believe that Jessica's dedication and contributions make her a deserving candidate for this honor. Thank you for considering this nomination.
 
@@ -1320,15 +1320,15 @@ I strongly believe that Jessica's dedication and contributions make her a deserv
 
 *Selected in Q1 of 2025*
 
-We, Jon Banafato, Elaine Wong, Jeff Triplett & David Wolever, nominate Julia Duimovich to be recognized as a Fellow of the Python Software Foundation. Julia has been a core contributor to both [PyCon](PyCon) US and [PyCon](PyCon) Canada, serving as a [PyCon](PyCon) US Session Staff Chair for the years 2016 through 2021 and as a [PyCon](PyCon) Canada organizer from 2015 through 2017. In addition to her organizing work behind the scenes, Julia\'s role in the green room meant that she has been many volunteers\' first introduction to volunteering with a Python conference. Her ability to welcome conference attendees into volunteer positions and to encourage their continued participation is an asset to the Python community at large. Julia has also presented talks at conferences such as [PyCon](PyCon) Canada, North Bay Python, and others. For these reasons and more, we believe that Julia furthers the mission of the PSF and should be recognized as a PSF Fellow.
+We, Jon Banafato, Elaine Wong, Jeff Triplett & David Wolever, nominate Julia Duimovich to be recognized as a Fellow of the Python Software Foundation. Julia has been a core contributor to both [PyCon](../../conferences/pycon/PyCon) US and [PyCon](../../conferences/pycon/PyCon) Canada, serving as a [PyCon](../../conferences/pycon/PyCon) US Session Staff Chair for the years 2016 through 2021 and as a [PyCon](../../conferences/pycon/PyCon) Canada organizer from 2015 through 2017. In addition to her organizing work behind the scenes, Julia\'s role in the green room meant that she has been many volunteers\' first introduction to volunteering with a Python conference. Her ability to welcome conference attendees into volunteer positions and to encourage their continued participation is an asset to the Python community at large. Julia has also presented talks at conferences such as [PyCon](../../conferences/pycon/PyCon) Canada, North Bay Python, and others. For these reasons and more, we believe that Julia furthers the mission of the PSF and should be recognized as a PSF Fellow.
 
 ### Kojo Idrissa 
 
 *Selected in Q3 of 2024*
 
-We, Jon Banafato and Jeff Triplett, nominate Kojo Idrissa to be recognized as a Fellow of the Python Software Foundation. Kojo is ever-present within Python communities within North America and around the world. In both his role as a leader of the [PyCon](PyCon) US Newcomer Orientation workshop and his general presence at Python conferences, Kojo is often an attendee\'s first exposure to a Python community. He sets the kind of inclusive and welcoming tone that Python communities aspire to and encourages others to do the same.
+We, Jon Banafato and Jeff Triplett, nominate Kojo Idrissa to be recognized as a Fellow of the Python Software Foundation. Kojo is ever-present within Python communities within North America and around the world. In both his role as a leader of the [PyCon](../../conferences/pycon/PyCon) US Newcomer Orientation workshop and his general presence at Python conferences, Kojo is often an attendee\'s first exposure to a Python community. He sets the kind of inclusive and welcoming tone that Python communities aspire to and encourages others to do the same.
 
-Kojo is also a conference speaker and organizer. He has spoken at a variety of conferences and keynoted several, including [PyCon](PyCon) Africa, [PyGotham](./PyGotham.html), [PyTexas](./PyTexas.html), and [DjangoCon](./DjangoCon.html) Europe. He has served in Orientation, Lightning Talks, and Sprints Chair roles at [DjangoCon](./DjangoCon.html) US since 2016 and been a [PyCon](PyCon) US Newcomer Orientation leader since 2018. He also serves Python communities through board-level and advisory work, having served as a board member for the Django Events Foundation of North America and an advisor for Black Python Devs.
+Kojo is also a conference speaker and organizer. He has spoken at a variety of conferences and keynoted several, including [PyCon](../../conferences/pycon/PyCon) Africa, [PyGotham](./PyGotham.html), [PyTexas](./PyTexas.html), and [DjangoCon](./DjangoCon.html) Europe. He has served in Orientation, Lightning Talks, and Sprints Chair roles at [DjangoCon](./DjangoCon.html) US since 2016 and been a [PyCon](../../conferences/pycon/PyCon) US Newcomer Orientation leader since 2018. He also serves Python communities through board-level and advisory work, having served as a board member for the Django Events Foundation of North America and an advisor for Black Python Devs.
 
 For these reasons and more, we believe that Kojo sets an example for the community at large and deserves recognition as a PSF Fellow. Kojo has also been recognized with a PSF Community Service Award for similar work for the month of October 2024.
 
@@ -1364,7 +1364,7 @@ One of the main things people doubt about using Python is its performance, and t
 
 ### Ruth Temiloluwa Afape 
 
-I, David Mertz, wish to nominate as a PSF Fellow Temi Afape, whom I had the enormous pleasure of meeting in her role as an organizer of [PyCon](PyCon) Nigeria 2024.
+I, David Mertz, wish to nominate as a PSF Fellow Temi Afape, whom I had the enormous pleasure of meeting in her role as an organizer of [PyCon](../../conferences/pycon/PyCon) Nigeria 2024.
 
 Ruth Temiloluwa Afape is a passionate tech leader and community builder. She envisions a future where everyone has the power to create positive change through technology. Driven by this vision, she has dedicated her career to training, mentoring, and building communities that equip children, women, and young adults with the digital skills they need to thrive.
 
@@ -1386,7 +1386,7 @@ I, [KwonHan](./KwonHan.html) Bae, am excited to nominate Tereza Iofciu for the e
 
 \* Initiated [PyLadies](./PyLadies.html) HH in 2018 inspired by Mei Li's efforts in Berlin
 
-\* Co-ran the [PyLadies](./PyLadies.html) IoT workshop at [PyCon](PyCon) Berlin in 2019 with Jessica and Avare
+\* Co-ran the [PyLadies](./PyLadies.html) IoT workshop at [PyCon](../../conferences/pycon/PyCon) Berlin in 2019 with Jessica and Avare
 
 \* Organized the first Python Pizza Hamburg in 2019 with Yenny Cheung and Alexander Hendorf
 
@@ -1402,7 +1402,7 @@ I, [KwonHan](./KwonHan.html) Bae, am excited to nominate Tereza Iofciu for the e
 
 \* Organized the in-person Hamburg Python Pizza in 2023 with Jessica Greene and Cristian
 
-Additionally, Tereza joined the PSF Code of Conduct and Diversity & Inclusion work groups in 2021, the [NumFocus](./NumFocus.html) DISC Committee in 2022, served as [PyData](./PyData.html) HH Meetup organizer in 2019, and has been a PySV board member since 2019. She is also the Program Co-chair for [PyCon](PyCon) US 2024.
+Additionally, Tereza joined the PSF Code of Conduct and Diversity & Inclusion work groups in 2021, the [NumFocus](./NumFocus.html) DISC Committee in 2022, served as [PyData](./PyData.html) HH Meetup organizer in 2019, and has been a PySV board member since 2019. She is also the Program Co-chair for [PyCon](../../conferences/pycon/PyCon) US 2024.
 
 I firmly believe that Tereza's unwavering commitment and impactful contributions make her an exceptional candidate for this recognition. Thank you for considering her nomination.
 
@@ -1452,9 +1452,9 @@ Richardson has also co-written multiple influential technical books, such as \"R
 
 We, Iqbal Abdullah and Yung-Yu Chen, PSF Fellows, would like to nominate Winnie as a PSF Fellow.
 
-Wun-Hua \"Winnie\" Ke\'s contributions to the Python Taiwan community are both significant and diverse, beginning with her role as a volunteer on the [PyCon](PyCon) Taiwan organization team. In 2020, she facilitated connections between [PyCon](PyCon) Taiwan speakers and various local user groups, enhancing the community\'s engagement and knowledge sharing. As the program committee chair in 2021, Ke launched the \"Young Inspirers\" program, which has welcomed more than 10 participants to date. Additionally, she founded [PyCast](./PyCast.html), the [PyCon](PyCon) Taiwan podcast, which achieved a rank of 7 among technology podcasts in Taiwan.
+Wun-Hua \"Winnie\" Ke\'s contributions to the Python Taiwan community are both significant and diverse, beginning with her role as a volunteer on the [PyCon](../../conferences/pycon/PyCon) Taiwan organization team. In 2020, she facilitated connections between [PyCon](../../conferences/pycon/PyCon) Taiwan speakers and various local user groups, enhancing the community\'s engagement and knowledge sharing. As the program committee chair in 2021, Ke launched the \"Young Inspirers\" program, which has welcomed more than 10 participants to date. Additionally, she founded [PyCast](./PyCast.html), the [PyCon](../../conferences/pycon/PyCon) Taiwan podcast, which achieved a rank of 7 among technology podcasts in Taiwan.
 
-In 2023, Ke expanded her influence by serving as the conference chair for [PyCon](PyCon) Taiwan, during which she produced a documentary celebrating the conference\'s 10th anniversary. Her participation as a panelist at [PyLadiesCon](./PyLadiesCon.html) the same year further underscored her dedication to the community. Ke\'s contributions are not limited to organizational roles; she remains actively involved in technical contributions within the local community and seeks to expand her involvement internationally. Her participation in the APAC Python community meetings at [PyCon](PyCon) APAC 2023 in Tokyo is a testament to her commitment to contributing to the APAC region and the global Python community.
+In 2023, Ke expanded her influence by serving as the conference chair for [PyCon](../../conferences/pycon/PyCon) Taiwan, during which she produced a documentary celebrating the conference\'s 10th anniversary. Her participation as a panelist at [PyLadiesCon](./PyLadiesCon.html) the same year further underscored her dedication to the community. Ke\'s contributions are not limited to organizational roles; she remains actively involved in technical contributions within the local community and seeks to expand her involvement internationally. Her participation in the APAC Python community meetings at [PyCon](../../conferences/pycon/PyCon) APAC 2023 in Tokyo is a testament to her commitment to contributing to the APAC region and the global Python community.
 
 ## 2024 Q1 Nominations 
 
@@ -1484,7 +1484,7 @@ I (David Smith) would like to nominate Adam Johnson to be recognised as a fellow
 
 I, Noah Alorwu nominator, propose that Kafui Alordo a Pythonista be recognized as a fellow of the Python Software Foundation in regards to his enormous contribution to the Python Community in Ghana, playing a pivotal role as the Lead of the Python User Group Ho 2017--present, pioneering the adoption of tech within the Ho tech space.
 
-- His contributions extend to being part of the organizing team as a volunteer for the first ever Python Conference Ghana ([PyCon](PyCon) Ghana) in 2018 and [PyCon](PyCon) Africa in 2019, respectively.
+- His contributions extend to being part of the organizing team as a volunteer for the first ever Python Conference Ghana ([PyCon](../../conferences/pycon/PyCon) Ghana) in 2018 and [PyCon](../../conferences/pycon/PyCon) Africa in 2019, respectively.
 
 He has also organized numerous Django Girls workshop and also served as a mentor at some of these workshops.
 
@@ -1492,15 +1492,15 @@ He has also organized numerous Django Girls workshop and also served as a mentor
 
 I, Akshat Sharma, propose that Kanishk Pachauri to be recognized as a Fellow of Python Software Foundation, due to their significant contributions to the Python Community.
 
-They have taken numerous Python and related workshops for professionals and university students and help them build on Python. He has also served as a Volunteer in Python Conferences like [PyCon](PyCon) Italia, [PyDelhi](./PyDelhi.html) Conf and other local level Python and related conferences.
+They have taken numerous Python and related workshops for professionals and university students and help them build on Python. He has also served as a Volunteer in Python Conferences like [PyCon](../../conferences/pycon/PyCon) Italia, [PyDelhi](./PyDelhi.html) Conf and other local level Python and related conferences.
 
 Apart from this, they are also maintaining Open-Source projects such as [Pep8Speaks](./Pep8Speaks.html)([https://github.com/pep8speaks-org/pep8speaks](https://github.com/pep8speaks-org/pep8speaks)) , and contributed to projects like Dateparser and Scrapinghub.
 
 \--
 
-I, Tushar Gupta, propose that Kanishk Pachauri be recognized as a Fellow of the Python Software Foundation, due to his significance to the Python Community and [OpenSource](OpenSource).
+I, Tushar Gupta, propose that Kanishk Pachauri be recognized as a Fellow of the Python Software Foundation, due to his significance to the Python Community and [OpenSource](../../people/OpenSource).
 
-He has been volunteering nationally and internationally at multiple major [PyCon](PyCon) like [PyCon](PyCon) Italia, [PyDelhi](./PyDelhi.html) Conf, [PyCon](PyCon) India and FOSS Delhi. He also leads many local events and workshops for professional and university students. Kanishk has also been part of Google Summer of Code and Major League Hacking both as a fellow and a coach and I highly believe he would be a great and valuable addition to the PSF.
+He has been volunteering nationally and internationally at multiple major [PyCon](../../conferences/pycon/PyCon) like [PyCon](../../conferences/pycon/PyCon) Italia, [PyDelhi](./PyDelhi.html) Conf, [PyCon](../../conferences/pycon/PyCon) India and FOSS Delhi. He also leads many local events and workshops for professional and university students. Kanishk has also been part of Google Summer of Code and Major League Hacking both as a fellow and a coach and I highly believe he would be a great and valuable addition to the PSF.
 
 His love for Python is also reflected by his [GitHub](./GitHub.html) as he contributes to a bunch of Python projects like pep8speaks, Dateparser, [ScrapingHub](./ScrapingHub.html) and Robyn.
 
@@ -1508,7 +1508,7 @@ His love for Python is also reflected by his [GitHub](./GitHub.html) as he contr
 
 I, Mayank Agarwal, propose that Kanishk Pachauri be recognized as a Fellow of the Python Software Foundation, due to his outstanding contributions to the python community.
 
-Kanishk has dedicated himself to empowering professionals and university students through numerous Python and related workshops. His commitment extends to his volunteer work at prestigious Python conferences such as [PyCon](PyCon) Italia, [PyDelhi](./PyDelhi.html) Conf, and various local events, where he shares his expertise and enriches the learning experiences of attendees. In addition to his educational initiatives, Kanishk is an active contributor to the open-source ecosystem. He not only maintains projects like Robyn but also lends his expertise to enhancing projects like Dateparser and supporting platforms like Scrapinghub.
+Kanishk has dedicated himself to empowering professionals and university students through numerous Python and related workshops. His commitment extends to his volunteer work at prestigious Python conferences such as [PyCon](../../conferences/pycon/PyCon) Italia, [PyDelhi](./PyDelhi.html) Conf, and various local events, where he shares his expertise and enriches the learning experiences of attendees. In addition to his educational initiatives, Kanishk is an active contributor to the open-source ecosystem. He not only maintains projects like Robyn but also lends his expertise to enhancing projects like Dateparser and supporting platforms like Scrapinghub.
 
 ### Lili Feng 
 
@@ -1540,7 +1540,7 @@ I, Natalia Solomatina, am writing to formally nominate Mr. Alexey Saraev for mem
 
 ### Daisy Leigh Brenecki 
 
-I, Christopher Neugebauer, nominate Daisy Leigh Brenecki to the position of PSF Fellow, in recognition of her work leading the Python community in Australia, initially as an organiser of [DjangoCon](./DjangoCon.html) AU, and then leading [PyCon](PyCon) Australia over the course of four years. In this time she endured multiple changes of direction due to the unpredictable nature of the COVID-19 pandemic, successfully delivering [PyConline](./PyConline.html) AU 2020, and [PyCon](PyCon) AU\'s return to an in-person event in 2023. Throughout her time leading [PyCon](PyCon) Australia, she has repeatedly demonstrated her ability to build teams, and has led her events with a commitment to inclusivity and diversity that is an example of the best in the Python community.
+I, Christopher Neugebauer, nominate Daisy Leigh Brenecki to the position of PSF Fellow, in recognition of her work leading the Python community in Australia, initially as an organiser of [DjangoCon](./DjangoCon.html) AU, and then leading [PyCon](../../conferences/pycon/PyCon) Australia over the course of four years. In this time she endured multiple changes of direction due to the unpredictable nature of the COVID-19 pandemic, successfully delivering [PyConline](./PyConline.html) AU 2020, and [PyCon](../../conferences/pycon/PyCon) AU\'s return to an in-person event in 2023. Throughout her time leading [PyCon](../../conferences/pycon/PyCon) Australia, she has repeatedly demonstrated her ability to build teams, and has led her events with a commitment to inclusivity and diversity that is an example of the best in the Python community.
 
 ### Fatemeh Tarash Kashani 
 
@@ -1566,7 +1566,7 @@ Since 2014, Maya has been involved in the [PyLadies](./PyLadies.html) Tokyo comm
 
 Beyond the [PyLadies](./PyLadies.html) Tokyo community, since 2018 Maaya is also an active member promoting and teaching Python through her work in the [PyLadies](./PyLadies.html) Caravan, where she travels around Japan meeting community members outside of Tokyo and running boot camps. I just cannot stress how important this particular work that level up the communities outside of Tokyo who have fewer opportunities than us within the city.
 
-She also actively helps out with the yearly [PyCon](PyCon) JP conference.
+She also actively helps out with the yearly [PyCon](../../conferences/pycon/PyCon) JP conference.
 
 She has also been actively involved in getting the regional APAC [PyLadies](./PyLadies.html) community to work together and learn from one another.
 
@@ -1584,7 +1584,7 @@ Mayokun Adeoti\'s unwavering commitment to the Python community, both locally an
 
 ### Rohit Goswami 
 
-After much deliberation, I (Rohit Goswami) have decided to self nominate myself to be recognized as a Fellow of the Python Software Foundation. I am a [NumPy](NumPy) developer for over two years now, where I focus on f2py , the Fortran in Python interface generator. This effort has been non-trivial, in no small part because of the distutils removal in 3.12. It is also (unfortunately) rather unlovable work, as though it bridges Fortran and Python, both communities are typically striving to remove F2PY. I have of course also had other interactions, I contribute to [SciPy](SciPy) fairly regularly, and have also lead the d-SEAMS organization under the PSF for GSoC 2023 last year. I have served as a mentor for several other years and organizations ([NumPy](NumPy) 2022, LFortran 2021 etc). I have also had the opportunity to present at [SciPyCon](./SciPyCon.html) in 2022, and [PyCon](PyCon) India 2020.
+After much deliberation, I (Rohit Goswami) have decided to self nominate myself to be recognized as a Fellow of the Python Software Foundation. I am a [NumPy](../../science/NumPy) developer for over two years now, where I focus on f2py , the Fortran in Python interface generator. This effort has been non-trivial, in no small part because of the distutils removal in 3.12. It is also (unfortunately) rather unlovable work, as though it bridges Fortran and Python, both communities are typically striving to remove F2PY. I have of course also had other interactions, I contribute to [SciPy](SciPy) fairly regularly, and have also lead the d-SEAMS organization under the PSF for GSoC 2023 last year. I have served as a mentor for several other years and organizations ([NumPy](../../science/NumPy) 2022, LFortran 2021 etc). I have also had the opportunity to present at [SciPyCon](./SciPyCon.html) in 2022, and [PyCon](../../conferences/pycon/PyCon) India 2020.
 
 ### Sixu Meng 
 
@@ -1602,7 +1602,7 @@ I strongly urge the committee to recognize the profound and far-reaching contrib
 
 ### Anton Patrushev 
 
-I, Andrey Vlasovskikh, propose that Anton Patrushev be recognized as a Fellow of the [PythonSoftware](./PythonSoftware.html) Foundation, due to his significant contributions to the Python community as the founder of the [PyCon](PyCon) Russia conference in 2013 and the director of the program committee. [PyCon](PyCon) Russia is a regional conference that used to be attended by a lot of speakers from all over the world (USA, Germany, Australia, Canada, Poland, etc.). It has helped to boost the popularity of Python and the international Python community in Russia.
+I, Andrey Vlasovskikh, propose that Anton Patrushev be recognized as a Fellow of the [PythonSoftware](./PythonSoftware.html) Foundation, due to his significant contributions to the Python community as the founder of the [PyCon](../../conferences/pycon/PyCon) Russia conference in 2013 and the director of the program committee. [PyCon](../../conferences/pycon/PyCon) Russia is a regional conference that used to be attended by a lot of speakers from all over the world (USA, Germany, Australia, Canada, Poland, etc.). It has helped to boost the popularity of Python and the international Python community in Russia.
 
 ### Asif Saif Uddin 
 
@@ -1638,7 +1638,7 @@ I firmly believe that Bhavesh Bhatt\'s dedication to spreading Python knowledge 
 
 *(Second nomination)*
 
-I, Kunal Awasthi, am excited to put forth Bhavesh Bhatt, a remarkable individual, for consideration for the prestigious Python Software Foundation (PSF) Fellow Membership. Bhavesh sir\'s invaluable contributions to the Python community, notably through his [PyCon](PyCon) sessions in Hyderabad and [PyCon](PyCon) MEA Gitex Dubai, showcase his expertise and commitment to advancing the Python ecosystem. Bhavesh has left an indelible mark on the Python community through his insightful sessions at [PyCon](PyCon) events, specifically highlighting his expertise in Building Intelligent Chatbots using Google\'s [MakerSuite](./MakerSuite.html) & PaLM API Integration with Neo4j Database. His knowledge-sharing extends beyond conferences, as evidenced by his engaging [YouTube](./YouTube.html) channels, where I have personally benefited from his teachings.
+I, Kunal Awasthi, am excited to put forth Bhavesh Bhatt, a remarkable individual, for consideration for the prestigious Python Software Foundation (PSF) Fellow Membership. Bhavesh sir\'s invaluable contributions to the Python community, notably through his [PyCon](../../conferences/pycon/PyCon) sessions in Hyderabad and [PyCon](../../conferences/pycon/PyCon) MEA Gitex Dubai, showcase his expertise and commitment to advancing the Python ecosystem. Bhavesh has left an indelible mark on the Python community through his insightful sessions at [PyCon](../../conferences/pycon/PyCon) events, specifically highlighting his expertise in Building Intelligent Chatbots using Google\'s [MakerSuite](./MakerSuite.html) & PaLM API Integration with Neo4j Database. His knowledge-sharing extends beyond conferences, as evidenced by his engaging [YouTube](./YouTube.html) channels, where I have personally benefited from his teachings.
 
 Bhavesh\'s Machine Learning-based channel and Python-based channel boast over 370 high-quality videos, garnering an impressive 50,000+ subscribers and accumulating more than 4+ million views. His content serves as a valuable resource, aiding individuals in enhancing their Python skills and exploring the realms of data science and machine learning.
 
@@ -1692,11 +1692,11 @@ We, Micaela Reyes and Matt Lebrun, propose that Freilla Mae Espinola be recogniz
 
 2\. Within Python Philippines (PythonPH) community in Manila and Philippines:
 
-- She has played significant roles in organizing [PyCon](PyCon) PH conferences from 2017 to 2023.
+- She has played significant roles in organizing [PyCon](../../conferences/pycon/PyCon) PH conferences from 2017 to 2023.
 
 - She has been a core volunteer for PythonPH since 2020, contributing as social media post manager for WFH Pythonista and other events.
 
-- She recently led the in-person logistics committee for [PyCon](PyCon) PH 2023.
+- She recently led the in-person logistics committee for [PyCon](../../conferences/pycon/PyCon) PH 2023.
 
 Freilla Mae\'s impact extends beyond Django Girls CDO and [PyTsada](./PyTsada.html). We hold deep personal admiration for her exceptional leadership and unwavering dedication to the community especially during difficult and unclear situations.
 
@@ -1708,23 +1708,23 @@ She demonstrates a high sense of responsibility that is truly commendable. She w
 
 I, Joannah Nanjekye, would like to nominate Marlene Mhangami to be recognized as a Fellow of the Python Software Foundation for her significant contributions to the Python community, particularly for her work empowering underrepresented groups and the Python community in Africa.
 
-Marlene is a previous vice chair and director for the Python Software Foundation, where she served on the board for 5 years. During her time on the board she also served as communications co-chair, organizing the blogging team and highlighting the work of Python community members from around the world. She was also the inaugural chair for [PyCon](PyCon) Africa, which was the first Pan-African gathering of the Python community on the continent of Africa. Marlene is the current chair of the PSF's Diversity and Inclusion Work Group, which tries to support the PSF in its mission of creating a diverse and inclusive community of Python programmers. She is a regular attendee of Python conferences around the world and volunteers her time to give advice and host events for community members in different parts of the world.
+Marlene is a previous vice chair and director for the Python Software Foundation, where she served on the board for 5 years. During her time on the board she also served as communications co-chair, organizing the blogging team and highlighting the work of Python community members from around the world. She was also the inaugural chair for [PyCon](../../conferences/pycon/PyCon) Africa, which was the first Pan-African gathering of the Python community on the continent of Africa. Marlene is the current chair of the PSF's Diversity and Inclusion Work Group, which tries to support the PSF in its mission of creating a diverse and inclusive community of Python programmers. She is a regular attendee of Python conferences around the world and volunteers her time to give advice and host events for community members in different parts of the world.
 
 Marlene has volunteered as an organizer and speaker at many Python conferences around the world. Here are a few examples
 
-- Chair [PyCon](PyCon) Africa 2019 and 2020
+- Chair [PyCon](../../conferences/pycon/PyCon) Africa 2019 and 2020
 
 - [ZimboPy](./ZimboPy.html) Founder and Organizer
 
-- [PyCon](PyCon) Nigeria 2017, Keynote Speaker
+- [PyCon](../../conferences/pycon/PyCon) Nigeria 2017, Keynote Speaker
 
-- [PyCon](PyCon) India 2018, Keynote Speaker
+- [PyCon](../../conferences/pycon/PyCon) India 2018, Keynote Speaker
 
-- [PyCon](PyCon) UK 2019, Keynote Speaker
+- [PyCon](../../conferences/pycon/PyCon) UK 2019, Keynote Speaker
 
-- [PyCon](PyCon) Italia 2023, Keynote Speaker
+- [PyCon](../../conferences/pycon/PyCon) Italia 2023, Keynote Speaker
 
-- [PyCon](PyCon) Lithuania 2023 Keynote Speaker
+- [PyCon](../../conferences/pycon/PyCon) Lithuania 2023 Keynote Speaker
 
 Marlene has been part of the Python community for years and continues to volunteer to make members feel welcome and included. You can find her Twitter profile here [https://twitter.com/marlene_zw](https://twitter.com/marlene_zw) where you can see more about the work she does on a day to day basis.
 
@@ -1816,11 +1816,11 @@ I believe after all the work Paolo has done for us, his Fellowship is long overd
 
 *Selected in Q3 of 2023*
 
-I, Patrick Arminio, would like to nominate Raquel Dou as PSF Fellow, she\'s been the chair of [EuroPython](EuroPython) for the last 2 years, after being on the board for 3 years prior. She\'s been a great force in kicking off a culture change for the whole of [EuroPython](EuroPython) and I\'m sure all her hard work will have long lasting effects.
+I, Patrick Arminio, would like to nominate Raquel Dou as PSF Fellow, she\'s been the chair of [EuroPython](../../conferences/europython/EuroPython) for the last 2 years, after being on the board for 3 years prior. She\'s been a great force in kicking off a culture change for the whole of [EuroPython](../../conferences/europython/EuroPython) and I\'m sure all her hard work will have long lasting effects.
 
-It was also super nice to see her trying to encourage people to run for the board, to ensure we have good people with the right culture running the conference and [EuroPython](EuroPython) society
+It was also super nice to see her trying to encourage people to run for the board, to ensure we have good people with the right culture running the conference and [EuroPython](../../conferences/europython/EuroPython) society
 
-If you want to know more about her I encourage you to watch her latest speeches at [EuroPython](EuroPython) 2023 for the closing of the conference: [https://www.youtube.com/live/X5PIZI18dOM?feature=share&t=2297](https://www.youtube.com/live/X5PIZI18dOM?feature=share&t=2297) and opening: [https://www.youtube.com/watch?v=HHvm_TYhG14&list=PL8uoeex94UhEGxPOetT3bpg8ibcxflh44&index=3](https://www.youtube.com/watch?v=HHvm_TYhG14&list=PL8uoeex94UhEGxPOetT3bpg8ibcxflh44&index=3)
+If you want to know more about her I encourage you to watch her latest speeches at [EuroPython](../../conferences/europython/EuroPython) 2023 for the closing of the conference: [https://www.youtube.com/live/X5PIZI18dOM?feature=share&t=2297](https://www.youtube.com/live/X5PIZI18dOM?feature=share&t=2297) and opening: [https://www.youtube.com/watch?v=HHvm_TYhG14&list=PL8uoeex94UhEGxPOetT3bpg8ibcxflh44&index=3](https://www.youtube.com/watch?v=HHvm_TYhG14&list=PL8uoeex94UhEGxPOetT3bpg8ibcxflh44&index=3)
 
 ### Sayantika Banik 
 
@@ -1846,13 +1846,13 @@ I, Abigail Mesrenyame Dogbe, propose that Aseda Addai-Deseh be recognized as a F
 
 Aseda has been at the forefront of Leading the Data Science Initiative since 2019 which has helped increase our membership. She has helped organize boot camps and meetups that have provided training materials and tutorials to about 60 women from Ghana, Nigeria, Tanzania, etc. During these sessions, she coordinated all volunteering efforts from other members and mentors. This effort has led to some members gaining full-time Data Science roles and others finding a career path using Python for Data Science. Her vision for the community is to help more women land these roles.
 
-In 2019, Aseda gave a talk on \"A reintroduction to Data Science\" at the first-ever [PyCon](PyCon) Africa, hosted in Ghana. Her session was published here ([https://www.youtube.com/watch?v=CyMhOsTJLQk](https://www.youtube.com/watch?v=CyMhOsTJLQk)). Like other members of the community, I have benefitted from Aseda\'s willingness to collaborate and achieve the goals of the community.
+In 2019, Aseda gave a talk on \"A reintroduction to Data Science\" at the first-ever [PyCon](../../conferences/pycon/PyCon) Africa, hosted in Ghana. Her session was published here ([https://www.youtube.com/watch?v=CyMhOsTJLQk](https://www.youtube.com/watch?v=CyMhOsTJLQk)). Like other members of the community, I have benefitted from Aseda\'s willingness to collaborate and achieve the goals of the community.
 
 ### Esteban Maya Cadavid 
 
 *Selected in Q2 of 2023*
 
-I, Sebastián Ramírez, propose that Esteban Maya Cadavid be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community in Colombia, in particular in Medellín, as the leader for the Python community there (Python meetups) and one of the leaders of [PyCon](PyCon) Colombia.
+I, Sebastián Ramírez, propose that Esteban Maya Cadavid be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community in Colombia, in particular in Medellín, as the leader for the Python community there (Python meetups) and one of the leaders of [PyCon](../../conferences/pycon/PyCon) Colombia.
 
 The Colombian Python events have helped the growth of Python in Colombia immensely, and Esteban has been helping a lot with these groups for several years.
 
@@ -1874,7 +1874,7 @@ Furthermore, Yifei has been a highly sought-after Python teacher at the local co
 
 Yifei\'s contributions to the Python community have been widely recognized as being above and beyond normal volunteering. Her efforts serve as a shining example of the power of programming to transform lives and make a positive impact on the world. For the orphans, local communities, and female communities, Yifei\'s teachings have opened up a whole new world of possibilities and opportunities that they never thought possible. As such, Yifei Wang is highly deserving of the recognition as a Fellow of the Python Software Foundation.
 
-In addition, Yifei has leveraged her bilingual expertise and technical skills to translate [NumPy](NumPy) documentation into Chinese to onboard more Chinese engineers. She is one of the top contributors since 2021. This helps to remove language barriers and makes the documentation more accessible to non-English speakers. This will lead to a more diverse and talented community of developers contributing to [NumPy](NumPy) and advancing the field of computer science as a whole.
+In addition, Yifei has leveraged her bilingual expertise and technical skills to translate [NumPy](../../science/NumPy) documentation into Chinese to onboard more Chinese engineers. She is one of the top contributors since 2021. This helps to remove language barriers and makes the documentation more accessible to non-English speakers. This will lead to a more diverse and talented community of developers contributing to [NumPy](../../science/NumPy) and advancing the field of computer science as a whole.
 
 ## 2023 Q1 Nominations 
 
@@ -1914,7 +1914,7 @@ I, Miroslav Šedivý, a PSF Fellow, propose that Gina Häußge be recognized as 
 
 I, Upkar Lidder, propose that Grishma Jena be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the Python community. In 2016, Grishma taught Python to students from middle and high school as part of Program Your Future at UC Berkeley. She regularly taught Python and gave talks on Data Science at the San Francisco Public Library from 2017-18. She was also a mentor to high-school students as part of the non-profit AI4ALL's program and guided them in using Python to create an app that helps triage 911 calls.
 
-From 2018, Grishma has delivered talks and workshops teaching Python, along with its applications for Data Science, Machine Learning, and Natural Language Processing. These have been for people across the globe including at [PyCon](PyCon) US, [PyLadies](./PyLadies.html) (global), [PyConf](./PyConf.html) Hyderabad, [PyTennessee](./PyTennessee.html), [PyCaribbean](./PyCaribbean.html), Mini [PyCon](PyCon) (San Francisco), IBM (internal), IBM Developer and IBM Call for Code (global), [KeepCoding](./KeepCoding.html) (Madrid), and multiple other conferences across USA, Canada, India, and virtually. She frequently holds Python workshops for high school and university students. Grishma also helped create 2 external IBM professional certification exams (Data Science Professional and Certified Data Scientist - Watson Specialist) that help people prove their knowledge of Python and Python's Data Science tools and packages. Through her efforts, she has encouraged more than 1600 people to discover the magic of Python and to continue exploring it.
+From 2018, Grishma has delivered talks and workshops teaching Python, along with its applications for Data Science, Machine Learning, and Natural Language Processing. These have been for people across the globe including at [PyCon](../../conferences/pycon/PyCon) US, [PyLadies](./PyLadies.html) (global), [PyConf](./PyConf.html) Hyderabad, [PyTennessee](./PyTennessee.html), [PyCaribbean](./PyCaribbean.html), Mini [PyCon](../../conferences/pycon/PyCon) (San Francisco), IBM (internal), IBM Developer and IBM Call for Code (global), [KeepCoding](./KeepCoding.html) (Madrid), and multiple other conferences across USA, Canada, India, and virtually. She frequently holds Python workshops for high school and university students. Grishma also helped create 2 external IBM professional certification exams (Data Science Professional and Certified Data Scientist - Watson Specialist) that help people prove their knowledge of Python and Python's Data Science tools and packages. Through her efforts, she has encouraged more than 1600 people to discover the magic of Python and to continue exploring it.
 
 ### Martijn Pieters 
 
@@ -1964,7 +1964,7 @@ We write to you as past & present committee members of the New Zealand Python Us
 
 We would like to jointly nominate Danny Adair to be recognised as a Fellow of the Python Software Foundation. Danny founded the NZPUG ([https://python.nz/](https://python.nz/)) in 2009, and sat as President until stepping down to Committee member in 2018; his unbroken tenure continues still, as he was re-elected by our membership this week during our AGM. He was also the guiding force that led NZPUG to become a Registered Charity in early 2016 - not an easy feat in the face of Charities legislation.
 
-During his time as founder and President, Danny has also been organiser for a number of our annual Kiwi [PyCon](PyCon) conferences in the Far North, Auckland, and Wellington - and has been Sponsorship Coordinator for all 11 Kiwi [PyCon](PyCon)\'s held during the existence of NZPUG. During all this, Danny has been the organiser of the monthly Wellington NZPUG meetups for many years, and provides ongoing support for our five meetup groups across the country.
+During his time as founder and President, Danny has also been organiser for a number of our annual Kiwi [PyCon](../../conferences/pycon/PyCon) conferences in the Far North, Auckland, and Wellington - and has been Sponsorship Coordinator for all 11 Kiwi [PyCon](../../conferences/pycon/PyCon)\'s held during the existence of NZPUG. During all this, Danny has been the organiser of the monthly Wellington NZPUG meetups for many years, and provides ongoing support for our five meetup groups across the country.
 
 Danny himself has been a steadfast promoter of Python in New Zealand for decades now, and his name is deeply connected with an unswerving commitment to community - and unity - in our shared appreciation of Python. It is difficult to think of any other person who has single-handedly had such a strong and enduring influence on the Python community within New Zealand. NZPUG - quite literally - would not exist without him.
 
@@ -1976,9 +1976,9 @@ We passionately advocate for his formal recognition as a Fellow of the PSF.
 
 I, Iqbal Abdullah, a PSF Fellow, would like to nominate Yung-Yu Chen (or widely known as YYC) as a PSF Fellow to acknowledge his efforts in building a base for the Python community in Taiwan and the East Asian region.
 
-YYC started the first [PyCon](PyCon) TW in 2012 ([https://tw.pycon.org/2022/en-us/about/history](https://tw.pycon.org/2022/en-us/about/history)) as the first chair and continued to lead the organizing team up until [PyCon](PyCon) APAC 2015.
+YYC started the first [PyCon](../../conferences/pycon/PyCon) TW in 2012 ([https://tw.pycon.org/2022/en-us/about/history](https://tw.pycon.org/2022/en-us/about/history)) as the first chair and continued to lead the organizing team up until [PyCon](../../conferences/pycon/PyCon) APAC 2015.
 
-YYC now doesn\'t participate actively in the organizing of conferences and community events, but this is where his leadership and his contribution to our community shines: His vision has enabled the [PyCon](PyCon) TW community to have a strong succession plan. [PyCon](PyCon) TW continues to show robustness in promoting Python within its community, and even when other communities were unable to stand up to organize a regional conference for 2022, [PyCon](PyCon) TW took up the task with their batch of young leaders. As Naomi Ceder put it: \"There is no leadership when you don\'t have a succession plan\" (or something to that effect).
+YYC now doesn\'t participate actively in the organizing of conferences and community events, but this is where his leadership and his contribution to our community shines: His vision has enabled the [PyCon](../../conferences/pycon/PyCon) TW community to have a strong succession plan. [PyCon](../../conferences/pycon/PyCon) TW continues to show robustness in promoting Python within its community, and even when other communities were unable to stand up to organize a regional conference for 2022, [PyCon](../../conferences/pycon/PyCon) TW took up the task with their batch of young leaders. As Naomi Ceder put it: \"There is no leadership when you don\'t have a succession plan\" (or something to that effect).
 
 YYC continues to participate in regional discussions and is active in recruiting young people from his community to get involved in other regional conferences to increase partnership within the region. In his professional life, he is also active in promoting diversity (i.e gender diversity by encouraging and training young female engineers to speak at conferences and opportunities to gain skills). He is still actively contributing his time, experience and knowledge giving ideas and helping improve partnerships between the different communities in East/South East Asia.
 
@@ -2006,7 +2006,7 @@ You can find more about Soong Chee here: [https://www.youtube.com/watch?v=WFWqbb
 
 *Selected in Q4 of 2022*
 
-I, Reimar Bauer, propose that Josef Heinen be recognized as a Fellow of the Python Software Foundation due to his significant contributions to the Python community as maintainer and lead developer of the GR framework for cross-platform visualization applications. The framework can be used as a backend for Matplotlib and can significantly improve the performance of existing Matplotlib or [PyPlot](./PyPlot.html) applications. Unlike Matplotlib, GR can also be used in traditional (C, C++) and other REPL languages (Julia, Ruby) with various toolkits (e.g. Qt) or in web-based applications. Josef Heinen spoke on the [EuroPython](EuroPython), [SciPy](SciPy), PyConUS, PyConDE conference series.
+I, Reimar Bauer, propose that Josef Heinen be recognized as a Fellow of the Python Software Foundation due to his significant contributions to the Python community as maintainer and lead developer of the GR framework for cross-platform visualization applications. The framework can be used as a backend for Matplotlib and can significantly improve the performance of existing Matplotlib or [PyPlot](./PyPlot.html) applications. Unlike Matplotlib, GR can also be used in traditional (C, C++) and other REPL languages (Julia, Ruby) with various toolkits (e.g. Qt) or in web-based applications. Josef Heinen spoke on the [EuroPython](../../conferences/europython/EuroPython), [SciPy](SciPy), PyConUS, PyConDE conference series.
 
 I, Georg Brandl, support the nomination.
 
@@ -2034,17 +2034,17 @@ Hugo is a maintainer of the pillow library ([https://github.com/python-pillow/Pi
 
 *Selected in Q3 of 2022*
 
-I, Kwon-Han Bae, propose that Iqbal Abdullah be recognized as a Fellow of the Python Software Foundation. I met him at [PyCon](PyCon) APAC 2013 ([https://apac-2013.pycon.jp/](https://apac-2013.pycon.jp/)). At that time, [PyCon](PyCon) APAC was just 3 countries ( SG, JP, TW ). With the support of people including Iqbal, I started [PyCon](PyCon) KR 2014 the next year.
+I, Kwon-Han Bae, propose that Iqbal Abdullah be recognized as a Fellow of the Python Software Foundation. I met him at [PyCon](../../conferences/pycon/PyCon) APAC 2013 ([https://apac-2013.pycon.jp/](https://apac-2013.pycon.jp/)). At that time, [PyCon](../../conferences/pycon/PyCon) APAC was just 3 countries ( SG, JP, TW ). With the support of people including Iqbal, I started [PyCon](../../conferences/pycon/PyCon) KR 2014 the next year.
 
-Since then, Iqbal has attended [PyCon](PyCon) KR multiple times even though most of presence was made in Korean, which he doesn\'t understand. He gave some talks in English and supported [PyCon](PyCon) KR to hold [PyCon](PyCon) APAC 2016.
+Since then, Iqbal has attended [PyCon](../../conferences/pycon/PyCon) KR multiple times even though most of presence was made in Korean, which he doesn\'t understand. He gave some talks in English and supported [PyCon](../../conferences/pycon/PyCon) KR to hold [PyCon](../../conferences/pycon/PyCon) APAC 2016.
 
 ### Kwon-Han Bae 
 
 *Selected in Q3 of 2022*
 
-I, Iqbal Abdullah, propose that Kwon-Han Bae be recognized as a Fellow of the Python Software Foundation. Kwon-Han\'s contribution to the Python community in APAC generally and South Korea specifically cannot be understated and should be recognized. He was one of the founding members of [PyCon](PyCon) KR, starting it from humble beginnings in 2014 and now hosts over 1800 Pythonistas yearly in the biggest conference venue in South Korea.
+I, Iqbal Abdullah, propose that Kwon-Han Bae be recognized as a Fellow of the Python Software Foundation. Kwon-Han\'s contribution to the Python community in APAC generally and South Korea specifically cannot be understated and should be recognized. He was one of the founding members of [PyCon](../../conferences/pycon/PyCon) KR, starting it from humble beginnings in 2014 and now hosts over 1800 Pythonistas yearly in the biggest conference venue in South Korea.
 
-Kwon-Han was also a leading figure galvanizing support and volunteers to take part and host [PyCon](PyCon) APAC 2016 together with South Korea\'s East Asian neighbours Taiwan and Japan.
+Kwon-Han was also a leading figure galvanizing support and volunteers to take part and host [PyCon](../../conferences/pycon/PyCon) APAC 2016 together with South Korea\'s East Asian neighbours Taiwan and Japan.
 
 Currently, he does not actively participate in organizing the community as before. He has done a wonderful job of passing on the responsibilities to the next generation of organizers, which I believe is a key reason for the success of the Python community in South Korea. He now plays an important leading role in managing and getting the various communities in East and South East Asia to work together and maintain good relationships to further the values and promote Python through [PyCons](./PyCons.html) within the region, which goes far beyond \"just organizing events\".
 
@@ -2058,13 +2058,13 @@ I, Kushal Das, propose that Sayan Chowdhury be recognized as a Fellow of the Pyt
 
 His open source journey back in 2011 when he helped the [FedoraProject](./FedoraProject.html) with the deployment of the ask.fedoraproject.org. His contributions were to a Python-based Q/A forum-based project, askbot-devel which was used by the Fedora team to deploy the ask.fedoraproject.org. He later became a regular contributor to the Transifex project, working on their translation web-client. While contributing to Transifex, he also helped projects like VLC Media Player, Transifex as a role of translator.
 
-From the early open source days, he has been involved in the Python Community of India. He was one of the early torch-bearers when the [BangPypers](BangPypers) (Bangalore Python Users\' Group) rebooted in Bangalore. Over the next 2 years, he helped grow the audience and the community. He still visits the [BangPypers](BangPypers) meetup and helps the organizers with ideas and mentorship.
+From the early open source days, he has been involved in the Python Community of India. He was one of the early torch-bearers when the [BangPypers](../../community/BangPypers) (Bangalore Python Users\' Group) rebooted in Bangalore. Over the next 2 years, he helped grow the audience and the community. He still visits the [BangPypers](../../community/BangPypers) meetup and helps the organizers with ideas and mentorship.
 
-After attending the first [PyCon](PyCon) India in 2012, Sayan joined the [PyCon](PyCon) India volunteering team in 2013. Since then, He has had multiple lead hold roles in various [PyCon](PyCon) India working groups over the years. He served as the Chair of [PyCon](PyCon) India 2020 Online and was one of the core organizers of [PyCon](PyCon) India 2021 Online. He also volunteered in [PyCon](PyCon) US 2017, and [EuroPython](EuroPython) 2020-2021. He also helped the [PyCon](PyCon) Pune 2017 team to organize a conference that was quite unique in experience and was applauded by the Indian community. While organizing the [PyCon](PyCon) India 2020, He worked on bringing structure to the conference and to make it sustainable. He also worked on getting folks in the Python India community to get Code of Conduct training to build a stronger Code of Conduct team for the conference, and he thanks PSF for all the help. With this experience around conferences, he has also helped other Indian conferences to bring structure to conferences. Sayan is also part of the PSF Grants WG since 2016, helping the team review grants from the APAC region, especially India.
+After attending the first [PyCon](../../conferences/pycon/PyCon) India in 2012, Sayan joined the [PyCon](../../conferences/pycon/PyCon) India volunteering team in 2013. Since then, He has had multiple lead hold roles in various [PyCon](../../conferences/pycon/PyCon) India working groups over the years. He served as the Chair of [PyCon](../../conferences/pycon/PyCon) India 2020 Online and was one of the core organizers of [PyCon](../../conferences/pycon/PyCon) India 2021 Online. He also volunteered in [PyCon](../../conferences/pycon/PyCon) US 2017, and [EuroPython](../../conferences/europython/EuroPython) 2020-2021. He also helped the [PyCon](../../conferences/pycon/PyCon) Pune 2017 team to organize a conference that was quite unique in experience and was applauded by the Indian community. While organizing the [PyCon](../../conferences/pycon/PyCon) India 2020, He worked on bringing structure to the conference and to make it sustainable. He also worked on getting folks in the Python India community to get Code of Conduct training to build a stronger Code of Conduct team for the conference, and he thanks PSF for all the help. With this experience around conferences, he has also helped other Indian conferences to bring structure to conferences. Sayan is also part of the PSF Grants WG since 2016, helping the team review grants from the APAC region, especially India.
 
 He has also been involved with Python projects in Mozilla, and contributed a few patches to CPython.
 
-He is also a regular speaker at various conferences. He has spoken at [PyCon](PyCon) India, FOSSASIA, FOSDEM, Flock, and other local Python meetups and conferences ([PyBelgaum](./PyBelgaum.html), [PyConf](./PyConf.html) Hyderabad etc), talking about Projects. He also served as a mentor in various [PyCon](PyCon) Devsprints. He has been a [DjangoGirls](./DjangoGirls.html) Bangalore mentor for a couple of subsequent years. A proud moment for him was when one of his Django Girls mentees went ahead to become mentors in the subsequent editions\[1\]. Sayan helped the Python Pune team as a volunteer during his days in Pune. Sayan helped the [PyLadies](./PyLadies.html) Pune team with talks and sessions in the meetups. He regularly attends Science Hack Day, where he hacks on projects with other kids and students, and regularly takes a Python 101 session for visiting students at the conference.
+He is also a regular speaker at various conferences. He has spoken at [PyCon](../../conferences/pycon/PyCon) India, FOSSASIA, FOSDEM, Flock, and other local Python meetups and conferences ([PyBelgaum](./PyBelgaum.html), [PyConf](./PyConf.html) Hyderabad etc), talking about Projects. He also served as a mentor in various [PyCon](../../conferences/pycon/PyCon) Devsprints. He has been a [DjangoGirls](./DjangoGirls.html) Bangalore mentor for a couple of subsequent years. A proud moment for him was when one of his Django Girls mentees went ahead to become mentors in the subsequent editions\[1\]. Sayan helped the Python Pune team as a volunteer during his days in Pune. Sayan helped the [PyLadies](./PyLadies.html) Pune team with talks and sessions in the meetups. He regularly attends Science Hack Day, where he hacks on projects with other kids and students, and regularly takes a Python 101 session for visiting students at the conference.
 
 He writes is blog at yudocaa.in
 
@@ -2076,7 +2076,7 @@ I, Kushal Das, propose that Anwesha Das be recognized as a Fellow of the Python 
 
 She also helped multiple projects (in Python land and also the companies) to fix their software license to become better Open Source players. Her research of software licenses in PyPI & in Fedora Project has been mentioned by the various Sofware License pages in Wikipedia.
 
-Anwesha is a regular speaker in various conferences (including [PyCon](PyCon) India, [PyCon](PyCon) US) & also gave a keynote in [PyCon](PyCon) UK. She is also a regular volunteer for the [PyLadies](./PyLadies.html) efforts in all the conferences in participate. Other than normal volunteering for conferences, she is also an organizer for [PyCon](PyCon) Sweden (2022), [PyCon](PyCon) Pune (2017), leading the infrastructure for Linux Users\' Group of Durgapur ([https://dgplug.org](https://dgplug.org)), and leading the Python based online summer training for the community ([https://foss.training](https://foss.training)) in 2022.
+Anwesha is a regular speaker in various conferences (including [PyCon](../../conferences/pycon/PyCon) India, [PyCon](../../conferences/pycon/PyCon) US) & also gave a keynote in [PyCon](../../conferences/pycon/PyCon) UK. She is also a regular volunteer for the [PyLadies](./PyLadies.html) efforts in all the conferences in participate. Other than normal volunteering for conferences, she is also an organizer for [PyCon](../../conferences/pycon/PyCon) Sweden (2022), [PyCon](../../conferences/pycon/PyCon) Pune (2017), leading the infrastructure for Linux Users\' Group of Durgapur ([https://dgplug.org](https://dgplug.org)), and leading the Python based online summer training for the community ([https://foss.training](https://foss.training)) in 2022.
 
 She writes regularly at [https://anweshadas.in](https://anweshadas.in)
 
@@ -2084,7 +2084,7 @@ She writes regularly at [https://anweshadas.in](https://anweshadas.in)
 
 *Selected in Q3 of 2022*
 
-I, Georgi Ker would like to nominate Sammy Fung as a Fellow of the Python Software Foundation. Sammy started organising [PyCon](PyCon) HK since 2015 and has been vital to the Python community in Hong Kong providing viable access of Python related knowledge to the Hong Kongers. 2022 is Sammy\'s 8th year chairing [PyCon](PyCon) HK and I think he deserved to be recognised as a fellow. He wrote an article about his experience: [https://sammyfung.com/8th-year-chairing-pycon-hong-kong/](https://sammyfung.com/8th-year-chairing-pycon-hong-kong/)
+I, Georgi Ker would like to nominate Sammy Fung as a Fellow of the Python Software Foundation. Sammy started organising [PyCon](../../conferences/pycon/PyCon) HK since 2015 and has been vital to the Python community in Hong Kong providing viable access of Python related knowledge to the Hong Kongers. 2022 is Sammy\'s 8th year chairing [PyCon](../../conferences/pycon/PyCon) HK and I think he deserved to be recognised as a fellow. He wrote an article about his experience: [https://sammyfung.com/8th-year-chairing-pycon-hong-kong/](https://sammyfung.com/8th-year-chairing-pycon-hong-kong/)
 
 ### Chandan Kumar 
 
@@ -2092,11 +2092,11 @@ I, Georgi Ker would like to nominate Sammy Fung as a Fellow of the Python Softwa
 
 I, Kushal Das, propose that Chandan Kumar be recognized as a Fellow of the Python Software Foundation. Chandan Kumar is a Principal Software Engineer in the [OpenStack](./OpenStack.html) Engineering team at Red Hat. As a core reviewer and contributor, his day-to-day work is primarily focused on the [OpenStack](./OpenStack.html) TripleO project.
 
-He has been involved with Open Source Community from 2012 onwards. He started his Open Source journey as an English to Hindi translator for various [OpenSource](OpenSource) projects like VLC Media Player, Django, Mate, Firefox, and GNOME. He also completed GSOC 2013 with the KDE community by improving his l10n platform.
+He has been involved with Open Source Community from 2012 onwards. He started his Open Source journey as an English to Hindi translator for various [OpenSource](../../people/OpenSource) projects like VLC Media Player, Django, Mate, Firefox, and GNOME. He also completed GSOC 2013 with the KDE community by improving his l10n platform.
 
 He maintains more than 100+ packages in RDO(an [OpenStack](./OpenStack.html) community distribution) and Fedora community as a packager. He spoke at various conferences Like FOSSASIA 2018, CentOS Dojo, [PyConf](./PyConf.html) Hyderabad, and [PythonPune](./PythonPune.html) meetup. He is the co-organizer of the [OpenStack](./OpenStack.html) India meetup User group and a volunteer at DGPLUG.
 
-He has been involved with the Indian Python Community for a very long time. He attended his first [PyCon](PyCon) India Conference back in 2012. By 2013, He volunteered for [PyCon](PyCon) India 2013. He served as a volunteer lead from [PyCon](PyCon) India from 2014 to 2019. Later, He became one of the organizers of [PyCon](PyCon) India 2020 online and [PyCon](PyCon) Pune 2017. He was also the chair of [PyCon](PyCon) India 2021.
+He has been involved with the Indian Python Community for a very long time. He attended his first [PyCon](../../conferences/pycon/PyCon) India Conference back in 2012. By 2013, He volunteered for [PyCon](../../conferences/pycon/PyCon) India 2013. He served as a volunteer lead from [PyCon](../../conferences/pycon/PyCon) India from 2014 to 2019. Later, He became one of the organizers of [PyCon](../../conferences/pycon/PyCon) India 2020 online and [PyCon](../../conferences/pycon/PyCon) Pune 2017. He was also the chair of [PyCon](../../conferences/pycon/PyCon) India 2021.
 
 [PythonPune](./PythonPune.html) meetup user group started back in 2013 but got halted. He rebooted the meetup in Nov 2014 by hosting regular meetups. By Nov 2022, the [PythonPune](./PythonPune.html) user group is about to complete 8 years of continuous successful meetups without missing a single month, even during the Pandemic. It now has 11,387 members on the meetup page today. He started alone. Now the group has a dedicated organizing team with properly defined responsibilities, the process defined, and a Code of Conduct. He helped many people to advance their careers in Open Source and allowed them to become FOSS contributors, switching/changing jobs.
 
@@ -2104,19 +2104,19 @@ He has been involved with the Indian Python Community for a very long time. He a
 
 *Selected in Q4 of 2022*
 
-I, David Gibbons, propose that Nicolas Laurance be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community in Ireland. Nicolas has been involved for over seven years with organising events in Ireland. In particular, as chairperson for the last four and half years of Python Ireland. He has been a driving force in creating new collaborations with other local organizations (tech and others), and setting up regular, interesting events for the large Python community in Ireland. As a committee member of Python Ireland myself, I know he has shown very good leadership with planning and hosting our monthly meetups, which has been particularly challenging given the remote setup over the last two years. He has also delivered some very interesting Python talks himself over the last number of years. He is the central figure in planning our largest event each year, [PyCon](PyCon) Ireland, which involves numerous meetings, planning, and dealing with many different parties to ensure a successful event.
+I, David Gibbons, propose that Nicolas Laurance be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community in Ireland. Nicolas has been involved for over seven years with organising events in Ireland. In particular, as chairperson for the last four and half years of Python Ireland. He has been a driving force in creating new collaborations with other local organizations (tech and others), and setting up regular, interesting events for the large Python community in Ireland. As a committee member of Python Ireland myself, I know he has shown very good leadership with planning and hosting our monthly meetups, which has been particularly challenging given the remote setup over the last two years. He has also delivered some very interesting Python talks himself over the last number of years. He is the central figure in planning our largest event each year, [PyCon](../../conferences/pycon/PyCon) Ireland, which involves numerous meetings, planning, and dealing with many different parties to ensure a successful event.
 
 ### Abhishek Mishra 
 
 *Selected in Q1 of 2023*
 
-I, Georgi Ker, would like to nominate Abhishek Mishra as a Fellow of the Python Software Foundation. Abhishek has been very active in organising [PyCon](PyCon) and sharing Python related experiences in India for many years. He has also helped pull the community together recently in [PyCon](PyCon) APAC and constantly contributes to the Python India community.
+I, Georgi Ker, would like to nominate Abhishek Mishra as a Fellow of the Python Software Foundation. Abhishek has been very active in organising [PyCon](../../conferences/pycon/PyCon) and sharing Python related experiences in India for many years. He has also helped pull the community together recently in [PyCon](../../conferences/pycon/PyCon) APAC and constantly contributes to the Python India community.
 
-Activities: [PyCon](PyCon) India Organizer (2019,2020,2021), [PyCon](PyCon) APAC 2021, Volunteer at [PyLadies](./PyLadies.html) Chennai, [ChennaiPy](./ChennaiPy.html) user groups, volunteer [PyCascades](./PyCascades.html) 2022
+Activities: [PyCon](../../conferences/pycon/PyCon) India Organizer (2019,2020,2021), [PyCon](../../conferences/pycon/PyCon) APAC 2021, Volunteer at [PyLadies](./PyLadies.html) Chennai, [ChennaiPy](./ChennaiPy.html) user groups, volunteer [PyCascades](./PyCascades.html) 2022
 
 ### Thomi Richards 
 
-I, Georgi Ker, would like to nominate Thomi Richards to be recognised as a Fellow of the Python Software Foundation. Thomi has been vital to the Kiwi community in New Zealand and had been putting in tremendous amount of effort supporting the community by organising meetups and Kiwi [PyCon](PyCon) for as long as I know.
+I, Georgi Ker, would like to nominate Thomi Richards to be recognised as a Fellow of the Python Software Foundation. Thomi has been vital to the Kiwi community in New Zealand and had been putting in tremendous amount of effort supporting the community by organising meetups and Kiwi [PyCon](../../conferences/pycon/PyCon) for as long as I know.
 
 ### Saptak Sengupta 
 
@@ -2124,11 +2124,11 @@ I, Georgi Ker, would like to nominate Thomi Richards to be recognised as a Fello
 
 I, Kushal Das, propose that Saptak Sengupta be recognized as a Fellow of the Python Software Foundation. Saptak Sengupta is a human rights-centered developer who does a lot of work in security, privacy and accessibility-related projects.
 
-He has been a core part of [PyCon](PyCon) India, volunteering and working in the website team since 2016. He was also part of the organizing team of [PyCon](PyCon) Pune. He also gave regular talks in conferences and helped people to learn Python, especially in the human-focused web application land.
+He has been a core part of [PyCon](../../conferences/pycon/PyCon) India, volunteering and working in the website team since 2016. He was also part of the organizing team of [PyCon](../../conferences/pycon/PyCon) Pune. He also gave regular talks in conferences and helped people to learn Python, especially in the human-focused web application land.
 
 He was also part of GSoC admin team for FOSSASIA project from 2015-2019, and mentor for GCI, and helped kids to learn science with the help of Python in Science Hack Day in India from 2016-2019. He also built the site and helped in the planning of Fossresponders in 2020 to help all conferences and community activities affected by COVID.
 
-He is a maintainer of the [OnionShare](./OnionShare.html) project, which is written in Python and [PySide](PySide) framework that helps journalists, activists, lawyers, and everyone else around the world to securely and anonymously share files, host websites, and chat anonymously via the Tor network. He is a part of the accessibility team of Wagtail, which is a CMS written on top of the Django framework. He works on contract with Freedom of the Press Foundation to help maintain open source projects and websites like securedrop.org and Press Freedom Tracker. Previously, he also worked with the Weblate project, which is a translation and localization tool written in Django. He is currently working on Tumpa, an open-source GUI project written in Python to make using GPG securely easier for activists and other users.
+He is a maintainer of the [OnionShare](./OnionShare.html) project, which is written in Python and [PySide](../../people/PySide) framework that helps journalists, activists, lawyers, and everyone else around the world to securely and anonymously share files, host websites, and chat anonymously via the Tor network. He is a part of the accessibility team of Wagtail, which is a CMS written on top of the Django framework. He works on contract with Freedom of the Press Foundation to help maintain open source projects and websites like securedrop.org and Press Freedom Tracker. Previously, he also worked with the Weblate project, which is a translation and localization tool written in Django. He is currently working on Tumpa, an open-source GUI project written in Python to make using GPG securely easier for activists and other users.
 
 He was the chapter lead for the Security chapter of Web Almanac 2021, and is authoring both the Security and Accessibility chapter of Web Almanac 2022. He also helped in the development of the web almanac website in 2020 and 2021, which is made using Python Flask.
 
@@ -2138,7 +2138,7 @@ He was the chapter lead for the Security chapter of Web Almanac 2021, and is aut
 
 *Selected in Q3 of 2022*
 
-I, Paul [McGuire](./McGuire.html), propose that Peter Wang be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a co-founder of Enthought and its development of Numpy, and leadership at Anaconda Inc and its development of the conda package manager and numerical coding environment, and most recently [PyScript](./PyScript.html). Peter has been a long-time organizer for Austin\'s Python Meetup, and has spoken at multiple [PyCon](PyCon) conferences (including most recent keynote announcing [PyScript](./PyScript.html)).
+I, Paul [McGuire](./McGuire.html), propose that Peter Wang be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a co-founder of Enthought and its development of Numpy, and leadership at Anaconda Inc and its development of the conda package manager and numerical coding environment, and most recently [PyScript](./PyScript.html). Peter has been a long-time organizer for Austin\'s Python Meetup, and has spoken at multiple [PyCon](../../conferences/pycon/PyCon) conferences (including most recent keynote announcing [PyScript](./PyScript.html)).
 
 ## 2022 Q2 Nominations 
 
@@ -2152,7 +2152,7 @@ Jürgen is a very active and very enthusiastic Pythonista, and as a colleague, h
 
 ### Stephanie Rideout 
 
-I, Grecia Castaldi, propose that Stephanie Rideout be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the Python community as a Leadership Fellow at Women Who Code for the Python track who mentors and leads a volunteer team to conduct webinars, workshops, hack sessions, meet ups, escape rooms, event series, interactive Slack events, coding buddy programs, and more that teach and promote Python to the community, a lead organizer of the Beginner Python Study Group for the 2020, 2021, and 2022 editions, an initiator and a lead organizer of Women Who Code\'s Hackathon for Social Good 2022, a lead organizer of the Women Who Code [BlockDataPy](./BlockDataPy.html) Summit 2022 featuring a Python track, a co-chair to Women Who Code\'s CONNECT Recharge CFP Review Committee to ensure empowering Python-themed sessions are selected for the global conference, a mentor to first-time speakers for their CFP submissions for Women Who Code CONNECT Recharge 2022, CONNECT Forward 2021, and [EuroPython](EuroPython) 2022 conferences, a co-organizer of a virtual panel discussion to encourage CFP submissions to [PyCon](PyCon) 2022, a CFP reviewer for Women Who Code\'s CONNECT Forward 2020 and 2021 and [EuroPython](EuroPython) 2022 conferences, and an evangelist for the Women Who Code Python track since early 2020 dedicated to promoting Python through digital media and spoken word that inspires women around the globe to learn and practice the Python programming language.
+I, Grecia Castaldi, propose that Stephanie Rideout be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the Python community as a Leadership Fellow at Women Who Code for the Python track who mentors and leads a volunteer team to conduct webinars, workshops, hack sessions, meet ups, escape rooms, event series, interactive Slack events, coding buddy programs, and more that teach and promote Python to the community, a lead organizer of the Beginner Python Study Group for the 2020, 2021, and 2022 editions, an initiator and a lead organizer of Women Who Code\'s Hackathon for Social Good 2022, a lead organizer of the Women Who Code [BlockDataPy](./BlockDataPy.html) Summit 2022 featuring a Python track, a co-chair to Women Who Code\'s CONNECT Recharge CFP Review Committee to ensure empowering Python-themed sessions are selected for the global conference, a mentor to first-time speakers for their CFP submissions for Women Who Code CONNECT Recharge 2022, CONNECT Forward 2021, and [EuroPython](../../conferences/europython/EuroPython) 2022 conferences, a co-organizer of a virtual panel discussion to encourage CFP submissions to [PyCon](../../conferences/pycon/PyCon) 2022, a CFP reviewer for Women Who Code\'s CONNECT Forward 2020 and 2021 and [EuroPython](../../conferences/europython/EuroPython) 2022 conferences, and an evangelist for the Women Who Code Python track since early 2020 dedicated to promoting Python through digital media and spoken word that inspires women around the globe to learn and practice the Python programming language.
 
 ## 2022 Q1 Nominations 
 
@@ -2174,21 +2174,21 @@ Denny has been in touch with different groups and activities around Python and O
 
 She has been volunteering in many Python conferences in any area that needed help, just to name a few:
 
-- [PyCon](PyCon) US 2018 and 2019 ([PyLadies](./PyLadies.html) Stand and [PyLadies](./PyLadies.html) Auction)
+- [PyCon](../../conferences/pycon/PyCon) US 2018 and 2019 ([PyLadies](./PyLadies.html) Stand and [PyLadies](./PyLadies.html) Auction)
 
-- [PyCon](PyCon) Latam 2019 (Being a Host and the Volunteering Team Coordinator \[2\])
+- [PyCon](../../conferences/pycon/PyCon) Latam 2019 (Being a Host and the Volunteering Team Coordinator \[2\])
 
-- [PyCon](PyCon) Canada 2019 (Registration/Swags)
+- [PyCon](../../conferences/pycon/PyCon) Canada 2019 (Registration/Swags)
 
 - Python Brasil 2021 (Host and session Runner)
 
-- [PyCon](PyCon) US 2021 (Chat room moderator [PyCharlas](./PyCharlas.html))
+- [PyCon](../../conferences/pycon/PyCon) US 2021 (Chat room moderator [PyCharlas](./PyCharlas.html))
 
 - [PyCascades](./PyCascades.html) 2022 (Chat room Moderator)
 
-Denny has also participated in many meetups events as a speaker, like: Python Panamá, Python Nicaragua, Python Dominicana, and Python Bolivia, and also in conferences like [PyCon](PyCon) Brasil 2021.
+Denny has also participated in many meetups events as a speaker, like: Python Panamá, Python Nicaragua, Python Dominicana, and Python Bolivia, and also in conferences like [PyCon](../../conferences/pycon/PyCon) Brasil 2021.
 
-At the moment, besides her participation in the Python en Español Discord server, she is a co-organizer of [PyCon](PyCon) Latam (since 2020) \[2\], she is a co-organizer of the Python Chile community \[3\] (where she helped to have the first [PyCon](PyCon) Chile in 2021), she is also a co-organizer and co-founder of the first Chilean [PyLadies](./PyLadies.html) chapter, [PyLadies](./PyLadies.html) Santiago (2021) \[4\], and this year she is the co-chair of the [PyCon](PyCon) Charlas Track at PyConUS 2022.
+At the moment, besides her participation in the Python en Español Discord server, she is a co-organizer of [PyCon](../../conferences/pycon/PyCon) Latam (since 2020) \[2\], she is a co-organizer of the Python Chile community \[3\] (where she helped to have the first [PyCon](../../conferences/pycon/PyCon) Chile in 2021), she is also a co-organizer and co-founder of the first Chilean [PyLadies](./PyLadies.html) chapter, [PyLadies](./PyLadies.html) Santiago (2021) \[4\], and this year she is the co-chair of the [PyCon](../../conferences/pycon/PyCon) Charlas Track at PyConUS 2022.
 
 You can find her Twitter profile here [https://twitter.com/dennyperez18](https://twitter.com/dennyperez18) where you can see how devoted to the Python Community she is.
 
@@ -2204,7 +2204,7 @@ I, Steve Holden (former chairman of the PSF and a director for 8 years), hereby 
 
 I, Priyanshu Agarwal, propose myself to be recognized as a Fellow of the Python Software Foundation, due to my significant contributions to the Python community.
 
-I am an active contributor to various open source projects. I have made significant code contributions, along with extensive tests and documentation coverage, to the python package PyBaMM. It houses state-of-the-art automatic differentiation and numerical solvers that solve physics-based electrochemical DAE models. As part of my Google Summer of Code, I adapted PyBaMM's expression trees to render mathematical equations in latex using [SymPy](SymPy). I have taken full ownership of the project by not just working on the requirements that were laid out originally but also contributing my own ideas. Recently, I took the initiative to automate PyBaMM's release workflow on PyPI and am now the maintainer of this repository on conda-forge. I am also trying to build a community and attract additional contributors to the project by delivering a talk at the Faraday Institute, UK, and hosting AMA sessions. In addition, I recently signed on as a contributor to liionpack, a PyBaMM offshoot project, to kickstart its development. I am also a part of various communities like Google Developer Group Pune and [PythonPune](./PythonPune.html). I strongly believe in Python and hope to become a Python Software Foundation fellow member.
+I am an active contributor to various open source projects. I have made significant code contributions, along with extensive tests and documentation coverage, to the python package PyBaMM. It houses state-of-the-art automatic differentiation and numerical solvers that solve physics-based electrochemical DAE models. As part of my Google Summer of Code, I adapted PyBaMM's expression trees to render mathematical equations in latex using [SymPy](../../people/SymPy). I have taken full ownership of the project by not just working on the requirements that were laid out originally but also contributing my own ideas. Recently, I took the initiative to automate PyBaMM's release workflow on PyPI and am now the maintainer of this repository on conda-forge. I am also trying to build a community and attract additional contributors to the project by delivering a talk at the Faraday Institute, UK, and hosting AMA sessions. In addition, I recently signed on as a contributor to liionpack, a PyBaMM offshoot project, to kickstart its development. I am also a part of various communities like Google Developer Group Pune and [PythonPune](./PythonPune.html). I strongly believe in Python and hope to become a Python Software Foundation fellow member.
 
 [GitHub](./GitHub.html) - [https://github.com/priyanshuone6](https://github.com/priyanshuone6) Twitter - [https://twitter.com/priyanshuone6](https://twitter.com/priyanshuone6) Linkedin - [https://www.linkedin.com/in/priyanshuone6/](https://www.linkedin.com/in/priyanshuone6/)
 
@@ -2324,7 +2324,7 @@ She likes to says that she prefers the \"background\" type of work in the commun
 
 ### Aidis Stukas 
 
-I, Harald Armin Massa, propose that Aidis Stukas be recognized as Fellow of the Python Software Foundation. I nominate him because of his significant contributions to the Python community. Aidis has been serving as the chair of [PyCon](PyCon) Lithuania ([PyCon](PyCon) LT) since 2017. While serving as chair of [PyCon](PyCon) LT, he grew the conference from \~80 participants to \~330 participants, from a single day event into a 2 day event in 2019, with 10+ foreign speakers, 4 tracks, a Django girls session. Even more significant, he travelled to [EuroPython](EuroPython) (with the help of a PSF grant) to connect with international Pythonistas, to recruit them to come to Lithuania and speak at [PyCon](PyCon) LT. In my eyes, crossing the boarder and connecting one national Python community with the global Python world is a very important step. Beyond chairing the event, he also developed and engaged a team of Pythonistas to run the conference, motivated Mantas Zimnickas, Jurgis Pralgauskis, Laurynas Speičys, Inga Pliavgo, Dainora Bucyte and some others to work on the conference. In addition to [PyCon](PyCon) LT, Aidis organizes mutliple Python Meetups in Lithuania: [KaunasPy](./KaunasPy.html) (www.meetup.com/KaunasPy/). [PyData](./PyData.html) Kaunas (www.meetup.com/PyData-Kaunas/)
+I, Harald Armin Massa, propose that Aidis Stukas be recognized as Fellow of the Python Software Foundation. I nominate him because of his significant contributions to the Python community. Aidis has been serving as the chair of [PyCon](../../conferences/pycon/PyCon) Lithuania ([PyCon](../../conferences/pycon/PyCon) LT) since 2017. While serving as chair of [PyCon](../../conferences/pycon/PyCon) LT, he grew the conference from \~80 participants to \~330 participants, from a single day event into a 2 day event in 2019, with 10+ foreign speakers, 4 tracks, a Django girls session. Even more significant, he travelled to [EuroPython](../../conferences/europython/EuroPython) (with the help of a PSF grant) to connect with international Pythonistas, to recruit them to come to Lithuania and speak at [PyCon](../../conferences/pycon/PyCon) LT. In my eyes, crossing the boarder and connecting one national Python community with the global Python world is a very important step. Beyond chairing the event, he also developed and engaged a team of Pythonistas to run the conference, motivated Mantas Zimnickas, Jurgis Pralgauskis, Laurynas Speičys, Inga Pliavgo, Dainora Bucyte and some others to work on the conference. In addition to [PyCon](../../conferences/pycon/PyCon) LT, Aidis organizes mutliple Python Meetups in Lithuania: [KaunasPy](./KaunasPy.html) (www.meetup.com/KaunasPy/). [PyData](./PyData.html) Kaunas (www.meetup.com/PyData-Kaunas/)
 
 Also nominated by Mike Müller
 
@@ -2356,7 +2356,7 @@ I (Gael Varoquaux) would like to nominate Reshama Shaikh as a fellow of the Pyth
 
 *Selected in Q2 of 2022*
 
-I, Patrick Arminio, nominate Matteo Benci. He\'s currently the treasurer of Python Italia, which is already a very important role, but in addition to that he\'s helping a lot with the organization of [PyCon](PyCon) Italy and all the other events we try to do ([PyFest](./PyFest.html), Django Girls and so). He\'s probably the most active member in our community and I think his involvement should be rewarded 😊 I don\'t think we\'d be able to do all the amazing things we do without him. He was interviewed recently about his community involvement, unfortunately the interview is only in italian: [https://www.youtube.com/watch?v=2AnFMaxZgsI](https://www.youtube.com/watch?v=2AnFMaxZgsI)
+I, Patrick Arminio, nominate Matteo Benci. He\'s currently the treasurer of Python Italia, which is already a very important role, but in addition to that he\'s helping a lot with the organization of [PyCon](../../conferences/pycon/PyCon) Italy and all the other events we try to do ([PyFest](./PyFest.html), Django Girls and so). He\'s probably the most active member in our community and I think his involvement should be rewarded 😊 I don\'t think we\'d be able to do all the amazing things we do without him. He was interviewed recently about his community involvement, unfortunately the interview is only in italian: [https://www.youtube.com/watch?v=2AnFMaxZgsI](https://www.youtube.com/watch?v=2AnFMaxZgsI)
 
 ## 2021 Q3 Nominations 
 
@@ -2416,7 +2416,7 @@ Jakub is also a regular speaker at PyConSK where I think he is a big popularizer
 
 ### Sony Valdez 
 
-I, Sony Valdez, propose myself to be recognized as a Fellow of the Python Software Foundation. I have made significant contributions to the Python community as a co-founder of Python.PH in 2013, served as president from 2013 to 2016, currently serve as Board of Trustee in said organization as Director of Community Relations, chairman for [PyCon](PyCon) Philippines 2014 and 2015, help organized [PyCon](PyCon) Philippines from 2016 to 2019, pioneered teaching Python in education at our country back in 2011, and a long time contributor to the local Python community in the Philippines.
+I, Sony Valdez, propose myself to be recognized as a Fellow of the Python Software Foundation. I have made significant contributions to the Python community as a co-founder of Python.PH in 2013, served as president from 2013 to 2016, currently serve as Board of Trustee in said organization as Director of Community Relations, chairman for [PyCon](../../conferences/pycon/PyCon) Philippines 2014 and 2015, help organized [PyCon](../../conferences/pycon/PyCon) Philippines from 2016 to 2019, pioneered teaching Python in education at our country back in 2011, and a long time contributor to the local Python community in the Philippines.
 
 ### Jukka Lehtosalo, Ivan Levkivskyi, and Michael J. Sullivan 
 
@@ -2440,15 +2440,15 @@ As of February 2021, Miro (@eumiro) has posted 1,185 answers on [StackOverflow](
 
 \[0\] [https://stackoverflow.com/users/449449/eumiro](https://stackoverflow.com/users/449449/eumiro)
 
-Miro was one of the organizers of [EuroPython](EuroPython) 2019, as well as [PyCon](PyCon) DE 2019, 2018, and 2017.
+Miro was one of the organizers of [EuroPython](../../conferences/europython/EuroPython) 2019, as well as [PyCon](../../conferences/pycon/PyCon) DE 2019, 2018, and 2017.
 
-He was keynote speaker at [PyCon](PyCon) Turkey 2020, and has also delivered talks at [PyData](./PyData.html) Global, [EuroPython](EuroPython), [GeoPython](./GeoPython.html), [PyCon](PyCon) Africa, [PyCon](PyCon) (Germany, Italy, Czechia, Slovakia, Poland, Estonia, Belarus, Hong Kong), and Python conferences in Russia, Switzerland, France, Netherlands, Austria, USA, and Cuba---among others.
+He was keynote speaker at [PyCon](../../conferences/pycon/PyCon) Turkey 2020, and has also delivered talks at [PyData](./PyData.html) Global, [EuroPython](../../conferences/europython/EuroPython), [GeoPython](./GeoPython.html), [PyCon](../../conferences/pycon/PyCon) Africa, [PyCon](../../conferences/pycon/PyCon) (Germany, Italy, Czechia, Slovakia, Poland, Estonia, Belarus, Hong Kong), and Python conferences in Russia, Switzerland, France, Netherlands, Austria, USA, and Cuba---among others.
 
 Miro is proficient in Slovak, Czech, German, English, and French, and speaks other languages too. He uses his talent with languages to communicate across cultures---for example, presenting in Spanish \[1\] for the Python.Pizza conference organized by the Python community in Holguín, Cuba \[2\].
 
 \[1\] [https://www.youtube.com/watch?v=tgYFvnqTLU4](https://www.youtube.com/watch?v=tgYFvnqTLU4) \[2\] [https://holguin.python.pizza/](https://holguin.python.pizza/)
 
-Miro is one of the maintainers of [PyTables](PyTables) \[3\], a NumFOCUS sponsored project.
+Miro is one of the maintainers of [PyTables](../../people/PyTables) \[3\], a NumFOCUS sponsored project.
 
 \[3\] [https://www.pytables.org/](https://www.pytables.org/)
 
@@ -2456,7 +2456,7 @@ Thank you for your consideration of Miroslav Šedivý for Fellow of the Python S
 
 ### Mikhail Kashkin 
 
-My name is Mikhail Kashkin and I want to nominate myself as PSF Fellow Member. This is my story: In 2000, I\'ve started to work on my first paid office job. And my first project was on Perl. After year of development I found that I barely understand my own code and when I need to fix something I tend to rewrite code from scratch instead of changing it. Because Perl syntax was just unreadable. So, I decided to look into other programming languages and found Python --- clean and beautiful language. That becomes my love and main language for the next 20 years. When I started to learn python it was hard to find documentation in Russian language, my mother tongue. Lack of documentation and knowledge led me to mail lists. I started to teach myself Python by asking help from the community and feel that I need to pay back. That is how I become active community member and soon promoter of the Python. In few years I become the first member of the Plone Foundation from ex-USSR countries. My company Key Solutions was listed as solution provider and python developers company on many sites (it that times it was popular). Also, my employer and colleague Andrey Orlov was paid maintainer for Python builds in [AltLinux](./AltLinux.html) distribution ([http://sisyphus.ru/ru/srpm/Branch3/rpm-build-python/changelog](http://sisyphus.ru/ru/srpm/Branch3/rpm-build-python/changelog)). And author of the Python Policy for that distribution. I created the site Plone.org.ru to unite people who are interested in Plone, Zope and Python. Later I passed maintenance of the site to the community, but you can see that most news posts are from me here [https://plone.org.ru/newsitems/](https://plone.org.ru/newsitems/). My username on this site is `xen`{.backtick}. I\'ve coordinated translation to Russian of Plone book ([https://plone.org.ru/books/pb/ru/](https://plone.org.ru/books/pb/ru/)) and made proofreading and formatting of the content contributed by other people. BTW, I\'m not sure about rights to this book. We didn\'t sell it, so I hope it doesn\'t violate somebody\'s rights. During Key Solution times I\'ve created more than 100 sites using Python. Include some big names: Association CRM of Russia and CIS, Russia Sport Channel, and biggest real estate agency MIEL.ru. As active open source contributor I won award Open Source Contributor 3rd place by opennet.ru site [http://www.opennet.ru/konkurs/result-1.shtml](http://www.opennet.ru/konkurs/result-1.shtml) (in Russian). From 2008 year I moved to Ukraine and become one of co-organizer of the [PyCon](PyCon) Ukraine conference as keynote speaker. Solo I organized events in Dnipro, Lviv, Odessa, Kharkhiv. But not only in Ukraine. During my business or holiday travels I\'ve become speaker in Thailand, Armenia, Russia. Some videos from events are available on my Youtube channel [https://www.youtube.com/watch?v=N0xkFZv2Df0&list=PLyUvGavKi98XnK4xwtsmwrtYdYoUnnxQk](https://www.youtube.com/watch?v=N0xkFZv2Df0&list=PLyUvGavKi98XnK4xwtsmwrtYdYoUnnxQk). Two years ago (in 2018) I decided to start consulting and education projects. Soon one of my clients becomes Yandex and I created big part of Backend Developer course [https://praktikum.yandex.ru/backend-developer/](https://praktikum.yandex.ru/backend-developer/). In the first month after started courses team shared numbers I can\'t say exactly how many people become students and numbers was impressive. More important that I saw students code. It was very good. I\'m proud to be process that give these people the chance to become Python developers.
+My name is Mikhail Kashkin and I want to nominate myself as PSF Fellow Member. This is my story: In 2000, I\'ve started to work on my first paid office job. And my first project was on Perl. After year of development I found that I barely understand my own code and when I need to fix something I tend to rewrite code from scratch instead of changing it. Because Perl syntax was just unreadable. So, I decided to look into other programming languages and found Python --- clean and beautiful language. That becomes my love and main language for the next 20 years. When I started to learn python it was hard to find documentation in Russian language, my mother tongue. Lack of documentation and knowledge led me to mail lists. I started to teach myself Python by asking help from the community and feel that I need to pay back. That is how I become active community member and soon promoter of the Python. In few years I become the first member of the Plone Foundation from ex-USSR countries. My company Key Solutions was listed as solution provider and python developers company on many sites (it that times it was popular). Also, my employer and colleague Andrey Orlov was paid maintainer for Python builds in [AltLinux](./AltLinux.html) distribution ([http://sisyphus.ru/ru/srpm/Branch3/rpm-build-python/changelog](http://sisyphus.ru/ru/srpm/Branch3/rpm-build-python/changelog)). And author of the Python Policy for that distribution. I created the site Plone.org.ru to unite people who are interested in Plone, Zope and Python. Later I passed maintenance of the site to the community, but you can see that most news posts are from me here [https://plone.org.ru/newsitems/](https://plone.org.ru/newsitems/). My username on this site is `xen`{.backtick}. I\'ve coordinated translation to Russian of Plone book ([https://plone.org.ru/books/pb/ru/](https://plone.org.ru/books/pb/ru/)) and made proofreading and formatting of the content contributed by other people. BTW, I\'m not sure about rights to this book. We didn\'t sell it, so I hope it doesn\'t violate somebody\'s rights. During Key Solution times I\'ve created more than 100 sites using Python. Include some big names: Association CRM of Russia and CIS, Russia Sport Channel, and biggest real estate agency MIEL.ru. As active open source contributor I won award Open Source Contributor 3rd place by opennet.ru site [http://www.opennet.ru/konkurs/result-1.shtml](http://www.opennet.ru/konkurs/result-1.shtml) (in Russian). From 2008 year I moved to Ukraine and become one of co-organizer of the [PyCon](../../conferences/pycon/PyCon) Ukraine conference as keynote speaker. Solo I organized events in Dnipro, Lviv, Odessa, Kharkhiv. But not only in Ukraine. During my business or holiday travels I\'ve become speaker in Thailand, Armenia, Russia. Some videos from events are available on my Youtube channel [https://www.youtube.com/watch?v=N0xkFZv2Df0&list=PLyUvGavKi98XnK4xwtsmwrtYdYoUnnxQk](https://www.youtube.com/watch?v=N0xkFZv2Df0&list=PLyUvGavKi98XnK4xwtsmwrtYdYoUnnxQk). Two years ago (in 2018) I decided to start consulting and education projects. Soon one of my clients becomes Yandex and I created big part of Backend Developer course [https://praktikum.yandex.ru/backend-developer/](https://praktikum.yandex.ru/backend-developer/). In the first month after started courses team shared numbers I can\'t say exactly how many people become students and numbers was impressive. More important that I saw students code. It was very good. I\'m proud to be process that give these people the chance to become Python developers.
 
 Now I run my own python education course on [https://Pylot.me](https://Pylot.me) and education platform [https://Okumy.com](https://Okumy.com).
 
@@ -2474,7 +2474,7 @@ I, Hernan Ramirez, president of the Python Civil Association of Venezuela, propo
 
 - \- Since 2005, he has been teaching Python in the Faculty of Economics and Social Sciences at the Universidad de los Andes in Merida, where he is a professor. - During 2007 he gave presentations on the use of Python in 8 cities in Venezuela as part of the National Free Software Conference. - He was the organizer of the World Forums of Free Knowledge: Maracaibo 2005, Maturin 2006, Ciudad Guayana 2007 and Merida 2009. In all editions he made presentations and activities related to Python. - He was the organizer in 2008 of the first meeting of Venezuelan Pythonists. - He was invited to a Free Software Meeting in Bogota in 2009 as speaker about Python and R applications in Economics. - In 2010 he conducted Python workshops for high school students, through the Fortalento FUNDACITE program. He also promoted Python programming in Primary and Secondary Science Clubs.
 
-  \- Since 2012 he has collaborated either in the organization and as a speaker, in the regional Python meetings in Merida, [PyTatuy](./PyTatuy.html) held in 2013, 2015, 2015, 2016, 2019. - His proposal to teach programming (in Python) instead of office automation received an award at an educational computing conference in 2012. - In 2012 he co-organized the only [PyCon](PyCon) held so far in Venezuela. This event is on standby due to political and economic problems in the country. - He is co-founder of the Venezuelan Python Civil Association, formalized in 2015. - He participated in [PyCaribbean](./PyCaribbean.html) 2016 in Santo Domingo, Dominican Republic. - In 2016 he collaborated in the organization of the SciPyLA Conference in Florianopolis, Brazil. Since then he has served as SciPyLA ambassador for Venezuela. - Since 2017 he is an official Software Carpentry and Data Carpentry instructor, the only one in Venezuela and the first one in Latin America. - In 2019 he collaborated with the organization and participated in the ScipyLA Conference in Bogota, Colombia. - In 2019 he was invited to the Jupyter South America Community Workshop in Córdoba, Argentina. - In 2019 he gave a lightning talk at [CarpentryCon](./CarpentryCon.html) in Dublin on cryptographic literacy (with Python). - In 2020 he gave a presentation at [CarpentryCon](./CarpentryCon.html) \@Home on the use of the Spyder IDE. - He currently participates in the Venezuelan Python communities, either in the discussion list or in the Telegram group. He also collaborates with the Spyder development team, and has a lesson in incubation for Carpentries about IDE skills based on Spyder.
+  \- Since 2012 he has collaborated either in the organization and as a speaker, in the regional Python meetings in Merida, [PyTatuy](./PyTatuy.html) held in 2013, 2015, 2015, 2016, 2019. - His proposal to teach programming (in Python) instead of office automation received an award at an educational computing conference in 2012. - In 2012 he co-organized the only [PyCon](../../conferences/pycon/PyCon) held so far in Venezuela. This event is on standby due to political and economic problems in the country. - He is co-founder of the Venezuelan Python Civil Association, formalized in 2015. - He participated in [PyCaribbean](./PyCaribbean.html) 2016 in Santo Domingo, Dominican Republic. - In 2016 he collaborated in the organization of the SciPyLA Conference in Florianopolis, Brazil. Since then he has served as SciPyLA ambassador for Venezuela. - Since 2017 he is an official Software Carpentry and Data Carpentry instructor, the only one in Venezuela and the first one in Latin America. - In 2019 he collaborated with the organization and participated in the ScipyLA Conference in Bogota, Colombia. - In 2019 he was invited to the Jupyter South America Community Workshop in Córdoba, Argentina. - In 2019 he gave a lightning talk at [CarpentryCon](./CarpentryCon.html) in Dublin on cryptographic literacy (with Python). - In 2020 he gave a presentation at [CarpentryCon](./CarpentryCon.html) \@Home on the use of the Spyder IDE. - He currently participates in the Venezuelan Python communities, either in the discussion list or in the Telegram group. He also collaborates with the Spyder development team, and has a lesson in incubation for Carpentries about IDE skills based on Spyder.
 
 ### Tommy Jenkins 
 
@@ -2484,25 +2484,25 @@ I, Orit Jenkins, would like to nominate Tommy Jenkins, He is a senior software e
 
 *Selected in Q3 of 2021*
 
-I, Naomi Ceder, propose that Cristián Danilo Maureira-Fredes be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as mentor, speaker and organizer ([PyLadies](./PyLadies.html) Berlin, [PyLadies](./PyLadies.html) Hamburg, [PyBerlin](./PyBerlin.html), Python Users Berlin), helping with the organization of conferences like [JupyterCon](./JupyterCon.html) ([https://jupytercon.com/about/#Organizing%20Committee](https://jupytercon.com/about/#Organizing%20Committee)) and being a speaker in conferences like [PyCon](PyCon) ([https://www.youtube.com/watch?v=klCfoGCwmMg](https://www.youtube.com/watch?v=klCfoGCwmMg) ) He has been one of the main contributors and helpers in the initiative to translate the official Python documentation to Spanish ([https://github.com/python/python-docs-es/graphs/contributors](https://github.com/python/python-docs-es/graphs/contributors)) and has also helped others make their first contribution to Python at various sprints. Last year, Cristián contacted and reunited the many Python related groups in Chile, to form Python Chile [https://pythonchile.cl](https://pythonchile.cl) and organized the first event for Chile, with more than 2000 people attending from all over the world ([https://pythonchile.cl/blog/resumen-del-pyday-chile-2020/](https://pythonchile.cl/blog/resumen-del-pyday-chile-2020/) in Spanish), also motivating and supporting the creation of the first Chilean [PyLadies](./PyLadies.html) chapter. He has also collaborated with Python España, to bring together the Chilean and Spanish Python communities for events like HacktoberfestES ([https://hacktoberfest.es.python.org/](https://hacktoberfest.es.python.org/)) and he is the driving force behind a \"Python en Español\" (Python in Spanish) initiative in which all the Spanish speaking people, independently of the country would be together, creating a new Discord Server, currently with more than 900 people from the Americas and Spain. He works at The Qt Company and is currently in charge of the Qt for Python project, which pushes the usage and inclusion of Python in the Qt ecosystem ([https://doc.qt.io/qtforpython/videos.html](https://doc.qt.io/qtforpython/videos.html))
+I, Naomi Ceder, propose that Cristián Danilo Maureira-Fredes be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as mentor, speaker and organizer ([PyLadies](./PyLadies.html) Berlin, [PyLadies](./PyLadies.html) Hamburg, [PyBerlin](./PyBerlin.html), Python Users Berlin), helping with the organization of conferences like [JupyterCon](./JupyterCon.html) ([https://jupytercon.com/about/#Organizing%20Committee](https://jupytercon.com/about/#Organizing%20Committee)) and being a speaker in conferences like [PyCon](../../conferences/pycon/PyCon) ([https://www.youtube.com/watch?v=klCfoGCwmMg](https://www.youtube.com/watch?v=klCfoGCwmMg) ) He has been one of the main contributors and helpers in the initiative to translate the official Python documentation to Spanish ([https://github.com/python/python-docs-es/graphs/contributors](https://github.com/python/python-docs-es/graphs/contributors)) and has also helped others make their first contribution to Python at various sprints. Last year, Cristián contacted and reunited the many Python related groups in Chile, to form Python Chile [https://pythonchile.cl](https://pythonchile.cl) and organized the first event for Chile, with more than 2000 people attending from all over the world ([https://pythonchile.cl/blog/resumen-del-pyday-chile-2020/](https://pythonchile.cl/blog/resumen-del-pyday-chile-2020/) in Spanish), also motivating and supporting the creation of the first Chilean [PyLadies](./PyLadies.html) chapter. He has also collaborated with Python España, to bring together the Chilean and Spanish Python communities for events like HacktoberfestES ([https://hacktoberfest.es.python.org/](https://hacktoberfest.es.python.org/)) and he is the driving force behind a \"Python en Español\" (Python in Spanish) initiative in which all the Spanish speaking people, independently of the country would be together, creating a new Discord Server, currently with more than 900 people from the Americas and Spain. He works at The Qt Company and is currently in charge of the Qt for Python project, which pushes the usage and inclusion of Python in the Qt ecosystem ([https://doc.qt.io/qtforpython/videos.html](https://doc.qt.io/qtforpython/videos.html))
 
 ### Nicolás Demarchi 
 
 *Selected in Q3 of 2021*
 
-I, Naomi Ceder, propose that Nicolás Demarchi (Gilgamezh) be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as (Founder) Member of the Asociación Civil Python Argentina board; moderator in Python Argentina, IRC/Telegram chat, websites, discourse, etc; helping to maintain Python Argentina tech infra in the last \~8 years; organizer in the Argentine conference [PyAr](./PyAr.html), [PyCamps](./PyCamps.html), and Python days; hosting the Buenos Aires Python Meetup; hosting Py.amsterdam meetup since 2019 and trying to build a local community ([https://py.amsterdam);](https://py.amsterdam);) volunteer in [EuroPython](EuroPython) 2020 and member of the [EuroPython](EuroPython) Society board 2020/2021 (and of course helping to organize EP2021); one of the maintainers of fades, a tool for virtualenv ([https://github.com/PyAr/fades/);](https://github.com/PyAr/fades/);) and one of the founders of the python-doc-es project translating the Python docs into Spanish.
+I, Naomi Ceder, propose that Nicolás Demarchi (Gilgamezh) be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as (Founder) Member of the Asociación Civil Python Argentina board; moderator in Python Argentina, IRC/Telegram chat, websites, discourse, etc; helping to maintain Python Argentina tech infra in the last \~8 years; organizer in the Argentine conference [PyAr](./PyAr.html), [PyCamps](./PyCamps.html), and Python days; hosting the Buenos Aires Python Meetup; hosting Py.amsterdam meetup since 2019 and trying to build a local community ([https://py.amsterdam);](https://py.amsterdam);) volunteer in [EuroPython](../../conferences/europython/EuroPython) 2020 and member of the [EuroPython](../../conferences/europython/EuroPython) Society board 2020/2021 (and of course helping to organize EP2021); one of the maintainers of fades, a tool for virtualenv ([https://github.com/PyAr/fades/);](https://github.com/PyAr/fades/);) and one of the founders of the python-doc-es project translating the Python docs into Spanish.
 
 ### Cheuk Ting Ho 
 
 *Selected in Q2 of 2021*
 
-I, Naomi Ceder, propose that Cheuk Ting Ho be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the Python community as a devoted educator in the Python community, especially the minority community. She is one of the founders of Humble Data, which teaches Python for absolute beginners around the world. She also hosts a streaming tutorial series online, focusing on Python. At the same time, she hosts [MidMeetPy](./MidMeetPy.html), a podcast series for the Python community. Cheuk is also a constant talk and workshop facilitator in Python events. On average, she participates in 1-2 events a month as a speaker. In 2020, she organized [PyJamas](PyJamas), a worldwide 24 hour Python conference online. She was also the marketing chair for [PyData](./PyData.html) Global, the first worldwide [PyData](./PyData.html) conference. Cheuk was elected to a board member of the [EuroPython](EuroPython) Society in 2021 and will be chairing the Financial Aid Committee for [EuroPython](EuroPython). Cheuk is also a full-time maintainer of the Python client of TerminusDB - an open-source graph database and helps organize open-source sprints, including the [PyCon](PyCon) mentored sprints which focus on helping beginners and minorities to begin contributing to partnering Python projects on [GitHub](./GitHub.html).
+I, Naomi Ceder, propose that Cheuk Ting Ho be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the Python community as a devoted educator in the Python community, especially the minority community. She is one of the founders of Humble Data, which teaches Python for absolute beginners around the world. She also hosts a streaming tutorial series online, focusing on Python. At the same time, she hosts [MidMeetPy](./MidMeetPy.html), a podcast series for the Python community. Cheuk is also a constant talk and workshop facilitator in Python events. On average, she participates in 1-2 events a month as a speaker. In 2020, she organized [PyJamas](../../people/PyJamas), a worldwide 24 hour Python conference online. She was also the marketing chair for [PyData](./PyData.html) Global, the first worldwide [PyData](./PyData.html) conference. Cheuk was elected to a board member of the [EuroPython](../../conferences/europython/EuroPython) Society in 2021 and will be chairing the Financial Aid Committee for [EuroPython](../../conferences/europython/EuroPython). Cheuk is also a full-time maintainer of the Python client of TerminusDB - an open-source graph database and helps organize open-source sprints, including the [PyCon](../../conferences/pycon/PyCon) mentored sprints which focus on helping beginners and minorities to begin contributing to partnering Python projects on [GitHub](./GitHub.html).
 
 ### Emily Morehouse-Valcarcel 
 
 *Selected in Q2 of 2021*
 
-I, Ewa Jodlowska, propose that Emily Morehouse-Valcarcel be recognized as a Fellow of the Python Software Foundation due to their significant contributions to the Python community as a Python core developer, [PyCon](PyCon) US Chair, community volunteer, and regional conference speaker
+I, Ewa Jodlowska, propose that Emily Morehouse-Valcarcel be recognized as a Fellow of the Python Software Foundation due to their significant contributions to the Python community as a Python core developer, [PyCon](../../conferences/pycon/PyCon) US Chair, community volunteer, and regional conference speaker
 
 ## 2021 Q1 Nominations 
 
@@ -2512,7 +2512,7 @@ I, Ewa Jodlowska, propose that Emily Morehouse-Valcarcel be recognized as a Fell
 
 The Python Discord staff proposes that Joseph Banks, Leon Sandøy, and Sebastiaan Zeeff be recognized as Fellows of the Python Software Foundation, due to their significant contributions to the Python community as the owners of Python Discord.
 
-Python Discord is a community for Python learning and discussion that has been active since 2017, and in that time they have worked diligently to foster a culture of warmth and inclusivity for all individuals regardless of their background or level of Python knowledge, even as the number of members has climbed above 140,000. Each day, Python Discord facilitates hundreds of live help sessions and numerous discussions in which both novices and experts participate. In addition to creating a place where tens of thousands of people have learned about the Python ecosystem, they have maintained an active role by leading semi- annual code jam events ([https://pythondiscord.com/pages/code-jams/](https://pythondiscord.com/pages/code-jams/)) and creating the Sir Lancebot project ([https://github.com/python-discord/sir-](https://github.com/python-discord/sir-) lancebot), which introduces beginners to open-source Python development. In their work with other parts of the Python ecosystem, they have given the organisers of [PyWeek](PyWeek) a space in the community last year in order to increase the visibility of that long-standing event. They have also supported the PSF by hosting the most recent core developer sprint and the subsequent live Q&A stream.
+Python Discord is a community for Python learning and discussion that has been active since 2017, and in that time they have worked diligently to foster a culture of warmth and inclusivity for all individuals regardless of their background or level of Python knowledge, even as the number of members has climbed above 140,000. Each day, Python Discord facilitates hundreds of live help sessions and numerous discussions in which both novices and experts participate. In addition to creating a place where tens of thousands of people have learned about the Python ecosystem, they have maintained an active role by leading semi- annual code jam events ([https://pythondiscord.com/pages/code-jams/](https://pythondiscord.com/pages/code-jams/)) and creating the Sir Lancebot project ([https://github.com/python-discord/sir-](https://github.com/python-discord/sir-) lancebot), which introduces beginners to open-source Python development. In their work with other parts of the Python ecosystem, they have given the organisers of [PyWeek](../../people/PyWeek) a space in the community last year in order to increase the visibility of that long-standing event. They have also supported the PSF by hosting the most recent core developer sprint and the subsequent live Q&A stream.
 
 For these reasons we believe that these three have done a great service to the Python language and ecosystem at large, and we hope that the committee will accept them as fellows.
 
@@ -2542,7 +2542,7 @@ I, Ryan Soklaski, propose that Zac Dodds be recognized as a fellow of the Python
 
 He is a developer for the Hypothesis testing project, and is, by far, its most active maintainer. This is a cutting-edge library that puts Python at the forefront of languages with advanced (but accessible) methods/tooling for writing automated tests for software. That he maintains a library of this caliber and importance in his free time is impressive indeed.
 
-Zac is an active contributor to the various Python conferences; he has delivered talks, tutorials, and posters at [PyCon](PyCon), [PyCon](PyCon) Australia, [PyCon](PyCon) India, [EuroSciPy](./EuroSciPy.html), and others. In addition to delivering talks and tutorials, he also served as a mentor for [PyCon](PyCon)'s mentored sprints for diverse beginners, and he often organizes a week-long sprint for people interested in Hypothesis.
+Zac is an active contributor to the various Python conferences; he has delivered talks, tutorials, and posters at [PyCon](../../conferences/pycon/PyCon), [PyCon](../../conferences/pycon/PyCon) Australia, [PyCon](../../conferences/pycon/PyCon) India, [EuroSciPy](./EuroSciPy.html), and others. In addition to delivering talks and tutorials, he also served as a mentor for [PyCon](../../conferences/pycon/PyCon)'s mentored sprints for diverse beginners, and he often organizes a week-long sprint for people interested in Hypothesis.
 
 In terms of the support that Zac provides to the Python ecosystem... it is downright herculean. He developed hypothesmith, which is a library that can generate valid Python programs to be tested. This is used to fuzz Instagram's LibCST program, Black (the auto-formatter), and CPython itself. Zac has also contributed powerful property-based tests to pydantic, isort, caught bugs looming in Python 3.10, and much much more. His contributions go far beyond what I listed here.
 
@@ -2558,15 +2558,15 @@ I \[Jeff Triplett\] want to recommend Philip James for your consideration as a P
 
 Philip has the impossibly hard job of charing the PSF\'s Code of Conduct Workgroup, which meant working with the PSF Board, new WG, and a consultant while balancing legal concerns with community concerns to help us write and implement an updated Code of Conduct. As a member of both the committee and a Director, I thought he did a brilliant job. Philip has also chaired the WG for two years and leads bi-weekly meetings to ensure that issues are resolved and discussed in a timely manner. I have served on dozens of WGs and Code of Conduct WGs are hard and Philip manages this duty with thought and care.
 
-Philip is also a contributor to the [BeeWare](./BeeWare.html) project, is a long-time member of the Django community, has spoken at many community conferences including [PyCon](PyCon) and [DjangoCon](./DjangoCon.html)(s), has volunteered as an organizer at conferences like [DjangoCon](./DjangoCon.html) US, and has helped organize meetups.
+Philip is also a contributor to the [BeeWare](./BeeWare.html) project, is a long-time member of the Django community, has spoken at many community conferences including [PyCon](../../conferences/pycon/PyCon) and [DjangoCon](./DjangoCon.html)(s), has volunteered as an organizer at conferences like [DjangoCon](./DjangoCon.html) US, and has helped organize meetups.
 
 ### Gajendra Deshpande 
 
 I, Dr. Raghvendraprasad Deshpande, Assistant Professor, Department of Electrical and Electronics Engineering, Malnad College of Engineering, Hassan, nominate Gajendra Deshpande as a fellow of the Python software foundation. He is currently working as Assistant Professor in the department of Computer Science and Engineering, Gogte Institute of Technology, Belagavi, India. I would like to brief out his contributions to the Python community:
 
-1\) Talks presented: [SciPy](SciPy) USA, [JuliaCon](./JuliaCon.html), [PyCon](PyCon) France, [PyCon](PyCon) Hong Kong, [PyCon](PyCon) Taiwan, COSCUP Taiwan, [PyCon](PyCon) Africa, [BuzzConf](./BuzzConf.html) Argentina, [EuroPython](EuroPython), [PiterPy](./PiterPy.html) Russia and [SciPy](SciPy) India.
+1\) Talks presented: [SciPy](SciPy) USA, [JuliaCon](./JuliaCon.html), [PyCon](../../conferences/pycon/PyCon) France, [PyCon](../../conferences/pycon/PyCon) Hong Kong, [PyCon](../../conferences/pycon/PyCon) Taiwan, COSCUP Taiwan, [PyCon](../../conferences/pycon/PyCon) Africa, [BuzzConf](./BuzzConf.html) Argentina, [EuroPython](../../conferences/europython/EuroPython), [PiterPy](./PiterPy.html) Russia and [SciPy](SciPy) India.
 
-2\) Reviewer: [SciPy](SciPy) USA, [SciPy](SciPy) Japan, [JuliaCon](./JuliaCon.html), [JupyterCon](./JupyterCon.html), [PyData](./PyData.html) Global, and [PyCon](PyCon) India, JOSS and JOSE.
+2\) Reviewer: [SciPy](SciPy) USA, [SciPy](SciPy) Japan, [JuliaCon](./JuliaCon.html), [JupyterCon](./JupyterCon.html), [PyData](./PyData.html) Global, and [PyCon](../../conferences/pycon/PyCon) India, JOSS and JOSE.
 
 3\) Python community chapters built: [PyData](./PyData.html) Belagavi and OWASP Belagavi.
 
@@ -2584,7 +2584,7 @@ I, Philip Elson, propose that Juan Nunez-Iglesias be recognized as a Fellow of t
 
 ### Nicole Harris 
 
-I, Joachim Jablon, propose that Nicole Harris be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the Python community as a co-chair of the Packaging working group, for her lasting work as lead designer, fundraiser, & developer for the Python Package Index (a.k.a Warehouse), & membership of the Python Packaging Authority and the organization of user testing & feedback processes for PyPI and for the new pip resolver, her raising awareness for the work on PyPI through her 2018 [EuroPython](EuroPython) Keynote, as well as her contribution to the Python learning ecosystem through her Django screencast series at O\'Reilley, and her diversity advocacy through multiple public statements, such as her Django Girls interview.
+I, Joachim Jablon, propose that Nicole Harris be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the Python community as a co-chair of the Packaging working group, for her lasting work as lead designer, fundraiser, & developer for the Python Package Index (a.k.a Warehouse), & membership of the Python Packaging Authority and the organization of user testing & feedback processes for PyPI and for the new pip resolver, her raising awareness for the work on PyPI through her 2018 [EuroPython](../../conferences/europython/EuroPython) Keynote, as well as her contribution to the Python learning ecosystem through her Django screencast series at O\'Reilley, and her diversity advocacy through multiple public statements, such as her Django Girls interview.
 
 ### Leah Silen 
 
@@ -2608,7 +2608,7 @@ I, Felipe Carvalho, propose that Nilo Ney Coutinho Menezes be recognized as a Fe
 
 - co-founder of the [PyNorte](./PyNorte.html) (the Python developer community in northern Brazil);
 
-- founder of the [PyCon](PyCon) Amazônia (the regional conference in Brazilian Amazon);
+- founder of the [PyCon](../../conferences/pycon/PyCon) Amazônia (the regional conference in Brazilian Amazon);
 
 - leader of the Python Brasil 2022 organization;
 
@@ -2626,7 +2626,7 @@ His blog: [http://www.nilo.pro.br/](http://www.nilo.pro.br/)
 
 ### Fiorella De Luca 
 
-I \[Patrick Arminio\] would like to nominate my friend Fiorella De Luca, she\'s been amazing at organising a lot of Django Girls events around Italy\[1\] and she is also helping with [PyCon](PyCon) Italia and Python Italia in general and I\'d love to see her hard work recognised by the PSF 😊 I still remember when I met Fiorella at Django Girls in Rome, I think she fell in love with the community and immediately started helping in the next events, first by mentoring people and then by organising more workshops and really pushing the community forward. Here\'s an interview she did for codemotion: [https://www.codemotion.com/magazine/dev-hub/community-manager/pyroma-and-django-girls-communities-interview-with-fiorella-de-luca/](https://www.codemotion.com/magazine/dev-hub/community-manager/pyroma-and-django-girls-communities-interview-with-fiorella-de-luca/)
+I \[Patrick Arminio\] would like to nominate my friend Fiorella De Luca, she\'s been amazing at organising a lot of Django Girls events around Italy\[1\] and she is also helping with [PyCon](../../conferences/pycon/PyCon) Italia and Python Italia in general and I\'d love to see her hard work recognised by the PSF 😊 I still remember when I met Fiorella at Django Girls in Rome, I think she fell in love with the community and immediately started helping in the next events, first by mentoring people and then by organising more workshops and really pushing the community forward. Here\'s an interview she did for codemotion: [https://www.codemotion.com/magazine/dev-hub/community-manager/pyroma-and-django-girls-communities-interview-with-fiorella-de-luca/](https://www.codemotion.com/magazine/dev-hub/community-manager/pyroma-and-django-girls-communities-interview-with-fiorella-de-luca/)
 
 \[1\] [https://twitter.com/djangogirlsit?lang=en](https://twitter.com/djangogirlsit?lang=en)
 
@@ -2642,13 +2642,13 @@ I, Ben Nuttall, propose that Dave Jones be recognized as a Fellow of the Python 
 
 I, Taha Hamad, propose Batuhan Osman Taskaya be recognized as a Fellow of the Python Software Foundation, due to his remarkable contributions to the Python community in different fields. Although him being a high school student, he is one of the most active contributors to the CPython project with over 100+ PRs (85+ merged, 20+ awaiting) (as can be seen from the Github UI) and an active triager on the bug tracker. He has a special interest over the AST module, and he is continuously working on improving and extending that. Also, he is a member of the tracker migration team for PEP 581/588. Additionally to the core Python itself, he is the author of many different static analysis tools (including the [InspectorTiger](./InspectorTiger.html)) and regular contributor of others. Current co-maintainer of the most used external Python parser (with over 6 million downloads just from the previous month) that is dependant by Jedi, IPython, and many more.
 
-From his record, it can be seen as he is a very active speaker on different events like FOSEM\'19/\'20 and [EuroPython](EuroPython)\'19. The concept of these talks is mostly about discovering and hacking the internals of the CPython. As someone who seems like sharing information, he has 3 different blogs. The main one is a blog that is dedicated to ASTs and Python, and the second/third one is his personal blog about advanced Python in Turkish/English. He also organizes free Python trainings locally in Turkey, and advocation about Python in public events. As a community work, he is also one of the founding members of [PyCon](PyCon) Turkey and a member of the talk selection committee. The first event of that organization is going to happen this September for the first time in Turkey. Besides that [PyCon](PyCon), while in this coronavirus crisis, he is part of Virtual [PyIstanbul](./PyIstanbul.html) meetup, which is a weekly event that targets all Turkish speaking Pythonistas and happens every week without an exception.
+From his record, it can be seen as he is a very active speaker on different events like FOSEM\'19/\'20 and [EuroPython](../../conferences/europython/EuroPython)\'19. The concept of these talks is mostly about discovering and hacking the internals of the CPython. As someone who seems like sharing information, he has 3 different blogs. The main one is a blog that is dedicated to ASTs and Python, and the second/third one is his personal blog about advanced Python in Turkish/English. He also organizes free Python trainings locally in Turkey, and advocation about Python in public events. As a community work, he is also one of the founding members of [PyCon](../../conferences/pycon/PyCon) Turkey and a member of the talk selection committee. The first event of that organization is going to happen this September for the first time in Turkey. Besides that [PyCon](../../conferences/pycon/PyCon), while in this coronavirus crisis, he is part of Virtual [PyIstanbul](./PyIstanbul.html) meetup, which is a weekly event that targets all Turkish speaking Pythonistas and happens every week without an exception.
 
 *PSF Contributing Member*
 
 ### Katia Lira 
 
-Katia is a cofounder of [PyCon](PyCon) LatAM, VP of DEFNA, as well as a prominent Python speaker. She has been instrumental in helping me with outreach for PSF electionreform dialog with [LatAm](./LatAm.html) Pythonistas as well as helping get [PyLadies](./PyLadies.html) Global off the ground. Her dedication to empowering Pythonistas in [LatAm](./LatAm.html) is second to none! She additionally runs many podcasts that highlight Python as well as open source in [LatAm](./LatAm.html) (e.g. El Dev Show, Spacious Abiertos). Nominated by Lorena Mesa
+Katia is a cofounder of [PyCon](../../conferences/pycon/PyCon) LatAM, VP of DEFNA, as well as a prominent Python speaker. She has been instrumental in helping me with outreach for PSF electionreform dialog with [LatAm](./LatAm.html) Pythonistas as well as helping get [PyLadies](./PyLadies.html) Global off the ground. Her dedication to empowering Pythonistas in [LatAm](./LatAm.html) is second to none! She additionally runs many podcasts that highlight Python as well as open source in [LatAm](./LatAm.html) (e.g. El Dev Show, Spacious Abiertos). Nominated by Lorena Mesa
 
 *PSF Contributing Member*
 
@@ -2662,7 +2662,7 @@ Melissa is an engineer at Quansight as well as highly active in the Python Brasi
 
 ### Carlita F Roman 
 
-An organizer of [PyCon](PyCon) Bolivia and [PyLadies](./PyLadies.html) Cochabamba, Carlita has been instrumental in bringing Python to more Pythonistas in central South America. She\'s also been a contributor to [PyLadies](./PyLadies.html) Global, an interim workgroup that has been focused on rebuilding [PyLadies](./PyLadies.html) online community spaces as well as developing [PyLadies](./PyLadies.html) new governance model. Nominated by Lorena Mesa
+An organizer of [PyCon](../../conferences/pycon/PyCon) Bolivia and [PyLadies](./PyLadies.html) Cochabamba, Carlita has been instrumental in bringing Python to more Pythonistas in central South America. She\'s also been a contributor to [PyLadies](./PyLadies.html) Global, an interim workgroup that has been focused on rebuilding [PyLadies](./PyLadies.html) online community spaces as well as developing [PyLadies](./PyLadies.html) new governance model. Nominated by Lorena Mesa
 
 ### Sebastian Vetter 
 
@@ -2674,11 +2674,11 @@ I, Mariatta Wijaya, propose that Sebastian Vetter be recognized as a Fellow of t
 
 *Selected in Q1 of 2021*
 
-We, Mariatta Wijaya and Lorena Mesa, propose that Georgi Ker be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the [PyLadies](./PyLadies.html) community and the Python community in Thailand. Georgi is one of the organizers of [PyCon](PyCon) Thailand and [PyLadies](./PyLadies.html) Bangkok. For the past year, Georgi has been actively helping and participating as a member of [PyLadies](./PyLadies.html) Interim Global Team. Georgi has also been helping [PyLadies](./PyLadies.html) in our translation effort (e.g. membership registration at members.pyladies.com, election outreach at elections.pyladies.com).
+We, Mariatta Wijaya and Lorena Mesa, propose that Georgi Ker be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the [PyLadies](./PyLadies.html) community and the Python community in Thailand. Georgi is one of the organizers of [PyCon](../../conferences/pycon/PyCon) Thailand and [PyLadies](./PyLadies.html) Bangkok. For the past year, Georgi has been actively helping and participating as a member of [PyLadies](./PyLadies.html) Interim Global Team. Georgi has also been helping [PyLadies](./PyLadies.html) in our translation effort (e.g. membership registration at members.pyladies.com, election outreach at elections.pyladies.com).
 
 ### Elaine Wong 
 
-We, Mariatta Wijaya and Lorena Mesa, propose that Elaine Wong be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the [PyLadies](./PyLadies.html) community and the Python community. Elaine has been the conference chair for [PyCon](PyCon) Canada since 2018, and an organizer for [PyLadies](./PyLadies.html) Toronto. For the past year, Elaine has been actively helping and participating as a member of [PyLadies](./PyLadies.html) Interim Global Team. Elaine has spoken about [PyLadies](./PyLadies.html) at conferences like [PyCascades](./PyCascades.html) 2020 and [PyCon](PyCon) 2020 online. Elaine additionally helps run and administer the [PyNorth](./PyNorth.html) non-profit for several years.
+We, Mariatta Wijaya and Lorena Mesa, propose that Elaine Wong be recognized as a Fellow of the Python Software Foundation, due to her significant contributions to the [PyLadies](./PyLadies.html) community and the Python community. Elaine has been the conference chair for [PyCon](../../conferences/pycon/PyCon) Canada since 2018, and an organizer for [PyLadies](./PyLadies.html) Toronto. For the past year, Elaine has been actively helping and participating as a member of [PyLadies](./PyLadies.html) Interim Global Team. Elaine has spoken about [PyLadies](./PyLadies.html) at conferences like [PyCascades](./PyCascades.html) 2020 and [PyCon](../../conferences/pycon/PyCon) 2020 online. Elaine additionally helps run and administer the [PyNorth](./PyNorth.html) non-profit for several years.
 
 ### Débora Azevedo 
 
@@ -2688,7 +2688,7 @@ We, Mariatta Wijaya and Lorena Mesa, propose that Débora Azevedo be recognized 
 
 ### Max Jakob 
 
-I, Anton Caceres, would like to nominate Max Jakob as a Fellow of the Python Software Foundation, due to his prominent contributions to the Python community as a host and coorganizer of Munich Python User Group for over a decade. When the word \"meetup\" did not even exist, Max and his fellows have been meeting weekly at the university to discuss and promote Python. Max has always been supportive and enthusiastic about Python events, in particular, he proposed and took care of the venue for [PyCon](PyCon) Germany in 2016 as well as hosted the first [PyConWeb](./PyConWeb.html) in 2017 in the LMU university. Those are only the cases where I was involved directly; apart from that Max was the chair of PySV (the German Python association), contributing to numerous Python activities in and outside of Germany. I know Max as a supportive but modest person, and I just wish that his prominent, systematic help would be properly recognized.
+I, Anton Caceres, would like to nominate Max Jakob as a Fellow of the Python Software Foundation, due to his prominent contributions to the Python community as a host and coorganizer of Munich Python User Group for over a decade. When the word \"meetup\" did not even exist, Max and his fellows have been meeting weekly at the university to discuss and promote Python. Max has always been supportive and enthusiastic about Python events, in particular, he proposed and took care of the venue for [PyCon](../../conferences/pycon/PyCon) Germany in 2016 as well as hosted the first [PyConWeb](./PyConWeb.html) in 2017 in the LMU university. Those are only the cases where I was involved directly; apart from that Max was the chair of PySV (the German Python association), contributing to numerous Python activities in and outside of Germany. I know Max as a supportive but modest person, and I just wish that his prominent, systematic help would be properly recognized.
 
 ### Andreas Klöckner 
 
@@ -2696,13 +2696,13 @@ I, Roy Hyunjin Han, propose that Andreas Klöckner be recognized as a Fellow of 
 
 ### Carolina Ladino 
 
-I, Sebastián Ramírez, propose that Carolina Ladino be recognized as a Fellow of the Python Software Foundation, due to all her contributions to the Colombian Python community as a leader of several communities, including [PyLadies](./PyLadies.html) Bogotá, her contributions to the organization of [PyCon](PyCon) Colombia, and the communities for Machine Learning and Robotics.
+I, Sebastián Ramírez, propose that Carolina Ladino be recognized as a Fellow of the Python Software Foundation, due to all her contributions to the Colombian Python community as a leader of several communities, including [PyLadies](./PyLadies.html) Bogotá, her contributions to the organization of [PyCon](../../conferences/pycon/PyCon) Colombia, and the communities for Machine Learning and Robotics.
 
 *PSF Contributing Member*
 
 ### John Roa 
 
-I, Sebastián Ramírez, propose that John Roa be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Colombian Python community as the Chief Organizer for [PyCon](PyCon) Colombia. The Colombian [PyCon](PyCon) events have highly fostered and contributed to the community of Python developers in the country.
+I, Sebastián Ramírez, propose that John Roa be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Colombian Python community as the Chief Organizer for [PyCon](../../conferences/pycon/PyCon) Colombia. The Colombian [PyCon](../../conferences/pycon/PyCon) events have highly fostered and contributed to the community of Python developers in the country.
 
 ### Ines Montani 
 
@@ -2722,11 +2722,11 @@ I \[Robin Dunn\] nominate Ram Rachum to be a PSF fellow. Here are the highlights
 
 - For the last five years, Ram has been the chief organizer of the [PyWeb](./PyWeb.html)-IL community. [PyWeb](./PyWeb.html)-IL is the biggest and most active community of Python developers in Israel. Ram manages the logistics for the bi-monthly meetup and the mailing list where people help each other. The community was established around 2008, and many of its founding members are still active and contributing. A few of the long-standing members are Shai Berger, Tal Einat, Idan Gazit, Benny Daon, Meir Kriheli and Eli Gur. Each of which has their own long list of contributions to the Python community.
 
-- Ram has contributed to many popular open-source projects in the Python ecosystem, including CPython (1 2 3 4 5 6 7 8 9 10 11), Django (1 2 3 4 5 6), Pandas (1 2 3 4), Matplotlib (1 2 3), [PyPy](PyPy) (1), Setuptools (1 2), Jax (1 2), [PyTest](PyTest) (1 2), Sphinx (1 2 3), [PyLint](PyLint) (1 2), Jupyter (1 2 3 4), Pillow (1 2), Pygments (1), Dask (1 2 3), NetworkX (1 2 3), [GitPython](./GitPython.html) (1 2 3 4 5), [PyInstaller](PyInstaller) (1 2), More-Itertools (1 2 3) and more.
+- Ram has contributed to many popular open-source projects in the Python ecosystem, including CPython (1 2 3 4 5 6 7 8 9 10 11), Django (1 2 3 4 5 6), Pandas (1 2 3 4), Matplotlib (1 2 3), [PyPy](../../implementations/PyPy) (1), Setuptools (1 2), Jax (1 2), [PyTest](../../testing/PyTest) (1 2), Sphinx (1 2 3), [PyLint](../../people/PyLint) (1 2), Jupyter (1 2 3 4), Pillow (1 2), Pygments (1), Dask (1 2 3), NetworkX (1 2 3), [GitPython](./GitPython.html) (1 2 3 4 5), [PyInstaller](../../people/PyInstaller) (1 2), More-Itertools (1 2 3) and more.
 
 - Ram is the author and maintainer of the [PySnooper](./PySnooper.html) project, which is a popular debugging tool for Python.
 
-- Ram has written many blog posts about Python and given talks in different Python conferences, such as [PyCon](PyCon) Israel, [PyCon](PyCon) CZ, [GeoPython](./GeoPython.html) and [EuroPython](EuroPython).
+- Ram has written many blog posts about Python and given talks in different Python conferences, such as [PyCon](../../conferences/pycon/PyCon) Israel, [PyCon](../../conferences/pycon/PyCon) CZ, [GeoPython](./GeoPython.html) and [EuroPython](../../conferences/europython/EuroPython).
 
 (WG: see email for all links)
 
@@ -2736,7 +2736,7 @@ I \[Robin Dunn\] nominate Ram Rachum to be a PSF fellow. Here are the highlights
 
 ### Younggun Kim 
 
-I, Ewa Jodlowska, propose that Younggun Kim be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a past PSF Board Director, organizer of [PyCon](PyCon) KR, conference speaker, and a great ambassador of the PSF. Younggun attends several regional conferences yearly in Asia to help promote the PSF and stays connected with regional organizers.
+I, Ewa Jodlowska, propose that Younggun Kim be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a past PSF Board Director, organizer of [PyCon](../../conferences/pycon/PyCon) KR, conference speaker, and a great ambassador of the PSF. Younggun attends several regional conferences yearly in Asia to help promote the PSF and stays connected with regional organizers.
 
 ### David Lord 
 
@@ -2750,7 +2750,7 @@ I author and maintain the Quart, Hypercorn and associated projects and work with
 
 I, Aakanksha Agrawal propose that Ayan Pahwa be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community, especially in promoting python on hardware. A few mentionable ones are as follows:
 
-\- Contributing to projects like circuitpython, micropython, etc - Making content for python on hardware projects including microcontroller boards and single-board computers like raspberry pi - Sharing knowledge through his blog ([https://codeNsolder.com/blog](https://codeNsolder.com/blog)) and videos ([https://youtube.com/iayanpahwa](https://youtube.com/iayanpahwa)) on python - Conducting python on hardware workshop as an organizer in local communities- Circuitpython day 2019 at ILUGD and HHCD - giving talks and poster presentations about the same in various conference around the world- [PyCon](PyCon), FOSSASIA - Promoting diversity in python communities - staying active in python hardware communities, helping and encouraging others in getting started.
+\- Contributing to projects like circuitpython, micropython, etc - Making content for python on hardware projects including microcontroller boards and single-board computers like raspberry pi - Sharing knowledge through his blog ([https://codeNsolder.com/blog](https://codeNsolder.com/blog)) and videos ([https://youtube.com/iayanpahwa](https://youtube.com/iayanpahwa)) on python - Conducting python on hardware workshop as an organizer in local communities- Circuitpython day 2019 at ILUGD and HHCD - giving talks and poster presentations about the same in various conference around the world- [PyCon](../../conferences/pycon/PyCon), FOSSASIA - Promoting diversity in python communities - staying active in python hardware communities, helping and encouraging others in getting started.
 
 *Not a PSF member*
 
@@ -2800,7 +2800,7 @@ I,Vivian Alagbo, propose that Sarah Adigwe be recognized as a Fellow of the Pyth
 
 ### Owen Campbell 
 
-I\'d \[Peter Inglesby\] like to nominate Owen Campbell for a Fellowship. He has been involved in the [PyCon](PyCon) UK for several years, and has provided a huge amount of behind-the-scenes support for the directors of the conference. He was also the driving force behind setting up the UK Python Association, a Charitable Incorporated Organisation which exists to support the Python community in the UK and around the world.
+I\'d \[Peter Inglesby\] like to nominate Owen Campbell for a Fellowship. He has been involved in the [PyCon](../../conferences/pycon/PyCon) UK for several years, and has provided a huge amount of behind-the-scenes support for the directors of the conference. He was also the driving force behind setting up the UK Python Association, a Charitable Incorporated Organisation which exists to support the Python community in the UK and around the world.
 
 *PSF Contributing Member*
 
@@ -2808,17 +2808,17 @@ I\'d \[Peter Inglesby\] like to nominate Owen Campbell for a Fellowship. He has 
 
 I, Owen Campbell, propose that Kristian Glass be recognised as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as:
 
-\* The Conference Director of [PyCon](PyCon) UK 2020 \* A founding and current trustee of the UK Python Association (UKPA),
+\* The Conference Director of [PyCon](../../conferences/pycon/PyCon) UK 2020 \* A founding and current trustee of the UK Python Association (UKPA),
 
-- charitable body repsonsible for the delivery of [PyCon](PyCon) UK
+- charitable body repsonsible for the delivery of [PyCon](../../conferences/pycon/PyCon) UK
 
 \* A founding and current director of UKPA Trading Ltd, a wholly owned
 
 - subsidiary of the UKPA
 
-\* A founding and current director of [PyCon](PyCon) UK Society Trading Ltd, the
+\* A founding and current director of [PyCon](../../conferences/pycon/PyCon) UK Society Trading Ltd, the
 
-- the company previously respsonsible for the delivery of [PyCon](PyCon) UK
+- the company previously respsonsible for the delivery of [PyCon](../../conferences/pycon/PyCon) UK
 
 *PSF Contributing Member* *Also nominated by Peter Inglesby & Daniele Procida*
 
@@ -2826,7 +2826,7 @@ I, Owen Campbell, propose that Kristian Glass be recognised as a Fellow of the P
 
 I, Stéphane Wirtel, propose that Julien Palard be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community:
 
-\- Python Core Dev - Contribute to maintain some servers with Ernest W. Durbin III (PSF Staff) - Spending a lot of time on the #python-fr IRC channel to help the new comers. - Helping on the organisation of [PyCon](PyCon) France. - Helping on the maintenance of AFPy (French Fundation around Python) servers. - Teaching Python a lot to many people (Paris Descartes University, private companies, schools (Sup\'Internet), \... - Co-creator of [https://hackinscience.org](https://hackinscience.org) : a Python learning system in Python that I use a lot when teaching to too-many-people (It happen I have 60 students in a single room at the university). - He organizes monthly meetups in Paris : [https://www.meetup.com/fr-FR/Python-AFPY-Paris/](https://www.meetup.com/fr-FR/Python-AFPY-Paris/) - He comes and sometime speak to other Paris meetups : [https://mdk.fr/pages/talks.html](https://mdk.fr/pages/talks.html) - He\'s the author of the PEP 545 and current organizer of the [https://docs.python.org](https://docs.python.org) translation (I help any language in the process of starting and maintaining a translation, and maintain the [https://devguide.python.org/documenting/#translating](https://devguide.python.org/documenting/#translating) up to date). I also monitor the Sentry of the docsbuild-scripts, and I moderate (and sometime even reply) on the docs@ and doc-sig@ mailing lists. - He\'s the biggest contributor of the french translation on github.com/python/python-docs-fr (even if nowadays I spend more time reviewing PRs than actually translating) - Sometime contribute to cpython core (fixing memoryleak and segfaults are my hobbies but I don\'t have a lot of time on it). - Sometime proofreading PRs on cpython (typically at the core dev sprints, and I hope to have more time on it in the future). - I maintain a few packages around translation maintenance like pospell (a spell checker), powrap (a gettext rewrapper), pomerge (a tool to merge content of gettext files), poautofill (automatic translator using deepl.com api). - And a few other projects not around translation like mdorrst, licencename, pipe (720 stars github), hl_vt100, \... - And a few other projects : [https://github.com/JulienPalard?tab=repositories](https://github.com/JulienPalard?tab=repositories)
+\- Python Core Dev - Contribute to maintain some servers with Ernest W. Durbin III (PSF Staff) - Spending a lot of time on the #python-fr IRC channel to help the new comers. - Helping on the organisation of [PyCon](../../conferences/pycon/PyCon) France. - Helping on the maintenance of AFPy (French Fundation around Python) servers. - Teaching Python a lot to many people (Paris Descartes University, private companies, schools (Sup\'Internet), \... - Co-creator of [https://hackinscience.org](https://hackinscience.org) : a Python learning system in Python that I use a lot when teaching to too-many-people (It happen I have 60 students in a single room at the university). - He organizes monthly meetups in Paris : [https://www.meetup.com/fr-FR/Python-AFPY-Paris/](https://www.meetup.com/fr-FR/Python-AFPY-Paris/) - He comes and sometime speak to other Paris meetups : [https://mdk.fr/pages/talks.html](https://mdk.fr/pages/talks.html) - He\'s the author of the PEP 545 and current organizer of the [https://docs.python.org](https://docs.python.org) translation (I help any language in the process of starting and maintaining a translation, and maintain the [https://devguide.python.org/documenting/#translating](https://devguide.python.org/documenting/#translating) up to date). I also monitor the Sentry of the docsbuild-scripts, and I moderate (and sometime even reply) on the docs@ and doc-sig@ mailing lists. - He\'s the biggest contributor of the french translation on github.com/python/python-docs-fr (even if nowadays I spend more time reviewing PRs than actually translating) - Sometime contribute to cpython core (fixing memoryleak and segfaults are my hobbies but I don\'t have a lot of time on it). - Sometime proofreading PRs on cpython (typically at the core dev sprints, and I hope to have more time on it in the future). - I maintain a few packages around translation maintenance like pospell (a spell checker), powrap (a gettext rewrapper), pomerge (a tool to merge content of gettext files), poautofill (automatic translator using deepl.com api). - And a few other projects not around translation like mdorrst, licencename, pipe (720 stars github), hl_vt100, \... - And a few other projects : [https://github.com/JulienPalard?tab=repositories](https://github.com/JulienPalard?tab=repositories)
 
 *PSF Contributing Member*
 
@@ -2856,7 +2856,7 @@ I, Ewa Jodlowska, propose that Al Sweigart be recognized as a Fellow of the PSF 
 
 I, Iqbal Abdullah, propose that Ng Swee Meng ([sweester@gmail.com](mailto:sweester@gmail.com)) be recognized as a Fellow of the Python Software Foundation
 
-Swee Meng\'s contribution to the python community in Malaysia by being the main organizer for regular python meetups (even at times when attendance was below 10 people) even long before we had [PyCon](PyCon) MY, and was also the key person to initiate [PyCon](PyCon) MY in 2015. Hi tenacity to continue contributing by managing and evangelising for python has made [PyCon](PyCon) MY grow to be known as the biggest python conference in Malaysia, and also one of the biggest and longest continuing grass-roots led non-commercial tech conference in the country.
+Swee Meng\'s contribution to the python community in Malaysia by being the main organizer for regular python meetups (even at times when attendance was below 10 people) even long before we had [PyCon](../../conferences/pycon/PyCon) MY, and was also the key person to initiate [PyCon](../../conferences/pycon/PyCon) MY in 2015. Hi tenacity to continue contributing by managing and evangelising for python has made [PyCon](../../conferences/pycon/PyCon) MY grow to be known as the biggest python conference in Malaysia, and also one of the biggest and longest continuing grass-roots led non-commercial tech conference in the country.
 
 Swee Meng also contributes to the [SinarProject](./SinarProject.html) by writing code in python. [SinarProject](./SinarProject.html) is a civic tech initiative aiming to put accountability on governments. His evangelism on using python in this project has increased society\'s general awareness on what python is, what it can do and how it can benefit society in general.
 
@@ -2890,11 +2890,11 @@ I, Andrew Svetlov, propose that Serhiy Storchaka be recognized as a Fellow of th
 
 I, Honza Javorek, propose that Lumír Balhar \<[frenzy.madness@gmail.com](mailto:frenzy.madness@gmail.com)\> be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a
 
-\- founder and leader of the Python user group in Ostrava (since 2013) - founder and lecturer of [PyLadies](./PyLadies.html) Ostrava (since 2016, I think) - co-founder of the Python user group in Olomouc (2017) - main organizer, leader, and great motivator of the [PyCon](PyCon) CZ org team for (at least) two consequent years (2019, 2020) - organizer and host (in his own house) of yearly community Python sprints dedicated to improving what the Czech Python user group does
+\- founder and leader of the Python user group in Ostrava (since 2013) - founder and lecturer of [PyLadies](./PyLadies.html) Ostrava (since 2016, I think) - co-founder of the Python user group in Olomouc (2017) - main organizer, leader, and great motivator of the [PyCon](../../conferences/pycon/PyCon) CZ org team for (at least) two consequent years (2019, 2020) - organizer and host (in his own house) of yearly community Python sprints dedicated to improving what the Czech Python user group does
 
 There are many people in the Czech Republic, who are very active in promoting Python, organizing Python events, and in overall making the world better through Python. Due to language barriers, our activities have mostly local impact, so the PSF doesn\'t have so many opportunities to hear about them. I\'d like to start with internationally recognizing the great work being done here. I decided to propose Lumír as the first Czech PSF Fellow, because he stands out in following:
 
-\- operating in a post-industrial area of the country with high unemployment and basically no prior Python awareness and no Python companies - building a local community completely from scratch, from enthusiasts and beginners, and leading it to being so robust that it was/is able to take over and successfully deliver the Czech Python user group conference, [PyCon](PyCon) CZ (\~400 attendees, previously 2015-2016 in Brno, 2017-2018 in Prague, both being major cities with abundance of Python software companies and volunteers) - being persistent in his volunteering contributions for many years, seemingly without any burnouts, always spreading good mood and attitude - being very humble in accepting any praise, perhaps not even realizing the sheer amount of good he has added to the world
+\- operating in a post-industrial area of the country with high unemployment and basically no prior Python awareness and no Python companies - building a local community completely from scratch, from enthusiasts and beginners, and leading it to being so robust that it was/is able to take over and successfully deliver the Czech Python user group conference, [PyCon](../../conferences/pycon/PyCon) CZ (\~400 attendees, previously 2015-2016 in Brno, 2017-2018 in Prague, both being major cities with abundance of Python software companies and volunteers) - being persistent in his volunteering contributions for many years, seemingly without any burnouts, always spreading good mood and attitude - being very humble in accepting any praise, perhaps not even realizing the sheer amount of good he has added to the world
 
 *Not a PSF Member*
 
@@ -2906,7 +2906,7 @@ I, Mário Sérgio, propose that Marco Rougeth should be recognized as a Fellow o
 
 ### Thea Flowers 
 
-I, Ian Stapleton Cordasco, am nominating Thea Flowers to become a Fellow of the Python Software Foundation, due to her significant contributions to the Python community as the creator of nox, cmarkgfm, and flask-talisman; major contributor to circuitpython; member of the Python Packaging Authority; maintainer of Urllib3; and a developer advocate for Python on Google Cloud Platform. Thea has also served as the co-chair of [PyCascades](./PyCascades.html) and given excellent talks at [PyCon](PyCon) and Puget Sound Programming Python. Thea has also recently started [https://conducthotline.com/pages/faq](https://conducthotline.com/pages/faq) and maintains it on her own in order to make running a Code of Conduct hotline easier for conference organizers. It is also written in Python.
+I, Ian Stapleton Cordasco, am nominating Thea Flowers to become a Fellow of the Python Software Foundation, due to her significant contributions to the Python community as the creator of nox, cmarkgfm, and flask-talisman; major contributor to circuitpython; member of the Python Packaging Authority; maintainer of Urllib3; and a developer advocate for Python on Google Cloud Platform. Thea has also served as the co-chair of [PyCascades](./PyCascades.html) and given excellent talks at [PyCon](../../conferences/pycon/PyCon) and Puget Sound Programming Python. Thea has also recently started [https://conducthotline.com/pages/faq](https://conducthotline.com/pages/faq) and maintains it on her own in order to make running a Code of Conduct hotline easier for conference organizers. It is also written in Python.
 
 *Not a PSF Member*
 
@@ -2918,7 +2918,7 @@ I, Orunsolu A. Abiodun, hereby propose that Olaniyan Adewale Hafeez be recognize
 
 ### Oier Echaniz Beneitez 
 
-Our Chair, Oier Echaniz Beneitez, due to his significant contribution to the community, being one of the co-founder of the local Python Society and being the chair since its foundation in 2014 (Python San Sebastian), being co-organiser and co-founder of the local Python conference series Python San Sebastian, also organiser and co-chair of [EuroPython](EuroPython) 2015, 2016, being part of the [EuroPython](EuroPython) Society board during these years, [EuroScipy](EuroScipy) 2019 and 2020 co-organiser and co-chair, Instructor and organiser of several Software Carpentries and many Python courses for local companies and research facilities. For his contributions as a person with a disability to share his strength and his sense of humor with everyone being also co-founder and maintainer of pyjokes.
+Our Chair, Oier Echaniz Beneitez, due to his significant contribution to the community, being one of the co-founder of the local Python Society and being the chair since its foundation in 2014 (Python San Sebastian), being co-organiser and co-founder of the local Python conference series Python San Sebastian, also organiser and co-chair of [EuroPython](../../conferences/europython/EuroPython) 2015, 2016, being part of the [EuroPython](../../conferences/europython/EuroPython) Society board during these years, [EuroScipy](../../conferences/regional/EuroScipy) 2019 and 2020 co-organiser and co-chair, Instructor and organiser of several Software Carpentries and many Python courses for local companies and research facilities. For his contributions as a person with a disability to share his strength and his sense of humor with everyone being also co-founder and maintainer of pyjokes.
 
 *nominated by Python San Sebastian Society GA members*
 
@@ -2926,11 +2926,11 @@ Our Chair, Oier Echaniz Beneitez, due to his significant contribution to the com
 
 ### Alexandre Savio 
 
-Our Treasurer, Alexandre Savio, due to his significant contribution to the community, being one of the co-founder of the local Python Society being co-organiser and co-founder of the local Python conference series Python San Sebastian, also organiser and co-chair of [EuroPython](EuroPython) 2015, 2016 and 2018, being part of the [EuroPython](EuroPython) Society board during these years, [EuroScipy](EuroScipy) 2019 and 2020, co-organiser of Pycon Munich in 2016, Instructor and Organizer of several Software Carpentries and many Python courses for local companies and research facilities. Also co-founder and maintainer of pyjokes. *nominated by Python San Sebastian Society GA members*
+Our Treasurer, Alexandre Savio, due to his significant contribution to the community, being one of the co-founder of the local Python Society being co-organiser and co-founder of the local Python conference series Python San Sebastian, also organiser and co-chair of [EuroPython](../../conferences/europython/EuroPython) 2015, 2016 and 2018, being part of the [EuroPython](../../conferences/europython/EuroPython) Society board during these years, [EuroScipy](../../conferences/regional/EuroScipy) 2019 and 2020, co-organiser of Pycon Munich in 2016, Instructor and Organizer of several Software Carpentries and many Python courses for local companies and research facilities. Also co-founder and maintainer of pyjokes. *nominated by Python San Sebastian Society GA members*
 
 ### Darya Chyzhyk 
 
-Our Spokesperson, Darya Chyzyk, due to her significant contribution to the community, being one of the co-founder of the local Python Society being co-organiser and co-founder of the local Python conference series Python San Sebastian, also organiser and co-chair of [EuroPython](EuroPython) 2015, 2016, 2017, 2018, 2019 being part of the [EuroPython](EuroPython) Society board during these years, [EuroScipy](EuroScipy) 2019 and 2020 co-chair and co-organiser, co-organiser of several Software Carpentries and many Python courses for local companies and research facilities.
+Our Spokesperson, Darya Chyzyk, due to her significant contribution to the community, being one of the co-founder of the local Python Society being co-organiser and co-founder of the local Python conference series Python San Sebastian, also organiser and co-chair of [EuroPython](../../conferences/europython/EuroPython) 2015, 2016, 2017, 2018, 2019 being part of the [EuroPython](../../conferences/europython/EuroPython) Society board during these years, [EuroScipy](../../conferences/regional/EuroScipy) 2019 and 2020 co-chair and co-organiser, co-organiser of several Software Carpentries and many Python courses for local companies and research facilities.
 
 *nominated by Python San Sebastian Society GA members*
 
@@ -2938,13 +2938,13 @@ Our Spokesperson, Darya Chyzyk, due to her significant contribution to the commu
 
 ### Borja Ayerdi 
 
-Our Board member, Borja Ayerdi, due to his significant contribution to the community, being one of the co-founder of the local Python Society being co-organiser and co-founder of the local Python conference series Python San Sebastian, also organiser and co-chair of [EuroPython](EuroPython) 2015, 2016, being part of the [EuroPython](EuroPython) Society board during these years, [EuroScipy](EuroScipy) 2019 and 2020 co-organiser, several Software Carpentries and many Python courses for local companies and research facilities. Also co-founder and maintainer of pyjokes. *nominated by Python San Sebastian Society GA members*
+Our Board member, Borja Ayerdi, due to his significant contribution to the community, being one of the co-founder of the local Python Society being co-organiser and co-founder of the local Python conference series Python San Sebastian, also organiser and co-chair of [EuroPython](../../conferences/europython/EuroPython) 2015, 2016, being part of the [EuroPython](../../conferences/europython/EuroPython) Society board during these years, [EuroScipy](../../conferences/regional/EuroScipy) 2019 and 2020 co-organiser, several Software Carpentries and many Python courses for local companies and research facilities. Also co-founder and maintainer of pyjokes. *nominated by Python San Sebastian Society GA members*
 
 *Not a PSF Member*
 
 ### Ondrej Certik 
 
-I, Gagandeep Singh, propose that, Ondrej Certik be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a founder of [SymPy](SymPy), a python library for symbolic mathematics, with around 6500 stars, 2800 forks on [GitHub](./GitHub.html). In addition, [SymPy](SymPy) is used by 14000 open source repositories and 500 open source packages, including Microsoft Dowhy and Mathematics Dataset by Google Deepmind. He has also contributed to [NumPy](NumPy), as a release manager for version 1.7, [SciPy](SciPy), and IPython.
+I, Gagandeep Singh, propose that, Ondrej Certik be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a founder of [SymPy](../../people/SymPy), a python library for symbolic mathematics, with around 6500 stars, 2800 forks on [GitHub](./GitHub.html). In addition, [SymPy](../../people/SymPy) is used by 14000 open source repositories and 500 open source packages, including Microsoft Dowhy and Mathematics Dataset by Google Deepmind. He has also contributed to [NumPy](../../science/NumPy), as a release manager for version 1.7, [SciPy](SciPy), and IPython.
 
 *Not a PSF Member*
 
@@ -3022,13 +3022,13 @@ Pablo worked with Ewa to organize this year\'s core developer sprint at the Bloo
 
 \- Conference Talks
 
-Pablo has given many Python-related conference talks including at PyConUS, [PyLondinium](./PyLondinium.html), [PyCon](PyCon) ES (keynote), [EuroPython](EuroPython) and [CodeMotion](./CodeMotion.html) Madrid and other meetups. It\'s not available online yet, but several people have told me that his [PyCon](PyCon) ES keynote this year was amazing.
+Pablo has given many Python-related conference talks including at PyConUS, [PyLondinium](./PyLondinium.html), [PyCon](../../conferences/pycon/PyCon) ES (keynote), [EuroPython](../../conferences/europython/EuroPython) and [CodeMotion](./CodeMotion.html) Madrid and other meetups. It\'s not available online yet, but several people have told me that his [PyCon](../../conferences/pycon/PyCon) ES keynote this year was amazing.
 
 *not a PSF member, but is a core developer*
 
 ### Ngazetungue Muheue 
 
-I, Bella Utanauka Tjiraso, propose that Mr Ngazetungue Muheue be recognized as a Fellow of the Python Software Foundation, due to the significant contributions to the Python community in Namibia. He is a co-founder of the Python Community in Namibia ([PyNam](./PyNam.html)), a leading organizer of Python Week of Code in Namibia , a co-organizer for the 2016, 2017, 2018, 2019 and 2020 editions of the [PyCon](PyCon) Namibia, Founder of Django (python) framework in Namibia and at the same time he is a Python community outreach coordinator under Python Namibia Society ([PyNam](./PyNam.html)), and he has been Python tutor for the past 6 years (2014-2019). He is a backbone of Python in Namibia, he represent our community at all level be international, continental and local level.
+I, Bella Utanauka Tjiraso, propose that Mr Ngazetungue Muheue be recognized as a Fellow of the Python Software Foundation, due to the significant contributions to the Python community in Namibia. He is a co-founder of the Python Community in Namibia ([PyNam](./PyNam.html)), a leading organizer of Python Week of Code in Namibia , a co-organizer for the 2016, 2017, 2018, 2019 and 2020 editions of the [PyCon](../../conferences/pycon/PyCon) Namibia, Founder of Django (python) framework in Namibia and at the same time he is a Python community outreach coordinator under Python Namibia Society ([PyNam](./PyNam.html)), and he has been Python tutor for the past 6 years (2014-2019). He is a backbone of Python in Namibia, he represent our community at all level be international, continental and local level.
 
 *Also nominated by Gregg Makari & Murangi V. & Unotjari Kandjavera*
 
@@ -3036,7 +3036,7 @@ I, Bella Utanauka Tjiraso, propose that Mr Ngazetungue Muheue be recognized as a
 
 ### Patrick Guido Arminio 
 
-I, Marco Acierno, propose that Patrick Guido Arminio, chair of Python Italia, be recognised as a Fellow of the Python Software Foundation, due to his significant contributions to the Italian and European Python Community by helping organising [PyCon](PyCon) Italy, starting as a volunteer to then become a lead organiser, [EuroPython](EuroPython) and many more, founding the Python Pizza mini-conference to bring more Python in South Italy, helping the community\'s members both online and offline, and contributing to the open source helping popular projects such as Django as well as building new amazing tools such as GraphQL Strawberry.
+I, Marco Acierno, propose that Patrick Guido Arminio, chair of Python Italia, be recognised as a Fellow of the Python Software Foundation, due to his significant contributions to the Italian and European Python Community by helping organising [PyCon](../../conferences/pycon/PyCon) Italy, starting as a volunteer to then become a lead organiser, [EuroPython](../../conferences/europython/EuroPython) and many more, founding the Python Pizza mini-conference to bring more Python in South Italy, helping the community\'s members both online and offline, and contributing to the open source helping popular projects such as Django as well as building new amazing tools such as GraphQL Strawberry.
 
 *Also nominated by Fiorella De Luca*
 
@@ -3044,13 +3044,13 @@ I, Marco Acierno, propose that Patrick Guido Arminio, chair of Python Italia, be
 
 ### Kevin O\'Brien 
 
-I, Vicky Twomey-Lee, propose that Kevin O\'Brien be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Irish Python community as a part of Python Ireland Committee as well as his tremendous efforts in organising [PyCon](PyCon) Ireland as well as his continued support of providing financial aid to attend the conference. His co-ordination and outreach has brought the very first Irish [PyCon](PyCon) outside of Dublin to Limerick (mid-west of Ireland) and plans to further run Python-related events in other Irish cities. He\'s very active in the [PyData](./PyData.html) community, and overall in diversity in tech initiatives also. He has been very supportive on his contribution of time and expertise when I was running my own Python-related events, workshops and initiatives (these includes my past [PyCon](PyCon) Ireland and Python Ireland events). He has certainly gone \"above and beyond normal volunteering\".
+I, Vicky Twomey-Lee, propose that Kevin O\'Brien be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Irish Python community as a part of Python Ireland Committee as well as his tremendous efforts in organising [PyCon](../../conferences/pycon/PyCon) Ireland as well as his continued support of providing financial aid to attend the conference. His co-ordination and outreach has brought the very first Irish [PyCon](../../conferences/pycon/PyCon) outside of Dublin to Limerick (mid-west of Ireland) and plans to further run Python-related events in other Irish cities. He\'s very active in the [PyData](./PyData.html) community, and overall in diversity in tech initiatives also. He has been very supportive on his contribution of time and expertise when I was running my own Python-related events, workshops and initiatives (these includes my past [PyCon](../../conferences/pycon/PyCon) Ireland and Python Ireland events). He has certainly gone \"above and beyond normal volunteering\".
 
 *Not a basic, managing, nor contributing member (Ewa 11Oct19)*
 
 ### Park Hyun woo 
 
-He\[Park Hyun woo\] was first follower to start [PyCon](PyCon) KR. at 2014 I \[Kwon-Han Bae\] struggled to start [PyCon](PyCon) KR in korea first time no one did it before. he give us ( [PyCon](PyCon) KR commitee ) encourage. actions. support to start [PyCon](PyCon) KRtill 2017 ( about 5 years ). All most webpage, printed things are done by him. organzing, empowering people and learn to think about CoC ( yes\' its very first in korea ). after that he stared sprint seoul to spread Python Development Sprint ( [https://www.sprintseoul.org/](https://www.sprintseoul.org/) ) in korea, we are accepting other langues sprint but in half ot them are python also he is author of these things. - [https://github.com/summernote/django-summernote](https://github.com/summernote/django-summernote), also sent tons of PR to several python projects
+He\[Park Hyun woo\] was first follower to start [PyCon](../../conferences/pycon/PyCon) KR. at 2014 I \[Kwon-Han Bae\] struggled to start [PyCon](../../conferences/pycon/PyCon) KR in korea first time no one did it before. he give us ( [PyCon](../../conferences/pycon/PyCon) KR commitee ) encourage. actions. support to start [PyCon](../../conferences/pycon/PyCon) KRtill 2017 ( about 5 years ). All most webpage, printed things are done by him. organzing, empowering people and learn to think about CoC ( yes\' its very first in korea ). after that he stared sprint seoul to spread Python Development Sprint ( [https://www.sprintseoul.org/](https://www.sprintseoul.org/) ) in korea, we are accepting other langues sprint but in half ot them are python also he is author of these things. - [https://github.com/summernote/django-summernote](https://github.com/summernote/django-summernote), also sent tons of PR to several python projects
 
 *Not a PSF member*
 
@@ -3094,11 +3094,11 @@ He is fully committed to the Python community and programming. He never counts h
 
 I, Iqbal Abdullah, a Managing PSF member propose that Terada Manabu ([terada@pycon.jp](mailto:terada@pycon.jp)) be recognized as a Fellow of the Python Software Foundation, due to his
 
-1\. Significant contributions to the Python community as a founder of the [PyCon](PyCon) JP country conference in 2011, which started with 100 attendees and now in it\'s 8th year with over 1000 attendees
+1\. Significant contributions to the Python community as a founder of the [PyCon](../../conferences/pycon/PyCon) JP country conference in 2011, which started with 100 attendees and now in it\'s 8th year with over 1000 attendees
 
-2\. Contributions to organizing the [PyCon](PyCon) APAC in JP conference for the Asia Pacific Region in 2013, introducing the wider regional [PyCon](PyCon) community to Japan and vice-versa
+2\. Contributions to organizing the [PyCon](../../conferences/pycon/PyCon) APAC in JP conference for the Asia Pacific Region in 2013, introducing the wider regional [PyCon](../../conferences/pycon/PyCon) community to Japan and vice-versa
 
-2\. Through the [PyCon](PyCon) JP organization, organized Python Bootcamps, which are nominally-paid classes (around USD20) held around Japan, to introduce new comers to Python and more importantly to the wider Python community through [PyCon](PyCon)
+2\. Through the [PyCon](../../conferences/pycon/PyCon) JP organization, organized Python Bootcamps, which are nominally-paid classes (around USD20) held around Japan, to introduce new comers to Python and more importantly to the wider Python community through [PyCon](../../conferences/pycon/PyCon)
 
 3\. Significant contributions from his efforts to increase cooperation between the APAC regional conferences and community, by attending, aiding and supporting other regional organizers through his experience and financial means.
 
@@ -3106,11 +3106,11 @@ I, Iqbal Abdullah, a Managing PSF member propose that Terada Manabu ([terada@pyc
 
 ### Mahmoud Hashemi 
 
-I, Moshe Zadka, propose that Mahmoud Hashemi be recognized as a Fellow of the Python Software Foundation due to his significant contributions to the Python community: \* Writing: Authoring O\'Reilly\'s Enterprise Software with Python, as well as Python advocacy posts on the \[[PayPal](./PayPal.html) corporate engineering blog\]([https://medium.com/paypal-engineering/tagged/python](https://medium.com/paypal-engineering/tagged/python)). He also contributed extensive documentation to the official packaging.python.org packaging guide. \* Organizing: Co-organizing the \[Pyninsula\]([https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/](https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/)) monthly meetup, a PSF-recognized meetup in the SF Bay Area, with me for the past two-and-a-half years. He\'s also been active in the [BayPiggies](BayPiggies) and SF Python local communities, and has given Python talks globally: [https://sedimental.org/talks.html](https://sedimental.org/talks.html) \* Maintenance: He maintains a curated, structured list of example FOSS Python applications for the Python community to learn from and use: [https://github.com/mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) He also maintains several popular/critical packages, including boltons, glom, and hyperlink.
+I, Moshe Zadka, propose that Mahmoud Hashemi be recognized as a Fellow of the Python Software Foundation due to his significant contributions to the Python community: \* Writing: Authoring O\'Reilly\'s Enterprise Software with Python, as well as Python advocacy posts on the \[[PayPal](./PayPal.html) corporate engineering blog\]([https://medium.com/paypal-engineering/tagged/python](https://medium.com/paypal-engineering/tagged/python)). He also contributed extensive documentation to the official packaging.python.org packaging guide. \* Organizing: Co-organizing the \[Pyninsula\]([https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/](https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/)) monthly meetup, a PSF-recognized meetup in the SF Bay Area, with me for the past two-and-a-half years. He\'s also been active in the [BayPiggies](../../community/BayPiggies) and SF Python local communities, and has given Python talks globally: [https://sedimental.org/talks.html](https://sedimental.org/talks.html) \* Maintenance: He maintains a curated, structured list of example FOSS Python applications for the Python community to learn from and use: [https://github.com/mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) He also maintains several popular/critical packages, including boltons, glom, and hyperlink.
 
 ### Batuhan Osman Taskaya 
 
-I , Mustafa Anıl Tuncel, propose Batuhan Osman Taskaya be recognised as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community in many positions. He is a high school student from Turkey, recently became 16. Although being young, he already has a remarkable amount of contributions to Python and its community. He is a strong advocate of Python, he even thinks people should start developing frontend with Python as he is doing with the darwcss/frutti \[0\] projects he developed. He is the author of many hacking projects (such as catlizor\[1\], pepallow\[2\], rustyreturn\[3\]) that changes the behaviour of CPython and shows the ecosystem there is no such thing to be called impossible with CPython. He is the living proof of \"CPython is the most dynamic interpreter\". He has significant contributions to various other Python projects including CPython core \[10\]. He spoke at the largest FOSS conferences of Europe. Including the talk, he gave a talk about Memory Management in CPython at FOSDEM last year \[4\] and the talk about the security vulnerabilities of CPython at [EuroPython](EuroPython) this year \[5\]. He blogs in both English \[6\] and Turkish \[7\], about CPython\'s internals. He brought some unique reading material in Turkish and Python community in Turkey deeply appreciate his blog posts. He also gives Python training (for free) as a Python advocate in Turkey. The upcoming training is going to happen in SCamp which is a summer camp for the young programmers (between 14- and 17-years old) \[11\]. There he is going to give Python training for 4 days. Lately, he gives free consulting to floss projects under Three-Headed Giant Consulting \[8\] (a character from Monty Python). Last of all, as a community managing experience, he is the founder of a Telegram group \[9\] for the Python users of Turkey. He created that group for advocation Python usage and answering the questions of Pythonistas. I truly believe that he is going to be a key person in advancing the mission of the PSF and with no doubt nominate him to become a PSF fellow. 0: github.com/isidentical/darwcss 1: github.com/isidentical/catlizor 2: githun.com/isidentical/pepallow 3: github.com/isidentical/rustyreturn 4: [https://fosdem.org/2019/schedule/event/python_memory_management/](https://fosdem.org/2019/schedule/event/python_memory_management/) 5: [https://ep2019.europython.eu/talks/C3We3Fp-hack-the-cpython/](https://ep2019.europython.eu/talks/C3We3Fp-hack-the-cpython/) 6: dev.to/btaskaya 7: isidentical.github.io 8: thg-consulting.github.io 9: t.me/python_turkiye 10: [https://github.com/isidentical/](https://github.com/isidentical/) 11: [https://opencampus.com.tr/scamp-2019/](https://opencampus.com.tr/scamp-2019/)
+I , Mustafa Anıl Tuncel, propose Batuhan Osman Taskaya be recognised as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community in many positions. He is a high school student from Turkey, recently became 16. Although being young, he already has a remarkable amount of contributions to Python and its community. He is a strong advocate of Python, he even thinks people should start developing frontend with Python as he is doing with the darwcss/frutti \[0\] projects he developed. He is the author of many hacking projects (such as catlizor\[1\], pepallow\[2\], rustyreturn\[3\]) that changes the behaviour of CPython and shows the ecosystem there is no such thing to be called impossible with CPython. He is the living proof of \"CPython is the most dynamic interpreter\". He has significant contributions to various other Python projects including CPython core \[10\]. He spoke at the largest FOSS conferences of Europe. Including the talk, he gave a talk about Memory Management in CPython at FOSDEM last year \[4\] and the talk about the security vulnerabilities of CPython at [EuroPython](../../conferences/europython/EuroPython) this year \[5\]. He blogs in both English \[6\] and Turkish \[7\], about CPython\'s internals. He brought some unique reading material in Turkish and Python community in Turkey deeply appreciate his blog posts. He also gives Python training (for free) as a Python advocate in Turkey. The upcoming training is going to happen in SCamp which is a summer camp for the young programmers (between 14- and 17-years old) \[11\]. There he is going to give Python training for 4 days. Lately, he gives free consulting to floss projects under Three-Headed Giant Consulting \[8\] (a character from Monty Python). Last of all, as a community managing experience, he is the founder of a Telegram group \[9\] for the Python users of Turkey. He created that group for advocation Python usage and answering the questions of Pythonistas. I truly believe that he is going to be a key person in advancing the mission of the PSF and with no doubt nominate him to become a PSF fellow. 0: github.com/isidentical/darwcss 1: github.com/isidentical/catlizor 2: githun.com/isidentical/pepallow 3: github.com/isidentical/rustyreturn 4: [https://fosdem.org/2019/schedule/event/python_memory_management/](https://fosdem.org/2019/schedule/event/python_memory_management/) 5: [https://ep2019.europython.eu/talks/C3We3Fp-hack-the-cpython/](https://ep2019.europython.eu/talks/C3We3Fp-hack-the-cpython/) 6: dev.to/btaskaya 7: isidentical.github.io 8: thg-consulting.github.io 9: t.me/python_turkiye 10: [https://github.com/isidentical/](https://github.com/isidentical/) 11: [https://opencampus.com.tr/scamp-2019/](https://opencampus.com.tr/scamp-2019/)
 
 ### Gautier Hayoun and Tom Viner 
 
@@ -3124,7 +3124,7 @@ My name is Feștilă George Cătălin , username catafest. I\'m an older user in
 
 ### Anton Caceres 
 
-I, Mariia Kuneva the main organizer of the conference [PyCon](PyCon) Odessa, propose that Anton Caceres be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a main organizer of the PyConDE 2016 and [PyConWeb](./PyConWeb.html) annually since 2017. Also, on March 16, 2019 we held the first conference [PyCon](PyCon) Odessa in Ukraine, Odessa and Anton helped us to organize conference from scratch.
+I, Mariia Kuneva the main organizer of the conference [PyCon](../../conferences/pycon/PyCon) Odessa, propose that Anton Caceres be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a main organizer of the PyConDE 2016 and [PyConWeb](./PyConWeb.html) annually since 2017. Also, on March 16, 2019 we held the first conference [PyCon](../../conferences/pycon/PyCon) Odessa in Ukraine, Odessa and Anton helped us to organize conference from scratch.
 
 ### Rami Chowdhury (elected Q2 2019) 
 
@@ -3134,7 +3134,7 @@ I, Nathan Danielsen, am nominating Rami Chowdhury as a PSF fellow because of his
 
 I, Michie Ang, propose that Matt Lebrun and Michaela Reyes be recognized as Fellows of the Python Software Foundation, due to their significant contributions to the Python community. These two individuals have shaped the Python community in the Philippines by setting up PyConPH (the community of Python Enthusiast in the Philippines). They have been doing so much work in the Philippines and I have seen individuals become Python devs and getting jobs as Python developers because of them. Also, become leaders in the Python community. It\'s been a long time that they have been serving the Python Community here and I hope their hard work be recognized.
 
-They co-founded PythonPH. They hold meetups almost every month to talk about Python. They held [PyCon](PyCon) all over the Philippines and this year they brought PyConAPAC. They also started [DjangoGirls](./DjangoGirls.html) in Manila and many many more. I hope they would be recognized as Fellow of the Python Software Foundation.
+They co-founded PythonPH. They hold meetups almost every month to talk about Python. They held [PyCon](../../conferences/pycon/PyCon) all over the Philippines and this year they brought PyConAPAC. They also started [DjangoGirls](./DjangoGirls.html) in Manila and many many more. I hope they would be recognized as Fellow of the Python Software Foundation.
 
 ### Valentin Dombrovsky 
 
@@ -3142,7 +3142,7 @@ For years I help Valentin Dombrovsky to run \"Moscow Python\" community. Due to 
 
 ### Tania Allard (elected Q2 2019) 
 
-I, Ewa Jodlowska, propose that Tania Allard be recognized as a Fellow of the Python Software Foundation. Tania continues to make significant contributions to the Python community in Data Science (see full list in nomination by Jaime Mendes). Additionally, Tania is an active contributor to the PSF blog ([http://pyfound.blogspot.com/](http://pyfound.blogspot.com/)). In 2019, Tania is a co-organizer of the Mentored Sprints Hatchery Program at [PyCon](PyCon) 2019. The Mentored Sprints\' goal is to better support underrepresented groups with hands on mentoring ([https://us.pycon.org/2019/hatchery/mentoredsprints/](https://us.pycon.org/2019/hatchery/mentoredsprints/)).
+I, Ewa Jodlowska, propose that Tania Allard be recognized as a Fellow of the Python Software Foundation. Tania continues to make significant contributions to the Python community in Data Science (see full list in nomination by Jaime Mendes). Additionally, Tania is an active contributor to the PSF blog ([http://pyfound.blogspot.com/](http://pyfound.blogspot.com/)). In 2019, Tania is a co-organizer of the Mentored Sprints Hatchery Program at [PyCon](../../conferences/pycon/PyCon) 2019. The Mentored Sprints\' goal is to better support underrepresented groups with hands on mentoring ([https://us.pycon.org/2019/hatchery/mentoredsprints/](https://us.pycon.org/2019/hatchery/mentoredsprints/)).
 
 ### Chris Jerdonek (elected Q2 2019) and Pradyun Gedam (elected Q2 2019) 
 
@@ -3158,7 +3158,7 @@ I, Mannie Young nominate the team whom have brought alot on the table to the pro
 
 When we started Python Ghana in 2017, I created different initiatives and had to get a team to work with and these people have done alot to promote the Python Software programming language here in Ghana. We work as a team in every decisions carried out under the leadership of Mr Aaron Yankey who is also on the PSF grant committee board.
 
-They\'ve successfully hosted the very first [PyCon](PyCon) Conference in Ghana in August 2018, have 5 active Local User Groups currently in Ghana (Accra, Kumasi, Ho, [CapeCoast](./CapeCoast.html)) and also our initiatives under the community that happens to gradually grow in the Ghanaian Tech industry. We have the [PyLadies](./PyLadies.html) Ghana initiative, [PyData](./PyData.html) Ghana, [PyClubs](./PyClubs.html) and [PyKids](./PyKids.html).
+They\'ve successfully hosted the very first [PyCon](../../conferences/pycon/PyCon) Conference in Ghana in August 2018, have 5 active Local User Groups currently in Ghana (Accra, Kumasi, Ho, [CapeCoast](./CapeCoast.html)) and also our initiatives under the community that happens to gradually grow in the Ghanaian Tech industry. We have the [PyLadies](./PyLadies.html) Ghana initiative, [PyData](./PyData.html) Ghana, [PyClubs](./PyClubs.html) and [PyKids](./PyKids.html).
 
 The Python Programming language is gradually growing in Ghana and these individuals have played a major part in all these. They\'ve serve the Python community through extraordinary efforts and sacrifices in organising, travelling and contributing to Python related events around Ghana be it Django Girls, [PyLadies](./PyLadies.html), [PyClubs](./PyClubs.html), [PyData](./PyData.html), User Groups Meetups etc.
 
@@ -3190,7 +3190,7 @@ He currently serves as the Coach of Django Girls Minna, Django Girls Funtua, Dja
 
 ### Marek Mansell 
 
-I, Tomas Pytel, propose that Marek Mansell be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as co-founder and lead organizer of the PyConSK conference for the 2016,2017 and 2018 editions of this Slovak Python conference. Marek have played a key role in creating [EduSummit](./EduSummit.html), a unique feature of [PyCon](PyCon) SK conference designed to promote the Python as the new alternative for IT teachers in Slovak high schools and universities.
+I, Tomas Pytel, propose that Marek Mansell be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as co-founder and lead organizer of the PyConSK conference for the 2016,2017 and 2018 editions of this Slovak Python conference. Marek have played a key role in creating [EduSummit](./EduSummit.html), a unique feature of [PyCon](../../conferences/pycon/PyCon) SK conference designed to promote the Python as the new alternative for IT teachers in Slovak high schools and universities.
 
 ### Gary Pickup 
 
@@ -3240,7 +3240,7 @@ I, Muhammad Abdullahi, hereby nominate Raji Abdulgafar as a fellow of the python
 
 ### Florian Bruhin (elected Q2 2019) 
 
-I, Rahul Jha, propose that Florian Bruhin\[0\] (aka The-Compiler) be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community, mainly in the form of qutebrowser\[1\], which is a cross-platform web browser with vim-style key bindings and a minimal GUI written in Python using [PyQt](PyQt) - for which he also received a CH Open Source award in 2016\[2\]. He is also a long term contributor and maintainer for pytest\[3\] and also helped out in the development of [PySide](PySide)\[4\]. Amongst his other achievements, he is also an operator in the #python IRC channel which reflects his love and eagerness to help fellow members of the community.
+I, Rahul Jha, propose that Florian Bruhin\[0\] (aka The-Compiler) be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community, mainly in the form of qutebrowser\[1\], which is a cross-platform web browser with vim-style key bindings and a minimal GUI written in Python using [PyQt](../../gui/PyQt) - for which he also received a CH Open Source award in 2016\[2\]. He is also a long term contributor and maintainer for pytest\[3\] and also helped out in the development of [PySide](../../people/PySide)\[4\]. Amongst his other achievements, he is also an operator in the #python IRC channel which reflects his love and eagerness to help fellow members of the community.
 
 Apart from his in-numerous contributions to the Free and Libre Open Source Software, he has also mentored many people through the means of various open source programs, like Google Summer of Code, Rails Girls Summer of Code, etc and having experienced the depth of knowledge and the love of teaching he has during my time being mentored by him for Google Summers of Code 2018, I believe becoming a Fellow of the PSF would help him become even more valuable to the community.
 
@@ -3250,7 +3250,7 @@ I am self nominating myself to be a PSF Fellow. I have a degree in Computer Engi
 
 ### Sanyam Khurana 
 
-I, Shashank Kumar, propose that Sanyam Khurana, be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a co-organizer of [PyDelhi](./PyDelhi.html)\[0\] community since 2015, conducting bi-monthly meetups. He has been a core-organizer of [PyDelhi](./PyDelhi.html) Conf\[1\], [PyCon](PyCon) India 2016\[2\], 2017\[3\] and volunteer for [PyCon](PyCon) India 2015\[4\], which is the biggest conference in South Asia.
+I, Shashank Kumar, propose that Sanyam Khurana, be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a co-organizer of [PyDelhi](./PyDelhi.html)\[0\] community since 2015, conducting bi-monthly meetups. He has been a core-organizer of [PyDelhi](./PyDelhi.html) Conf\[1\], [PyCon](../../conferences/pycon/PyCon) India 2016\[2\], 2017\[3\] and volunteer for [PyCon](../../conferences/pycon/PyCon) India 2015\[4\], which is the biggest conference in South Asia.
 
 He has been actively contributing to CPython and is a bug triager\[5\] for Python. He is also an active contributor to various projects in Mozilla\[6\] & GSoC Mentor\[7\] for Debian. His commitment towards community can be seen during weekly regular meetups in and around Delhi during which he helps other organizers. He has been sharing his experience and journey through Open Source Contributions with the community and helping folks out to get started with the same.
 
@@ -3282,7 +3282,7 @@ I, Yury Selivanov, propose that Stefan Behnel be recognized as a Fellow of the P
 
 I, Dr Paul O\'Grady, would like to nominate David Markey as a fellow to the Python Software Foundation. Dave has been involved with the Python community in Ireland for more than 8 years now and has been a member of the Python Ireland Committee for most of that time, Dave has also been Chairperson during 2016 & 2017, and is currently treasurer.
 
-Dave has ran our [PyCon](PyCon) Ireland Conference (#PyConIE) during his time as Chariperson (which is one of the biggest indigenous software conferences in Ireland) and has been involved in running the event and our monthly meetups throughout his time on the committee. I think Dave could add a lot to the PSF and becoming a Fellow would be a great recognition of his stellar work in our community.
+Dave has ran our [PyCon](../../conferences/pycon/PyCon) Ireland Conference (#PyConIE) during his time as Chariperson (which is one of the biggest indigenous software conferences in Ireland) and has been involved in running the event and our monthly meetups throughout his time on the committee. I think Dave could add a lot to the PSF and becoming a Fellow would be a great recognition of his stellar work in our community.
 
 ### Eduardo Mendes (elected 2018) 
 
@@ -3316,7 +3316,7 @@ I, Mariatta Wijaya, propose that Claudiu Popa be recognized as a Fellow of the P
 
 Claudiu also made several contributions to CPython. In addition he founded the Romanian Python user group.
 
-Claudiu now is based in Amsterdam. In May 2018 he came to [PyCon](PyCon) US for the first time, and lead a succesful sprint of pylint. He also spoke at [PyCon](PyCon) Taiwan in 2018.
+Claudiu now is based in Amsterdam. In May 2018 he came to [PyCon](../../conferences/pycon/PyCon) US for the first time, and lead a succesful sprint of pylint. He also spoke at [PyCon](../../conferences/pycon/PyCon) Taiwan in 2018.
 
 ### Andrew Godwin (elected 2018) 
 
@@ -3332,7 +3332,7 @@ I, Sanket Verma, propose that Manoj Pandey be recognized as a Fellow of the Pyth
 
 Manoj has committed for a long time while being a full-time university undergrad, to help a lot of people from the community to start a career in Data Science, Software Development (with a focus on Python in general). He has hosted several workshops, talks, meetups locally in Delhi-NCR region, has delivered talks and keynotes at multiple Python conferences around the world \[1\]. All this has inspired a lot of university students which helped them early adoption of Python, and also to start public speaking and sharing knowledge within the community.
 
-\[1\]: [PyCon](PyCon) UK 2016, [PyCon](PyCon) Finland 2016, [PyDelhi](./PyDelhi.html) Conf 2016, [PyCon](PyCon) Philippines 2017, [PyCon](PyCon) Italy 2017, [PyCon](PyCon) Korea 2017, [PyCon](PyCon) Philippines 2018
+\[1\]: [PyCon](../../conferences/pycon/PyCon) UK 2016, [PyCon](../../conferences/pycon/PyCon) Finland 2016, [PyDelhi](./PyDelhi.html) Conf 2016, [PyCon](../../conferences/pycon/PyCon) Philippines 2017, [PyCon](../../conferences/pycon/PyCon) Italy 2017, [PyCon](../../conferences/pycon/PyCon) Korea 2017, [PyCon](../../conferences/pycon/PyCon) Philippines 2018
 
 ------------------------------------------------------------------------
 
@@ -3340,7 +3340,7 @@ Manoj has committed for a long time while being a full-time university undergrad
 
 ### Katie McLaughlin (elected 2018) 
 
-I, James Bennett, nominate Katie [McLaughlin](./McLaughlin.html). Katie is one of two "Senior Apiarists" of the [BeeWare](./BeeWare.html) project, providing tooling to build cross-platform native desktop and mobile applications in Python; she is involved in organizing Python conferences on multiple continents, including [PyCon](PyCon) AU and founding the WOOTConf (Women Of Open Technology) track of linux.conf.au; she's; she's a well-traveled international speaker on Python and related topics; and she serves on the Board of Directors of the Django Software Foundation, helping to support and promote Django and the use of Python in web development. Her efforts have already been recognized with an O'Reilly Open Source Award, and I believe she should also be recognized by our community, by becoming a Fellow of the Python Software Foundation.
+I, James Bennett, nominate Katie [McLaughlin](./McLaughlin.html). Katie is one of two "Senior Apiarists" of the [BeeWare](./BeeWare.html) project, providing tooling to build cross-platform native desktop and mobile applications in Python; she is involved in organizing Python conferences on multiple continents, including [PyCon](../../conferences/pycon/PyCon) AU and founding the WOOTConf (Women Of Open Technology) track of linux.conf.au; she's; she's a well-traveled international speaker on Python and related topics; and she serves on the Board of Directors of the Django Software Foundation, helping to support and promote Django and the use of Python in web development. Her efforts have already been recognized with an O'Reilly Open Source Award, and I believe she should also be recognized by our community, by becoming a Fellow of the Python Software Foundation.
 
 ### Anthony Shaw (elected 2018) 
 
@@ -3352,7 +3352,7 @@ He\'s also broadly advanced the role of Python in the cloud automation world thr
 
 Anthony has worked tirelessly to help arrange behind-the-scenes funding for Python organizations such as [ZimboPy](./ZimboPy.html) \[zimbopy.com\] and for his work in creating (non-free) Python tutorials for people. \[[https://www.pluralsight.com/courses/python-2-to-python-3](https://www.pluralsight.com/courses/python-2-to-python-3)\].
 
-Anthony is a frequent attendee at [PyCon](PyCon) and will talk about his love for Python until even the most dedicated Pythonista might not want to listen any longer. ![;)](/wiki/europython/img/smile4.png ";)") He\'s a wonderful asset to the Python community.
+Anthony is a frequent attendee at [PyCon](../../conferences/pycon/PyCon) and will talk about his love for Python until even the most dedicated Pythonista might not want to listen any longer. ![;)](/wiki/europython/img/smile4.png ";)") He\'s a wonderful asset to the Python community.
 
 ### Wes McKinney (elected 2018) 
 
@@ -3378,21 +3378,21 @@ async/await was pivotal in making asyncio a first-class component of Python and 
 
 ### Rizky Ariestiyansyah (elected 2018) 
 
-I, Ady Rahmat MA, propose that Rizky Ariestiyansyah be recognized as a Fellow of Python Software Foundation, due to his significant contriubtions to the Python Community as a Founder of the [PyCon](PyCon) Indonesia and who was successfully bring the first [PyCon](PyCon) to Indonesia. Rizky Ariestiyansyah, has been travel through various of countries for attending [PyCon](PyCon) as Speakers such as [PyCon](PyCon) Japan, [PyCon](PyCon) APAC, [PyCon](PyCon) My, [PyCon](PyCon) HK. Rizky is an active contributor to Python Indonesia Community.
+I, Ady Rahmat MA, propose that Rizky Ariestiyansyah be recognized as a Fellow of Python Software Foundation, due to his significant contriubtions to the Python Community as a Founder of the [PyCon](../../conferences/pycon/PyCon) Indonesia and who was successfully bring the first [PyCon](../../conferences/pycon/PyCon) to Indonesia. Rizky Ariestiyansyah, has been travel through various of countries for attending [PyCon](../../conferences/pycon/PyCon) as Speakers such as [PyCon](../../conferences/pycon/PyCon) Japan, [PyCon](../../conferences/pycon/PyCon) APAC, [PyCon](../../conferences/pycon/PyCon) My, [PyCon](../../conferences/pycon/PyCon) HK. Rizky is an active contributor to Python Indonesia Community.
 
 ### Marc Garcia (elected 2018) 
 
-I, Mario Corchero, propose Marc Garcia propose that Marc Garcia be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as the current organiser of the London Python sprints and the worldwide Pandas sprint. Additionally, he has served as the organiser and founder of [PyData](./PyData.html) Mallorca meetup. He has also served as Numfocus ambassador past summer in the [EuroPython](EuroPython) and [PyData](./PyData.html) Barcelona.
+I, Mario Corchero, propose Marc Garcia propose that Marc Garcia be recognized as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as the current organiser of the London Python sprints and the worldwide Pandas sprint. Additionally, he has served as the organiser and founder of [PyData](./PyData.html) Mallorca meetup. He has also served as Numfocus ambassador past summer in the [EuroPython](../../conferences/europython/EuroPython) and [PyData](./PyData.html) Barcelona.
 
 ### Christan Barra (elected 2018) 
 
-I would like to nominate Christan Barra. Christian has Barra is one of the core organisers of the [EuroPython](EuroPython) conference for four years now and he has spend a lot of time organising the conference including preparation, execution and a lot of fire fighting either. (Alexander Hendorf)
+I would like to nominate Christan Barra. Christian has Barra is one of the core organisers of the [EuroPython](../../conferences/europython/EuroPython) conference for four years now and he has spend a lot of time organising the conference including preparation, execution and a lot of fire fighting either. (Alexander Hendorf)
 
 ### Alexander Hendorf (elected Q4 2018) 
 
-I, Christian Barra, propose that Alexander Hendorf be recognised as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a co-organiser of [EuroPython](EuroPython) 2015, [EuroPython](EuroPython) 2016, [EuroPython](EuroPython) 2017.
+I, Christian Barra, propose that Alexander Hendorf be recognised as a Fellow of the Python Software Foundation, due to their significant contributions to the Python community as a co-organiser of [EuroPython](../../conferences/europython/EuroPython) 2015, [EuroPython](../../conferences/europython/EuroPython) 2016, [EuroPython](../../conferences/europython/EuroPython) 2017.
 
-Besides his big involvement inside [EuroPython](EuroPython) he has been working hard to foster the use of Python in the German community, co-leading the [PyCon](PyCon) DE conference during 2017 and founding the local chapters of [PyData](./PyData.html) in Frankfurt and Karlsruhe.
+Besides his big involvement inside [EuroPython](../../conferences/europython/EuroPython) he has been working hard to foster the use of Python in the German community, co-leading the [PyCon](../../conferences/pycon/PyCon) DE conference during 2017 and founding the local chapters of [PyData](./PyData.html) in Frankfurt and Karlsruhe.
 
 ------------------------------------------------------------------------
 
@@ -3400,11 +3400,11 @@ Besides his big involvement inside [EuroPython](EuroPython) he has been working 
 
 ### Ernest W. Durbin III (elected 2018) 
 
-I, Ewa Jodlowska, propose that Ernest W. Durbin III be recognized as a Fellow of the Python Software Foundation, due to his enormous contributions to the PSF\'s ecosystem. Ernest has volunteered endless hours triaging infrastructure issues and implementing improvements. Some examples include Python Package Index (PyPI) modernization, mail.python.org recovery, the PSF\'s salt configurations, and us.pycon.org improvements. Additionally, Ernest is the [PyCon](PyCon) Conference Chair for 2018 and 2019 happening in Cleveland, OH and is very active towards making the conference diverse and welcoming to all.
+I, Ewa Jodlowska, propose that Ernest W. Durbin III be recognized as a Fellow of the Python Software Foundation, due to his enormous contributions to the PSF\'s ecosystem. Ernest has volunteered endless hours triaging infrastructure issues and implementing improvements. Some examples include Python Package Index (PyPI) modernization, mail.python.org recovery, the PSF\'s salt configurations, and us.pycon.org improvements. Additionally, Ernest is the [PyCon](../../conferences/pycon/PyCon) Conference Chair for 2018 and 2019 happening in Cleveland, OH and is very active towards making the conference diverse and welcoming to all.
 
 ### Eyitemi Egbejule (elected 2018) 
 
-I, Chukwudi Nwachukwu, do nominate Eyitemi Egbejule, a Cybersecurity Consultant/Researcher and a founding member of the [NaijaSecForce](./NaijaSecForce.html) Security Community (organizers of [NaijaSecCon](./NaijaSecCon.html)). Eyitemi Egbejule is also a founding member of the Python Nigeria Community, member of the community\'s board and also a member of the organizing committee of the just concluded [PyCon](PyCon) NG 2017 in Nigeria. He is currently an Independent Member of the Django Software Foundation. On the side, Eyitemi is actively involved in Girl Tech Education by mentoring Girls in programming and Cybersecurity, and he has coached at over 18 Django Girls Events in West Africa. Eyitemi Egbejule has gone to where we couldn\'t go! He has touched lives- he is passionate about helping push for Python usage in Nigeria and beyond.
+I, Chukwudi Nwachukwu, do nominate Eyitemi Egbejule, a Cybersecurity Consultant/Researcher and a founding member of the [NaijaSecForce](./NaijaSecForce.html) Security Community (organizers of [NaijaSecCon](./NaijaSecCon.html)). Eyitemi Egbejule is also a founding member of the Python Nigeria Community, member of the community\'s board and also a member of the organizing committee of the just concluded [PyCon](../../conferences/pycon/PyCon) NG 2017 in Nigeria. He is currently an Independent Member of the Django Software Foundation. On the side, Eyitemi is actively involved in Girl Tech Education by mentoring Girls in programming and Cybersecurity, and he has coached at over 18 Django Girls Events in West Africa. Eyitemi Egbejule has gone to where we couldn\'t go! He has touched lives- he is passionate about helping push for Python usage in Nigeria and beyond.
 
 ### Michael Kennedy (elected 2018) 
 
@@ -3418,7 +3418,7 @@ I\'d like to propose that Nathaniel Smith be recognized as a PSF Fellow. Nathani
 
 I, Alyssa Coghlan, propose that Amber Brown be recognized as a Fellow of the Python Software Foundation, due primarily to her significant contributions to the Python community by way of the Twisted asynchronous event handling project \[1\] that provided the core inspiration for the native asynchronous event handling capabilities in Python 3. In addition to serving as the project\'s release manager since 2013, Amber was also the primary driver of the modernisation effort that saw Twisted ported to Python 3 (funded in part by a PSF grant), and in ensuring that Twisted interoperates with asyncio and the native coroutine syntax added in recent Python 3.x releases.
 
-Beyond Twisted, Amber is also an active participant in the Django community (including serving as a member of the Django Software Foundation\'s Code of Conduct committee), a Django Girls organiser and mentor here in Australia, and a regular participant in community conferences here and overseas (including keynoting [DjangoCon](./DjangoCon.html) Australia and [PyCon](PyCon) Czech Republic in 2015 \[3\], speaking at the Python Language Summit \[4\] and keynoting [PyCon](PyCon) Taiwan in 2016, and organising the development sprints at [PyCon](PyCon) Australia in 2017).
+Beyond Twisted, Amber is also an active participant in the Django community (including serving as a member of the Django Software Foundation\'s Code of Conduct committee), a Django Girls organiser and mentor here in Australia, and a regular participant in community conferences here and overseas (including keynoting [DjangoCon](./DjangoCon.html) Australia and [PyCon](../../conferences/pycon/PyCon) Czech Republic in 2015 \[3\], speaking at the Python Language Summit \[4\] and keynoting [PyCon](../../conferences/pycon/PyCon) Taiwan in 2016, and organising the development sprints at [PyCon](../../conferences/pycon/PyCon) Australia in 2017).
 
 ------------------------------------------------------------------------
 
@@ -3432,7 +3432,7 @@ I, Darin Gordon, propose that Alex Gronholm be recognized as a Fellow of the Pyt
 
 ### Vijay Kumar 
 
-I, Anand Pillai (PSF Fellow: Elected 2010), would like to make a recommendation for PSF Fellow for Vijay Kumar - [vijaykumar@bravegnu.org](mailto:vijaykumar@bravegnu.org) . Vijay Kumar is a technologist and trainer specializing in Embedded Systems using Python and Linux at Chennai, India. He has been volunteering for GNU/Linux User Groups, doing talks and organizing workshops, since 2001. Since 2011, he has been co-ordinating the activities of Chennaipy, the Chennai Python User Group. He has been instrumental in building an active community of Python developers in the Chennai region. In the past 5 years, he has done over 50 talks at Chennaipy\[1\] - and mentored multiple other Pythonistas at Chennai in honing their speaking and Python skills. Vijay also does live embedded workshops using Python and has given a number of very successful talks at [PyCon](PyCon) India and at monthly meetings across other Python meetups in cities in South India. \[2\], \[3\] His work was recognized by the PSSI, with the Kenneth Gonsalves Award, for the year 2015. He has contributed to regional Python conferences as a core organizing member for [PyCon](PyCon) India (2015)\[4\] and for [PyConf](./PyConf.html) Hyderabad (2017).\[5\] He is one of the top-most Embedded Python researchers and educators in India\[6\] at the moment and is a pioneer in this field with his tireless efforts. The recommendation is mainly to acknowledge his efforts in making a local Python chapter successful and also to encourage his efforts with education of Embedded Python in the country - mainly among college students and early adopters.
+I, Anand Pillai (PSF Fellow: Elected 2010), would like to make a recommendation for PSF Fellow for Vijay Kumar - [vijaykumar@bravegnu.org](mailto:vijaykumar@bravegnu.org) . Vijay Kumar is a technologist and trainer specializing in Embedded Systems using Python and Linux at Chennai, India. He has been volunteering for GNU/Linux User Groups, doing talks and organizing workshops, since 2001. Since 2011, he has been co-ordinating the activities of Chennaipy, the Chennai Python User Group. He has been instrumental in building an active community of Python developers in the Chennai region. In the past 5 years, he has done over 50 talks at Chennaipy\[1\] - and mentored multiple other Pythonistas at Chennai in honing their speaking and Python skills. Vijay also does live embedded workshops using Python and has given a number of very successful talks at [PyCon](../../conferences/pycon/PyCon) India and at monthly meetings across other Python meetups in cities in South India. \[2\], \[3\] His work was recognized by the PSSI, with the Kenneth Gonsalves Award, for the year 2015. He has contributed to regional Python conferences as a core organizing member for [PyCon](../../conferences/pycon/PyCon) India (2015)\[4\] and for [PyConf](./PyConf.html) Hyderabad (2017).\[5\] He is one of the top-most Embedded Python researchers and educators in India\[6\] at the moment and is a pioneer in this field with his tireless efforts. The recommendation is mainly to acknowledge his efforts in making a local Python chapter successful and also to encourage his efforts with education of Embedded Python in the country - mainly among college students and early adopters.
 
 \[1\]: [http://chennaipy.org/](http://chennaipy.org/) \[2\]: [http://bangalore.python.org.in/blog/2017/07/15/jul-workshop/](http://bangalore.python.org.in/blog/2017/07/15/jul-workshop/) \[3\]: [http://www.zilogic.com/blog/report-workshop-embedded-linux-pyconfhyd.html](http://www.zilogic.com/blog/report-workshop-embedded-linux-pyconfhyd.html) \[4\]: [https://in.pycon.org/2015/team.html](https://in.pycon.org/2015/team.html) \[5\]: [http://pyconf.hydpy.org/](http://pyconf.hydpy.org/) \[6\]: [http://www.zilogic.com/author/vijaykumar.html](http://www.zilogic.com/author/vijaykumar.html)
 
@@ -3444,7 +3444,7 @@ What is more, she has been in the organising committee for the Research Software
 
 ### Richard Kellner (elected 2017) 
 
-I, Ewa Jodlowska, propose that Richard Kellner be recognized as a Fellow of the Python Software Foundation due to his significant contributions to the Python community as the founder of [PyCon](PyCon) Slovakia ([https://2018.pycon.sk/sk/](https://2018.pycon.sk/sk/)) and being the lead organizer for [PyCon](PyCon) SK 2016, 2017, and the upcoming 2018 conference. The conference has an influential Education Track and the conference strives to be inclusive and diverse thanks to Richard\'s work. Additionally, he makes an effort to hire underrepresented locals to help with the conference for maximum community impact. Richard\'s efforts include traveling to other [PyCons](./PyCons.html) around Europe. During these trips he meets with organizers and discusses organizational hurdles and best practices. Additionally, Richard has been organizing the monthly Python user group in Bratislava since 2015. Many local organizers can learn a lot from Richard and I look forward to the continual impact he will have on the Python community.
+I, Ewa Jodlowska, propose that Richard Kellner be recognized as a Fellow of the Python Software Foundation due to his significant contributions to the Python community as the founder of [PyCon](../../conferences/pycon/PyCon) Slovakia ([https://2018.pycon.sk/sk/](https://2018.pycon.sk/sk/)) and being the lead organizer for [PyCon](../../conferences/pycon/PyCon) SK 2016, 2017, and the upcoming 2018 conference. The conference has an influential Education Track and the conference strives to be inclusive and diverse thanks to Richard\'s work. Additionally, he makes an effort to hire underrepresented locals to help with the conference for maximum community impact. Richard\'s efforts include traveling to other [PyCons](./PyCons.html) around Europe. During these trips he meets with organizers and discusses organizational hurdles and best practices. Additionally, Richard has been organizing the monthly Python user group in Bratislava since 2015. Many local organizers can learn a lot from Richard and I look forward to the continual impact he will have on the Python community.
 
 ### Ola Sitarska (elected 2017) 
 
@@ -3464,7 +3464,7 @@ I, Alyssa Coghlan, propose that Belinda Weaver be recognized as a Fellow of the 
 
 ### Filip Kłębczyk (elected 2017) 
 
-I, Richard Kellner, propose that Filip Kłębczyk ( [fklebczyk@gmail.com](mailto:fklebczyk@gmail.com) ), be recognized as a Fellow of the Python Software Foundation. Filip made significant contributions to the Python community as a [PyCon](PyCon) PL regional conference, a lead organizer for 2017, 2016 and 2015 as far as I can confirm. I have been visiting and volunteering at this conferences and they were organized in high standard. As far as I could go into the history of the websites: [https://pl.pycon.org/2010/organizatorzy.html](https://pl.pycon.org/2010/organizatorzy.html) in 2010 he was part of the organizational team. And as far as the talks go the first [PyCon](PyCon) PL was in 2007 and Filip was there as well (I have no proof, this is just word of mouth). Filip is active in the community more than a decade and he does the volunteering work. Therefore I think Filip\'s work should be officially recognized! I have started to organize [PyCon](PyCon) SK in 2015 and we had the first conference in 2016 and Filip was the supporting community member who went the extra mile and came to Bratislava to out very first meetup to support the community growth. We told him our ideas about [PyCon](PyCon) SK and he was willing to share his 8 years of experience with [PyCon](PyCon) PL. Without him, we wouldn\'t be able to organize our first conference at such high level.
+I, Richard Kellner, propose that Filip Kłębczyk ( [fklebczyk@gmail.com](mailto:fklebczyk@gmail.com) ), be recognized as a Fellow of the Python Software Foundation. Filip made significant contributions to the Python community as a [PyCon](../../conferences/pycon/PyCon) PL regional conference, a lead organizer for 2017, 2016 and 2015 as far as I can confirm. I have been visiting and volunteering at this conferences and they were organized in high standard. As far as I could go into the history of the websites: [https://pl.pycon.org/2010/organizatorzy.html](https://pl.pycon.org/2010/organizatorzy.html) in 2010 he was part of the organizational team. And as far as the talks go the first [PyCon](../../conferences/pycon/PyCon) PL was in 2007 and Filip was there as well (I have no proof, this is just word of mouth). Filip is active in the community more than a decade and he does the volunteering work. Therefore I think Filip\'s work should be officially recognized! I have started to organize [PyCon](../../conferences/pycon/PyCon) SK in 2015 and we had the first conference in 2016 and Filip was the supporting community member who went the extra mile and came to Bratislava to out very first meetup to support the community growth. We told him our ideas about [PyCon](../../conferences/pycon/PyCon) SK and he was willing to share his 8 years of experience with [PyCon](../../conferences/pycon/PyCon) PL. Without him, we wouldn\'t be able to organize our first conference at such high level.
 
 ### Selena Deckelman (elected 2017) 
 
@@ -3482,17 +3482,17 @@ I, Alyssa Coghlan, propose that Selena Deckelman be recognized as a Fellow of th
 
 - 2012 - Proposed the founding members of the Python Spain non-profit and helped creating it and writing its bylaws
 
-- 2012 - Started the organization of the first [PyCon](PyCon) in Spain, with the support of the PSF and Lynn Root as keynoter
+- 2012 - Started the organization of the first [PyCon](../../conferences/pycon/PyCon) in Spain, with the support of the PSF and Lynn Root as keynoter
 
 - 2013-2015 - Published and developed scikit-aero, a novel, pure Python package to compute thermodynamical properties of the standard atmosphere and isoentropic flows
 
 - 2013-Present - Published and developed poliastro, the most widely used pure Python package for Astrodynamics and Orbital Mechanics, which has been used to prepare undergraduate courses in at least one university outside Spain and has received direct funding from the European Space Agency
 
-- 2013 - Helped organize the first [PyCon](PyCon) in Spain, with around 300 attendees, 3 tracks (including one scientific track) and all its videos available free of charge on [YouTube](./YouTube.html)
+- 2013 - Helped organize the first [PyCon](../../conferences/pycon/PyCon) in Spain, with around 300 attendees, 3 tracks (including one scientific track) and all its videos available free of charge on [YouTube](./YouTube.html)
 
 - 2014 - Recorded the first video course on Scientific Python in Spanish available free of charge, which reached the iTunes Top 3 right after its publication and has since then been viewed by almost 50 000 people around the world.
 
-- 2014-Present - Coordinated or co-organized the second to fifth editions of [PyCon](PyCon) Spain, with a steady year-over-year growth in attendance, diversity, and revenue, always with the support of the PSF
+- 2014-Present - Coordinated or co-organized the second to fifth editions of [PyCon](../../conferences/pycon/PyCon) Spain, with a steady year-over-year growth in attendance, diversity, and revenue, always with the support of the PSF
 
 - 2014-2016 and 2016-Present - Chair of the Python Spain non-profit
 
@@ -3506,7 +3506,7 @@ I, Alyssa Coghlan, propose that Selena Deckelman be recognized as a Fellow of th
 
 - 2017 - Published its final Masters project, \"Study of analytical solutions for low-thrust trajectories\" along all the companion Python scripts, on [GitHub](./GitHub.html)
 
-- 2017 - Closed the fifth [PyCon](PyCon) Spain with a keynote on open source sustainability, with specific examples from the Python community
+- 2017 - Closed the fifth [PyCon](../../conferences/pycon/PyCon) Spain with a keynote on open source sustainability, with specific examples from the Python community
 
 - November 2017 - Presented poliastro at the first Open Source Cubesat Workshop, organized by the European Space Agency, as well as the need to formalize software validation techniques for scientific algorithms
 
@@ -3518,7 +3518,7 @@ I, Jon Banafato, nominate Andy Dirnberger to be recognized as a Python Software 
 
 ### Mario Corchero (elected 2017) 
 
-(Spain) [PyCon](PyCon) ES organizer, advocate for Python in corporate settings.
+(Spain) [PyCon](../../conferences/pycon/PyCon) ES organizer, advocate for Python in corporate settings.
 
 - Lead the organization team of PyConES17
 
@@ -3526,7 +3526,7 @@ I, Jon Banafato, nominate Andy Dirnberger to be recognized as a Python Software 
 
 - Organiser of Bloomberg (internal only so far U0001f615) Python Meetups. 100 attendees every month for more than a year and a half. (including video conferencing) some articles in opensource.com trying to help out understand datetime/logging.
 
-- talks in PyConUS, [EuroPython](EuroPython), Fosdem, PyConES and PyConUK.
+- talks in PyConUS, [EuroPython](../../conferences/europython/EuroPython), Fosdem, PyConES and PyConUK.
 
 - Advocate for Python in the Bloomberg Python community (tutorials, training to new hires, etc).
 
@@ -3662,9 +3662,9 @@ coordinating others
 
 - President of Python Nigeria
 
-- Helped in raising funds from local sponsors for [PyCon](PyCon) NG and a Django Girls events
+- Helped in raising funds from local sponsors for [PyCon](../../conferences/pycon/PyCon) NG and a Django Girls events
 
-- Helps in organizing events, both past and present, including, [PyCon](PyCon) and Python Nigeria meet ups
+- Helps in organizing events, both past and present, including, [PyCon](../../conferences/pycon/PyCon) and Python Nigeria meet ups
 
 - Active member of PSF Grants Working group
 
@@ -3684,9 +3684,9 @@ coordinating others
 
 ### Don Sheu (elected 2017) 
 
-I would like to propose Don Sheu as a fellow of the PSF. Don has been one of the core coordinator of Startup Row at [PyCon](PyCon) since 2014 and he is the founder of the Seattle Python user group.
+I would like to propose Don Sheu as a fellow of the PSF. Don has been one of the core coordinator of Startup Row at [PyCon](../../conferences/pycon/PyCon) since 2014 and he is the founder of the Seattle Python user group.
 
-In his role with the Startup Row, he has traveled to nearly a dozen cities to coordinate pitch nights, he has spent countless hours reaching out to young companies, potential judges, and reviewing applications. He has demonstrated diligence and availability to help selected companies arrange their trip to [PyCon](PyCon) and get the most of the experience in the expo hall.
+In his role with the Startup Row, he has traveled to nearly a dozen cities to coordinate pitch nights, he has spent countless hours reaching out to young companies, potential judges, and reviewing applications. He has demonstrated diligence and availability to help selected companies arrange their trip to [PyCon](../../conferences/pycon/PyCon) and get the most of the experience in the expo hall.
 
 In his role as the founder of the Seattle Python User Group, he has reached out to numerous speakers, secured sponsorship agreements with local Python-using companies, and trained a team of a dozen co-organizers. The Seattle Python user group features an active community of 4500 members on Meetup.com. Bi-monthly meetups and project nights are routinely attended by over 150 members, which is largely thanks to Don\'s dedication in fostering this community that did not exist as recently as 5 years ago.
 
@@ -3728,7 +3728,7 @@ I, Martin Gfeller, like to nominate Cristoph Gohlke ([http://www.lfd.uci.edu/\~g
 
 I, Johanna Sanchez, propose Manuel Kaufmann to be recognized as Fellow of the Python Software Foundation, due to his significant contributions to the Python communities in Latin America (Argentina, Brazil, Bolivia, Colombia, Ecuador and Peru) with the project Argentina in Python ([https://argentinaenpython.com](https://argentinaenpython.com)).
 
-Manuel Kaufmann has organized more than 50 events to promote and share knowledge about Python programming at different audience levels from beginner to advanced. Some of these events are registered in the \"Past Events\" section ([https://argentinaenpython.com/eventos/#eventos-pasados](https://argentinaenpython.com/eventos/#eventos-pasados)). Within these spaces it has taken into account the inclusion of women in technology, organizing more than 15 Django Girls workshops throughout all Latin America. Gallery with a lot of pictures from most of all his events: - [https://argentinaenpython.com/galeria/](https://argentinaenpython.com/galeria/) Blog post written by others about his latest participation in events:- [http://blog.djangogirls.org/post/165656387217/this-blog-post-was-written-by-jorge-namour-thank](http://blog.djangogirls.org/post/165656387217/this-blog-post-was-written-by-jorge-namour-thank), - [http://pybaq.co/blog/como-fue-organizar-primer-django-girls-barranquilla/](http://pybaq.co/blog/como-fue-organizar-primer-django-girls-barranquilla/) He is currently supporting the organizers of [PyCon](PyCon) Colombia 2018 as a collaborator and nexus with the PSF as sponsor. - [https://www.pycon.co](https://www.pycon.co) Finally, has been invited to participate as Keynote Speaker in [PyCon](PyCon) Spain 2016 ([https://youtu.be/e0500NDu2tA](https://youtu.be/e0500NDu2tA)) and will soon be in [PyCon](PyCon) Brazil 2017.
+Manuel Kaufmann has organized more than 50 events to promote and share knowledge about Python programming at different audience levels from beginner to advanced. Some of these events are registered in the \"Past Events\" section ([https://argentinaenpython.com/eventos/#eventos-pasados](https://argentinaenpython.com/eventos/#eventos-pasados)). Within these spaces it has taken into account the inclusion of women in technology, organizing more than 15 Django Girls workshops throughout all Latin America. Gallery with a lot of pictures from most of all his events: - [https://argentinaenpython.com/galeria/](https://argentinaenpython.com/galeria/) Blog post written by others about his latest participation in events:- [http://blog.djangogirls.org/post/165656387217/this-blog-post-was-written-by-jorge-namour-thank](http://blog.djangogirls.org/post/165656387217/this-blog-post-was-written-by-jorge-namour-thank), - [http://pybaq.co/blog/como-fue-organizar-primer-django-girls-barranquilla/](http://pybaq.co/blog/como-fue-organizar-primer-django-girls-barranquilla/) He is currently supporting the organizers of [PyCon](../../conferences/pycon/PyCon) Colombia 2018 as a collaborator and nexus with the PSF as sponsor. - [https://www.pycon.co](https://www.pycon.co) Finally, has been invited to participate as Keynote Speaker in [PyCon](../../conferences/pycon/PyCon) Spain 2016 ([https://youtu.be/e0500NDu2tA](https://youtu.be/e0500NDu2tA)) and will soon be in [PyCon](../../conferences/pycon/PyCon) Brazil 2017.
 
 Second nomination:
 
@@ -3748,7 +3748,7 @@ I, Juan Bagnera, would like to nominate Manuel Kaufmann (Humitos) as a Fellow of
 
 ### Brian Ray 
 
-I, Don Sheu, propose that Brian Ray founder of Chicago Python user group is recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community of organizing one of the oldest and largest user groups in the world for over 12 years. Chicago Python (\"[ChiPy](ChiPy)\") has fostered such important contributors to Python and computer science like Aaron Swartz the creator of RSS and founder of Reddit, Adrian Holovaty the creator of Django, Mike Cafarella creator of Hadoop, John Hunter creator of [MatPlotLib](./MatPlotLib.html), and Harper Reed the CTO for the Obama for America campaign and credited with winning the 2012 election. Brian has also contributed to and launched open source and free software projects.
+I, Don Sheu, propose that Brian Ray founder of Chicago Python user group is recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community of organizing one of the oldest and largest user groups in the world for over 12 years. Chicago Python (\"[ChiPy](../../people/ChiPy)\") has fostered such important contributors to Python and computer science like Aaron Swartz the creator of RSS and founder of Reddit, Adrian Holovaty the creator of Django, Mike Cafarella creator of Hadoop, John Hunter creator of [MatPlotLib](./MatPlotLib.html), and Harper Reed the CTO for the Obama for America campaign and credited with winning the 2012 election. Brian has also contributed to and launched open source and free software projects.
 
 ### Dusty Phillips (elected 2017) 
 
@@ -3756,7 +3756,7 @@ I, Don Sheu, propose that Dusty Phillips author of Python 3 Object Oriented Prog
 
 ### Peter Inglesby (elected 2017) 
 
-Peter has served the UK Python community through his extraordinary efforts to ensure the continuity of the [PyCon](PyCon) UK conference. Under his tenure, the size of the conference has grown continuously as has the team of voluntary organisers.
+Peter has served the UK Python community through his extraordinary efforts to ensure the continuity of the [PyCon](../../conferences/pycon/PyCon) UK conference. Under his tenure, the size of the conference has grown continuously as has the team of voluntary organisers.
 
 His leadership has ensured the longevity of the event and the continued existence and improvement of a vital event in the life of the UK Python community.
 
@@ -3764,9 +3764,9 @@ His leadership has ensured the longevity of the event and the continued existenc
 
 ### Daniele Procida (elected 2017) 
 
-Daniele has served the Python community through his sustained contributions to [PyCon](PyCon) and [DjangoCon](./DjangoCon.html) conferences around the world as an organiser, speaker, mentor and teacher.
+Daniele has served the Python community through his sustained contributions to [PyCon](../../conferences/pycon/PyCon) and [DjangoCon](./DjangoCon.html) conferences around the world as an organiser, speaker, mentor and teacher.
 
-As the conference director for [PyCon](PyCon) UK, he has overseen continuous growth in participation and has used that experience to help other conferences in their efforts to bring Python to a wider audience. A notable example is his work over three years to organise, establish and nurture [PyCon](PyCon) Namibia to the point where it is now self-sustaining.
+As the conference director for [PyCon](../../conferences/pycon/PyCon) UK, he has overseen continuous growth in participation and has used that experience to help other conferences in their efforts to bring Python to a wider audience. A notable example is his work over three years to organise, establish and nurture [PyCon](../../conferences/pycon/PyCon) Namibia to the point where it is now self-sustaining.
 
 Daniele is a member of the Django Software Foundation board and one of the leading members of the Python community in Cardiff. After organising the first Django conference in the UK in Cardiff in 2014 he not only went on to organise [DjangoCon](./DjangoCon.html) Europe 2015 but also is a founding member of the Cardiff Python user group meetup ([PyDiff](./PyDiff.html)) which has grown to be an event regularly hosting 30 attendees.
 
@@ -3774,7 +3774,7 @@ His commitment to nurturing beginner programmers and inexperienced conference sp
 
 As a mentor and teacher, Daniele has helped many programmers make their first contribution to open source software through his well regarded \"Don\'t be afraid to commit\" tutorial.
 
-Daniele has become one of the premier [PyCon](PyCon) organisers on an international scale and, whenever he is the conference chair, the event is diverse, welcoming, well-organised and educational for all. Many are members of the Python community simply as a result of his commitment and effort.
+Daniele has become one of the premier [PyCon](../../conferences/pycon/PyCon) organisers on an international scale and, whenever he is the conference chair, the event is diverse, welcoming, well-organised and educational for all. Many are members of the Python community simply as a result of his commitment and effort.
 
 \- Nominated by Own Campbell May 2017 - Nominated by Nicholas Tollervey July 2017
 
@@ -3792,7 +3792,7 @@ for organising and volunteering to run educational workshops in London that prom
 
 ### Cory Benfield (elected 2017) 
 
-for being a prime mover in [PyCon](PyCon) UK and for his continued work as the maintainer of \"requests\" (among many other things).
+for being a prime mover in [PyCon](../../conferences/pycon/PyCon) UK and for his continued work as the maintainer of \"requests\" (among many other things).
 
 \- Nominated by Nicholas Tollervey July 2017
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Introduction 
 
-The idea has to be substantive enough to be\... well, to be sufficiently substantive. Not all of these ideas are so substantive, so a proposal might use one of these as a starting point, or might be a combination of several ideas. Also see Python [WebProgramming](WebProgramming) (there\'s a lot!).
+The idea has to be substantive enough to be\... well, to be sufficiently substantive. Not all of these ideas are so substantive, so a proposal might use one of these as a starting point, or might be a combination of several ideas. Also see Python [WebProgramming](../../web/WebProgramming) (there\'s a lot!).
 
 If you have questions you can contact [web-sig@python.org](mailto:web-sig@python.org) ([Web-SIG](http://www.python.org/sigs/web-sig/)), or one of the potential advisors listed at the end of this page. (But if you aren\'t willing to do some homework on these projects, that obviously won\'t look good\... ask smart questions!)
 
@@ -70,7 +70,7 @@ Anything related to WSGI will benefit [Paste](http://pythonpaste.org), but there
 
 - Add a web-based admin interface and/or user-oriented views to [DrProject](http://www.third-bit.com/drproject), a lightweight project management portal intended for use in software engineering courses.
 
-- There are a number of potential [TurboGears](TurboGears) projects that may be interesting related to Kid, SQLAlchemy and [TurboGears](TurboGears) itself (like the [FastData](./FastData.html) package).
+- There are a number of potential [TurboGears](../../web/TurboGears) projects that may be interesting related to Kid, SQLAlchemy and [TurboGears](../../web/TurboGears) itself (like the [FastData](./FastData.html) package).
 
 - A web-based IDE offering through-the-web editing (with version control), execution, and testing of code (see [SummerOfCode/WebIDE](../../soc/SummerOfCode/WebIDE))
 
@@ -90,7 +90,7 @@ Anything related to WSGI will benefit [Paste](http://pythonpaste.org), but there
 
 ## Advisors 
 
-- Most of my own interests center around WSGI middleware, or [Paste](http://pythonpaste.org) (which in practice is nearly the same thing). WSGI just about implementation really; nearly any kind of web programming infrastructure or application can fit into that. You can come up with something yourself or ask me; either way, I\'m open to advising. \-- [IanBicking](IanBicking)
+- Most of my own interests center around WSGI middleware, or [Paste](http://pythonpaste.org) (which in practice is nearly the same thing). WSGI just about implementation really; nearly any kind of web programming infrastructure or application can fit into that. You can come up with something yourself or ask me; either way, I\'m open to advising. \-- [IanBicking](../../people/IanBicking)
 
 - I would be happy to advise anyone interested in Spyce. \-- Jonathan Ellis (jonathan at utahpython dot org)
 

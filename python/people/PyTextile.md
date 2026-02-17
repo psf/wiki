@@ -73,7 +73,7 @@ PyTextile takes 3 optional arguments:
 
 ## See Also: 
 
-[reStructuredText](reStructuredText) as a markup format to convert text to HTML.
+[reStructuredText](../archive/reStructuredText) as a markup format to convert text to HTML.
 
 # Discussion 
 

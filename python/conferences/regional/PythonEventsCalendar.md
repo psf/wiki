@@ -68,7 +68,7 @@ For recurring events, please also include the recurrence information, e.g. \"mon
 
 - For online events, please use \"Online Event\" as location.
 
-- For *training sessions, courses, webinars and similar type of events*, please post your event on the [PythonTraining](PythonTraining) page. We currently do not have a calendar for these.
+- For *training sessions, courses, webinars and similar type of events*, please post your event on the [PythonTraining](../../archive/PythonTraining) page. We currently do not have a calendar for these.
 
 - ![/!\\](/wiki/europython/img/alert.png "/!\") **Please leave at least 4 weeks notice** when submitting events. The calendar team is volunteer driven. While we try to add new events swiftly, we cannot guarantee response times.
 
@@ -191,13 +191,13 @@ In order to make the decision of whether to add an event and where to add it eas
 
 - The calendars should only list the events themselves. CFP deadlines, registration openings or similar announcements should not be listed in the calendars.
 
-- For online events, such as [PyWeek](PyWeek) game jams, only a reasonably short events (no longer than two weeks) should be added as single event. For longer events, it\'s better to just add the start and end date as separate events to the calendar, or even just the start date and then mention the end in the description. The same criteria for calendars apply to online events as well. Please add these using `Online` or `Online Event` as location. For hybrid events (both in-person and virtual), mentioning `and Online` after the in-person location is possible as well.
+- For online events, such as [PyWeek](../../people/PyWeek) game jams, only a reasonably short events (no longer than two weeks) should be added as single event. For longer events, it\'s better to just add the start and end date as separate events to the calendar, or even just the start date and then mention the end in the description. The same criteria for calendars apply to online events as well. Please add these using `Online` or `Online Event` as location. For hybrid events (both in-person and virtual), mentioning `and Online` after the in-person location is possible as well.
 
 - Training events, conferences which don\'t have a strong Python focus or offer a decent sized Python track, should not be listed on the calendars.
 
 #### Calendar Choice 
 
-- Python Events Calendar: This calendar should only receive entries for conferences of at least around 100 attendees, which at least around a 3rd non-local attendees. Smaller events with at least around 30 attendees such as sprints, barcamps, [PyDays](./PyDays.html) or smaller unconferences may also be added to this calendar if they are scheduled as separate event, will have a significant impact and reach out to larger regions. Examples: [PyCon](PyCon) conferences, OSCON, Django conferences, Plone conference, Need-for-speed sprints, Python BarCamps/Unconferences/etc.
+- Python Events Calendar: This calendar should only receive entries for conferences of at least around 100 attendees, which at least around a 3rd non-local attendees. Smaller events with at least around 30 attendees such as sprints, barcamps, [PyDays](./PyDays.html) or smaller unconferences may also be added to this calendar if they are scheduled as separate event, will have a significant impact and reach out to larger regions. Examples: [PyCon](../pycon/PyCon) conferences, OSCON, Django conferences, Plone conference, Need-for-speed sprints, Python BarCamps/Unconferences/etc.
 
 - Python User Group Calendar: This calendar is meant for user group activities which are open to Python people from outside the group (new prospective members and visitors from out of town). It is not meant for user group internal events. Examples: monthly local user group meetings, project sprints that are open for non-group members, workshops organized by user groups, Django Girls events.
 

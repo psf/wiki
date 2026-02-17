@@ -36,7 +36,7 @@ Deutschsprachige Information um Python
 
 - [deutschsprachige Pythonlinks @ python.org](http://www.python.org/doc/NonEnglish.html#german)
 
-- [GermanPythonBooks](GermanPythonBooks) - deutschsprachige Bücher über Python
+- [GermanPythonBooks](../archive/GermanPythonBooks) - deutschsprachige Bücher über Python
 
 - [Danny Yoo\'s: Ein Tag Spielerei mit IDLE](http://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index_ger.html)
 

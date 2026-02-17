@@ -14,7 +14,7 @@ This presentation was given as a scheduled talk at PyCon UK 2007. The material p
 
 - Connecting signals and slots using auto-connection
 
-- Creating custom widgets with [PyQt4](PyQt4) for use in Qt Designer
+- Creating custom widgets with [PyQt4](../PyQt4) for use in Qt Designer
 
 ## Materials 
 

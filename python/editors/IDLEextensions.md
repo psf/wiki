@@ -10,8 +10,8 @@ This page is a collection point for people to post links to IDLE extension modul
 
 [IdleX](http://idlex.sourceforge.net/extensions.html) provides a large collection of extensions to improve IDLE.
 
-Alias: enhances IDLE\'s command-line with an alias facility and more. Download @ [lwickjr](lwickjr).
+Alias: enhances IDLE\'s command-line with an alias facility and more. Download @ [lwickjr](../archive/lwickjr).
 
-Edit: an edit command for Alias that attempts to invoke the IDLE editor on the source code of the object referenced on the command line. Download @ [lwickjr](lwickjr).
+Edit: an edit command for Alias that attempts to invoke the IDLE editor on the source code of the object referenced on the command line. Download @ [lwickjr](../archive/lwickjr).
 
 **Cheeseshop / Pypi** has a listing of IDLE extensions at [Framework :: IDLE](https://pypi.python.org/pypi?:action=browse&amp;c=520)

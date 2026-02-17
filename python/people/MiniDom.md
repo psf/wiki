@@ -110,4 +110,4 @@ You can use DOM 2 \"importNode\" to take part of one XML document, and put it in
 
 ## See Also 
 
-- [Sax](Sax), [PythonXml](PythonXml)
+- [Sax](../archive/Sax), [PythonXml](../archive/PythonXml)

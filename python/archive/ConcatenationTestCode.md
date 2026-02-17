@@ -66,7 +66,7 @@ which gives on [PythonWin](PythonWin) 2.4 (#60, Nov 30 2004, 09:34:21) \[MSC v.1
     1st  duration: 54.4060001373
     Last duration: 0.0160000324249
 
-\-- \-- [MikeRovner](MikeRovner) 2005-08-02 10:19:06
+\-- \-- [MikeRovner](../people/MikeRovner) 2005-08-02 10:19:06
 
 - Mike, that code generates a very different (and much shorter) s. Note how the original code takes the half of the *preconcatenated* s, making the size grow exponentially (which generates megabytes of data). \-- [JürgenHermann](JürgenHermann) 2005-08-30 18:44:05
 

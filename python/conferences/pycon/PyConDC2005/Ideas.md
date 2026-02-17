@@ -22,7 +22,7 @@ Things we could do.
 
 Theme: Python implementations
 
-- Panel: What really is Python? (Jim H., GvR, [PyPy](PyPy), Jython, who else?)
+- Panel: What really is Python? (Jim H., GvR, [PyPy](../../../implementations/PyPy), Jython, who else?)
 
 - Parrotbench challenge of some sort.
 

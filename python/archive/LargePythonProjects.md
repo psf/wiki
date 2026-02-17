@@ -22,9 +22,9 @@ LOC(Lines Of Code)s are counted by [CLOC](http://cloc.sourceforge.net/). Only Py
   --------------------------------- --------- ------------------------------------ -----------------------------------------------------------------------------------------------------------------------
   Name                              Version   LOC                                  Source access
   [TACTIC](TACTIC)           3.8       198949(blank 84138, comment 39926)   [Downloads](http://community.southpawtech.com/downloads)
-  [Twisted](TwistedMatrix)   11.0.0    146136(blank 54971, comment 72686)   [SVN](http://twistedmatrix.com/documents/current/core/development/policy/svn-dev.html) releases/twisted-11.0.0
-  [Django](Django)           1.3       115306(blank 26810, comment 35533)   [SVN](https://code.djangoproject.com/) releases/1.3
-  [SQLAlchemy](SQLAlchemy)   0.7.2     113485(blank 32694, comment 24498)   [hg](http://www.sqlalchemy.org/develop.html) rel_0_7_2
+  [Twisted](../web/TwistedMatrix)   11.0.0    146136(blank 54971, comment 72686)   [SVN](http://twistedmatrix.com/documents/current/core/development/policy/svn-dev.html) releases/twisted-11.0.0
+  [Django](../web/Django)           1.3       115306(blank 26810, comment 35533)   [SVN](https://code.djangoproject.com/) releases/1.3
+  [SQLAlchemy](../database/SQLAlchemy)   0.7.2     113485(blank 32694, comment 24498)   [hg](http://www.sqlalchemy.org/develop.html) rel_0_7_2
   --------------------------------- --------- ------------------------------------ -----------------------------------------------------------------------------------------------------------------------
 :::
 
@@ -43,7 +43,7 @@ The following list is the result of that effort. Please feel free to add YOUR pr
   lyntin                        Will Guaraldi, Joshua Berne, Lyn Adams Headley   11856        Extensible Mud client and framework                 2002-07-23
   omniORB                       Duncan Grisby                                    31377        CORBA Object Request Broker                         2002-07-23
   [MoinMoin](MoinMoin)   Juergen Hermann, Thomas Waldmann and others      37369        The wiki engine in Python                           2003-11-08
-  [RoundUp](RoundUp)     [RichardJones](RichardJones) and others   40596        issue-tracking system                               2004-06-28
+  [RoundUp](../people/RoundUp)     [RichardJones](../people/RichardJones) and others   40596        issue-tracking system                               2004-06-28
   Twisted                                                                        60000+                                                           
   Django                        Lawrence Journal-World                           59111        web application framework                           2010-07-15
   ----------------------------- ------------------------------------------------ ------------ --------------------------------------------------- --------------

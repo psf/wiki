@@ -12,7 +12,7 @@ Current package list: [PythonCdRawPackageList](PythonCdRawPackageList)
 
 # Software 
 
-- [PyGeo](PyGeo)
+- [PyGeo](../people/PyGeo)
 
 - VPython
 
@@ -29,7 +29,7 @@ Current package list: [PythonCdRawPackageList](PythonCdRawPackageList)
 
 - that \"introducing python\" mpeg (250MB) is much too big to fit on the [PythonCd](PythonCd) (on a DVD, it would fit, of course ![;)](/wiki/europython/img/smile4.png ";)") - does anybody have a smaller version with acceptable quality? target should be 25..100MB.
 
-  - [KevinAltis](KevinAltis) made a smaller version of the movie, but it is Quicktime, so that wouldn\'t work.
+  - [KevinAltis](../people/KevinAltis) made a smaller version of the movie, but it is Quicktime, so that wouldn\'t work.
 
     - [http://www.python.org/other/python.mov](http://www.python.org/other/python.mov) - tried it, but using xine or vlc, I only get video, but no audio 8( vlc seemed to have less problems, xine sometimes didnt work.
 
@@ -51,13 +51,13 @@ We need some server to distribute this, anybody sponsoring space and bandwidth? 
 
 # Unsorted / Todo from EducationalCd 
 
-- [Zope](Zope) and [ZODB](http://zope.org/Wikis/ZODB/FrontPage/)
+- [Zope](../web/Zope) and [ZODB](http://zope.org/Wikis/ZODB/FrontPage/)
 
   - requires a zope geek or it rather won\'t be done
 
-- [Applications](Applications) (written in Python)
+- [Applications](../archive/Applications) (written in Python)
 
-  - [GuidovanRobot](GuidovanRobot) (GvRobot)
+  - [GuidovanRobot](../people/GuidovanRobot) (GvRobot)
 
   - [WorkforceConnections](./WorkforceConnections.html) (courseware through a web interface.)
 
@@ -69,14 +69,14 @@ We need some server to distribute this, anybody sponsoring space and bandwidth? 
 
   - PyAC \# album creator
 
-- [PyGE](PyGE) (maybe rather wait until it is easier to handle)
+- [PyGE](../archive/PyGE) (maybe rather wait until it is easier to handle)
 
 There are some ready to go apps like
 
 - library automation
 - Plone based school setup
 
-that may show something good out of the box. \-- [MikeRovner](MikeRovner) 2004-04-09 18:59:28
+that may show something good out of the box. \-- [MikeRovner](../people/MikeRovner) 2004-04-09 18:59:28
 
 TODO: move to [PythonCdPackages](PythonCdPackages) after installing on CD master (see comment at bottom of that page)
 

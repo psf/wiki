@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Hello Pythonista\'s. I\'m not sure about what to write here just yet. I work as a developer using C#/C++ and Python.
 
-Lately I\'ve looked into some [IronPython](IronPython) stuff.
+Lately I\'ve looked into some [IronPython](../implementations/IronPython) stuff.
 
 Email: `<c.sederqvist AT SPAMFREE gmail DOT com>`
 

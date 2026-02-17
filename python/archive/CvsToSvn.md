@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The Python development team recently switched from using CVS hosted at [SourceForge](SourceForge) to Subversion hosted at svn.python.org. There are many similarities between the two, but there are some differences as well. This page provides general tips. More details about using Subversion as it relates specifically to Python development are available in the [Python developer\'s FAQ](http://www.python.org/dev/devfaq.html#subversion-svn).
+The Python development team recently switched from using CVS hosted at [SourceForge](../people/SourceForge) to Subversion hosted at svn.python.org. There are many similarities between the two, but there are some differences as well. This page provides general tips. More details about using Subversion as it relates specifically to Python development are available in the [Python developer\'s FAQ](http://www.python.org/dev/devfaq.html#subversion-svn).
 
 (Most of the initial content came from a python-dev post by Tim Peters.)
 

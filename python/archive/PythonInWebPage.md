@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-PythonInWebPage presentation systems (see [DataRepresentation](DataRepresentation)) encourages the use of Python source code embedded in the content of a Web page (or other resource to be presented) such that the execution of the code causes the surrounding content to be transformed in some way. A classic, simplified example of this concept using JSP syntax might look like this:
+PythonInWebPage presentation systems (see [DataRepresentation](../language/DataRepresentation)) encourages the use of Python source code embedded in the content of a Web page (or other resource to be presented) such that the execution of the code causes the surrounding content to be transformed in some way. A classic, simplified example of this concept using JSP syntax might look like this:
 
     <table>
       <%

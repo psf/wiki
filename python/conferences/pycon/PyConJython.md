@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Jython track at PyCon DC 2003 - Build Your Own Conference!!!! 
 
-Hm\...judging by the [PyConSchedule](./PyConSchedule.html), there won\'t be much Jython discussion in the official talks. Perhaps we can organize some [BoFs](./BoFs.html) or [OpenSpace](OpenSpace) discussions at the conference.
+Hm\...judging by the [PyConSchedule](./PyConSchedule.html), there won\'t be much Jython discussion in the official talks. Perhaps we can organize some [BoFs](./BoFs.html) or [OpenSpace](../../people/OpenSpace) discussions at the conference.
 
 ## Jython topics 
 
@@ -30,7 +30,7 @@ We did end up having a Jython BOF on Friday, March 28, at 9 a.m. It was attended
 
 I was at the Jython BOF:
 
-- [TomBryan](TomBryan) \-- I scheduled the BOF. ![:)](/wiki/europython/img/smile.png ":)")
+- [TomBryan](../../people/TomBryan) \-- I scheduled the BOF. ![:)](/wiki/europython/img/smile.png ":)")
 
 ------------------------------------------------------------------------
 

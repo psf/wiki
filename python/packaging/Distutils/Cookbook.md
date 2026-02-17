@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The Distutils Cookbook collects various useful recipes and tips for using the Distutils.
 
-When creating new recipes, use the [RecipeTemplate](RecipeTemplate).
+When creating new recipes, use the [RecipeTemplate](../../people/RecipeTemplate).
 
 ## Recipes 
 

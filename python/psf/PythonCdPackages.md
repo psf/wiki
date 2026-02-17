@@ -14,35 +14,35 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 ## IDEs (Integrated Development Environments) 
 
-- [eric](eric)3 - a very nice and powerful GUI IDE
+- [eric](../archive/eric)3 - a very nice and powerful GUI IDE
 
-- [IDLE](IDLE) - a simpler, but also popular GUI IDE
+- [IDLE](../editors/IDLE) - a simpler, but also popular GUI IDE
 
-- [DrPython](DrPython) - another GUI IDE
+- [DrPython](../people/DrPython) - another GUI IDE
 
-- [IPython](IPython) - an extended interactive Python command interpreter
+- [IPython](../archive/IPython) - an extended interactive Python command interpreter
 
 ## GUI Builders 
 
-- [BoaConstructor](BoaConstructor)
+- [BoaConstructor](../people/BoaConstructor)
 
 - [PythonCard](./PythonCard.html)
 
-- ? [WxGlade](WxGlade)
+- ? [WxGlade](../people/WxGlade)
 
 ## GUI Toolkit bindings 
 
-- [PyGtk](PyGtk)
+- [PyGtk](../people/PyGtk)
 
-- [PyQt](PyQt)
+- [PyQt](../gui/PyQt)
 
-- [WxPython](WxPython)
+- [WxPython](../gui/WxPython)
 
 ## Graphics libs 
 
 - [PIL](PIL)
 
-- [PyGame](PyGame)
+- [PyGame](../multimedia/PyGame)
 
 - PyOpenGL
 
@@ -50,9 +50,9 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 - [MoinMoin](MoinMoin) wiki - you are using it right now
 
-- [TwistedMatrix](TwistedMatrix) AKA Twisted - a Python internet framework, very powerful
+- [TwistedMatrix](../web/TwistedMatrix) AKA Twisted - a Python internet framework, very powerful
 
-- [Quixote](Quixote)
+- [Quixote](../web/Quixote)
 
 - PyXML, libxml2 and other XML packages
 
@@ -60,21 +60,21 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 - python-numeric and python-numarray - math extensions
 
-- python-pyx - module for generating [PostScript](PostScript) graphics, plotting
+- python-pyx - module for generating [PostScript](../people/PostScript) graphics, plotting
 
 ## Database 
 
 - [Gadfly](http://gadfly.sourceforge.net/)
 
-- python-mysqldb - interface for [MySQL](MySQL)
+- python-mysqldb - interface for [MySQL](../database/MySQL)
 
-- python-pgsql - DB-API 2.0 interface to [PostgreSQL](PostgreSQL) v7.x
+- python-pgsql - DB-API 2.0 interface to [PostgreSQL](../database/PostgreSQL) v7.x
 
-- python-pygresql - [PostgreSQL](PostgreSQL) module
+- python-pygresql - [PostgreSQL](../database/PostgreSQL) module
 
 ## Misc 
 
-- [PyChecker](PyChecker) - checks your source code for common errors
+- [PyChecker](../people/PyChecker) - checks your source code for common errors
 
 ------------------------------------------------------------------------
 

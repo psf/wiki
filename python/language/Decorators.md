@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-See also [PythonDecoratorLibrary](PythonDecoratorLibrary). And apart from decorators in the standard library, there are also lots of PyPI packages with convenient, interesting or novel use cases:
+See also [PythonDecoratorLibrary](../archive/PythonDecoratorLibrary). And apart from decorators in the standard library, there are also lots of PyPI packages with convenient, interesting or novel use cases:
 
 ::: {}
   ------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------

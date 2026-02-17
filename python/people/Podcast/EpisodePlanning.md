@@ -64,7 +64,7 @@ Interviews
 
 PSF-related stuff
 
-[PyCon](PyCon)
+[PyCon](../../conferences/pycon/PyCon)
 
 Creation of \"Python Secret Underground\" (the \'Cabal\')
 
@@ -74,7 +74,7 @@ Shameless plugs for Holden Web events!
 
 Python diversity
 
-Major project news (Django, Twisted, [TurboGears](TurboGears), Zope, etc)
+Major project news (Django, Twisted, [TurboGears](../../web/TurboGears), Zope, etc)
 
 New books, new projects, tracking the Planet Python blogs for interesting new stuff (we could even \'review\' interesting Python related blogs)
 

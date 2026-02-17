@@ -28,17 +28,17 @@ Where these pages really need help:
 
 3\) some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
 
-[Python -ohjelmointiopas, versio 1.2](http://www2.it.lut.fi/project/MASTO/material/Python_opas_2008.pdf) Introduction to the basics of programming with Python. Compiled and translated by [JussiKasurinen](JussiKasurinen), Lappeenranta University of Technology 2009. Revised version published 26.9.2007, minor details fixed 20.11.2009.
+[Python -ohjelmointiopas, versio 1.2](http://www2.it.lut.fi/project/MASTO/material/Python_opas_2008.pdf) Introduction to the basics of programming with Python. Compiled and translated by [JussiKasurinen](../people/JussiKasurinen), Lappeenranta University of Technology 2009. Revised version published 26.9.2007, minor details fixed 20.11.2009.
 
-- [Python-tyyliopas](http://www2.it.lut.fi/project/MASTO/material/Python-Tyyliopas_LTY2007.pdf) Python Programming Styleguide. Compiled and translated by [JussiKasurinen](JussiKasurinen), Lappeenranta University of Technology 2007.
+- [Python-tyyliopas](http://www2.it.lut.fi/project/MASTO/material/Python-Tyyliopas_LTY2007.pdf) Python Programming Styleguide. Compiled and translated by [JussiKasurinen](../people/JussiKasurinen), Lappeenranta University of Technology 2007.
 
-  [Python-asennusohje](http://www2.it.lut.fi/project/MASTO/material/asennusohjeliite.pdf) Installation guide for Python 2.5 interpreter and additional modules in Windows XP environment. Applies to all Python version 2.X.Y versions after 2.5. [JussiKasurinen](JussiKasurinen), Lappeenranta University of Technology 2008.
+  [Python-asennusohje](http://www2.it.lut.fi/project/MASTO/material/asennusohjeliite.pdf) Installation guide for Python 2.5 interpreter and additional modules in Windows XP environment. Applies to all Python version 2.X.Y versions after 2.5. [JussiKasurinen](../people/JussiKasurinen), Lappeenranta University of Technology 2008.
 
-[Python -grafiikkaohjelmointi Imaging Librarylla](http://www2.it.lut.fi/project/MASTO/material/Python-grafiikkaohjelmointiopas_LTY2007.pdf) Introduction to programming with Python Imaging Library. [JussiKasurinen](JussiKasurinen), Lappeenranta University of Technology 2007.
+[Python -grafiikkaohjelmointi Imaging Librarylla](http://www2.it.lut.fi/project/MASTO/material/Python-grafiikkaohjelmointiopas_LTY2007.pdf) Introduction to programming with Python Imaging Library. [JussiKasurinen](../people/JussiKasurinen), Lappeenranta University of Technology 2007.
 
-[Python -Tkinter ja graafinen käyttöliittymä](http://www2.it.lut.fi/project/MASTO/material/Python-Tkinteropas_LTY2007.pdf) Creating Graphical User Interface with Python and Tkinter. [JussiKasurinen](JussiKasurinen), Lappeenranta University of Technology 2007.
+[Python -Tkinter ja graafinen käyttöliittymä](http://www2.it.lut.fi/project/MASTO/material/Python-Tkinteropas_LTY2007.pdf) Creating Graphical User Interface with Python and Tkinter. [JussiKasurinen](../people/JussiKasurinen), Lappeenranta University of Technology 2007.
 
-[Python -Kryptausopas, luonnos](http://www2.it.lut.fi/project/MASTO/material/Python-Kryptausopas_LTY2007.pdf) Using Python Cryptography Toolkit, draft. Compiled and translated by [JussiKasurinen](JussiKasurinen), Lappeenranta University of Technology 2007.
+[Python -Kryptausopas, luonnos](http://www2.it.lut.fi/project/MASTO/material/Python-Kryptausopas_LTY2007.pdf) Using Python Cryptography Toolkit, draft. Compiled and translated by [JussiKasurinen](../people/JussiKasurinen), Lappeenranta University of Technology 2007.
 
 [wiki](http://wiki.mureakuha.com/wiki/Python) - covers basic data types
 

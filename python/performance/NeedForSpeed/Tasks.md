@@ -6,21 +6,21 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-These are current tasks at the sprint. Also various people are evaluating patches from the [ListOfPerformanceRelatedPatches](ListOfPerformanceRelatedPatches), and initials record the participant(s) taking those resposibilities.
+These are current tasks at the sprint. Also various people are evaluating patches from the [ListOfPerformanceRelatedPatches](../../archive/ListOfPerformanceRelatedPatches), and initials record the participant(s) taking those resposibilities.
 
-- Patch list review DONE (see [ListOfPerformanceRelatedPatches](ListOfPerformanceRelatedPatches))
+- Patch list review DONE (see [ListOfPerformanceRelatedPatches](../../archive/ListOfPerformanceRelatedPatches))
 
-- Continue function call speed enhancements. Neal Norwitz patch review. Zombie frames? [TimPeters](TimPeters) will continue.
+- Continue function call speed enhancements. Neal Norwitz patch review. Zombie frames? [TimPeters](../../people/TimPeters) will continue.
 
-- Faster parsing of strings and bytes into int, long, and back. [TimPeters](TimPeters): patch ready - needs clean-up
+- Faster parsing of strings and bytes into int, long, and back. [TimPeters](../../people/TimPeters): patch ready - needs clean-up
 
-- Buffer for use with network I/O [MartinBlais](MartinBlais) working in blair-bytebuf branch \--\> sandbox? \[Performance comparisons first\]
+- Buffer for use with network I/O [MartinBlais](../../people/MartinBlais) working in blair-bytebuf branch \--\> sandbox? \[Performance comparisons first\]
 
 - Implement portions of the decimal module in C: [GeorgBrandl](./GeorgBrandl.html) and [JackDeiderich](./JackDeiderich.html)
 
 - Create a [PyInt64](./PyInt64.html) type (for 32 bit machines) Evaluate source impact \...GvR: Not in 2.5! \[/Deferred?\]
 
-- Optimize methods in stringobject.c [FredrikLundh](FredrikLundh) + [AndrewDalke](./AndrewDalke.html)
+- Optimize methods in stringobject.c [FredrikLundh](../../people/FredrikLundh) + [AndrewDalke](./AndrewDalke.html)
 
 - Allow selective removal of unused features such as profiling support DONE \[[/DeferredSuccesses](./NeedForSpeed(2f)Tasks(2f)DeferredSuccesses.html)?\]
 
@@ -32,11 +32,11 @@ These are current tasks at the sprint. Also various people are evaluating patche
 
 - Build-out the collections module for optimized data structures: ordered dictionary: API? Use case?! red/black? pivot tbl? skip list: contribution? radix/crit-bit trees? [ChristianTismer](./ChristianTismer.html) + [RichardEmslie](./RichardEmslie.html)
 
-- Struct benchmark needs to be incorporated into pybench [BobIppolito](BobIppolito)
+- Struct benchmark needs to be incorporated into pybench [BobIppolito](../../people/BobIppolito)
 
 - Improve the API for timeit.py \[SH to search python-dev and call Raymond Hettinger for details if necessary\]
 
-- Update [PythonSpeed/PerformanceTips](../PythonSpeed/PerformanceTips) Everyone can make suggestions [SeanReifschneider](SeanReifschneider) + [JohnBenediktsson](./JohnBenediktsson.html)
+- Update [PythonSpeed/PerformanceTips](../PythonSpeed/PerformanceTips) Everyone can make suggestions [SeanReifschneider](../../people/SeanReifschneider) + [JohnBenediktsson](./JohnBenediktsson.html)
 
 - Evaluate the PEPs for optimizing global and attribute lookups
   - PEP 266 PEP 267 PEP 280

@@ -14,4 +14,4 @@ Reads and writes [CoreFoundation](./CoreFoundation.html) XML Property List files
 
 # author
 
-[SarwatKhan](SarwatKhan)
+[SarwatKhan](../../people/SarwatKhan)

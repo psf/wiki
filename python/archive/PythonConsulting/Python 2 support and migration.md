@@ -32,7 +32,7 @@ A list of vendors, in alphabetical order, who provide services supporting Python
 
 - [Snakedev](https://snake.dev/)
 
-Some of the consulants listed at [PythonConsulting](PythonConsulting) may also be able to help, but if they\'re not listed here you\'ll have to ask them.
+Some of the consulants listed at [PythonConsulting]() may also be able to help, but if they\'re not listed here you\'ll have to ask them.
 
 ------------------------------------------------------------------------
 

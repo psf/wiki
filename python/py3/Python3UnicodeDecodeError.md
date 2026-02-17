@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PEP: Python3 and UnicodeDecodeError 
 
-This is a PEP describing the behaviour of Python3 on [UnicodeDecodeError](UnicodeDecodeError). It\'s a **draft**, don\'t hesitate to comment it. This document suppose that my patch to allow bytes filenames is accepted which is not the case today.
+This is a PEP describing the behaviour of Python3 on [UnicodeDecodeError](../archive/UnicodeDecodeError). It\'s a **draft**, don\'t hesitate to comment it. This document suppose that my patch to allow bytes filenames is accepted which is not the case today.
 
 While I was writing this document I found poential problems in Python3. So here is a TODO list (things to be checked):
 
@@ -25,7 +25,7 @@ What is the best tool to work on a PEP? I hate email threads, and I would prefer
 
 ## Introduction 
 
-Python3 does its best to give you texts encoded as a valid unicode characters strings. When it hits an invalid bytes sequence (according to the used charset), it has two choices: drops the value or raises an [UnicodeDecodeError](UnicodeDecodeError). This document present the behaviour of Python3 for the command line, environment variables and filenames.
+Python3 does its best to give you texts encoded as a valid unicode characters strings. When it hits an invalid bytes sequence (according to the used charset), it has two choices: drops the value or raises an [UnicodeDecodeError](../archive/UnicodeDecodeError). This document present the behaviour of Python3 for the command line, environment variables and filenames.
 
 Example of an invalid bytes sequence: ::
 
@@ -75,7 +75,7 @@ Python2 uses byte filenames everywhere, but it was also possible to use unicode 
 
 - os.getcwd() gives bytes whereas os.getcwdu() always returns unicode
 
-- os.listdir(unicode) creates bytes or unicode filenames (fallback to bytes on [UnicodeDecodeError](UnicodeDecodeError)), os.readlink() has the same behaviour
+- os.listdir(unicode) creates bytes or unicode filenames (fallback to bytes on [UnicodeDecodeError](../archive/UnicodeDecodeError)), os.readlink() has the same behaviour
 
 - glob.glob() converts the unicode pattern to bytes, and so create bytes filenames
 
@@ -149,11 +149,11 @@ Policy: for unicode arguments: drop invalid bytes filenames; for bytes arguments
 
 This behaviour (drop silently invalid filenames) is motivated by the fact to if a directory of 1000 files only contains one invalid file, listdir() fails for the whole directory. Or if your directory contains 1000 python scripts (.py) and just one another document with an invalid filename (eg. r�port.doc), glob.glob(\'\*.py\') fails whereas all .py scripts have valid filename.
 
-Policy: for an unicode argument: raise an [UnicodeDecodeError](UnicodeDecodeError) on invalid filename; for an bytes argument: return bytes
+Policy: for an unicode argument: raise an [UnicodeDecodeError](../archive/UnicodeDecodeError) on invalid filename; for an bytes argument: return bytes
 
 - os.readlink()
 
-Policy: create unicode directory or raise an [UnicodeDecodeError](UnicodeDecodeError)
+Policy: create unicode directory or raise an [UnicodeDecodeError](../archive/UnicodeDecodeError)
 
 - os.getcwd()
 
@@ -163,7 +163,7 @@ Policy: always returns bytes
 
 ### Functions for filename manipulation 
 
-Policy: raise [TypeError](TypeError) on bytes/str mix
+Policy: raise [TypeError](../people/TypeError) on bytes/str mix
 
 - os.path.\*(), eg. os.path.join()
 - fnmatch.\*()

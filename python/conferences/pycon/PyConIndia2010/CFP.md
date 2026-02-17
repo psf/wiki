@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PyCon India 2010 -- Call for Proposals 
 
-[PyCon](PyCon) India is the only conference of its kind organized in India for Python programming language enthusiasts from all over the country. [PyCon](PyCon) India is being held in Bangalore, India for the second time from Sep 25 to Sep 26 \'2010 at MS Ramaiah Institute of Technology, Bangalore.
+[PyCon](../PyCon) India is the only conference of its kind organized in India for Python programming language enthusiasts from all over the country. [PyCon](../PyCon) India is being held in Bangalore, India for the second time from Sep 25 to Sep 26 \'2010 at MS Ramaiah Institute of Technology, Bangalore.
 
 The organizers of Pycon India 2010 are looking for talk proposals to fill the formal presentation tracks. We accept proposals on a very broad range of topics related to Python programming.
 
@@ -32,7 +32,7 @@ Please follow the instructions below carefully before preparing a proposal and s
 
 - Proposal acceptance: August 15, 2010
 
-- Final presentation upload to [PyCon](PyCon) India website: August 31, 2010
+- Final presentation upload to [PyCon](../PyCon) India website: August 31, 2010
 
 ### Permission to record/release presentations 
 
@@ -52,7 +52,7 @@ Topics for presentations for Pycon India include but is not limited to,
 
 - Other Python libraries and extensions
 
-- Other Python implementations (such as [PyPy](PyPy), [IronPython](IronPython) etc)
+- Other Python implementations (such as [PyPy](../../../implementations/PyPy), [IronPython](../../../implementations/IronPython) etc)
 
 - Concurrency
 

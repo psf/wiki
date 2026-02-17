@@ -10,7 +10,7 @@ Grok Sprint
 
 - Where: Vilnius, Lithuania
 
-- When: after [EuroPython](EuroPython), 12-14 july
+- When: after [EuroPython](../conferences/europython/EuroPython), 12-14 july
 
 - Organizer: Martijn Faassen
 

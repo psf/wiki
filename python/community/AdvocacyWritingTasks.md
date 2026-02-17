@@ -24,7 +24,7 @@ We would like all content to be licensed under the [GNU Free Documentation Licen
 
 In general, the style of writing should be informal, like you would find in an issue of Linux Journal or Dr. Dobbs magazine. Refer to yourself as \"we\", as you are representing the Python community and other authors may follow you to revise your document. Refer to the reader as \"you\".
 
-For those who would prefer writing magazine articles, we also have an [ArticleIdeas](ArticleIdeas) list.
+For those who would prefer writing magazine articles, we also have an [ArticleIdeas](../people/ArticleIdeas) list.
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ For handing out at mixed-topic conferences and user group meetings, where contac
 
 Include names/logos of your more mainstream companies that are using Python, but probably omit the more obscure ones.
 
-[RichardJones](RichardJones): I hobbled together a [single-page flyer](http://www.mechanicalcat.net/files/Python-Flyer.pdf) (original [Python-Flyer.odt](http://www.mechanicalcat.net/files/Python-Flyer.odt))
+[RichardJones](../people/RichardJones): I hobbled together a [single-page flyer](http://www.mechanicalcat.net/files/Python-Flyer.pdf) (original [Python-Flyer.odt](http://www.mechanicalcat.net/files/Python-Flyer.odt))
 
 ------------------------------------------------------------------------
 
@@ -64,19 +64,19 @@ For handing out at Java events - it should bring to their attention the existenc
 
 This can show how Python can be used with C/C++ as a way to add scripting to a larger application, or as a way to build on top of existing C/C++ code more quickly and easily than writing more C/C++. It should highlight the ease with which C/C++ code can be wrapped (with SWIG, SIP and Boost) and how easily C/C++ code can call back into Python (it\'s a 2-way integration). Much of this content exists in the documentation, but it\'s not formatted for advocacy or for easy distribution at events.
 
-Maybe look at [AppsWithPythonScripting](AppsWithPythonScripting) for inspiration.
+Maybe look at [AppsWithPythonScripting](../libraries/AppsWithPythonScripting) for inspiration.
 
 ------------------------------------------------------------------------
 
 [(permalink)](AdvocacyWritingTasks#UsingPythonWithDotNet)\
-**Title:** *[IronPython](IronPython) (Python.NET)*\
+**Title:** *[IronPython](../implementations/IronPython) (Python.NET)*\
 
 - *[Using Python to improve .NET](AdvocacyWritingTasks/UsingPythonWithDotNet)*\
 
 **Media:** a 2-sided flyer + whitepaper\
 **Assigned-To:** (no one; teaming is possible) (date assigned)
 
-For handing out at .NET events - it should bring to their attention the existence of [IronPython](IronPython), the co-existence synergies possible, and the interactivity of [IronPython](IronPython) compared to C#. But do not bash .NET - the idea is to get people to add Python to their toolbelt. Do mention the fact that Microsoft is funding the [IronPython](IronPython) development.
+For handing out at .NET events - it should bring to their attention the existence of [IronPython](../implementations/IronPython), the co-existence synergies possible, and the interactivity of [IronPython](../implementations/IronPython) compared to C#. But do not bash .NET - the idea is to get people to add Python to their toolbelt. Do mention the fact that Microsoft is funding the [IronPython](../implementations/IronPython) development.
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ Some Source Material:
 **Media:** a 2-sided flyer + whitepaper\
 **Assigned-To:** (no one; teaming is possible) (date assigned)
 
-For handing out at business functions, where entrepreneurs are present. It should focus on the benefits of Python as regards agility in responding to market needs, the rapid ability to develop something right the first time. Mention Eric Raymond, et. al. in how they were surprised Python was so productive. Provide a brief list of companies using Python, and also a list of the domain areas in which it is used. We also have audio of a lightning talk by a VC, and a talk at [PyCon](PyCon) this year about someone who got \$5 million in capital for a Python program.
+For handing out at business functions, where entrepreneurs are present. It should focus on the benefits of Python as regards agility in responding to market needs, the rapid ability to develop something right the first time. Mention Eric Raymond, et. al. in how they were surprised Python was so productive. Provide a brief list of companies using Python, and also a list of the domain areas in which it is used. We also have audio of a lightning talk by a VC, and a talk at [PyCon](../conferences/pycon/PyCon) this year about someone who got \$5 million in capital for a Python program.
 
 *Reddit was written in Lisp, then re-written in Python due to performance and library issues. It subsequently was bought by Conde Nast.*
 
@@ -142,7 +142,7 @@ And last it make them aware that besides relational databases Python is also a p
 
 For handing out at general scientific events, it should make the reader aware of Python\'s capabilities:
 
-- numeric and scientific processing using [NumPy](NumPy)
+- numeric and scientific processing using [NumPy](../science/NumPy)
 
 - data I/O format flexibility re netCDF, CSV, Matlab (others?)
 
@@ -183,7 +183,7 @@ The whitepaper should survey the various visualization and graphing frameworks a
 **Media:** a whitepaper\
 **Assigned-To:** (no one; teaming is possible) (date assigned)
 
-For someone who currently is using Matlab, basically address their concerns point-by-point showing how the [NumPy](NumPy) option can accomplish much of what Matlab does. Be honest and also show what it cannot yet do. The idea is to show how using Python can save the college student or researcher a lot of money and still get 80% of the benefit.
+For someone who currently is using Matlab, basically address their concerns point-by-point showing how the [NumPy](../science/NumPy) option can accomplish much of what Matlab does. Be honest and also show what it cannot yet do. The idea is to show how using Python can save the college student or researcher a lot of money and still get 80% of the benefit.
 
 *Interesting reddit thread: [http://programming.reddit.com/info/sz4k/comments/](http://programming.reddit.com/info/sz4k/comments/)*
 
@@ -247,9 +247,9 @@ For use at educational events, posting on campus bulletin boards and to perhaps 
 **Media:** a small whitepaper\
 **Assigned-To:** (no one; teaming is possible) (date assigned)
 
-For use at schools to entice students to give Python a try because of their love for games. Using the [PyGame](PyGame) framework, show how quickly a game can be put together. Explain how Python supports the various kinds of games, first-person shooters, board games, etc. Mention the EVE online game and how it is based on Python. And, without getting into overwhelming details, provide some coverage of how Stackless Python lets you script the thousands of actors that occur in a game.
+For use at schools to entice students to give Python a try because of their love for games. Using the [PyGame](../multimedia/PyGame) framework, show how quickly a game can be put together. Explain how Python supports the various kinds of games, first-person shooters, board games, etc. Mention the EVE online game and how it is based on Python. And, without getting into overwhelming details, provide some coverage of how Stackless Python lets you script the thousands of actors that occur in a game.
 
-I wrote a paper a year ago about this subject that might be useful: [http://richard.cgpublisher.com/product/pub.84/prod.37](http://richard.cgpublisher.com/product/pub.84/prod.37) (there was a follow-up paper this year [http://richard.cgpublisher.com/product/pub.84/prod.37](http://richard.cgpublisher.com/product/pub.84/prod.37) which introduced OpenGL). Personally I think talking about Stackless is unnecessary and confuses the issue. \-- [RichardJones](RichardJones)
+I wrote a paper a year ago about this subject that might be useful: [http://richard.cgpublisher.com/product/pub.84/prod.37](http://richard.cgpublisher.com/product/pub.84/prod.37) (there was a follow-up paper this year [http://richard.cgpublisher.com/product/pub.84/prod.37](http://richard.cgpublisher.com/product/pub.84/prod.37) which introduced OpenGL). Personally I think talking about Stackless is unnecessary and confuses the issue. \-- [RichardJones](../people/RichardJones)
 
 ------------------------------------------------------------------------
 
@@ -275,7 +275,7 @@ And perhaps some discussion of how Python can be embedded into their existing ap
 **Media:** potential journal article\
 **Assigned-To:** Catherine Devlin `<catherineDOTdevlin AT gmail DOT com>` (2007-09-07)
 
-For publication before [PyCon](PyCon) 2008. To encourage sprint participation and general [PyCon](PyCon) awareness. Will be an interview with experienced sprint coaches and first-time sprinters.
+For publication before [PyCon](../conferences/pycon/PyCon) 2008. To encourage sprint participation and general [PyCon](../conferences/pycon/PyCon) awareness. Will be an interview with experienced sprint coaches and first-time sprinters.
 
 ## Completed Drafts 
 
@@ -304,7 +304,7 @@ For putting up on the web.
 [(permalink)](AdvocacyWritingTasks#GlueLanguage)\
 **Title:** *[Python As a Glue Language](AdvocacyWritingTasks/GlueLanguage)*\
 **Media:** a whitepaper\
-**Assigned-To:** [AndrewKuchling](AndrewKuchling) (2007-04-03)
+**Assigned-To:** [AndrewKuchling](../people/AndrewKuchling) (2007-04-03)
 
 One of the interesting traits of Python is that you can combine it with code in other languages, using it as a glue language. Survey the various solutions for combining code, such as SWIG, SIP, Python2C, Pyrex and provide the reader some guidance on the tradeoffs and how to choose.
 

@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This page is to keep track of how the various social networking sites are hosting [PyCon](PyCon) content by users.
+This page is to keep track of how the various social networking sites are hosting [PyCon](../PyCon) content by users.
 
 ## PyCon Web Site 
 
-Use [the PyCon schedule application](http://us.pycon.org/2008/conference/schedule/) to plan your schedule. You can click on events and talks you\'d like to attend, and then export your selected events in iCal format or print a customized schedule. Your choices are saved on the [PyCon](PyCon) server, letting the organizers compare the popularity of various talks and letting them change room assignments to meet unexpected demand.
+Use [the PyCon schedule application](http://us.pycon.org/2008/conference/schedule/) to plan your schedule. You can click on events and talks you\'d like to attend, and then export your selected events in iCal format or print a customized schedule. Your choices are saved on the [PyCon](../PyCon) server, letting the organizers compare the popularity of various talks and letting them change room assignments to meet unexpected demand.
 
 Each event has a perma-link and is now integrated with [Add This!](http://www.addthis.com/) So it is easier to use the other social network options on this page directly from the schedule.
 
 ## Linked In 
 
-We have created a [PyCon](PyCon) 2008 group on [LinkedIn](./LinkedIn.html). If you are registered for [PyCon](PyCon), your registration e-mail is already pre-approved for joining the group.
+We have created a [PyCon](../PyCon) 2008 group on [LinkedIn](./LinkedIn.html). If you are registered for [PyCon](../PyCon), your registration e-mail is already pre-approved for joining the group.
 
 Join the [PyCon 2008 Linked-In Conference Group](http://www.linkedin.com/e/gis/64606/475053320818).
 
@@ -26,7 +26,7 @@ During the conference, many attendees will chat using IRC on the #pycon channel 
 
 ## Talk Slides/File Publishing 
 
-The [PyCon](PyCon) [Schedule](http://us.pycon.org/2008/conference/schedule/) supports the upload/download of slides, documents, images, etc.
+The [PyCon](../PyCon) [Schedule](http://us.pycon.org/2008/conference/schedule/) supports the upload/download of slides, documents, images, etc.
 
 To upload files for your talk, just go to the [schedule](http://us.pycon.org/2008/conference/schedule/), bring up the tooltip for your talk, click on \'upload\' under \'Files:\' and fill in the form.
 
@@ -34,11 +34,11 @@ To upload files for your talk, just go to the [schedule](http://us.pycon.org/200
 
 Presentations in PowerPoint/OpenOffice/PDF format can be posted to [the PyCon 2008 event](http://www.slideshare.net/event/pycon-2008).
 
-Presenters, please be sure to also upload your talk slides and documents to the [PyCon](PyCon) website\'s [schedule application](http://us.pycon.org/2008/conference/schedule/).
+Presenters, please be sure to also upload your talk slides and documents to the [PyCon](../PyCon) website\'s [schedule application](http://us.pycon.org/2008/conference/schedule/).
 
 ## Flickr 
 
-Tag any photographs you take at [PyCon](PyCon) with [\"pycon2008\"](http://www.flickr.com/photos/tags/pycon2008/).
+Tag any photographs you take at [PyCon](../PyCon) with [\"pycon2008\"](http://www.flickr.com/photos/tags/pycon2008/).
 
 ## Twitter 
 

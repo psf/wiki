@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Lists places/people we should send the CfP and an announcement of [PyCon](PyCon) registration. As you investigate a place and figure out who to contact, please add a link (e.g. an obfuscated e-mail address, a link to a mailing list or a professor\'s contact page, etc.)
+Lists places/people we should send the CfP and an announcement of [PyCon](../PyCon) registration. As you investigate a place and figure out who to contact, please add a link (e.g. an obfuscated e-mail address, a link to a mailing list or a professor\'s contact page, etc.)
 
 Once you\'ve e-mailed or posted a CfP, please add \"(cfp done)\" next to the entry.
 
@@ -24,9 +24,9 @@ Once you\'ve e-mailed or posted a CfP, please add \"(cfp done)\" next to the ent
 
 - [Unix Users Group](http://www.auug.org/)
 
-- [PyATL](http://www.meetup.com/python-atlanta/) - (cfp done) 15 Aug by [DougHellmann](DougHellmann)
+- [PyATL](http://www.meetup.com/python-atlanta/) - (cfp done) 15 Aug by [DougHellmann](../../../people/DougHellmann)
 
-- [CHUGALUG (UGA Linux User Group)](http://www.uga.edu/chugalug/) - (cfp done 15 Aug by [DougHellmann](DougHellmann))
+- [CHUGALUG (UGA Linux User Group)](http://www.uga.edu/chugalug/) - (cfp done 15 Aug by [DougHellmann](../../../people/DougHellmann))
 
 ## Local CS Departments 
 
@@ -68,15 +68,15 @@ Any tech-oriented high schools? EE departments?
 
 - Linuxchix
 
-- [Debian Women](http://lists.debian.org/debian-women/) (cfp done Aug 16 [CatherineDevlin](CatherineDevlin))
+- [Debian Women](http://lists.debian.org/debian-women/) (cfp done Aug 16 [CatherineDevlin](../../../people/CatherineDevlin))
 
 - gnome-women
 
 - kde-women
 
-- Ubuntu-women (cfp done Aug 16 [CatherineDevlin](CatherineDevlin))
+- Ubuntu-women (cfp done Aug 16 [CatherineDevlin](../../../people/CatherineDevlin))
 
-- Devchix (cfp done Aug 16 [CatherineDevlin](CatherineDevlin))
+- Devchix (cfp done Aug 16 [CatherineDevlin](../../../people/CatherineDevlin))
 
 ## Minorities in Technology 
 
@@ -88,7 +88,7 @@ Any tech-oriented high schools? EE departments?
 
 ## Nearby states 
 
-Please list user groups, CS departments, etc. that should be informed about the CfP and about [PyCon](PyCon).
+Please list user groups, CS departments, etc. that should be informed about the CfP and about [PyCon](../PyCon).
 
 ### Alabama 
 
@@ -106,7 +106,7 @@ Please list user groups, CS departments, etc. that should be informed about the 
 
 ### South Carolina 
 
-[Univ. of South Carolina Computer Science Dept.](http://acm.cse.sc.edu/) (cfp done 15 Aug by [DougHellmann](DougHellmann))
+[Univ. of South Carolina Computer Science Dept.](http://acm.cse.sc.edu/) (cfp done 15 Aug by [DougHellmann](../../../people/DougHellmann))
 
 ### Tennessee 
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-A framework for [WebProgramming](WebProgramming).
+A framework for [WebProgramming](../web/WebProgramming).
 
 ### Masthead 
 
@@ -59,7 +59,7 @@ WebStack leaves the issue of resource presentation to higher-level frameworks an
 
 ### InTheirOwnWords 
 
-Although there seems to be some demand for more coherency in Python Web development, many of the discussions around standard APIs seem to have ended with no apparent resolution. Rather than merely continue developing the [WebFrameworks](WebFrameworks) overview and its predecessor documents, I thought it would be more effective to actually demonstrate that existing frameworks could be unified under a common API, thus showing that many frameworks do not offer compelling advantages in their APIs for typical Web applications (in that they differ only in stylistic or subjective ways).
+Although there seems to be some demand for more coherency in Python Web development, many of the discussions around standard APIs seem to have ended with no apparent resolution. Rather than merely continue developing the [WebFrameworks](../web/WebFrameworks) overview and its predecessor documents, I thought it would be more effective to actually demonstrate that existing frameworks could be unified under a common API, thus showing that many frameworks do not offer compelling advantages in their APIs for typical Web applications (in that they differ only in stylistic or subjective ways).
 
 Since many frameworks have traditionally been tied to particular hosting environments (one often needs to have a specific long-running process or Web server solution running to use a particular framework), I also wanted to show that various API design decisions are often not defensible by citing the \"unique\" nature of the framework\'s hosting or execution environment. WebStack demonstrates that applications can be written to run in many different hosting environments and can provide the end-user with much more flexibility in deploying such applications than they have with deploying applications written for a handful of traditional frameworks in mind. \-- [PaulBoddie](PaulBoddie)
 

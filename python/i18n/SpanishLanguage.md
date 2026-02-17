@@ -24,7 +24,7 @@ ISO 639-1 Code: es
 
 [BIG TODO: Seguir el ejemplo de la página turca ([TurkishLanguage](TurkishLanguage))]
 
-[Python](http://www.python.org/) es un lenguaje de programación de tipo interpretado, funcional, orientado a objetos e interactivo. Comúnmente es [comparado](LanguageComparisons) (dando la preferencia ![:)](/wiki/europython/img/smile.png ":)") ) a Lisp, Tcl, Ruby, Perl, C#, Visual Basic, Visual Fox Pro, Scheme, Java, [MatLab](./MatLab.html) e incluso Julia. Posee una mayor madurez que muchos de ellos, de creciente potencia y multifuncionalidad. Puede encontrarse información en Wikipedia hispana sobre [Python](http://es.wikipedia.org/wiki/Python).
+[Python](http://www.python.org/) es un lenguaje de programación de tipo interpretado, funcional, orientado a objetos e interactivo. Comúnmente es [comparado](../people/LanguageComparisons) (dando la preferencia ![:)](/wiki/europython/img/smile.png ":)") ) a Lisp, Tcl, Ruby, Perl, C#, Visual Basic, Visual Fox Pro, Scheme, Java, [MatLab](./MatLab.html) e incluso Julia. Posee una mayor madurez que muchos de ellos, de creciente potencia y multifuncionalidad. Puede encontrarse información en Wikipedia hispana sobre [Python](http://es.wikipedia.org/wiki/Python).
 
 Se caracteriza por la fluencia de su sintaxis, la cual garantiza una alta legibilidad y comprensión del código tanto para quien desarrolla como para quien lee. Su estructura fundamental aglutina características tales como el manejo adecuado de excepciones y tipos de datos de alto nivel. Existen interfaces para hacer llamadas al sistema y librerías, así como [diversos sistemas de ventanas](../archive/GUI Programming in Python). Nuevos módulos pueden ser fácilmente escritos en C o C++ (o algún otro lenguaje, dependiendo de la [implementación](http://wiki.python.org/moin/implementation) seleccionada). Python también puede ser usado como un lenguaje para extender [aplicaciones escrítas en algún otro lenguaje](http://wiki.python.org/moin/AppsWithPythonScripting), que necesite ser usado bajo scripting o automatización de la interfaz.
 
@@ -34,19 +34,19 @@ Para quienes desean iniciar su aprendizaje en Python existen numerosas alternati
 
 ::: {}
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Guía de principiantes](BeginnersGuide)                                                | [Documentación](Documentation)                                                         |
+| [Guía de principiantes](../getting-started/BeginnersGuide)                                                | [Documentación](../documentation/Documentation)                                                         |
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Enlaces a tutoriales, cursos y recursos                                                       | Materiales de aprendizaje, guías y vínculos a recursos centralizados                          |
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Errores de principiante](BeginnerErrorsWithPythonProgramming)                         | [Libros de Python](PythonBooks)                                                        |
+| [Errores de principiante](../archive/BeginnerErrorsWithPythonProgramming)                         | [Libros de Python](../books/PythonBooks)                                                        |
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Algunos errores comunes de principiante                                                       | Libros sobre Python y revisiones                                                              |
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Solicitando ayuda](../archive/Asking for Help)                                             | [Materiales de Audio](PythonAudioMaterial)                                             |
+| [Solicitando ayuda](../archive/Asking for Help)                                             | [Materiales de Audio](../archive/PythonAudioMaterial)                                             |
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Respuestas a preguntas comunes en principiantes                                               | Una mezcla de tópicos introductorios y de tópicos especiales                                  |
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Idiomas](Languages)                                                                   | [Implementaciones](implementation)                                                     |
+| [Idiomas](../archive/Languages)                                                                   | [Implementaciones](implementation)                                                     |
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Recursos en otros idiomas                                                                     | Software diverso el cual se ejecuta en el lenguaje de Python                                  |
 +-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
@@ -170,7 +170,7 @@ Para quienes desean iniciar su aprendizaje en Python existen numerosas alternati
 
 - [La pilita de Gutes](http://lapilitadegutes.blogspot.com/2009/09/list-comprehensions-haskell-y-python.html) - List comprehensions y generadores: Haskell y Python para principiantes.
 
-- [FREY.com](http://freymam.blogspot.com/2009/11/python-en-eclipse-o-netbeans.html) - instrucciones para desarrollar código Python en un entorno Eclipse o [NetBeans](NetBeans).
+- [FREY.com](http://freymam.blogspot.com/2009/11/python-en-eclipse-o-netbeans.html) - instrucciones para desarrollar código Python en un entorno Eclipse o [NetBeans](../editors/NetBeans).
 
 - [Cibernatural](https://cibernatural.com/tutorial-de-django-i/) - Tutorial de Django -- I.
 
@@ -194,7 +194,7 @@ Para quienes desean iniciar su aprendizaje en Python existen numerosas alternati
 
 - [El viaje del navegante](http://elviajedelnavegante.blogspot.com/2010/04/crear-documentos-pdf-en-python-y-3.html) - Crear documentos PDF en Python, y 3.
 
-- [El viaje del navegante](http://elviajedelnavegante.blogspot.com/2010/04/ironpython-y-sharpdevelop-en-espanol.html) - [IronPython](IronPython) y [SharpDevelop](./SharpDevelop.html), en español.
+- [El viaje del navegante](http://elviajedelnavegante.blogspot.com/2010/04/ironpython-y-sharpdevelop-en-espanol.html) - [IronPython](../implementations/IronPython) y [SharpDevelop](./SharpDevelop.html), en español.
 
 - [El viaje del navegante](http://elviajedelnavegante.blogspot.com/2011/01/ejercicios-de-programacion-en-python-y.html) - Ejercicios resueltos de programación, en Python y en español, I.
 

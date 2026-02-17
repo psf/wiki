@@ -8,23 +8,23 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Schedule 
 
-[FredDrake](FredDrake) suggested we start at 10:00am, at least on Saturday and Sunday, but apparantly others were better able to rise in the mornings. The DistutilsSprint was held in room 301 at the conference center.
+[FredDrake](../people/FredDrake) suggested we start at 10:00am, at least on Saturday and Sunday, but apparantly others were better able to rise in the mornings. The DistutilsSprint was held in room 301 at the conference center.
 
 ## Topics 
 
 Some projects which saw progress during the sprint included:
 
-- The implementation of [PEP 314: Metadata for Python Software Packages v1.1](http://www.python.org/peps/pep-0314.html) should be complete; someone who isn\'t involved in the implementation should review what\'s in CVS and check it against the PEP. Work performed at the sprint included supporting the *provides*, *requires*, and *obsoletes* metadata fields in both the `distutils` package and in PyPI. The work was performed by [FredDrake](FredDrake), [RichardJones](RichardJones), and [AndyHarrington](AndyHarrington). There may be some untracked changes in [AndrewKuchling](AndrewKuchling)\'s draft of PEP 314; these should also be checked (also, the catalog-sig archives). [FredDrake](FredDrake) believes that there are still some glaringly obvious metadata fields missing, necessitating a further revision of the package metadata specification.
+- The implementation of [PEP 314: Metadata for Python Software Packages v1.1](http://www.python.org/peps/pep-0314.html) should be complete; someone who isn\'t involved in the implementation should review what\'s in CVS and check it against the PEP. Work performed at the sprint included supporting the *provides*, *requires*, and *obsoletes* metadata fields in both the `distutils` package and in PyPI. The work was performed by [FredDrake](../people/FredDrake), [RichardJones](../people/RichardJones), and [AndyHarrington](../people/AndyHarrington). There may be some untracked changes in [AndrewKuchling](../people/AndrewKuchling)\'s draft of PEP 314; these should also be checked (also, the catalog-sig archives). [FredDrake](../people/FredDrake) believes that there are still some glaringly obvious metadata fields missing, necessitating a further revision of the package metadata specification.
 
-- [RichardJones](RichardJones) migrated the database away from the single-user sqlite database to a multi-user postgres one.
+- [RichardJones](../people/RichardJones) migrated the database away from the single-user sqlite database to a multi-user postgres one.
 
-- [RichardJones](RichardJones) and [MartinvonLoewis](MartinvonLoewis) worked on implementing [PEP 243: Module Repository Upload Mechanism](http://www.python.org/peps/pep-0243.html), supporting a package repository as part of PyPI. There are revisions needed to PEP 243 which haven\'t been written yet (mostly to do with cleaning up the use of the HTTP spec). [FredDrake](FredDrake) thinks he uploaded the first package into the live repository, a tarball containing ZConfig 2.2. Richard implemented the changes to the PyPI application, and Martin added an **upload** command to the `distutils` package to make it easy to add files from a command line. Uploads may also have an accompanying MD5 (for simple validation) and OpenPGP signature.
+- [RichardJones](../people/RichardJones) and [MartinvonLoewis](../people/MartinvonLoewis) worked on implementing [PEP 243: Module Repository Upload Mechanism](http://www.python.org/peps/pep-0243.html), supporting a package repository as part of PyPI. There are revisions needed to PEP 243 which haven\'t been written yet (mostly to do with cleaning up the use of the HTTP spec). [FredDrake](../people/FredDrake) thinks he uploaded the first package into the live repository, a tarball containing ZConfig 2.2. Richard implemented the changes to the PyPI application, and Martin added an **upload** command to the `distutils` package to make it easy to add files from a command line. Uploads may also have an accompanying MD5 (for simple validation) and OpenPGP signature.
 
-- [AndrewKuchling](AndrewKuchling) integrated work done to add XML-RPC support based on efforts from the [ChiPy](ChiPy) sprint. See [Ian Bicking\'s blog](http://blog.ianbicking.org/first-chipy-sprint-pypi.html) for more on the [ChiPy](ChiPy) work.
+- [AndrewKuchling](../people/AndrewKuchling) integrated work done to add XML-RPC support based on efforts from the [ChiPy](../people/ChiPy) sprint. See [Ian Bicking\'s blog](http://blog.ianbicking.org/first-chipy-sprint-pypi.html) for more on the [ChiPy](../people/ChiPy) work.
 
-- [RichardJones](RichardJones) and [MichaelTwomey](MichaelTwomey) integrated work started at the [ChiPy](ChiPy) sprint to convert the PyPI web interface to use [ZopePageTemplates](ZopePageTemplates) instead of hard-coded HTML in the Python code. This should make it a lot easier to keep the logic and presentation separate. \"Unit\" tests using Selenium were also developed.
+- [RichardJones](../people/RichardJones) and [MichaelTwomey](../people/MichaelTwomey) integrated work started at the [ChiPy](../people/ChiPy) sprint to convert the PyPI web interface to use [ZopePageTemplates](../web/ZopePageTemplates) instead of hard-coded HTML in the Python code. This should make it a lot easier to keep the logic and presentation separate. \"Unit\" tests using Selenium were also developed.
 
-- [JohnCamara](JohnCamara) worked on some distutils bugs, and also implemented the [reStructuredText](reStructuredText) formatting of description fields. [DavidGoodger](DavidGoodger) implemented a couple of safety switches in docutils allowing us to turn off the \"raw\" and \"include\" directives.
+- [JohnCamara](../people/JohnCamara) worked on some distutils bugs, and also implemented the [reStructuredText](../archive/reStructuredText) formatting of description fields. [DavidGoodger](../people/DavidGoodger) implemented a couple of safety switches in docutils allowing us to turn off the \"raw\" and \"include\" directives.
 
 At a separate table in the other sprint room, this suggested topic was addressed:
 
@@ -40,23 +40,23 @@ The following topics had been suggested, but were not discussed during the \[PyC
 
 If you aren\'t planning to be available for all four days of the sprints, please note which days you will be around.
 
-- [FredDrake](FredDrake) (Saturday and Sunday)
+- [FredDrake](../people/FredDrake) (Saturday and Sunday)
 
-- [RichardJones](RichardJones)
+- [RichardJones](../people/RichardJones)
 
-- [MikeTaylor](MikeTaylor)
+- [MikeTaylor](../people/MikeTaylor)
 
-- [JohnCamara](JohnCamara)
+- [JohnCamara](../people/JohnCamara)
 
-- [AndrewKuchling](AndrewKuchling) (Saturday and Sunday)
+- [AndrewKuchling](../people/AndrewKuchling) (Saturday and Sunday)
 
-- [AndyHarrington](AndyHarrington)
+- [AndyHarrington](../people/AndyHarrington)
 
 - [JeffreyHarrington](./JeffreyHarrington.html)
 
-- [MartinvonLoewis](MartinvonLoewis)
+- [MartinvonLoewis](../people/MartinvonLoewis)
 
-- [IanBicking](IanBicking) (Saturday, maybe Sunday?)
+- [IanBicking](../people/IanBicking) (Saturday, maybe Sunday?)
 
 ------------------------------------------------------------------------
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Tracker and source code for [https://www.python.org/](https://www.python.org/) website is located at [https://github.com/python/pythondotorg](https://github.com/python/pythondotorg)
 
-Information about old site hosted at [https://legacy.python.org/](https://legacy.python.org/) is reachable from [LegacyPythonWebsite](LegacyPythonWebsite) page.
+Information about old site hosted at [https://legacy.python.org/](https://legacy.python.org/) is reachable from [LegacyPythonWebsite](../archive/LegacyPythonWebsite) page.
 
 Other related pages from this Wiki:
 

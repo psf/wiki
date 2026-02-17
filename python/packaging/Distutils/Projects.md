@@ -12,7 +12,7 @@ Please add a listing to this page if you\'re working on Distutils (and help us r
 
 ## PyPI 
 
-The central repository of Python package metadata and distribution files. See: [CheeseShopDev](CheeseShopDev)
+The central repository of Python package metadata and distribution files. See: [CheeseShopDev](../../archive/CheeseShopDev)
 
 ## Easy Install 
 
@@ -40,7 +40,7 @@ Build debian source packages using setuptools and the \"sdist\" distutils comman
 
 ## Distribute 
 
-[Distribute](Distribute) A community-driven project that aims to gather all requirements for a future distribution package.
+[Distribute](../Distribute) A community-driven project that aims to gather all requirements for a future distribution package.
 
 ## Defend Against Fruit 
 

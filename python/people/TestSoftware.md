@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Complete Taxonomy 
 
-- Please visit the [PythonTestingToolsTaxonomy](PythonTestingToolsTaxonomy) for a much more complete list of test tools of all kinds.
+- Please visit the [PythonTestingToolsTaxonomy](../archive/PythonTestingToolsTaxonomy) for a much more complete list of test tools of all kinds.
 
 ## Software 
 
@@ -24,7 +24,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [zope.testing](http://www.python.org/pypi/zope.testing) provides a powerful test runner that supports test discovery and a wide range of options to control how tests are run and results reported.
 
-- [nose](http://somethingaboutorange.com/mrl/projects/nose/) is \"a discovery-based [unittest](./unittest.html) [extension](./extension.html)\" that generally also supports [PyTest](PyTest) functionality.
+- [nose](http://somethingaboutorange.com/mrl/projects/nose/) is \"a discovery-based [unittest](./unittest.html) [extension](./extension.html)\" that generally also supports [PyTest](../testing/PyTest) functionality.
 
 ## Best Practices 
 

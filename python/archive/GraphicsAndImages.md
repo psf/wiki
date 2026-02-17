@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Piddle](./Piddle.html)
 
-- [PyGame](PyGame)
+- [PyGame](../multimedia/PyGame)
 
 - [PythonImagingLibrary](PythonImagingLibrary)
 
 - [PythonMagick](PythonMagick)
 
-- [Wand](http://dahlia.github.com/wand/) Another [ImageMagick](ImageMagick) binding for Python.
+- [Wand](http://dahlia.github.com/wand/) Another [ImageMagick](../people/ImageMagick) binding for Python.
 
 - [Sketch](Sketch)
 
@@ -22,7 +22,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [PyFt](./PyFt.html)
 
-- [PyWiew](PyWiew)
+- [PyWiew](../people/PyWiew)
 
 - [ComputerGraphicsKit](./ComputerGraphicsKit.html) ([http://cgkit.sourceforge.net](http://cgkit.sourceforge.net)) for creating 3D computer graphics images
 
@@ -34,7 +34,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Charts and plotting:
 
-- [PyChart](PyChart)
+- [PyChart](../people/PyChart)
 
 - [matplotlib](http://matplotlib.sourceforge.net/)
 

@@ -16,7 +16,7 @@ This page describes the actual progress and accomplishments that were made at [P
 
 - Core Python: Added Distutils checkdep command.
 
-- Docutils: numerous improvements and additions. See [DocutilsSprint](DocutilsSprint), section 2, for details.
+- Docutils: numerous improvements and additions. See [DocutilsSprint](../../../people/DocutilsSprint), section 2, for details.
 
 - PSF: elected new Board; voted on various new individual and sponsor members.
 

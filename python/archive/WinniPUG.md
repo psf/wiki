@@ -66,7 +66,7 @@ For meetings at Epic, the address is 167 Sherbrook, parking on the street or in 
   Feb 25, 2009    Future-proof Python 2.6 code for Python 3.0                          Stuart Williams                                                                                                                   
   Mar 25, 2009    No meeting                                                                                                                                                                                             
   Apr 22, 2009    Cancelled                                                                                                                                                                                              
-  Feb 26, 2010    Tavern United downtown                                               [PyCon](PyCon) reflections   Stuart Williams                                                                               
+  Feb 26, 2010    Tavern United downtown                                               [PyCon](../conferences/pycon/PyCon) reflections   Stuart Williams                                                                               
   Sep 22, 2010    University of Manitoba, 356 Parker                                   Introductions and Planning                                                                                                        
   --------------- -------------------------------------------------------------------- ----------------------------------- --------------------------------------------------------------------------------------------- --
 :::
@@ -87,7 +87,7 @@ The following are possible future topics.
 
 - MS-Windows automation with Python
 
-- IDE\'s such as LEO, [PyDev](PyDev) (Eclipse), Stani\'s Python Editor
+- IDE\'s such as LEO, [PyDev](../people/PyDev) (Eclipse), Stani\'s Python Editor
 
 - quick intro to Python for programmers
 
@@ -113,7 +113,7 @@ The following are possible future topics.
 
 - Python in Ubuntu
 
-- [IronPython](IronPython), .NET, and Context Menus
+- [IronPython](../implementations/IronPython), .NET, and Context Menus
 
 - Google App Engine
 

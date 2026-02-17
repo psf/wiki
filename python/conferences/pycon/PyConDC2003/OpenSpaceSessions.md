@@ -6,24 +6,24 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[OpenSpace](OpenSpace) Session Notes from [PyConDC2003](PyConDC2003)
+[OpenSpace](../../../people/OpenSpace) Session Notes from [PyConDC2003]()
 
 - [ActiveStateToolsOpenSpace](./ActiveStateToolsOpenSpace.html)
 
 - [KomodoOpenSpace](./KomodoOpenSpace.html)
 
-- [MailArchivingOpenSpace](MailArchivingOpenSpace)
+- [MailArchivingOpenSpace](../../../archive/MailArchivingOpenSpace)
 
-- [PyOpenGlPyGameOpenSpace](PyOpenGlPyGameOpenSpace)
+- [PyOpenGlPyGameOpenSpace](../../../archive/PyOpenGlPyGameOpenSpace)
 
-- [InfiniteFilingCabinetOpenSpace](InfiniteFilingCabinetOpenSpace)
+- [InfiniteFilingCabinetOpenSpace](../../../archive/InfiniteFilingCabinetOpenSpace)
 
-- [PythonBusinessForumOpenSpace](PythonBusinessForumOpenSpace)
+- [PythonBusinessForumOpenSpace](../../../archive/PythonBusinessForumOpenSpace)
 
-- [DataProcessingAndNumericalAnalysis](DataProcessingAndNumericalAnalysis)
+- [DataProcessingAndNumericalAnalysis](../../../archive/DataProcessingAndNumericalAnalysis)
 
-- [MarketingPythonOpenSpace](MarketingPythonOpenSpace)
+- [MarketingPythonOpenSpace](../../../community/MarketingPythonOpenSpace)
 
-- [PythonOrgWebsiteRedesignOpenSpace](PythonOrgWebsiteRedesignOpenSpace)
+- [PythonOrgWebsiteRedesignOpenSpace](../../../archive/PythonOrgWebsiteRedesignOpenSpace)
 
 - \... add more here \...

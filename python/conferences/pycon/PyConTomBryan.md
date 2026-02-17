@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page concerns the talk on \"Unit Testing in Python\" that I gave on March 26 at the [PyCon](PyCon) 2003. If you missed the talk, you can view the [slides on my Starship Python page](http://starship.python.net/crew/tbryan/UnitTestTalk/). You may also download the slides from [my Starship ftp directory](ftp://starship.python.net/pub/crew/tbryan/). The slides and code are both available as .tgz and .zip files.
 
-I\'d appreciate any feedback on the slides or the talk itself. Feel free to hit the Edit Text link and add your comments or questions to the section at the end. For more about me, see my Python wiki page [TomBryan](TomBryan).
+I\'d appreciate any feedback on the slides or the talk itself. Feel free to hit the Edit Text link and add your comments or questions to the section at the end. For more about me, see my Python wiki page [TomBryan](../../people/TomBryan).
 
 # Vote for the talk you want to see! 
 

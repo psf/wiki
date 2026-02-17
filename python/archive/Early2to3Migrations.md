@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [pyPdf](http://pybrary.net/pyPdf/)                                                           [http://mathieu.fenniak.net/python-30a1-support-in-pypdf-and-pg8000/](http://mathieu.fenniak.net/python-30a1-support-in-pypdf-and-pg8000/)
   [pg8000](http://pybrary.net/pg8000/)                                                         [http://mathieu.fenniak.net/python-30a1-support-in-pypdf-and-pg8000/](http://mathieu.fenniak.net/python-30a1-support-in-pypdf-and-pg8000/)
   [Twisted](http://twistedmatrix.com/trac/)                                                    [http://glyf.livejournal.com/72036.html](http://glyf.livejournal.com/72036.html)
-  [Django](http://www.djangoproject.com/)                                                      [PortingDjangoTo3k](PortingDjangoTo3k)
+  [Django](http://www.djangoproject.com/)                                                      [PortingDjangoTo3k](../py3/PortingDjangoTo3k)
   [psycopg2](http://www.dcl.hpi.uni-potsdam.de/home/loewis/psycopg_3k_v2.diff)                 Patch against psycopg trunk, by Martin v. Löwis
   [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)                               [http://www.crummy.com/2008/12/27/1](http://www.crummy.com/2008/12/27/1)
   [lockfile module](http://pypi.python.org/pypi/lockfile/0.6)                                  

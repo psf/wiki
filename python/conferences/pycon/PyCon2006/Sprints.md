@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-For more information about [PyCon](PyCon) 2006, see the main conference site at [http://us.pycon.org/](http://us.pycon.org/).
+For more information about [PyCon](../PyCon) 2006, see the main conference site at [http://us.pycon.org/](http://us.pycon.org/).
 
 The following sprints are planned for the four days after the conference.
 
 To register a new sprint, just edit this page and add your sprint, listing yourself as the sprint coach. If you won\'t be around for all four days, please specify the days you\'ll be present.
 
-If you have any questions about sprinting at [PyCon](PyCon), please send email to the Sprint Coordinator, [David Goodger](mailto:goodger@python.org).
+If you have any questions about sprinting at [PyCon](../PyCon), please send email to the Sprint Coordinator, [David Goodger](mailto:goodger@python.org).
 
 # Logistics 
 
@@ -52,7 +52,7 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
 - Goal: add functionality, fix bugs, and facilitate applications
 
-  Coach: [DavidGoodger](DavidGoodger)
+  Coach: [DavidGoodger](../../../people/DavidGoodger)
 
   Details: [/DocutilsSprint](Sprints/DocutilsSprint) IRC: #docutils
 
@@ -70,7 +70,7 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
 ## PyPy 
 
-- Goal: work in any area of interest of [PyPy](PyPy) Coach: Michael Hudson, Armin Rigo, Holger Krekel
+- Goal: work in any area of interest of [PyPy](../../../implementations/PyPy) Coach: Michael Hudson, Armin Rigo, Holger Krekel
 
   Details: [/PyPySprint](Sprints/PyPySprint)
 
@@ -84,9 +84,9 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
 ## Conference software 
 
-- Goal: work on a unified conference software system for [PyCon](PyCon)
+- Goal: work on a unified conference software system for [PyCon](../PyCon)
 
-  Coach: [AndrewKuchling](AndrewKuchling)
+  Coach: [AndrewKuchling](../../../people/AndrewKuchling)
 
   Details: [/ConferenceSprint](Sprints/ConferenceSprint)
 
@@ -94,7 +94,7 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
 - Goal: release pymon 0.3.4 (monitoring server written in Twisted), work on component parts of [CoyMon](./CoyMon.html) 3 including [PyFlowCatch](./PyFlowCatch.html) and PyRRD (where we\'re building a Twisted RRDTool server)
 
-  Coach: [DuncanMcGreggor](DuncanMcGreggor) Details:
+  Coach: [DuncanMcGreggor](../../../archive/DuncanMcGreggor) Details:
 
   - [http://projects.adytum.us/tracs/PyMonitor/wiki/PyConTwoOhOhSix](http://projects.adytum.us/tracs/PyMonitor/wiki/PyConTwoOhOhSix) and
 
@@ -122,11 +122,11 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
 - Goal: Finish up MySQLdb-1.2.1 and ZMySQLDA-2.0.9
 
-  Coach: [AndyDustman](AndyDustman) Dates: Sunday through Tuesday
+  Coach: [AndyDustman](../../../people/AndyDustman) Dates: Sunday through Tuesday
 
   Details: Fix bugs at [http://sourceforge.net/projects/mysql-python](http://sourceforge.net/projects/mysql-python) Submit patches/bugs in
 
-  - advance if you have any. If you want CVS checkin ability, get a [SourceForge](SourceForge) account.
+  - advance if you have any. If you want CVS checkin ability, get a [SourceForge](../../../people/SourceForge) account.
 
   Cost to Attend: Sanity (optional)
 
@@ -148,15 +148,15 @@ The sprint approach works best when the first few hours are spent getting orient
 
 ## Why sprint at PyCon? 
 
-The sprints are intended to benefit various projects, and to encourage more people to take part in development. They will also be a good place to see [ExtremeProgramming](ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced Python developers.
+The sprints are intended to benefit various projects, and to encourage more people to take part in development. They will also be a good place to see [ExtremeProgramming](../../../people/ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced Python developers.
 
-[PyCon](PyCon) will always have a core Python sprint. Other topics will come and go each year.
+[PyCon](../PyCon) will always have a core Python sprint. Other topics will come and go each year.
 
 If you wish to participate in a sprint, please contact the sprint organizers in advance, or add your name to the list of participants for a given sprint.
 
 ## What equipment/supplies will sprints get? 
 
-[PyCon](PyCon) will supply the following:
+[PyCon](../PyCon) will supply the following:
 
 - Room. Multiple sprints will share the same room; different sprints will presumably occupy different tables.
 - Wireless networking.
@@ -164,11 +164,11 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 - Writing paper and pens (for notes, sketches, etc.).
 - Ice water.
 
-[PyCon](PyCon) does *not* supply food for the sprint days. Participants will have to go to [PyCon2006/NearbyRestaurants](NearbyRestaurants), or have food delivered to the hotel.
+[PyCon](../PyCon) does *not* supply food for the sprint days. Participants will have to go to [PyCon2006/NearbyRestaurants](NearbyRestaurants), or have food delivered to the hotel.
 
 ## Who makes this possible? 
 
-The [Python Software Foundation](http://www.python.org/psf) sponsors the sprints at [PyCon2006](PyCon2006). Please consider making a [donation](http://www.python.org/psf/donations.html) to support this vital community activity!
+The [Python Software Foundation](http://www.python.org/psf) sponsors the sprints at [PyCon2006](). Please consider making a [donation](http://www.python.org/psf/donations.html) to support this vital community activity!
 
 ## IRC 
 

@@ -7,5 +7,5 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 ```
 
 ::: note
-This page has been merged into [GuiProgramming](GuiProgramming).
+This page has been merged into [GuiProgramming](../gui/GuiProgramming).
 :::

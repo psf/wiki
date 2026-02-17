@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Jack Jansen is the maintainer of [MacPython](MacPython), and author of many of the Macintosh specific modules in Python (including [/bgen](./JackJansen(2f)bgen.html), the Apple style header file to Python C Extension helper that automatically generates many of them).
+Jack Jansen is the maintainer of [MacPython](../platforms/MacPython), and author of many of the Macintosh specific modules in Python (including [/bgen](./JackJansen(2f)bgen.html), the Apple style header file to Python C Extension helper that automatically generates many of them).
 
 ::: {}
   ---------- --------------------------------------------------------------------------

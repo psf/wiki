@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[BayPiggies](BayPiggies) has taken the lead in making a bid for [PyCon2010](PyCon2010) in the San Francisco Bay Area. See [PyCon2010BayPiggiesProposal](PyCon2010BayPiggiesProposal) and [SanFrancisco](SanFrancisco) for more information.
+[BayPiggies](../../community/BayPiggies) has taken the lead in making a bid for [PyCon2010](PyCon2010) in the San Francisco Bay Area. See [PyCon2010BayPiggiesProposal](PyCon2010BayPiggiesProposal) and [SanFrancisco](../../people/SanFrancisco) for more information.
 
 The following are the questions asked by Python.org of bidders to host [PyCon](PyCon).
 
@@ -190,7 +190,7 @@ Yes.
 
 Indeed.
 
-- [BayPiggies](BayPiggies)
+- [BayPiggies](../../community/BayPiggies)
 
 - unnamed XO Sugar hacking society (SF and Silicon Valley)
 
@@ -220,4 +220,4 @@ Uh, wow. Well, Google, HP, Apple, Intel, AMD, IBM, Oracle, Cisco, and a cast of 
 
 - o *Do they use Python?*
 
-Google, LucasFilm/ILM, [YouTube](./YouTube.html), VMware, Yahoo!, Cisco, [IronPort](./IronPort.html), eBay, [BitTorrent](./BitTorrent.html), Slide, Facebook, HP, IBM, Apple, Oracle, LSI Logic\... [DICE](http://www.dice.com/) has more than 370 Bay Area job listings for Python today (2008-4-14) at companies including HP, AMD, Conde Nast Publications, Deloitte, Dreamworks Animation, eBay, E\*trade, Google, IBM, Macy\'s, Nokia, NVIDIA, [SourceForge](SourceForge), Sun, Walmart, Yahoo [Juju](http://www.job-search-engine.com/jobs?k=python&l=San+Francisco%2C+CA) lists other Python jobs: Cisco, Acxiom, Macrovision\...
+Google, LucasFilm/ILM, [YouTube](./YouTube.html), VMware, Yahoo!, Cisco, [IronPort](./IronPort.html), eBay, [BitTorrent](./BitTorrent.html), Slide, Facebook, HP, IBM, Apple, Oracle, LSI Logic\... [DICE](http://www.dice.com/) has more than 370 Bay Area job listings for Python today (2008-4-14) at companies including HP, AMD, Conde Nast Publications, Deloitte, Dreamworks Animation, eBay, E\*trade, Google, IBM, Macy\'s, Nokia, NVIDIA, [SourceForge](../../people/SourceForge), Sun, Walmart, Yahoo [Juju](http://www.job-search-engine.com/jobs?k=python&l=San+Francisco%2C+CA) lists other Python jobs: Cisco, Acxiom, Macrovision\...

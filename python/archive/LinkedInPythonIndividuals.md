@@ -136,7 +136,7 @@ This started as a list of Python developers who had a known presence on [LinkedI
 
 - Senthil Kumaran S \'stylesen\' ( [http://www.linkedin.com/in/stylesen](http://www.linkedin.com/in/stylesen) )
 
-- [CameronLaird](CameronLaird) [http://www.linkedin.com/pub/0/b4/a67](http://www.linkedin.com/pub/0/b4/a67)
+- [CameronLaird](../people/CameronLaird) [http://www.linkedin.com/pub/0/b4/a67](http://www.linkedin.com/pub/0/b4/a67)
 
 - Ed Leafe ( [http://www.linkedin.com/in/edleafe](http://www.linkedin.com/in/edleafe) )
 

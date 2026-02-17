@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - *Last-Modified: 20050205*
 
-- *Author: [BillDehora](BillDehora)*
+- *Author: [BillDehora](../people/BillDehora)*
 
 - *Status: Draft*
 

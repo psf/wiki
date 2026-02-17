@@ -69,7 +69,7 @@ First, make sure that you really want to override attribute lookup. Then, overri
 ::: 
 ### What\'s the difference?
 
-First, we must differentiate between the methods which are part of the `PyObject` Java API, and those which are implementations exposed to Python. As you may expect, the ones starting with `object_` have to do with [exposed methods](PythonTypesInJava). `object__getattribute__` corresponds to the exposed `object.__getattribute`. However, `object__findattr__` is not exposed, but is an implementation detail of PyObject itself, related to the Java API methods which we will explain now in detail.
+First, we must differentiate between the methods which are part of the `PyObject` Java API, and those which are implementations exposed to Python. As you may expect, the ones starting with `object_` have to do with [exposed methods](../../internals/PythonTypesInJava). `object__getattribute__` corresponds to the exposed `object.__getattribute`. However, `object__findattr__` is not exposed, but is an implementation detail of PyObject itself, related to the Java API methods which we will explain now in detail.
 
 `__findattr__` and `__getattr__` are the primary ways to get an attribute from Java code. The difference is how they signal failed lookups. `__getattr__` throws `AttributeError` while `__findattr__` returns `null`. That\'s all. In practice `__findattr__` is a bit of a performance optimization, as throwing exceptions is an expensive operation. Thus, prefer it when you can.
 

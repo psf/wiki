@@ -8,8 +8,8 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Members of the ScientificWGGroup (these have edit permission for the WG pages):
 
-- [DavidMertz](DavidMertz)
+- [DavidMertz](../people/DavidMertz)
 
-- [StefanVanDerWalt](StefanVanDerWalt)
+- [StefanVanDerWalt](../people/StefanVanDerWalt)
 
 For help on how this page works, please see the [HelpOnGroups](HelpOnGroups) page.

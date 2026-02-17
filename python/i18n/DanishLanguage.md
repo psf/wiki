@@ -34,7 +34,7 @@ Where these pages really need help:
 
 - [Kenneth Nielsen](http://kennethhn.blogspot.com/2009/10/python-utf-8-for-non-english-characters.html) - UTF-8 with Skandanavian characters
 
-- [aanug.dk](http://aanug.dk/?tag=/ironpython) - announcement for [IronPython](IronPython) presentation in Danish in November, 2009 [XXX - update report on this after event]
+- [aanug.dk](http://aanug.dk/?tag=/ironpython) - announcement for [IronPython](../implementations/IronPython) presentation in Danish in November, 2009 [XXX - update report on this after event]
 
 - [forum](http://www.eksperten.dk/spm/886001) - windows console problem with non-ascii
 
@@ -46,7 +46,7 @@ Where these pages really need help:
 
 - [macbay.dk](http://www.macbay.dk/key/agNyYnlyDAsSBFBvc3QYutQQDA#agNyYnlyDAsSBFBvc3QYj80QDA) - Macintosh forum - sympy - math, differential calculus
 
-- [channel9.msdn](http://channel9.msdn.com/posts/martinesmann/IronPython-en-snig-prmiere/) - [IronPython](IronPython)-en-snig-prmiere (video)
+- [channel9.msdn](http://channel9.msdn.com/posts/martinesmann/IronPython-en-snig-prmiere/) - [IronPython](../implementations/IronPython)-en-snig-prmiere (video)
 
 [Wikipedia](http://da.wikipedia.org/wiki/Python_(programmeringssprog))
 

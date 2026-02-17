@@ -8,10 +8,10 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - #acl MembersGroup:read
 
-- [NaomiCeder](NaomiCeder)
+- [NaomiCeder](../people/NaomiCeder)
 
 - [KushalDas](./KushalDas.html)
 
-- [BrunoRocha](BrunoRocha)
+- [BrunoRocha](../people/BrunoRocha)
 
 - [OliviaSauls](./OliviaSauls.html)

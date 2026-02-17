@@ -111,7 +111,7 @@ The above numbers were produced on an Intel Core i7 3770k running Python 2.7.6 (
 
 ### Requests 
 
-- documentation on using re with [Unicode](Unicode) ..?
+- documentation on using re with [Unicode](../archive/Unicode) ..?
 
 ### Problem? 
 

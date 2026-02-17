@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This page originated as an essay [MichaelTobis](MichaelTobis) posted [http://groups.google.com/group/comp.lang.python/msg/06d6b58b963fa10e](http://groups.google.com/group/comp.lang.python/msg/06d6b58b963fa10e) on Usenet.
+This page originated as an essay [MichaelTobis](../people/MichaelTobis) posted [http://groups.google.com/group/comp.lang.python/msg/06d6b58b963fa10e](http://groups.google.com/group/comp.lang.python/msg/06d6b58b963fa10e) on Usenet.
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ To be fair the same is at least partly true for Java ( though supporting JNI cod
 
 The distributed / HPC packages may also be worth noting - PyMPI and [PyGlobus](./PyGlobus.html).\"
 
-[CameronLaird](CameronLaird) focused on a few details in a follow-up [http://groups.google.com/group/comp.lang.python/msg/39906e2430f72925](http://groups.google.com/group/comp.lang.python/msg/39906e2430f72925)
+[CameronLaird](../people/CameronLaird) focused on a few details in a follow-up [http://groups.google.com/group/comp.lang.python/msg/39906e2430f72925](http://groups.google.com/group/comp.lang.python/msg/39906e2430f72925)
 
 comp.lang.fortran responded to the essay in a long and contentious thread [http://groups.google.com/group/comp.lang.fortran/browse_thread/thread/e772dd0847d445c/](http://groups.google.com/group/comp.lang.fortran/browse_thread/thread/e772dd0847d445c/) that brought out needs for specific explanations of Python\'s advantages in testing, as well as differential affection for Ruby (!).
 

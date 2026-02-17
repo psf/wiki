@@ -99,7 +99,7 @@ After having spent much time with Groovy/Java, and a bit with Ruby and a bit wit
 
 [Benchmarking JSR-223: JRuby, Rhino, Groovy and Jython](http://tiagofernandez.blogspot.com/2009/12/benchmarking-jsr-223-jruby-rhino-groovy.html) - Tiago Fernandez
 
-The idea of this post is to evaluate similar implementations done in Ruby, [JavaScript](JavaScript), Groovy and Python through JSR-223\'s API using the corresponding scripting engines (i.e. JRuby, Rhino, Groovy and Jython). [Read More](http://tiagofernandez.blogspot.com/2009/12/benchmarking-jsr-223-jruby-rhino-groovy.html)
+The idea of this post is to evaluate similar implementations done in Ruby, [JavaScript](../../../modules/JavaScript), Groovy and Python through JSR-223\'s API using the corresponding scripting engines (i.e. JRuby, Rhino, Groovy and Jython). [Read More](http://tiagofernandez.blogspot.com/2009/12/benchmarking-jsr-223-jruby-rhino-groovy.html)
 
 [Kettle + JRuby/Jython/Groovy(JSR 223) = True](http://forums.pentaho.org/showthread.php?t=74137) - Raphael Valyi
 

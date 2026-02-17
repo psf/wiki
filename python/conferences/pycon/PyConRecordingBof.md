@@ -45,15 +45,15 @@ Or, post them to the pycon-av mailing list: subscribe at \<[http://mail.python.o
 
 Please add your name if you\'re interested.
 
-- [AndrewKuchling](AndrewKuchling) (amk at amk.ca)
+- [AndrewKuchling](../../people/AndrewKuchling) (amk at amk.ca)
 
-- [ChrisCalloway](ChrisCalloway) (cbc at unc dot edu; willing to work on capture, edit, encode, upload after [PyCon](PyCon), not during)
+- [ChrisCalloway](../../people/ChrisCalloway) (cbc at unc dot edu; willing to work on capture, edit, encode, upload after [PyCon](PyCon), not during)
 
-- [KevinCole](KevinCole) (kevin dot cole plus pc2008 at gallaudet dot edu)
+- [KevinCole](../../people/KevinCole) (kevin dot cole plus pc2008 at gallaudet dot edu)
 
 - [ChrisChurch](./ChrisChurch.html) (flyingfred0 at gmail dot com)
 
-- [SheilaMiguez](SheilaMiguez) (shekay at gmail com, shekay google talk, skay on irc.freenode.net)
+- [SheilaMiguez](../../people/SheilaMiguez) (shekay at gmail com, shekay google talk, skay on irc.freenode.net)
 
 - [JeffHinrichs](./JeffHinrichs.html) (jeffh at dundeemt dot com)
 

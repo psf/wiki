@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Page started at [PyCon](PyCon) 2015 for cross-distro collaboration on Python 3 Linux distro porting status.
+Page started at [PyCon](../conferences/pycon/PyCon) 2015 for cross-distro collaboration on Python 3 Linux distro porting status.
 
 Ubuntu status: [https://bugs.launchpad.net/ubuntu/+bugs?field.tag=python3](https://bugs.launchpad.net/ubuntu/+bugs?field.tag=python3)
 

@@ -26,11 +26,11 @@ The buses\...
 
 **Famous sites to visit here at the #python wiki:**
 
-**[FrontPage](FrontPage)**\
+**[FrontPage](../people/FrontPage)**\
 
 - The main index page into this wiki site.
 
-**[BeginnersGuide](BeginnersGuide)**\
+**[BeginnersGuide](../getting-started/BeginnersGuide)**\
 
 - A good place to start, if you want to use [Python](Python).
 

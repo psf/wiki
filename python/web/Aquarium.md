@@ -29,7 +29,7 @@ Python versions
 
 ### Deployment Platforms 
 
-CGI, [ModPython](ModPython), FastCGI and custom python-based web servers are supported via Web Server Adaptor classes, as is its own Web server, Glass. WSGI support is currently in CVS.
+CGI, [ModPython](../people/ModPython), FastCGI and custom python-based web servers are supported via Web Server Adaptor classes, as is its own Web server, Glass. WSGI support is currently in CVS.
 
 ### Suitability 
 

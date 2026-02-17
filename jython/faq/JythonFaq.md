@@ -23,7 +23,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - **[JythonFaq/InstallingJython](JythonFaq/InstallingJython)**
 
-  - Why do I get [NoClassDefFoundError](NoClassDefFoundError) when running the installer
+  - Why do I get [NoClassDefFoundError](../about/NoClassDefFoundError) when running the installer
 
   - Why can\'t I use \"from java import \...\" on Windows?\"
 

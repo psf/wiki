@@ -18,7 +18,7 @@ BioImageXD ( [http://www.bioimagexd.net](http://www.bioimagexd.net) ) Free, open
 
 ------------------------------------------------------------------------
 
-[BitPim](BitPim) ([http://www.bitpim.org](http://www.bitpim.org)) is a program that allows you to view and manipulate data on many CDMA phones from LG, Samsung, Sanyo and other manufacturers. [BitPim](BitPim) is developed in wxPython by Roger Binns.
+[BitPim](../../implementations/BitPim) ([http://www.bitpim.org](http://www.bitpim.org)) is a program that allows you to view and manipulate data on many CDMA phones from LG, Samsung, Sanyo and other manufacturers. [BitPim](../../implementations/BitPim) is developed in wxPython by Roger Binns.
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ Diagnil ([http://blueherons.org/diagnil/diagnil.html](http://blueherons.org/diag
 ------------------------------------------------------------------------
 
 [DrawBot](DrawBot) - [http://just.letterror.com/ltrwiki/DrawBot](http://just.letterror.com/ltrwiki/DrawBot)\
-Author: [JustVanRossum](JustVanRossum)\
+Author: [JustVanRossum](../../archive/JustVanRossum)\
 \
 [DrawBot](./DrawBot.html) is a simple application for MacOSX that allows you to write simple Python scripts that generate two-dimensional graphics. The builtin graphics primitives are currently pretty braindead, it currently only supports rectangles, ovals and (bezier) paths and polygons. A future version will also support text and images. Note that [/DrawBot](./MacPython(2f)MacSoftwareUsingPython(2f)DrawBot.html) can export PDF to files and clipboard, so you can bring your [/DrawBot](./MacPython(2f)MacSoftwareUsingPython(2f)DrawBot.html) creations right into applications such as Adobe® Illustrator® as vectors!
 
@@ -75,10 +75,10 @@ Golly ([http://golly.sourceforge.net](http://golly.sourceforge.net)) is an open 
 
 ------------------------------------------------------------------------
 
-[NodeBox](NodeBox) - [http://nodebox.net/](http://nodebox.net/)\
+[NodeBox](../../people/NodeBox) - [http://nodebox.net/](http://nodebox.net/)\
 Author: [FrederikDeBleser](./FrederikDeBleser.html)\
 \
-[NodeBox](NodeBox) is a Mac OS X application that lets you create 2D visuals (static, animated or interactive) using Python and export them as a PDF or [QuickTime](./QuickTime.html) movie. A great number of libraries are available for importing SVG files, doing Google searches, bezier editing or manipulating images using Core Image (which is hardware accelerated). [NodeBox](NodeBox) is actively being developed, free and very well documented, and we have a nice community that can answer all your questions.
+[NodeBox](../../people/NodeBox) is a Mac OS X application that lets you create 2D visuals (static, animated or interactive) using Python and export them as a PDF or [QuickTime](./QuickTime.html) movie. A great number of libraries are available for importing SVG files, doing Google searches, bezier editing or manipulating images using Core Image (which is hardware accelerated). [NodeBox](../../people/NodeBox) is actively being developed, free and very well documented, and we have a nice community that can answer all your questions.
 
 ------------------------------------------------------------------------
 
@@ -95,14 +95,14 @@ PySolFC/PySol Fan Club ([http://pysolfc.sourceforge.net/](http://pysolfc.sourcef
 ------------------------------------------------------------------------
 
 RegexPlor - [http://python.net/\~gherman/RegexPlor.html](http://python.net/~gherman/RegexPlor.html)\
-Author: [DinuGherman](DinuGherman)\
+Author: [DinuGherman](../../people/DinuGherman)\
 \
 [RegexPlor](./RegexPlor.html) is a tool for interactively exploring regular expressions. It provides a graphic frontend for experimenting with such regular expressions in a intuitive way. You can edit an input text as well as a regular expression as well as colors for matched text, etc. and study various effects at every keystroke. This is a much more convenient way of hunting down the one expression you\'re after, without typing any code at all in the usual trial-and-error method.
 
 ------------------------------------------------------------------------
 
 [ReSTedit](./ReSTedit.html) - [http://python.net/\~gherman/ReSTedit.html](http://python.net/~gherman/ReSTedit.html)\
-Author: [DinuGherman](DinuGherman)\
+Author: [DinuGherman](../../people/DinuGherman)\
 \
 [ReSTedit](./ReSTedit.html) is a GUI tool for editing and interactivly exploring texts in the [/ReStructuredText](./MacPython(2f)MacSoftwareUsingPython(2f)ReStructuredText.html) format (or ReST) as introduced by the Docutils project. Despite being very simple ReSTedit is very useful for quickly checking if Docutils renders some text as you would expect it. You only paste it into a ReSTedit window to see if it\'s ok or not, without writing any test code around it. See a sample movie.
 
@@ -111,7 +111,7 @@ Author: [DinuGherman](DinuGherman)\
 [SolarWolf](./SolarWolf.html) - [http://pygame.org/shredwheat/solarwolf/](http://pygame.org/shredwheat/solarwolf/)\
 
 Author: [PeteShinners](./PeteShinners.html)\
-OS X Maintainer: [BobIppolito](BobIppolito)\
+OS X Maintainer: [BobIppolito](../../people/BobIppolito)\
 \
 [SolarWolf](./SolarWolf.html) is an action/arcade game written entirely in Python. It is entirely opensource and free, created with the Pygame game development library.
 
@@ -123,7 +123,7 @@ Task Coach ([http://www.taskcoach.org](http://www.taskcoach.org)), a to-do organ
 
 [TomatoTorrent](./TomatoTorrent.html) - [http://sarwat.net/bittorrent/](http://sarwat.net/bittorrent/)\
 
-Author: [SarwatKhan](SarwatKhan) (based on the original [BitTorrent](./BitTorrent.html), by [BramCohen](./BramCohen.html)).\
+Author: [SarwatKhan](../../people/SarwatKhan) (based on the original [BitTorrent](./BitTorrent.html), by [BramCohen](./BramCohen.html)).\
 \
 The main goal of this project was to separate the [/BitTorrent](./MacPython(2f)MacSoftwareUsingPython(2f)BitTorrent.html) code from the Macintosh code, so that either can be updated without having to modify the other. It supports torrent generation from the user interface, remembers recent downloads, shows detailed statistics and torrent information, can launch a torrent tracker, supports unicode, etc.
 

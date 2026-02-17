@@ -12,17 +12,17 @@ CheeseShop is a secret code name for the **Python Package Index** also known as 
 
 ## Further information 
 
-- [CheeseShopTutorial](CheeseShopTutorial) explains how to use Package Index and upload your packages
+- [CheeseShopTutorial](../archive/CheeseShopTutorial) explains how to use Package Index and upload your packages
 
 - [PyPIJSON](PyPIJSON) describes JSON interface to access PyPI from applications
 
 - [CheeseShopXmlRpc](CheeseShopXmlRpc) describes XML-RPC interface to access PyPI from applications
 
-- [CheeseShopDev](CheeseShopDev) contains all necessary information to help PyPI get better
+- [CheeseShopDev](../archive/CheeseShopDev) contains all necessary information to help PyPI get better
 
 - [PyPI source on GitHub](https://github.com/pypa/warehouse/)
 
-- [PyPiImplementations](PyPiImplementations) page lists alternative implementations of Python package catalogs
+- [PyPiImplementations](../archive/PyPiImplementations) page lists alternative implementations of Python package catalogs
 
 ## Trivia 
 

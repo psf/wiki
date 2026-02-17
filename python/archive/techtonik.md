@@ -92,7 +92,7 @@ GSoC/Help needed for tools that support Python development:
   - this will allow to track changes in repository on a module level
   - this will allow to find out where a file belongs to
 
-- [HighScore](HighScore)
+- [HighScore](../people/HighScore)
 
 Just a list:
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This page should help beginners decide which of the many libraries for [GuiProgramming](GuiProgramming) is best for their particular needs.
+This page should help beginners decide which of the many libraries for [GuiProgramming](../gui/GuiProgramming) is best for their particular needs.
 
 # Features 
 

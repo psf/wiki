@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page discuss the way to separate the metadata in a static PKG-INFO like file.
 
-- use the distutils.dist.[DistutilsMetadata](DistutilsMetadata) as a basis to think about a read/write API [an example](http://bugs.python.org/file12746/get_metadata.diff)
+- use the distutils.dist.[DistutilsMetadata](../DistutilsMetadata) as a basis to think about a read/write API [an example](http://bugs.python.org/file12746/get_metadata.diff)
 
   - \- implemented in distutils2.metadata.[DistributionMetadata](./DistributionMetadata.html)
 
@@ -31,7 +31,7 @@ In particular, we proposed the following changes:
 - Allow expansion of values using \'\${key:value}\' semantics from other sections.
   - Alternative: When passing arguments to commands, pass the whole
 
-    \'[ConfigParser](ConfigParser)\' (to allow pulling in config from other commands / sections. This is more general, so maybe a \"better\" choice, but might break backward-compatibility with out-of-core commands.
+    \'[ConfigParser](../../language/ConfigParser)\' (to allow pulling in config from other commands / sections. This is more general, so maybe a \"better\" choice, but might break backward-compatibility with out-of-core commands.
 
 - Add new distutils commands, each with their own sections in \'setup.cfg\' (these sections would break out files currently labeled only as \'data\' into categories more useful to downstream packageers).
   - \'install_docs\'
@@ -44,7 +44,7 @@ In particular, we proposed the following changes:
 
     See [http://hg.python.org/distutils2/file/tip/docs/design/wiki.rst](http://hg.python.org/distutils2/file/tip/docs/design/wiki.rst) ---ÉA
 
-- Add a distutils command which generates [ConfigParser](ConfigParser) section text (on \'sys.stdout\') based on values passed to \'setup()\'. This command would provide a migration path for existing distributions, who would capture the output to a file, review it, and then concatenate it onto their \'setup.cfg\'.
+- Add a distutils command which generates [ConfigParser](../../language/ConfigParser) section text (on \'sys.stdout\') based on values passed to \'setup()\'. This command would provide a migration path for existing distributions, who would capture the output to a file, review it, and then concatenate it onto their \'setup.cfg\'.
 
 - Eventually, the only thing in \'setup.py\' for the majority of packages would be:
   - try:

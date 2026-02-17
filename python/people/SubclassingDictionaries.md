@@ -49,8 +49,8 @@ The `__slots__` line indicates that Msg has no attributes of its own, preserving
 
 ## See Also 
 
-[Python-2.2](../archive/Python-2.2), [SubclassingBuiltInTypes](SubclassingBuiltInTypes), [UsingSlots](UsingSlots)
+[Python-2.2](../archive/Python-2.2), [SubclassingBuiltInTypes](../archive/SubclassingBuiltInTypes), [UsingSlots](UsingSlots)
 
 ## Questions 
 
-- Is this bad Python-2.2 code? Make improvements..! I *do* think it\'s worth showing how to use slots in the context of subclassing dict; In many cases, I think, people would want to do it. I *do* wonder if slots should be specified before or after the initializer- something to put on the [UsingSlots](UsingSlots) page. \-- [LionKimbro](LionKimbro) 2003-09-07 17:07:24 [lwickjr](lwickjr): Before, I think, collected with the other declaritives.
+- Is this bad Python-2.2 code? Make improvements..! I *do* think it\'s worth showing how to use slots in the context of subclassing dict; In many cases, I think, people would want to do it. I *do* wonder if slots should be specified before or after the initializer- something to put on the [UsingSlots](UsingSlots) page. \-- [LionKimbro](LionKimbro) 2003-09-07 17:07:24 [lwickjr](../archive/lwickjr): Before, I think, collected with the other declaritives.

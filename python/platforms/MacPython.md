@@ -76,43 +76,43 @@ MacPython projects (that have additional information available on this wiki):
 
 MacPython contributors and module authors (incomplete list, in no particular order, of course):
 
-- [JackJansen](JackJansen)
+- [JackJansen](../people/JackJansen)
 
-- [RonaldOussoren](RonaldOussoren)
+- [RonaldOussoren](../people/RonaldOussoren)
 
-- [BobIppolito](BobIppolito)
+- [BobIppolito](../people/BobIppolito)
 
-- [SarwatKhan](SarwatKhan)
+- [SarwatKhan](../people/SarwatKhan)
 
-- [DinuGherman](DinuGherman)
+- [DinuGherman](../people/DinuGherman)
 
-- [GlennAndreas](GlennAndreas)
+- [GlennAndreas](../people/GlennAndreas)
 
-- [AdamVandenberg](AdamVandenberg)
+- [AdamVandenberg](../people/AdamVandenberg)
 
-- [AndrewShearer](AndrewShearer)
+- [AndrewShearer](../people/AndrewShearer)
 
-- [MarkPilgrim](MarkPilgrim)
+- [MarkPilgrim](../people/MarkPilgrim)
 
-- [JustVanRossum](JustVanRossum)
+- [JustVanRossum](../archive/JustVanRossum)
 
-- [ErikVanBlokland](ErikVanBlokland)
+- [ErikVanBlokland](../archive/ErikVanBlokland)
 
 - [TalLeming](./TalLeming.html)
 
-- [BillBumgarner](BillBumgarner)
+- [BillBumgarner](../people/BillBumgarner)
 
 - [SteveMajewski](./SteveMajewski.html)
 
 - [LeleGaifax](./LeleGaifax.html)
 
-- [DonovanPreston](DonovanPreston)
+- [DonovanPreston](../people/DonovanPreston)
 
-- [MichaelHudson](MichaelHudson)
+- [MichaelHudson](../people/MichaelHudson)
 
-- [HamishSanderson](HamishSanderson)
+- [HamishSanderson](../people/HamishSanderson)
 
-- [PatrickReilly](PatrickReilly)
+- [PatrickReilly](../people/PatrickReilly)
 
 ------------------------------------------------------------------------
 

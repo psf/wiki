@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Aside from the official CPython distribution available from python.org, other distributions based on CPython include the following:
 
-- [ActivePython](http://www.activestate.com/activepython) from [ActiveState](ActiveState)
+- [ActivePython](http://www.activestate.com/activepython) from [ActiveState](../platforms/ActiveState)
 
 - [Anaconda](https://store.continuum.io/cshop/anaconda/) from Continuum Analytics
 
@@ -28,7 +28,7 @@ Aside from the official CPython distribution available from python.org, other di
 
 - [PyIMSL Studio](PyIMSL Studio)
 
-- [PyPy](PyPy): a Python implementation in Python.
+- [PyPy](../implementations/PyPy): a Python implementation in Python.
 
 - [Python(x,y)](https://python-xy.github.io/): Python(x,y) is a scientific-oriented Python Distribution based on Qt, Eclipse and [Spyder](https://www.spyder-ide.org/)
 
@@ -38,7 +38,7 @@ Aside from the official CPython distribution available from python.org, other di
 
 - [PythonwarePython](PythonwarePython)
 
-- [StacklessPython](StacklessPython)
+- [StacklessPython](../people/StacklessPython)
 
 - [Tiny Python](http://web.archive.org/web/20060326191953/http://www.mhuffman.com/resource/index.html) (archived link) - not to be confused with tinypy
 
@@ -46,6 +46,6 @@ Aside from the official CPython distribution available from python.org, other di
 
 See also:
 
-- [EmbeddedPython](EmbeddedPython) for details of minimal or reduced size Python distributions and implementations.
+- [EmbeddedPython](../people/EmbeddedPython) for details of minimal or reduced size Python distributions and implementations.
 
 - The master list of [Python implementations](implementation).

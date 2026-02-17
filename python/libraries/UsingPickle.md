@@ -59,7 +59,7 @@ See [the pickle documentation](https://docs.python.org/3/library/pickle.html#dat
 
 ## Contributors 
 
-[LionKimbro](LionKimbro), [IanBicking](IanBicking), [lwickjr](lwickjr)
+[LionKimbro](../people/LionKimbro), [IanBicking](../people/IanBicking), [lwickjr](../archive/lwickjr)
 
 ## Discussion 
 
@@ -73,4 +73,4 @@ For this reason, you should be wary of using pickles for long-term storage where
 
 A more robust approach would be to perform step one above, and just leave it at that, in case you missed a pickle or two. If desired, you can then perform step 3 after you judge normal processing to have performed step 2 for you, say, a couple years later. ![;)](/wiki/europython/img/smile4.png ";)")
 
-Awkward, but it works. Anyone have any ideas for a better way to do this? \--[lwickjr](lwickjr)
+Awkward, but it works. Anyone have any ideas for a better way to do this? \--[lwickjr](../archive/lwickjr)

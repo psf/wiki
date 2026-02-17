@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Thanks to all who participated! Here\'s my blog with the report: [http://www.artima.com/weblogs/viewpost.jsp?thread=173453](http://www.artima.com/weblogs/viewpost.jsp?thread=173453)
 
-Below is the list of Py3k tasks we worked on (or wanted to work on) at the [GoogleSprint](GoogleSprint).
+Below is the list of Py3k tasks we worked on (or wanted to work on) at the [GoogleSprint](../people/GoogleSprint).
 
 ## Suggested Tasks 
 
@@ -30,7 +30,7 @@ Below is the list of Py3k tasks we worked on (or wanted to work on) at the [Goog
 
 ## Claimed Tasks 
 
-- [Py3kConversionTools](Py3kConversionTools): Work on tool to help convert (flag keywords like with/as, removed functions/methods: apply/{}.iter\*/{}.has_key/etc) (Jeremy Hylton)
+- [Py3kConversionTools](../py3/Py3kConversionTools): Work on tool to help convert (flag keywords like with/as, removed functions/methods: apply/{}.iter\*/{}.has_key/etc) (Jeremy Hylton)
 
 - Work on the new I/O library (I have much interest in this but need help \-- Guido); you can check [http://sebulba.wikispaces.com/project+iostack+v2](http://sebulba.wikispaces.com/project+iostack+v2) for a reference on what was generally agreed in the py3k list. (Hasan, Charles)
 

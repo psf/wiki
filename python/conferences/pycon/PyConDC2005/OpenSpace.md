@@ -32,7 +32,7 @@ Bring your Python questions or library/package questions and we\'ll answer them 
 
 ## Friday, 11:00 
 
-(Opposite \"Python for Series 60 Phones\", \"[PyLucene](PyLucene): Pulling Java Lucene into Python\", and \"Yarn: Working with Messages in Diverse Formats and Protocols\")
+(Opposite \"Python for Series 60 Phones\", \"[PyLucene](../../../people/PyLucene): Pulling Java Lucene into Python\", and \"Yarn: Working with Messages in Diverse Formats and Protocols\")
 
 **3D Graphics & Rendering BoF**
 
@@ -58,7 +58,7 @@ What is it? What\'s new? When the bleep will it be ready?
 
 **[PyDotOrg](./PyDotOrg.html) BoF**
 
-- *[AndrewKuchling](AndrewKuchling)*
+- *[AndrewKuchling](../../../people/AndrewKuchling)*
 
 Discussion of future plans for python.org changes
 
@@ -240,7 +240,7 @@ I show a simple set of classes that allow different Python programs to send to e
 
 How to use Python to introduce beginners to CS.
 
-See notes at [PythonAsaFirstLanguage](PythonAsaFirstLanguage)
+See notes at [PythonAsaFirstLanguage](../../../archive/PythonAsaFirstLanguage)
 
 (310 Front)
 
@@ -258,11 +258,11 @@ See notes at [PythonAsaFirstLanguage](PythonAsaFirstLanguage)
 
 (Opposite \"Durus: A Persistence System\" and \"How to Insure Your Book Collection\")
 
-**[SchoolTool](SchoolTool) & CanDO**
+**[SchoolTool](../../../people/SchoolTool) & CanDO**
 
 - *Tom Hoffman, Alan Elkner*
 
-Discuss interaction of [CanDo](CanDo) competency tracker with [SchoolTool](SchoolTool)
+Discuss interaction of [CanDo](../../../people/CanDo) competency tracker with [SchoolTool](../../../people/SchoolTool)
 
 (310 Front)
 
@@ -284,7 +284,7 @@ BoF Python Implementations
 
 - Holger, Jim
 
-Talk about [PyPy](PyPy), [IronPython](IronPython), Jython, CPython - Cooperation
+Talk about [PyPy](../../../implementations/PyPy), [IronPython](../../../implementations/IronPython), Jython, CPython - Cooperation
 
 (310 Back)
 
@@ -322,6 +322,6 @@ GPG Key Signing Session
 
 - *Kirby Urner*
 
-[HyperToons](HyperToons): continuous play in randomly linked network of animations
+[HyperToons](../../../people/HyperToons): continuous play in randomly linked network of animations
 
 \(310\)

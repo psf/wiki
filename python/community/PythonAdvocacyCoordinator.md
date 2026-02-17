@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-In mid-2006, the PSF agreed to hire [JeffreyRush](JeffreyRush) for full-time work on [Advocacy](Advocacy). The contract was renewed for another six months starting March 15, 2007, along with a [list of tasks to tackle](http://www.python.org/psf/grants/advocacy/revised-tasks.pdf).
+In mid-2006, the PSF agreed to hire [JeffreyRush](../people/JeffreyRush) for full-time work on [Advocacy](Advocacy). The contract was renewed for another six months starting March 15, 2007, along with a [list of tasks to tackle](http://www.python.org/psf/grants/advocacy/revised-tasks.pdf).
 
 ------------------------------------------------------------------------
 

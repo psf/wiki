@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Web Components 
 
-For use with some of the frameworks listed on [WebFrameworks](WebFrameworks), the components/libraries/toolkits on this page often attempt to solve common problems in a way that can work with more than one particular framework; the idea being that you choose the component which does a particular job and it hopefully works with the framework you\'re developing your application in.
+For use with some of the frameworks listed on [WebFrameworks](../web/WebFrameworks), the components/libraries/toolkits on this page often attempt to solve common problems in a way that can work with more than one particular framework; the idea being that you choose the component which does a particular job and it hopefully works with the framework you\'re developing your application in.
 
 ## Authorization Toolkits 
 
@@ -58,7 +58,7 @@ A dispatcher takes the requests (i.e. the URL that a user types in) and then pro
 
 ## Templating Engines 
 
-Templating engines allow you to separate your application code from the presentation. Many of these engines can be used alone or within a high-level framework. A more extensive list can be found on the [Templating](Templating) page.
+Templating engines allow you to separate your application code from the presentation. Many of these engines can be used alone or within a high-level framework. A more extensive list can be found on the [Templating](../archive/Templating) page.
 
 - [wheezy.template](https://bitbucket.org/akorn/wheezy.template) is written in pure Python code. It is a lightweight template library. The design goals achived:
 
@@ -77,7 +77,7 @@ Templating engines allow you to separate your application code from the presenta
 
 - [Ophelia](http://www.thomas-lotze.de/en/software/ophelia/) (0.3 Released 2007-07-06) Generates XHTML pages from TAL templates. This avoids repetitive code, allows the site content to reside in the file system instead of a database, and lets Python scripts make the content dynamic.
 
-- [JonsPythonModules](JonsPythonModules) (1.06 Released 2004-04-11) a set of simple yet powerful multi-threaded object-oriented CGI/FastCGI/mod_python/html-templating modules for Python
+- [JonsPythonModules](../archive/JonsPythonModules) (1.06 Released 2004-04-11) a set of simple yet powerful multi-threaded object-oriented CGI/FastCGI/mod_python/html-templating modules for Python
 
 - [Cheetah](http://www.cheetahtemplate.org/) - Cheetah is a Python-powered template engine and code generator. It may be used as a standalone utility or combined with other tools.
 

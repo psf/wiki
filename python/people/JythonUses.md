@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-What follows is the abstract for a proposal I submitted to [PyCon](PyCon) 2003. Perhaps someone would like to help fill it out with examples. \-- [TomBryan](TomBryan)
+What follows is the abstract for a proposal I submitted to [PyCon](../conferences/pycon/PyCon) 2003. Perhaps someone would like to help fill it out with examples. \-- [TomBryan](TomBryan)
 
 ## Introduction 
 

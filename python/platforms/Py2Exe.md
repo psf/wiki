@@ -28,7 +28,7 @@ Problem 2
 
 - [py2exe home page and wiki](http://www.py2exe.org)
 
-- [DistributionUtilities](DistributionUtilities)
+- [DistributionUtilities](../people/DistributionUtilities)
 
 ------------------------------------------------------------------------
 
@@ -46,19 +46,19 @@ No, we can\'t require our users to install something new. Everything has to just
 
 Try googling for \"freeze\". It\'s in the Python distribution (in fact, there\'s a FAQ section called [1.4 Where is Freeze for Windows?](http://python.org/doc/faq/windows.html#where-is-freeze-for-windows), waddayamean, is there a Py2Exe for Linux ;)).
 
-\-- [JohannesGijsbers](JohannesGijsbers)
+\-- [JohannesGijsbers](../people/JohannesGijsbers)
 
 Heh! Well, I just never saw anything about Freeze online. I googled for \"compile Python to executable\" and stuff like that, for about 30 minutes, and never saw a single mention of Freeze. \"If it\'s not on the net, it may well not exist,\" right?
 
-So, [Freeze](Freeze) will now have a place on the net: right here.
+So, [Freeze](../archive/Freeze) will now have a place on the net: right here.
 
 Score 1 for wiki. ![:)](/wiki/europython/img/smile.png ":)")
 
-\-- [LionKimbro](LionKimbro) 2004-08-30 03:43:57
+\-- [LionKimbro](../people/LionKimbro) 2004-08-30 03:43:57
 
 Why dont you make one yourself, it\'s probably not that hard\... \-- *anon*
 
-\"probably\"? Anon sounds like an optimist. \-- [RetrogradeOrbit](RetrogradeOrbit)
+\"probably\"? Anon sounds like an optimist. \-- [RetrogradeOrbit](../people/RetrogradeOrbit)
 
 One other idea, still playing around with it, is pyinstaller. [http://www.pyinstaller.org/](http://www.pyinstaller.org/). If you want a GUI for it, try [PythonCard](./PythonCard.html) [StandAloneBuilder](./StandAloneBuilder.html), [http://www.linux2000.org/pm.html](http://www.linux2000.org/pm.html). Seems like there might be some bugs, but some things seem to work seamlessly. \--Alestan
 

@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The [/PyObjC](./MacPython(2f)PyObjC(2f)PyObjC.html) project aims to provide a bridge between the Python and Objective-C programming languages. The bridge is intended to be fully bidirectional, allowing the Python programmer to take full advantage of the power provided by various Objective-C based toolkits and the Objective-C programmer transparent access to Python based functionality. What this really means is that you can write full fledged [\"Cocoa\"](http://developer.apple.com/cocoa) applications in pure Python.
 
-Currently developed by [RonaldOussoren](RonaldOussoren), [BillBumgarner](BillBumgarner), [SteveMajewski](./SteveMajewski.html), [JustVanRossum](JustVanRossum), [JackJansen](JackJansen), and others.
+Currently developed by [RonaldOussoren](../../people/RonaldOussoren), [BillBumgarner](../../people/BillBumgarner), [SteveMajewski](./SteveMajewski.html), [JustVanRossum](../../archive/JustVanRossum), [JackJansen](../../people/JackJansen), and others.
 
 # status
 

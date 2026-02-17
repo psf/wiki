@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Need to create a discussion / ask for help section(s).
 
-- Theme-related suggestions by [LionKimbro](LionKimbro) 2006-03-25 16:48:34:
+- Theme-related suggestions by [LionKimbro](../people/LionKimbro) 2006-03-25 16:48:34:
 
   - Replace current icons with more common images - for example, current edit icon `python.org/img/moin-edit.png`{.backtick} is hard to associate with action
 
@@ -20,7 +20,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - \"Toggle Line Numbers\" draws way too much attention to itself; *Especially* when you have only 2 or 3 lines of code! Remove it entirely, or make it much smaller, or (whatever.)
 
-    - Or use `numbers=disable`{.backtick} in the code regions. \-- [PaulBoddie](PaulBoddie) 2009-12-09 16:07:42
+    - Or use `numbers=disable`{.backtick} in the code regions. \-- [PaulBoddie](../people/PaulBoddie) 2009-12-09 16:07:42
 
   - Bullet point items are spread too far apart. Less white space above and below them.
 
@@ -36,13 +36,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Some ideas about the aims of this wiki:
 
-What I would like to use this Wiki for is for comparisons between Python packages. Most areas seem to have multiple solutions. Is it very unwiki to impose some structure like I did in [WebProgramming](WebProgramming) and trying to keep it up? [GuiProgramming](GuiProgramming) and [IntegratingPythonWithOtherLanguages](IntegratingPythonWithOtherLanguages) are also candidates for this kind of style. \-- [DanielDittmar](DanielDittmar) 2002-07-15 02:21:48
+What I would like to use this Wiki for is for comparisons between Python packages. Most areas seem to have multiple solutions. Is it very unwiki to impose some structure like I did in [WebProgramming](../web/WebProgramming) and trying to keep it up? [GuiProgramming](../gui/GuiProgramming) and [IntegratingPythonWithOtherLanguages](IntegratingPythonWithOtherLanguages) are also candidates for this kind of style. \-- [DanielDittmar](../people/DanielDittmar) 2002-07-15 02:21:48
 
 Imposing (widely accepted) structure is not unwiki, actually it is a goal of refactoring. Otherwise, you end up with a spaghetti wiki, i.e. chaos. \-- jh
 
 ------------------------------------------------------------------------
 
-Discussions about Python should be held on comp.lang.python and the SIGs, but it is OK to summarize those discussions in the wiki. \-- [DanielDittmar](DanielDittmar) 2002-07-15 02:21:48
+Discussions about Python should be held on comp.lang.python and the SIGs, but it is OK to summarize those discussions in the wiki. \-- [DanielDittmar](../people/DanielDittmar) 2002-07-15 02:21:48
 
 ***The entire point of a wiki is to capture discussion in such a way that it will be remembered IMO*** - dhl 20020716
 
@@ -57,11 +57,11 @@ What kind of conversation are we talking about?
 
 The only thing that annoys me are pages with questions for names. Instead, the page name should be the name of the piece, and then the question should appear on the page. That is, [How can \"normal\" users report bugs in Python or the documentation?](./How(20)can(2022)normal(2220)users(20)report(20)bugs(20)in(20)Python(20)or(20)the(20)documentation(3f).html) should be a page called [PythonDocumentation](PythonDocumentation), and then the question attached to *that* page.
 
-\-- [LionKimbro](LionKimbro) 2005-09-15 22:31:31 [\[lwickjr](./(5b)lwickjr.html): Sorry about that, Lion. :I \]
+\-- [LionKimbro](../people/LionKimbro) 2005-09-15 22:31:31 [\[lwickjr](./(5b)lwickjr.html): Sorry about that, Lion. :I \]
 
 ------------------------------------------------------------------------
 
-I think this Wiki would best serve as continuing from where standard Python documentation left off: showing examples of use, adding information about good packages not existing in the standard distribution, and talking about higher-level stuff like \'tips for parallel processing\'. Examples are very important for newcomers, and hey, many people like to learn new things first from examples, and dive into reference when details become important (including me). As for discussing Python in general, I think c.l.p is invaluable and needs no replacement - so I guess I\'m along the same lines as [DanielDittmar](DanielDittmar) and [JürgenHermann](JürgenHermann). \-- [EdvardMajakari](EdvardMajakari) 2005-09-15 15:14:13
+I think this Wiki would best serve as continuing from where standard Python documentation left off: showing examples of use, adding information about good packages not existing in the standard distribution, and talking about higher-level stuff like \'tips for parallel processing\'. Examples are very important for newcomers, and hey, many people like to learn new things first from examples, and dive into reference when details become important (including me). As for discussing Python in general, I think c.l.p is invaluable and needs no replacement - so I guess I\'m along the same lines as [DanielDittmar](../people/DanielDittmar) and [JürgenHermann](JürgenHermann). \-- [EdvardMajakari](../people/EdvardMajakari) 2005-09-15 15:14:13
 
 ------------------------------------------------------------------------
 

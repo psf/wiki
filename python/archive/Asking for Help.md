@@ -26,7 +26,7 @@ The page will be automatically added to the [longer questions](./Asking(20)for(2
 
 - I\'m new to python and I am just working with the idle-shell. How can I write a script without having python executing orders immediately after I type them into the shell? Follow-Up question: Having written the script, how do I run it in the interpreter?
 
-- I just installed [MacPython](MacPython). Unfortunately, it doesn\'t seem to include the [CoreGraphics](./CoreGraphics.html)-Python Module. Where ist my old system python? How can I uninstall [MacPython](MacPython)?
+- I just installed [MacPython](../platforms/MacPython). Unfortunately, it doesn\'t seem to include the [CoreGraphics](./CoreGraphics.html)-Python Module. Where ist my old system python? How can I uninstall [MacPython](../platforms/MacPython)?
 
 - Is there any way to get the environment from a subprocess.Popen created by python? In other words, if the new process updates its environment, is it possible to get access to the modifications. For example, in my case, I\'m executing MS Visual Studio\'s vsvars32.bat file and would like to access the modified PATH environment variable.
 
@@ -130,19 +130,19 @@ These questions will be moved to the [answered longer questions section](./Askin
 
 - This is an actual question. I have have a prototype for a python related website. Right now I am just running it off old PC ([http://66.32.187.134](http://66.32.187.134/)). Where could I host this site & and do you think this site would be helpful to the advancement of Python programming knowledge? Thanks. Father Jack
 
-  - Father Jack, you should look at the [PythonHosting](PythonHosting) page and consider some of the options presented there. Your site doesn\'t seem to be available, so it\'s hard to assess what its contribution to Python programming knowledge might be. \-- [PaulBoddie](PaulBoddie)
+  - Father Jack, you should look at the [PythonHosting](../libraries/PythonHosting) page and consider some of the options presented there. Your site doesn\'t seem to be available, so it\'s hard to assess what its contribution to Python programming knowledge might be. \-- [PaulBoddie](../people/PaulBoddie)
 
 - How can I programming the io ports (eg.: LPT) with Python?
-  - Have you tried using the [pyParallel](http://pyserial.sourceforge.net/pyparallel.html) module? \-- [DavidBoddie](DavidBoddie)
+  - Have you tried using the [pyParallel](http://pyserial.sourceforge.net/pyparallel.html) module? \-- [DavidBoddie](../people/DavidBoddie)
 
 - I was browsing the Python source code, trying to find out how str.strip() is implemented as a string method. I found string.py in the Lib directory, but that didn\'t seem to hold the answer. Could you please help me learn where to look?
   - Take a look in the `Objects`{.backtick} directory for built-in types. The `stringobject.c`{.backtick} file contains the implementations of string methods, and the `string_strip`{.backtick} function should provide some details of the underlying functions used to provide the `strip`{.backtick} method\'s functionality.
 
 - How (aside from reading gobs and gobs of source code) can I find out the asymptotic time behaviour of various primitive Python operations? For example, for list xs, does xs.append(x) take amortized O(1) time or O(n) time?
-  - Perhaps the [Time Complexity](TimeComplexity) page might offer some indications. \-- [PaulBoddie](PaulBoddie) 2011-03-26 23:34:53
+  - Perhaps the [Time Complexity](../language/TimeComplexity) page might offer some indications. \-- [PaulBoddie](../people/PaulBoddie) 2011-03-26 23:34:53
 
 - I\'m trying to build matplotlib-1.0.1 from the source, and I keep getting error: command gcc-4.2 failed with error status one. Any ideas?
-  - You might have to give a few more details including the circumstances and exact error message. Feel free to create a page showing the details using the \"Add a page for a question\" form at the top of this Wiki page. Alternatively, you may get better support by contacting the matplotlib developers directly, probably using one of the mailing lists. See the [matplotlib](http://matplotlib.sourceforge.net/) site for details of the different help options (currently listed under the \"Need help?\" sidebar). \-- [PaulBoddie](PaulBoddie) 2012-07-12 14:09:20
+  - You might have to give a few more details including the circumstances and exact error message. Feel free to create a page showing the details using the \"Add a page for a question\" form at the top of this Wiki page. Alternatively, you may get better support by contacting the matplotlib developers directly, probably using one of the mailing lists. See the [matplotlib](http://matplotlib.sourceforge.net/) site for details of the different help options (currently listed under the \"Need help?\" sidebar). \-- [PaulBoddie](../people/PaulBoddie) 2012-07-12 14:09:20
 
 ## Answered Longer Questions 
 

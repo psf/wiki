@@ -26,7 +26,7 @@ Funding was limited to an initial USD 500 for Amazon costs to see whether the pr
 
 - [Amazon AWS Getting Started Guide](http://docs.amazonwebservices.com/AmazonCloudFront/2010-11-01/GettingStartedGuide/)
 
-- [Developer Intro to the PyPI code](CheeseShopDev)
+- [Developer Intro to the PyPI code](../archive/CheeseShopDev)
 
 - [PyPI RPC interface](PyPIXmlRpc) (which we likely won\'t use, but gives an idea of how the meta data is stored)
 
@@ -44,13 +44,13 @@ We\'ve setup an example CDN which only provides caching services to the PyPI ser
 
 Implementation:
 
-- [Marc-André Lemburg](MarcAndreLemburg)
+- [Marc-André Lemburg](../archive/MarcAndreLemburg)
 
-- [Grig Gheorghiu](GrigGheorghiu)
+- [Grig Gheorghiu](../people/GrigGheorghiu)
 
-- [Neil Schemenauer](NeilSchemenauer)
+- [Neil Schemenauer](../people/NeilSchemenauer)
 
-- [Vern Ceder](VernCeder)
+- [Vern Ceder](../people/VernCeder)
 
 Helping with the PyPI code:
 

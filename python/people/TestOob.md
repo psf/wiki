@@ -44,8 +44,8 @@ Some of Testoob\'s features are:
 
 - [Cheeseshop location](http://www.python.org/pypi/testoob)
 
-- [Introduction to Unit Testing](http://diveintopython.org/unit_testing/index.html) from [DiveIntoPython](DiveIntoPython)
+- [Introduction to Unit Testing](http://diveintopython.org/unit_testing/index.html) from [DiveIntoPython](../archive/DiveIntoPython)
 
 - [PyUnit](PyUnit)
 
-- [UnitTests](UnitTests)
+- [UnitTests](../testing/UnitTests)

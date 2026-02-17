@@ -15,58 +15,58 @@ There are a variety of books about Python. Here\'s a guide to them:
 - [ReferenceBooks](ReferenceBooks) (much information in a small space)
 
 - Specific applications:
-  - [GameProgrammingBooks](GameProgrammingBooks)
+  - [GameProgrammingBooks](../multimedia/GameProgrammingBooks)
 
   - [NetworkProgrammingBooks](NetworkProgrammingBooks)
 
-  - [GuiBooks](GuiBooks)
+  - [GuiBooks](../gui/GuiBooks)
 
-  - [JythonBooks](JythonBooks)
+  - [JythonBooks](../people/JythonBooks)
 
-  - [ScientificProgrammingBooks](ScientificProgrammingBooks)
+  - [ScientificProgrammingBooks](../science/ScientificProgrammingBooks)
 
   - [SystemAdministrationBooks](SystemAdministrationBooks)
 
-  - [WebProgrammingBooks](WebProgrammingBooks)
+  - [WebProgrammingBooks](../web/WebProgrammingBooks)
 
-  - [WindowsBooks](WindowsBooks)
+  - [WindowsBooks](../platforms/WindowsBooks)
 
-  - [XmlBooks](XmlBooks)
+  - [XmlBooks](../people/XmlBooks)
 
-  - [ZopeBooks](ZopeBooks)
+  - [ZopeBooks](../web/ZopeBooks)
 
 - Books in languages other than English:
-  - [UkrainianPythonBooks](UkrainianPythonBooks)
+  - [UkrainianPythonBooks](../archive/UkrainianPythonBooks)
 
-  - [DutchPythonBooks](DutchPythonBooks)
+  - [DutchPythonBooks](../archive/DutchPythonBooks)
 
-  - [FrenchPythonBooks](FrenchPythonBooks)
+  - [FrenchPythonBooks](../archive/FrenchPythonBooks)
 
-  - [GermanPythonBooks](GermanPythonBooks)
+  - [GermanPythonBooks](../archive/GermanPythonBooks)
 
-  - [GreekPythonBooks](GreekPythonBooks)
+  - [GreekPythonBooks](../archive/GreekPythonBooks)
 
-  - [HungarianPythonBooks](HungarianPythonBooks)
+  - [HungarianPythonBooks](../archive/HungarianPythonBooks)
 
-  - [JapanesePythonBooks](JapanesePythonBooks)
+  - [JapanesePythonBooks](../archive/JapanesePythonBooks)
 
   - [KoreanPythonBooks](KoreanPythonBooks)
 
-  - [RussianPythonBooks](RussianPythonBooks)
+  - [RussianPythonBooks](../archive/RussianPythonBooks)
 
-  - [PersianPythonBooks](PersianPythonBooks)
+  - [PersianPythonBooks](../archive/PersianPythonBooks)
 
-  - [PolishPythonBooks](PolishPythonBooks)
+  - [PolishPythonBooks](../archive/PolishPythonBooks)
 
-  - [PortuguesePythonBooks](PortuguesePythonBooks)
+  - [PortuguesePythonBooks](../archive/PortuguesePythonBooks)
 
-  - [ArabicPythonBooks](ArabicPythonBooks)
+  - [ArabicPythonBooks](../archive/ArabicPythonBooks)
 
-  - [SpanishPythonBooks](SpanishPythonBooks)
+  - [SpanishPythonBooks](../archive/SpanishPythonBooks)
 
 When you see a book you like, don\'t hesitate to add your recommendation!
 
-There\'s also a [Courses](Courses) page, filled with links to video courses.
+There\'s also a [Courses](../archive/Courses) page, filled with links to video courses.
 
 External sources of information about (Python) books:
 
@@ -74,6 +74,6 @@ External sources of information about (Python) books:
 
 - [101+ Free Python Books](https://blog.finxter.com/free-python-books/) - You don\'t have to pay money to read great Python books. Many are free!
 
-- [Python Kindle & Paperback Collection](https://www.w3basic.com/python/python-books/) - A good collection of Kindle and Paperback books on Python 3, Django, Flask, FastAPI, and Scientific Computing ([NumPy](NumPy), [SciPy](SciPy), and Pandas)
+- [Python Kindle & Paperback Collection](https://www.w3basic.com/python/python-books/) - A good collection of Kindle and Paperback books on Python 3, Django, Flask, FastAPI, and Scientific Computing ([NumPy](../science/NumPy), [SciPy](SciPy), and Pandas)
 
-There is also a list of [OutOfPrintBooks](OutOfPrintBooks).
+There is also a list of [OutOfPrintBooks](../archive/OutOfPrintBooks).

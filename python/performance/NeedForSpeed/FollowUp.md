@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 These things still need attention:
 
-- The hotbuf branch will be completed after the sprint. I want to implement common parsing patterns (line delimited, netstrings) in C ([MartinBlais](MartinBlais)).
+- The hotbuf branch will be completed after the sprint. I want to implement common parsing patterns (line delimited, netstrings) in C ([MartinBlais](../../people/MartinBlais)).
 
 - The patch implementing optimizing out \"if 0\" still needs review.
 

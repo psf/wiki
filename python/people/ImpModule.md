@@ -81,7 +81,7 @@ Note that, you don\'t have to play by the rules. If you wanted to, you could hav
 
 ## See Also 
 
-- [ModulesAsPlugins](ModulesAsPlugins)
+- [ModulesAsPlugins](../archive/ModulesAsPlugins)
 
 - [Python documentation for imp module](http://docs.python.org/lib/module-imp.html)
 

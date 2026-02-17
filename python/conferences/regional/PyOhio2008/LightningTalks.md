@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Lightning Talks 
 
-A lightning talk is a short presentation of your choosing, no longer than five minutes. There is no approval process to give a lightning talk; speakers simply sign up here or at [PyOhio](PyOhio). The idea is borrowed from [PyCon](PyCon), where they are enormously popular.
+A lightning talk is a short presentation of your choosing, no longer than five minutes. There is no approval process to give a lightning talk; speakers simply sign up here or at [PyOhio](../PyOhio). The idea is borrowed from [PyCon](../../pycon/PyCon), where they are enormously popular.
 
-[PyOhio](PyOhio) will have one session of lightning talks, delivered one after another as fast as we can connect speakers to the projector. The fast pace makes for a stimulating and exciting session.
+[PyOhio](../PyOhio) will have one session of lightning talks, delivered one after another as fast as we can connect speakers to the projector. The fast pace makes for a stimulating and exciting session.
 
 Anybody can give a lightning talk. You can give a lightning talk on the same topic you present a poster on or convene an Open Space session on; in fact, that can make a very effective combination.
 

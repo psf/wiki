@@ -44,7 +44,7 @@ But perhaps there isn\'t.
 
 How do you import a module, once you have it\'s name?
 
-With the [ImpModule](ImpModule)! It dynamically loads named modules.
+With the [ImpModule](../people/ImpModule)! It dynamically loads named modules.
 
 :::: 
 ::: 

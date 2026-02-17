@@ -89,7 +89,7 @@ Kitty Hawk is not available during the day. OK in the evening.
 - Python Lab (Kitty Hawk, 7:30pm - 9:30pm)
 - [Board Game Social](./PyCon2008(2f)OpenSpace(2f)PyCon2008(2f)BoardGameEvent.html) (Kennedy, 7:00pm(TDB) - 11:00pm)
 - [Secrets of the Framework Creators Lab](SecretsFrameworkLab) (La Guardia Int\'l, 7:00pm - 9:00pm)
-- [Texas Pythoneers](TexasPythoneers) (Kennedy Int\'l, 5:45pm - 6:30pm)
+- [Texas Pythoneers](../../../people/TexasPythoneers) (Kennedy Int\'l, 5:45pm - 6:30pm)
 - PyCon Unwind (Templehof Int\'l, 7:00pm - 8:30pm)
 - EduPython BoF (Kai Tak Int\'l 8-11PM)
 - Overview of Bazaar VCS (Midway 8-9PM)

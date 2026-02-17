@@ -10,9 +10,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 More information about Python, including downloads of the latest or previous versions, is available from the [Python.org home page](http://www.python.org/).
 
-There is also the [PythonInfo](PythonInfo) wiki. See the [FrontPage](FrontPage) for more information.
+There is also the [PythonInfo](PythonInfo) wiki. See the [FrontPage](../people/FrontPage) for more information.
 
-If you want to use Python the [BeginnersGuide](BeginnersGuide) is a good place to start.
+If you want to use Python the [BeginnersGuide](../getting-started/BeginnersGuide) is a good place to start.
 
 ------------------------------------------------------------------------
 

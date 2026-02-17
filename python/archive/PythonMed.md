@@ -16,7 +16,7 @@ Biopython facilitates the use of Python for bioinformatics through high-quality,
 
 - compatible with Python 2 and 3
 
-- requires: [NumPy](NumPy)
+- requires: [NumPy](../science/NumPy)
 
 - License: [Biopython license](http://www.biopython.org/DIST/LICENSE)
 
@@ -42,7 +42,7 @@ kPAL is a [k]-mer [p]rofile [a]nalysis [l]ibrary. It can be used to count k-mers
 
 - compatible with Python 2 and 3
 
-- requires: [NumPy](NumPy), [h5py](http://www.h5py.org), [Biopython](PythonMed#Biopython)
+- requires: [NumPy](../science/NumPy), [h5py](http://www.h5py.org), [Biopython](PythonMed#Biopython)
 
 - License: MIT
 

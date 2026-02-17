@@ -78,7 +78,7 @@ The current entries are mostly taken from the home page of the projects.
 
 ### Comments 
 
-These are from users of the framework, those that tried and failed and those that tried multiple frameworks and then decided on one. Framework authors may reply to comments, but should use the [InTheirOwnWords](InTheirOwnWords) tag.
+These are from users of the framework, those that tried and failed and those that tried multiple frameworks and then decided on one. Framework authors may reply to comments, but should use the [InTheirOwnWords](../archive/InTheirOwnWords) tag.
 
 ### Hosting 
 

@@ -16,7 +16,7 @@ We need to refine and target this message.
 
 How does one go about demonstrating the agility of a programming language? What is agility anyway? Is there some sub-set of agility that represents what we \*really\* mean to link Python with? In what ways, specifically, is Python agile and/or more agile than other choices?
 
-***Agility** shall not be associated (in managers mind) with instability and/or immaturity of the language itself. However it\'s hard to achieve, because the term **agile** itself is pretty new and immature.* \-- [MikeRovner](MikeRovner) 2003-10-15 10:29:01
+***Agility** shall not be associated (in managers mind) with instability and/or immaturity of the language itself. However it\'s hard to achieve, because the term **agile** itself is pretty new and immature.* \-- [MikeRovner](../people/MikeRovner) 2003-10-15 10:29:01
 
 If we want Python to be strongly associated with agility, we should help our audience understand agility and buy in to agility in such a way that use of Python follows naturally. It\'s like when people in usenet discussions say \"X isn\'t a real Y because it doesn\'t have Z.\" What they really mean is \"I learned about Y in the context of a product that features Z.\"
 

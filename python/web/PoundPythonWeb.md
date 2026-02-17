@@ -30,13 +30,13 @@ That said, people keep asking for our opinions, so here they are:
 
 [JonRosebaugh](./JonRosebaugh.html) (Chairos) says \"Assuming you\'re interested in a MVC-style architecture, probably the most important consideration is how much support the framework has for [WSGI](http://www.python.org/peps/pep-0333.html), because WSGI is the direction Python web programming is heading in. Some frameworks enthusiastically embrace WSGI, some have superficial support, and some don\'t address it at all. I\'d recommend [Pylons](http://pylonshq.com/) (and [TurboGears](http://www.turbogears.org/), once TG2 is out). [Django](http://www.djangoproject.com/) is also good for apps that don\'t need too much in the way of flexibility.\"
 
-patx says \"I personally like Django. It lets me do everything I need to run all of my different Python web scripts. Google [AppEngine](AppEngine) is always good too. GAE lets meeasily use Django with my GAE scripts, making it \'double nice\'.\"
+patx says \"I personally like Django. It lets me do everything I need to run all of my different Python web scripts. Google [AppEngine](../people/AppEngine) is always good too. GAE lets meeasily use Django with my GAE scripts, making it \'double nice\'.\"
 
 If you\'d like to add your opinion, feel free to do so; if you\'d like to disagree with what one of us wrote here, the best place to do that is probably on the IRC channel.
 
 ### I need help with FooWeb framework! (Or: Why doesn\'t it work when I do bar?) 
 
-Well, we\'ll try to help. But we\'re not experts at everything, so don\'t be surprised if your question about running FooWeb through [mod_python](ModPython) on IRIX goes unanswered. There are times it may be better to seek out a community specific to your framework or toolkit.
+Well, we\'ll try to help. But we\'re not experts at everything, so don\'t be surprised if your question about running FooWeb through [mod_python](../people/ModPython) on IRIX goes unanswered. There are times it may be better to seek out a community specific to your framework or toolkit.
 
 Maybe there is also a channel for your framework. Here a list of known support channels on freenode:
 

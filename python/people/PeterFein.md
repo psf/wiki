@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [I wear pants](http://i.wearpants.org).
 
-Self appointed caretaker of [Concurrency](Concurrency) sub-community.
+Self appointed caretaker of [Concurrency](../language/Concurrency) sub-community.
 
 # Résumé 
 
@@ -46,7 +46,7 @@ I excel at using computers to solve real-world problems. I bridge the divide bet
 
 ## Open Source 
 
-I regularly attend and present at [ChiPy](ChiPy) and [PyCon](PyCon)
+I regularly attend and present at [ChiPy](ChiPy) and [PyCon](../conferences/pycon/PyCon)
 
 ### Software 
 

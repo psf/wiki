@@ -12,7 +12,7 @@ I have some web space to play with, and I want to use it to teach myself python 
 
 ------------------------------------------------------------------------
 
-If the Apache installation doesn\'t support [mod_wsgi](http://code.google.com/p/modwsgi/), and if you can\'t have long-running processes for various [Web frameworks](WebFrameworks), then you may have to start off deploying your application using CGI and then see how you get on. Fortunately, you can write WSGI applications and then decide how to deploy them - you won\'t need to rewrite everything - so not having mod_wsgi support isn\'t necessarily a problem. Once you have an application ready, or as you\'re testing your first \"hello world\" application, you just need to find a suitable program that can launch your WSGI code from a CGI environment.
+If the Apache installation doesn\'t support [mod_wsgi](http://code.google.com/p/modwsgi/), and if you can\'t have long-running processes for various [Web frameworks](../../web/WebFrameworks), then you may have to start off deploying your application using CGI and then see how you get on. Fortunately, you can write WSGI applications and then decide how to deploy them - you won\'t need to rewrite everything - so not having mod_wsgi support isn\'t necessarily a problem. Once you have an application ready, or as you\'re testing your first \"hello world\" application, you just need to find a suitable program that can launch your WSGI code from a CGI environment.
 
 For this launcher program, one thing to look at might be the [wsgiref](./stdlib(3a)wsgiref(2e)html.html) module that is available in Python from version 2.5 onwards. You can write a very simple program that uses `wsgiref`{.backtick} to launch your application, and the [CGI deployment instructions for Werkzeug](http://werkzeug.pocoo.org/docs/deployment/cgi/) provides a suitable template.
 
@@ -26,7 +26,7 @@ So, to summarise\...
 
 You may need a few attempts to get it working. The hard part is often to configure the CGI script to be executable by the server and to be able to find your application and any libraries that you use. Your hosting provider may have some useful information about this.
 
-Good luck! \-- [PaulBoddie](PaulBoddie) 2012-07-05 20:53:40
+Good luck! \-- [PaulBoddie](../../people/PaulBoddie) 2012-07-05 20:53:40
 
 ------------------------------------------------------------------------
 

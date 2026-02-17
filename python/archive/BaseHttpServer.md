@@ -118,20 +118,20 @@ Then, in the handler, use `s.server` to get to the server, and access the parame
 
 - [DocXmlRpcServer](DocXmlRpcServer) \-- self-documenting XML-RPC servers
 
-- [CgiScripts](CgiScripts) \-- using invoked CGI scripts, rather than running micro-web servers
+- [CgiScripts](../people/CgiScripts) \-- using invoked CGI scripts, rather than running micro-web servers
 
 # Discussion 
 
 I\'d ultimately like to see a BaseHttpServer here that can both handle XML-RPC requests (with *that* request handler,) and normal web requests (with a custom handler.)
 
-Yes- I know and love [TwistedPython](./TwistedPython.html). But I want to make something that works in a single install. \-- [LionKimbro](LionKimbro) 2004-05-31 01:13:16
+Yes- I know and love [TwistedPython](./TwistedPython.html). But I want to make something that works in a single install. \-- [LionKimbro](../people/LionKimbro) 2004-05-31 01:13:16
 
 I\'d also like to add code here showing how to service a POST request.
 
-\-- [LionKimbro](LionKimbro) 2004-07-03 23:07:53
+\-- [LionKimbro](../people/LionKimbro) 2004-07-03 23:07:53
 
-There exist tools like [CherryPy](CherryPy) which will create a single-file Python HTTP server (based on BaseHTTPServer). This is a fair amount easier to work with than the raw BaseHTTPServer. For most cases, using a more complete framework will be preferable (see [WebProgramming](WebProgramming)). \-- [IanBicking](IanBicking)
+There exist tools like [CherryPy](../web/CherryPy) which will create a single-file Python HTTP server (based on BaseHTTPServer). This is a fair amount easier to work with than the raw BaseHTTPServer. For most cases, using a more complete framework will be preferable (see [WebProgramming](../web/WebProgramming)). \-- [IanBicking](../people/IanBicking)
 
-I like the BaseHttpServer because it is in the default Python distributions. I encourage all work towards putting a standard web framework into the default Python distribution. I\'m not picky, just as long as something is chosen. \-- [LionKimbro](LionKimbro) 2005-01-25 04:53:53
+I like the BaseHttpServer because it is in the default Python distributions. I encourage all work towards putting a standard web framework into the default Python distribution. I\'m not picky, just as long as something is chosen. \-- [LionKimbro](../people/LionKimbro) 2005-01-25 04:53:53
 
 What\'s the matter with server_close()? I can call the method, but it is undocumented (see [http://docs.python.org/lib/node634.html](http://docs.python.org/lib/node634.html)). Could someone knowledgable either remove the calls, or add a comment why they\'re necessary? Thanks. \-- Anonymous Coward, 23 Oct 2007

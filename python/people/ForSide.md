@@ -28,6 +28,6 @@ Interessante steder at begynde:
 
 - [HjælpForBegyndere](./Hj(c3a6)lpForBegyndere.html): for at komme igang
 
-- [WikiSandKasse](WikiSandKasse): du er velkommen til at ændre denne side og eksperimentere med redigering
+- [WikiSandKasse](../archive/WikiSandKasse): du er velkommen til at ændre denne side og eksperimentere med redigering
 
 - [FindSide](FindSide): Forskellige måder at søge og gennemse databasen

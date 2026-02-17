@@ -100,7 +100,7 @@ License
 
 Platforms
 
-:   OS Independent, CPython 2.x and 3.x, [PyPy](PyPy), Jython, [IronPython](IronPython)
+:   OS Independent, CPython 2.x and 3.x, [PyPy](../implementations/PyPy), Jython, [IronPython](../implementations/IronPython)
 
 Python versions
 :   2.4 - 3.2
@@ -226,7 +226,7 @@ PyPI
 
 [Run SQLAlchemy on PyPy](https://code.google.com/p/pypyodbc/wiki/Enable_SQLAlchemy_on_PyPy)
 
-One pure Python script, runs on CPython / [IronPython](IronPython) / [PyPy](PyPy) , Version 3.3 / 3.2 / 3.1 / 2.4 / 2.5 / 2.6 / 2.7 , Win / Linux , 32 / 64 bit.
+One pure Python script, runs on CPython / [IronPython](../implementations/IronPython) / [PyPy](../implementations/PyPy) , Version 3.3 / 3.2 / 3.1 / 2.4 / 2.5 / 2.6 / 2.7 , Win / Linux , 32 / 64 bit.
 
 Similar usage as pyodbc ( can be seen as a re-implementation of pyodbc in pure Python ).
 
@@ -261,6 +261,6 @@ mxODBC Connect Server is compatible with the MySQL ODBC drivers.
 
 ## Supported Python Applications 
 
-- [Zope](Zope)
+- [Zope](../web/Zope)
 
-- A MySQL driver exists for [PyDO](PyDO) (Python Data Objects)
+- A MySQL driver exists for [PyDO](../archive/PyDO) (Python Data Objects)

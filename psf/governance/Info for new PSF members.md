@@ -19,7 +19,7 @@ New PSF members need to know about the following:
 - The [psf-community mailing list](http://mail.python.org/mailman/listinfo/psf-community), which is a newly created list and open to all PSF Members. The purpose of the psf-community mailing list is to provide an environment where pythonistas can communicate with a large audience, share experiences, launch projects, and/or discuss their Python & OSS interests. This community mailing list will have public archives, accessible to everyone.
 - The [psf-vote mailing list](http://mail.python.org/mailman/listinfo/psf-vote), which is used for PSF voting discussions. This mailing list is only for voting members. If you are a voting member, you will be automatically subscribed to this mailing list, no action required from you.
 - The [psf-board-public mailing list](http://mail.python.org/mailman/listinfo/psf-board-public), which is used for board discussions which are not legally or otherwise sensitive, allowing them to be shared with the wider PSF membership.
-- This [PSF member\'s wiki](FrontPage). In order to get access, you need to [create a profile](http://wiki.python.org/psf/Info_for_new_PSF_members?action=newaccount), and then write to the wiki admins (e.g. [psf-staff@python.org](mailto:psf-staff@python.org)) to get your user name added to the [MembersGroup](MembersGroup) page.
+- This [PSF member\'s wiki](../about/FrontPage). In order to get access, you need to [create a profile](http://wiki.python.org/psf/Info_for_new_PSF_members?action=newaccount), and then write to the wiki admins (e.g. [psf-staff@python.org](mailto:psf-staff@python.org)) to get your user name added to the [MembersGroup](MembersGroup) page.
 
 The mailing lists and the members\' wiki are restricted to PSF members only as discussions of nominees, proposals and other items under consideration by the PSF may be sensitive or otherwise not yet ready for exposure to a wider audience. Particular pages on the wiki are flagged for public access when these concerns do not apply (registered PSF members can edit this page to see an example of how to make pages public).
 
@@ -37,13 +37,13 @@ The existing members that nominated new members for PSF membership (or the board
 
 The list of currently active committees is at [http://www.python.org/psf/committees/](http://www.python.org/psf/committees/) and below:
 
-- [Bylaws WG](BylawsWG)
-- [Cuban Pythonistas WG](PythonCubaWG)
-- [Scientific Python WG](ScientificWG)
-- [International Sponsorship Bundle WG](SponsorshipBundleWG)
-- [Grant WG](GrantsWG)
-- [Education WG](PythonEduWG)
-- [Marketing WG](MarketingWG)
+- [Bylaws WG](../working-groups/BylawsWG)
+- [Cuban Pythonistas WG](../working-groups/PythonCubaWG)
+- [Scientific Python WG](../working-groups/ScientificWG)
+- [International Sponsorship Bundle WG](../working-groups/SponsorshipBundleWG)
+- [Grant WG](../working-groups/GrantsWG)
+- [Education WG](../working-groups/PythonEduWG)
+- [Marketing WG](../working-groups/MarketingWG)
 :::
 
 ::: 

@@ -6,25 +6,25 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This list was originally from the [WebProgramming](WebProgramming) page. It is no longer maintained.
+This list was originally from the [WebProgramming](../web/WebProgramming) page. It is no longer maintained.
 
 # Original Classification 
 
 ### Common Frameworks and APIs 
 
-- [WebStack](WebStack)
+- [WebStack](../people/WebStack)
 
 ### Multi Protocol Server 
 
-- [TwistedMatrix](TwistedMatrix)
+- [TwistedMatrix](../web/TwistedMatrix)
 
-- [Zope](Zope)
+- [Zope](../web/Zope)
 
-- [SkunkWeb](SkunkWeb)
+- [SkunkWeb](../people/SkunkWeb)
 
 - [Medusa](http://www.nightmare.com/medusa/index.html) (asyncore, asynchat)
 
-- [4Suite](4Suite)
+- [4Suite](../libraries/4Suite)
 
 ### HTTP Server and CGI 
 
@@ -32,11 +32,11 @@ This list was originally from the [WebProgramming](WebProgramming) page. It is n
 
 - [DocXmlRpcServer](DocXmlRpcServer)
 
-- [CgiScripts](CgiScripts)
+- [CgiScripts](../people/CgiScripts)
 
-- [Albatross](Albatross)
+- [Albatross](../web/Albatross)
 
-- [CherryPy](CherryPy)
+- [CherryPy](../web/CherryPy)
 
 - [JonsPythonModules](JonsPythonModules)
 
@@ -44,7 +44,7 @@ This list was originally from the [WebProgramming](WebProgramming) page. It is n
 
 - [Karrigell](Karrigell)
 
-- [ModPython](ModPython)
+- [ModPython](../people/ModPython)
 
 - [MSS](MSS)
 
@@ -58,7 +58,7 @@ This list was originally from the [WebProgramming](WebProgramming) page. It is n
 
 - [pso](pso)
 
-- [Quixote](Quixote)
+- [Quixote](../web/Quixote)
 
 - [Spyce](Spyce)
 
@@ -82,21 +82,21 @@ This list was originally from the [WebProgramming](WebProgramming) page. It is n
 
 - [Cheetah](Cheetah)
 
-- CHTL and CGTL ([CherryPy](CherryPy))
+- CHTL and CGTL ([CherryPy](../web/CherryPy))
 
-- [ClearSilver](ClearSilver)
+- [ClearSilver](../people/ClearSilver)
 
-- [CubicTemp](CubicTemp)
+- [CubicTemp](../people/CubicTemp)
 
 - [DOMTemplate](http://www.twistedmatrix.com/documents/howto/domtemplate)
 
 - [Draco](Draco)
 
-- dtml ([Zope](Zope))
+- dtml ([Zope](../web/Zope))
 
 - [Elements](http://www.nthwave.net/elements/)
 
-- [EmPy](EmPy) [\'in Python Journal 3(1)](http://pythonjournal.cognizor.com)
+- [EmPy](../people/EmPy) [\'in Python Journal 3(1)](http://pythonjournal.cognizor.com)
 
 - [HTMLTemplate](http://freespace.virgin.net/hamish.sanderson/htmltemplate.html)
 
@@ -108,11 +108,11 @@ This list was originally from the [WebProgramming](WebProgramming) page. It is n
 
 - PSP in [Webware](./Webware.html)
 
-- PTL ([Quixote](Quixote))
+- PTL ([Quixote](../web/Quixote))
 
 - [PyMeld](http://www.entrian.com/PyMeld)
 
-- Python Server Pages ([SkunkWeb](SkunkWeb))
+- Python Server Pages ([SkunkWeb](../people/SkunkWeb))
 
 - [reStructuredText](http://docutils.sourceforge.net/rst.html)
 
@@ -120,13 +120,13 @@ This list was originally from the [WebProgramming](WebProgramming) page. It is n
 
 - [VerySimpleTALparser](http://jensdiemer.net/Programmieren/VerySimpleTALparser/) (german)
 
-- STML ([SkunkWeb](SkunkWeb))
+- STML ([SkunkWeb](../people/SkunkWeb))
 
 - TAL/TALES/METAL [JOTWeb](http://jotweb.tummy.com/)
 
 - [Wasp](Wasp)
 
-- [Woven](http://www.twistedmatrix.com/documents/howto/woven) ([TwistedMatrix](TwistedMatrix))
+- [Woven](http://www.twistedmatrix.com/documents/howto/woven) ([TwistedMatrix](../web/TwistedMatrix))
 
 - [XIST](http://www.livinglogic.de/Python/xist/)
 
@@ -134,12 +134,12 @@ This list was originally from the [WebProgramming](WebProgramming) page. It is n
 
 - [Zebra](http://zebra.sourceforge.net/)
 
-- ZPT ([Zope](Zope))
+- ZPT ([Zope](../web/Zope))
 
-- Extended XSLT ([4Suite](4Suite))
+- Extended XSLT ([4Suite](../libraries/4Suite))
 
 - [PyEmb](http://www.chrisarndt.de/en/software/python/index.html#PyEmb) Embed Python code into any kind of text. Can be used as preprocessor or a CGI script for serving template files.
 
 ### Web services 
 
-- [Python Web Services](http://pywebsvcs.sf.net) a [SourceForge](SourceForge) \"meta-project\" for Python web services programming
+- [Python Web Services](http://pywebsvcs.sf.net) a [SourceForge](../people/SourceForge) \"meta-project\" for Python web services programming

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Apache Sampleapp.java 
 
-back to [ApacheDerby](ApacheDerby) Example
+back to [ApacheDerby](../examples/ApacheDerby) Example
 
 \--
 
@@ -316,4 +316,4 @@ back to [ApacheDerby](ApacheDerby) Example
 :::
 ::::
 
-back to [ApacheDerby](ApacheDerby) Example
+back to [ApacheDerby](../examples/ApacheDerby) Example

@@ -12,7 +12,7 @@ SIP is a tool for quickly writing Python modules that interface with C++ and C l
 
 Full documentation can be found at [http://riverbankcomputing.co.uk/static/Docs/sip4/index.html](http://riverbankcomputing.co.uk/static/Docs/sip4/index.html).
 
-SIP is used principally to support [PyQt](PyQt) and [PyKDE](PyKDE). Without it, it would be near impossible to manage the vast APIs these libraries provide.
+SIP is used principally to support [PyQt](../gui/PyQt) and [PyKDE](PyKDE). Without it, it would be near impossible to manage the vast APIs these libraries provide.
 
 Since v4.0 SIP can be used to interface Python with C libraries.
 
@@ -37,7 +37,7 @@ SIP is really the combination of four components.
 
 This is by no means an authoritative discussion about SIP. Rather, it is a chronicle of the adventures and misadventures of a bumbling newbie trying to learn to use a great tool with little documentation. Some references that are essential in conjunction to this include:
 
-- [PyQt](PyQt): an implementation of Python bindings for Qt. Reading the Sip files for these classes is instructive.
+- [PyQt](../gui/PyQt): an implementation of Python bindings for Qt. Reading the Sip files for these classes is instructive.
 
 - [Official Sip 4 documentation](http://www.riverbankcomputing.co.uk/static/Docs/sip4/index.html) \| [Old documentation](http://www.controlvideo.de/sip/).
 

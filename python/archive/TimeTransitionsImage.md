@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 These are `.png` and `.svg` versions of an image, diagramming the functions for getting the time, and converting between times, in the Python time module. (See [WorkingWithTime](WorkingWithTime).)
 
-This image has been released into the public domain by it\'s author, [LionKimbro](LionKimbro).
+This image has been released into the public domain by it\'s author, [LionKimbro](../people/LionKimbro).
 
 The image was created with [SodiPodi](http://en.wikipedia.org/wiki/Sodipodi) (discontinued predecessor to [Inkscape](http://inkscape.org)).
 

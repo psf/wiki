@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This is now a very powerful config file parser - by [MichaelFoord](MichaelFoord) and [NicolaLarosa](./NicolaLarosa.html).
 
-As of version 4 it reads and writes sections nested to \*any\* depth. It uses square brackets round section markers to denote nesting. this means it is compatible with most files written for [ConfigParser](ConfigParser) : ::
+As of version 4 it reads and writes sections nested to \*any\* depth. It uses square brackets round section markers to denote nesting. this means it is compatible with most files written for [ConfigParser](../language/ConfigParser) : ::
 
         key = value
         key2 = member1, member2, memebr3

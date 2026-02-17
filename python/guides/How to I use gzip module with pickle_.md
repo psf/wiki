@@ -29,9 +29,9 @@ My problem is that the primes.data file is now 9 megabytes in size and I wanted 
 
 Any idea how I can do this?
 
-[lwickjr](lwickjr): I\'d have to research for details, but you\`d have to pickle the data to a string, then save the string to a file through gzip, and read the file from gzip into a string which is then unpickled.
+[lwickjr](../archive/lwickjr): I\'d have to research for details, but you\`d have to pickle the data to a string, then save the string to a file through gzip, and read the file from gzip into a string which is then unpickled.
 
-[MarcChr](MarcChr): There is no need for an temporary string. Just `import gzip`{.backtick} and use `gzip.open`{.backtick} instead of `open`{.backtick}:
+[MarcChr](../people/MarcChr): There is no need for an temporary string. Just `import gzip`{.backtick} and use `gzip.open`{.backtick} instead of `open`{.backtick}:
 
     import gzip, cPickle
 

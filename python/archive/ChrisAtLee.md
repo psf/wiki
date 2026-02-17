@@ -14,6 +14,6 @@ Blog: [http://atlee.ca](http://atlee.ca)
 
 ------------------------------------------------------------------------
 
-[PathClass](PathClass)
+[PathClass](../people/PathClass)
 
 [CategoryHomepage](CategoryHomepage)

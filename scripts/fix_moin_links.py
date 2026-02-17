@@ -199,10 +199,32 @@ def fix_file(
         if href.startswith(("http://", "https://", "#", "mailto:", "ftp://")):
             continue
 
-        needs_fix = has_moin_encoding(href) or (
+        # Skip attachment/asset links
+        if "attachments/" in href or "_attachments/" in href:
+            continue
+        if href.endswith((".pdf", ".png", ".jpg", ".jpeg", ".gif", ".svg",
+                          ".odp", ".odt", ".txt", ".xml", ".zip", ".tar",
+                          ".gz", ".py", ".java", ".css", ".js", ".psd")):
+            continue
+
+        is_moin = has_moin_encoding(href) or (
             href.startswith("./") and href.endswith(".html")
         )
-        if not needs_fix:
+
+        # Also fix bare relative links that don't resolve locally
+        is_bare = (
+            not is_moin
+            and not href.startswith(("./", "../", "/"))
+            and not href.endswith(".html")
+        )
+
+        if is_bare:
+            # Check if it already resolves to a local file
+            local = file_path.parent / href
+            if (local.with_suffix(".md")).exists() or local.exists() or (local / "index.md").exists():
+                continue  # Link works fine as-is
+
+        if not is_moin and not is_bare:
             continue
 
         new_docname = resolve_link(href, current_docname, redirects, reverse_map)

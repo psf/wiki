@@ -26,7 +26,7 @@ A database is an iterator, yielding objects with attributes matching the fields 
 
 The data is stored and accessed on disk (it is not an in-memory database). The implementation has been designed to make all operations, and especially selection, as fast as possible with an interpreted language.
 
-A limited benchmark using the same use cases as SQLite\'s author shows that buzhug is much faster than other pure-Python modules ([KirbyBase](KirbyBase), gadfly). SQLite, which is implemented in C, is faster, but only less than 3 times on the average.
+A limited benchmark using the same use cases as SQLite\'s author shows that buzhug is much faster than other pure-Python modules ([KirbyBase](../people/KirbyBase), gadfly). SQLite, which is implemented in C, is faster, but only less than 3 times on the average.
 
 ## Pros 
 

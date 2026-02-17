@@ -14,15 +14,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [PythonCard](./PythonCard.html) project-leader
 
-[Python11](Python11) and [Python12](Python12) co-chair
+[Python11](../archive/Python11) and [Python12](../archive/Python12) co-chair
 
 ## Tracking Pages 
 
-- [PythonInEducation](PythonInEducation)
+- [PythonInEducation](../archive/PythonInEducation)
 
-- [MostPopularPythonProjects](MostPopularPythonProjects)
+- [MostPopularPythonProjects](../archive/MostPopularPythonProjects)
 
-- [AppsWithPythonScripting](AppsWithPythonScripting)
+- [AppsWithPythonScripting](../libraries/AppsWithPythonScripting)
 
 - [PydotorgRedesign](PydotorgRedesign)
 

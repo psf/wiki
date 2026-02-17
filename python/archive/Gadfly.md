@@ -20,6 +20,6 @@ platforms
 
 :   
 
-Gadfly is a relational database system implemented in Python based on the [SQL](SQL) Structured Query Language.
+Gadfly is a relational database system implemented in Python based on the [SQL](../database/SQL) Structured Query Language.
 
 ------------------------------------------------------------------------

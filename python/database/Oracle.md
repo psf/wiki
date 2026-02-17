@@ -184,9 +184,9 @@ mxODBC Connect Server is compatible with the [Oracle Instant Client](http://www.
 
 ## Supported Python Applications 
 
-- [Zope](Zope)
+- [Zope](../web/Zope)
 
-- an Oracle (DCOracle and DCOracle2) driver exists for [PyDO](PyDO) (Python Data Objects)
+- an Oracle (DCOracle and DCOracle2) driver exists for [PyDO](../archive/PyDO) (Python Data Objects)
 
 ## Web Links 
 

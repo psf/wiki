@@ -42,7 +42,7 @@ Describe Previous Meeting on October 11 2007 here.
 
 - Bjorn Tipling, [Bloglines](http://www.bloglines.com), Campbell, CA
 
-- [EdwardMokuraiCherlin](EdwardMokuraiCherlin), Cupertino CA
+- [EdwardMokuraiCherlin](../archive/EdwardMokuraiCherlin), Cupertino CA
 
 - David Montgomery, El Cerrito, CA
 

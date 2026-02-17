@@ -28,7 +28,7 @@ This page lists a number of packages related to numerics, number crunching, sign
 
   [\[details](http://musi-cal.mojam.com/~skip/python/)\] [\[source](http://musi-cal.mojam.com/~skip/python/fsm.py)\]
 
-  [FiniteStateMachine](FiniteStateMachine) module. (Skip Montanaro)
+  [FiniteStateMachine](../../archive/FiniteStateMachine) module. (Skip Montanaro)
 
 - graph_lib
 
@@ -100,7 +100,7 @@ This page lists a number of packages related to numerics, number crunching, sign
 
   [\[details](http://claymore.engineer.gvsu.edu/~steriana/Python)\] [\[source](http://claymore.engineer.gvsu.edu/~steriana/Python/pymat.zip)\]
 
-  [PyMat](PyMat) is an interface between [NumPy](NumPy) and a MATLAB engine session. It can be used to support [NumPy](NumPy)\'s functionality with the features of MATLAB. An example module is included that presents a very simple interface to MATLAB\'s plotting functions. This allows you to, for example, plot [NumPy](NumPy) arrays in a MATLAB plot window. (Andrew Sterian)
+  [PyMat](../../people/PyMat) is an interface between [NumPy](../NumPy) and a MATLAB engine session. It can be used to support [NumPy](../NumPy)\'s functionality with the features of MATLAB. An example module is included that presents a very simple interface to MATLAB\'s plotting functions. This allows you to, for example, plot [NumPy](../NumPy) arrays in a MATLAB plot window. (Andrew Sterian)
 
 - PYML
 
@@ -124,7 +124,7 @@ This page lists a number of packages related to numerics, number crunching, sign
 
   [\[details](http://abel.ee.ucla.edu/cvxopt/)\] [\[source](http://abel.ee.ucla.edu/cvxopt/download.php)\]
 
-  CVXOPT supports linear, quadratic and other advanced types of convex programming. It also has a interface to blas and lapack and is compatible with [NumPy](NumPy).
+  CVXOPT supports linear, quadratic and other advanced types of convex programming. It also has a interface to blas and lapack and is compatible with [NumPy](../NumPy).
 
 - lpsolvpy
 
@@ -172,7 +172,7 @@ This page lists a number of packages related to numerics, number crunching, sign
 
 - [MatPy](./MatPy.html) [\[details](http://MatPy.sourceforge.net)\] [\[source](ftp://MatPy.sourceforge.net/pub/MatPy/)\] A Python package for numerical computation and plotting with a
 
-  [MatLab](./MatLab.html)-like interface. It currently consists of wrappers around the Numeric, Gnuplot and [SpecialFuncs](./SpecialFuncs.html) packages. It provides an alternative interface to [NumPy](NumPy) that is somewhat more convenient for matrix and vector computation. Eventually both will be based directly on the same low level routines. We are also looking for the possibility of interface to Octave. (H. Zhu)
+  [MatLab](./MatLab.html)-like interface. It currently consists of wrappers around the Numeric, Gnuplot and [SpecialFuncs](./SpecialFuncs.html) packages. It provides an alternative interface to [NumPy](../NumPy) that is somewhat more convenient for matrix and vector computation. Eventually both will be based directly on the same low level routines. We are also looking for the possibility of interface to Octave. (H. Zhu)
 
 #### Music 
 
@@ -230,7 +230,7 @@ This page lists a number of packages related to numerics, number crunching, sign
 
   [\[details](http://www.python.org/topics/scicomp/recipes_in_python.html)\] [\[source](http://www.python.org/topics/scicomp/recipes_in_python.html)\] 100% Python functions which are based on the famous Numerical Recipes \-- polynomial evaluation, zero- finding, integration, FFT\'s, and vector operations. \"They are loosely modelled after Numerical Recipes in C because I needed, at the time, actual source codes which I can examine instead of just wrappers around Fortran
 
-  libraries like [NumPy](NumPy) and Octave. As evident from the documentations, the routines were written with emphasis on clarity rather than on runtime efficiency.\" (William Park)
+  libraries like [NumPy](../NumPy) and Octave. As evident from the documentations, the routines were written with emphasis on clarity rather than on runtime efficiency.\" (William Park)
 
 - [PyClimate](./PyClimate.html) [\[details](http://starship.python.net/crew/jsaenz/pyclimate/)\] [\[source](http://starship.python.net/crew/jsaenz/pyclimate/downloads/PyClimate-1.1.1.tar.gz)\] A Python package designed to accomplish some usual tasks during the analysis of climate variability using Python. It provides functions to perform some simple IO operations, operations with COARDS-compliant netCDF files, EOF analysis, SVD and CCA analysis of coupled data sets, some linear digital filters, kernel based probabilitydensity function estimation and access to DCDFLIB.C library from Python. (Jon Saenz)
 
@@ -244,9 +244,9 @@ This page lists a number of packages related to numerics, number crunching, sign
 
 - [SciPy](SciPy) \-- [http://www.scipy.org](http://www.scipy.org)
 
-- [ScientificPython](ScientificPython) [\[details](http://dirac.cnrs-orleans.fr/ScientificPython/)\] [\[download](http://sourcesup.cru.fr/projects/scientific-py/)\] A collection of Python modules that are useful for scientific computing. In this collection you will find modules that cover basic geometry (vectors, tensors, transformations, vector and tensor fields), quaternions, automatic derivatives, (linear) interpolation, polynomials, elementary statistics, nonlinear least-squares fits, unit calculations, Fortran-compatible text formatting, 3D visualization via VRML, two Tk widgets for simple line plots and
+- [ScientificPython](../../people/ScientificPython) [\[details](http://dirac.cnrs-orleans.fr/ScientificPython/)\] [\[download](http://sourcesup.cru.fr/projects/scientific-py/)\] A collection of Python modules that are useful for scientific computing. In this collection you will find modules that cover basic geometry (vectors, tensors, transformations, vector and tensor fields), quaternions, automatic derivatives, (linear) interpolation, polynomials, elementary statistics, nonlinear least-squares fits, unit calculations, Fortran-compatible text formatting, 3D visualization via VRML, two Tk widgets for simple line plots and
 
-  3D wireframe models, and support for [ParallelProcessing](ParallelProcessing). ([KonradHinsen](KonradHinsen))
+  3D wireframe models, and support for [ParallelProcessing](../../people/ParallelProcessing). ([KonradHinsen](../../people/KonradHinsen))
 
 #### Random Number Generators 
 

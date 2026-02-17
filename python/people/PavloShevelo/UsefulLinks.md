@@ -8,17 +8,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - **Main**
 
-  - [IronPython](IronPython)
+  - [IronPython](../../implementations/IronPython)
 
 - **Toolsets**
 
   - [CategoryIntegratedDevelopmentEnvironment](CategoryIntegratedDevelopmentEnvironment)
 
-    - [EclipsePythonIntegration](EclipsePythonIntegration)
+    - [EclipsePythonIntegration](../../editors/EclipsePythonIntegration)
 
 - **Docs**
 
-  - [WebProgramming](WebProgramming)
+  - [WebProgramming](../../web/WebProgramming)
 
 ------------------------------------------------------------------------
 

@@ -239,7 +239,7 @@ Bind obfuscated scripts to fixed machine and expire it on some day. By default t
 - win32, win_amd64, linux_i386, linux_x86_64, macosx_intel
 - Embedded Platform: Raspberry Pi, Banana Pi, TS-4600 / TS-7600
 
-Besides, pyarmor works well with [py2exe](./py2exe.html) and [PyInstaller](PyInstaller). Here are some [examples](https://github.com/dashingsoft/pyarmor/blob/master/src/examples/README.md).
+Besides, pyarmor works well with [py2exe](./py2exe.html) and [PyInstaller](../people/PyInstaller). Here are some [examples](https://github.com/dashingsoft/pyarmor/blob/master/src/examples/README.md).
 
 ## Other Links 
 

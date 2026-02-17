@@ -18,4 +18,4 @@ CFPython is a C library intended to make programming with the Python C API and [
 
 # author
 
-[SarwatKhan](SarwatKhan)
+[SarwatKhan](../../people/SarwatKhan)

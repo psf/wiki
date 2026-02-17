@@ -61,7 +61,7 @@ Borislav Andrschuck has a nice post on intercepting java method invocations in j
 
 [Options for WebSphere App Server Scripting](http://webspherecommunity.blogspot.com/2010/04/options-for-websphere-application.html) - WS Community Blog
 
-The Websphere community blog had a post in April regarding options for web sphere scripting.    [WebSphere](WebSphere) Application Server (WAS) provides a scripting interface called wsadmin. wsadmin supports two scripting languages jacl\* and jython. Five objects are available when you use scripts: [AdminControl](./AdminControl.html): Use to run operational commands. [AdminConfig](./AdminConfig.html): Use to run configurational commands to create/modify WAS configuration. [AdminApp](./AdminApp.html): Use to administer applications. [AdminTask](./AdminTask.html): Use to run administrative commands. Help: Use to obtain general help.
+The Websphere community blog had a post in April regarding options for web sphere scripting.    [WebSphere](../../../user-guide/WebSphere) Application Server (WAS) provides a scripting interface called wsadmin. wsadmin supports two scripting languages jacl\* and jython. Five objects are available when you use scripts: [AdminControl](./AdminControl.html): Use to run operational commands. [AdminConfig](./AdminConfig.html): Use to run configurational commands to create/modify WAS configuration. [AdminApp](./AdminApp.html): Use to administer applications. [AdminTask](./AdminTask.html): Use to run administrative commands. Help: Use to obtain general help.
 
 WAS provides a number of aids to developers and system administrators for the development of wsadmin scripts. Different options that can be leveraged in developing wsadmin scripts are explained in the post. 
 

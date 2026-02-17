@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Bob Ippolito is a software developer that spends far too much of his spare time developing software for and porting software to OS X. He is the maintainer of this site, the unofficial [PackageManagerRepository](./PackageManagerRepository.html), and has contributed several extensions to the [MacPython](MacPython) community including (but not limited to)
+Bob Ippolito is a software developer that spends far too much of his spare time developing software for and porting software to OS X. He is the maintainer of this site, the unofficial [PackageManagerRepository](./PackageManagerRepository.html), and has contributed several extensions to the [MacPython](../platforms/MacPython) community including (but not limited to)
 
 - [py2app](../platforms/MacPython/py2app)
 
@@ -47,7 +47,7 @@ Bob Ippolito is a software developer that spends far too much of his spare time 
 
 - Port amfphp (Flash remoting) to Python ([/Twisted](./BobIppolito(2f)Twisted.html))
 
-- Reverse engineer proprietary [MacPython/RTMP](../platforms/MacPython/RTMP) protocol (Flash Communication Server) and implement Python version ([Twisted](Twisted)).
+- Reverse engineer proprietary [MacPython/RTMP](../platforms/MacPython/RTMP) protocol (Flash Communication Server) and implement Python version ([Twisted](../web/Twisted)).
 
 - Work on [/ajit](./BobIppolito(2f)ajit.html)
 

@@ -20,21 +20,21 @@ If you plan to arrange a sprint, please send a mail to [europython@python.org](m
 
 - Z3ECM sprint: [See discussions on Z3lab.org](http://www.z3lab.org/)
 
-- [M2Crypto](M2Crypto) sprint: [HeikkiToivonen](HeikkiToivonen) would like to run a sprint to fix memory leaks, complete and sanitize the API, write better samples and tests, etc.
+- [M2Crypto](../../archive/M2Crypto) sprint: [HeikkiToivonen](../../people/HeikkiToivonen) would like to run a sprint to fix memory leaks, complete and sanitize the API, write better samples and tests, etc.
 
 - [PyPy](http://www.codespeak.net/pypy/) sprint: The Pypy team will hold an open sprint 1 July - 7 July. The main focus will be on code generation for the Pypy Python interpreter, though there will still be interesting tasks implementing CPython modules in Python.
 
 - Money sprint: Facundo Batista will run a sprint to implement a Money datatype, built on top of the new Decimal datatype.
 
-- [PloneOrgMigration](PloneOrgMigration) sprint: Alexander Limi will lead the migration effort to move plone.org to Plone 2.1 in preparation of the official release.
+- [PloneOrgMigration](../../web/PloneOrgMigration) sprint: Alexander Limi will lead the migration effort to move plone.org to Plone 2.1 in preparation of the official release.
 
 - [TwistedSprintEuropy2005](./TwistedSprintEuropy2005.html): twisted and/or nevow hacking: Tv, mg, tic, who else?
 
-- [PloneSeleniumSprint](PloneSeleniumSprint): Maik Röder proposes a Plone Selenium sprint with the goal of implementing the initial Functional Testing Plan for Plone.
+- [PloneSeleniumSprint](../../web/PloneSeleniumSprint): Maik Röder proposes a Plone Selenium sprint with the goal of implementing the initial Functional Testing Plan for Plone.
 
 - CMFEditionsSprint: Continue hacking on CMFEditions (from the 30 of June to 2nd of July)
 
-- [AtAudioSprint](AtAudioSprint): [SalimFadhley](./SalimFadhley.html) and [NateAune](NateAune) would like to invite people to an unofficial, mini-Sprint, in order to work on ATAudio; A product designed to enhance Plone multimedia support.
+- [AtAudioSprint](../../archive/AtAudioSprint): [SalimFadhley](./SalimFadhley.html) and [NateAune](../../people/NateAune) would like to invite people to an unofficial, mini-Sprint, in order to work on ATAudio; A product designed to enhance Plone multimedia support.
 
 ## BOF Sessions 
 
@@ -54,9 +54,9 @@ Here\'s a collection of blogs about the conference.
 
 There are many fun things you can do in Göteborg before and after the conference, and they get even more fun if you do them together with other conference participants.
 
-- [MidSummer](MidSummer)
+- [MidSummer](../../people/MidSummer)
 
-- [InternetCafe](InternetCafe)
+- [InternetCafe](../../people/InternetCafe)
 
 - [ArchipellagoTrip](./ArchipellagoTrip.html)
 
@@ -90,9 +90,9 @@ Add a link and create a page about yourself.
 
 - [MagnusLyckå](http://www.thinkware.se/cgi-bin/thinki.cgi/MagnusLyck%C3%A5 "Thinki")
 
-- [ReinoutVanRees](ReinoutVanRees)
+- [ReinoutVanRees](../../archive/ReinoutVanRees)
 
-- [HeikkiToivonen](HeikkiToivonen)
+- [HeikkiToivonen](../../people/HeikkiToivonen)
 
 ## Slides & Papers 
 

@@ -22,9 +22,9 @@ The sprint approach works best when the first few hours are spent getting orient
 
 ## Why sprint at PyCon? 
 
-The sprints are intended to benefit various projects, and to encourage more people to take part in development. They will also be a good place to see [ExtremeProgramming](ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced Python developers.
+The sprints are intended to benefit various projects, and to encourage more people to take part in development. They will also be a good place to see [ExtremeProgramming](../../../people/ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced Python developers.
 
-[PyCon](PyCon) will always have a core Python sprint. Other topics will come and go each year.
+[PyCon](../PyCon) will always have a core Python sprint. Other topics will come and go each year.
 
 If you wish to participate in a sprint, please contact the sprint organizers in advance! Sprint topics are listed below.
 
@@ -34,117 +34,117 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
 ## Saturday, March 19 
 
-- [CanDo](CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
+- [CanDo](../../../people/CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
 
-  [BetterZope2BlobSupportSprint](BetterZope2BlobSupportSprint) (11am - 6pm, Coach: [ChrisMcDonough](ChrisMcDonough) )
+  [BetterZope2BlobSupportSprint](../../../archive/BetterZope2BlobSupportSprint) (11am - 6pm, Coach: [ChrisMcDonough](../../../archive/ChrisMcDonough) )
 
-  [Zope3Sprint](Zope3Sprint) (time: 9am - 6pm, Coach: Garrett Smith)
+  [Zope3Sprint](../../../web/Zope3Sprint) (time: 9am - 6pm, Coach: Garrett Smith)
 
-  [ZodbSprint](ZodbSprint)
+  [ZodbSprint](../../../people/ZodbSprint)
 
-  [Zope3AppSprint](Zope3AppSprint)
+  [Zope3AppSprint](../../../web/Zope3AppSprint)
 
-  [PyCoreAstSprint](PyCoreAstSprint)
+  [PyCoreAstSprint](../../../archive/PyCoreAstSprint)
 
-  [PyPySprint](PyPySprint) (10am - whenever, Coordinator: Jacob Hallén)
+  [PyPySprint](../../../implementations/PyPySprint) (10am - whenever, Coordinator: Jacob Hallén)
 
-  [EmailSprint](EmailSprint) (**withdrawn**)
+  [EmailSprint](../../../people/EmailSprint) (**withdrawn**)
 
-  [Mailman3Sprint](Mailman3Sprint) (Coach: Barry Warsaw)
+  [Mailman3Sprint](../../../archive/Mailman3Sprint) (Coach: Barry Warsaw)
 
-  [DistutilsSprint](DistutilsSprint) (Coach: Fred Drake)
+  [DistutilsSprint](../../../packaging/DistutilsSprint) (Coach: Fred Drake)
 
-  [TwistedSprint](TwistedSprint)
+  [TwistedSprint](../../../web/TwistedSprint)
 
-  [WsgiKitSprint](WsgiKitSprint) (maybe\...?)
+  [WsgiKitSprint](../../../archive/WsgiKitSprint) (maybe\...?)
 
 ## Sunday, March 20 
 
-- [CanDo](CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
+- [CanDo](../../../people/CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
 
-  [BetterZope2BlobSupportSprint](BetterZope2BlobSupportSprint) (11am - 6pm, Coach: [ChrisMcDonough](ChrisMcDonough) )
+  [BetterZope2BlobSupportSprint](../../../archive/BetterZope2BlobSupportSprint) (11am - 6pm, Coach: [ChrisMcDonough](../../../archive/ChrisMcDonough) )
 
-  [Zope3Sprint](Zope3Sprint) (time: tba, Coach: Garrett Smith)
+  [Zope3Sprint](../../../web/Zope3Sprint) (time: tba, Coach: Garrett Smith)
 
-  [ZodbSprint](ZodbSprint)
+  [ZodbSprint](../../../people/ZodbSprint)
 
-  [Zope3AppSprint](Zope3AppSprint)
+  [Zope3AppSprint](../../../web/Zope3AppSprint)
 
-  [PyCoreAstSprint](PyCoreAstSprint)
+  [PyCoreAstSprint](../../../archive/PyCoreAstSprint)
 
-  [PyPySprint](PyPySprint) (10am - whenever, Coordinator: Jacob Hallén)
+  [PyPySprint](../../../implementations/PyPySprint) (10am - whenever, Coordinator: Jacob Hallén)
 
-  [EmailSprint](EmailSprint) (**withdrawn**)
+  [EmailSprint](../../../people/EmailSprint) (**withdrawn**)
 
-  [Mailman3Sprint](Mailman3Sprint) (Coach: Barry Warsaw)
+  [Mailman3Sprint](../../../archive/Mailman3Sprint) (Coach: Barry Warsaw)
 
-  [DistutilsSprint](DistutilsSprint) (Coach: Fred Drake)
+  [DistutilsSprint](../../../packaging/DistutilsSprint) (Coach: Fred Drake)
 
-  [TwistedSprint](TwistedSprint)
+  [TwistedSprint](../../../web/TwistedSprint)
 
-  [WsgiKitSprint](WsgiKitSprint) (maybe\...?)
+  [WsgiKitSprint](../../../archive/WsgiKitSprint) (maybe\...?)
 
   [UnununiumSprint](./UnununiumSprint.html)
 
 ## Monday, March 21 
 
-- [CanDo](CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
+- [CanDo](../../../people/CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
 
-  [Zope3Sprint](Zope3Sprint) (time: tba, Coach: Garrett Smith)
+  [Zope3Sprint](../../../web/Zope3Sprint) (time: tba, Coach: Garrett Smith)
 
-  [ZodbSprint](ZodbSprint)
+  [ZodbSprint](../../../people/ZodbSprint)
 
-  [Zope3AppSprint](Zope3AppSprint)
+  [Zope3AppSprint](../../../web/Zope3AppSprint)
 
-  [PyCoreAstSprint](PyCoreAstSprint)
+  [PyCoreAstSprint](../../../archive/PyCoreAstSprint)
 
-  [PyPySprint](PyPySprint) (10am - whenever, Coordinator: Jacob Hallén)
+  [PyPySprint](../../../implementations/PyPySprint) (10am - whenever, Coordinator: Jacob Hallén)
 
-  [MatplotlibSprint](MatplotlibSprint) (Coach: John Hunter)
+  [MatplotlibSprint](../../../people/MatplotlibSprint) (Coach: John Hunter)
 
-  [EmailSprint](EmailSprint) (**withdrawn**)
+  [EmailSprint](../../../people/EmailSprint) (**withdrawn**)
 
-  [Mailman3Sprint](Mailman3Sprint) (Coach: Barry Warsaw)
+  [Mailman3Sprint](../../../archive/Mailman3Sprint) (Coach: Barry Warsaw)
 
-  [DistutilsSprint](DistutilsSprint)
+  [DistutilsSprint](../../../packaging/DistutilsSprint)
 
   [ChandlerSprint2005](./ChandlerSprint2005.html) (Coach: Ted Leung)
 
-  [TwistedSprint](TwistedSprint)
+  [TwistedSprint](../../../web/TwistedSprint)
 
-  [WsgiKitSprint](WsgiKitSprint) (Coach: Ian Bicking)
+  [WsgiKitSprint](../../../archive/WsgiKitSprint) (Coach: Ian Bicking)
 
 ## Tuesday, March 22 
 
-- [CanDo](CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
+- [CanDo](../../../people/CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
 
-  [Zope3Sprint](Zope3Sprint) (time: tba, Coach: Garrett Smith)
+  [Zope3Sprint](../../../web/Zope3Sprint) (time: tba, Coach: Garrett Smith)
 
-  [ZodbSprint](ZodbSprint)
+  [ZodbSprint](../../../people/ZodbSprint)
 
-  [Zope3AppSprint](Zope3AppSprint)
+  [Zope3AppSprint](../../../web/Zope3AppSprint)
 
-  [PyCoreAstSprint](PyCoreAstSprint)
+  [PyCoreAstSprint](../../../archive/PyCoreAstSprint)
 
-  [PyPySprint](PyPySprint) (10am - whenever, Coordinator: Jacob Hallén)
+  [PyPySprint](../../../implementations/PyPySprint) (10am - whenever, Coordinator: Jacob Hallén)
 
-  [EmailSprint](EmailSprint) (**withdrawn**)
+  [EmailSprint](../../../people/EmailSprint) (**withdrawn**)
 
-  [Mailman3Sprint](Mailman3Sprint) (Coach: Barry Warsaw)
+  [Mailman3Sprint](../../../archive/Mailman3Sprint) (Coach: Barry Warsaw)
 
-  [DistutilsSprint](DistutilsSprint)
+  [DistutilsSprint](../../../packaging/DistutilsSprint)
 
   [ChandlerSprint2005](./ChandlerSprint2005.html) (Coach: Ted Leung)
 
-  [TwistedSprint](TwistedSprint)
+  [TwistedSprint](../../../web/TwistedSprint)
 
-  [WsgiKitSprint](WsgiKitSprint) (Coach: Ian Bicking)
+  [WsgiKitSprint](../../../archive/WsgiKitSprint) (Coach: Ian Bicking)
 
-  [AdaptersAndInterfacesSprint](AdaptersAndInterfacesSprint) (Coach: Bruce Eckel)
+  [AdaptersAndInterfacesSprint](../../../archive/AdaptersAndInterfacesSprint) (Coach: Bruce Eckel)
 
 # Possible Sprint Topics 
 
-[JythonSprint](JythonSprint)? SWTSprint?
+[JythonSprint](../../../people/JythonSprint)? SWTSprint?
 
 ## Python Core 
 
@@ -152,7 +152,7 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
 \* rewrite site.py
 
-- I\'d like to see something like `site.addsitedir()` made into a public API so that additional directories of *.pth* files can be processed in a consistent manner without having to re-implement that machinery. \-- [FredDrake](FredDrake)
+- I\'d like to see something like `site.addsitedir()` made into a public API so that additional directories of *.pth* files can be processed in a consistent manner without having to re-implement that machinery. \-- [FredDrake](../../../people/FredDrake)
 
 \* handle bugs / patches
 

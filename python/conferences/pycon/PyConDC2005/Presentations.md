@@ -238,7 +238,7 @@ PYFITS, and PyRAF, we have developed a robust piece of software, in less than on
 
 Ted Leung, Katie Capps Parlante / Open Source Applications Foundation
 
-Chandler aspires to be an innovative open source personal information manager (PIM). In addition to being written in Python, Chandler is using the following open source libraries: BerkeleyDB, [M2Crypto](M2Crypto), Twisted, pyLucene, and wxPython/wxWidgets. Chandler is designed to be an extensible PIM. Chandler\'s unit of extensiblity is called a parcel, and Chandler\'s \"built-in\" functionality is itself composed of parcels. Internally, Chandler is designed as layers of frameworks which provide applications functionality to parcels. Parcels communicate with each other via the data in the Chandler repository.
+Chandler aspires to be an innovative open source personal information manager (PIM). In addition to being written in Python, Chandler is using the following open source libraries: BerkeleyDB, [M2Crypto](../../../archive/M2Crypto), Twisted, pyLucene, and wxPython/wxWidgets. Chandler is designed to be an extensible PIM. Chandler\'s unit of extensiblity is called a parcel, and Chandler\'s \"built-in\" functionality is itself composed of parcels. Internally, Chandler is designed as layers of frameworks which provide applications functionality to parcels. Parcels communicate with each other via the data in the Chandler repository.
 
 The goal of our presentation and paper is to allow someone to begin developing a parcel that extends the Chandler user interface.
 
@@ -388,7 +388,7 @@ I would like to request that a time slot be reserved for someone (not me) to mak
 
 Kevin Altis
 
-In this session, Kevin Altis will demonstrate the process of building cross-platform Python applications with graphical user interfaces using the [PythonCard](./PythonCard.html) framework and tool set. By giving you access to the full power of Python without requiring you to master complex GUI libraries, [PythonCard](./PythonCard.html) becomes a power tool for scripting users and professional programmers alike. Creating graphical desktop applications that run across platforms and take advantage of Python\'s simple elegance is easier than you think. And [PyCrust](PyCrust), the embeddable Python shell, puts the power of the Python interpreter at your fingertips.
+In this session, Kevin Altis will demonstrate the process of building cross-platform Python applications with graphical user interfaces using the [PythonCard](./PythonCard.html) framework and tool set. By giving you access to the full power of Python without requiring you to master complex GUI libraries, [PythonCard](./PythonCard.html) becomes a power tool for scripting users and professional programmers alike. Creating graphical desktop applications that run across platforms and take advantage of Python\'s simple elegance is easier than you think. And [PyCrust](../../../people/PyCrust), the embeddable Python shell, puts the power of the Python interpreter at your fingertips.
 
 ------------------------------------------------------------------------
 
@@ -402,7 +402,7 @@ Applications like accounts and payroll are the lifeblood of real world businesse
 
 Commercially [PayThyme](./PayThyme.html) breaks new ground in almost every respect : it is the first UK native GNU/Linux payroll, and it has no built-in licence quota on numbers of users, numbers of employees and numbers of payrolls, all of which are restricted in most commercial payrolls. Furthermore, there is just one version of [PayThyme](./PayThyme.html), suitable for both the smallest and largest of payrolls, as opposed to existing software which is usually targetted in both capability and price at specific market levels. This allows your payroll to grow with your business. To further confuse conventional business software developers, [PayThyme](./PayThyme.html) is licensed under the GPL and is available as a free download.
 
-Technically, [PayThyme](./PayThyme.html) is also unusual. It uses the Thyme development platform, which is itself Open Source and based on Python and the [PyQt](PyQt) GUI platform. A novel set of data-aware widgets links GUI screens (originated in Qt Designer) with Thyme\'s database filing system, allowing rapid object-oriented application development. The product was developed by a small core team of three people working remotely using a central Subversion repository. The user interface is implemented entirely in Python.
+Technically, [PayThyme](./PayThyme.html) is also unusual. It uses the Thyme development platform, which is itself Open Source and based on Python and the [PyQt](../../../gui/PyQt) GUI platform. A novel set of data-aware widgets links GUI screens (originated in Qt Designer) with Thyme\'s database filing system, allowing rapid object-oriented application development. The product was developed by a small core team of three people working remotely using a central Subversion repository. The user interface is implemented entirely in Python.
 
 [PayThyme](./PayThyme.html) takes advantage of Python\'s rich set of extension modules, for example in implementing Internet Filing of end-of-year returns to the Inland Revenue via the UK Government Gateway.
 
@@ -508,13 +508,13 @@ In the design of applications, rules are everywhere: business rules, game rules,
 
 #55. **[SchoolBell](./SchoolBell.html): a Zope 3 Calendar Server**
 
-Tom Hoffman / [SchoolTool](SchoolTool)
+Tom Hoffman / [SchoolTool](../../../people/SchoolTool)
 
 [SchoolBell](./SchoolBell.html) is an open source calendar server for small to medium sized organizations, written for Zope 3. Each person, group or resource has a calendar accessible via an HTML interface. A user can integrate events from other people or groups into their calendar. iCalendar support allows interoperability with clients like Mozilla Calendar and Apple\'s iCal. Access control can be set for each calendar to allow events to be viewed or added by specific users or groups.
 
 [SchoolBell](./SchoolBell.html) is also a Zope 3 application that breaks out of the Zope 2\'s \"folders and documents\" paradigm, instead using a directed graph data model. Application objects, such as people, groups and resources. Each object can have facets which model the object\'s responsibilities and encapsulate its data for a particular role that object plays in the system. Objects are connected via relationships. Each relationship\'s type is defined, as is each object\'s role in the relationship. Each object, relationship, role and facet is identified by a URI, facilitating a comprehensive REST-style web services API for all the application\'s functions. This architecture has broad applicability outside of calendaring.
 
-[SchoolBell](./SchoolBell.html) is based on [SchoolTool](SchoolTool), a free IT infrastructure for schools, funded by the Shuttleworth Foundation. The initial design for [SchoolTool](SchoolTool) was done by Steve Alexander of Canonical Ltd. Subsequent development has been done by Programmers of Vilnius and Etria LLC.
+[SchoolBell](./SchoolBell.html) is based on [SchoolTool](../../../people/SchoolTool), a free IT infrastructure for schools, funded by the Shuttleworth Foundation. The initial design for [SchoolTool](../../../people/SchoolTool) was done by Steve Alexander of Canonical Ltd. Subsequent development has been done by Programmers of Vilnius and Etria LLC.
 
 Project manager Tom Hoffman will begin with a tour of [SchoolBell](./SchoolBell.html), followed by a discussion of its unique architecture led by Brian Skahan of Etria.
 
@@ -530,7 +530,7 @@ This poses a challenge for application developers. Users want their programs to 
 
 This talk introduces Yarn, a Python library that allows developers to work with a wide range of file formats, messaging systems, and web services, using a standard API. Yarn currently provides support for reading and writing RSS, Atom, OPML, mbox, and maildir files, on a local filesystem or over HTTP or SFTP; the Atom and [MetaWeblog](./MetaWeblog.html) blogging APIs; IMAP, POP3, and SMTP; and web services including Google, Amazon, Flickr, del.icio.us, and UPS package tracking. Yarn provides APIs for reading, writing, and editing messages, searching, and navigating folder trees. It also includes such helpful features as metadata storage, connection sharing, caching, and credentials management. An extensible architecture makes it easy to support new formats and protocols through plug-ins.
 
-Yarn is written in 100% pure Python, using the Twisted framework. It is currently licensed under the GPL, but will be released under a more liberal license before [PyCon](PyCon) 2005.
+Yarn is written in 100% pure Python, using the Twisted framework. It is currently licensed under the GPL, but will be released under a more liberal license before [PyCon](../PyCon) 2005.
 
 This talk will introduce Yarn and show how it can be used to add powerful messaging and publishing functionality to Twisted applications.
 
@@ -698,7 +698,7 @@ A companion paper on Schevo that covers more than was able to be presented (and 
 
 [http://schevo.org/documentation/reference/current/](http://schevo.org/documentation/reference/current/)
 
-Just look for the [PyCon](PyCon) 2005 link.
+Just look for the [PyCon](../PyCon) 2005 link.
 
 ------------------------------------------------------------------------
 
@@ -820,7 +820,7 @@ Rule processing engines have proven to be useful in several areas of Computer Sc
 
 ------------------------------------------------------------------------
 
-#77. **Scratching an Itch (or, how to insure your book collection with [PyAmazon](PyAmazon), ZODB, and wxPython)**
+#77. **Scratching an Itch (or, how to insure your book collection with [PyAmazon](../../../people/PyAmazon), ZODB, and wxPython)**
 
 Michael Bernstein / Panhedron
 
@@ -828,15 +828,15 @@ This presentation is about how I used Python to build a simple solution for inve
 
 ------------------------------------------------------------------------
 
-#78. **[PyPy](PyPy) and type inference**
+#78. **[PyPy](../../../implementations/PyPy) and type inference**
 
 Armin Rigo
 
-A technical status report on [PyPy](PyPy), the Python interpreter implemented in Python.
+A technical status report on [PyPy](../../../implementations/PyPy), the Python interpreter implemented in Python.
 
-The [PyPy](PyPy) project aims at producing a simple runtime system for the Python language, expressing the basic abstractions within the Python language itself. Simplicity and Flexibility are the foremost goals. We hope to reach around [PyCon](PyCon) a C-translated version of [PyPy](PyPy) that is able to work independently of CPython.
+The [PyPy](../../../implementations/PyPy) project aims at producing a simple runtime system for the Python language, expressing the basic abstractions within the Python language itself. Simplicity and Flexibility are the foremost goals. We hope to reach around [PyCon](../PyCon) a C-translated version of [PyPy](../../../implementations/PyPy) that is able to work independently of CPython.
 
-To reach our goal, we are currently working on a Python source analysis and compilation toolchain \-- based on [PyPy](PyPy) as well \-- and a minimal low-level core that doesn\'t need CPython any more. The presentation will focus on these tools, which are able to perform automatic static type inference of \"static enough\" Python programs and then compile them to various lower-level languages (currently C, Lisp, Pyrex and Java). This analysis works on fully standard Python sources (bytecodes, actually), and the distinguishing feature of the techniques we use \-- \"abstract interpretation\" \-- is to allow type inference to be performed for any language for which we have an interpreter. Moreover, it doesn\'t require explicit type annotations added by the user.
+To reach our goal, we are currently working on a Python source analysis and compilation toolchain \-- based on [PyPy](../../../implementations/PyPy) as well \-- and a minimal low-level core that doesn\'t need CPython any more. The presentation will focus on these tools, which are able to perform automatic static type inference of \"static enough\" Python programs and then compile them to various lower-level languages (currently C, Lisp, Pyrex and Java). This analysis works on fully standard Python sources (bytecodes, actually), and the distinguishing feature of the techniques we use \-- \"abstract interpretation\" \-- is to allow type inference to be performed for any language for which we have an interpreter. Moreover, it doesn\'t require explicit type annotations added by the user.
 
 In the presentation, we will see how these tools can be used generally, i.e. how you could use them to check or improve the performance of your programs. In particular, what are the \"staticness\" restrictions that must be met for these tools to work?
 
@@ -848,9 +848,9 @@ We will then look under the hood:
 
 \* type inference is not the end of the story: good code must be generated from the source and the inferred types.
 
-The techniques relate to Psyco\'s, the just-in-time specializer for CPython. We will compare them, and also contrast the \"internal\" notion of type used as an implementation detail (as in [PyPy](PyPy) and Psyco) with the other typical approach of explicit user-specified types.
+The techniques relate to Psyco\'s, the just-in-time specializer for CPython. We will compare them, and also contrast the \"internal\" notion of type used as an implementation detail (as in [PyPy](../../../implementations/PyPy) and Psyco) with the other typical approach of explicit user-specified types.
 
-Our approach is motivated by the desire of flexibility: it allows issues that normally require early design decisions to be postponed, and addressed later in possibly more than one way, without rewriting everything. Typical example: adding Stackless-style continuations in CPython required a whole-scale rewrite, but has only a \"local\" impact on [PyPy](PyPy). We will plead for a framework based on interpreters as a way to gain the most flexibility from programming languages \-- and the best performances too, for very-high-level languages!
+Our approach is motivated by the desire of flexibility: it allows issues that normally require early design decisions to be postponed, and addressed later in possibly more than one way, without rewriting everything. Typical example: adding Stackless-style continuations in CPython required a whole-scale rewrite, but has only a \"local\" impact on [PyPy](../../../implementations/PyPy). We will plead for a framework based on interpreters as a way to gain the most flexibility from programming languages \-- and the best performances too, for very-high-level languages!
 
 ------------------------------------------------------------------------
 

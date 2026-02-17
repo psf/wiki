@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The [section of the manual on String Formatting Operations](http://docs.python.org/lib/typesseq-strings.html) is hidden in the section on [Sequence types.](http://docs.python.org/lib/typesseq.html)
 
-Tutorial on the new string formatting method `format()`{.backtick} in Python 3.0: [Py3kStringFormatting](Py3kStringFormatting)
+Tutorial on the new string formatting method `format()`{.backtick} in Python 3.0: [Py3kStringFormatting](../py3/Py3kStringFormatting)
 
 ## Direct Variable Reference 
 
@@ -80,7 +80,7 @@ which will work properly.
 
 ## See Also 
 
-[EscapingHtml](EscapingHtml), [WorkingWithTime](WorkingWithTime)
+[EscapingHtml](EscapingHtml), [WorkingWithTime](../archive/WorkingWithTime)
 
 # Discussion 
 

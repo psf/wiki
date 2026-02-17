@@ -121,29 +121,29 @@ Note the following describes the current trunk/jython. If you are working from a
 
 ## How things work 
 
-- [ImplementNewType](ImplementNewType) : Implementing a new type (a beginner\'s notes)
+- [ImplementNewType](../internals/ImplementNewType) : Implementing a new type (a beginner\'s notes)
 
-- [ImplementSequenceType](ImplementSequenceType) : Implementing a new sequence type
+- [ImplementSequenceType](../internals/ImplementSequenceType) : Implementing a new sequence type
 
-- [JythonModulesInJava](JythonModulesInJava) : How to write a Jython module in Java
+- [JythonModulesInJava](../examples/JythonModulesInJava) : How to write a Jython module in Java
 
-- [PythonTypesInJava](PythonTypesInJava) : How to make a Jython type in Java (2.5 and later), mostly about the type exposer
+- [PythonTypesInJava](../internals/PythonTypesInJava) : How to make a Jython type in Java (2.5 and later), mostly about the type exposer
 
-- [JythonClassesInJava](JythonClassesInJava) : How to make a Jython class in Java (pre-2.2, deprecated)
+- [JythonClassesInJava](../examples/JythonClassesInJava) : How to make a Jython class in Java (pre-2.2, deprecated)
 
 - [JythonDeveloperGuide/AttributeLookupMethods](JythonDeveloperGuide/AttributeLookupMethods) : Some explanation for the different methods to lookup attributes on [PyObject](./PyObject.html).
 
 - [JythonDeveloperGuide/ImplementingStrAndRepr](JythonDeveloperGuide/ImplementingStrAndRepr) : Tips for implementation of `__str__`{.backtick} and `__unicode__`{.backtick} in Java.
 
-- [IntegerConversion](IntegerConversion) : Basics of converting [PyObject](./PyObject.html) numbers to Java primitives
+- [IntegerConversion](../internals/IntegerConversion) : Basics of converting [PyObject](./PyObject.html) numbers to Java primitives
 
 - [JythonDeveloperGuide/UsingPyNewStringFromPythonCode](JythonDeveloperGuide/UsingPyNewStringFromPythonCode) : On the corner case of converting a Java String to a Python String.
 
-- [GeneratedDerivedClasses](GeneratedDerivedClasses) : `gderived.py`, a tool used when implementing new types
+- [GeneratedDerivedClasses](../internals/GeneratedDerivedClasses) : `gderived.py`, a tool used when implementing new types
 
-- [BufferProtocol](BufferProtocol) : Design of a Jython equivalent to the CPython buffer protocol (buffer API)
+- [BufferProtocol](../internals/BufferProtocol) : Design of a Jython equivalent to the CPython buffer protocol (buffer API)
 
-- [MethodDispatch](MethodDispatch) : An explanation of Jython method dispatch mechanism.
+- [MethodDispatch](../internals/MethodDispatch) : An explanation of Jython method dispatch mechanism.
 
 ## Other stuff 
 
@@ -161,20 +161,20 @@ Note the following describes the current trunk/jython. If you are working from a
 
 ## Tasks 
 
-- [PerformanceEnhancements](PerformanceEnhancements) : Ideas on how to speedup Jython
+- [PerformanceEnhancements](../internals/PerformanceEnhancements) : Ideas on how to speedup Jython
 
 - [CodebaseCleanup](./CodebaseCleanup.html) : Tasks/general guidelines on keeping the codebase clean
 
 ### Porting external projects to Jython 
 
-- [DjangoOnJython](DjangoOnJython)
+- [DjangoOnJython](../modules/DjangoOnJython)
 
-- [MercurialOnJython](MercurialOnJython)
+- [MercurialOnJython](../modules/MercurialOnJython)
 
-- [SqlAlchemyOnJython](SqlAlchemyOnJython)
+- [SqlAlchemyOnJython](../modules/SqlAlchemyOnJython)
 
-- [SetuptoolsOnJython](SetuptoolsOnJython)
+- [SetuptoolsOnJython](../modules/SetuptoolsOnJython)
 
-- [PylonsOnJython](PylonsOnJython)
+- [PylonsOnJython](../modules/PylonsOnJython)
 
-- [TwistedOnJython](TwistedOnJython)
+- [TwistedOnJython](../modules/TwistedOnJython)

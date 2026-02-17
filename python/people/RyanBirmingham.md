@@ -14,7 +14,7 @@ Articles that I\'ll move elsewhere in the wiki before too long:
 
 (feel free to edit/comment, of course)
 
-[Primer for Arcitectural Patterns](primer_arch_patterns)
+[Primer for Arcitectural Patterns](../archive/primer_arch_patterns)
 
 \...
 

@@ -56,7 +56,7 @@ Design: Marc-Andre Lemburg, based on the generic version
 
   ![PSF-AM-Sticker-v5.png](attachments/PSF(20)Logos/PSF-AM-Sticker-v5.png "PSF-AM-Sticker-v5.png")
 
-  (other formats will follow; if needed, please ping [MarcAndreLemburg](MarcAndreLemburg))
+  (other formats will follow; if needed, please ping [MarcAndreLemburg](../people/MarcAndreLemburg))
 
 Design: Marc-Andre Lemburg, based on the generic version
 

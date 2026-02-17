@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 4.  Felix Wiemann \-- security issues with docutils, moinmoin and zope
 
-5.  [RichardJones](RichardJones) \-- Games of the [PyGame](PyGame) contest [http://www.pyweek.org/](http://www.pyweek.org/)
+5.  [RichardJones](../../people/RichardJones) \-- Games of the [PyGame](../../multimedia/PyGame) contest [http://www.pyweek.org/](http://www.pyweek.org/)
 
 6.  Aaron Bingham \-- fixing design by contract ([fixing-dbc.pdf](attachments/EuroPy2006LightningTalks/fixing-dbc.pdf))
 
@@ -32,7 +32,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 12. Sylvain Thenault \-- static analysis of python code and pylint
 
-13. Anders Chigstroem \-- [PyPy](PyPy)\'s JIT
+13. Anders Chigstroem \-- [PyPy](../../implementations/PyPy)\'s JIT
 
 14. Aistė Kesminaitė \-- europython questionnaire
 

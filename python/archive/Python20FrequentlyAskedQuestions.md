@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This is a copy of the historical Python 2.0 FAQ page. For a more recent version, see [PythonQuestions](PythonQuestions). \--[FredrikLundh](FredrikLundh)
+This is a copy of the historical Python 2.0 FAQ page. For a more recent version, see [PythonQuestions](PythonQuestions). \--[FredrikLundh](../people/FredrikLundh)
 
 # Python 2.0 FAQ 
 
@@ -38,7 +38,7 @@ See also [CriticalPatches](./CriticalPatches.html) and [MiscPatches](./MiscPatch
 
 This was correct in Python 1.5.2.
 
-**A.** Binary floating point cannot represent decimal fractions exactly, so some rounding always occurs (even in Python 1.5.2). See [RepresentationError](RepresentationError).
+**A.** Binary floating point cannot represent decimal fractions exactly, so some rounding always occurs (even in Python 1.5.2). See [RepresentationError](../people/RepresentationError).
 
 What changed is that Python 2.0 shows more precision than before in certain circumstances (repr() and the interactive prompt).
 
@@ -123,7 +123,7 @@ Note that if you suspect a\'bug\' in Python (rather than a bug in your platform)
 
 I hope this is of interest. ([gdinwiddie@min.net](mailto:gdinwiddie@min.net))
 
-**A\*2.** There\'s definitely something broken. This warrants a bug report (if you haven\'t already submitted one to [SourceForge](SourceForge)). Useful data would be: what does \'%#.117x\' % (1,) yield? I\'m less interested in the largefile test outcome \-- it seems that the system doesn\'t actually support large files, even though it seems to support the interfaces. The longexp test looks like it might honestly run out of memory; how much memory does your system have? How much swap? See if this works if you change the file with a 10x smaller value of REPS.
+**A\*2.** There\'s definitely something broken. This warrants a bug report (if you haven\'t already submitted one to [SourceForge](../people/SourceForge)). Useful data would be: what does \'%#.117x\' % (1,) yield? I\'m less interested in the largefile test outcome \-- it seems that the system doesn\'t actually support large files, even though it seems to support the interfaces. The longexp test looks like it might honestly run out of memory; how much memory does your system have? How much swap? See if this works if you change the file with a 10x smaller value of REPS.
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ I hope this is of interest. ([gdinwiddie@min.net](mailto:gdinwiddie@min.net))
 
 **A.** Commercial offerings: For Windows and Linux, there are several: PythonWorks ( [http://www.pythonworks.com](http://www.pythonworks.com) ); Wing IDE ( [http://www.wingide.com](http://www.wingide.com) ); BlackAdder ( [http://www.thekompany.com/products/blackadder/](http://www.thekompany.com/products/blackadder/) ).
 
-In the free (what you get is not necessarily what you pay for) department: For Windows, there\'s also Pythonwin, which comes as part of ActivePython ([http://www.activestate.com](http://www.activestate.com)). For Mac OS (Classic and X), the standard [MacPython](MacPython) installation includes an IDE (\'Python IDE\'). For any platform with Tcl/Tk, there\'s also IDLE, which comes standard with Python ([http://www.python.org/idle/](http://www.python.org/idle/)).
+In the free (what you get is not necessarily what you pay for) department: For Windows, there\'s also Pythonwin, which comes as part of ActivePython ([http://www.activestate.com](http://www.activestate.com)). For Mac OS (Classic and X), the standard [MacPython](../platforms/MacPython) installation includes an IDE (\'Python IDE\'). For any platform with Tcl/Tk, there\'s also IDLE, which comes standard with Python ([http://www.python.org/idle/](http://www.python.org/idle/)).
 
 In the future, expect more offerings, e.g. VisualPython (a Visual Studio plugin from ActiveState), Komodo (a Mozilla-based cross-platform offering from ActiveState), and Boa Constructor ([http://boa-constructor.sourceforge.net](http://boa-constructor.sourceforge.net)).
 
@@ -171,7 +171,7 @@ Update: see [http://www-106.ibm.com/developerworks/linux/library/l-pide/](http:/
 
 ## RedHat 7.0 
 
-**Q.** When I make Python 2.0 on [RedHat](RedHat) 7.0 (gcc-2.96-54, glibc-2.2-5), I get lots of compilation errors in Modules/bsddbmodule.c . What should I do?
+**Q.** When I make Python 2.0 on [RedHat](../people/RedHat) 7.0 (gcc-2.96-54, glibc-2.2-5), I get lots of compilation errors in Modules/bsddbmodule.c . What should I do?
 
 **A.** You probably need to install a developer RPM (i.e. some lib & header files), in this case probably the \"GNU DB Module\".
 

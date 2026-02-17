@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Deploying PyQt Applications 
 
-This page contains information about some of the tools that could be used to deploy [PyQt](PyQt) applications on various platforms, typically in binary form.
+This page contains information about some of the tools that could be used to deploy [PyQt]() applications on various platforms, typically in binary form.
 
 The idea is that each solution should be listed along with a brief description and a link to its home page. The description should probably come from the solution\'s home page or documentation, so that it is described \"in its own words\". Further comments and links for each can be given after these fields.
 
@@ -20,13 +20,13 @@ The following tools are cross-platform, working on Windows and some flavours of 
 
 [https://build-system.fman.io](https://build-system.fman.io)
 
-Creates stand-alone executables and installers for [PyQt](PyQt) applications. Supports Windows, macOS and Linux.
+Creates stand-alone executables and installers for [PyQt]() applications. Supports Windows, macOS and Linux.
 
 ### PyInstaller 
 
 [http://pyinstaller.python-hosting.com/](http://pyinstaller.python-hosting.com/)
 
-- *\"[PyInstaller](PyInstaller) is a program that converts (packages) Python programs into stand-alone executables, under Windows, Linux and Irix.\"*
+- *\"[PyInstaller](../../people/PyInstaller) is a program that converts (packages) Python programs into stand-alone executables, under Windows, Linux and Irix.\"*
 
 A short How-To for using PyInstaller with PyQt on Mac OS-X:
 
@@ -46,7 +46,7 @@ A short How-To for using PyInstaller with PyQt on Mac OS-X:
 
 - *\"bbfreeze creates stand-alone executables from python scripts. It\'s*
 
-similar in purpose to the well known py2exe\_ for windows, py2app\_ for OS X, [PyInstaller](PyInstaller)\_ and cx_Freeze\_ (in fact ancient versions were based on cx_Freeze. And it uses the modulegraph\_ package, which is also used by py2app).\"
+similar in purpose to the well known py2exe\_ for windows, py2app\_ for OS X, [PyInstaller](../../people/PyInstaller)\_ and cx_Freeze\_ (in fact ancient versions were based on cx_Freeze. And it uses the modulegraph\_ package, which is also used by py2app).\"
 
 Mercurial repository: [http://systemexit.de/repo/bbfreeze](http://systemexit.de/repo/bbfreeze)
 
@@ -56,7 +56,7 @@ The original freeze tool that embeds Python bytecode into executables is supplie
 
 ### qmake
 
-For applications that don\'t depend too much on many shared library modules other than the ones shipped with [PyQt](PyQt), it may be possible to take advantage of qmake\'s features and a simple launcher application to create binaries for different platforms.
+For applications that don\'t depend too much on many shared library modules other than the ones shipped with [PyQt](), it may be possible to take advantage of qmake\'s features and a simple launcher application to create binaries for different platforms.
 
 ## Tools for Windows 
 

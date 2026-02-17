@@ -12,7 +12,7 @@ A guide to attendee fees:
 
 ::: {}
   -------------------- ---------- ---------- ---------- ------------------------------ --------------------------- ---------------------------------------
-  **Level**            **2005**   **2006**   **2007**   **[PyCon](PyCon) UK**   **[PyCon](PyCon)**   **[RuPy](./RuPy.html)**
+  **Level**            **2005**   **2006**   **2007**   **[PyCon](../../../pycon/PyCon) UK**   **[PyCon](../../../pycon/PyCon)**   **[RuPy](./RuPy.html)**
   Speakers (early)     70 EUR                *N/A*                                                                 
   Speakers (student)              65 EUR     *N/A*                                                                 
   Speakers             89 EUR     120 EUR    100 EUR                                                               
@@ -35,8 +35,8 @@ Note that a fortuitous choice of deadlines (having early registration end on or 
 
 ## Notes 
 
-- [PyCon](PyCon) UK is a two-day conference; rates do not include conference dinner.
+- [PyCon](../../../pycon/PyCon) UK is a two-day conference; rates do not include conference dinner.
 
-- [PyCon](PyCon) 2007 was a three-day conference.
+- [PyCon](../../../pycon/PyCon) 2007 was a three-day conference.
 
 - [RuPy](./RuPy.html) was a two-day conference.

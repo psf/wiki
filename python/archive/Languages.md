@@ -15,7 +15,7 @@ Ideally, all the pages should be like the Polish or Turkish pages - all native l
 
 There are some ground rules, some are laid down by the site admins, some are my suggestions:
 
-1.  Pages must be named in ASCII and English ([PolishLanguage](PolishLanguage))
+1.  Pages must be named in ASCII and English ([PolishLanguage](../i18n/PolishLanguage))
 
 2.  Pages must have an explanation in English at the top (Links to Python information in \<language X\>)
 
@@ -30,166 +30,166 @@ Where these pages really need help:
 
 # Languages 
 
-- [AfrikaansLanguage](AfrikaansLanguage) **Afrikaans**
+- [AfrikaansLanguage](../i18n/AfrikaansLanguage) **Afrikaans**
 
-- [AlbanianLanguage](AlbanianLanguage) **Shqip**
+- [AlbanianLanguage](../i18n/AlbanianLanguage) **Shqip**
 
-- [AmharicLanguage](AmharicLanguage) **አማርኛ**
+- [AmharicLanguage](../i18n/AmharicLanguage) **አማርኛ**
 
-- [ArabicLanguage](ArabicLanguage) **العربية**
+- [ArabicLanguage](../i18n/ArabicLanguage) **العربية**
 
-- [ArmenianLanguage](ArmenianLanguage) **Հայերեն**
+- [ArmenianLanguage](../i18n/ArmenianLanguage) **Հայերեն**
 
-- [AssameseLanguage](AssameseLanguage) **অসমীয়া**
+- [AssameseLanguage](../i18n/AssameseLanguage) **অসমীয়া**
 
-- [AzerbaijaniLanguage](AzerbaijaniLanguage) **Azərbaycan dili**
+- [AzerbaijaniLanguage](../i18n/AzerbaijaniLanguage) **Azərbaycan dili**
 
-- [BelarusianLanguage](BelarusianLanguage) **Беларуская мова**
+- [BelarusianLanguage](../i18n/BelarusianLanguage) **Беларуская мова**
 
-- [BengaliLanguage](BengaliLanguage) **বাংলা**
+- [BengaliLanguage](../i18n/BengaliLanguage) **বাংলা**
 
-- [BodoLanguage](BodoLanguage) **बड़ो**
+- [BodoLanguage](../i18n/BodoLanguage) **बड़ो**
 
-- [BosnianLanguage](BosnianLanguage) **bosanski**
+- [BosnianLanguage](../i18n/BosnianLanguage) **bosanski**
 
-- [BulgarianLanguage](BulgarianLanguage) **български език**
+- [BulgarianLanguage](../i18n/BulgarianLanguage) **български език**
 
-- [BurmeseLanguage](BurmeseLanguage) **မြန်မာဘာသာ**
+- [BurmeseLanguage](../i18n/BurmeseLanguage) **မြန်မာဘာသာ**
 
-- [CatalanLanguage](CatalanLanguage) **català**
+- [CatalanLanguage](../i18n/CatalanLanguage) **català**
 
-- [ChineseLanguage](ChineseLanguage) **中文**
+- [ChineseLanguage](../i18n/ChineseLanguage) **中文**
 
-- [CroatianLanguage](CroatianLanguage) **hrvatski**
+- [CroatianLanguage](../i18n/CroatianLanguage) **hrvatski**
 
-- [CzechLanguage](CzechLanguage) **čeština**
+- [CzechLanguage](../i18n/CzechLanguage) **čeština**
 
-- [DanishLanguage](DanishLanguage) **dansk**
+- [DanishLanguage](../i18n/DanishLanguage) **dansk**
 
-- [DogriLanguage](DogriLanguage) **डोगरी** Devanagari script
+- [DogriLanguage](../i18n/DogriLanguage) **डोगरी** Devanagari script
 
-- [DutchLanguage](DutchLanguage) **Nederlands**
+- [DutchLanguage](../i18n/DutchLanguage) **Nederlands**
 
-- [EsperantoLanguage](EsperantoLanguage) **Esperanto**
+- [EsperantoLanguage](../i18n/EsperantoLanguage) **Esperanto**
 
-- [EstonianLanguage](EstonianLanguage) **eesti keel**
+- [EstonianLanguage](../i18n/EstonianLanguage) **eesti keel**
 
-- [FinnishLanguage](FinnishLanguage) **suomi**
+- [FinnishLanguage](../i18n/FinnishLanguage) **suomi**
 
-- [FrenchLanguage](FrenchLanguage) **français**
+- [FrenchLanguage](../i18n/FrenchLanguage) **français**
 
-- [GeorgianLanguage](GeorgianLanguage) **ქართული ენა**
+- [GeorgianLanguage](../i18n/GeorgianLanguage) **ქართული ენა**
 
-- [GermanLanguage](GermanLanguage) **Deutsch**
+- [GermanLanguage](../i18n/GermanLanguage) **Deutsch**
 
-- [GreekLanguage](GreekLanguage) **Νέα Ελληνικά**
+- [GreekLanguage](../i18n/GreekLanguage) **Νέα Ελληνικά**
 
-- [GujaratiLanguage](GujaratiLanguage) **ગુજરાતી**
+- [GujaratiLanguage](../i18n/GujaratiLanguage) **ગુજરાતી**
 
-- [HausaLanguage](HausaLanguage) **Hausa**
+- [HausaLanguage](../i18n/HausaLanguage) **Hausa**
 
-- [HebrewLanguage](HebrewLanguage) **עִבְרִית**
+- [HebrewLanguage](../i18n/HebrewLanguage) **עִבְרִית**
 
-- [HindiLanguage](HindiLanguage) **हिन्दी**
+- [HindiLanguage](../i18n/HindiLanguage) **हिन्दी**
 
-- [HungarianLanguage](HungarianLanguage) **magyar nyelv**
+- [HungarianLanguage](../i18n/HungarianLanguage) **magyar nyelv**
 
-- [IndonesianLanguage](IndonesianLanguage) **Bahasa Indonesia**
+- [IndonesianLanguage](../i18n/IndonesianLanguage) **Bahasa Indonesia**
 
-- [IcelandicLanguage](IcelandicLanguage) **íslenska**
+- [IcelandicLanguage](../i18n/IcelandicLanguage) **íslenska**
 
-- [IgboLanguage](IgboLanguage) **Asụsụ Igbo**
+- [IgboLanguage](../i18n/IgboLanguage) **Asụsụ Igbo**
 
-- [ItalianLanguage](ItalianLanguage) **italiano**
+- [ItalianLanguage](../i18n/ItalianLanguage) **italiano**
 
-- [JapaneseLanguage](JapaneseLanguage) **日本語**
+- [JapaneseLanguage](../i18n/JapaneseLanguage) **日本語**
 
-- [KannadaLanguage](KannadaLanguage) **ಕನ್ನಡ**
+- [KannadaLanguage](../i18n/KannadaLanguage) **ಕನ್ನಡ**
 
-- [KashmiriLanguage](KashmiriLanguage) **कॉशुर** (Koshur)
+- [KashmiriLanguage](../i18n/KashmiriLanguage) **कॉशुर** (Koshur)
 
-- [KazakhLanguage](KazakhLanguage) **Қазақ тілі**
+- [KazakhLanguage](../i18n/KazakhLanguage) **Қазақ тілі**
 
-- [KhmerLanguage](KhmerLanguage) **ភាសាខ្មែរ**
+- [KhmerLanguage](../i18n/KhmerLanguage) **ភាសាខ្មែរ**
 
-- [KonkaniLanguage](KonkaniLanguage) **कोंकणी** Devangari script
+- [KonkaniLanguage](../i18n/KonkaniLanguage) **कोंकणी** Devangari script
 
-- [KoreanLanguage](KoreanLanguage) **한국어/조선말**
+- [KoreanLanguage](../i18n/KoreanLanguage) **한국어/조선말**
 
-- [LaoLanguage](LaoLanguage) **ພາສາລາວ**
+- [LaoLanguage](../i18n/LaoLanguage) **ພາສາລາວ**
 
-- [LatvianLanguage](LatvianLanguage) **latviešu valoda**
+- [LatvianLanguage](../i18n/LatvianLanguage) **latviešu valoda**
 
-- [LithuanianLanguage](LithuanianLanguage) **lietuvių kalba**
+- [LithuanianLanguage](../i18n/LithuanianLanguage) **lietuvių kalba**
 
-- [MalayLanguage](MalayLanguage) **Bahasa Melayu**
+- [MalayLanguage](../i18n/MalayLanguage) **Bahasa Melayu**
 
-- [MalayalamLanguage](MalayalamLanguage) **മലയാളം**
+- [MalayalamLanguage](../i18n/MalayalamLanguage) **മലയാളം**
 
-- [MarathiLanguage](MarathiLanguage) **मराठी**
+- [MarathiLanguage](../i18n/MarathiLanguage) **मराठी**
 
-- [MongolianLanguage](MongolianLanguage) **Монгол хэл**
+- [MongolianLanguage](../i18n/MongolianLanguage) **Монгол хэл**
 
-- [NepaliLanguage](NepaliLanguage) **नेपाली**
+- [NepaliLanguage](../i18n/NepaliLanguage) **नेपाली**
 
-- [NorwegianLanguage](NorwegianLanguage) **norsk**
+- [NorwegianLanguage](../i18n/NorwegianLanguage) **norsk**
 
-- [OriyaLanguage](OriyaLanguage) **ଓଡ଼ିଆ**
+- [OriyaLanguage](../i18n/OriyaLanguage) **ଓଡ଼ିଆ**
 
-- [OromoLanguage](OromoLanguage) **Afaan Oromoo**
+- [OromoLanguage](../i18n/OromoLanguage) **Afaan Oromoo**
 
-- [PersianLanguage](PersianLanguage) **فارسی**
+- [PersianLanguage](../i18n/PersianLanguage) **فارسی**
 
-- [PolishLanguage](PolishLanguage) **język polski**
+- [PolishLanguage](../i18n/PolishLanguage) **język polski**
 
-- [PortugueseLanguage](PortugueseLanguage) **português**
+- [PortugueseLanguage](../i18n/PortugueseLanguage) **português**
 
-- [PunjabiLanguage](PunjabiLanguage) **ਪੰਜਾਬੀ**
+- [PunjabiLanguage](../i18n/PunjabiLanguage) **ਪੰਜਾਬੀ**
 
 - [WesternPunjabiLanguage](WesternPunjabiLanguage) **پنجابی**
 
-- [RomanianLanguage](RomanianLanguage) **limba română**
+- [RomanianLanguage](../i18n/RomanianLanguage) **limba română**
 
-- [RussianLanguage](RussianLanguage) **русский язык**
+- [RussianLanguage](../i18n/RussianLanguage) **русский язык**
 
-- [SanskritLanguage](SanskritLanguage) **संस्कृत**
+- [SanskritLanguage](../i18n/SanskritLanguage) **संस्कृत**
 
-- [SlovakLanguage](SlovakLanguage) **slovenský jazyk**
+- [SlovakLanguage](../i18n/SlovakLanguage) **slovenský jazyk**
 
-- [SloveneLanguage](SloveneLanguage) **slovenščina**
+- [SloveneLanguage](../i18n/SloveneLanguage) **slovenščina**
 
-- [SerbianLanguage](SerbianLanguage) **Српски**
+- [SerbianLanguage](../i18n/SerbianLanguage) **Српски**
 
-- [SinhalaLanguage](SinhalaLanguage) **සිංහල**
+- [SinhalaLanguage](../i18n/SinhalaLanguage) **සිංහල**
 
-- [SpanishLanguage](SpanishLanguage) **español**
+- [SpanishLanguage](../i18n/SpanishLanguage) **español**
 
-- [SwahiliLanguage](SwahiliLanguage) **Kiswahili**
+- [SwahiliLanguage](../i18n/SwahiliLanguage) **Kiswahili**
 
-- [SwedishLanguage](SwedishLanguage) **svenska**
+- [SwedishLanguage](../i18n/SwedishLanguage) **svenska**
 
-- [TagalogLanguage](TagalogLanguage) **Wikang Tagalog**
+- [TagalogLanguage](../i18n/TagalogLanguage) **Wikang Tagalog**
 
-- [TamilLanguage](TamilLanguage) **தமிழ**
+- [TamilLanguage](../i18n/TamilLanguage) **தமிழ**
 
-- [TeluguLanguage](TeluguLanguage) **తెలుగు**
+- [TeluguLanguage](../i18n/TeluguLanguage) **తెలుగు**
 
-- [ThaiLanguage](ThaiLanguage) **ภาษาไทย**
+- [ThaiLanguage](../i18n/ThaiLanguage) **ภาษาไทย**
 
-- [TigrinyaLanguage](TigrinyaLanguage) **ትግርኛ**
+- [TigrinyaLanguage](../i18n/TigrinyaLanguage) **ትግርኛ**
 
-- [TurkishLanguage](TurkishLanguage) **Türkçe**
+- [TurkishLanguage](../i18n/TurkishLanguage) **Türkçe**
 
-- [UkranianLanguage](UkranianLanguage) **украї́нська мо́ва**
+- [UkranianLanguage](../i18n/UkranianLanguage) **украї́нська мо́ва**
 
-- [UrduLanguage](UrduLanguage) **اُردوُ**
+- [UrduLanguage](../i18n/UrduLanguage) **اُردوُ**
 
-- [UzbekLanguage](UzbekLanguage) **O'zbek tili**
+- [UzbekLanguage](../i18n/UzbekLanguage) **O'zbek tili**
 
-- [VietnameseLanguage](VietnameseLanguage) **tiếng Việt**
+- [VietnameseLanguage](../i18n/VietnameseLanguage) **tiếng Việt**
 
-- [XhosaLanguage](XhosaLanguage) **isiXhosa**
+- [XhosaLanguage](../i18n/XhosaLanguage) **isiXhosa**
 
-- [ZuluLanguage](ZuluLanguage) **isiZulu**
+- [ZuluLanguage](../i18n/ZuluLanguage) **isiZulu**
 
 [CategoryLanguage](CategoryLanguage) [CategoryUnicode](CategoryUnicode)

@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Sprinting 
 
-The BoulderSprint is a regular activity of the [FrontRangePythoneers](FrontRangePythoneers). We held six sprints in 2007, and we hope to do this or better in 2008. If you are interested in holding a sprint with us, please contact FRP leader Jim Baker (jbaker AT zyasoft DOT com).
+The BoulderSprint is a regular activity of the [FrontRangePythoneers](../community/FrontRangePythoneers). We held six sprints in 2007, and we hope to do this or better in 2008. If you are interested in holding a sprint with us, please contact FRP leader Jim Baker (jbaker AT zyasoft DOT com).
 
-For more information about sprints in general, read the [SprintIntroduction](SprintIntroduction) page. [SteveHolden](SteveHolden) has a useful [article](http://www.onlamp.com/pub/a/python/2006/10/19/running-a-sprint.html) in the [OnLamp Python DevCenter](http://www.onlamp.com/python/) on how to run a sprint.
+For more information about sprints in general, read the [SprintIntroduction](../sprints/SprintIntroduction) page. [SteveHolden](SteveHolden) has a useful [article](http://www.onlamp.com/pub/a/python/2006/10/19/running-a-sprint.html) in the [OnLamp Python DevCenter](http://www.onlamp.com/python/) on how to run a sprint.
 
 Sprints have both short-term and long-term value. If you attend a sprint, you are going to get an immediate and immersive introduction to an opensource codebase. It\'s quite possible that code you write that day will get accepted immediately into the project, via its trunk or a branch. And then there is the long-term payoff, where the sprint leads into a longer journey. The newcompiler project for Jython 2.5 (sprints Jan 6, Feb 3, Aug 4) was merged into trunk on Jan 7, 2008, and is part of two students\' master and dissertation research respectively. The modern branch (expected to be merged in soon) generated some interest for Django on Jython, and soon perhaps ipython on Jython too (also due to another local Pythoneer) (sprints Sept 14-15; Dec 1); the Boulder-Oracle branch was merged April 19 into the Django trunk for its Oracle support (sprint Nov 4, 2006). (Fill in more long-term stories.)
 
@@ -200,7 +200,7 @@ The bug report stipulating Oracle support by Django version 1.0 is here: [http:/
 
 ## Post Sprint Party 
 
-Some of us are planning to go to the [Cuban Connection fundraiser](http://www.bouldercuba.org/), 6 PM - 1 AM, St. Julien Hotel (our favorite meeting place for [FrontRangePythoneers](FrontRangePythoneers)). In addition to raising money for a good cause, this will be a chance to stretch our weary coding muscles while dancing salsa to Quemando and Havana NRG.
+Some of us are planning to go to the [Cuban Connection fundraiser](http://www.bouldercuba.org/), 6 PM - 1 AM, St. Julien Hotel (our favorite meeting place for [FrontRangePythoneers](../community/FrontRangePythoneers)). In addition to raising money for a good cause, this will be a chance to stretch our weary coding muscles while dancing salsa to Quemando and Havana NRG.
 
 ## Photo Stream 
 

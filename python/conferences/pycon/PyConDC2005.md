@@ -30,7 +30,7 @@ Manager: Jim Fulton
 
 ## Lightning Talks 
 
-Manager: [JeremyHylton](JeremyHylton)
+Manager: [JeremyHylton](../../people/JeremyHylton)
 
 [/LightningTalks](PyConDC2005/LightningTalks)
 

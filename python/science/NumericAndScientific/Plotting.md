@@ -14,7 +14,7 @@ Over the years many different plotting modules and packages have been developed 
 
 - The [PIL Toolkit](http://www.pythonware.com/downloads.htm#pil) provides a very powerful set of tools for manipulating images. [Documentation](http://www.pythonware.com/library/pil/handbook/index.htm)
 
-- [PyQtGraph](http://www.pyqtgraph.org) is a pure-python graphics library built on [PyQt4](PyQt4) and numpy. It is intended for use in mathematics / scientific / engineering applications. The library provides widgets and graphicsItems for displaying / analyzing live image data (including 16-bit) as well as translate/scale/rotatable region-of-interest widgets for interactively slicing numpy arrays. The library is very fast due to its heavy leverage of numpy and Qt\'s graphicsView framework.
+- [PyQtGraph](http://www.pyqtgraph.org) is a pure-python graphics library built on [PyQt4](../../gui/PyQt4) and numpy. It is intended for use in mathematics / scientific / engineering applications. The library provides widgets and graphicsItems for displaying / analyzing live image data (including 16-bit) as well as translate/scale/rotatable region-of-interest widgets for interactively slicing numpy arrays. The library is very fast due to its heavy leverage of numpy and Qt\'s graphicsView framework.
 
 ## Plotting Tools 
 
@@ -36,15 +36,15 @@ Over the years many different plotting modules and packages have been developed 
 
 - [GR](http://gr-framework.org) is a universal framework for cross-platform visualization applications, ranging from publication quality 2D graphs to the representation of complex 3D scenes. GR provides both MATLAB-like convenience functions as well as a low-level functional interface. GR can be used in imperative programming systems or integrated into modern object-oriented systems, in particular those based on GUI toolkits (Qt, wxWidgets, Gtk) or interactive browser environments (Jupyter). GR can also be used as a backend for Matplotlib and speed up existing applications. The GR framework is especially suitable for real-time environments.
 
-- [Veusz](http://home.gna.org/veusz/) is a GPL scientific plotting package written in Python and [PyQt](PyQt), designed to create publication-quality output. Graphs are built up from simple components, and the program features an integrated command-line, GUI and scripting interface. Veusz can also be embedded in other Python programs, even those not using [PyQt](PyQt).
+- [Veusz](http://home.gna.org/veusz/) is a GPL scientific plotting package written in Python and [PyQt](../../gui/PyQt), designed to create publication-quality output. Graphs are built up from simple components, and the program features an integrated command-line, GUI and scripting interface. Veusz can also be embedded in other Python programs, even those not using [PyQt](../../gui/PyQt).
 
 - [Visvis](http://code.google.com/p/visvis/) is a pure Python library for visualization of 1D to 4D data in an object oriented way. Essentially, visvis is an object oriented layer of Python on top of [OpenGl](./OpenGl.html), thereby combining the power of [OpenGl](./OpenGl.html) with the usability of Python. A Matlab-like interface in the form of a set of functions allows easy creation of objects (e.g. plot(), imshow(), volshow(), surf()).
 
-- [Chaco](http://code.enthought.com/projects/chaco/) is a device-independent 2D plotting package based on a DisplayPDF API. It supports **fast** vector graphics rendering for **interactive data analysis** (read: fast live updating plots) and custom plot construction. Chaco is easy to embed in python GUI applications (wxWindows, Qt) and provides nice abstractions for overlays and tools (select regions, zoom/pan, cross-hairs, labels, data inspectors, etc.). Chaco is able to output to any raster format supported by [PIL](http://www.pythonware.com/downloads.htm#pil), as well as PDF, [PostScript](PostScript) and SVG backends. See [the gallery](http://code.enthought.com/projects/chaco/gallery.php) for screenshots and code examples.
+- [Chaco](http://code.enthought.com/projects/chaco/) is a device-independent 2D plotting package based on a DisplayPDF API. It supports **fast** vector graphics rendering for **interactive data analysis** (read: fast live updating plots) and custom plot construction. Chaco is easy to embed in python GUI applications (wxWindows, Qt) and provides nice abstractions for overlays and tools (select regions, zoom/pan, cross-hairs, labels, data inspectors, etc.). Chaco is able to output to any raster format supported by [PIL](http://www.pythonware.com/downloads.htm#pil), as well as PDF, [PostScript](../../people/PostScript) and SVG backends. See [the gallery](http://code.enthought.com/projects/chaco/gallery.php) for screenshots and code examples.
 
 - [diaGrabber](./radjkarl(2e)github(2e)io(2f)diaGrabber.html) is based on [PyQtGraph](http://www.pyqtgraph.org/) and allows you to read, filter, process, interpolate and plot n-dimensional values from different sources (like libreOffice- or csv-files) and variable size. Through interactive reading it\'s also possible to evaluate streams in a kind of \'software-oscilloscope\'.
 
-- [KonradHinsen](KonradHinsen) has some plotting support in his [ScientificPython](ScientificPython) package, for example [TkPlotCanvas](./TkPlotCanvas.html).
+- [KonradHinsen](../../people/KonradHinsen) has some plotting support in his [ScientificPython](../../people/ScientificPython) package, for example [TkPlotCanvas](./TkPlotCanvas.html).
 
 - Michael Haggerty has [a Gnuplot module](http://gnuplot-py.sourceforge.net/) that interfaces with [the GNUPLOT package](http://www.gnuplot.info).
 
@@ -86,7 +86,7 @@ Over the years many different plotting modules and packages have been developed 
 
 - [WHIFF](http://whiff.sourceforge.net/) includes built in support for generating Adobe Flash chart widgets using either the amCharts charting package or the Open Flash Chart package. The generated charts may be embedded in dynamic web pages.
 
-- [PyQtGraph](http://www.pyqtgraph.org) is a pure-python graphics library built on [PyQt4](PyQt4) and numpy. It is intended for use in mathematics / scientific / engineering applications. The library is very fast due to its heavy leverage of numpy and Qt\'s graphicsView framework. Major features: 1) a feature-rich plotting system, and 2) an image display system with translate/scale/rotatable region-of-interest widgets.
+- [PyQtGraph](http://www.pyqtgraph.org) is a pure-python graphics library built on [PyQt4](../../gui/PyQt4) and numpy. It is intended for use in mathematics / scientific / engineering applications. The library is very fast due to its heavy leverage of numpy and Qt\'s graphicsView framework. Major features: 1) a feature-rich plotting system, and 2) an image display system with translate/scale/rotatable region-of-interest widgets.
 
 - [sambo.plot](https://sambo-optimization.github.io/doc/sambo/plot.html) module from [SAMBO](https://sambo-optimization.github.io) includes functions for plotting n-d partial dependence, convergence, regret, and sequence of evaluations in global optimization.
 

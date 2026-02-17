@@ -12,7 +12,7 @@ This page is intended to give the reader some hints and tips on \"In House User 
 
 ## What is an In House User Group 
 
-In House User Groups are similar to [LocalUserGroups](LocalUserGroups) but with some specific differences that make starting, or running, one a little different. They are normally **closed** in the sense of being restricted in their membership to people within the specific company or organization. They often have some value above and beyond Local User Groups in that:
+In House User Groups are similar to [LocalUserGroups](../community/LocalUserGroups) but with some specific differences that make starting, or running, one a little different. They are normally **closed** in the sense of being restricted in their membership to people within the specific company or organization. They often have some value above and beyond Local User Groups in that:
 
 - They can promote the use of Python within the company or organization
 

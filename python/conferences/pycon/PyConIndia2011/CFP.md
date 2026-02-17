@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PyCon India 2011 -- Call for Proposals 
 
-[PyCon](PyCon) India is the only conference of its kind organized in India for Python programming language enthusiasts from all over the country. [PyCon](PyCon) India is being held in Pune, Mahrashtra India for the third time from 17th September 2011 to 19th September 2011 at Symbiosis Pune.
+[PyCon](../PyCon) India is the only conference of its kind organized in India for Python programming language enthusiasts from all over the country. [PyCon](../PyCon) India is being held in Pune, Mahrashtra India for the third time from 17th September 2011 to 19th September 2011 at Symbiosis Pune.
 
 The organizers of Pycon India 2011 are looking for talk proposals to fill the formal presentation tracks. We accept proposals on a very broad range of topics related to Python programming.
 
@@ -48,7 +48,7 @@ Topics for presentations for Pycon India include but is not limited to,
 
 - Other Python libraries and extensions
 
-- Other Python implementations (such as [PyPy](PyPy), [IronPython](IronPython) etc)
+- Other Python implementations (such as [PyPy](../../../implementations/PyPy), [IronPython](../../../implementations/IronPython) etc)
 
 - Concurrency
 

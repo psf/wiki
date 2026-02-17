@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Why? 
 
-**Note:** Much of this has been done. See [PythonWebsite](PythonWebsite) for ongoing work on content and tools for the python.org website.
+**Note:** Much of this has been done. See [PythonWebsite](../infrastructure/PythonWebsite) for ongoing work on content and tools for the python.org website.
 
-During [PyCon](PyCon) 2003 the need to make changes to python.org was clearly identified. See [PythonOrgWebsiteRedesignOpenSpace](PythonOrgWebsiteRedesignOpenSpace).
+During [PyCon](../conferences/pycon/PyCon) 2003 the need to make changes to python.org was clearly identified. See [PythonOrgWebsiteRedesignOpenSpace](../archive/PythonOrgWebsiteRedesignOpenSpace).
 
 The overhaul is taking place in (at least) two phases, as detailed below. The phases are not set in stone, items can and should be moved around as necessary.
 

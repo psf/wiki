@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # What We Are Going To Do 
 
-Guido has requested that the AST branch please be finished for Python 2.5 . Sprint on the AST branch has also become a tradition since the first sprint at [PyCon](PyCon) 2003. Here is a rough list of what needs to be worked on:
+Guido has requested that the AST branch please be finished for Python 2.5 . Sprint on the AST branch has also become a tradition since the first sprint at [PyCon](../conferences/pycon/PyCon) 2003. Here is a rough list of what needs to be worked on:
 
 \* applying patches from SF
 

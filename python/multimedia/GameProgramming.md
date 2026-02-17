@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 You can write whole games in Python using [PyGame](http://www.pygame.org/). See a list of other [PythonGameLibraries](PythonGameLibraries) maintained in this Wiki, or [this list maintained on DevMaster.net](http://www.devmaster.net/engines/list.php?fid=6&sid=11). A full tutorial can be found in the free book [\"Making Games with Python & Pygame\"](http://inventwithpython.com/pygame).
 
-If you have an existing game and want to add a scripting engine to make it more flexible, Python is also a very good choice. But you\'ll have to learn about [IntegratingPythonWithOtherLanguages](IntegratingPythonWithOtherLanguages).
+If you have an existing game and want to add a scripting engine to make it more flexible, Python is also a very good choice. But you\'ll have to learn about [IntegratingPythonWithOtherLanguages](../archive/IntegratingPythonWithOtherLanguages).
 
 ## Websites 
 

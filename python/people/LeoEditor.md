@@ -39,7 +39,7 @@ Leo is\...
 
 - Portable. Leo runs on Windows, Linux and MacOS X
 
-- Requires the [PyQt](PyQt) widget set
+- Requires the [PyQt](../gui/PyQt) widget set
 
 - Outline files are XML format
 

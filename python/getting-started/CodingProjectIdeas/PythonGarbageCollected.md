@@ -14,7 +14,7 @@ I actually got a semi-working python running with boehm GC, but did not complete
 
 I agree with James that this is doable, but it is a much bigger project than one might think since CPython is heavily dependent on the idea of reference counting. Several places perform optimization tricks based on the refcount of an object; changing the scheme would require ferretting out all of that code and changing it to work with whatever scheme is used. So if you do decide to attempt this, brace for an actual performance drop. =) \-- Brett Cannon
 
-I agree with everything said so far \-- it would be great to see someone do a really thorough job of exploring the possibilities in this area, but unless you find some way of playing nice to C extensions and still having a copying collector, I wouldn\'t be too optmistic that any actually useful code would come from it. \-- [MichaelHudson](MichaelHudson)
+I agree with everything said so far \-- it would be great to see someone do a really thorough job of exploring the possibilities in this area, but unless you find some way of playing nice to C extensions and still having a copying collector, I wouldn\'t be too optmistic that any actually useful code would come from it. \-- [MichaelHudson](../../people/MichaelHudson)
 
 ------------------------------------------------------------------------
 

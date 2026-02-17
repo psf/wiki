@@ -23,7 +23,7 @@ You can automatically enable syntax coloring and automatic indentation for Pytho
     syntax on
     filetype indent plugin on
 
-The following sections correspond to the guidelines from the [HowToEditPythonCode](HowToEditPythonCode) page.
+The following sections correspond to the guidelines from the [HowToEditPythonCode](../guides/HowToEditPythonCode) page.
 
 ### Indentation 
 

@@ -22,7 +22,7 @@ The DB-API is a specification for a common interface to relational databases. Th
 
 - [DbApiFaq](DbApiFaq)
 
-- [UsingDbApiWithPostgres](UsingDbApiWithPostgres)
+- [UsingDbApiWithPostgres](../archive/UsingDbApiWithPostgres)
 
 ### Talks 
 
@@ -34,7 +34,7 @@ The DB-API is a specification for a common interface to relational databases. Th
 
 - [DbApi3](DbApi3) \-- discussion of possible topics for a DB-API 3.
 
-- [ExtendingTheDbApi](ExtendingTheDbApi)
+- [ExtendingTheDbApi](../archive/ExtendingTheDbApi)
 
 ### Historical development 
 
@@ -42,7 +42,7 @@ The DB-API is a specification for a common interface to relational databases. Th
 
 ## Related tools 
 
-- [HigherLevelDatabaseProgramming](HigherLevelDatabaseProgramming) \-- wrappers that provide simpler or higher-level database interfaces, such as object/relational mappers and SQL generators.
+- [HigherLevelDatabaseProgramming](../archive/HigherLevelDatabaseProgramming) \-- wrappers that provide simpler or higher-level database interfaces, such as object/relational mappers and SQL generators.
 
 - [SQL Relay](http://sqlrelay.sourceforge.net/) is a persistent database connection pooling, proxying and load balancing system for Unix systems, supporting many different databases and languages, including PostgreSQL and Python.
 
@@ -54,8 +54,8 @@ The DB-API is a specification for a common interface to relational databases. Th
 
 ## Non-relational Databases 
 
-- [PersistenceTools](PersistenceTools) \-- describes non-relational tools for storing data on disk.
+- [PersistenceTools](../people/PersistenceTools) \-- describes non-relational tools for storing data on disk.
 
-- [XmlDatabases](XmlDatabases)
+- [XmlDatabases](../people/XmlDatabases)
 
 - [Matisse Software](http://www.matisse.com/product_information/language_bindings/lang_python.html) provides Python bindings for their object database.

@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 *Having cool merchandise is one way to spread the word about Python. We all love a T-shirt with a good idea on it. And a carefully understanded polo shirt works well too. But what else might work?*
 
-While the [PSF](PSF) may offer some of these items, the goal is not necessarily to raise funds but to promote the adoption of Python. We prefer items that cast Python in a favorable light over those that are just cute.
+While the [PSF](../../PSF) may offer some of these items, the goal is not necessarily to raise funds but to promote the adoption of Python. We prefer items that cast Python in a favorable light over those that are just cute.
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ While the [PSF](PSF) may offer some of these items, the goal is not necessarily 
 
 - ???
 
-A travel mug would be good; I\'d buy one. \--[FredDrake](FredDrake)
+A travel mug would be good; I\'d buy one. \--[FredDrake](../../people/FredDrake)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ And what size of poster would you want? Is 11\"x14\" good enough? The *right* si
 
 - The PSF\'s [CafePress](./CafePress.html) store has bumper stickers and oval stickers with the Python logo. We can purchase them at-cost for resale, though it might be possible to find a cheaper vendor for bulk purchases.
 
-- Those metal pins that [PyCon](PyCon) has are really, really nice. Something like that with the Python logo would be cool.
+- Those metal pins that [PyCon](../../conferences/pycon/PyCon) has are really, really nice. Something like that with the Python logo would be cool.
 
 ## Necklaces and USB Key 
 
@@ -64,6 +64,6 @@ And what size of poster would you want? Is 11\"x14\" good enough? The *right* si
 
 ## Mousepads 
 
-\* 2 years ago many people were interested in this as [PyCon](PyCon) swag
+\* 2 years ago many people were interested in this as [PyCon](../../conferences/pycon/PyCon) swag
 
 ------------------------------------------------------------------------

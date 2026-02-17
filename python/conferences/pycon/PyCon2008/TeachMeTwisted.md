@@ -10,7 +10,7 @@ Steve Holden challenges the Twisted community to cram as much into his failing b
 
 The intention is to try and remove as much as possible of Twisted\'s mystique, revealing it as the elegant and capable network applications framework that all true Pythonistas know it to be.
 
-If everyone can have some fun along the way then that will be entirely within the spirit of the presentation. Given that it occurs on St. Patrick\'s day (which has been moved to Saturday especially for [PyCon](PyCon)) Steve offers to buy a green beer or equivalent beverage to anyone who provides particular enlightenment, creates especial amusement or otherwise entertains the assembled crowd. Assuming any kind of crowd assembles.
+If everyone can have some fun along the way then that will be entirely within the spirit of the presentation. Given that it occurs on St. Patrick\'s day (which has been moved to Saturday especially for [PyCon](../PyCon)) Steve offers to buy a green beer or equivalent beverage to anyone who provides particular enlightenment, creates especial amusement or otherwise entertains the assembled crowd. Assuming any kind of crowd assembles.
 
 It would be helpful if those planning to attend would sign up below to ensure that an appropriately sized room is allocated. If the meeting can be held in a telephone kiosk it may cancel.
 

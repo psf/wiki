@@ -22,9 +22,9 @@ You could do all *sorts* of cool things with a sandboxed Python:
 
 ## Technical Mechanisms 
 
-A \"Sandboxed Python\" would let you permit or forbid modules, limit execution slices, permit or deny network traffic, constrain filesystem access to a particular directory (floated as \"/\"), and so on. It is also referred to as [RestrictedExecution](http://docs.python.org/lib/restricted.html), a topic brought up by Mitch Kapor at [PyCon](PyCon) and noted on his [blog](http://blogs.osafoundation.org/mitch/000559.html#000559).
+A \"Sandboxed Python\" would let you permit or forbid modules, limit execution slices, permit or deny network traffic, constrain filesystem access to a particular directory (floated as \"/\"), and so on. It is also referred to as [RestrictedExecution](http://docs.python.org/lib/restricted.html), a topic brought up by Mitch Kapor at [PyCon](../conferences/pycon/PyCon) and noted on his [blog](http://blogs.osafoundation.org/mitch/000559.html#000559).
 
-Related topics include capabilities as mentioned in [PythonThreeDotOh](PythonThreeDotOh), specifically [this message on \"capability-mediated modules\"](http://mail.python.org/pipermail/python-dev/2003-March/034149.html). Some work has been done to support capabilities in languages with similar heritage to Python, notably [CaPerl](http://caperl.links.org/).
+Related topics include capabilities as mentioned in [PythonThreeDotOh](../archive/PythonThreeDotOh), specifically [this message on \"capability-mediated modules\"](http://mail.python.org/pipermail/python-dev/2003-March/034149.html). Some work has been done to support capabilities in languages with similar heritage to Python, notably [CaPerl](http://caperl.links.org/).
 
 ## Implementation/Realisation Strategies 
 
@@ -32,7 +32,7 @@ Some of these strategies were suggested in the discussion below.
 
 ### Use Another Runtime 
 
-[PyPy](PyPy) has support for creating a sandboxed Python interpreter. The Java and CLR/.NET runtimes support restricted execution, and these can be utilised through the Jython and [IronPython](IronPython) variants of Python (as well as by other languages, obviously).
+[PyPy](../implementations/PyPy) has support for creating a sandboxed Python interpreter. The Java and CLR/.NET runtimes support restricted execution, and these can be utilised through the Jython and [IronPython](../implementations/IronPython) variants of Python (as well as by other languages, obviously).
 
 ### Use Operating System Support 
 
@@ -56,26 +56,26 @@ There are a number of people who are interested in creating a new sandboxing sys
 
 ## Reactions 
 
-For my part, I think this is something that the PSF should fund development on so that it happens sooner rather than later. There are enough interested parties, that lends itself to getting government or other grant funding. \-- [KevinAltis](KevinAltis)
+For my part, I think this is something that the PSF should fund development on so that it happens sooner rather than later. There are enough interested parties, that lends itself to getting government or other grant funding. \-- [KevinAltis](../people/KevinAltis)
 
-Having used the rexec stuff years ago (1995-6), I seem to recall that the principles of that module involved restricting the modules available, possibly along with the attributes available from each module, class and object. Is there a concise summary of how such mechanisms could have been subverted/exploited and a description of why they are particularly hard to fix? Or is that what this page is about? \-- [PaulBoddie](PaulBoddie)
+Having used the rexec stuff years ago (1995-6), I seem to recall that the principles of that module involved restricting the modules available, possibly along with the attributes available from each module, class and object. Is there a concise summary of how such mechanisms could have been subverted/exploited and a description of why they are particularly hard to fix? Or is that what this page is about? \-- [PaulBoddie](../people/PaulBoddie)
 
-I think it should be what the page is about. The basic problem is that Python\'s introspection allows several ways to \"escape\". For instance, code which is passed a file object, f, are given access to that single file, but it ALSO can use \"type(f)\", or \"f.class\" to get access to \"file\" itself, and then use it to open any file. Security experts will tell you that \"plugging holes\" is generally a poor approach to security because there usually turn out to be additional \"holes\" you hadn\'t considered \-- true security requires an overall design with security considerations included. Doing this for Python is not impossible, but may prove difficult. On the other hand, I would agree that it is worthwhile. \-- [MichaelChermside](MichaelChermside)
+I think it should be what the page is about. The basic problem is that Python\'s introspection allows several ways to \"escape\". For instance, code which is passed a file object, f, are given access to that single file, but it ALSO can use \"type(f)\", or \"f.class\" to get access to \"file\" itself, and then use it to open any file. Security experts will tell you that \"plugging holes\" is generally a poor approach to security because there usually turn out to be additional \"holes\" you hadn\'t considered \-- true security requires an overall design with security considerations included. Doing this for Python is not impossible, but may prove difficult. On the other hand, I would agree that it is worthwhile. \-- [MichaelChermside](../people/MichaelChermside)
 
-I also have another idea\... I have long thought that much of the issues could be handled by creating a module which would make it easy to run bits of Python code in a *separate* interpreter, running as a separate process, and sandboxed using OS features. The difficulty would be that such a module would require OS-specific code\... but it would have the potential to provide sandboxing that was as reliable as the OS would allow. \-- [MichaelChermside](MichaelChermside)
+I also have another idea\... I have long thought that much of the issues could be handled by creating a module which would make it easy to run bits of Python code in a *separate* interpreter, running as a separate process, and sandboxed using OS features. The difficulty would be that such a module would require OS-specific code\... but it would have the potential to provide sandboxing that was as reliable as the OS would allow. \-- [MichaelChermside](../people/MichaelChermside)
 
-Sounds like Parrot, ([PythonAndParrot](PythonAndParrot),) to me. \-- [LionKimbro](LionKimbro)
+Sounds like Parrot, ([PythonAndParrot](../archive/PythonAndParrot),) to me. \-- [LionKimbro](../people/LionKimbro)
 
-How so? \-- [MichaelChermside](MichaelChermside)
+How so? \-- [MichaelChermside](../people/MichaelChermside)
 
 Oh, sorry. No, Parrot doesn\'t refer to running bits of Python code in a seperate interpreter.
 
-Parrot seems like a good target for running the sandboxed code in. I mean: \".NET\" and all. Make it so you can secure the Parrot interpreter, and you\'re good. If a module requires custom C code links, or whatever, make it so you can close the gates to individual parts of C code, or something. And then make it so you can put various [RestrictedExecution](RestrictedExecution) thingies on the Python code. \-- [LionKimbro](LionKimbro)
+Parrot seems like a good target for running the sandboxed code in. I mean: \".NET\" and all. Make it so you can secure the Parrot interpreter, and you\'re good. If a module requires custom C code links, or whatever, make it so you can close the gates to individual parts of C code, or something. And then make it so you can put various [RestrictedExecution](../people/RestrictedExecution) thingies on the Python code. \-- [LionKimbro](../people/LionKimbro)
 
-Perhaps a better solution with the same approach would be [Jython](Jython). Java provides excellent sandboxing capabilities, and [Jython](Jython) has the distinct advantage that it *already exists and works*. \-- [MichaelChermside](MichaelChermside)
+Perhaps a better solution with the same approach would be [Jython](../archive/Jython). Java provides excellent sandboxing capabilities, and [Jython](../archive/Jython) has the distinct advantage that it *already exists and works*. \-- [MichaelChermside](../people/MichaelChermside)
 
 - As does [boo](http://boo.codehaus.org/), which runs on the .NET and Mono runtimes, which also have excellent sandboxing capabilities (I do not claim that they are any better than java, however). See [this thread](http://www.gamedev.net/community/forums/topic.asp?topic_id=264462) (you would have to convert the C# example posted by [VizOne](./VizOne.html) to boo. There is a C# to boo converter in the boo add-in for the free [SharpDevelop](./SharpDevelop.html) IDE).
 
-Whereas Parrot; I think Parrot will function just fine. It\'ll just take a little time. \-- [LionKimbro](LionKimbro) 2004-05-07 16:54:04
+Whereas Parrot; I think Parrot will function just fine. It\'ll just take a little time. \-- [LionKimbro](../people/LionKimbro) 2004-05-07 16:54:04
 
-We created a project [Pynbox](https://github.com/dsagal/pynbox) to run Python in a NativeClient OS-level sandbox. It makes it easy to install (root not required), works cross-platform, supports native modules, and allows configuring read/write access to specific filesystem directories. We use it at Grist Labs, but would love to know if there is wider interest and to get feedback. \-- [DmitryS](DmitryS) 2017-06-06
+We created a project [Pynbox](https://github.com/dsagal/pynbox) to run Python in a NativeClient OS-level sandbox. It makes it easy to install (root not required), works cross-platform, supports native modules, and allows configuring read/write access to specific filesystem directories. We use it at Grist Labs, but would love to know if there is wider interest and to get feedback. \-- [DmitryS](../archive/DmitryS) 2017-06-06

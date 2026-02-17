@@ -55,11 +55,11 @@ Laura, David, Paul, Giovanni, Dinu, Stephan, Marius, John, Harald
 
   - Ideas about the refereed papers track.
 - Registration/Budget
-  - [PyCon](PyCon) Italia wants to be able to offer passes to [EuroPython](EuroPython) as prizes.
+  - [PyCon](../../../../pycon/PyCon) Italia wants to be able to offer passes to [EuroPython](../..) as prizes.
 
-  - **People are generally positive about donating passes to [PyCon](PyCon) Italia. Giovanni suggested that [PyCon](PyCon) Italia could donate passes to their 2009 conference to the [EuroPython](EuroPython) prize draw.**
+  - **People are generally positive about donating passes to [PyCon](../../../../pycon/PyCon) Italia. Giovanni suggested that [PyCon](../../../../pycon/PyCon) Italia could donate passes to their 2009 conference to the [EuroPython](../..) prize draw.**
 
-  - **Laura responded to Giovanni\'s request for brochures about [EuroPython](EuroPython) by mentioning that some should be ready by May.**
+  - **Laura responded to Giovanni\'s request for brochures about [EuroPython](../..) by mentioning that some should be ready by May.**
 
   - *John:* Update on the registration page.
 
@@ -75,7 +75,7 @@ Laura, David, Paul, Giovanni, Dinu, Stephan, Marius, John, Harald
 
   - **The first funding request has come in. Laura tends to handle the requests until funds run out, using various criteria to decide who should get funding.**
 
-  - Discuss the [SponsorOffers](SponsorOffers) document.
+  - Discuss the [SponsorOffers](../../../../../people/SponsorOffers) document.
 
   - **Jacob and John briefly discussed rates - John didn\'t see that there needed to be an upper limit.**
 

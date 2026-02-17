@@ -18,7 +18,7 @@ Ideally, each project should be expanded into a more full-featured description, 
 
 )
 
-- [SimpleTodo](SimpleTodo): finite projects that improve (maybe just clean up) part of Python\'s implementation.
+- [SimpleTodo](../people/SimpleTodo): finite projects that improve (maybe just clean up) part of Python\'s implementation.
 
 - .[/PythonCore](CodingProjectIdeas/PythonCore)
 
@@ -31,7 +31,7 @@ Ideally, each project should be expanded into a more full-featured description, 
 - .[/ApplicationIdeas](CodingProjectIdeas/ApplicationIdeas)
 
 - Port standard library modules implemented in C to Python
-  - This is basically what the [PyPy](PyPy) project is doing. See their site for more details on what parts of the Python standard library have not yet been translated.
+  - This is basically what the [PyPy](../implementations/PyPy) project is doing. See their site for more details on what parts of the Python standard library have not yet been translated.
 
 - .[/PythonDocInOpenEbook](CodingProjectIdeas/PythonDocInOpenEbook)
 
@@ -59,4 +59,4 @@ Ideally, each project should be expanded into a more full-featured description, 
 
   - Auto-generate portions of a C extension module based off of a Python definition (e.g., create the function definitions, parsing of arguments, [PyTypeObject](./PyTypeObject.html) fields, init function for module, etc.). Would use AST off of existing Python code. Would need some way to update a generating C extension module when Python file changes without destroying extension module (as presumably body of functions have been filled in).
 
-- [Helper tools for core Python development](CoreDevHelperTools)
+- [Helper tools for core Python development](../archive/CoreDevHelperTools)

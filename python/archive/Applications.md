@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 See also:
 
-- [AppsWithPythonScripting](AppsWithPythonScripting)
+- [AppsWithPythonScripting](../libraries/AppsWithPythonScripting)
 
 - [PythonBlogSoftware](PythonBlogSoftware)
 
@@ -18,13 +18,13 @@ See also:
 
 - [PythonForSystemsAdministration](PythonForSystemsAdministration)
 
-- [PythonInMusic](PythonInMusic)
+- [PythonInMusic](../multimedia/PythonInMusic)
 
 - [PythonWikiEngines](PythonWikiEngines)
 
-- [WebApplications](WebApplications)
+- [WebApplications](../people/WebApplications)
 
-- [PythonForArtificialIntelligence](PythonForArtificialIntelligence)
+- [PythonForArtificialIntelligence](../science/PythonForArtificialIntelligence)
 
 - [PythonForOperationsResearch](PythonForOperationsResearch)
 
@@ -50,9 +50,9 @@ See also:
 
 - Freevo - Linux multimedia jukebox [http://www.freevo.org](http://www.freevo.org/)
 
-- [TimPlayer](TimPlayer) - Py-GTK based music player using Gstreamer [http://creationix.com/OpenSource/TimPlayer/](http://creationix.com/OpenSource/TimPlayer/)
+- [TimPlayer](../people/TimPlayer) - Py-GTK based music player using Gstreamer [http://creationix.com/OpenSource/TimPlayer/](http://creationix.com/OpenSource/TimPlayer/)
 
-- See also [AudioVideo](AudioVideo) and [PythonInMusic](PythonInMusic).
+- See also [AudioVideo](../multimedia/AudioVideo) and [PythonInMusic](../multimedia/PythonInMusic).
 
 ### Console Applications 
 
@@ -76,7 +76,7 @@ See also:
 
 ### File Formats 
 
-- [xtopdf](https://vasudevram.github.io/products.html#xtopdf) - a Python toolkit for PDF generation from other data formats; many supported input formats, including: text, DBF/XBASE, CSV, TSV/TDV, XML, DOCX, XLS, XLSX, ODBC, SQLAlchemy, MongoDB, Microsoft Access, SQLite, Berkeley DB, standard input. Support for more formats can be added. PDFBuilder app (using xtopdf) can build composite PDFs from any combination of the supported input formats. xtopdf can be used as a library in your Python programs. Includes stand-alone end-user tools for: command-line (Linux, Windows) / desktop GUI (wxPython - Linux, Windows), web GUI (Flask, Bottle, [CherryPy](CherryPy), WSGI, Netius). xtopdf is available on Linux, MacOS, Windows (except for platform-specific features like ODBC).
+- [xtopdf](https://vasudevram.github.io/products.html#xtopdf) - a Python toolkit for PDF generation from other data formats; many supported input formats, including: text, DBF/XBASE, CSV, TSV/TDV, XML, DOCX, XLS, XLSX, ODBC, SQLAlchemy, MongoDB, Microsoft Access, SQLite, Berkeley DB, standard input. Support for more formats can be added. PDFBuilder app (using xtopdf) can build composite PDFs from any combination of the supported input formats. xtopdf can be used as a library in your Python programs. Includes stand-alone end-user tools for: command-line (Linux, Windows) / desktop GUI (wxPython - Linux, Windows), web GUI (Flask, Bottle, [CherryPy](../web/CherryPy), WSGI, Netius). xtopdf is available on Linux, MacOS, Windows (except for platform-specific features like ODBC).
 
 ### Image Applications 
 
@@ -98,7 +98,7 @@ See also:
 
 - Flumotion - Streaming server written on top of Twisted and GStreamer [http://www.fluendo.com/](http://www.fluendo.com/)
 
-- [HarvestMan](HarvestMan)
+- [HarvestMan](../people/HarvestMan)
 
 - Jogger Publishing Assistant - scaled down Jabber client that simplifies publishing weblog entries in Jogger - \"Jabber Powered Weblog\" [http://jpa.berlios.de/](http://jpa.berlios.de/)
 
@@ -116,7 +116,7 @@ See also:
 
 - PSST II - Big Frustration for Big Brother - Encrypted Instant Messaging application [http://www.freenet.org.nz/python/psst/](http://www.freenet.org.nz/python/psst/)
 
-- [qutebrowser](https://www.qutebrowser.org) - a pyqt based web browser that supports [WebKit](WebKit) and QWebEngine
+- [qutebrowser](https://www.qutebrowser.org) - a pyqt based web browser that supports [WebKit](../people/WebKit) and QWebEngine
 
 - [RESTx](http://restx.mulesoft.org/) - a RESTful data publishing and integration platform. For more details, see RESTx under \'Enterprise Applications\'.
 
@@ -126,17 +126,17 @@ See also:
 
 - Switzerland - a tool to test the integrity of data communications over networks, ISPs and firewalls [http://www.eff.org/testyourisp/switzerland](http://www.eff.org/testyourisp/switzerland)
 
-- [TheCircle](TheCircle) - a scalable decentralized [PeerToPeer](http://c2.com/cgi/wiki?PeerToPeer "Wiki") application [http://thecircle.org.au/](http://thecircle.org.au/)
+- [TheCircle](../people/TheCircle) - a scalable decentralized [PeerToPeer](http://c2.com/cgi/wiki?PeerToPeer "Wiki") application [http://thecircle.org.au/](http://thecircle.org.au/)
 
 - Tribler - a peer-to-peer application written in Python, based on the original [BitTorrent](./BitTorrent.html) client sources [http://www.tribler.org/](http://www.tribler.org/)
 
-- [TwistedMatrix](TwistedMatrix) - event-driven networking framework. Supports TCP, UDP, SSL/TLS, multicast, Unix sockets, a large number of protocols (including HTTP, NNTP, SSH, IRC, FTP, and others) [http://www.twistedmatrix.com/](http://www.twistedmatrix.com/)
+- [TwistedMatrix](../web/TwistedMatrix) - event-driven networking framework. Supports TCP, UDP, SSL/TLS, multicast, Unix sockets, a large number of protocols (including HTTP, NNTP, SSH, IRC, FTP, and others) [http://www.twistedmatrix.com/](http://www.twistedmatrix.com/)
 
 - Alan Kennedy has compiled a list of [HTTP proxies](http://proxies.xhaus.com/python/) written in Python.
 
 - [PyWebRun](http://pypi.python.org/pypi/PyWebRun/) Python Web Runner - Running Python scripts over HTTP.
 
-- See also [PythonWikiEngines](PythonWikiEngines) and [WebApplications](WebApplications).
+- See also [PythonWikiEngines](PythonWikiEngines) and [WebApplications](../people/WebApplications).
 
 ### Mobile Applications 
 
@@ -158,7 +158,7 @@ See also:
 
 ### Personal Information Managers 
 
-- [BitPim](BitPim) - Cell phone data manipulator. Can sync phonebook, calendar, wallpaper, ring tone, etc. [http://www.bitpim.org/](http://www.bitpim.org/)
+- [BitPim](../implementations/BitPim) - Cell phone data manipulator. Can sync phonebook, calendar, wallpaper, ring tone, etc. [http://www.bitpim.org/](http://www.bitpim.org/)
 
 - Narval - Personnal Assistants, see [http://www.logilab.org/narval/](http://www.logilab.org/narval/)
 
@@ -170,9 +170,9 @@ See also:
 
 - [Pyrobot](http://pyrorobotics.org/) - A complete IDE, set of libraries, simulator, and course materials for exploring robotics in Python. Currently aimed for higher education, but work has begun for use in k-12 as well.
 
-- [SimPy](SimPy) - a discrete event, object-oriented, simulation package, [http://simpy.sourceforge.net/](http://simpy.sourceforge.net/)
+- [SimPy](../people/SimPy) - a discrete event, object-oriented, simulation package, [http://simpy.sourceforge.net/](http://simpy.sourceforge.net/)
 
-- [PyChem](PyChem) - a multivariate data analysis application for Windows and Unix, including principal components analysis (PCA), partial least squares regression (PLSR) and discriminant analysis (PLS-DA), discrimiant function/canonical correlation analysis (DFA/CVA/CCA), cluster analysis (K-means, HCA), advanced evolutionary methods for variable selection. [http://pychem.sourceforge.net/](http://pychem.sourceforge.net/)
+- [PyChem](../people/PyChem) - a multivariate data analysis application for Windows and Unix, including principal components analysis (PCA), partial least squares regression (PLSR) and discriminant analysis (PLS-DA), discrimiant function/canonical correlation analysis (DFA/CVA/CCA), cluster analysis (K-means, HCA), advanced evolutionary methods for variable selection. [http://pychem.sourceforge.net/](http://pychem.sourceforge.net/)
 
 - [ACQ4](http://luke.campagnola.me/code/acq4) - Neurophysiology data acquisition and analysis with emphasis on electrophysiology, photostimulation, and fluorescence imaging experiments.
 
@@ -180,7 +180,7 @@ See also:
 
 ### Software Development 
 
-- See also [DevelopmentTools](DevelopmentTools).
+- See also [DevelopmentTools](../people/DevelopmentTools).
 
 - Development suites (combinations of tools):
   - [Allura](http://sourceforge.net/p/allura/wiki/Allura%20Wiki/)
@@ -188,7 +188,7 @@ See also:
   - [Trac](http://trac.edgewall.org/)
 
 - Bug/issue trackers:
-  - [Roundup](RoundUp)
+  - [Roundup](../people/RoundUp)
 
 - Build tools:
   - [Buildbot](http://buildbot.sf.net/) - automated building and testing
@@ -206,7 +206,7 @@ See also:
 
   - [ViewVC](http://www.viewvc.org/) (formerly ViewCVS) - a repository browser for CVS and Subversion
 
-  - See [VersionControl](VersionControl) for details of version control systems and tools.
+  - See [VersionControl](../people/VersionControl) for details of version control systems and tools.
 
 - Virtual environments:
   - [sandbox-venv](https://github.com/kernc/sandbox-venv/) - a shell script that wraps your virtualenv/venv to be transparently executed inside a secure bubblewrap container sandbox.

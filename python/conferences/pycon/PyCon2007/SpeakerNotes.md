@@ -8,15 +8,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **The master copy of this page is at [http://us.pycon.org/TX2007/SpeakerNotes](http://us.pycon.org/TX2007/SpeakerNotes) ; if you have things to add, please add them to that version of this page.**
 
-This page collects suggestions for speakers and presenters at [PyCon](PyCon).
+This page collects suggestions for speakers and presenters at [PyCon](../PyCon).
 
 Thank you very much for taking the time and trouble to make a presentation. We appreciate your efforts.
 
 # The final version of your talk 
 
-\* [PyCon](PyCon) does not have a published volume of proceedings, but the slides and other materials for talks are made available on-line. Therefore, be sure your presentation can be turned into a format suitable for online viewing. While PDF is permitted, HTML is better. Keep graphics reasonably sized for web access.
+\* [PyCon](../PyCon) does not have a published volume of proceedings, but the slides and other materials for talks are made available on-line. Therefore, be sure your presentation can be turned into a format suitable for online viewing. While PDF is permitted, HTML is better. Keep graphics reasonably sized for web access.
 
-\* Finish preparing your slides and other materials before [PyCon](PyCon), and upload it to the conference submission system. This gives the audience more information in choosing which talks to attend, and people can refer to the slides if they miss something during your talk.
+\* Finish preparing your slides and other materials before [PyCon](../PyCon), and upload it to the conference submission system. This gives the audience more information in choosing which talks to attend, and people can refer to the slides if they miss something during your talk.
 
 # Designing your slides 
 
@@ -66,7 +66,7 @@ Thank you very much for taking the time and trouble to make a presentation. We a
 
 - The information you present is your talk\'s primary value
 
-- [PyCon](PyCon) audiences are very forgiving
+- [PyCon](../PyCon) audiences are very forgiving
 
 \* Take time to yourself before you speak
 
@@ -95,7 +95,7 @@ Thank you very much for taking the time and trouble to make a presentation. We a
 
 # Other resources 
 
-\* [Conference Presentation Judo](http://perl.plover.com/yak/presentation/) \-- aimed at people giving three-hour tutorials, but many suggestions apply to shorter talks like those given at [PyCon](PyCon).
+\* [Conference Presentation Judo](http://perl.plover.com/yak/presentation/) \-- aimed at people giving three-hour tutorials, but many suggestions apply to shorter talks like those given at [PyCon](../PyCon).
 
 \* [SAGE/LISA Conference Presentation advice](http://www.sage.org/presentation/)\]
 

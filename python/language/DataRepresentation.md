@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Data on the web 
 
-There are several approaches to represent data using Python on a web page (see [WebProgramming](WebProgramming)).
+There are several approaches to represent data using Python on a web page (see [WebProgramming](../web/WebProgramming)).
 
-- [PythonInWebPage](PythonInWebPage)
+- [PythonInWebPage](../archive/PythonInWebPage)
 
 - [StructureAnnotation](StructureAnnotation)
 
-- [Programmatic](Programmatic)
+- [Programmatic](../archive/Programmatic)
 
 Another interesting article about this is [\"Choosing a Templating System\"](http://www.perl.com/pub/a/2001/08/21/templating.html).
 
@@ -22,11 +22,11 @@ Another interesting article about this is [\"Choosing a Templating System\"](htt
 
 Different approaches lead to different design decisions. Often it is the principal reason that new template systems get invented:
 
-- [ElementBasedSyntax](ElementBasedSyntax)
+- [ElementBasedSyntax](../archive/ElementBasedSyntax)
 
-- [CommentBasedSyntax](CommentBasedSyntax)
+- [CommentBasedSyntax](../archive/CommentBasedSyntax)
 
-- [AttributeBasedSyntax](AttributeBasedSyntax)
+- [AttributeBasedSyntax](../archive/AttributeBasedSyntax)
 
 ### Examples 
 
@@ -36,37 +36,37 @@ Some presentation systems fall neatly into the categories above. Others are less
 
 - Castalian
 
-- [Cheetah](Cheetah)
+- [Cheetah](../archive/Cheetah)
 
 - PSP (from [Webware](./Webware.html))
 
-- [Spyce](Spyce)
+- [Spyce](../archive/Spyce)
 
 #### StructureAnnotation 
 
-- [ClearSilver](ClearSilver)
+- [ClearSilver](../people/ClearSilver)
 
-- DOMTemplate (from [TwistedMatrix](TwistedMatrix))
+- DOMTemplate (from [TwistedMatrix](../web/TwistedMatrix))
 
-- DTML (Document Template Markup Language - see [Zope](Zope))
+- DTML (Document Template Markup Language - see [Zope](../web/Zope))
 
-- [Woven](http://www.twistedmatrix.com/documents/howto/woven) (from [TwistedMatrix](TwistedMatrix))
+- [Woven](http://www.twistedmatrix.com/documents/howto/woven) (from [TwistedMatrix](../web/TwistedMatrix))
 
-- wt (see [JonsPythonModules](JonsPythonModules))
+- wt (see [JonsPythonModules](../archive/JonsPythonModules))
 
-- ZPT (Zope Page Templates - see [Zope](Zope))
+- ZPT (Zope Page Templates - see [Zope](../web/Zope))
 
 #### Hybrids 
 
-- CHTL and CGTL (from [CherryPy](CherryPy)) - [PythonInWebPage](PythonInWebPage) and [StructureAnnotation](StructureAnnotation)
+- CHTL and CGTL (from [CherryPy](../web/CherryPy)) - [PythonInWebPage](../archive/PythonInWebPage) and [StructureAnnotation](StructureAnnotation)
 
-- [PyMeld](PyMeld) - [StructureAnnotation](StructureAnnotation) and [Programmatic](Programmatic)
+- [PyMeld](../people/PyMeld) - [StructureAnnotation](StructureAnnotation) and [Programmatic](../archive/Programmatic)
 
-- [STML](./STML.html) (from [SkunkWeb](SkunkWeb)) - [PythonInWebPage](PythonInWebPage), [StructureAnnotation](StructureAnnotation), and [Programmatic](Programmatic) being all equally apt (or equally inadequate)
+- [STML](./STML.html) (from [SkunkWeb](../people/SkunkWeb)) - [PythonInWebPage](../archive/PythonInWebPage), [StructureAnnotation](StructureAnnotation), and [Programmatic](../archive/Programmatic) being all equally apt (or equally inadequate)
 
 #### Programmatic 
 
-- PTL (from [Quixote](Quixote))
+- PTL (from [Quixote](../web/Quixote))
 
 ### Notes 
 

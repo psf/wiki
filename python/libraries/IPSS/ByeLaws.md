@@ -23,7 +23,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
     - Promotion and development of Python programming language in India.
 
-    - Conduct of the Annual [PyCon](PyCon) India conference.
+    - Conduct of the Annual [PyCon](../../conferences/pycon/PyCon) India conference.
 
     - Working with the Python Software Foundation (PSF) and promotion of it\'s activities in India.
 

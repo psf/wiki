@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Mac OS X Installation Notes 
 
-This page contains a list of problems that people have encountered with Python and [PyQt](PyQt) on Mac OS X.
+This page contains a list of problems that people have encountered with Python and [PyQt]() on Mac OS X.
 
 ## Fatal Python error: Interpreter not initialized (version mismatch?) 
 

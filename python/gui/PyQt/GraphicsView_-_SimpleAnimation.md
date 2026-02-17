@@ -52,4 +52,4 @@ The example below presents how to use QGraphicsView along with QGraphicsItem, QG
 :::
 ::::
 
-![ani.gif](attachments/PyQt(2f)GraphicsView_(2d)_SimpleAnimation/ani.gif "ani.gif") (WinXP, Py2.6, [PyQt4](PyQt4).4.4)
+![ani.gif](attachments/PyQt(2f)GraphicsView_(2d)_SimpleAnimation/ani.gif "ani.gif") (WinXP, Py2.6, [PyQt4](../PyQt4).4.4)

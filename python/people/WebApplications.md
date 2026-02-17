@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Web Applications in Python 
 
-Numerous widely-deployed Web applications have been written in Python, some employing technologies found on the [WebFrameworks](WebFrameworks) page, others providing much of the technology themselves (and potentially spawning a new framework later on in their existence). The following lists comprise a non-exhaustive collection of such Web applications.
+Numerous widely-deployed Web applications have been written in Python, some employing technologies found on the [WebFrameworks](../web/WebFrameworks) page, others providing much of the technology themselves (and potentially spawning a new framework later on in their existence). The following lists comprise a non-exhaustive collection of such Web applications.
 
-Note that Internet sites \"powered by Python\" which aren\'t downloadable and redeployable should be listed elsewhere (see [WellKnownPythonPrograms](WellKnownPythonPrograms)) - this page is concerned with applications which can be downloaded, studied, customised, run locally, run on an intranet or on the Internet, or used as the basis for other applications.
+Note that Internet sites \"powered by Python\" which aren\'t downloadable and redeployable should be listed elsewhere (see [WellKnownPythonPrograms](../archive/WellKnownPythonPrograms)) - this page is concerned with applications which can be downloaded, studied, customised, run locally, run on an intranet or on the Internet, or used as the basis for other applications.
 
 ## Administration 
 
@@ -20,11 +20,11 @@ Note that Internet sites \"powered by Python\" which aren\'t downloadable and re
 
 - [Pelican](https://blog.getpelican.com) - generate static webpages from Markdown or reStructuredText
 
-- The [PythonBlogSoftware](PythonBlogSoftware) page contains a list of blogging-related applications, some of which are Web-based.
+- The [PythonBlogSoftware](../archive/PythonBlogSoftware) page contains a list of blogging-related applications, some of which are Web-based.
 
-- [PyCS](PyCS) - Python Community Server
+- [PyCS](../archive/PyCS) - Python Community Server
 
-- [PyDS](PyDS) - Python Desktop Server
+- [PyDS](../archive/PyDS) - Python Desktop Server
 
 ## Forum (message board) 
 
@@ -84,11 +84,11 @@ Note that Internet sites \"powered by Python\" which aren\'t downloadable and re
 
 ## Web Browsers 
 
-- [qutebrowser](https://www.qutebrowser.org/) - a [PyQt](PyQt) based web browser that supports [WebKit](WebKit) and QWebEngine
+- [qutebrowser](https://www.qutebrowser.org/) - a [PyQt](../gui/PyQt) based web browser that supports [WebKit](WebKit) and QWebEngine
 
 ## Wikis 
 
-- The [PythonWikiEngines](PythonWikiEngines) page contains an extensive list of Wiki applications, some of which are widely deployed on the Internet.
+- The [PythonWikiEngines](../archive/PythonWikiEngines) page contains an extensive list of Wiki applications, some of which are widely deployed on the Internet.
 
 ## Editorial Notes 
 

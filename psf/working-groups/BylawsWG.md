@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Agenda 
 
-Convert the new membership model description from [NewMembershipModel](NewMembershipModel) into bylaws changes.
+Convert the new membership model description from [NewMembershipModel](../governance/NewMembershipModel) into bylaws changes.
 
 ## Resources 
 
@@ -35,13 +35,13 @@ Convert the new membership model description from [NewMembershipModel](NewMember
 
 - [PSF Bylaws WG Mailing List](http://mail.python.org/mailman/listinfo/psf-bylaws-wg)
 
-  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [VanLindberg](./VanLindberg.html) and [MarcAndreLemburg](MarcAndreLemburg) are the list admins.
+  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [VanLindberg](./VanLindberg.html) and [MarcAndreLemburg](../people/MarcAndreLemburg) are the list admins.
 
 ## Memberhip Model 
 
-- [1.1.1](https://wiki.python.org/psf/NewMembershipModel?action=recall&rev=7) - version of the [NewMembershipModel](NewMembershipModel) page that was approved by the PSF in the March 2013 members vote
+- [1.1.1](https://wiki.python.org/psf/NewMembershipModel?action=recall&rev=7) - version of the [NewMembershipModel](../governance/NewMembershipModel) page that was approved by the PSF in the March 2013 members vote
 
-- [Membership Model Visualization](MembershipModelVisualization)
+- [Membership Model Visualization](../governance/MembershipModelVisualization)
 
 - [March 2013 ballot with the original text that the membership voted on](http://psf2013.election.name/evote/default/results/40)
 

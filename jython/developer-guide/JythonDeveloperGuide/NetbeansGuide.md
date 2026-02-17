@@ -17,7 +17,7 @@ Since this is a guide which is specific to [NetBeans](./NetBeans.html), I will o
 - **OBTAIN NECESSARY CODE AND JAR LIBRARIES**
 
 - Obtain the code:
-  - \- If you do not have Subversion, you will need to download it and then check out the codebase. See the [JythonDeveloperGuide](JythonDeveloperGuide)
+  - \- If you do not have Subversion, you will need to download it and then check out the codebase. See the [JythonDeveloperGuide]()
 
     - for complete details.
 

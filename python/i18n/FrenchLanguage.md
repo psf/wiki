@@ -90,7 +90,7 @@ Page [Python (langage)](http://fr.wikipedia.org/wiki/Python_%28langage%29) en Fr
 
 - [groupes-codes-source](http://groupes.codes-sources.com/article-generateur-pstricks-parseur-latex-python-462214.aspx) - article-generateur-pstricks-parseur-latex-python
 
-- [peuw](http://www.peuw.net/news/960-Lire-un-fichier-en-Python-sans-risquer-l'UnicodeDecodeError.html) - Lire-un-fichier-en-Python-sans-risquer-l\'[UnicodeDecodeError](UnicodeDecodeError)
+- [peuw](http://www.peuw.net/news/960-Lire-un-fichier-en-Python-sans-risquer-l'UnicodeDecodeError.html) - Lire-un-fichier-en-Python-sans-risquer-l\'[UnicodeDecodeError](../archive/UnicodeDecodeError)
 
 - [defane](http://blog.defane.net/2010/03/13/jeux-serpent/) - jeux-serpent
 

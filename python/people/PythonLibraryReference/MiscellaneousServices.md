@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[Python Library Reference](PythonLibraryReference)
+[Python Library Reference](../../archive/PythonLibraryReference)
 
 ::: {}
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -58,7 +58,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 5.15 [ConfigParser](./PythonLibraryReference(2f)MiscellaneousServices(2f)ConfigParserModule.html) \-- Configuration file parser
 
-5.15.1 [RawConfigParser](./RawConfigParser.html) Objects 5.15.2 [ConfigParser](ConfigParser) Objects
+5.15.1 [RawConfigParser](./RawConfigParser.html) Objects 5.15.2 [ConfigParser](../../language/ConfigParser) Objects
 
 5.16 [fileinput](./PythonLibraryReference(2f)MiscellaneousServices(2f)FileinputModule.html) \-- Iterate over lines from multiple input streams
 

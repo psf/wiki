@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Here\'s what we are working on Dallas:
 
-- [JimBaker](JimBaker) - 2.5 Language support in the parser, possibly multiple parser backends
+- [JimBaker](../people/JimBaker) - 2.5 Language support in the parser, possibly multiple parser backends
 
-- [CharlieGroves](CharlieGroves) - lining Jython type hierarchy up with CPython, adding rich comparisons to builtin types, other 2.2 bugs
+- [CharlieGroves](../people/CharlieGroves) - lining Jython type hierarchy up with CPython, adding rich comparisons to builtin types, other 2.2 bugs
 
 - [EricDobbs](./EricDobbs.html) - io flush on quit, 2.2 bugs
 

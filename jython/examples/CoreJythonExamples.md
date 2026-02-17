@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Core Jython / Python Examples 
 
-[DocumentationAndEducation](DocumentationAndEducation)
+[DocumentationAndEducation](../getting-started/DocumentationAndEducation)
 
 ------------------------------------------------------------------------
 

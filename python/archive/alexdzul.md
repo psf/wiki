@@ -36,7 +36,7 @@ I\'m responsible for leading software projects that require a scientific and res
 
 - Django. Web Framework for Python.
 
-- [PySide](PySide). Part of the Qt Libraries.
+- [PySide](../people/PySide). Part of the Qt Libraries.
 
 - Relational databases with Postgresql, Sqlite, Mysql.
 

@@ -12,7 +12,7 @@ Four of the guys from Pythonlabs are going to be at the sprint on plan on sprint
 
 - Implement one of the namespace speed-up PEPs ([266](http://www.python.org/peps/pep-0266.html), [267](http://www.python.org/peps/pep-0267.html), or [280](http://www.python.org/peps/pep-0280.html)) or anything else to help prevent Guido from getting a pie in the face. =)
 
-- My pet bug is reliable signal handling when using event loops like PyGTK. I think an extra C-level hook in the core would make it possible to do this right. (At the moment, SIGINT/KeyboardInterrupt is blocked until python regains control). I\'d be interested in participating in an effort to fix this one. - [PyConBrianWarner](PyConBrianWarner)
+- My pet bug is reliable signal handling when using event loops like PyGTK. I think an extra C-level hook in the core would make it possible to do this right. (At the moment, SIGINT/KeyboardInterrupt is blocked until python regains control). I\'d be interested in participating in an effort to fix this one. - [PyConBrianWarner](../conferences/pycon/PyConBrianWarner)
 
 - Free threading (which has been asked for almost as long as namespace speed-ups ![:-)](/wiki/europython/img/smile.png ":-)") - Thomas Wouters)
 

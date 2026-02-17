@@ -10,11 +10,11 @@ For use of organizers, please do not mess with this.
 
 ## Assigned duties for PyCon 2004 
 
-This is a list of [PyCon](PyCon) tasks that need someone to be in charge of. The responsible person should of course feel free to draft other people; you\'re just making a commitment to ensure that the work gets done.
+This is a list of [PyCon](../PyCon) tasks that need someone to be in charge of. The responsible person should of course feel free to draft other people; you\'re just making a commitment to ensure that the work gets done.
 
-The tasks are listed roughly in descending order of Aahz\'s opinion of critical path for getting [PyCon](PyCon) to work. Items with parentheses are those which have not yet gotten a commitment for DC 2004; those with names in parentheses are those which had that person in charge for 2003.
+The tasks are listed roughly in descending order of Aahz\'s opinion of critical path for getting [PyCon](../PyCon) to work. Items with parentheses are those which have not yet gotten a commitment for DC 2004; those with names in parentheses are those which had that person in charge for 2003.
 
-- [PyCon](PyCon) chair, Steve Holden
+- [PyCon](../PyCon) chair, Steve Holden
 
 - Designated nag, Aahz
 
@@ -58,7 +58,7 @@ The tasks are listed roughly in descending order of Aahz\'s opinion of critical 
 
 ------------------------------------------------------------------------
 
-Archives: [PyConDuties2003](PyConDuties2003)
+Archives: [PyConDuties2003](../PyConDuties2003)
 
 ------------------------------------------------------------------------
 

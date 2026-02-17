@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[PyPI](CheeseShopDev) APIs: **Simple**, [JSON](PyPIJSON), [XMLRPC](PyPIXmlRpc).
+[PyPI](../archive/CheeseShopDev) APIs: **Simple**, [JSON](PyPIJSON), [XMLRPC](PyPIXmlRpc).
 
 For up to date documentation, see [https://warehouse.readthedocs.io/api-reference/legacy/](https://warehouse.readthedocs.io/api-reference/legacy/)
 

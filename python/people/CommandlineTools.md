@@ -36,7 +36,7 @@ The [Argparse Tutorial](https://docs.python.org/howto/argparse.html) is an excel
 
 - [A Clean Python Shell Script](http://www.jperla.com/blog/2008/11/17/a-clean-python-shell-script/).
 
-**[PyCon2008](PyCon2008) Presentation on Command Line Tools:** Intermediate Level
+**[PyCon2008](../conferences/pycon/PyCon2008) Presentation on Command Line Tools:** Intermediate Level
 
 - Summary: Presentation goes into detail on using threads, subprocess, optparse, configparser, and ORM\'s to create sophisticated tools.
 

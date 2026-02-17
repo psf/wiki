@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-A framework for [WebProgramming](WebProgramming).
+A framework for [WebProgramming](../web/WebProgramming).
 
 ### Masthead 
 
@@ -57,7 +57,7 @@ Uses Zope 3\'s TAL for templating.
 
 ### Comments 
 
-These notes were added to provide a brief overview of the software. However, I have not actually evaluated the software myself. \-- [PaulBoddie](PaulBoddie)
+These notes were added to provide a brief overview of the software. However, I have not actually evaluated the software myself. \-- [PaulBoddie](../people/PaulBoddie)
 
 ### Hosting 
 

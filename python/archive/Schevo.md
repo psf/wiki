@@ -51,7 +51,7 @@ Next-generation Object-Oriented DBMS
 
 ## Supported Python applications 
 
-- [Django](Django)
+- [Django](../web/Django)
 
 - Extended Durus 3.9 and [ZODB](ZODB) support
 

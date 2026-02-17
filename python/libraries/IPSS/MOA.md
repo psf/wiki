@@ -26,7 +26,7 @@ Memorandum of Association of the Indian Python Software Society
     - The aims and objects objectives of the Society shall be
       a.  Promotion and development of Python programming language in India.
 
-      b.  Conduct of the Annual [PyCon](PyCon) India conference.
+      b.  Conduct of the Annual [PyCon](../../conferences/pycon/PyCon) India conference.
 
       c.  Working with the Python Software Foundation (PSF) and promotion of it\'s activities in India.
 

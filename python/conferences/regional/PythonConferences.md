@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Python Conferences 
 
-The Python community tends to organize regional events around the world. Established events such as [PyCon](PyCon) US and [EuroPython](EuroPython) have since been joined by other regional conferences, and Python often features prominently in various open source conferences.
+The Python community tends to organize regional events around the world. Established events such as [PyCon](../pycon/PyCon) US and [EuroPython](../europython/EuroPython) have since been joined by other regional conferences, and Python often features prominently in various open source conferences.
 
 This page aims to be the **most complete list of Python conferences around the world** and can be [edited by the community](FrontPage#use).
 
-Want to organize an event in your community? Read [our guide to running a conference](../../community/AdvocacyWritingTasks/RunningAConference). In particular, if you are considering starting a \"[PyCon](PyCon)\" named conference, please see the [PSF PyCon Trademark Guidelines](https://www.python.org/psf/trademarks/pycon/) and the [PSF Trademark FAQs](https://www.python.org/psf/trademarks-faq/).
+Want to organize an event in your community? Read [our guide to running a conference](../../community/AdvocacyWritingTasks/RunningAConference). In particular, if you are considering starting a \"[PyCon](../pycon/PyCon)\" named conference, please see the [PSF PyCon Trademark Guidelines](https://www.python.org/psf/trademarks/pycon/) and the [PSF Trademark FAQs](https://www.python.org/psf/trademarks-faq/).
 
 If you are planning a Python conference event, please check the dates in the [Python Event Calendars](https://pycon.org#calendar) to see whether there are any overlaps and [submit your event to the calendars](PythonEventsCalendar#Submitting_an_Event). Also see the [PythonEvents](PythonEvents) page for more schedule information.
 
@@ -26,7 +26,7 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 - [PyCon Ghana](http://gh.pycon.org/) (Ghana)
 
-- [PyCon](PyCon) Kenya (Kenya)
+- [PyCon](../pycon/PyCon) Kenya (Kenya)
 
 - [PyCon MEA](https://www.pyconmea.com/) (Middle East & Africa) (Dubai, UAE)
 
@@ -52,7 +52,7 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 ### Americas 
 
-- [PyCon US](https://us.pycon.org) (US and Canada) - largest international Python event; also see the wiki page: [PyCon](PyCon) US
+- [PyCon US](https://us.pycon.org) (US and Canada) - largest international Python event; also see the wiki page: [PyCon](../pycon/PyCon) US
 
 - [AfroPython Conf](https://afropythonconf.org/) (Brazil)
 
@@ -100,7 +100,7 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 ### Asia 
 
-- [PyCon APAC or Asia Pacific](https://pycon.asia/) (Asia Pacific) - also see the wiki page: [PyConAPAC](PyConAPAC)
+- [PyCon APAC or Asia Pacific](https://pycon.asia/) (Asia Pacific) - also see the wiki page: [PyConAPAC](../pycon/PyConAPAC)
 
 - [PyCon Dhaka](https://web.archive.org/web/20160912210524/http://dhaka.pycon.org/) (Bangladesh) *inactive*
 
@@ -152,7 +152,7 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 ### Europe 
 
-- [EuroPython](https://www.europython.eu/) (Europe) - largest European event; also see the wiki page: [EuroPython](EuroPython)
+- [EuroPython](https://www.europython.eu/) (Europe) - largest European event; also see the wiki page: [EuroPython](../europython/EuroPython)
 
 - [EuroSciPy conference](https://www.euroscipy.org) (Germany, France) - focuses on scientific applications
 

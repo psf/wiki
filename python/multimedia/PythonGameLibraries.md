@@ -138,7 +138,7 @@ Generally PyOpenGL games will also make use of [PyGame](PyGame).
 
 [http://www.pymedia.org/](http://www.pymedia.org/)
 
-- [PyMedia](PyMedia) allows you to parse, demutiplex, multiplex, decode and encode wav, mp3, ogg, avi, divx, dvd, cdda etc files manipulations. (note, no new releases since 2006)
+- [PyMedia](../people/PyMedia) allows you to parse, demutiplex, multiplex, decode and encode wav, mp3, ogg, avi, divx, dvd, cdda etc files manipulations. (note, no new releases since 2006)
 
 [http://panda3d.org/](http://panda3d.org/)
 
@@ -210,7 +210,7 @@ Generally PyOpenGL games will also make use of [PyGame](PyGame).
 
 [JoBase](https://jobase.org)
 
-- [JoBase](JoBase) is a fast Python game library for beginner coders. It is easy to use and can also run in the browser! Visit [jobase.org](https://jobase.org) to get started.
+- [JoBase](../people/JoBase) is a fast Python game library for beginner coders. It is easy to use and can also run in the browser! Visit [jobase.org](https://jobase.org) to get started.
 
 ### Python kivy 
 

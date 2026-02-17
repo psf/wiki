@@ -60,7 +60,7 @@ The design of the unified module can follow the same as the mechanize module; wh
 
 Compliance to RFC3986 and RFC3987 is stressed in all the changes.
 
-As in [mechanize](mechanize) and urlgrabber,Implement higher level interfaces to url module,which can accomplish most common tasks. urllib is a relatively raw inteface to the underlying protocols, urlgrabber much better interface to support urlgrabbing.It is extremely simple to drop into an existing program and provides a clean interface to protocol-independent file-access.
+As in [mechanize](../archive/mechanize) and urlgrabber,Implement higher level interfaces to url module,which can accomplish most common tasks. urllib is a relatively raw inteface to the underlying protocols, urlgrabber much better interface to support urlgrabbing.It is extremely simple to drop into an existing program and provides a clean interface to protocol-independent file-access.
 
 Patch 1462525 for writing a new uriparse library has received comments/suggestions.
 

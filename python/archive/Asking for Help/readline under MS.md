@@ -20,7 +20,7 @@ What can you suggest? (migration on linux isn\'t an option %)
 
 Try asking on [python-list@python.org](mailto:python-list@python.org) or [help@python.org](mailto:help@python.org).
 
-- Should we remove [AskingForHelp](./AskingForHelp.html) pages at all? Actually, there is Windows version of readline for IPython. \-- [techtonik](techtonik) 2011-04-02 18:35:26
+- Should we remove [AskingForHelp](./AskingForHelp.html) pages at all? Actually, there is Windows version of readline for IPython. \-- [techtonik](../techtonik) 2011-04-02 18:35:26
 
 ------------------------------------------------------------------------
 

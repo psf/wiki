@@ -28,7 +28,7 @@ An important goal of the Python developers is making Python fun to use. This is 
 
 # Usage 
 
-Python is often used as a scripting language for web applications, e.g. via mod_wsgi for the Apache web server. With Web Server Gateway Interface, a standard API has been developed to facilitate these applications. Web application frameworks like Django, Pylons, [TurboGears](TurboGears), web2py, Flask, and Zope support developers in the design and maintenance of complex applications. Libraries like [NumPy](NumPy), [SciPy](SciPy), and Matplotlib allow Python to be used effectively in scientific computing.
+Python is often used as a scripting language for web applications, e.g. via mod_wsgi for the Apache web server. With Web Server Gateway Interface, a standard API has been developed to facilitate these applications. Web application frameworks like Django, Pylons, [TurboGears](../web/TurboGears), web2py, Flask, and Zope support developers in the design and maintenance of complex applications. Libraries like [NumPy](../science/NumPy), [SciPy](SciPy), and Matplotlib allow Python to be used effectively in scientific computing.
 
 ------------------------------------------------------------------------
 
@@ -107,11 +107,11 @@ Python defines the modulus operator so that the result of a % b is in the half-o
 
 ## CPython 
 
-The mainstream Python implementation, known as CPython, is written in C meeting the C89 standard. CPython compiles Python programs into intermediate bytecode,\[65\] which are then executed by the virtual machine. It is distributed with a large standard library written in a mixture of C and Python. CPython ships in versions for many platforms, including Microsoft Windows and most modern Unix-like systems. CPython was intended from almost its very conception to be cross-platform; its use and development on esoteric platforms such as Amoeba, alongside more conventional ones like Unix and Mac OS, has greatly helped in this regard. Unofficial builds are also available for [Android](Android) and iOS.
+The mainstream Python implementation, known as CPython, is written in C meeting the C89 standard. CPython compiles Python programs into intermediate bytecode,\[65\] which are then executed by the virtual machine. It is distributed with a large standard library written in a mixture of C and Python. CPython ships in versions for many platforms, including Microsoft Windows and most modern Unix-like systems. CPython was intended from almost its very conception to be cross-platform; its use and development on esoteric platforms such as Amoeba, alongside more conventional ones like Unix and Mac OS, has greatly helped in this regard. Unofficial builds are also available for [Android](../platforms/Android) and iOS.
 
 ## Alternative implementations 
 
-Jython compiles the Python program into Java byte code, which can then be executed by every Java Virtual Machine implementation. This also enables the use of Java class library functions from the Python program. [IronPython](IronPython) follows a similar approach in order to run Python programs on the .NET Common Language Runtime. [PyPy](PyPy) is a fast self-hosting implementation of Python, written in Python, that can output several types of bytecode, object code and intermediate languages. There also exist compilers to high-level object languages, with either unrestricted Python, a restricted subset of Python, or a language similar to Python as the source language. [PyPy](PyPy) is of this type, compiling RPython to several languages; other examples include Pyjamas compiling to [JavaScript](./JavaScript.html); Shed Skin compiling to C++; and Cython and Pyrex compiling to C.
+Jython compiles the Python program into Java byte code, which can then be executed by every Java Virtual Machine implementation. This also enables the use of Java class library functions from the Python program. [IronPython](../implementations/IronPython) follows a similar approach in order to run Python programs on the .NET Common Language Runtime. [PyPy](../implementations/PyPy) is a fast self-hosting implementation of Python, written in Python, that can output several types of bytecode, object code and intermediate languages. There also exist compilers to high-level object languages, with either unrestricted Python, a restricted subset of Python, or a language similar to Python as the source language. [PyPy](../implementations/PyPy) is of this type, compiling RPython to several languages; other examples include Pyjamas compiling to [JavaScript](./JavaScript.html); Shed Skin compiling to C++; and Cython and Pyrex compiling to C.
 
 ## Interpretational semantics 
 
@@ -131,7 +131,7 @@ CPython\'s public releases come in three types, distinguished by which part of t
 - major or \'feature\' releases, which are largely compatible but introduce new features. The second part of the version number is incremented. These releases are scheduled to occur roughly every 18 months, and each major version is supported by bugfixes for several years after its release.
 - bugfix releases, which introduce no new features but fix bugs. The third and final part of the version number is incremented. These releases are made whenever a sufficient number of bugs have been fixed upstream since the last release, or roughly every 3 months. Security vulnerabilities are also patched in bugfix releases.
 
-A number of alpha, beta, and release-candidates are also released as previews and for testing before the final release is made. Although there is a rough schedule for each release, this is often pushed back if the code is not ready. The development team monitor the state of the code by running the large unit test suite during development, and using the [BuildBot](BuildBot) continuous integration system.
+A number of alpha, beta, and release-candidates are also released as previews and for testing before the final release is made. Although there is a rough schedule for each release, this is often pushed back if the code is not ready. The development team monitor the state of the code by running the large unit test suite during development, and using the [BuildBot](../infrastructure/BuildBot) continuous integration system.
 
 # Standard library 
 

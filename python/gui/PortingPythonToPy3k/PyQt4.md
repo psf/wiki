@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PyQt 4.6+ 
 
-[PyQt](PyQt)-4.6 and greater have a new API called API2 that is the default when run on Python-3.x. The major difference is that QString does not exist in API2; the library uses the native Python3 str type instead.
+[PyQt](../PyQt)-4.6 and greater have a new API called API2 that is the default when run on Python-3.x. The major difference is that QString does not exist in API2; the library uses the native Python3 str type instead.
 
 To keep your code similar on both python3 and python2, you probably want to pick either the old or the new API and then have your code explicitly use that like so:
 

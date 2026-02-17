@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Distribution Utilities 
 
-General distribution of Python code is typically done using the [Distutils](Distutils) package from the standard library which can produce source and binary distributions which depend on end-users having Python already installed on their computer (with Python Eggs being a form of software distribution provided by the [Distutils](Distutils) derivative, [setuptools](setuptools)). Such source and binary software distributions are frequently available as operating system packages (a more general form of the term \"package\" referring not just to code but also to documentation, resources and other things) and can be installed using the package management infrastructure employed by various operating systems - see \"System Package Distribution\" below.
+General distribution of Python code is typically done using the [Distutils](../packaging/Distutils) package from the standard library which can produce source and binary distributions which depend on end-users having Python already installed on their computer (with Python Eggs being a form of software distribution provided by the [Distutils](../packaging/Distutils) derivative, [setuptools](../archive/setuptools)). Such source and binary software distributions are frequently available as operating system packages (a more general form of the term \"package\" referring not just to code but also to documentation, resources and other things) and can be installed using the package management infrastructure employed by various operating systems - see \"System Package Distribution\" below.
 
 ## Executable Applications 
 
@@ -21,8 +21,8 @@ The following projects support the production of executable application from Pyt
   [esky](http://pypi.python.org/pypi/esky/)                                                                                          Python 2 & 3                                                             2013-03-27                 0.9.8                      An auto-update framework built on top of bbfreeze
   [cx Freeze](http://www.python.net/crew/atuining/cx_Freeze/)                                                                        Python 2                                                                 2006-07-21                 3.0.3                      a set of utilities for freezing Python scripts
   [ExeMaker](http://effbot.org/zone/exemaker.htm)                                                                                    Python 2                                                                 2004-10-12                 1.2                        Creates EXE loaders for Python scripts (for Windows)
-  [Freeze](Freeze)                                                                                                                   Python 2 & ( [3 when fixed](http://bugs.python.org/issue16047))   Varies by python version   Varies by python version   Bundled with Python in the \"Tools\" Directory as **freeze.py** allows building executables (Unix-only?)
-  [py2exe](http://www.py2exe.org/)                                                                                                   Python 2                                                                 2008-11-16                 0.6.9                      Transform Python scripts into standalone Windows executable. See [py2exe](Py2Exe)
+  [Freeze](../archive/Freeze)                                                                                                                   Python 2 & ( [3 when fixed](http://bugs.python.org/issue16047))   Varies by python version   Varies by python version   Bundled with Python in the \"Tools\" Directory as **freeze.py** allows building executables (Unix-only?)
+  [py2exe](http://www.py2exe.org/)                                                                                                   Python 2                                                                 2008-11-16                 0.6.9                      Transform Python scripts into standalone Windows executable. See [py2exe](../platforms/Py2Exe)
   [py2app](http://undefined.org/python/#py2app)                                                                                      Python 2 & 3                                                             2014-02-06                 0.8                        Converts Python scripts into executable Mac OS X applications
   [McMillan\'s Installer](https://web.archive.org/web/20130804055507/http://davidf.sjsoft.com/mirrors/mcmillan-inc/install1.html)   Python 2                                                                 2003-06-04                 5b5_4                      Includes notes about (other) distributing solutions
   [PyInstaller](http://www.pyinstaller.org/)                                                                                         Python 2                                                                 2013-09-18                 2.1                        Derived from McMillan\'s installer
@@ -39,17 +39,17 @@ Installers are sometimes needed to wrap up the output of freeze tools into packa
 
 - [NSIS](http://nsis.sourceforge.net/Main_Page) (Windows)
 
-- [MacPython](MacPython) [BundleBuilder](BundleBuilder) (Mac OS X)
+- [MacPython](../platforms/MacPython) [BundleBuilder](BundleBuilder) (Mac OS X)
 
 ## See also 
 
-- [buildout](buildout)
+- [buildout](../packaging/buildout)
 
-- [deployment](deployment) (an answer to the frequently asked question on the topic)
+- [deployment](../archive/deployment) (an answer to the frequently asked question on the topic)
 
 ## System Package Distribution 
 
-Although [Distutils](Distutils) supports the production of some system packages, other tools exist to make such packages:
+Although [Distutils](../packaging/Distutils) supports the production of some system packages, other tools exist to make such packages:
 
 - There are videos explaining how to create a Debian package (.deb) from a python program (.py). This is useful if you want to distribute to Debian based Linux Systems like [Debian](http://www.debian.org) or [Ubuntu](http://www.ubuntu.com/).
 

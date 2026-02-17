@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Asking for Help: What and how we can use server in python web development? 
 
-Take a look at the [Web programming](WebProgramming) page for an overview of Web development in Python! \-- [PaulBoddie](PaulBoddie) 2011-03-28 22:17:43
+Take a look at the [Web programming](../../web/WebProgramming) page for an overview of Web development in Python! \-- [PaulBoddie](../../people/PaulBoddie) 2011-03-28 22:17:43
 
 ------------------------------------------------------------------------
 

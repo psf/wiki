@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-At [PyCon](PyCon), AMK is planning to have a session on Thursday evening to play board games. It will be at 7PM, in the Bent Tree II room.
+At [PyCon](../PyCon), AMK is planning to have a session on Thursday evening to play board games. It will be at 7PM, in the Bent Tree II room.
 
 It\'ll probably work like this: I\'ll set up the games beforehand, and as people show up, they get grouped together in sets of four or six and choose a game, or are assigned one. I explain the rules and get the group started.
 
-I\'ll box up a bunch of my games and Fedex them to myself at the hotel. However, there are probably local attendees who can also bring games. If you\'re coming to [PyCon](PyCon) and can bring something, please add your name to this page and say what you can bring.
+I\'ll box up a bunch of my games and Fedex them to myself at the hotel. However, there are probably local attendees who can also bring games. If you\'re coming to [PyCon](../PyCon) and can bring something, please add your name to this page and say what you can bring.
 
 - What games would you like to see?
 - What games can you bring?
@@ -53,11 +53,11 @@ The emphasis is on multiplayer games that can handle four or six people. I don\'
 
 # Attendees 
 
-- [AndrewKuchling](AndrewKuchling)
+- [AndrewKuchling](../../../people/AndrewKuchling)
 
 - [DougNapoleone](./DougNapoleone.html)
 
-- [DavidGoodger](DavidGoodger)
+- [DavidGoodger](../../../people/DavidGoodger)
 
 - Sean Reifschneider. I\'ll plan to bring Riccochet Robots and Metro.
 
@@ -75,27 +75,27 @@ The emphasis is on multiplayer games that can handle four or six people. I don\'
 
 # Comments 
 
-*Damn, and here I was leaning towards going to [EuroPython](EuroPython) next year, and you go and introduce board games into the mix \-- [RichardJones](RichardJones)*
+*Damn, and here I was leaning towards going to [EuroPython](../../europython/EuroPython) next year, and you go and introduce board games into the mix \-- [RichardJones](../../../people/RichardJones)*
 
 *As a \_long\_ time gamer, I\'m \_definitely\_ interested in this. I can bring two or three different games if desired. \-- Ken Whitesell*
 
-*This sounds like a great idea. I can bring my extended [munchkin](http://www.sjgames.com/munchkin/) collection to the table (super-star-fu-bites-munchkin-blender anyone?) \-- [MichaelTwomey](MichaelTwomey)*
+*This sounds like a great idea. I can bring my extended [munchkin](http://www.sjgames.com/munchkin/) collection to the table (super-star-fu-bites-munchkin-blender anyone?) \-- [MichaelTwomey](../../../people/MichaelTwomey)*
 
 - I am sooo there, will bring some packs as well. \--DougN
 
 *[Go (aka Igo/Weichi/Baduk)](http://en.wikipedia.org/wiki/Go_(board_game)) anyone?*
 
-- I\'m a Go player; I\'d love to have a game or three. Who\'s asking? \-- [DavidGoodger](DavidGoodger)
+- I\'m a Go player; I\'d love to have a game or three. Who\'s asking? \-- [DavidGoodger](../../../people/DavidGoodger)
 
 - I added GO above as I will bring my board. I will also bring some 13x13 and 9x9 boards on cardstock so more than two people can play fast games at once. \--DougN
 
 *I\'ll concentrate on bringing some modern German-style board games that are fairly easy to learn, so that new arrivals can play something entertaining. \--amk*
 
-*Backgammon, anyone? I will bring a board or two. And of course, certainly there won\'t be any gambling ![:-)](/wiki/europython/img/smile.png ":-)") \-- [JonRosen](JonRosen)*
+*Backgammon, anyone? I will bring a board or two. And of course, certainly there won\'t be any gambling ![:-)](/wiki/europython/img/smile.png ":-)") \-- [JonRosen](../../../people/JonRosen)*
 
 *I\'ll bring some extra packs of Fluxx as well. Ever had a game of Fluxx with 25 people and a 15 second time limit per turn? its a blast!*
 
-I\'ve never had a chance to play [Nomic](http://www.nomic.net/), but I\'d like to \-- this seems like a group that might enjoy such a game (like Fluxx without the structure). I\'ll print up the materials to bring along. \-- [IanBicking](IanBicking)
+I\'ve never had a chance to play [Nomic](http://www.nomic.net/), but I\'d like to \-- this seems like a group that might enjoy such a game (like Fluxx without the structure). I\'ll print up the materials to bring along. \-- [IanBicking](../../../people/IanBicking)
 
 While i will be unable to attend, i\'d suggest [Ticket to Ride Europe](http://boardgamegeek.com/game/14996). Great 3 - 5 person game, each turn is super fast, easy to learn. Has been a big hit with friends and family. \-- [JosYule](./JosYule.html)
 

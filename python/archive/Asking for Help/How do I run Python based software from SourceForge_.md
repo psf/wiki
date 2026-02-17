@@ -45,7 +45,7 @@ Building files from source (the last alternative above) can be tricky, but the g
 
 Now read the documentation! There will probably be a `README`{.backtick} or `INSTALL`{.backtick} file in the directory - this will explain the rest of the installation procedure.
 
-- Some software can be run straight from the unpacked archive - this will usually be mentioned in the documentation, but it can be quite common for games written using [PyGame](PyGame) to have a `run_game.py`{.backtick} (or `run_game.pyw`{.backtick}) file, and you can just run that with `python`{.backtick}.
+- Some software can be run straight from the unpacked archive - this will usually be mentioned in the documentation, but it can be quite common for games written using [PyGame](../../multimedia/PyGame) to have a `run_game.py`{.backtick} (or `run_game.pyw`{.backtick}) file, and you can just run that with `python`{.backtick}.
 
 - Other software will provide a `setup.py`{.backtick} program which can be used to install the software.
 

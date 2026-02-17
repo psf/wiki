@@ -78,7 +78,7 @@ Where these pages really need help:
 
 - [leftsnb](http://leftsnb.blogspot.com/search/label/Python) - miscellaneous code
 
-- [aaz](http://aaz-blogger.blogspot.com/2009/10/pyqwt.html) - [PyQt](PyQt)
+- [aaz](http://aaz-blogger.blogspot.com/2009/10/pyqwt.html) - [PyQt](../gui/PyQt)
 
 - [Urner code snippet](http://1.bp.blogspot.com/_3IBfde2A9L8/SuB7IjwAkcI/AAAAAAAADSw/qgkJYcim2dE/s1600-h/gb18030.png) - gb18030 encode/decode after [Pilgrim - Dive into Python 3](http://diveintopython3.org/strings.html)
 
@@ -152,7 +152,7 @@ Where these pages really need help:
 
 - [alextu](http://alextu.blogspot.com/2010/01/python20100117.html) - intro
 
-- [cnblogs.shanyou](http://www.cnblogs.com/shanyou/archive/2010/01/26/1656973.html) - [IronPython](IronPython)
+- [cnblogs.shanyou](http://www.cnblogs.com/shanyou/archive/2010/01/26/1656973.html) - [IronPython](../implementations/IronPython)
 
 - [snail.comsing](http://snail.comsing.com/python/230.html) - django学习笔记------进阶------模型
 
@@ -198,6 +198,6 @@ Where these pages really need help:
 
 - [初学者入门/概述](http://wiki.python.org/moin/%E5%88%9D%E5%AD%A6%E8%80%85%E5%85%A5%E9%97%A8/%E6%A6%82%E8%BF%B0)
 
-- [BeginnersGuideChinese](BeginnersGuideChinese)
+- [BeginnersGuideChinese](../getting-started/BeginnersGuideChinese)
 
 [CategoryLanguage](CategoryLanguage) [CategoryUnicode](CategoryUnicode)

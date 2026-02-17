@@ -50,7 +50,7 @@ Search the Python reference for:
 
 - [StrIsNotAString](StrIsNotAString)
 
-- [PrintFails](PrintFails)
+- [PrintFails](../people/PrintFails)
 
 - [ShellRedirectionFails](ShellRedirectionFails)
 
@@ -58,7 +58,7 @@ Search the Python reference for:
 
 - [UnicodeDecodeError](UnicodeDecodeError)
 
-- [DefaultEncoding](DefaultEncoding)
+- [DefaultEncoding](../people/DefaultEncoding)
 
 - [The standard encodings list](http://docs.python.org/lib/standard-encodings.html) is for the current version of python. [GB2312](http://en.wikipedia.org/wiki/GB2312) (PRC Chinese,) for example, is in Python2.4, but [not in Python2.2, nor Python2.3.](http://www.xahlee.org/perl-python/charset_encoding.html)
 
@@ -84,7 +84,7 @@ Another is to list aliases from the encodings module.
     >>> aliases.aliases
     {'base64': 'base64_codec', 'us_ascii': 'ascii', ...}
 
-Contributors: [LionKimbro](LionKimbro), [FredDrake](FredDrake), [JürgenHermann](JürgenHermann).
+Contributors: [LionKimbro](../people/LionKimbro), [FredDrake](../people/FredDrake), [JürgenHermann](JürgenHermann).
 
 ### \"The Truth about Unicode in Python\" 
 
@@ -163,7 +163,7 @@ That said, if I\'m actually serving UTF-32 to you somehow,\... \...then there\'s
 
 On side-notes, I think the diagrams I\'ve posted for [WorkingWithTime](WorkingWithTime) and [RegularExpressions](./RegularExpressions.html) were eaten up in the transition to [MoinMoin](MoinMoin) 1.3; I\'ll repost them soon, after I get [my own wiki](http://wiki.taoriver.net/) upgraded to 1.3.
 
-\-- [LionKimbro](LionKimbro) 2005-02-06 02:56:28
+\-- [LionKimbro](../people/LionKimbro) 2005-02-06 02:56:28
 
 ------------------------------------------------------------------------
 

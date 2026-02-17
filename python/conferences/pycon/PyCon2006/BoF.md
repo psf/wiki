@@ -6,29 +6,29 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The following birds-of-a-feather sessions are planned for [PyCon2006](PyCon2006):
+The following birds-of-a-feather sessions are planned for [PyCon2006]():
 
-- [EducationBof](EducationBof)
+- [EducationBof](../../../education/EducationBof)
 
-- [PyCon2007AndBeyond](PyCon2007AndBeyond)
+- [PyCon2007AndBeyond](../PyCon2007AndBeyond)
 
 - ZopeFoundationBoF
 
 - ChandlerBoF
 
-- [PromotingPythonBof](PromotingPythonBof)
+- [PromotingPythonBof](../../../archive/PromotingPythonBof)
 
 - AustinPUGBof
 
-- [ModPythonBof](ModPythonBof)
+- [ModPythonBof](../../../archive/ModPythonBof)
 
-- [PyMyCMSBof](PyMyCMSBof)
+- [PyMyCMSBof](../../../archive/PyMyCMSBof)
 
-- [VirtualCollaboratoryBof](VirtualCollaboratoryBof)
+- [VirtualCollaboratoryBof](../../../archive/VirtualCollaboratoryBof)
 
 - PythonASTBof
 
-- [PythonForSecurity](PythonForSecurity)
+- [PythonForSecurity](../../../archive/PythonForSecurity)
 
 - [wxPython BoF](../../../archive/wxPython BoF)
 

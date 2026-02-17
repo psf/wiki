@@ -21,7 +21,7 @@ In Seattle we are discussing [PythonInSchools](http://www.seapig.org/PythonInSch
 
 ------------------------------------------------------------------------
 
-Some of us are beginning to brainstorm on an education project with a working title of [PythonForSecretaries](PythonForSecretaries).
+Some of us are beginning to brainstorm on an education project with a working title of [PythonForSecretaries](../archive/PythonForSecretaries).
 
 ------------------------------------------------------------------------
 

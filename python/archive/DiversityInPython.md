@@ -64,7 +64,7 @@ The official PSF diversity statement can be found [here](http://python.org/psf/d
 
 - If you have an existing python app and want contributors, offer to mentor one or two students with getting started with its codebase so they can learn and become contributors over the years.
 
-- Reach out to diverse delegates from the Welcoming NotCommittee, which is tasked with organizing a Thursday-evening \"welcome to [PyCon](PyCon)\" event specifically to welcome newcomers and pass on some lore.
+- Reach out to diverse delegates from the Welcoming NotCommittee, which is tasked with organizing a Thursday-evening \"welcome to [PyCon](../conferences/pycon/PyCon)\" event specifically to welcome newcomers and pass on some lore.
 
 ## Technical actions: 
 
@@ -126,7 +126,7 @@ Make sure your web pages meet [accessibility standards](http://www.w3.org/WAI/) 
 
 Links to activities, posted to the Diversity list, encouraging participation:
 
-[PyCon2010](PyCon2010) related links: [Call for reviewers](http://us.pycon.org/2010/conference/proposals/reviewer_instructions/) - [Call for Proposals](http://us.pycon.org/2010/conference/proposals/) - [Financial Aid for attendees](http://us.pycon.org/2010/registration/financial-aid/) - [Places to send calls for papers and conference announcements](http://wiki.python.org/moin/PyCon2010/CfpTargets)
+[PyCon2010](../conferences/pycon/PyCon2010) related links: [Call for reviewers](http://us.pycon.org/2010/conference/proposals/reviewer_instructions/) - [Call for Proposals](http://us.pycon.org/2010/conference/proposals/) - [Financial Aid for attendees](http://us.pycon.org/2010/registration/financial-aid/) - [Places to send calls for papers and conference announcements](http://wiki.python.org/moin/PyCon2010/CfpTargets)
 
 [Roll-Call for Women in Python](http://www.newsprint-fray.com/2009/08/12/roll-call-women-in-python/)
 
@@ -272,7 +272,7 @@ In the first post to the Diversity mailing list, Steve Holden posted a link to [
 
 [Code-n-Splode](http://opensourcebridge.org/sessions/115) - grew out of Women in Open Source BOF at OSON 2007
 
-[WisCon Feminist Science Fiction Convention](http://www.wiscon.info/) - WisCon encourages discussion and debate of ideas relating to feminism, gender, race and class. Suggested as a possible model for a Diversity and Open Source panel (perhaps not at a [PyCon](PyCon) event)
+[WisCon Feminist Science Fiction Convention](http://www.wiscon.info/) - WisCon encourages discussion and debate of ideas relating to feminism, gender, race and class. Suggested as a possible model for a Diversity and Open Source panel (perhaps not at a [PyCon](../conferences/pycon/PyCon) event)
 
 [Teaching Open Source](http://teachingopensource.org/index.php/Main_Page)
 

@@ -28,7 +28,7 @@ This is a place for tutorial instructors to pool their resources, make AV equipm
 
   - Would you expect remuneration? If so, how much?
 
-  - Remaining funds could be used to help offset conference costs or saved for the next [PyCon](PyCon)
+  - Remaining funds could be used to help offset conference costs or saved for the next [PyCon](../PyCon)
 
 ##### Wesley Chun :: 2005 Dec 31 && 2006 Jan 07 
 
@@ -56,7 +56,7 @@ Having a lavalier mic or similar is invaluable if someone loses their voice (it 
 
 ##### Wesley Chun :: 2006 Feb 08 
 
-andrew has given me the OK to coordinate putting together a tutorial presentation compendium for sale at [PyCon](PyCon) for attendees who could not attend some or any of the tutorials but would like to purchase all the notes:
+andrew has given me the OK to coordinate putting together a tutorial presentation compendium for sale at [PyCon](../PyCon) for attendees who could not attend some or any of the tutorials but would like to purchase all the notes:
 
 On 1/25/06, A.M. Kuchling \<[amk@amk.ca](mailto:amk@amk.ca)\> wrote: \> \> \* Is it OK to sell printed volumes of the tutorial notes? Sure!
 
@@ -64,7 +64,7 @@ this is similar to what they do at OSCON only you buy them separately there \-- 
 
 the point of sales is to attempt to cover as much of your duplication expenses as possible for the tutorials you\'re giving as well as the duplication expenses for the compendium.
 
-hopefully, we can cover \*all\* of everyone\'s expenses and still have some leftover for [PyCon](PyCon) 2007 or to give to the PSF. comments?
+hopefully, we can cover \*all\* of everyone\'s expenses and still have some leftover for [PyCon](../PyCon) 2007 or to give to the PSF. comments?
 
 ##### Wesley Chun :: 2006 Feb 21 
 

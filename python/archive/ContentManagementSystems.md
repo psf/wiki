@@ -16,7 +16,7 @@ Python-based products, although in the minority in the larger market of CMSs, po
 
 ## 1.1. Zope-based Solutions 
 
-The most established Python-based content management systems are those derived from [Zope](Zope), notably [Plone](http://www.plone.org), [Nuxeo CPS](http://www.cps-project.org) (starting with v5 Nuxeo switched to Java as its development platform), [Silva](http://www.infrae.com/products/silva), [ZMS](http://www.zms-publishing.com) and [KARL](http://karlproject.org). These solutions have been used in large scale and high profile deployments over a number of years, and a range of organisations provide support and services for those solutions.
+The most established Python-based content management systems are those derived from [Zope](../web/Zope), notably [Plone](http://www.plone.org), [Nuxeo CPS](http://www.cps-project.org) (starting with v5 Nuxeo switched to Java as its development platform), [Silva](http://www.infrae.com/products/silva), [ZMS](http://www.zms-publishing.com) and [KARL](http://karlproject.org). These solutions have been used in large scale and high profile deployments over a number of years, and a range of organisations provide support and services for those solutions.
 
 ## 1.2. Non-Zope Solutions 
 

@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [DrawBot](http://drawbot.com) is a simple application for MacOSX that allows you to write simple Python scripts that generate two-dimensional graphics. The builtin graphics primitives are currently pretty braindead, it currently only supports rectangles, ovals and (bezier) paths and polygons. A future version will also support text and images.
 
-Currently developed by [JustVanRossum](JustVanRossum).
+Currently developed by [JustVanRossum](../../archive/JustVanRossum).
 
-[BobIppolito](BobIppolito) and [BrendanHall](./BrendanHall.html) are hacking on a DrawBot based project that includes dynamic GUI generation (using [GNUStep Renaissance](http://www.gnustep.it/Renaissance/)) and more, it will probably end up being a fork as the plans are to become a tool for designing, not so much for teaching. You can download the prototype, which includes a self-contained application and the source from the links section. Here\'s a screenshot:\
+[BobIppolito](../../people/BobIppolito) and [BrendanHall](./BrendanHall.html) are hacking on a DrawBot based project that includes dynamic GUI generation (using [GNUStep Renaissance](http://www.gnustep.it/Renaissance/)) and more, it will probably end up being a fork as the plans are to become a tool for designing, not so much for teaching. You can download the prototype, which includes a self-contained application and the source from the links section. Here\'s a screenshot:\
 ![](http://undefined.org/python/DrawBotWithMoreWidgets.png "http://undefined.org/python/DrawBotWithMoreWidgets.png")
 
 # status

@@ -12,11 +12,11 @@ Here is the current list of mentors for the Python Software Foundation and what 
 
 Mentors are listed in alphabetical order.
 
-- [JimBaker](JimBaker) ([Jython](http://wiki.python.org/jython/SummerOfCode))
+- [JimBaker](../../people/JimBaker) ([Jython](http://wiki.python.org/jython/SummerOfCode))
 
 - Facundo Batista (Python standard library)
 
-- [JeffBauer](JeffBauer) ([Django](http://www.djangoproject.com))
+- [JeffBauer](../../people/JeffBauer) ([Django](http://www.djangoproject.com))
 
 - Matt Boersma ([Jython](http://wiki.python.org/jython/SummerOfCode))
 
@@ -38,7 +38,7 @@ Mentors are listed in alphabetical order.
 
 - Antonio Cuni ([PyPy](http://codespeak.net/pypy))
 
-- [BrianDorsey](BrianDorsey) ([py-lib](http://codespeak.net/py/) - See the future section of [test.txt](http://codespeak.net/svn/py/trunk/py/doc/test.txt) and [future.txt](http://codespeak.net/svn/py/trunk/py/doc/future.txt) for some py-lib project ideas)
+- [BrianDorsey](../../people/BrianDorsey) ([py-lib](http://codespeak.net/py/) - See the future section of [test.txt](http://codespeak.net/svn/py/trunk/py/doc/test.txt) and [future.txt](http://codespeak.net/svn/py/trunk/py/doc/future.txt) for some py-lib project ideas)
 
 - Ilya Etingof (willing to help out, esp. in networking areas)
 
@@ -56,7 +56,7 @@ Mentors are listed in alphabetical order.
 
 - Holger Krekel ([py-lib](http://codespeak.net/py/), [PyPy](http://codespeak.net/pypy))
 
-- [AndrewKuchling](AndrewKuchling) (Python standard library, extension modules, possibly Jython)
+- [AndrewKuchling](../../people/AndrewKuchling) (Python standard library, extension modules, possibly Jython)
 
 - Tennessee Leeuwenburg (Just happy to help \-- of [http://pythonpapers.org/](http://pythonpapers.org/) thinking of project ideas still)
 
@@ -66,13 +66,13 @@ Mentors are listed in alphabetical order.
 
 - Jarrod Millman ([SciPy](http://scipy.org))
 
-- [SkipMontanaro](SkipMontanaro) ([SpamBayes](http://www.spambayes.org))
+- [SkipMontanaro](../../people/SkipMontanaro) ([SpamBayes](http://www.spambayes.org))
 
 - Victor Ng ([DrProject](http://www.drproject.org))
 
-- Travis Oliphant ([NumPy](NumPy), Extended buffer interface in Python)
+- Travis Oliphant ([NumPy](../../science/NumPy), Extended buffer interface in Python)
 
-- [CarloOliveira](CarloOliveira) (UFRJ,[Pyndorama](http://labase.nce.ufrj.br/projects/pyndorama), Educational tools for Web and OLPC)
+- [CarloOliveira](../../people/CarloOliveira) (UFRJ,[Pyndorama](http://labase.nce.ufrj.br/projects/pyndorama), Educational tools for Web and OLPC)
 
 - Armin Rigo ([PyPy](http://codespeak.net/pypy))
 
@@ -80,19 +80,19 @@ Mentors are listed in alphabetical order.
 
 - André Roberge ([Crunchy](http://code.google.com/p/crunchy)) [project ideas](http://code.google.com/p/crunchy/wiki/SummerOfCodeIdeas)
 
-- [JustinRyan](JustinRyan) ([http://www.openplans.org/projects/pu](http://www.openplans.org/projects/pu), bridging interface implementations with {IronP,cP,J}ython to enable cross-pollination of communities and adoption with existing legacy apps, also Mono/Twisted reactor convergence possibilities, [PyPy](PyPy), distutils on Jython / javaos.py\]
+- [JustinRyan](../../people/JustinRyan) ([http://www.openplans.org/projects/pu](http://www.openplans.org/projects/pu), bridging interface implementations with {IronP,cP,J}ython to enable cross-pollination of communities and adoption with existing legacy apps, also Mono/Twisted reactor convergence possibilities, [PyPy](../../implementations/PyPy), distutils on Jython / javaos.py\]
 
-- [DavidStanek](DavidStanek) ([TurboGears](http://www.turbogears.org), projects involving web applications or web application development)
+- [DavidStanek](../../people/DavidStanek) ([TurboGears](http://www.turbogears.org), projects involving web applications or web application development)
 
 - Aaron Swartz ([web.py ideas](http://webpy.infogami.com/ideas))
 
-- [JamesTauber](JamesTauber) ([Pyjamas](http://pyjamas.pyworks.org))
+- [JamesTauber](../../people/JamesTauber) ([Pyjamas](http://pyjamas.pyworks.org))
 
-- [MikeTaylor](MikeTaylor) ([Jython](http://wiki.python.org/jython/SummerOfCode))
+- [MikeTaylor](../../people/MikeTaylor) ([Jython](http://wiki.python.org/jython/SummerOfCode))
 
-- [AlexandreVassalotti](AlexandreVassalotti) (Python standard library, core)
+- [AlexandreVassalotti](../../people/AlexandreVassalotti) (Python standard library, core)
 
-- [FrankWierzbicki](FrankWierzbicki) ([Jython](http://wiki.python.org/jython/SummerOfCode))
+- [FrankWierzbicki](../../people/FrankWierzbicki) ([Jython](http://wiki.python.org/jython/SummerOfCode))
 
 - Greg Wilson ([DrProject](http://www.drproject.org))
 

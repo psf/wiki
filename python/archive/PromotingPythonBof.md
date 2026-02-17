@@ -42,7 +42,7 @@ Create a list of speakers that could present on Python
 
 Need a template/example of a \"standard\" evangelical talk
 
-- \- [WesleyChun](WesleyChun) has created a talk, will make his slides available
+- \- [WesleyChun](../people/WesleyChun) has created a talk, will make his slides available
 
   \- PSF once funded Software Carpentry slides - [http://www.third-bit.com/swc/](http://www.third-bit.com/swc/)
 

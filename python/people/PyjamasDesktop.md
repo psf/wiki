@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-PyjamasDesktop is a cross-platform framework and applications widget set for the desktop. There are three back-ends: [WebKit](http://webkit.org), [python-xpcom](http://pyxpcomext.mozdev.org) and MSHTML. The XULrunner port uses python-xpcom and hulahop; the Webkit port uses [PyWebkitGtk](PyWebkitGtk) and the MSHTML port uses python win32 comtypes. PyjamasDesktop is similar to [KiWi](http://www.async.com.br/projects/kiwi) in that it provides an easy-to-use API, where you need not know - at all - that you are running PyGTK, XULrunner or MSHTML underneath.
+PyjamasDesktop is a cross-platform framework and applications widget set for the desktop. There are three back-ends: [WebKit](http://webkit.org), [python-xpcom](http://pyxpcomext.mozdev.org) and MSHTML. The XULrunner port uses python-xpcom and hulahop; the Webkit port uses [PyWebkitGtk](../gui/PyWebkitGtk) and the MSHTML port uses python win32 comtypes. PyjamasDesktop is similar to [KiWi](http://www.async.com.br/projects/kiwi) in that it provides an easy-to-use API, where you need not know - at all - that you are running PyGTK, XULrunner or MSHTML underneath.
 
 PyjamasDesktop is actually a port of [PyJamas](http://code.google.com/p/pyjamas) which is a web toolkit, so you also have the option of running PyjamasDesktop applications as web applications - unmodified.
 

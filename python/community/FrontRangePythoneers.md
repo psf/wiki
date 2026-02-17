@@ -68,7 +68,7 @@ An unconference is a conference that is organized and run by the participants. T
 
 ## Meeting: April 8, 2009, 6 PM - 8 PM 
 
-We\'ll meet in Boulder, one week earlier than usual. Maciej Fijalkowski will discuss his [PyPy](PyPy) work, and we\'ll hear a recap of [PyCon](PyCon) 2009.
+We\'ll meet in Boulder, one week earlier than usual. Maciej Fijalkowski will discuss his [PyPy](../implementations/PyPy) work, and we\'ll hear a recap of [PyCon](../conferences/pycon/PyCon) 2009.
 
 ## Meeting: March 18, 2009, 6 PM - 8 PM 
 
@@ -128,13 +128,13 @@ See our [archive page](./FrontRangePythoneersArchive(2f).html) for details of ol
 
 - [Churchill Navigation](http://www.churchillnavigation.com) in Boulder builds high-end navigation systems with a high-level Python interface.
 
-- [DuncanMcGreggor](DuncanMcGreggor) lives in Loveland (just south of Fort Collins). He\'s a [Twisted](http://twistedmatrix.com) guy and consults for [Zenoss](http://zenoss.com/).
+- [DuncanMcGreggor](../archive/DuncanMcGreggor) lives in Loveland (just south of Fort Collins). He\'s a [Twisted](http://twistedmatrix.com) guy and consults for [Zenoss](http://zenoss.com/).
 
 - [Matt Boersma](http://www.sprout.org/matt) in Boulder actually led the adoption of Python at [Array BioPharma](http://www.arraybiopharma.com/), where he works with five other full-time Pythonistas.
 
-- [SeanGillies](SeanGillies) lives in Fort Collins, works at UNC-Chapel Hill\'s Ancient World Mapping Center on a historical geography project named [Pleiades](http://pleiades.stoa.org).
+- [SeanGillies](../people/SeanGillies) lives in Fort Collins, works at UNC-Chapel Hill\'s Ancient World Mapping Center on a historical geography project named [Pleiades](http://pleiades.stoa.org).
 
-- [KenKinder](KenKinder) lives in Boulder, works for a *top secret* company doing vertical search, and loiters Sunday afternoons on the Pearl Street Mall. [kenkinder.com](http://kenkinder.com/)
+- [KenKinder](../people/KenKinder) lives in Boulder, works for a *top secret* company doing vertical search, and loiters Sunday afternoons on the Pearl Street Mall. [kenkinder.com](http://kenkinder.com/)
 
 - [Brian Rosner](http://brosner.blogspot.com/) lives in Highlands Ranch, works at [ChurchPartner](http://www.churchpartner.com/) writting Python for their e-commerce platform. In his spare time works on [Cherokee](http://www.cherokee-project.com).
 
@@ -170,7 +170,7 @@ We (collectively) are the maintainers of Django\'s Oracle support. Ian Kelly is 
 
 # Acknowledgments 
 
-Thanks to [tummy.com, ltd.](http://tummy.com) and their principals, [SeanReifschneider](SeanReifschneider) and Evelyn Mitchell, for generously hosting our web site and mailing list.
+Thanks to [tummy.com, ltd.](http://tummy.com) and their principals, [SeanReifschneider](../people/SeanReifschneider) and Evelyn Mitchell, for generously hosting our web site and mailing list.
 
 ------------------------------------------------------------------------
 

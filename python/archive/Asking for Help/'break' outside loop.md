@@ -46,7 +46,7 @@ So you need to make sure that the whitespace is exactly correct in the program y
 
     python -t program.py
 
-I hope this helps a bit. \-- [PaulBoddie](PaulBoddie) 2012-01-06 16:36:25
+I hope this helps a bit. \-- [PaulBoddie](../../people/PaulBoddie) 2012-01-06 16:36:25
 
 ------------------------------------------------------------------------
 

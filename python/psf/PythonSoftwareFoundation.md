@@ -32,7 +32,7 @@ The [PSF Voting Members\' Wiki](http://wiki.python.org/psf/) is provided for col
 
 \"Active Project\"
 
-We are currently working on creating a PSF Organizers\' Manual which we hope will include how-tos for starting a new [PyCon](PyCon) and a user group in your area. The current group working on the manual includes a subset of the 2016 - 2017 Board but may open up to include other community members in the future. The goal is to unite previous efforts into one location and expand upon that, preferably documenting the manual on [GitHub](./GitHub.html) to solicit OSS contributions from the community.
+We are currently working on creating a PSF Organizers\' Manual which we hope will include how-tos for starting a new [PyCon](../conferences/pycon/PyCon) and a user group in your area. The current group working on the manual includes a subset of the 2016 - 2017 Board but may open up to include other community members in the future. The goal is to unite previous efforts into one location and expand upon that, preferably documenting the manual on [GitHub](./GitHub.html) to solicit OSS contributions from the community.
 
 Project Leaders: Lorena Mesa
 
@@ -44,7 +44,7 @@ The PSF has begun to define a policy for handling Code of Conduct violations wit
 
 ### 2015: Elections Workgroup 
 
-We are currently working on a charter, and a list of what we want to do. This link is just because I don\'t know how to make a new wiki page except by referrring to it on an existing page. When we get the charter done, we can update this. Laura Creighton [ElectionsWorkgroupPlanning](ElectionsWorkgroupPlanning)
+We are currently working on a charter, and a list of what we want to do. This link is just because I don\'t know how to make a new wiki page except by referrring to it on an existing page. When we get the charter done, we can update this. Laura Creighton [ElectionsWorkgroupPlanning](../archive/ElectionsWorkgroupPlanning)
 
 ### 2014: PSF Python Job Board 
 
@@ -52,7 +52,7 @@ We are currently working on a charter, and a list of what we want to do. This li
 
 The Python job board was run by single volunteers for many years. Since the job board activities have significantly increased in recent years, the PSF wanted to relaunch the project using a team of volunteers. The implementation took a little longer than expected. The new job board was launched in March 2015 and the team is now focusing on the job review part.
 
-Project Leaders: [MarcAndreLemburg](MarcAndreLemburg) for the time being
+Project Leaders: [MarcAndreLemburg](../archive/MarcAndreLemburg) for the time being
 
 Wiki page: [PSF Python Job Board](PSF Python Job Board)
 
@@ -62,7 +62,7 @@ Wiki page: [PSF Python Job Board](PSF Python Job Board)
 
 A group of PSF members is working on creating a stable PyPI mirroring installation that uses a content delivery network to make PyPI more robust and performant.
 
-PSF Project Leader: [MarcAndreLemburg](MarcAndreLemburg)
+PSF Project Leader: [MarcAndreLemburg](../archive/MarcAndreLemburg)
 
 ### 2011: PSF Python Brochure Project 
 
@@ -76,7 +76,7 @@ Website: [http://brochure.getpython.info/](http://brochure.getpython.info/)
 
 Project page: [https://wiki.python.org/psf/PSF%20Python%20Brochure](https://wiki.python.org/psf/PSF%20Python%20Brochure)
 
-PSF Project Leader: [MarcAndreLemburg](MarcAndreLemburg)
+PSF Project Leader: [MarcAndreLemburg](../archive/MarcAndreLemburg)
 
 ### 2006 + 2007: Grants Program 
 
@@ -92,9 +92,9 @@ PSF Project Leader: Martin von Löwis
 
 *Project completed*
 
-In August 2006, the PSF board voted to fund [a proposal](https://web.archive.org/web/20120410080050/http://python.org/psf/grants/advocacy/orig-proposal.pdf) from Jeff Rush for him to act as a full time Python Advocacy Coordinator for a period of six months. In this position, Jeff will work full time on developing and implementing an effective advocacy strategy for Python. His tasks will include writing content for the website and printable brochures for conferences, expanding Python\'s coverage in technical journals, and building a more effective network of advocacy volunteers from the community. Jeff is known for his work on [PyCon](PyCon) 2006, and will be reporting to a group of several PSF directors and officers (initially Stephan Deibel, Chairman of the Board, and Neal Norwitz, Assistant Treasurer).
+In August 2006, the PSF board voted to fund [a proposal](https://web.archive.org/web/20120410080050/http://python.org/psf/grants/advocacy/orig-proposal.pdf) from Jeff Rush for him to act as a full time Python Advocacy Coordinator for a period of six months. In this position, Jeff will work full time on developing and implementing an effective advocacy strategy for Python. His tasks will include writing content for the website and printable brochures for conferences, expanding Python\'s coverage in technical journals, and building a more effective network of advocacy volunteers from the community. Jeff is known for his work on [PyCon](../conferences/pycon/PyCon) 2006, and will be reporting to a group of several PSF directors and officers (initially Stephan Deibel, Chairman of the Board, and Neal Norwitz, Assistant Treasurer).
 
-For details and progress reports see [PythonAdvocacyCoordinator](PythonAdvocacyCoordinator).
+For details and progress reports see [PythonAdvocacyCoordinator](../community/PythonAdvocacyCoordinator).
 
 PSF Project Leader: Jeff Rush
 
@@ -102,7 +102,7 @@ PSF Project Leader: Jeff Rush
 
 *Project completed*
 
-In January 2005, the PSF board voted to fund a proposal (see [WebsiteRedesignProposal](WebsiteRedesignProposal)) from Tim Parkin and Matt Goodall to develop a new framework for the python.org website. The purpose of this is to update the look for the python.org site and move to a more accessible and modern design (based on CSS), while keeping maintenance of the site simple and avoiding reliance on heavy monolithic tools.
+In January 2005, the PSF board voted to fund a proposal (see [WebsiteRedesignProposal](../archive/WebsiteRedesignProposal)) from Tim Parkin and Matt Goodall to develop a new framework for the python.org website. The purpose of this is to update the look for the python.org site and move to a more accessible and modern design (based on CSS), while keeping maintenance of the site simple and avoiding reliance on heavy monolithic tools.
 
 This website has now been rolled out, although work on content and the toolset is ongoing. For details see [http://www.python.org/dev/pydotorg/website/](http://www.python.org/dev/pydotorg/website/)
 
@@ -110,7 +110,7 @@ Project Leader: Tim Parkin
 
 ## PSF Fiscal Sponsorship 
 
-In 2011, the PSF began to provide Fiscal Sponsorship for Python groups. This allows groups like Boston Python to receive tax-deductible donations through the PSF. Currently, the PSF is sponsoring under Colvin\'s Model A for \"Direct Projects\". This model is for organizations that have no independent legal status. It is the same as if the work was being done by PSF volunteers. For further information, refer to [FiscalSponsorship](FiscalSponsorship).
+In 2011, the PSF began to provide Fiscal Sponsorship for Python groups. This allows groups like Boston Python to receive tax-deductible donations through the PSF. Currently, the PSF is sponsoring under Colvin\'s Model A for \"Direct Projects\". This model is for organizations that have no independent legal status. It is the same as if the work was being done by PSF volunteers. For further information, refer to [FiscalSponsorship](../people/FiscalSponsorship).
 
 ## PSF License and Trademarks 
 
@@ -150,11 +150,11 @@ How do modules become part of the Python distribution? What kind of process do y
 
 I\'ve looked around, but haven\'t found any web pages on the subject.
 
-\-- [LionKimbro](LionKimbro) 2004-06-28 21:22:21
+\-- [LionKimbro](../people/LionKimbro) 2004-06-28 21:22:21
 
 Answer: The final decision is by BDFL pronouncement, but the usual process is that the module is first written as a stand-alone module, and released. After it\'s been in use for some time, the author makes the suggestion in comp.lang.python or python-dev (both are used, I\'m not sure which is preferred) that it be adopted into the standard distribution. This gets discussed by the usual crowd and usually the answer is obvious long before it ever gets to Guido. Certain modules skip the stand-alone stage and are adopted directly into the standard library, but that is usually because the module was written in response to requests, and frequently by an experienced python core developer. If you are interested in getting your module adopted into the core, the #1 question you are sure to be asked is \"are you willing to commit to supporting this module for at least the next 5 years?\", because unless SOMEONE is willing to volunteer to provide that support the module can\'t be accepted.
 
-\-- [MichaelChermside](MichaelChermside)
+\-- [MichaelChermside](../people/MichaelChermside)
 
 [PEP 2, \"Procedure for Adding New Modules\"](http://www.python.org/dev/peps/pep-0002/) contains details. \-- David Goodger
 

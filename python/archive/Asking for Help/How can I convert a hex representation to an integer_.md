@@ -38,7 +38,7 @@ and I need to convert the values following user (\'\\x00\\xcc\\x15\\xa4\') into 
 :::
 ::::
 
-[lwickjr](lwickjr): you use
+[lwickjr](../lwickjr): you use
 
 :::: 
 ::: 
@@ -71,7 +71,7 @@ See module [struct](http://docs.python.org/lib/module-struct.html) !
 
 ## See Also 
 
-- [BitManipulation](BitManipulation) has a bunch on working with hex
+- [BitManipulation](../../people/BitManipulation) has a bunch on working with hex
 
 ------------------------------------------------------------------------
 

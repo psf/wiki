@@ -18,6 +18,6 @@ One of these could be extended, or a generic interface for filesystems could be 
 
 - Take a look at Tcl\'s virtual file system for some inspiration. \-- Brett Cannon
 
-- An existing work in Python is [itools.vfs](http://download.ikaaro.org/doc/itools/Chapter--VFS.html). Work on filesystem virtualisation should also take into account the existing urllib/urllib2 modules (and improvements - see [CleanupUrlLibProject](CleanupUrlLibProject)) along with other packages which provide file-like and os/os.path-like interfaces, notably [ftputil](http://ftputil.sschwarzer.net/). \-- [PaulBoddie](PaulBoddie)
+- An existing work in Python is [itools.vfs](http://download.ikaaro.org/doc/itools/Chapter--VFS.html). Work on filesystem virtualisation should also take into account the existing urllib/urllib2 modules (and improvements - see [CleanupUrlLibProject](../../archive/CleanupUrlLibProject)) along with other packages which provide file-like and os/os.path-like interfaces, notably [ftputil](http://ftputil.sschwarzer.net/). \-- [PaulBoddie](../../people/PaulBoddie)
 
 - Check out [filelike](http://pypi.python.org/pypi/filelike/0.2.2)

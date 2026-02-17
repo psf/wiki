@@ -30,7 +30,7 @@ Perhaps better sound? Also, I got \*VERY\* annoyed at people constantly coming i
 
 Wireless network \-- was very difficult on Friday, but got better on Saturday and Sunday (thankfully). I still think soup + 600 geeks with laptops is a bad idea. I don\'t like having Guido\'s keynote during lunch; this is really the one unmissable talk of the entire conference, and it simply takes too long to get people out of the rooms and into line, through the line, and back into the ballroom in time for his talk. Further, his keynote usually expands to either fill or slightly surpass the time available, so starting a little late because of the lunch logistics means that the schedule of other presentations later in the day is impacted. (Although the session chairs did a VERY good job of getting everything back on track quickly, many kudos to them.) Make sure the hotel contract doesn\'t allow the hotel to shuffle people to other hotels after they\'ve already had reservations okayed by the main venue. Were the chairs and tables designed to punish my back for sins of a past life? I developed terrible back pains very quickly. They don\'t seem well- suited to laptop use.
 
-Cluster the jython presentations on one day, and similarly the [IronPython](IronPython) ones. Need to get more AV staff - perhaps ask for volunteers early, like session chairs? Would be nice to have optional short bios of people on the [PyCon](PyCon) site coming prior to coming, so that newbies (and others) can identify people that they\'d perhaps like to meet with, rather than depend on hit-and-miss\... clearly not an issue for old hands.
+Cluster the jython presentations on one day, and similarly the [IronPython](../../../../implementations/IronPython) ones. Need to get more AV staff - perhaps ask for volunteers early, like session chairs? Would be nice to have optional short bios of people on the [PyCon](../../PyCon) site coming prior to coming, so that newbies (and others) can identify people that they\'d perhaps like to meet with, rather than depend on hit-and-miss\... clearly not an issue for old hands.
 
 Not sure. You are already doing a great job.
 
@@ -62,11 +62,11 @@ More breaks with fruit or vegetable trays for snacks. Nuts are good, too. Not so
 
 Ned Batchelder\'s suggestion: Allow people to list URLs, projects, talks, or companies that they are associated with. Annotate name tags with that info. Similarly, maybe a who\'s who book with that info.
 
-\*WARMER\* rooms\...[PyCon](PyCon) should not be a huge fridge
+\*WARMER\* rooms\...[PyCon](../../PyCon) should not be a huge fridge
 
 Bigger event rooms. More information on the given talks. Hard to note what you want to see with 5-10 lines. Enforce people to post their slides beforehand. Better evening event organisation, was a shambles trying to find out what was happening and when.
 
-9AM without coffee & muffins was rough. 5 minutes between talks was good; back to back is tough. Longer supper break? No supper break? Provide some dinner? Two lightning talk tracks, separated by subject? I was happy with [PyCon](PyCon) coverage. However I ran into several other system admins who use Python. They may be a fairly small group though.
+9AM without coffee & muffins was rough. 5 minutes between talks was good; back to back is tough. Longer supper break? No supper break? Provide some dinner? Two lightning talk tracks, separated by subject? I was happy with [PyCon](../../PyCon) coverage. However I ran into several other system admins who use Python. They may be a fairly small group though.
 
 Consider organizing the talks into categories (or maybe even tracks in the schedule) such as: 1. Case studies of Python use (e.g. education) 2. Intros to Python applications (e.g. Trac, Django) 3. The Python language and dev/dist tools 4. Fringe/new ideas, projects in their infancy
 
@@ -102,9 +102,9 @@ Well, it does need to be in a bigger venue. The halls were getting pretty crowde
 
 The shorter lightning talks were the bomb. You could just run lightning talks around the clock and it would rock.
 
-Not necessarily in order: - The food was average at best. - 30 minute sessions do not allow the speakers to get into the topics with enough detail. I\'d propose moving to a 45 min and 1 hr format instead of the 30 min and 45 min format. There were several time slots where I was not interested in any of the 3 options, and only a couple where I was interested in multiple talks that were scheduled at the same time. This might indicate that you could have 4 or 5 tracks with the longer time slots and do better. Repeating the most attended sessions a couple of times should address the matter of the most popular talks being crowded. The halls were too narrow for the number of people attending the conference. There was constant crowding during breaks, and while waiting to enter the next session. Require the speakers to post their presentation material to the [PyCon](PyCon) site a few days before the conference. I\'m still waiting to get copies of several of the presentations, especially the Keynotes! A separate area for the vendors, and a few more vendors might make that aspect of the conference better for attendees and the vendors. Being crowded into an already cramped hall had to be difficult for them, and definitely reduced their traffic.
+Not necessarily in order: - The food was average at best. - 30 minute sessions do not allow the speakers to get into the topics with enough detail. I\'d propose moving to a 45 min and 1 hr format instead of the 30 min and 45 min format. There were several time slots where I was not interested in any of the 3 options, and only a couple where I was interested in multiple talks that were scheduled at the same time. This might indicate that you could have 4 or 5 tracks with the longer time slots and do better. Repeating the most attended sessions a couple of times should address the matter of the most popular talks being crowded. The halls were too narrow for the number of people attending the conference. There was constant crowding during breaks, and while waiting to enter the next session. Require the speakers to post their presentation material to the [PyCon](../../PyCon) site a few days before the conference. I\'m still waiting to get copies of several of the presentations, especially the Keynotes! A separate area for the vendors, and a few more vendors might make that aspect of the conference better for attendees and the vendors. Being crowded into an already cramped hall had to be difficult for them, and definitely reduced their traffic.
 
-Keep the lightning talks as a peer to the Keynotes, and at the end as a plenery. Try to keep the tracks in chunks\... for example, this year [IronPython](IronPython) was split up. No more than three tracks. Keep all non- track options to the evening\... maybe preschedule some of the BOFs rather than just Open Spacing everything. Relative to room use, this year was much better than last year. Mesquite seemed more roomy than the ones across the hall from the main room, maybe just ceiling height, and having those smaller rooms across the hall was better. Keep that in mind for future venue room allocation. VERY WELL DONE!!
+Keep the lightning talks as a peer to the Keynotes, and at the end as a plenery. Try to keep the tracks in chunks\... for example, this year [IronPython](../../../../implementations/IronPython) was split up. No more than three tracks. Keep all non- track options to the evening\... maybe preschedule some of the BOFs rather than just Open Spacing everything. Relative to room use, this year was much better than last year. Mesquite seemed more roomy than the ones across the hall from the main room, maybe just ceiling height, and having those smaller rooms across the hall was better. Keep that in mind for future venue room allocation. VERY WELL DONE!!
 
 I would like to see a list of the lightning talks presenters posted on the conference site. These talks are often useful for links, and knowing how to contact the presenter would be useful.
 
@@ -134,7 +134,7 @@ Better hotel.
 
 Personally I\'d prefer more focus on uses for Python other than web apps and database frontends. There were only a few talks having to do with scientific computing with python, which is what I use it for.
 
-I don\'t have much to give here. This was my first [PyCon](PyCon) and I absolutely loved every second of it. Everything worked out perfectly. If the conference was one day longer with talks that would have been very cool! Well, the Internet connection worked very well for me. I never had a dropped signal. The throughput wasn\'t great, but for the number of computers it was handling I didn\'t mind one bit. But improving the amount of bandwidth would be nice, but only if you are able too. ![:)](/wiki/europython/img/smile.png ":)")
+I don\'t have much to give here. This was my first [PyCon](../../PyCon) and I absolutely loved every second of it. Everything worked out perfectly. If the conference was one day longer with talks that would have been very cool! Well, the Internet connection worked very well for me. I never had a dropped signal. The throughput wasn\'t great, but for the number of computers it was handling I didn\'t mind one bit. But improving the amount of bandwidth would be nice, but only if you are able too. ![:)](/wiki/europython/img/smile.png ":)")
 
 Please find a venue w. free wifi in the rooms. Perhaps find a way to record video directly from presenters\' machines, instead of having to videotape dimly lit projection screens?
 
@@ -150,7 +150,7 @@ Plan fewer talks with more time between them.
 
 Provide small reading lights at podiums for talks for the speaker. Manage Job openings better.
 
-The food was not very good this year. The most important thing would be to start each day with coffee. I had to buy coffee before the keynotes because there was none available. People who drink coffee like to drink it first thing in the morning. I\'d like to see a more regular schedule. It was very hard to keep track of what was going on when, because talks started at odd times like 4:40pm. If the schedule had a more regular runtime, e.g. starting talks on the half-hour, then it would be easier to remember when they start and easier to find the talks I wanted to attend. There were some unfortunate scheduling conflicts. The python-dev panel was opposite the [PyPy](PyPy) talk; most of the panelists mentioned that they wanted to do to that talk. A cool technical solution would be to post the schedule early and get people to pick N talks they want to attend (say N=10?). The pick a schedule that minimizes those conflicts. I\'d say the python-dev panel and the [PyPy](PyPy) talk were two of my top five choices.
+The food was not very good this year. The most important thing would be to start each day with coffee. I had to buy coffee before the keynotes because there was none available. People who drink coffee like to drink it first thing in the morning. I\'d like to see a more regular schedule. It was very hard to keep track of what was going on when, because talks started at odd times like 4:40pm. If the schedule had a more regular runtime, e.g. starting talks on the half-hour, then it would be easier to remember when they start and easier to find the talks I wanted to attend. There were some unfortunate scheduling conflicts. The python-dev panel was opposite the [PyPy](../../../../implementations/PyPy) talk; most of the panelists mentioned that they wanted to do to that talk. A cool technical solution would be to post the schedule early and get people to pick N talks they want to attend (say N=10?). The pick a schedule that minimizes those conflicts. I\'d say the python-dev panel and the [PyPy](../../../../implementations/PyPy) talk were two of my top five choices.
 
 - keep a higher temperature in the conference rooms \-- it was warm outside and freezing inside, why?
 - give a longer dinner break (1.5 hours?) because it was difficult to get back to the evening activities on time
@@ -224,13 +224,13 @@ Hold it closer to my home (Toronto). Chicago\'s a good start.
 
 Build the us.pycon.org site with a Zope 3-based CMS.
 
-The [WiFi](./WiFi.html) was good - but not 100%. Some talks I just couldn\'t get online. Some of the \'case study\' talks were pretty dull. Putting the Python-dev talk alongside [PyPy](PyPy) and WSGI was frustrating ! The evenings were disorganised generally.
+The [WiFi](./WiFi.html) was good - but not 100%. Some talks I just couldn\'t get online. Some of the \'case study\' talks were pretty dull. Putting the Python-dev talk alongside [PyPy](../../../../implementations/PyPy) and WSGI was frustrating ! The evenings were disorganised generally.
 
 Make it cheaper. More lightning talks. Encourage REAL pair programming in the sprints. The sprints were silent coding for most of the people.
 
 ## Other comments? 
 
-The conference this year seemed to be the smoothest run [PyCon](PyCon) yet. Kudos to all the organizers who put in all the hard work to make it look so easy.
+The conference this year seemed to be the smoothest run [PyCon](../../PyCon) yet. Kudos to all the organizers who put in all the hard work to make it look so easy.
 
 Very well organized! The DFW users group is amazing.
 
@@ -240,13 +240,13 @@ well done overall.
 
 better overflow contingencies
 
-I loved it! This was my first [PyCon](PyCon). I really enjoyed the diversity of the talks, the awesomeness of the food, and the incredible transfer of knowledge.
+I loved it! This was my first [PyCon](../../PyCon). I really enjoyed the diversity of the talks, the awesomeness of the food, and the incredible transfer of knowledge.
 
-So much swag! Hooray! Overall excellent, I had a great time. \... The keynotes from Ivan Kristic and r0ml \... were honking great ideas (let\'s do more of those!). The photo contest was a great idea, but I think it added an extra level of people being slightly in the way in the often tight quarters in halls and conference rooms. And I was disappointed that the results weren\'t ready in time for the closing remarks. Once again, I am overwhelmed by the awesomeness of the Python community; definitely the nicest, coolest, most warm and welcoming tech community I\'ve ever encountered! I\'m so glad that [PyCon](PyCon) exists to bring us all together.
+So much swag! Hooray! Overall excellent, I had a great time. \... The keynotes from Ivan Kristic and r0ml \... were honking great ideas (let\'s do more of those!). The photo contest was a great idea, but I think it added an extra level of people being slightly in the way in the often tight quarters in halls and conference rooms. And I was disappointed that the results weren\'t ready in time for the closing remarks. Once again, I am overwhelmed by the awesomeness of the Python community; definitely the nicest, coolest, most warm and welcoming tech community I\'ve ever encountered! I\'m so glad that [PyCon](../../PyCon) exists to bring us all together.
 
-Smooth and well-organised overall \... great effort!! Maybe need to request greater variety of clothing preferences to sponsors \... FWIW I felt a few presenters ended their talks by talking about the recruitment needs of their company, some on the basis that the companies had \'sponsored\' them. I\'d like to see talks for the sake of talks \... and not have advertising anywhere in the content. In any case it might be helpful to ensure that whatever policy the [PyCon](PyCon) organisers have in this regard is communicated clearly to prospective speakers (and audiences) \...
+Smooth and well-organised overall \... great effort!! Maybe need to request greater variety of clothing preferences to sponsors \... FWIW I felt a few presenters ended their talks by talking about the recruitment needs of their company, some on the basis that the companies had \'sponsored\' them. I\'d like to see talks for the sake of talks \... and not have advertising anywhere in the content. In any case it might be helpful to ensure that whatever policy the [PyCon](../../PyCon) organisers have in this regard is communicated clearly to prospective speakers (and audiences) \...
 
-It was great overall. I enjoyed the talks, keynotes and all the people I got to meet. The hotel staff were very friendly and helpful and it was a nice place to stay. Hats off to everyone who worked on making [PyCon](PyCon) what it was this year. What a great time and a great value!
+It was great overall. I enjoyed the talks, keynotes and all the people I got to meet. The hotel staff were very friendly and helpful and it was a nice place to stay. Hats off to everyone who worked on making [PyCon](../../PyCon) what it was this year. What a great time and a great value!
 
 some more comments
 
@@ -254,11 +254,11 @@ Thank you guys so much. I enjoyed it very much.
 
 If you don\'t intend to make the results of this survey public, at least communicate the results about \'preferred talks\' to the speakers.
 
-I found the keynotes, particularly the ones from Ivan and R0ml, to be very inspiring. I very much look forward to [PyCon](PyCon) in Chicago next year.
+I found the keynotes, particularly the ones from Ivan and R0ml, to be very inspiring. I very much look forward to [PyCon](../../PyCon) in Chicago next year.
 
 I didn\'t care for the restrictions on bringing in food. In other words, have better options than the hotel restaurant for eating dinner at the conference location.
 
-Best [PyCon](PyCon) ever.
+Best [PyCon](../../PyCon) ever.
 
 This conference rivaled the later DC [PyCons](./PyCons.html) as far as attendance, excellence, and business/personal networking are concerned: most excellent.
 
@@ -276,7 +276,7 @@ Great conference!
 
 It\'s hard to understand how such a great conference can be done for such a cheap registration price compared to other conferences.
 
-Overall, a good conference. Was my first [PyCon](PyCon) but I\'ve been to LOTs of other developer conferences over the past 10+ years. Didn\'t mind the rough edges and the price was right! Might be too many sessions. The good ones seemed to end too soon, but the sucky ones last too long. Coordination of the BoF was messy, was hard to find where people were gathering. I missed both Twisted BoF cause the room and/or time on the board was wrong - that sucked. Better coordination on the BoF scheduling would be great. Would be great if the community in general had a voice as to what sessions make it each year. Again, goes back to the point where a number of the sessions were very light on material and substance. Keynotes were very good - great job setting those up! Besides Guido\'s keynote on Saturday, give us more at lunch time - either more keynotes or more Lightning Talks!
+Overall, a good conference. Was my first [PyCon](../../PyCon) but I\'ve been to LOTs of other developer conferences over the past 10+ years. Didn\'t mind the rough edges and the price was right! Might be too many sessions. The good ones seemed to end too soon, but the sucky ones last too long. Coordination of the BoF was messy, was hard to find where people were gathering. I missed both Twisted BoF cause the room and/or time on the board was wrong - that sucked. Better coordination on the BoF scheduling would be great. Would be great if the community in general had a voice as to what sessions make it each year. Again, goes back to the point where a number of the sessions were very light on material and substance. Keynotes were very good - great job setting those up! Besides Guido\'s keynote on Saturday, give us more at lunch time - either more keynotes or more Lightning Talks!
 
 I do not care whether it\'s on the weekend or weekday, an option that was missing on that question.
 
@@ -316,7 +316,7 @@ Loved it
 
 I loved it. Will be attending again next year.
 
-Great job! This [PyCon](PyCon) was full of interesting technical content.
+Great job! This [PyCon](../../PyCon) was full of interesting technical content.
 
 Great conference. Looking forward to Chicago already.
 
@@ -324,7 +324,7 @@ Everything about the conference was great except for the presentations, which va
 
 Very nice job by the organizing group - I attended both 2006 and 2007 - really nice hotel - lessons from 2006 were applied to 2007 - a good deal all around. I didn\'t know the theme of the conference was education - for the most part, I was pleasantly surprised (one keynote was a \... downer, but I believe it was designed to be that way). A couple of the education talks with demos (work done by students) were really cool.
 
-There was too much to do! I had to take two sick days after I returned from [PyCon](PyCon)
+There was too much to do! I had to take two sick days after I returned from [PyCon](../../PyCon)
 
 Great Job!
 
@@ -336,13 +336,13 @@ Organizers were magnificent, you all deserve medals.
 
 Pycon was great this year, better than the last. I would like to see more examples in the talks next year. It might be nice if you created a \'How to give a talk\' document for would be presenters. It should include basic presentation stuff, encouragements to use examples and readable fonts. The water and candies on the tables were cool, as well as the post up boards for talks/bofs and jobs. I also liked the placement of the lightning talks. More lightening talks!!! Thanks for all the hard work!
 
-The vast majority of the talks were so short (30 minutes) as to be useless. I very much enjoyed the tutorials. Without getting to tutorial length of sessions, I\'d much rather see more in-depth coverage. Though the overall value for [PyCon](PyCon) is widely agreed to be fantastic, I\'m a little turned off of coming again, because I can get a list of the sessions, spend 5 minutes googling each, and get pretty much the same amount of content. Code samples matter. Running code matters. Think [CodeCon](./CodeCon.html).
+The vast majority of the talks were so short (30 minutes) as to be useless. I very much enjoyed the tutorials. Without getting to tutorial length of sessions, I\'d much rather see more in-depth coverage. Though the overall value for [PyCon](../../PyCon) is widely agreed to be fantastic, I\'m a little turned off of coming again, because I can get a list of the sessions, spend 5 minutes googling each, and get pretty much the same amount of content. Code samples matter. Running code matters. Think [CodeCon](./CodeCon.html).
 
 I \*loved\* it!
 
-It would have been nice is someone would have oiled the F\'ing squeeking hinge on A-E. Seems like the lot with the sound controls that were 5 feet away would have done something about this. Seems like there could be some good overlap between this and the European [PyCon](PyCon). Formats completely different - could be some sharing/leveraging. More insights to the sprints would help - this was a new experience for me.
+It would have been nice is someone would have oiled the F\'ing squeeking hinge on A-E. Seems like the lot with the sound controls that were 5 feet away would have done something about this. Seems like there could be some good overlap between this and the European [PyCon](../../PyCon). Formats completely different - could be some sharing/leveraging. More insights to the sprints would help - this was a new experience for me.
 
-This was the best [PyCon](PyCon) ever in terms of the quality of talks, the relevance of the tutorials, and the smoothness of the schedule, so keep up the high standards.
+This was the best [PyCon](../../PyCon) ever in terms of the quality of talks, the relevance of the tutorials, and the smoothness of the schedule, so keep up the high standards.
 
 Yes. Thank you very much. It was a a pleasant/useful experience. Organisation was good and everyone was friendly.
 
@@ -354,7 +354,7 @@ Great conference. Meeting people was the best part of it.
 
 \- Wireless network was great, except for first day. - Registration fubar on first day should not have occurred. - I arrived the previous day. I would have volunteered to help on the setup evening if I had been aware help was needed. If you need volunteers, post signs prominently at the venue, on the website, or (as a last resort) spam the mail list.
 
-The main appeal of [PyCon](PyCon) is people; it will pay to remember that.
+The main appeal of [PyCon](../../PyCon) is people; it will pay to remember that.
 
 Amazing conference. Great folks, and smart! Thanks, all.
 
@@ -366,7 +366,7 @@ Most everything this year was better than last year.
 
 Awesome conference; best I\'ve ever been to!
 
-Keynote satisfaction overall: high to very high. Satisfaction w/ 2nd keynote: low; not relevant to [PyCon](PyCon). Other than that one keynote, I loved the conference. Nice job!
+Keynote satisfaction overall: high to very high. Satisfaction w/ 2nd keynote: low; not relevant to [PyCon](../../PyCon). Other than that one keynote, I loved the conference. Nice job!
 
 Speaker/presenter quality quite even, but good extra material from a poor presenter helps later understanding. Unfortunately this wasn\'t often seen.
 

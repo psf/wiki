@@ -10,13 +10,13 @@ Note that this page is about the 2004 Chandler sprint. See also [ChandlerSprint2
 
 ## Preliminaries 
 
-For introductory information and information about the other sprints going on at [PyConDC2004](PyConDC2004), please see [SprintPlan2004](./SprintPlan2004.html).
+For introductory information and information about the other sprints going on at [PyConDC2004](../conferences/pycon/PyConDC2004), please see [SprintPlan2004](./SprintPlan2004.html).
 
 More details will appear here over time.
 
 ### Duration 
 
-The sprints at [PyConDC2004](PyConDC2004) are to be held from March 20 (Saturday) through March 23 (Tuesday), for a total of 4 days. We\'re going to be there for all 4 sprint days, so we invite sprinters to join in.
+The sprints at [PyConDC2004](../conferences/pycon/PyConDC2004) are to be held from March 20 (Saturday) through March 23 (Tuesday), for a total of 4 days. We\'re going to be there for all 4 sprint days, so we invite sprinters to join in.
 
 Please voice your opinions here or [email Ted](mailto:twl@osafoundation.org).
 

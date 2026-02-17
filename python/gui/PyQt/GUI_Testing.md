@@ -24,7 +24,7 @@ The [Unit Testing](Unit_Testing) page deals with more general unit testing issue
 
 The following possibilities seem to be outdated (i.e., using old Python/PyQt versions, having broken weblinks or unmaintained libraries where the last release is more than five years ago). They are kept here for historical purpose and in the hope that one day some of these projects will be revived.
 
-- [How to write unit tests for PyQt GUI widgets](http://www.voom.net/pyqt-qtest-example/) using only the open source modules included in [PyQt](PyQt) and Python
+- [How to write unit tests for PyQt GUI widgets](http://www.voom.net/pyqt-qtest-example/) using only the open source modules included in [PyQt]() and Python
 
 - [PyQt testing with nose](http://lists.idyll.org/pipermail/testing-in-python/2009-June/002024.html) - a thread from the python-testing mailing list which describes various options
 

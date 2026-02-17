@@ -22,7 +22,7 @@ The kits are made available in these regions (see below for more details):
 - East Asia
 - Africa (available soon)
 
-Creating the kits was a joined effort by Armin Stross-Radschinski and Marc-Andre Lemburg in 2012. Please contact [MarcAndreLemburg](MarcAndreLemburg) for questions regarding the kits.
+Creating the kits was a joined effort by Armin Stross-Radschinski and Marc-Andre Lemburg in 2012. Please contact [MarcAndreLemburg](../people/MarcAndreLemburg) for questions regarding the kits.
 
 ### Conference Kit for Europe 
 
@@ -40,7 +40,7 @@ Past events:
 
 #### 2012-2017 
 
-Contact for the kit: [MarcAndreLemburg](MarcAndreLemburg) \< [mal@egenix.com](mailto:mal@egenix.com) \>
+Contact for the kit: [MarcAndreLemburg](../people/MarcAndreLemburg) \< [mal@egenix.com](mailto:mal@egenix.com) \>
 
 Events log:
 
@@ -241,7 +241,7 @@ Each kit contains:
 
 - A **foldable display** as background and eye-catcher. Measurements: width: 225cm, height: 226cm, depth: 30cm. The display also includes two lamps which can be used when setting up the display inside a hall or building.
 
-- Two cocktail/bistro **table slip covers** for round tables. Measurements of the tables: diameter: 60-80cm, height: 100-110cm. The slip covers use stretch cloth, so they can be made to fit many different table size. Please handle gently, so that they don\'t tear. If you don\'t have suitable cocktail tables available, you can rent them from a local party service or the hotel. Please arrange with [MarcAndreLemburg](MarcAndreLemburg) to get the rental costs refunded.
+- Two cocktail/bistro **table slip covers** for round tables. Measurements of the tables: diameter: 60-80cm, height: 100-110cm. The slip covers use stretch cloth, so they can be made to fit many different table size. Please handle gently, so that they don\'t tear. If you don\'t have suitable cocktail tables available, you can rent them from a local party service or the hotel. Please arrange with [MarcAndreLemburg](../people/MarcAndreLemburg) to get the rental costs refunded.
 
 - Setup instructions These are included on paper. If missing, please print out the PDF from the next section and readd.
 
@@ -261,7 +261,7 @@ Care has to be taken when doing this, since we would like to reuse the kit for a
 
 When preparing the kit for travel or shipping, please make sure that the original packaging equipment is used. This makes it less likely that something get damaged.
 
-If something does get damaged, please inform [MarcAndreLemburg](MarcAndreLemburg). It may be possible to send replacement material.
+If something does get damaged, please inform [MarcAndreLemburg](../people/MarcAndreLemburg). It may be possible to send replacement material.
 
 ## Carry-on Kits 
 
@@ -273,7 +273,7 @@ To test drive the setup, we\'ve created one such kit for [PyCon](./PyCon.html) Z
 
 ![width=200](attachments/PSF(20)Conference(20)Kit/pic3.jpg "width=200")
 
-The kits were created by Marc-Andre Lemburg based on the design of the larger display. Please contact [MarcAndreLemburg](MarcAndreLemburg) for questions regarding the kits. They cost around EUR 65-70 each.
+The kits were created by Marc-Andre Lemburg based on the design of the larger display. Please contact [MarcAndreLemburg](../people/MarcAndreLemburg) for questions regarding the kits. They cost around EUR 65-70 each.
 
 ### Available Carry-on Kits 
 

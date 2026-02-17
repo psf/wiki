@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-PyConSteveHolden is the name of the [PyCon](PyCon) page for [SteveHolden](SteveHolden). Not very clever, really, but useful enough to devote Wiki space to. Who reads these things, anyway, right?
+PyConSteveHolden is the name of the [PyCon](PyCon) page for [SteveHolden](../../people/SteveHolden). Not very clever, really, but useful enough to devote Wiki space to. Who reads these things, anyway, right?
 
 ## Network Infrastructure 
 
@@ -18,4 +18,4 @@ If this is drastically below what you \[*yes, this means you, hello?\...*\] **pe
 
 I plan to entitle my Introductory remarks *Because It Works*.
 
-*[SteveHolden](SteveHolden)*
+*[SteveHolden](../../people/SteveHolden)*

@@ -19,7 +19,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   - Implement per-test-case \"Problem Tracking\"
   - write more status display plugins, both web and IM
 
-- Several [DocumentationTools](DocumentationTools) exist for Python. Choose one and improve it. Choose two and combine their features. Choose four or more and take over the world. The Python documentation world, at least.
+- Several [DocumentationTools](../../documentation/DocumentationTools) exist for Python. Choose one and improve it. Choose two and combine their features. Choose four or more and take over the world. The Python documentation world, at least.
 
 - There are a lot of potential [Docutils](http://docutils.sourceforge.net/) and [reStructuredText](http://docutils.sourceforge.net/rst.html) projects in the [To Do List](http://docutils.sourceforge.net/docs/dev/todo.html). Some examples (listed in the \"Minimum Requirements\...\" section): Nested inline markup; Python Source Reader; Suitability for Python module documentation.
 

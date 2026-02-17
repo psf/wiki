@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This example was written in preparation for the [Plugging into the Web](http://doc.qt.digia.com/qq/qq26-webplugin.html) article for Qt Quarterly 26 and posted here in response to [a message on the Python-list mailing list](http://www.riverbankcomputing.com/pipermail/pyqt/2009-June/023306.html).
 
-We begin by importing the [PyQt4](PyQt4) modules and defining a simple HTML page:
+We begin by importing the [PyQt4](../PyQt4) modules and defining a simple HTML page:
 
     import sys
     from PyQt4.QtCore import QSize, Qt

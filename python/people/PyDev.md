@@ -14,7 +14,7 @@ Below there are some of the features available (version 1.5.0)
 
 # Pydev 
 
-- **Python**, **Jython** and **[IronPython](IronPython)** support
+- **Python**, **Jython** and **[IronPython](../implementations/IronPython)** support
 
 - **Code completion**
 

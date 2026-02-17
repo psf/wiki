@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Have a dedicated tutorial track on at least one day. (Perhaps paralleling the open space?)
 
-- Have a newcomer\'s track on the first day: intro to Python, [PyCon](PyCon), open space.
+- Have a newcomer\'s track on the first day: intro to Python, [PyCon](../PyCon), open space.
 
 - One person suggested a track at reduced cost aimed at teenagers: [PyCon2006/TeenagerTrack](TeenagerTrack). That\'s an interesting idea; we could have it on the Friday when attendance is at its lowest, and rustle up speakers on game programming, tutorial topics, and other stuff.
 
@@ -22,7 +22,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Keynote speakers should be relevant to Python.
 
-- From [EuroPython](EuroPython): Have multiple tracks, and track chairs responsible for each one.
+- From [EuroPython](../../europython/EuroPython): Have multiple tracks, and track chairs responsible for each one.
 
 - Pay airfare and/or hotel for some invited speakers
 

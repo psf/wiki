@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Automatically Connecting Slots by Name 
 
-The code in attachment to replace connectSlotsByName() has been working great for me. I\'m replacing more and more QObject.connect() -like code with it (I could not use the connectSlotsByName() from Qt because it binds callbacks twice (and yes, even if I did decorate my callbacks) and most importantly because my callbacks are not on the same object. \--[MartinBlais](MartinBlais)
+The code in attachment to replace connectSlotsByName() has been working great for me. I\'m replacing more and more QObject.connect() -like code with it (I could not use the connectSlotsByName() from Qt because it binds callbacks twice (and yes, even if I did decorate my callbacks) and most importantly because my callbacks are not on the same object. \--[MartinBlais](../../people/MartinBlais)
 
 :::: 
 ::: 

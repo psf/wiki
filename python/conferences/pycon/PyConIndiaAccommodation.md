@@ -16,6 +16,6 @@ Bangalore locals that have free space to share.
 
 - Check out [ExtraBed.in](http://extrabed.pbworks.com/Karnataka#Bangalore) for people in Bangalore who you can stay with.
 
-- Contact me [AbhijitHoskeri](AbhijitHoskeri) over private email. I can host upto one person at my home.
+- Contact me [AbhijitHoskeri](../../people/AbhijitHoskeri) over private email. I can host upto one person at my home.
 
 - Contact Alok at Hidden Reflex (alok at hiddenreflex dot com). They have some space available at their office although it\'s a little far away from the actual venue.

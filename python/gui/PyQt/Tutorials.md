@@ -24,7 +24,7 @@ PyQt5:
 
 - [PyQt5 Tutorial - Python GUI with Qt](https://coderslegacy.com/python/pyqt5-tutorial/) - A complete tutorial covering all widgets and more.
 
-- [15 Minute Apps](https://github.com/mfitzp/15-minute-apps) - \"A collection of 15 small --- minute --- desktop applications written in Python using the [PyQt](PyQt) framework.\"
+- [15 Minute Apps](https://github.com/mfitzp/15-minute-apps) - \"A collection of 15 small --- minute --- desktop applications written in Python using the [PyQt]() framework.\"
 
 - [ZetCode\'s PyQT5 tutorial](http://zetcode.com/gui/pyqt5/)
 
@@ -34,11 +34,11 @@ PyQt4:
 
 - [PyQt4 examples](https://pythonspot.com/pyqt4/)
 
-- [PyQT4 Tutorial](http://www.rkblog.rk.edu.pl/w/p/introduction-pyqt4/) - A step by step [PyQt4](PyQt4) tutorial
+- [PyQT4 Tutorial](http://www.rkblog.rk.edu.pl/w/p/introduction-pyqt4/) - A step by step [PyQt4](../PyQt4) tutorial
 
 - [ZetCode\'s PyQT4 tutorial](http://zetcode.com/tutorials/pyqt4/) - Another step by step PyQt4 tutorial
 
-- [Introducing PyQt4 for GUI Application Development](../../conferences/europython/PyQt/EuroPython2006Talk) - a talk presented at [EuroPython](EuroPython) 2006
+- [Introducing PyQt4 for GUI Application Development](../../conferences/europython/PyQt/EuroPython2006Talk) - a talk presented at [EuroPython](../../conferences/europython/EuroPython) 2006
 
 - [Creating GUI Applications with PyQt and Qt Designer](Creating_GUI_Applications_with_PyQt_and_Qt_Designer) - a talk presented at PyCon UK 2007
 
@@ -46,7 +46,7 @@ PyQt4:
 
 - [An Introduction to PyQt: creating GUIs with Python's QT bindings](http://www.learningpython.com/2008/09/20/an-introduction-to-pyqt/) - first published the December 2007 issue of Python Magazine
 
-- [write a web browser by python](http://i-miss-erin.blogspot.com/2009/03/write-web-browser-by-python.html) - Creating a [WebKit](WebKit)-based browser with [PyQt](PyQt)
+- [write a web browser by python](http://i-miss-erin.blogspot.com/2009/03/write-web-browser-by-python.html) - Creating a [WebKit](../../people/WebKit)-based browser with [PyQt]()
 
 - [\"Simple\" Editor - newbie for newbies PyQt4](simple)
 
@@ -66,9 +66,9 @@ Articles that seem to be no longer online:
 
 - [Minesweeper In Python GUI](http://lionel.textmalaysia.com/minesweeper-in-python-gui.html)
 
-- [PyQT-tutorial](http://lionel.textmalaysia.com/a-simple-tutorial-on-gui-programming-using-qt-designer-with-pyqt4.html) - Similar to below\'s \"uses Qt Designer, very good for beginners.\", but this one\'s for [PyQt4](PyQt4)
+- [PyQT-tutorial](http://lionel.textmalaysia.com/a-simple-tutorial-on-gui-programming-using-qt-designer-with-pyqt4.html) - Similar to below\'s \"uses Qt Designer, very good for beginners.\", but this one\'s for [PyQt4](../PyQt4)
 
-- [PyQt basics](http://sites.google.com/site/nelsonspbr/articles/pyqt-basics.pdf?attredirects=0) - Nelson Mimura Gonzalez - Aug 3, 2012 (articles page [here](http://sites.google.com/site/nelsonspbr/articles)) This document aims at rapidly introducing [PyQt](PyQt) from installation to basic usage.
+- [PyQt basics](http://sites.google.com/site/nelsonspbr/articles/pyqt-basics.pdf?attredirects=0) - Nelson Mimura Gonzalez - Aug 3, 2012 (articles page [here](http://sites.google.com/site/nelsonspbr/articles)) This document aims at rapidly introducing [PyQt]() from installation to basic usage.
 
 Authors, please fix the links and move them back into the section above.
 
@@ -82,7 +82,7 @@ Authors, please fix the links and move them back into the section above.
 
 ## Testing and Test Frameworks 
 
-- [Test PyQt GUIs with QTest and unittest](http://www.voom.net/pyqt-qtest-example/) - A complete example of how to write unit tests for [PyQt](PyQt) using only the open source modules included in [PyQt](PyQt) and Python
+- [Test PyQt GUIs with QTest and unittest](http://www.voom.net/pyqt-qtest-example/) - A complete example of how to write unit tests for [PyQt]() using only the open source modules included in [PyQt]() and Python
 
 - Also see the [GUI Testing](GUI_Testing) and [Unit Testing](Unit_Testing) pages for more on the topic of testing
 

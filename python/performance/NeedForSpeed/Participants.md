@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The following people are currently expected at the [NeedForSpeed](NeedForSpeed) sprint. Each delegate has been asked to provide a small amount of biographical data and information about their approach to the sprint, which has been added where available
+The following people are currently expected at the [NeedForSpeed]() sprint. Each delegate has been asked to provide a small amount of biographical data and information about their approach to the sprint, which has been added where available
 
 John Benediktsson
 
@@ -32,15 +32,15 @@ Jack Diederich
 
 Richard Emslie
 
-- Richard Emslie is a developer at EWT. He has contributed to the [PyPy](PyPy) project, mainly in the LLVM backend.
+- Richard Emslie is a developer at EWT. He has contributed to the [PyPy](../../implementations/PyPy) project, mainly in the LLVM backend.
 
 Steve Holden
 
-- Steve Holden from Linlithgow in Scotland is the author of \"Python Web Programming\" and a director of the Python Software Foundation, chaired the first three [PyCon](PyCon) conferences and now manages a transatlantic training and consulting practice. He hopes to be able to use his knowledge of Python, conference organisation, the software industry and open source to make this sprint both productive and enjoyable for all concerned, possibly even in that order.
+- Steve Holden from Linlithgow in Scotland is the author of \"Python Web Programming\" and a director of the Python Software Foundation, chaired the first three [PyCon](../../conferences/pycon/PyCon) conferences and now manages a transatlantic training and consulting practice. He hopes to be able to use his knowledge of Python, conference organisation, the software industry and open source to make this sprint both productive and enjoyable for all concerned, possibly even in that order.
 
 Bob Ippolito
 
-- Bob Ippolito from San Francisco, CA is an avid Python developer and open source contributor, particularly in the Mac OS X arena. He hopes to leverage his low-level programming experience and persistence to improve the usability and performance of the [PyPy](PyPy) LLVM back end during this sprint. He\'s also interested in enjoying some Icelandic beer and discussing crazy ideas with the other sprint attendees.
+- Bob Ippolito from San Francisco, CA is an avid Python developer and open source contributor, particularly in the Mac OS X arena. He hopes to leverage his low-level programming experience and persistence to improve the usability and performance of the [PyPy](../../implementations/PyPy) LLVM back end during this sprint. He\'s also interested in enjoying some Icelandic beer and discussing crazy ideas with the other sprint attendees.
 
 Kristján Valur Jónsson
 
@@ -68,8 +68,8 @@ Sean Reifschneider
 
 Richard M Tew
 
-- Richard is a New Zealander who moved to Iceland to live so that he could work for CCP on EVE Online. His job involves writing game logic for EVE in Python, and CCP also allows him to do the odd bit for Stackless Python to help out Christian. He doesn\'t know much about this [PyPy](PyPy) thing, but he knows he will be getting a week away from space pirates, space ships, spacious offices and will hopefully be doing something that makes his job easier and/or funner.
+- Richard is a New Zealander who moved to Iceland to live so that he could work for CCP on EVE Online. His job involves writing game logic for EVE in Python, and CCP also allows him to do the odd bit for Stackless Python to help out Christian. He doesn\'t know much about this [PyPy](../../implementations/PyPy) thing, but he knows he will be getting a week away from space pirates, space ships, spacious offices and will hopefully be doing something that makes his job easier and/or funner.
 
 Christian Tismer
 
-- Major contributor to the [PyPy](PyPy) project and creator of [StacklessPython](StacklessPython).
+- Major contributor to the [PyPy](../../implementations/PyPy) project and creator of [StacklessPython](../../people/StacklessPython).

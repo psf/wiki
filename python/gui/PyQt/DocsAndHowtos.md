@@ -36,7 +36,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Deploying PyQt Applications](Deploying_PyQt_Applications)
 
-- [Modular PyQt deployment with PyInstaller](Modular_PyQt_deployment_with_PyInstaller) - how to distribute only the subset of [PyQt](PyQt) really needed by an application
+- [Modular PyQt deployment with PyInstaller](Modular_PyQt_deployment_with_PyInstaller) - how to distribute only the subset of [PyQt]() really needed by an application
 
 # Links for PyQt (for Qt 3) 
 

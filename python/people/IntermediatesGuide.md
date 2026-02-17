@@ -94,7 +94,7 @@ So what should you use? First, be aware that many packages on PyPI will `importÂ
 
 There is a surprising range of toolkits for building desktop GUIs with Python. One of them, [tkinter](http://docs.python.org/3/library/tkinter.html), is a core package consisting of Python bindings for TCL/TK\'s tk plus additional widgets (in [tkinter.ttk](http://docs.python.org/3/library/tkinter.ttk.html) and [tkinter.tix](http://docs.python.org/3/library/tkinter.tix.html)). tkinter is platform-independent and easy to program for simple GUIs.
 
-For larger applications, you might prefer [a more extensive GUI toolkit](GuiProgramming).
+For larger applications, you might prefer [a more extensive GUI toolkit](../gui/GuiProgramming).
 
 ## Web development 
 

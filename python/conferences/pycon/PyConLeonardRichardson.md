@@ -16,7 +16,7 @@ Oftentimes, a very small or very new web application will keep all of its config
         #The maximum size of an uploaded image, in kilobytes
         MAXIMUM_IMAGE_SIZE = 100
 
-A larger, more flexible, or more mature application may keep its configuration settings in a text file loaded by the application at runtime. When configuring such an application a user is changing data, rather than code, and acting as an administrator rather than a developer. Python\'s [ConfigParser](ConfigParser) module provides built-in support for this level of flexibility, for example:
+A larger, more flexible, or more mature application may keep its configuration settings in a text file loaded by the application at runtime. When configuring such an application a user is changing data, rather than code, and acting as an administrator rather than a developer. Python\'s [ConfigParser](../../language/ConfigParser) module provides built-in support for this level of flexibility, for example:
 
         [Images]
         enable-image-upload=1 #Whether or not to enable image uploads
@@ -85,7 +85,7 @@ I actually gave a talk at work today about our configuration framework (a differ
 
 To get all the code moved out I had to define a plugin class (it\'s currently called \'wrapper\', but that doesn\'t make much sense) which contains application-specific code and is passed into the [OptionGroup](./OptionGroup.html) and Option constructors. It basically simulates a superclass of all the Option classes, so that you can change the generic Option behavior without having to change all the Option classes to subclass a different class. There might be a design pattern that describes this which would make renaming it easy. Or it might just be an OO hack, in which case I\'ll probably call it \"Implementation\" or \"[ImplementationDetails](./ImplementationDetails.html)\".
 
-02/19: Yesterday I worked on cleaning up Options.py: moving out [NewsBruiserisms](./NewsBruiserisms.html), adding comments and [PyDoc](PyDoc). I tell myself that this is useful work for the talk and not just a heavily disguised method of procrastination. Today: more of the same. Also set up this wiki page.
+02/19: Yesterday I worked on cleaning up Options.py: moving out [NewsBruiserisms](./NewsBruiserisms.html), adding comments and [PyDoc](../../people/PyDoc). I tell myself that this is useful work for the talk and not just a heavily disguised method of procrastination. Today: more of the same. Also set up this wiki page.
 
 ------------------------------------------------------------------------
 

@@ -12,27 +12,27 @@ Advocacy Accomplishments (most recent at top)
 
 - **2007/09/11** Teamed with Paul Kippes, a Dallas Pythoneer, who arranged to give a talk to the Dallas PHP Usersgroup describing Python, from the PHP point of view. 22 people attended, discussion was vigorous and several members thanked us for presenting. [The slides used are online](https://www.dfwpython.org/repo/Presentations/2007-09-11-Python-vs-PHP/slides.rst).
 
-- **2007/09/08** Recorded and handed off to [ShowMeDo](ShowMeDo) a screencast \*Searching the Python World\* to be part of the \"Keeping in Touch with the Python Community\" series.
+- **2007/09/08** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) a screencast \*Searching the Python World\* to be part of the \"Keeping in Touch with the Python Community\" series.
 
-- **2007/09/06** Recorded and handed off to [ShowMeDo](ShowMeDo) a screencast \*Watching the RSS Feeds\* to be part of the \"Keeping in Touch with the Python Community\" series.
+- **2007/09/06** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) a screencast \*Watching the RSS Feeds\* to be part of the \"Keeping in Touch with the Python Community\" series.
 
-- **2007/09/06** Recorded and handed off to [ShowMeDo](ShowMeDo) a screencast \*Python Walkthru of a Twisted Webserver\* to be part of the \"Python Source Walkthrough Series\" series.
+- **2007/09/06** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) a screencast \*Python Walkthru of a Twisted Webserver\* to be part of the \"Python Source Walkthrough Series\" series.
 
-- **2007/09/06** Over time, added to the www.python.org site in topic-appropriate places sidebars with my commentary that link to strong screencasts/videos on [ShowMeDo](ShowMeDo) and elsewhere on the Internet.
+- **2007/09/06** Over time, added to the www.python.org site in topic-appropriate places sidebars with my commentary that link to strong screencasts/videos on [ShowMeDo](../multimedia/ShowMeDo) and elsewhere on the Internet.
 
 - **2007/09/03** Did [a bit of promo](https://python-advocacy.blogspot.com/2007/09/texas-python-unconference-sep-1516.html) for the [Texas Python Unconference](https://pycamp.python.org/Texas/)
 
-- **2007/09/03** In coordination with [ShowMeDo](ShowMeDo), [announced the 1st winner of the most popular screencast of the month](https://python-advocacy.blogspot.com/2007/09/showmedocom-announces-winner-of-most.html).
+- **2007/09/03** In coordination with [ShowMeDo](../multimedia/ShowMeDo), [announced the 1st winner of the most popular screencast of the month](https://python-advocacy.blogspot.com/2007/09/showmedocom-announces-winner-of-most.html).
 
-- **2007/08/23** Recorded and handed off to [ShowMeDo](ShowMeDo) a screencast [\"Python Walkthru of a Simple Text Line Matcher (grep)\"](http://www.showmedo.com/videos/video?name=1080000&fromSeriesID=108) to be part of the \"Python Source Walkthrough Series\" series.
+- **2007/08/23** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) a screencast [\"Python Walkthru of a Simple Text Line Matcher (grep)\"](http://www.showmedo.com/videos/video?name=1080000&fromSeriesID=108) to be part of the \"Python Source Walkthrough Series\" series.
 
-- **2007/08/22** Recorded and handed off to [ShowMeDo](ShowMeDo) a screencast [\"Python and the Image Manipulation Library\"](http://www.showmedo.com/videos/video?name=980030;fromSeriesID=98) to be part of the \"5-Minutes with Python\" series.
+- **2007/08/22** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) a screencast [\"Python and the Image Manipulation Library\"](http://www.showmedo.com/videos/video?name=980030;fromSeriesID=98) to be part of the \"5-Minutes with Python\" series.
 
 - **2007/08/20** Worked with Forrester Research to get the open source community free citation of portions of the survey of dynamic languages.
 
 - **2007/08/19** Did [a bit of promo](https://python-advocacy.blogspot.com/2007/08/2nd-annual-workshop-python-for-german.html) and www.python.org site changes for \"Python the German-Speaking Countries\" 2-day workshop
 
-- **2007/08/13** Continued to work closely with the [ShowMeDo](ShowMeDo) folks to promote and prepare screencasts. Several more are in the works and plan to be released by the end of this week.
+- **2007/08/13** Continued to work closely with the [ShowMeDo](../multimedia/ShowMeDo) folks to promote and prepare screencasts. Several more are in the works and plan to be released by the end of this week.
 
 - **2007/08/06** Fielded a couple of Python job postings to usergroup members locally.
 
@@ -50,19 +50,19 @@ Advocacy Accomplishments (most recent at top)
 
 - **2007/07/09** Linked new screencasts into www.python.org and added entries in the left menu to point to the [new audio/visual section](https://www.python.org/doc/av/).
 
-- **2007/07/07** Recorded and handed off to [ShowMeDo](ShowMeDo) a screencast [\"A Demonstration of ReStructuredText\"](http://showmedo.com/videos/video?name=980010&fromSeriesID=98) to be part of the \"5-Minutes with Python\" series.
+- **2007/07/07** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) a screencast [\"A Demonstration of ReStructuredText\"](http://showmedo.com/videos/video?name=980010&fromSeriesID=98) to be part of the \"5-Minutes with Python\" series.
 
-- **2007/07/05** Recorded and handed off to [ShowMeDo](ShowMeDo) a 60-min screencast [\"A Demonstration of the \'IPython\' Interactive Shell\"](https://www.timecastle.net/casts/demonstrations/) (60-min) ([reST script](https://www.timecastle.net/casts/demonstrations/60min-ipython-demo.txt)) This screencast is going to be broken down into shorter ones by Ian at [ShowMeDo](ShowMeDo) and so is not yet available on their site. UPDATE - processing complete and video available as of 2007/07/15.
+- **2007/07/05** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) a 60-min screencast [\"A Demonstration of the \'IPython\' Interactive Shell\"](https://www.timecastle.net/casts/demonstrations/) (60-min) ([reST script](https://www.timecastle.net/casts/demonstrations/60min-ipython-demo.txt)) This screencast is going to be broken down into shorter ones by Ian at [ShowMeDo](../multimedia/ShowMeDo) and so is not yet available on their site. UPDATE - processing complete and video available as of 2007/07/15.
 
 - **2007/07/02** Reviewed and submitted corrections for fact-check copy of Forrester Research survey regarding survey of dynamic languages.
 
-- **2007/07/02** Recorded and handed off to [ShowMeDo](ShowMeDo) the screencast [\"Python and the Interactive Shell \'IPython\'\"](http://showmedo.com/videos/video?name=980000&fromSeriesID=98) to be part of the \"5-Minutes with Python\" series.
+- **2007/07/02** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) the screencast [\"Python and the Interactive Shell \'IPython\'\"](http://showmedo.com/videos/video?name=980000&fromSeriesID=98) to be part of the \"5-Minutes with Python\" series.
 
 - **2007/06/29** Reviewed screencast by Ian Ozsvald [\"First 5 Minutes with Python\"](http://showmedo.com/videos/video?name=990000&fromSeriesID=98) (5-min) to be part of the \"5-Minutes with Python\" series we\'re creating.
 
 - **2007/06/28** After being contacted by a member asking about Python [BoFs](./BoFs.html) at OSCON 2007, successfully rallied people to make it happen, and to volunteer their participation in podcast efforts there.
 
-- **2007/06/25** Recorded and handed off to [ShowMeDo](ShowMeDo) a pair of screencasts on how to get into making screencasts, to encourage others.
+- **2007/06/25** Recorded and handed off to [ShowMeDo](../multimedia/ShowMeDo) a pair of screencasts on how to get into making screencasts, to encourage others.
 
   - [Preparing for Screencasting](http://showmedo.com/videos/video?name=970000&fromSeriesID=97) (19-min) ([reST script](https://www.timecastle.net/casts/screencast-series/preparing-for-screencasting.txt))
 
@@ -106,13 +106,13 @@ Advocacy Accomplishments (most recent at top)
 
 - **2007/05/09** Received working copies of select chapters of the college textbook \"Understanding Computers\", for reworking for the 12th edition. The work done for the 11th edition was just updating a few pages, while the 12th edition the publisher staff are allowed to do major rewrites of sections so Python will get higher visibility.
 
-- **2007/05/08** Continually collecting [quality video lectures](https://wiki.python.org/moin/Advocacy/VideoLectures) for use by fledgling usergroups or others. Oddly there are not that many around it seems. Hopefully the ones from [PyCon](PyCon) 2007, once processed, will help here.
+- **2007/05/08** Continually collecting [quality video lectures](https://wiki.python.org/moin/Advocacy/VideoLectures) for use by fledgling usergroups or others. Oddly there are not that many around it seems. Hopefully the ones from [PyCon](../conferences/pycon/PyCon) 2007, once processed, will help here.
 
 - **2007/05/04** Participated in a teleconference with Forrester Research staff, wherein they reviewed their overall philosophy of how they conduct a survey and what can be done with it afterward. There was also a good question and answer exchange among representatives of the various dynamic languages in the call.
 
 - **2007/05/03** Reviewed the [draft criteria](https://dfwpython.org/uploads/Forrester/DynamicLanguagesCriteria--Draft.xls) and gave [detailed feedback](https://dfwpython.org/uploads/Forrester/DynamicLanguagesCriteria--Feedback.txt) to Forrester Research about the criteria to be used in their survey of dynamic languages. The final survey form now looks like [this](https://dfwpython.org/uploads/Forrester/DynamicLanguagesCriteria--Final.xls). The survey has aggressive completion dates and involves interviews with selection community members, the names of which I am submitting. It also needs four samples of source code for specific problems, as well as essay-style answers, which I am handling myself. I\'ve asked the community for help with the source code samples.
 
-- **2007/04/26** Spent time learning Andrew\'s new scheme for content on www.python.org and created [a section for audiovisual materials](https://www.python.org/doc/av/), to be developed in cooperation with [ShowMeDo](ShowMeDo). The section has not yet been added to the main menu, pending creation/processing of new screencasts. There is also [a subsection for the viewing of in-page videos](https://www.python.org/doc/av/5minutes/). These are where the \"5 Minutes with Python\" series of screencasts will go.
+- **2007/04/26** Spent time learning Andrew\'s new scheme for content on www.python.org and created [a section for audiovisual materials](https://www.python.org/doc/av/), to be developed in cooperation with [ShowMeDo](../multimedia/ShowMeDo). The section has not yet been added to the main menu, pending creation/processing of new screencasts. There is also [a subsection for the viewing of in-page videos](https://www.python.org/doc/av/5minutes/). These are where the \"5 Minutes with Python\" series of screencasts will go.
 
 - **2007/04/25** Worked on outline for paper, \"[Starting and Running a Successful Python User Group](https://wiki.python.org/moin/AdvocacyWritingTasks/StartingAUserGroup)\"
 
@@ -128,29 +128,29 @@ Advocacy Accomplishments (most recent at top)
 
 - **2007/04/11** Received complimentary paper copy of college textbook \"Understanding Computers\", 11th edition, that now includes mention of Python.
 
-- (break after [PyCon](PyCon) and gap in contract)
+- (break after [PyCon](../conferences/pycon/PyCon) and gap in contract)
 
-- **2007/03/01** End of [PyCon](PyCon) 2007
+- **2007/03/01** End of [PyCon](../conferences/pycon/PyCon) 2007
 
-- **2007/02/23** Start of [PyCon](PyCon) 2007
+- **2007/02/23** Start of [PyCon](../conferences/pycon/PyCon) 2007
 
-- (much preparation for [PyCon](PyCon) 2007)
+- (much preparation for [PyCon](../conferences/pycon/PyCon) 2007)
 
-- **2006/12/03** Put candidate [PyCon](PyCon) slogans onto poll site and let the community vote; tally the vote and report it to the graphic artist and swag coordinator.
+- **2006/12/03** Put candidate [PyCon](../conferences/pycon/PyCon) slogans onto poll site and let the community vote; tally the vote and report it to the graphic artist and swag coordinator.
 
 - **2006/12/01** Fed material to author and reviewed writing of Python material in \"Understanding Computers\" college textbook (pub Mar/2007) to be published by Course Technology/Thomson Learning; lead passed to me from PSF.
 
-- **2006/11/26** Led and finalized keynote speaker selection for [PyCon](PyCon).
+- **2006/11/26** Led and finalized keynote speaker selection for [PyCon](../conferences/pycon/PyCon).
 
-- **2006/11/25** Participated in final selection of [PyCon](PyCon) tutorials.
+- **2006/11/25** Participated in final selection of [PyCon](../conferences/pycon/PyCon) tutorials.
 
 - **2006/11/21** Produced first draft of talk timeslot assignment.
 
-- **2006/11/19** Participated in budget preparation for [PyCon](PyCon).
+- **2006/11/19** Participated in budget preparation for [PyCon](../conferences/pycon/PyCon).
 
-- **2006/11/17** Participated in final selection of [PyCon](PyCon) talks.
+- **2006/11/17** Participated in final selection of [PyCon](../conferences/pycon/PyCon) talks.
 
-- **2006/11/14** Get vector format of [PyCon](PyCon) logo to the graphic designer.
+- **2006/11/14** Get vector format of [PyCon](../conferences/pycon/PyCon) logo to the graphic designer.
 
 - **2006/11/13** Made announcment re advocacy onto comp.lang.python, comp.lang.python.announce, and [marketing@wingide.com](mailto:marketing@wingide.com) mailing lists.
 
@@ -166,17 +166,17 @@ Advocacy Accomplishments (most recent at top)
 
 - **2006/10/28** Presented a 2-hr code walkthru of [the underlying structure of the advocacy portal](https://svn.python.org/www/trunk/advocacy.python.org/) to the DFW Pythoneers, getting feedback and ideas.
 
-- **2006/10/27** Coordinated with the [PyCon](PyCon) graphic designer negotiating contract, getting it signed and so forth; we now have a photo montage at the top of [us.pycon.org](https://us.pycon.org) although we\'re still looking for good photos.
+- **2006/10/27** Coordinated with the [PyCon](../conferences/pycon/PyCon) graphic designer negotiating contract, getting it signed and so forth; we now have a photo montage at the top of [us.pycon.org](https://us.pycon.org) although we\'re still looking for good photos.
 
 - **2006/10/20** Worked short list of keynote speakers and got speaking commitments; we have [3 firm](https://us.pycon.org/TX2007/Keynotes) and 2 more candidates if our schedule has room.
 
-- **2006/10/17** Contacted specific key individuals and send out emails encouraging various Python subcommunities to submit [PyCon](PyCon) talks; we had 104 talk submissions for 2007 versus 70-odd for 2006.
+- **2006/10/17** Contacted specific key individuals and send out emails encouraging various Python subcommunities to submit [PyCon](../conferences/pycon/PyCon) talks; we had 104 talk submissions for 2007 versus 70-odd for 2006.
 
 - **2006/10/16** Added support for filterable documents to the advocacy site, and came up with a decent presentation layout for said documents.
 
-- **2006/10/14** Prototyped up and did a code walkthru for the DFW Pythoneers showing how Python programs can participate on the D-BUS (desktop bus for Unix), querying and altering the hardware (such as detecting USB plug-in events and altering the laptop LCD brightness) using HAL. Also showed how to use the notification-daemon on D-BUS to pop-up balloon help and a brief touch on the wireless services provided by Avahi (zeroconf/rendevous) on the D-BUS. This talk came about as a result of my [PyCon](PyCon) research into a possible One-Laptop-Per-Child keynote, where that project uses much of this same technology. [Blogged](https://python-advocacy.blogspot.com/2006/10/tech-walkthru-d-bus-hal-notify-and.html).
+- **2006/10/14** Prototyped up and did a code walkthru for the DFW Pythoneers showing how Python programs can participate on the D-BUS (desktop bus for Unix), querying and altering the hardware (such as detecting USB plug-in events and altering the laptop LCD brightness) using HAL. Also showed how to use the notification-daemon on D-BUS to pop-up balloon help and a brief touch on the wireless services provided by Avahi (zeroconf/rendevous) on the D-BUS. This talk came about as a result of my [PyCon](../conferences/pycon/PyCon) research into a possible One-Laptop-Per-Child keynote, where that project uses much of this same technology. [Blogged](https://python-advocacy.blogspot.com/2006/10/tech-walkthru-d-bus-hal-notify-and.html).
 
-- **2006/10/12** Reviewed the slogans for [PyCon](PyCon) with the attendees of the DFW Pythoneers social, collecting input on how and what to select. We also discussed what we\'d like to see at [PyCon](PyCon) and how we could, individually, lead threads on comp.lang.python and other forums to encourage speakers to step forward.
+- **2006/10/12** Reviewed the slogans for [PyCon](../conferences/pycon/PyCon) with the attendees of the DFW Pythoneers social, collecting input on how and what to select. We also discussed what we\'d like to see at [PyCon](../conferences/pycon/PyCon) and how we could, individually, lead threads on comp.lang.python and other forums to encourage speakers to step forward.
 
 - **200610/12** Worked on a [list of PyCon talk ideas](https://us.pycon.org/TX2007/TalkIdeas), adding outlines to some, posting to comp.lang.python and comp.lang.python.announce. Also blogged the calls ([here](https://python-advocacy.blogspot.com/2006/10/call-for-members-of-panels-on-web.html) and [here](https://python-advocacy.blogspot.com/2006/10/call-for-presenter-on-python-eggs.html)) for talks and tutorials but I suspect those didn\'t get out because it was before any blog aggregators had picked me up. I have gotten a good offer for a talk about eggs, and a confirmed solid candidate for a keynote speaker.
 
@@ -184,13 +184,13 @@ Advocacy Accomplishments (most recent at top)
 
 - **2006/10/03** Migrated over the prototype portal from advocacy.dfwpython.org to advocacy.python.org.
 
-- **2006/09/30** Added sponsor logos back to [PyCon](PyCon) site
+- **2006/09/30** Added sponsor logos back to [PyCon](../conferences/pycon/PyCon) site
 
-- **2006/09/30** Reworked [PyCon](PyCon) site to support IE
+- **2006/09/30** Reworked [PyCon](../conferences/pycon/PyCon) site to support IE
 
 - **2006/09/28** Gained access to the correct portion of Python SVN to hold my creations, both software and content.
 
-- **2006/09/25** Put out call for [PyCon](PyCon) talk and tutorial ideas; post my suggestion list.
+- **2006/09/25** Put out call for [PyCon](../conferences/pycon/PyCon) talk and tutorial ideas; post my suggestion list.
 
 - **2006/09/22** Had a virtual host added to the Apache configuration for ximinez.python.org that points to the advocacy portal work area, along with cgi-bin for a few tools such as Nabu.
 
@@ -218,9 +218,9 @@ Advocacy Accomplishments (most recent at top)
 
 - **2006/09/07** Finalized the contract for the position.
 
-- **2006/08/25** Expanded collection of [ArticleIdeas](ArticleIdeas).
+- **2006/08/25** Expanded collection of [ArticleIdeas](../people/ArticleIdeas).
 
-- **2006/08/20** Established [list of magazines](Advocacy) for article submissions and starting collecting [ArticleIdeas](ArticleIdeas).
+- **2006/08/20** Established [list of magazines](Advocacy) for article submissions and starting collecting [ArticleIdeas](../people/ArticleIdeas).
 
 ------------------------------------------------------------------------
 

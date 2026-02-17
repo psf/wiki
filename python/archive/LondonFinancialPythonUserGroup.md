@@ -146,7 +146,7 @@ If you'd like to be kept informed about the details of these events, join us on 
 
 - *Feb 3, 2010 at 7pm*
 
-  - *Improving [NumPy](NumPy) performance with the Intel MKL ([Blog post](http://dpinte.wordpress.com/2010/01/15/numpy-performance-improvement-with-the-mkl/)) - Didrik Pinte [Enthought](./htp(3a2f2f)www(2e)enthought(2e)com.html)*
+  - *Improving [NumPy](../science/NumPy) performance with the Intel MKL ([Blog post](http://dpinte.wordpress.com/2010/01/15/numpy-performance-improvement-with-the-mkl/)) - Didrik Pinte [Enthought](./htp(3a2f2f)www(2e)enthought(2e)com.html)*
 
   - *Python to Excel bridges :*
 
@@ -158,7 +158,7 @@ If you'd like to be kept informed about the details of these events, join us on 
 
 - *Dec 14th, 2009 :*
 
-  - *Resolver One, the Pythonic spreadsheet, and the open source Ironclad project, which lets you use [NumPy](NumPy) from [IronPython](IronPython) and thus from other .NET languages. - Giles Thomas - [Resolver Systems](http://www.resolversystems.com/)*
+  - *Resolver One, the Pythonic spreadsheet, and the open source Ironclad project, which lets you use [NumPy](../science/NumPy) from [IronPython](../implementations/IronPython) and thus from other .NET languages. - Giles Thomas - [Resolver Systems](http://www.resolversystems.com/)*
 
   - *Reportlab\'s framework for producing nice financial reports. - Andy Robinson - [Reportlab](http://www.reportlab.com/)*
 

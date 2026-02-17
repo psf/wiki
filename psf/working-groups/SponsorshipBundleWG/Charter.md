@@ -75,7 +75,7 @@ Participants:
 
 - Mailing list - [bundle-sponsorship-wg@python.org](mailto:bundle-sponsorship-wg@python.org). (still waiting on postermasters@ to create this ML)
 
-- Subscriptions must be approved by the admins. [EwaJodlowska](EwaJodlowska) & [BetsyWaliszewski](./BetsyWaliszewski.html) are the list admin.
+- Subscriptions must be approved by the admins. [EwaJodlowska](../../people/EwaJodlowska) & [BetsyWaliszewski](./BetsyWaliszewski.html) are the list admin.
 
 ## Resources 
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Common talk mistakes *(At least at [EuroPython2004](EuroPython2004))*
+Common talk mistakes *(At least at [EuroPython2004](../conferences/europython/EuroPython2004))*
 
 - Bad spelling
 - Projectors don\'t work
@@ -33,7 +33,7 @@ Common talk mistakes *(At least at [EuroPython2004](EuroPython2004))*
 - Relying on connectivity
 - Proportional fonts for code
 
-However, these are some of the positive things experienced by talkers at [EuroPython2004](EuroPython2004):
+However, these are some of the positive things experienced by talkers at [EuroPython2004](../conferences/europython/EuroPython2004):
 
 - Repeating questions
 - Using pygame for demonstrations - making it fun

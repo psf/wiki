@@ -12,7 +12,7 @@ This wiki page has one simple goal, and will strive with its whole heart to fulf
 
 Guiding thought: \"With all the sand and sun on the beaches, should I really be doing this now?\"
 
-Ideas for IDE integration (added by [MichaelFoord](MichaelFoord) who has a particular interest in integration with Wing - but integration with Wing, Vim and Emacs would get most bang for buck):
+Ideas for IDE integration (added by [MichaelFoord](../people/MichaelFoord) who has a particular interest in integration with Wing - but integration with Wing, Vim and Emacs would get most bang for buck):
 
 - Run configure / make
 - Run test - from a standard library module run the corresponding test file with regrtest and the current version of Python

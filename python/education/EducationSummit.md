@@ -18,13 +18,13 @@ For right now, this is mainly a collection of links to facilitate the conference
 
 ## Open Spaces 
 
-\* [Jumping the Gap: Amateur to Pro](SummitTrackOne)
+\* [Jumping the Gap: Amateur to Pro](../archive/SummitTrackOne)
 
-\* [Big Data Analysis of Online Education Data](SummitTrackTwo)
+\* [Big Data Analysis of Online Education Data](../archive/SummitTrackTwo)
 
-\* [Motivating People to Keep Learning Python](SummitTrackThree)
+\* [Motivating People to Keep Learning Python](../archive/SummitTrackThree)
 
-\* [Lightning Talks](SummitLightningTalks)
+\* [Lightning Talks](../archive/SummitLightningTalks)
 
 ### Talks Not Presented in the Main Spaces 
 

@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-*The purpose of a programming language is to let software developers express their intentions as simply and directly as possible. - [JimHugunin](JimHugunin)*
+*The purpose of a programming language is to let software developers express their intentions as simply and directly as possible. - [JimHugunin](../people/JimHugunin)*
 
 ------------------------------------------------------------------------
 

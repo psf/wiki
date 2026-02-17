@@ -97,7 +97,7 @@ Browsing capabilities using PyPI XML-RPC features : XXX TBD
 
 ## Clearly describe the PyPI protocol 
 
-XXX TBD : describe the methods inmplemented in the [CheeseShop](CheeseShop)
+XXX TBD : describe the methods inmplemented in the [CheeseShop](../people/CheeseShop)
 
 ## How ? 
 

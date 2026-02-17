@@ -10,6 +10,6 @@ Hello! My name is JM and I am a Python programmer. Welcome to my Wiki page. Alth
 
 Here are links to some of the programs that I have written:
 
-[PythagoreanTheorem](PythagoreanTheorem)
+[PythagoreanTheorem](../people/PythagoreanTheorem)
 
 [CategoryHomepage](CategoryHomepage)

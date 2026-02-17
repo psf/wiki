@@ -44,7 +44,7 @@ On Tuesday we heard the following Lightning Talks (apologies for any mangled nam
 
 5.  Chris Miles -- PSI
 
-6.  Maciej Fijalkowski -- Even More [PyPy](PyPy)
+6.  Maciej Fijalkowski -- Even More [PyPy](../../implementations/PyPy)
 
 7.  Christian Theune -- ZEORaid
 

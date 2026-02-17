@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-A framework for [WebProgramming](WebProgramming).
+A framework for [WebProgramming](../web/WebProgramming).
 
 ### Masthead 
 
@@ -64,7 +64,7 @@ The need to run the [WebKit](WebKit) component\'s application server process con
 
 ### Presentation Support 
 
-- Python Server Pages - a [PythonInWebPage](PythonInWebPage) presentation technology supplied with Webware.
+- Python Server Pages - a [PythonInWebPage](../archive/PythonInWebPage) presentation technology supplied with Webware.
 
 - Kid - Webware supports Kid templates via the [KidKit](./KidKit.html) plug-in.
 

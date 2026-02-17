@@ -14,7 +14,7 @@ Try some or all:
 
 - Use `dir()`{.backtick} and `help()`{.backtick}
 
-- Look into [MacPython](MacPython) IDE code, or in the few Mac Python modules like `macostools`{.backtick}, `findertools`{.backtick} or other modules in `plat-mac`{.backtick}
+- Look into [MacPython]() IDE code, or in the few Mac Python modules like `macostools`{.backtick}, `findertools`{.backtick} or other modules in `plat-mac`{.backtick}
 
 - Look into the C modules that implement the glue between Python and Carbon.
 
@@ -36,7 +36,7 @@ You want to know the file type or creator of a file.
 
 Note that FSSpecs have some issues, see [http://developer.apple.com/technotes/tn2002/tn2078.html](http://developer.apple.com/technotes/tn2002/tn2078.html)
 
-Here is another simpler way (from [MacPython](MacPython) IDE):
+Here is another simpler way (from [MacPython]() IDE):
 
     >>>import MacOS
     >>> MacOS.GetCreatorAndType('Todo')

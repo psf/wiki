@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[AlanKennedy](AlanKennedy): 15th February 2011: This page is completely out-of-date and should be deleted.
+[AlanKennedy](../people/AlanKennedy): 15th February 2011: This page is completely out-of-date and should be deleted.
 
 ======================================================
 
@@ -16,7 +16,7 @@ This is really, really out of date. It\'s possible it might be useful to someone
 
 Are also available here: [http://ziclix.com/jython/missing/](http://ziclix.com/jython/missing/). Brian ran this with Jython from cvs and python2.3: \"It\'s not perfect but it\'s a start\".
 
-Interested in implementing some of these? See [HowToGetInvolved](HowToGetInvolved)!
+Interested in implementing some of these? See [HowToGetInvolved](../developer-guide/HowToGetInvolved)!
 
 # Missing Module Attributes 
 
@@ -72,7 +72,7 @@ A leading **!!!** indicates the module doesn\"t exist at all in Jython.
 
 - **!!!**[\*asynchat](http://ziclix.com/jython/missing/slide-025.html)
 
-- **!!!**[\*asyncore](http://ziclix.com/jython/missing/slide-026.html) [AlanKennedy](AlanKennedy) is working on a [java.nio implementation of the asyncore module](http://xhaus.com/alan/python/jynio). Expected availability: end Q2 2005.
+- **!!!**[\*asyncore](http://ziclix.com/jython/missing/slide-026.html) [AlanKennedy](../people/AlanKennedy) is working on a [java.nio implementation of the asyncore module](http://xhaus.com/alan/python/jynio). Expected availability: end Q2 2005.
 
 - [atexit](http://ziclix.com/jython/missing/slide-027.html)
 
@@ -140,7 +140,7 @@ A leading **!!!** indicates the module doesn\"t exist at all in Jython.
 
 - **!!!**[\*curses](http://ziclix.com/jython/missing/slide-059.html)
 
-- **!!!**[\*datetime](http://ziclix.com/jython/missing/slide-060.html) [FrankWierzbicki](FrankWierzbicki) is working on a java.util.Calendar based version of datetime, Expected availability: TBD
+- **!!!**[\*datetime](http://ziclix.com/jython/missing/slide-060.html) [FrankWierzbicki](../people/FrankWierzbicki) is working on a java.util.Calendar based version of datetime, Expected availability: TBD
 
 - **!!!**[\*decimal](http://ziclix.com/jython/missing/slide-061.html)
 

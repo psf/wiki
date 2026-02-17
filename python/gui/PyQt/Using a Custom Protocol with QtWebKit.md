@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Using a Custom Protocol with QtWebKit 
 
-This example was written in response to [a message on the Python-list mailing list](http://mail.python.org/pipermail/python-list/2009-June/714967.html). It shows how to implement support for a new URL scheme in [WebKit](WebKit), so that additional protocols can be used with embedded browsers.
+This example was written in response to [a message on the Python-list mailing list](http://mail.python.org/pipermail/python-list/2009-June/714967.html). It shows how to implement support for a new URL scheme in [WebKit](../../people/WebKit), so that additional protocols can be used with embedded browsers.
 
 See [Adding the Gopher Protocol to QtWebKit](Adding the Gopher Protocol to QtWebKit) for a more complex example.
 

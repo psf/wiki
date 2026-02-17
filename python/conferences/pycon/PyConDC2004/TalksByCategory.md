@@ -22,7 +22,7 @@ New-Style Class Tutorial \-- Thomas Wouters, XS4ALL
 
 # Tools and Techniques 
 
-60 Minutes of [MacPython](MacPython) \-- Bob Ippolito
+60 Minutes of [MacPython](../../../platforms/MacPython) \-- Bob Ippolito
 
 Distribution Basics - Using \"distutils\" \-- Anna Ravenscroft
 
@@ -36,13 +36,13 @@ Literate unit testing: Unit Testing with Doctest \-- Jim Fulton, Zope Corporatio
 
 GTK and Gnome Programming with Python \-- Travis B. Hartwell, Roxor Games
 
-A multi-language code intelligence engine for code browsing support in a commercial IDE \-- Trent Mick, [ActiveState](ActiveState)
+A multi-language code intelligence engine for code browsing support in a commercial IDE \-- Trent Mick, [ActiveState](../../../platforms/ActiveState)
 
 Transluscent Inter-Process Service Migration \-- Jean-Paul Calderone, Divmod
 
 # Integration 
 
-[IronPython](IronPython): a fresh look at Python on .Net \-- Jim Hugunin, Want of a Nail Software
+[IronPython](../../../implementations/IronPython): a fresh look at Python on .Net \-- Jim Hugunin, Want of a Nail Software
 
 Using Python as an Extension Language \-- Rick Ratzel, Magma Design Automation
 
@@ -72,7 +72,7 @@ Introduction to Mod_Python \-- Grisha Trubetskoy
 
 Setting a Context for the Web User \-- Steve Holden, Holden Web
 
-[FormEncode](FormEncode), a validation and form generation package \-- Ian Bicking, Imaginary Landscape
+[FormEncode](../../../people/FormEncode), a validation and form generation package \-- Ian Bicking, Imaginary Landscape
 
 Nevow: A Web Application Construction Kit \-- Donovan Preston, Divmod
 
@@ -96,7 +96,7 @@ Data Extraction and Analysis Program \-- Amy L. Shelton, National Radio Astronom
 
 Python in Chemical and Bioinformatics \-- Andrew Dalke, Dalke Scientific Software, LLC
 
-Modeling of a Fuel Fabrication Facility Using Python and [SimPy](SimPy) \-- J.D. Doak, Los Alamos National Laboratory
+Modeling of a Fuel Fabrication Facility Using Python and [SimPy](../../../people/SimPy) \-- J.D. Doak, Los Alamos National Laboratory
 
 # Education 
 
@@ -108,7 +108,7 @@ Promoting Computer Literacy Through Programming Python \-- John Miller, Universi
 
 Python in the Mathematics Curriculum \-- Kirby Urner, 4D Solutions
 
-[PyGeo](PyGeo): An Adventure in Self-directed Education with Python \-- Arthur Siegel, Marva Consulting LLC
+[PyGeo](../../../people/PyGeo): An Adventure in Self-directed Education with Python \-- Arthur Siegel, Marva Consulting LLC
 
 Developing Online Classroom Tools with Zope \-- Nathan R. Yergler, Canterbury School
 
@@ -126,4 +126,4 @@ Two Impromptus, or How Python Helped Us Design Our Kitchen \-- Andrew Koenig
 
 # Python in Business 
 
-Flour and water make bread: A talk aimed at open source developers curious about business and business people curious about open source \-- David Ascher, [ActiveState](ActiveState)
+Flour and water make bread: A talk aimed at open source developers curious about business and business people curious about open source \-- David Ascher, [ActiveState](../../../platforms/ActiveState)

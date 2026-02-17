@@ -33,7 +33,7 @@ Aiste, David, Eugene, Harald, Lennart, Paul, Zeth.
 - Sponsorship
   - *Aiste* to provide information on venue costs (booths, streamers, etc.) in order to help with sponsor rate planning. **[Apparently, booths/tables/streamers incur no extra venue-specific costs.](http://mg.pov.lt/europython-irclog/%23europython.2008-04-10.log.html#t2008-04-10T19:10:05)**
 
-  - Further discussion of the [SponsorOffers](SponsorOffers) document.
+  - Further discussion of the [SponsorOffers](../../../../../people/SponsorOffers) document.
 
   - Further discussion of the sponsorship of attendees (plus any information that should be published).
 - Feedback/Surveys

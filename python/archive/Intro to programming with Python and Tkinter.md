@@ -349,7 +349,7 @@ Source code for this lecture at [http://www.ourmedia.org/node/32502](http://www.
 
 ### Chieh\'s Blog and suggestion 
 
-*That\'s incredible! I don\'t have any video equipment at home, but I should have some within 2 years.* \-- [LionKimbro](LionKimbro) 2005-04-15 20:16:00
+*That\'s incredible! I don\'t have any video equipment at home, but I should have some within 2 years.* \-- [LionKimbro](../people/LionKimbro) 2005-04-15 20:16:00
 
 Instead of making wiki pages named [lecture3 example 1](./lecture3(20)example(20)1.html) and what not, which is begging for a name clash, how about instead posting the files as attachments?
 
@@ -357,7 +357,7 @@ You can type `attachment:foo.txt`, and that becomes a text file attachment.
 
 An example: [lecture3example1.txt](attachments/Intro(20)to(20)programming(20)with(20)Python(20)and(20)Tkinter/lecture3example1.txt)
 
-![:)](/wiki/europython/img/smile.png ":)") \-- [LionKimbro](LionKimbro) 2005-04-27 19:29:44
+![:)](/wiki/europython/img/smile.png ":)") \-- [LionKimbro](../people/LionKimbro) 2005-04-27 19:29:44
 
 really good!
 

@@ -26,7 +26,7 @@ This working group shall draw on the expertise of both the PSF and NumFOCUS, and
 
 - [Scientific Python WG Mailing List](http://mail.python.org/mailman/listinfo/scientific)
 
-  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [DavidMertz](DavidMertz) and [StefanVanDerWalt](StefanVanDerWalt) are the list admins.
+  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [DavidMertz](../people/DavidMertz) and [StefanVanDerWalt](../people/StefanVanDerWalt) are the list admins.
 
 ## Discussions 
 

@@ -26,7 +26,7 @@ See also :
 
 ### Other 
 
-- [DelegationEventModel](DelegationEventModel)
+- [DelegationEventModel](../archive/DelegationEventModel)
 
 - [StateProgramming](StateProgramming)
 

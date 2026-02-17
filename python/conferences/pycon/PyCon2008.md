@@ -54,7 +54,7 @@ March 17-20 (Monday-Thursday) Sprints
   - Boston, organizer SJ Klein - sj at laptop .org
   - [Chicago](http://chipy.org/ChiPyCon_2008_Bid)
   - Cleveland
-  - [San Francisco](SanFrancisco) organizer - Alvin Wang
+  - [San Francisco](../../people/SanFrancisco) organizer - Alvin Wang
 
 ------------------------------------------------------------------------
 

@@ -10,6 +10,6 @@ SEE:**[Ten things people want to know about Python](../archive/Ten things people
 
 Answer
 
-:   - There are several distinct approaches; \"[DistributionUtilities](DistributionUtilities)\" introduces them.
+:   - There are several distinct approaches; \"[DistributionUtilities](../people/DistributionUtilities)\" introduces them.
 
-    - For Windows, the simplest way of creating a standalone executable from Python applications is to use the tool [Py2Exe](Py2Exe).
+    - For Windows, the simplest way of creating a standalone executable from Python applications is to use the tool [Py2Exe](../platforms/Py2Exe).

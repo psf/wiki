@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-At [#python.web](PoundPythonWeb) we warn against using mod_python. Here\'s a handful of the reasons:
+At [#python.web]() we warn against using mod_python. Here\'s a handful of the reasons:
 
 1.  It complicates your upgrade process, as versions of Python, Apache, and mod_python must be coordinated. The appropriate versions are not always available for some combinations.
 

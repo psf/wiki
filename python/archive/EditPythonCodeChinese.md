@@ -73,17 +73,17 @@ Although a C or C++ compiler will accept something like this, there may be a cle
 
 ## 文本编辑器的选择 Choosing a Text Editor 
 
-You may have a favourite text editor which you want to use to edit Python code. Hopefully, this editor will be slightly more sophisticated than the Notepad editor (on Windows) and will let you change its settings so that Python code can be edited effectively. Many text editors have support for syntax highlighting (so that different aspects of the text have different colours - keywords might be yellow, strings might be purple, and so on), and such things can be worthwhile benefits which can lure you away from more primitive (if more familiar) programs. A list of Python-compatible editors can be found on the [PythonEditors](PythonEditors) page.
+You may have a favourite text editor which you want to use to edit Python code. Hopefully, this editor will be slightly more sophisticated than the Notepad editor (on Windows) and will let you change its settings so that Python code can be edited effectively. Many text editors have support for syntax highlighting (so that different aspects of the text have different colours - keywords might be yellow, strings might be purple, and so on), and such things can be worthwhile benefits which can lure you away from more primitive (if more familiar) programs. A list of Python-compatible editors can be found on the [PythonEditors](../editors/PythonEditors) page.
 
-也许你已经有一个喜爱的编辑器想用来进行Python代码编辑。希望这款编辑器比Notepad记事本编辑器(Windows系统中)更高级一些，可以通过更改设置使编辑Python代码更有效率。许多文本编辑器支持语法加亮（因此文本的不同部分可以用不同颜色来显示-关键字可显为黄色，字符串可显为紫色，等等），以及有一些吸引你抛弃原有的编辑器（可能是你熟悉的）的特性。你可以在[PythonEditors](PythonEditors)页面找到与Python兼容的编辑器列表。
+也许你已经有一个喜爱的编辑器想用来进行Python代码编辑。希望这款编辑器比Notepad记事本编辑器(Windows系统中)更高级一些，可以通过更改设置使编辑Python代码更有效率。许多文本编辑器支持语法加亮（因此文本的不同部分可以用不同颜色来显示-关键字可显为黄色，字符串可显为紫色，等等），以及有一些吸引你抛弃原有的编辑器（可能是你熟悉的）的特性。你可以在[PythonEditors](../editors/PythonEditors)页面找到与Python兼容的编辑器列表。
 
 ## 配置文本编辑器Configuring a Text Editor 
 
-Now that you\'ve made a choice from the [PythonEditors](PythonEditors) list, you\'ll want to make sure that it is set up properly. Below you\'ll find a guide for a number of different editors dealing with important Python issues such as indentation (tabs and spaces) as well as other more general issues like encodings and syntax highlighting/colouring.
+Now that you\'ve made a choice from the [PythonEditors](../editors/PythonEditors) list, you\'ll want to make sure that it is set up properly. Below you\'ll find a guide for a number of different editors dealing with important Python issues such as indentation (tabs and spaces) as well as other more general issues like encodings and syntax highlighting/colouring.
 
-当你在[PythonEditors](PythonEditors)页面列表中选好编辑器，接下来你想确认它是否已被合理配置。就如何处理Python关键问题如缩进（Tab和空格），常规问题如语言编码、高亮/多颜色显示等，以下提供的编辑器指南供参考：
+当你在[PythonEditors](../editors/PythonEditors)页面列表中选好编辑器，接下来你想确认它是否已被合理配置。就如何处理Python关键问题如缩进（Tab和空格），常规问题如语言编码、高亮/多颜色显示等，以下提供的编辑器指南供参考：
 
-- [Vim](Vim) and related editors
+- [Vim](../editors/Vim) and related editors
 
 ## 编者注释Editorial Note 
 

@@ -136,7 +136,7 @@ These sites give you instant feedback on programming problems that you can solve
 
 [please keep this list alphabetized] These websites are written in support of science courses but are general enough that anyone can learn from them.
 
-- [Beginning Python for Bioinformatics](http://www.onlamp.com/pub/a/python/2002/10/17/biopython.html) by Patrick O\'Brien. An introduction to Python aimed at biologists that introduces the [PyCrust](PyCrust) shell and Python\'s basic data types.
+- [Beginning Python for Bioinformatics](http://www.onlamp.com/pub/a/python/2002/10/17/biopython.html) by Patrick O\'Brien. An introduction to Python aimed at biologists that introduces the [PyCrust](../../people/PyCrust) shell and Python\'s basic data types.
 
 - [Python for Number Theory](http://illustratedtheoryofnumbers.com/prog.html) is a series of Python notebooks (for Jupyter) for applications to number theory and cryptography. They assume no prior programming experience and are suitable for someone learning elementary number theory at the same time. They conclude with an introduction to primality testing and cryptography (Diffie-Hellman, RSA).
 
@@ -156,7 +156,7 @@ These sites give you instant feedback on programming problems that you can solve
 
 [Python courses in your INBOX - please add only free resources]
 
-- [Finxter Email Computer Science Academy](https://blog.finxter.com/email-academy/): 20+ free Python and computer science courses delivered in email video lessons. **Content**: cheat sheets, Python basics, data structures, [NumPy](NumPy), data science, career advancement, coding productivity, and machine learning.
+- [Finxter Email Computer Science Academy](https://blog.finxter.com/email-academy/): 20+ free Python and computer science courses delivered in email video lessons. **Content**: cheat sheets, Python basics, data structures, [NumPy](../../science/NumPy), data science, career advancement, coding productivity, and machine learning.
 
 ## Tools 
 

@@ -12,13 +12,13 @@ This page should summarize topics for the DB API 3.0. It is meant to provide
 - new optional features
 - new recommendations
 
-A related page is [ExtendingTheDbApi](ExtendingTheDbApi), which lists features that aren\'t general enough to make it into the spec.
+A related page is [ExtendingTheDbApi](../archive/ExtendingTheDbApi), which lists features that aren\'t general enough to make it into the spec.
 
 Discussions should be held at [db-sig@python.org](mailto:db-sig@python.org), with summaries (even preliminary ones) entered here. This is also the place where limits imposed by the underlying database/library implementation should be entered for further reference. It could also be used as a place for technical voting by the driver authors (with tags like \'personal preference\', \'trivial to implement\', \'difficult to implement\', \'implementable only with loss of performance\' etc.)
 
 # Prior Art 
 
-- Stuart Bishop posted a DB-API 3.0 strawman in 2001, which can be found on the [Aug2001DbApi3Strawman](Aug2001DbApi3Strawman) page.
+- Stuart Bishop posted a DB-API 3.0 strawman in 2001, which can be found on the [Aug2001DbApi3Strawman](../archive/Aug2001DbApi3Strawman) page.
 
 # Unified Parameter Style 
 

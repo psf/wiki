@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[PackageManager](./PackageManager.html) is [MacPython](MacPython)\'s means for making it easy (easy enough) for users to install and upgrade [MacPython](MacPython) extensions. The GUI is buggy. If you have problems, trying running the pimp module, which can be used as a command line tool like so:
+[PackageManager](./PackageManager.html) is [MacPython]()\'s means for making it easy (easy enough) for users to install and upgrade [MacPython]() extensions. The GUI is buggy. If you have problems, trying running the pimp module, which can be used as a command line tool like so:
 
     [crack:~] bob% python `python -c "import pimp; print pimp.__file__"`
     Usage: pimp [options] -s [package ...] List installed status
@@ -34,7 +34,7 @@ Make sure to check out [PackageManagerRepository](./PackageManagerRepository.htm
 
 # How do I get it? 
 
-[PackageManager](./PackageManager.html) comes with a full [MacPython](MacPython) distribution. For OS X 10.3 users, get the [MacPythonPantherAddons](./MacPythonPantherAddons.html).
+[PackageManager](./PackageManager.html) comes with a full [MacPython]() distribution. For OS X 10.3 users, get the [MacPythonPantherAddons](./MacPythonPantherAddons.html).
 
 # Related Links 
 

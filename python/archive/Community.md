@@ -12,7 +12,7 @@ It has been said that part of Python\'s success is due, at least in part, to the
 
 ::: {}
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Mailing lists and newsgroups](MailingListsAndNewsgroups)                       | [Python Web site](PythonWebsite)                                                       |
+| [Mailing lists and newsgroups](MailingListsAndNewsgroups)                       | [Python Web site](../infrastructure/PythonWebsite)                                                       |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Where discussion of Python-related things takes place                                  | Behind the scenes of python.org                                                               |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
@@ -20,19 +20,19 @@ It has been said that part of Python\'s success is due, at least in part, to the
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Real-time discussion and help on Python-related matters                                | News, opinions and perspectives                                                               |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Local user groups](LocalUserGroups)                                            | [How to\...](./How(20)to(2e2e2e).html) guides                                                 |
+| [Local user groups](../community/LocalUserGroups)                                            | [How to\...](./How(20)to(2e2e2e).html) guides                                                 |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Find a Python group near you.                                                          | [Contribute to the documentation](Documentation#Working_on_the_Official_Documentation) |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Volunteer opportunities](VolunteerOpportunities)                               | [Core development](CoreDevelopment)                                                    |
+| [Volunteer opportunities](../people/VolunteerOpportunities)                               | [Core development](../people/CoreDevelopment)                                                    |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Projects which need help                                                               | Developing the Python language and runtime itself                                             |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Diversity in Python](DiversityInPython)                                        | [Buildbot](BuildBot)                                                                   |
+| [Diversity in Python](DiversityInPython)                                        | [Buildbot](../infrastructure/BuildBot)                                                                   |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Resources on being welcoming to all populations of Python users.                       | Automated testing of the Python source code                                                   |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Conferences](PythonConferences) and [events](PythonEvents)              | [PyBots](PyBots)                                                                       |
+| [Conferences](../conferences/regional/PythonConferences) and [events](../conferences/regional/PythonEvents)              | [PyBots](../infrastructure/PyBots)                                                                       |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Gatherings of Python users and community members                                       | Python Community Buildbots                                                                    |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
@@ -40,11 +40,11 @@ It has been said that part of Python\'s success is due, at least in part, to the
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | Discussion of improvements in specific areas                                           | How the language evolves                                                                      |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Python around the world](PythonAroundTheWorld)                                 | Wiki [maintainers](PythonWikiMaintainers) and [users](WikiUsers)                |
+| [Python around the world](PythonAroundTheWorld)                                 | Wiki [maintainers](../community/PythonWikiMaintainers) and [users](../people/WikiUsers)                |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | The global Python community                                                            | The people who contribute to this Wiki                                                        |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Python developers](PythonDevelopers)                                           | [Commercial Services](CommercialServices)                                              |
+| [Python developers](PythonDevelopers)                                           | [Commercial Services](../people/CommercialServices)                                              |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
 | People developing in Python and maybe \"[tweeting](PythonDevelopersOnTwitter)\" | People you can pay to develop or deploy Python on your behalf                                 |
 +----------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
@@ -54,4 +54,4 @@ It has been said that part of Python\'s success is due, at least in part, to the
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-So come meet the [EffBot](EffBot), [MartelliBot](MartelliBot), our glorious [BDFL](BDFL) and all the rest of the gang! A cast of thousands!
+So come meet the [EffBot](../people/EffBot), [MartelliBot](../people/MartelliBot), our glorious [BDFL](BDFL) and all the rest of the gang! A cast of thousands!

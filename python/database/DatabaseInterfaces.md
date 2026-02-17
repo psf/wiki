@@ -20,7 +20,7 @@ This page lists database interfaces available for Python. It may also help in fi
 
 ## ODBC Support 
 
-- See [ODBC](ODBC)
+- See [ODBC](../archive/ODBC)
 
 ## ADO Support 
 
@@ -32,13 +32,13 @@ Database systems employing a relational model, with support for SQL.
 
 ## General Purpose Database Systems 
 
-- IBM [DB2](DB2)
+- IBM [DB2](../archive/DB2)
 
-- [Firebird](Firebird) (and Interbase)
+- [Firebird](../archive/Firebird) (and Interbase)
 
-- [Informix](Informix)
+- [Informix](../archive/Informix)
 
-- [Ingres](Ingres)
+- [Ingres](../archive/Ingres)
 
 - [MySQL](MySQL)
 
@@ -52,7 +52,7 @@ Database systems employing a relational model, with support for SQL.
 
 - Microsoft [Access](../people/Microsoft Access)
 
-- [Sybase](Sybase)
+- [Sybase](../archive/Sybase)
 
 - [InterSystems IRIS](../archive/InterSystems IRIS)
 
@@ -60,9 +60,9 @@ Database systems employing a relational model, with support for SQL.
 
 ## Data Warehouse Database Systems 
 
-- [Teradata](Teradata)
+- [Teradata](../archive/Teradata)
 
-- IBM [Netezza](Netezza)
+- IBM [Netezza](../archive/Netezza)
 
 (To add new entries, please choose [DatabaseTemplate](DatabaseTemplate) when creating the page.)
 
@@ -70,13 +70,13 @@ Database systems employing a relational model, with support for SQL.
 
 The following database systems are more oriented towards embedded applications:
 
-- [asql](asql)
+- [asql](../archive/asql)
 
 - [GadFly](./GadFly.html)
 
 - [SQLite](SQLite)
 
-- [ThinkSQL](ThinkSQL)
+- [ThinkSQL](../archive/ThinkSQL)
 
 (To add new entries, please choose [DatabaseTemplate](DatabaseTemplate) when creating the page.)
 
@@ -86,19 +86,19 @@ The following database systems are more oriented towards embedded applications:
 
 Databases working on flat files or fixed records.
 
-- [MetaKit](MetaKit)
+- [MetaKit](../people/MetaKit)
 
-- [ZODB](ZODB)
+- [ZODB](../archive/ZODB)
 
-- [BerkeleyDB](BerkeleyDB)
+- [BerkeleyDB](../archive/BerkeleyDB)
 
-- [KirbyBase](KirbyBase)
+- [KirbyBase](../people/KirbyBase)
 
-- [Durus](Durus)
+- [Durus](../archive/Durus)
 
 - [atop](./atop.html)
 
-- [buzhug](buzhug)
+- [buzhug](../archive/buzhug)
 
 (To add new entries, please choose [DatabaseTemplate](DatabaseTemplate) when creating the page.)
 
@@ -116,6 +116,6 @@ Databases working on flat files or fixed records.
 
 # Native Python Databases 
 
-- [buzhug](buzhug)
+- [buzhug](../archive/buzhug)
 
-- [SnakeSQL](SnakeSQL)
+- [SnakeSQL](../archive/SnakeSQL)

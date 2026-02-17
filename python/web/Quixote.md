@@ -33,7 +33,7 @@ Aimed at sites where complex programming is required, Quixote lets the developer
 
 ### Deployment Platforms 
 
-Quixote will work with any Web server that supports CGI and/or [FastCGI](http://www.fastcgi.com/). [NeilSchemenauer](NeilSchemenauer)\'s new [SCGI protocol](http://arctrix.com/nas/scgi/protocol.txt) is also supported, although SCGI has so far only been implemented for Apache. FastCGI or SCGI provide much better performance than CGI, and SCGI has proven more reliable than FastCGI. Finally, Quixote also supports Apache\'s [mod_python](http://www.modpython.org/). See doc/web-server.txt in the source distribution for configuration information.
+Quixote will work with any Web server that supports CGI and/or [FastCGI](http://www.fastcgi.com/). [NeilSchemenauer](../people/NeilSchemenauer)\'s new [SCGI protocol](http://arctrix.com/nas/scgi/protocol.txt) is also supported, although SCGI has so far only been implemented for Apache. FastCGI or SCGI provide much better performance than CGI, and SCGI has proven more reliable than FastCGI. Finally, Quixote also supports Apache\'s [mod_python](http://www.modpython.org/). See doc/web-server.txt in the source distribution for configuration information.
 
 Quixote can also be deployed using the [Twisted](TwistedMatrix) framework. An example script is available in the Quixote sources under `services/twisted_http.py`{.backtick}
 

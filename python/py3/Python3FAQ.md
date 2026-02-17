@@ -50,14 +50,14 @@ One approach to distributing your 3.x package is to use 3.x\'s build_py_2to3 imp
 
 You will have a single lib.py, written in 2.x. When you install in 3.x, lib2to3 will convert it to 3.x in the build area, and then install the 3.x version.
 
-That, of course, requires you to adjust lib.py in such a way that 2to3 will successfully and completely convert it. In two experiments, Martin von Loewis ported Django and Mark Hammond ported [PythonWin](PythonWin) to 3.0, and found that these adjustments were quite feasible. You look at what 2to3 does, find out what additional modifications need to be done, and apply them to the input of 2to3 so that
+That, of course, requires you to adjust lib.py in such a way that 2to3 will successfully and completely convert it. In two experiments, Martin von Loewis ported Django and Mark Hammond ported [PythonWin](../archive/PythonWin) to 3.0, and found that these adjustments were quite feasible. You look at what 2to3 does, find out what additional modifications need to be done, and apply them to the input of 2to3 so that
 
 - 2to3 leaves these changes in place
 - they either have no effect or still work correctly when run in 2.x.
 
 [In this weblog posting](http://www.artima.com/weblogs/viewpost.jsp?thread=227041), Guido van Rossum strongly suggests not changing your APIs when porting to 3.0, because API changes will make it difficult for users to tell whether test suite failures are due to the 2.6+-\>3.0 transition or to the API changes.
 
-[Early2to3Migrations](Early2to3Migrations) has links to some early attempts at porting packages to 3.x.
+[Early2to3Migrations](../archive/Early2to3Migrations) has links to some early attempts at porting packages to 3.x.
 
 # How should I port existing C extensions to Python 3.x? 
 
@@ -75,4 +75,4 @@ If you\'re using your `setup.py`{.backtick} file to upload a package to the [Pyt
 
 Support for Python 2.x will officially end on 1 January 2020. After that date, there will be no further updates nor bugfixes. Since this end-of-life date has been planned for nearly a decade (the first end-of-life date was slated to happen in 2014, and was pushed back to 2020), and nearly all popular libraries have already ported their code, Python 2.x is well on its way to obsolescence. As such, we can only recommend learning and teaching Python 3 - which is simpler and will remain relevant well into the future.
 
-See the [BeginnersGuide](BeginnersGuide) for more information on getting started with Python.
+See the [BeginnersGuide](../getting-started/BeginnersGuide) for more information on getting started with Python.

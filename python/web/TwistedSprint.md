@@ -26,7 +26,7 @@ This is only a list of possibilities; if you can think of anything else that mig
 
 Please add your name if you plan on coming to a Twisted-related sprint! If you don\'t know which mini-sprints you want to take part in, at least just put it at the end of this page.
 
-- [Alex Levy](AlexLevy) (mesozoic)
+- [Alex Levy](../people/AlexLevy) (mesozoic)
 
 - James Knight (foom) - heading up web2.
 

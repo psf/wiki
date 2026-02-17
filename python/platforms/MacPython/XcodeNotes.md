@@ -14,7 +14,7 @@ Tools:
 
 - agvtool - apple generic versioning tool - may be useful if you have trouble picking development and marketing versions for your software
 
-- WSMakeStubs - Generates stubs (C++, ObjC, or [AppleScript](./AppleScript.html)) for use with [WebServices](WebServices).framework from a WSDL (SOAP) file or url.
+- WSMakeStubs - Generates stubs (C++, ObjC, or [AppleScript](./AppleScript.html)) for use with [WebServices](../../people/WebServices).framework from a WSDL (SOAP) file or url.
 
 - Rez(1) - compiles the resource fork of a file according to a textual description
 

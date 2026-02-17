@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This page collects suggestions for speakers and presenters at [PyCon](PyCon). Thank you very much for taking the time and trouble to submit a paper. We really appreciate your efforts.
+This page collects suggestions for speakers and presenters at [PyCon](../PyCon). Thank you very much for taking the time and trouble to submit a paper. We really appreciate your efforts.
 
 # The final version of your submission 
 
-- [PyCon](PyCon) no longer has a published volume of proceedings; talks are now only available on-line. Therefore, write the final version for online viewing. While PDF is permitted, submission in HTML is better. Keep graphics reasonably sized for web access.
+- [PyCon](../PyCon) no longer has a published volume of proceedings; talks are now only available on-line. Therefore, write the final version for online viewing. While PDF is permitted, submission in HTML is better. Keep graphics reasonably sized for web access.
 
-- Finish preparing the online version of the paper before [PyCon](PyCon). This gives the audience more information in choosing which talks to attend, and people can refer to the paper during your talk for more details.
+- Finish preparing the online version of the paper before [PyCon](../PyCon). This gives the audience more information in choosing which talks to attend, and people can refer to the paper during your talk for more details.
 
 # A Presentation is not a Paper (Slide Sample) 
 
@@ -43,7 +43,7 @@ This page collects suggestions for speakers and presenters at [PyCon](PyCon). Th
 - If you are nervous, there\'s nothing wrong with admitting that
   - The information you present is your talk\'s primary value
 
-  - [PyCon](PyCon) audiences are very forgiving
+  - [PyCon](../PyCon) audiences are very forgiving
 
 - Take time to yourself before you speak
   - Deep breathing is always good preparation
@@ -68,7 +68,7 @@ This page collects suggestions for speakers and presenters at [PyCon](PyCon). Th
 
 # Other resources 
 
-- [Conference Presentation Judo](http://perl.plover.com/yak/presentation/) \-- aimed at people giving three-hour tutorials, but many suggestions apply to shorter talks like those given at [PyCon](PyCon).
+- [Conference Presentation Judo](http://perl.plover.com/yak/presentation/) \-- aimed at people giving three-hour tutorials, but many suggestions apply to shorter talks like those given at [PyCon](../PyCon).
 
 - [SAGE/LISA Conference Presentation advice](http://www.sage.org/presentation/)
 

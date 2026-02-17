@@ -30,10 +30,10 @@ If you are new to editing Wikis, please check [HelpOnTables](HelpOnTables) for h
 
 ## Hosting Options 
 
-- [Free Hosts](FreeHosts)
+- [Free Hosts](../people/FreeHosts)
 
-- [Non Commercial Hosts](NonCommercialHosting)
+- [Non Commercial Hosts](../archive/NonCommercialHosting)
 
-- [Specialized Commercial Hosts](SpecializedCommercialHosts)
+- [Specialized Commercial Hosts](../archive/SpecializedCommercialHosts)
 
-- [Other Commercial Hosts](OtherCommercialHosts)
+- [Other Commercial Hosts](../archive/OtherCommercialHosts)

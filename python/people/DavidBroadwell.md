@@ -22,7 +22,7 @@ In the mean time;
 
 # Scratch 
 
-Places I Lurk; [PythonTutorList](PythonTutorList)
+Places I Lurk; [PythonTutorList](../archive/PythonTutorList)
 
 [PythonTutorNiftyCodingGroup](./PythonTutorNiftyCodingGroup.html) hosted by [BrianvandenBroek](BrianvandenBroek)
 

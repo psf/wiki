@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Distributing Jython Scripts 
 
-return to [JythonFaq](JythonFaq)
+return to [JythonFaq]()
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ The sourceforge umbrella project is [http://mavenjython.sourceforge.net/](http:/
 
 ### Manually 
 
-**NOTE:** This contains advanced concepts that require knowledge of Java development. Specifically, if you do not know what a classpath is, the difference between a class and a .class file and how they are created or don\'t know what a jar file contains or what it really is, then I would suggest learning these **Java** concepts and once you understand them, come back and continue on. Here are a couple of links that may help you: [Java Tutorial](http://java.sun.com/docs/books/tutorial/java/TOC.html) and [About Java Technology](http://java.sun.com/docs/books/tutorial/getStarted/intro/index.html) but I would not stop with these two links. Use your favorite search engine and search for the terms above. [LearningJython](LearningJython) is also good reading.
+**NOTE:** This contains advanced concepts that require knowledge of Java development. Specifically, if you do not know what a classpath is, the difference between a class and a .class file and how they are created or don\'t know what a jar file contains or what it really is, then I would suggest learning these **Java** concepts and once you understand them, come back and continue on. Here are a couple of links that may help you: [Java Tutorial](http://java.sun.com/docs/books/tutorial/java/TOC.html) and [About Java Technology](http://java.sun.com/docs/books/tutorial/getStarted/intro/index.html) but I would not stop with these two links. Use your favorite search engine and search for the terms above. [LearningJython](../../getting-started/LearningJython) is also good reading.
 
 ------------------------------------------------------------------------
 
@@ -318,9 +318,9 @@ I\'d like to thank Oti H., Charlie G., Frank W., and all the others that have he
 
 If you have questions about the FAQ please post them on the jython-users mailing list at [http://sourceforge.net/mail/?group_id=12867](http://sourceforge.net/mail/?group_id=12867)
 
-By: [GregMoore](GregMoore) & [DaveKuhlman](DaveKuhlman)\
+By: [GregMoore](../../people/GregMoore) & [DaveKuhlman](../../people/DaveKuhlman)\
 Help from: The members of the Jython-users and Jython-dev mailing lists
 
 ------------------------------------------------------------------------
 
-Return to [JythonFaq](JythonFaq)
+Return to [JythonFaq]()

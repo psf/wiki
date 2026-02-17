@@ -47,7 +47,7 @@ Gripes: poor audio; flickering projector; rooms too hot; not enough room (not al
 
 # Hotel survey 
 
-Question as posed: \"Assuming you attend next year, would you stay at a hotel with other [PyCon](PyCon) attendees if we can coordinate a bulk room discount? Y/N\" \"If yes, what is your nightly room budget?\"
+Question as posed: \"Assuming you attend next year, would you stay at a hotel with other [PyCon](../PyCon) attendees if we can coordinate a bulk room discount? Y/N\" \"If yes, what is your nightly room budget?\"
 
 ::: {}
   ------------- ------- -----
@@ -67,14 +67,14 @@ Question as posed: \"Assuming you attend next year, would you stay at a hotel wi
 ::: {}
   ---- ---------------------------------------------------------------------------
   22   Web
-  21   Python Implementations/Development ([PyPy](PyPy), CPython, Jython)
+  21   Python Implementations/Development ([PyPy](../../../implementations/PyPy), CPython, Jython)
   14   Optimizations (Psyco, Starkiller)
   12   Math/Science
   9    Applications
   9    Twisted
   7    Crypto
   7    Basic tutorials
-  6    [IronPython](IronPython)
+  6    [IronPython](../../../implementations/IronPython)
   6    VoIP
   5    GUI
   3    Wrapper generators (SWIG, etc)
@@ -116,7 +116,7 @@ Question as posed: \"Assuming you attend next year, would you stay at a hotel wi
   7   Education
   6   Web
   4   Distutils
-  3   [MacPython](MacPython)
+  3   [MacPython](../../../platforms/MacPython)
   3   Tutorials
   3   Applications
   2   Twisted
@@ -144,7 +144,7 @@ Question as posed: \"Assuming you attend next year, would you stay at a hotel wi
   5    Education
   5    Databases
   4    Performance
-  4    [MacPython](MacPython)
+  4    [MacPython](../../../platforms/MacPython)
   4    Distutils
   2    Games
   1    Chandler

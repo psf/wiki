@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-A framework for [WebProgramming](WebProgramming).
+A framework for [WebProgramming](../web/WebProgramming).
 
 ### Masthead 
 
@@ -44,13 +44,13 @@ See the mod_python [mailing list](http://www.modpython.org/pipermail/mod_python/
 
 - [WebStack](WebStack) aims to provide a common API regardless of the underlying server or framework environment (be it ModPython, CGI, [Webware](./Webware.html), etc.).
 
-- [Quixote](Quixote) is a web application framework that has a ModPython handler.
+- [Quixote](../web/Quixote) is a web application framework that has a ModPython handler.
 
-- [Albatross](Albatross) applications can be deployed to ModPython or CGI.
+- [Albatross](../web/Albatross) applications can be deployed to ModPython or CGI.
 
-- [Karrigell](Karrigell) is meant primarily for running small standalone web applications, but now has a ModPython handler as well.
+- [Karrigell](../archive/Karrigell) is meant primarily for running small standalone web applications, but now has a ModPython handler as well.
 
-- [Aquarium](Aquarium) is a MVC web application framework using [Cheetah](http://cheetahtemplate.org) for templating with some resemblance to Struts and a ModPython WSAdaptor.
+- [Aquarium](../web/Aquarium) is a MVC web application framework using [Cheetah](http://cheetahtemplate.org) for templating with some resemblance to Struts and a ModPython WSAdaptor.
 
 **Frameworks designed specifically for ModPython:**
 
@@ -68,7 +68,7 @@ mod_python provides a similar API to mod_perl, allowing low-level access to Apac
 
 ### Session, Identification and Authentication 
 
-mod_python 3.1.3 and later provides support for server-side sessions with memory or dbm-based storage. It also supports session locking. For earlier versions, [JonsPythonModules](JonsPythonModules) implement session management as well as templating and database pooling. mod_python has a very straightforward and flexible system for basic authentication, allowing access rules to be configured at the module and function level.
+mod_python 3.1.3 and later provides support for server-side sessions with memory or dbm-based storage. It also supports session locking. For earlier versions, [JonsPythonModules](../archive/JonsPythonModules) implement session management as well as templating and database pooling. mod_python has a very straightforward and flexible system for basic authentication, allowing access rules to be configured at the module and function level.
 
 ### Persistence Support 
 

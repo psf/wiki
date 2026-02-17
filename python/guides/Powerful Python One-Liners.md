@@ -14,7 +14,7 @@ You may ask: why should I care? The answer is profound: if you cannot read and w
 
 It would be awesome if this page expanded to the point where it needs some sort of organization system. *(**Edit**: The one-liners are now sorted more or less by ease-of-understanding \-- from simple to hard. Please use a \"sorted insert\" for your new one-liner.)*
 
-The source code is contributed from different Python coders \-\-- Thanks to all of them! Special thanks to the early contributor [JAM.](JAM)
+The source code is contributed from different Python coders \-\-- Thanks to all of them! Special thanks to the early contributor [JAM.](../archive/JAM)
 
 Of course, there is debate on whether one-liners are even *Pythonic*. As a rule of thumb: if you use one-liners that are confusing, difficult to understand, or to show off your skills, they tend to be *Unpythonic*. However, if you use well-established one-liner tricks such as [list comprehension](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions) or the [ternary operator](https://blog.finxter.com/python-one-line-ternary/), they tend to be Pythonic.
 

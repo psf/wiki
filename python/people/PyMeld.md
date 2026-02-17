@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-A framework for [WebProgramming](WebProgramming).
+A framework for [WebProgramming](../web/WebProgramming).
 
 ### Masthead 
 
@@ -28,7 +28,7 @@ Python versions
 
 ### Deployment Platforms 
 
-PyMeld is one of the available [DataRepresentation](DataRepresentation) technologies for Python. It could probably be deployed in most of the Web frameworks currently available.
+PyMeld is one of the available [DataRepresentation](../language/DataRepresentation) technologies for Python. It could probably be deployed in most of the Web frameworks currently available.
 
 ### Suitability 
 
@@ -52,7 +52,7 @@ Not applicable.
 
 ### Presentation Support 
 
-PyMeld uses templates which can be considered as implementing [StructureAnnotation](StructureAnnotation), but a [Programmatic](Programmatic) approach is still required to instantiate these templates.
+PyMeld uses templates which can be considered as implementing [StructureAnnotation](../language/StructureAnnotation), but a [Programmatic](../archive/Programmatic) approach is still required to instantiate these templates.
 
 ### InTheirOwnWords 
 

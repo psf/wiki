@@ -12,7 +12,7 @@ Email: `<TerriOda AT gmail DOT com>`
 
 IRC: terri on irc.freenode.net
 
-I am Python\'s [SummerOfCode](SummerOfCode) 2013-current coordinator and a developer of [GNU Mailman](http://list.org) / [Postorius](https://launchpad.net/postorius)
+I am Python\'s [SummerOfCode](../soc/SummerOfCode) 2013-current coordinator and a developer of [GNU Mailman](http://list.org) / [Postorius](https://launchpad.net/postorius)
 
 ------------------------------------------------------------------------
 

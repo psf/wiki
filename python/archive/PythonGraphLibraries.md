@@ -16,7 +16,7 @@ From the [Python Graph API](PythonGraphApi) page, plus some others discovered th
 
 - [NetworKit](https://networkit.github.io) (dist: networkit, mod: networkit) [NetworKit](./NetworKit.html) is a general open-source toolkit for large-scale network analysis. Its aim is to provide tools for the analysis of large networks in the size range from thousands to billions of edges. For this purpose, it implements efficient graph algorithms, many of them parallel to utilize multicore architectures In this respect, [NetworKit](./NetworKit.html) is comparable to packages such as NetworkX, albeit with a focus on parallelism and scalability.
 
-- [NetworkX](https://networkx.org/) (dist: `NetworkX`{.backtick}, mod: `networkx`{.backtick}) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. It is implemented based on [NumPy](NumPy) and [SciPy](SciPy) and therefore supports all common platforms.
+- [NetworkX](https://networkx.org/) (dist: `NetworkX`{.backtick}, mod: `networkx`{.backtick}) is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks. It is implemented based on [NumPy](../science/NumPy) and [SciPy](SciPy) and therefore supports all common platforms.
 
 - [python-igraph](https://igraph.org/python/) (dist: `igraph`{.backtick}, mod: `igraph`{.backtick}) is the set of Python bindings for [igraph](http://cneurocvs.rmki.kfki.hu/igraph/), a collection of network analysis tools with the emphasis on efficiency, portability and ease of use. It is easily installable from wheels for an extensive array of platforms and it benefits from contributions coming in through users of the C library and R bindings.
 

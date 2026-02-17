@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[PyOhio](PyOhio) 2008 Actuals
+[PyOhio](../PyOhio) 2008 Actuals
 
 A. 2008 Expenditures
 
@@ -23,7 +23,7 @@ B. 2008 Income
 
 C. Post 2008 Balance:
 
-[PyOhio](PyOhio) 2009 Estimate
+[PyOhio](../PyOhio) 2009 Estimate
 
 A. Estimated Expenditures
 

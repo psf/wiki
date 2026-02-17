@@ -124,4 +124,4 @@ The above is organized according to the Nice manual, but there are a few points 
 
 ------------------------------------------------------------------------
 
-Contributors: [MichaelChermside](MichaelChermside), [DanielBonniot](DanielBonniot) See also [LanguageComparisons](LanguageComparisons).
+Contributors: [MichaelChermside](../people/MichaelChermside), [DanielBonniot](../people/DanielBonniot) See also [LanguageComparisons](../people/LanguageComparisons).

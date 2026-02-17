@@ -20,7 +20,7 @@ The format for the talks need to be changed. As an audience member I could tell 
 
 keep the \"obvious ads\" out of the \"real people\" lightning talks (having a labelled session for them is fine.)
 
-The food wasn\'t as good this year as it was last year. I wasn\'t very impressed by the cold lunches. I was somewhat unhappy that the [IronPython](IronPython) talk I went to felt like a \"let me tell you how awesome Microsoft and Silverlight is\" talk. The open rooms didn\'t seem like a very big deal in the evenings - I remember a room full of people playing Galcon at Pycon 2007. I think the placement of the time slot board in the basement meant that a lot of people didn\'t see them until Saturday or Sunday. Last year I enjoyed coming back after dinner and sitting down and hacking on laptops in the rooms - I didn\'t find people doing that this year and I missed it. The sprinting talk after the conference this year was much more organized than last year, however the one thing I missed from last year was that last year you were encouraged to go and ask people questions when deciding which group to sprint with. This year it was the open panel, then a 10 minute break (I think), then straight into a meeting sort of thing. I enjoyed getting a chance to talk to people last year. Perhaps there were too many people there this year to do that.
+The food wasn\'t as good this year as it was last year. I wasn\'t very impressed by the cold lunches. I was somewhat unhappy that the [IronPython](../../../../implementations/IronPython) talk I went to felt like a \"let me tell you how awesome Microsoft and Silverlight is\" talk. The open rooms didn\'t seem like a very big deal in the evenings - I remember a room full of people playing Galcon at Pycon 2007. I think the placement of the time slot board in the basement meant that a lot of people didn\'t see them until Saturday or Sunday. Last year I enjoyed coming back after dinner and sitting down and hacking on laptops in the rooms - I didn\'t find people doing that this year and I missed it. The sprinting talk after the conference this year was much more organized than last year, however the one thing I missed from last year was that last year you were encouraged to go and ask people questions when deciding which group to sprint with. This year it was the open panel, then a 10 minute break (I think), then straight into a meeting sort of thing. I enjoyed getting a chance to talk to people last year. Perhaps there were too many people there this year to do that.
 
 Get a network that works. Scale and Debconf can do it. Use a proxy server. Get the speakers hand-outs on it. Don\'t give away key-notes and lightning talks to sponsors.
 
@@ -110,7 +110,7 @@ Lapel mikes. Make the talks longer, and jettison the poor speakers to make room.
 
 Schedules posted at the doors to each room.
 
-1). Please have all upload the presentations to the website the night before. Please please please! A short summary cannot convey the quality of a presentation. I regretted going to 50 % of the talks in the first 5 min. So, if possible provide a lengthier summary or give us the slides beforehand. Even better, give as a CD with everybody\'s presentation when we register. I have seen it done in other conferences. 2) Or tell all the presenters to upload their slides on the [PyCon](PyCon) website. I got bored of trying find where everyone had uploaded his/her presentation. 3). Please improve the quality of the presentations. Although the material was most of the times worthy my attendance the presenter did a really poor job at conveying the information. Very poor job. The Microsoft guys who did the Iron Python Presentation knew how to be clear, concise, and to the point. 4) Give us more advanced material 5) Have more lightning talks where people discuss what they are doing 6) Keynote Presentations (except Guido\'s) were horrible this year. I wish I had gone to the gym instead.
+1). Please have all upload the presentations to the website the night before. Please please please! A short summary cannot convey the quality of a presentation. I regretted going to 50 % of the talks in the first 5 min. So, if possible provide a lengthier summary or give us the slides beforehand. Even better, give as a CD with everybody\'s presentation when we register. I have seen it done in other conferences. 2) Or tell all the presenters to upload their slides on the [PyCon](../../PyCon) website. I got bored of trying find where everyone had uploaded his/her presentation. 3). Please improve the quality of the presentations. Although the material was most of the times worthy my attendance the presenter did a really poor job at conveying the information. Very poor job. The Microsoft guys who did the Iron Python Presentation knew how to be clear, concise, and to the point. 4) Give us more advanced material 5) Have more lightning talks where people discuss what they are doing 6) Keynote Presentations (except Guido\'s) were horrible this year. I wish I had gone to the gym instead.
 
 More interaction between attendees. I could have tried harder myself, but a little help doesnt hurt.
 
@@ -186,7 +186,7 @@ Better talks. Better material. Fewer \"sponsor\" keynotes.
 
 Audition the speakers either live or via webcast. Interesting subjects do not survive a weak presentation.
 
-There needs to be more emphasis on high-quality talks. I realize this is hard to do, but it needs to come from a culture of high expectations. I think 90% of the talks I attended were of poor quality. In some cases the speakers were not prepared or not organized, in other cases the speakers just spoke the bullet points on their slides. When I go to a talk I want the speaker to explain a difficult or interesting concept. I want insight. Perhaps [PyCon](PyCon) could award \"best presentations\" and provided more assistance in how to prepare and give a good talk.
+There needs to be more emphasis on high-quality talks. I realize this is hard to do, but it needs to come from a culture of high expectations. I think 90% of the talks I attended were of poor quality. In some cases the speakers were not prepared or not organized, in other cases the speakers just spoke the bullet points on their slides. When I go to a talk I want the speaker to explain a difficult or interesting concept. I want insight. Perhaps [PyCon](../../PyCon) could award \"best presentations\" and provided more assistance in how to prepare and give a good talk.
 
 Double the talk lengths, introduce talk \"tracks\" where people can stay in one room and listen to similar topics, disallow sponsors in the lightning talks, and try to screen keynote speakers beforehand to ensure that they are energetic and charismatic (Ivan Krstic was fantastic last year in this regard at pumping everyone up and making Python important and relevant and part of something bigger and better. That\'s how a keynote should be. Understandably it\'s hard to get that kind of speaker.)
 
@@ -232,7 +232,7 @@ Give Sponsors their own talk time. Don\'t Outsource Wireless.
 
 improve talk selection process \-- several talks were by first-time presenters who were unable to deliver their message effectively
 
-Follow tummy.com\'s wireless instructions for [PyCon](PyCon). Continuous beverages, at least water.
+Follow tummy.com\'s wireless instructions for [PyCon](../../PyCon). Continuous beverages, at least water.
 
 Better control over the wifi. Have only one \"strong\" network to connect to. I could never figure out which one I should try\...
 
@@ -250,7 +250,7 @@ I think there was some good discussion on the mailing lists about not giving spo
 
 Not having sponsor advertisements masquerading as lightning talks. They were so boring, I left the room.
 
-I\'d prefer more talks about crazy hacks. It\'s the one thing I really loved about the Perl tracks at OSCON. The hacks weren\'t directly useful in my normal work, but they were used to teach valuable skills/knowledge about the language and its inner workings. And \*that\* knowledge definitely came in handy. [PyCon](PyCon)\'s talks all feel too practical (here\'s all about X. here\'s our story of how we did Y. etc), which make them more uninteresting to me.
+I\'d prefer more talks about crazy hacks. It\'s the one thing I really loved about the Perl tracks at OSCON. The hacks weren\'t directly useful in my normal work, but they were used to teach valuable skills/knowledge about the language and its inner workings. And \*that\* knowledge definitely came in handy. [PyCon](../../PyCon)\'s talks all feel too practical (here\'s all about X. here\'s our story of how we did Y. etc), which make them more uninteresting to me.
 
 More swag and better lightning talks with sponsor talks being clearly labeled. More emphasis on the side rooms and organize the agenda schedules online from the post card method. Also, the wireless wasn\'t very good for the first few days.
 
@@ -258,7 +258,7 @@ Tracks For example, webapp dev track, testing track, python core track or jython
 
 Keep doing what you are doing and have a better wireless network.
 
-I understand these types of things cost money, but some of it seemed over-commercialized. I wasn\'t a big fan of some of the quick advertisements for Zenoss or White Oak in between keynotes. I understand they are sponsors and they have their booth and their banner up and gave money to make this happen, but would they pull sponsorship if someone didn\'t push their product in between keynote talks? I would hope not. It\'s not really that big of a deal, but being my first [PyCon](PyCon) it seemed a bit out of place with what I was thinking ahead of time\...just some Python geeks getting together to talk about Python and learn and share and all of that good stuff. It was like the popup you couldn\'t block. Anyways, I still had a great time and will be coming back next year and look forward to helping out if I can.
+I understand these types of things cost money, but some of it seemed over-commercialized. I wasn\'t a big fan of some of the quick advertisements for Zenoss or White Oak in between keynotes. I understand they are sponsors and they have their booth and their banner up and gave money to make this happen, but would they pull sponsorship if someone didn\'t push their product in between keynote talks? I would hope not. It\'s not really that big of a deal, but being my first [PyCon](../../PyCon) it seemed a bit out of place with what I was thinking ahead of time\...just some Python geeks getting together to talk about Python and learn and share and all of that good stuff. It was like the popup you couldn\'t block. Anyways, I still had a great time and will be coming back next year and look forward to helping out if I can.
 
 Better wireless/network,
 
@@ -302,7 +302,7 @@ Higher quality speakers. Fewer tracks, or at least fewer conflicting talks. Mayb
 
 Work out wireless kinks early. (don\'t these things support roaming? i.e. interference is really less of an issue than perceived? Not sure\....I heard many conflicting credible stories. Would be nice to nail this one next year ![:-)](/wiki/europython/img/smile.png ":-)") )
 
-Bookend it with weekends instead of a weekend in the middle. Hire professional videographers that know how to capture both screencast and video at the same time and have them do the editing and encoding (suggestion: whoever does it for Google Talks). Follow the tummy.com instructions for how to run the network (from [PyCon](PyCon) 2007). They spent a lot of effort figuring that out and it was nonsense not to follow their instructions. No sandwiches for lunch. Beverages available continuously, not just a 15 minute \"break\" window.
+Bookend it with weekends instead of a weekend in the middle. Hire professional videographers that know how to capture both screencast and video at the same time and have them do the editing and encoding (suggestion: whoever does it for Google Talks). Follow the tummy.com instructions for how to run the network (from [PyCon](../../PyCon) 2007). They spent a lot of effort figuring that out and it was nonsense not to follow their instructions. No sandwiches for lunch. Beverages available continuously, not just a 15 minute \"break\" window.
 
 At least one inspirational keynote speaker - like Moglen\'s Seattle Plone keynote.
 
@@ -388,7 +388,7 @@ I wasn\'t incredibly wowed by most of the talks. I can\'t really say what I woul
 
 Ballrooms were REALLY COLD. Please work to get the hotel to maintain a comfortable temperature. It was distracting.
 
-No sponsor lightning talks! Set a limit on % of talk that can be slides. Emphasize interaction! Clearly label talks with the % of the talk that will be slides. Emphasize [OpenSpace](OpenSpace) sessions. Provide a \"We\'re Hiring!\" area so that those looking for jobs can easily find those offering them.
+No sponsor lightning talks! Set a limit on % of talk that can be slides. Emphasize interaction! Clearly label talks with the % of the talk that will be slides. Emphasize [OpenSpace](../../../../people/OpenSpace) sessions. Provide a \"We\'re Hiring!\" area so that those looking for jobs can easily find those offering them.
 
 Find a bigger room for the exhibition hall. That was a bit too crowded.
 
@@ -408,7 +408,7 @@ Have talks given more than once, so you can see everything that you want.
 
 \* Require the speakers to submit their slides in advance and publish them upfront. It\'d be much easier to follow the examples. Some of the speakers were nice enough to do that. But not all.
 
-\* I realize that this is not something that [PyCon](PyCon) organizers can easily do, but there was such a huge gap in presentation qualities. E.g. Titus Brown was engaging, interesting, had cool examples and overall, gave very good presentations (both the tutorial and the regular talk). However, the [GrassyKnoll](./GrassyKnoll.html) step-in speaker was \*abysmal\*. Jason Pellerin (presenting \"nose\") had a very interesting topic, but mumbled a lot, which made an interesting talk difficult to follow. The bottom of the pick was a speaker who spoke about an IDE, I believe, but who did not have any slides and started to hand-wave midway through the presentation to illustrate something. Gah! Perhaps [PyCon](PyCon) organizers could publish some sort of internal guidelines that speakers be recommended to read through?
+\* I realize that this is not something that [PyCon](../../PyCon) organizers can easily do, but there was such a huge gap in presentation qualities. E.g. Titus Brown was engaging, interesting, had cool examples and overall, gave very good presentations (both the tutorial and the regular talk). However, the [GrassyKnoll](./GrassyKnoll.html) step-in speaker was \*abysmal\*. Jason Pellerin (presenting \"nose\") had a very interesting topic, but mumbled a lot, which made an interesting talk difficult to follow. The bottom of the pick was a speaker who spoke about an IDE, I believe, but who did not have any slides and started to hand-wave midway through the presentation to illustrate something. Gah! Perhaps [PyCon](../../PyCon) organizers could publish some sort of internal guidelines that speakers be recommended to read through?
 
 \* This probably goes without saying, but the wireless service was only so-so. I understand the difficulties in setting up the wireless infrastructure for 1000+ people, but it is very frustrating not be connected, especially when a speaker uses a term/concept/technology unfamiliar to you, and wikipedia/google are not available.
 
@@ -434,7 +434,7 @@ Better networking, better audio/visual, more professional MC\'s.
 
 timing , not able to attend all tutorials through to the sprints
 
-Require that vendor talks to have content beyond, here\'s our company, we\'re hiring. They\'ll do better if they do: Here\'s some really cool work we are doing, come join us rather than a poorly organized and dull intro to their company. I realize the vendors do a huge amount to make [PyCon](PyCon) happen and I don\'t mean this in adversarial way, I just think that what makes [PyCon](PyCon) great is that it is a community conference with excellent content which is precisely why the vendors are interested. Ask them to help advance that tradition of excellence. Label the vendor talks more explicitly. At least at some points in the past the Supercomputing conference ([http://www.supercomp.org](http://www.supercomp.org)) moved most of the vendor specific presentations into it\'s own track so that people a) knew they were vendor talks and b) could pick and choose who they are interested in seeing speak. I did a lightning talk this year on Friday. It was my first lightening talk and I think it went pretty well. I\'ll do it again and although I was well prepared I think I can do even better next year. I really don\'t think lightening talk positions should be assigned to the vendors \-- I think it\'s fine to give the vendors a forum, but the lightening talks are supposed to be a chance for the little guys to speak or for people to speak on things that just occurred to them. Also, I am a little concerned about the negative vibes about lightening talks this year causing people to shy away from them next year. Since this way my first [PyCon](PyCon) I don\'t have prior years as a frame of reference but there were still many worthwhile lightening talks in my opinion. One other interesting option would be to have voting on the lightening talks from one day (Friday and Saturday in this case) and give those that get the highest rating a full 25 minute slot the next day. They would have to explicitly state that they were interested in the bigger slot, but it seems like an interesting way to increase the quality of both the lightening talks and get a high quality wild card session. Giving it a competitive feel will stimulate quality \-- perhaps even give gift certificates or T-Shirt to the highest rated lightening talks. Size and quality are often inverse functions. I think [PyCon](PyCon) is walking that line pretty well, but it certainly requires continued vigilance. The best content comes organically which is the purpose of Open Spaces. To this end there should be someone in charge of Open Space advocacy. This person would actively seek out people to host and attend Open Spaces. They would put together a team that would monitor the open spaces sessions as they coalesce and would broadcast out the current open spaces activities on an hourly basis during the day. To clarify, the huge paper board is awesome and I think it should stay. However, it would be great if at the beginning of each hour someone would send out a twitter or an email or update a blog with an RSS feed with a short summary of what is going on in open spaces that hour. (Probably should write some software that can do all three easily\...) This would allow people to hack their schedule dynamically \-- \"Hmm, this talk is more basic than I thought. Oh, hey there\'s something I wanted to learn about in open spaces.. I\'m heading down there.\" Basically all of this is lowering the bar for open spaces involvement without trying to limit open spaces by making it take a specific form. I would be willing to coordinate this open space activities notification effort, but I don\'t think I am the right person for the open spaces advocate role.
+Require that vendor talks to have content beyond, here\'s our company, we\'re hiring. They\'ll do better if they do: Here\'s some really cool work we are doing, come join us rather than a poorly organized and dull intro to their company. I realize the vendors do a huge amount to make [PyCon](../../PyCon) happen and I don\'t mean this in adversarial way, I just think that what makes [PyCon](../../PyCon) great is that it is a community conference with excellent content which is precisely why the vendors are interested. Ask them to help advance that tradition of excellence. Label the vendor talks more explicitly. At least at some points in the past the Supercomputing conference ([http://www.supercomp.org](http://www.supercomp.org)) moved most of the vendor specific presentations into it\'s own track so that people a) knew they were vendor talks and b) could pick and choose who they are interested in seeing speak. I did a lightning talk this year on Friday. It was my first lightening talk and I think it went pretty well. I\'ll do it again and although I was well prepared I think I can do even better next year. I really don\'t think lightening talk positions should be assigned to the vendors \-- I think it\'s fine to give the vendors a forum, but the lightening talks are supposed to be a chance for the little guys to speak or for people to speak on things that just occurred to them. Also, I am a little concerned about the negative vibes about lightening talks this year causing people to shy away from them next year. Since this way my first [PyCon](../../PyCon) I don\'t have prior years as a frame of reference but there were still many worthwhile lightening talks in my opinion. One other interesting option would be to have voting on the lightening talks from one day (Friday and Saturday in this case) and give those that get the highest rating a full 25 minute slot the next day. They would have to explicitly state that they were interested in the bigger slot, but it seems like an interesting way to increase the quality of both the lightening talks and get a high quality wild card session. Giving it a competitive feel will stimulate quality \-- perhaps even give gift certificates or T-Shirt to the highest rated lightening talks. Size and quality are often inverse functions. I think [PyCon](../../PyCon) is walking that line pretty well, but it certainly requires continued vigilance. The best content comes organically which is the purpose of Open Spaces. To this end there should be someone in charge of Open Space advocacy. This person would actively seek out people to host and attend Open Spaces. They would put together a team that would monitor the open spaces sessions as they coalesce and would broadcast out the current open spaces activities on an hourly basis during the day. To clarify, the huge paper board is awesome and I think it should stay. However, it would be great if at the beginning of each hour someone would send out a twitter or an email or update a blog with an RSS feed with a short summary of what is going on in open spaces that hour. (Probably should write some software that can do all three easily\...) This would allow people to hack their schedule dynamically \-- \"Hmm, this talk is more basic than I thought. Oh, hey there\'s something I wanted to learn about in open spaces.. I\'m heading down there.\" Basically all of this is lowering the bar for open spaces involvement without trying to limit open spaces by making it take a specific form. I would be willing to coordinate this open space activities notification effort, but I don\'t think I am the right person for the open spaces advocate role.
 
 More attention to and advertising of open space talks and BOF sessions.
 
@@ -462,7 +462,7 @@ Eliminate sponsor lightning talks or move them to a non-plenary session. The ven
 
 Have a \"not for n00bs\" track, please. Specifying tracks by niche (web, sci, etc) seems to produce a lot of intros and \"use my cool tool\" talks, whereas advanced talks get pushed out in the interest of fairness to the many players. I would say all of the talks I saw this year with \"advanced\" in the talk title were actually \"intermediate\".
 
-Please, PLEASE get the wireless situation under control. \*Everybody\* I saw had a laptop. Assume the worst. This problem has plagued [PyCon](PyCon) since the first one I attended in DC (the first [PyCon](PyCon), I believe.) I talked to Sean about this during the board game session, and I know it\'s not the fault of the organizers, but it really needs to be fixed.
+Please, PLEASE get the wireless situation under control. \*Everybody\* I saw had a laptop. Assume the worst. This problem has plagued [PyCon](../../PyCon) since the first one I attended in DC (the first [PyCon](../../PyCon), I believe.) I talked to Sean about this during the board game session, and I know it\'s not the fault of the organizers, but it really needs to be fixed.
 
 Figure out how to get the median speaker to improve their public speaking skills.
 
@@ -486,7 +486,7 @@ Eliminate \"diamond\" keynotes from plenary (or put in their own track). Make sp
 
 Smooth over network problems as soon as possible. Network problems reduced the productive value of the tutorials. Longer keynotes (like 2007) and talks. Every speaker I saw was rushed. Value quality of talk over quantity of talks.
 
-I know you\'re hearing this a lot but - the network. If there is some way we could get network access in our rooms that would be great! It was tiresome having to come downstairs to just get directions somewhere, then again, forcing us all to use a connection started COUNTLESS conversations for me. I met 5 or 6 people just by chatting with them about how bad the network was haha. (on a side note, i nearly always could get some sort of signal). I\'d like to see a [PyCon](PyCon) out west! Of course that\'s selfish for me, but as I understand it we\'ve only had pycons in DC, Texas and Chicago and none of those are in Pacific time. I dont know if its possible, but if we could get the presenters to put up their slides BEFORE their talks, it would be great.
+I know you\'re hearing this a lot but - the network. If there is some way we could get network access in our rooms that would be great! It was tiresome having to come downstairs to just get directions somewhere, then again, forcing us all to use a connection started COUNTLESS conversations for me. I met 5 or 6 people just by chatting with them about how bad the network was haha. (on a side note, i nearly always could get some sort of signal). I\'d like to see a [PyCon](../../PyCon) out west! Of course that\'s selfish for me, but as I understand it we\'ve only had pycons in DC, Texas and Chicago and none of those are in Pacific time. I dont know if its possible, but if we could get the presenters to put up their slides BEFORE their talks, it would be great.
 
 Let me first say I truly \_loved\_ my first pycon, but there is room for improvement: - be clear about what is commercial and what not - keep the lightning talks for what they should be: people doing something cool and wanting to share that - though the pricing of the conference is really good - considering that food was also included. the food provided by the hotel itself was just horrible! - the hotel itself is REALLY overpriced for everything. and there is nothing much in the direct vicinity (well not for the people without a car)
 
@@ -494,9 +494,9 @@ Let me first say I truly \_loved\_ my first pycon, but there is room for improve
 
 Resolve the wireless networking issues. Resolve the \"selling of vendor lightning talks\" issue.
 
-Less commercial / marketing talks More code / research using python talks Emphasize Open-Spaces more, better information delivery with Wiki / some sort of [PyCon](PyCon) open-spaces webpage for information, the boards downstairs seemed messy and hard to read / find anything, perhaps a portable with projector to show the wiki/webpage, perhaps a person to monitor / assist open-spaces scheduling / setup / questions - answers (like the Lightning talks coordinator only for Open-Spaces) Perhaps something similar for the Lightning talks, I was disappointed with the inability to find out what Lightning talks were scheduled, when, who, what topics plus the more or less commercial (marketing / selling / recruiting) nature of most of the lightning talks \*\*
+Less commercial / marketing talks More code / research using python talks Emphasize Open-Spaces more, better information delivery with Wiki / some sort of [PyCon](../../PyCon) open-spaces webpage for information, the boards downstairs seemed messy and hard to read / find anything, perhaps a portable with projector to show the wiki/webpage, perhaps a person to monitor / assist open-spaces scheduling / setup / questions - answers (like the Lightning talks coordinator only for Open-Spaces) Perhaps something similar for the Lightning talks, I was disappointed with the inability to find out what Lightning talks were scheduled, when, who, what topics plus the more or less commercial (marketing / selling / recruiting) nature of most of the lightning talks \*\*
 
-\* Remind all attendees that cellphones and talking / noise during presentations / talks is rude, disrespectful, idiotic, stupid and totally un-pythonic \*\*\* I was appalled at the level of inconsiderate non-thinking by a large number of attendees with regards to their cell-phones, computer noises, talking with nearby people in the middle of talks during [PyCon](PyCon) 2008. Perhaps signs on every room, more reminders about the consideration given to speakers and audiences would help, maybe it would not\.... More room on the webform for these comments on this feedback page (4 lines deep is kinda silly short small tiny \-- you get the idea) Emphasize and encourage more friendly meet-your-neighbor interaction, I was not impressed with the \"friendliness\" of most of the attendees. I was starting most conversations and it seemed most people had their 2-3 friends and were oblivious to others at the conference. It seemed to me most people were more interested in their portables than with their fellow attendees and real face-to-face conversation. Not sure this is a problem [PyCon](PyCon) can overcome except to encourage the face-time opportunity provided by the conference. Everyone can email, text, IRC, cell-phone, web-browse anytime, wasting [PyCon](PyCon) time to do this seemed excessive / mixed up priorities. Too much multi-tasking by the attendees perhaps, who knows\.... I\'m sure I\'ll think of others during the next few days and post them if appropriately worthwhile.
+\* Remind all attendees that cellphones and talking / noise during presentations / talks is rude, disrespectful, idiotic, stupid and totally un-pythonic \*\*\* I was appalled at the level of inconsiderate non-thinking by a large number of attendees with regards to their cell-phones, computer noises, talking with nearby people in the middle of talks during [PyCon](../../PyCon) 2008. Perhaps signs on every room, more reminders about the consideration given to speakers and audiences would help, maybe it would not\.... More room on the webform for these comments on this feedback page (4 lines deep is kinda silly short small tiny \-- you get the idea) Emphasize and encourage more friendly meet-your-neighbor interaction, I was not impressed with the \"friendliness\" of most of the attendees. I was starting most conversations and it seemed most people had their 2-3 friends and were oblivious to others at the conference. It seemed to me most people were more interested in their portables than with their fellow attendees and real face-to-face conversation. Not sure this is a problem [PyCon](../../PyCon) can overcome except to encourage the face-time opportunity provided by the conference. Everyone can email, text, IRC, cell-phone, web-browse anytime, wasting [PyCon](../../PyCon) time to do this seemed excessive / mixed up priorities. Too much multi-tasking by the attendees perhaps, who knows\.... I\'m sure I\'ll think of others during the next few days and post them if appropriately worthwhile.
 
 Better wireless network access (though it was fine after Friday). Free network in rooms. More free food.
 
@@ -578,7 +578,7 @@ Presentations should aim to relate to Python more primarily, some presentations 
 
 1\. Change Location I don\'t really understand what the point of being in Chicago was, if we weren\'t going to be in Chicago. Rosemont is dull and difficult. Not everyone at the conference had access to a rental car, and for those without, there was no access to groceries, non-steakhouse restaurants, or other services, within walking distance. I was sick much of the time, and it would have been nice to have a drugstore / convenience store within a few blocks of conference. Food and restaurant options were also quite limited to very-expensive nearby restaurants. This is fine for people who are corporate funded, but is a barrier to entry for a \"community-driven\" conference.
 
-2\. More focus on open-spaces, bofs, and non-scheduled events. Downstairs has a lot of interesting things happening, which few people knew about, because they weren\'t really announced or discussed much during the normal sessions. My own background: I\'m used to community-run, cheap, fringe conferences, not fancy hotel / convention-center conferences, so maybe my opinion is off-base. [PyCon](PyCon) 2008 was certainly not like SUGI (the SAS Conf), which really is 100% SAS tries to sell you things you don\'t want, but it didn\'t have the spark of the new either. I was hoping to hear about lots of new projects, updates, and the like. Instead it felt very staid.
+2\. More focus on open-spaces, bofs, and non-scheduled events. Downstairs has a lot of interesting things happening, which few people knew about, because they weren\'t really announced or discussed much during the normal sessions. My own background: I\'m used to community-run, cheap, fringe conferences, not fancy hotel / convention-center conferences, so maybe my opinion is off-base. [PyCon](../../PyCon) 2008 was certainly not like SUGI (the SAS Conf), which really is 100% SAS tries to sell you things you don\'t want, but it didn\'t have the spark of the new either. I was hoping to hear about lots of new projects, updates, and the like. Instead it felt very staid.
 
 Better food, better hotel deal (we had to stay at the [DoubleTree](./DoubleTree.html) and wound up paying \$30 extra per-night over the conference rate).
 
@@ -630,7 +630,7 @@ Allow some open space areas to be scheduled in advance, and print those on the p
 
 Have mic stands for the audience questions or have the session chair repeat the questions. Give speakers the option of a clip mic. Configure survey to pick 2 best plenaries and 5 best talks; Have some healthy food for meat eaters (more fruit, WAY more vegs.); Don\'t ALWAYS have soda at break (more water and tea); Warn Windows people about wireless; Set a wireless password.
 
-1\. Open session management must be electronically managed online, and could be displayed on LCDs or website. 2. Lightning talk raffle\-- all talkers submit, and a random set gets picked. Don\'t make it about who can hack the list sheet to avoid the rules! 3. Lightning talks without (dedicated spots for) sponsors. 4. Open sessions should have easier access to projectors, etc. 5. Have a [PyCon](PyCon) main website feed for conference tweeting/comments
+1\. Open session management must be electronically managed online, and could be displayed on LCDs or website. 2. Lightning talk raffle\-- all talkers submit, and a random set gets picked. Don\'t make it about who can hack the list sheet to avoid the rules! 3. Lightning talks without (dedicated spots for) sponsors. 4. Open sessions should have easier access to projectors, etc. 5. Have a [PyCon](../../PyCon) main website feed for conference tweeting/comments
 
 Clear delineation between commercial and community keynotes/lightning talks. More in-depth technical talks. Perhaps more assistance given to presenters about what makes interesting subject matter. More promotion of Open Spaces, I wasn\'t even aware of them until the last day.
 
@@ -652,11 +652,11 @@ Don\'t sell out the lightning talks, and reserve half the keynotes for normal pe
 
 Fresh fruit at every meal and snack. Fresh vegetables at every meal, even if it\'s just baby carrots and broccoli. Supply copper for networking. You already run copper everywhere for power. Does anyone make these? Combined ethernet switch and power strip [http://www.freepatentsonline.com/7271502.html](http://www.freepatentsonline.com/7271502.html)
 
-Please don\'t let the vendors take over. This was my first time at [PyCon](PyCon) and I\'ve heard how fun the lightning talks usually are. I spent most of the time doing work on my own personal Python project\... Talks like the keynote from the OLPC guy are nice because he connects with the audience. The vendors really did not connect with the audience at all and they were really friggin\' boring. Except for maybe Fitz, but he wasn\'t really pimping Google.
+Please don\'t let the vendors take over. This was my first time at [PyCon](../../PyCon) and I\'ve heard how fun the lightning talks usually are. I spent most of the time doing work on my own personal Python project\... Talks like the keynote from the OLPC guy are nice because he connects with the audience. The vendors really did not connect with the audience at all and they were really friggin\' boring. Except for maybe Fitz, but he wasn\'t really pimping Google.
 
 the networking remains the big issue\...
 
-Reduce the influence of sponsors. It felt more like a sponsor showcase than the [PyCon](PyCon) I enjoyed in the past. I also would have liked to have a better system for getting the presenters slides and sample code on the [PyCon](PyCon) website.
+Reduce the influence of sponsors. It felt more like a sponsor showcase than the [PyCon](../../PyCon) I enjoyed in the past. I also would have liked to have a better system for getting the presenters slides and sample code on the [PyCon](../../PyCon) website.
 
 Maybe a better way to schedule open space sessions - i.e. on the pycon site, etc.
 
@@ -672,7 +672,7 @@ Sadly, I think the venue isn\'t that great. It\'s convenient but I\'d like a pla
 
 Fewer \'sponsored\' lightning talks: I used to enjoy lightning talks much more.
 
-This was my first Pycon and I was really impressed by it (totally intend to come next year). But traveling alone from another country and being a newbie at [PyCon](PyCon) makes it tougher to meet other people. It would be awesome if there were special social sessions for newcomers, maybe a \"[PyCon](PyCon) newbie\" BoF ![:)](/wiki/europython/img/smile.png ":)") Keep the great work!
+This was my first Pycon and I was really impressed by it (totally intend to come next year). But traveling alone from another country and being a newbie at [PyCon](../../PyCon) makes it tougher to meet other people. It would be awesome if there were special social sessions for newcomers, maybe a \"[PyCon](../../PyCon) newbie\" BoF ![:)](/wiki/europython/img/smile.png ":)") Keep the great work!
 
 I found the large amount of laptop usage by the audience distracting from the talks (typing noise and screens). You could restrict power points to rear of halls and ask that laptops aren\'t used near the front. Many of the laptop users I noticed weren\'t even taking notes, but checking email, browsing, etc.
 
@@ -744,7 +744,7 @@ Fewer commercials.
 
 Less of a commercial emphasis. Have a wireless network THAT DOESN\'T SUCK. A nicer hotel would be nice. More tables for laptop work between sessions.
 
-I found [PyCon](PyCon) to be generally well organised. Network was a little flaky on Friday.
+I found [PyCon](../../PyCon) to be generally well organised. Network was a little flaky on Friday.
 
 More reliable wireless, everywhere in the hotel Have some backup speakers \-- maybe offer standby slots to the top tier of rejected talks. Projector / microphone issues were common. Maybe a practice session the day before? Maybe the option of a shared laptop with the most common presentation tools?
 
@@ -758,9 +758,9 @@ Better speakers - many were very unprepared and in general could not communicate
 
 Figure out how to get the network to work 100% - write up a HOWTO on large conference networks for other communities to follow. This is constantly a problem with big conferences
 
-Compared with the last [PyCon](PyCon) I attended (2005), the quality of talks this year seemed to be much lower overall. I realize there were some standout ones, but often I only found out about them afterward. A lot boils down to presentation style; perhaps give the presenters a chance to practice before an audience and get feedback on the tutorial day? It has always helped me greatly to get outside feedback when I prepare talks. The keynotes/lightning talks really dragged (a notable exception was Sunday - the keynotes that day were all terrific.) While last time I went to [PyCon](PyCon) the lightning talks were overflowing out the door and this time there was seating for everyone, the energy just seemed to have been lost.
+Compared with the last [PyCon](../../PyCon) I attended (2005), the quality of talks this year seemed to be much lower overall. I realize there were some standout ones, but often I only found out about them afterward. A lot boils down to presentation style; perhaps give the presenters a chance to practice before an audience and get feedback on the tutorial day? It has always helped me greatly to get outside feedback when I prepare talks. The keynotes/lightning talks really dragged (a notable exception was Sunday - the keynotes that day were all terrific.) While last time I went to [PyCon](../../PyCon) the lightning talks were overflowing out the door and this time there was seating for everyone, the energy just seemed to have been lost.
 
-Make presenters submit slides in advance and post to the web site. I think it would help presenters practice their presentations in advance. Possibly have presenters submit a 3 minute video abstract. Some of the presenters were pretty poor and if the overall quality of presentations could be improved then my [PyCon](PyCon) experience would greatly improve.
+Make presenters submit slides in advance and post to the web site. I think it would help presenters practice their presentations in advance. Possibly have presenters submit a 3 minute video abstract. Some of the presenters were pretty poor and if the overall quality of presentations could be improved then my [PyCon](../../PyCon) experience would greatly improve.
 
 hold it someplace other than the airport. 45 minutes each way on the urine soaked L to get to Chicago is silly.
 
@@ -800,7 +800,7 @@ Better coffee.
 
 Loved it, good work all
 
-It\'s been a blast, and I look forward to [PyCon](PyCon) 2009 and beyond.
+It\'s been a blast, and I look forward to [PyCon](../../PyCon) 2009 and beyond.
 
 Lightning talks by sponsors ruin the idea of community participation. Do not want.
 
@@ -880,7 +880,7 @@ Keynotes were often rather boring and disappointing\...
 
 \- Cool shirts - Great attendees - Great organizers, great atmosphere
 
-I really enjoyed pycon this year, and will definitely attend 2009. I think there will always be room for improvement in the quality of talks, but I found many of the talks I attended just as interesting as my last [PyCon](PyCon) experience in DC. And if memory serves, the food was much better this year \-- which is a bonus.
+I really enjoyed pycon this year, and will definitely attend 2009. I think there will always be room for improvement in the quality of talks, but I found many of the talks I attended just as interesting as my last [PyCon](../../PyCon) experience in DC. And if memory serves, the food was much better this year \-- which is a bonus.
 
 some of the talks were just not very well prepared and ended up being a waste of my time, unfortunately
 
@@ -934,7 +934,7 @@ Some bright spots, but overall a disappointing experience for someone in industr
 
 Larger screens central to the room so that both sides get an equivalent view. Don\'t require the speakers to hold the microphone.
 
-I had fun. I like the fact there is such a strong enthusiastic community. [PyCon](PyCon) is amazingly well run given is a community effort.
+I had fun. I like the fact there is such a strong enthusiastic community. [PyCon](../../PyCon) is amazingly well run given is a community effort.
 
 Even with all of the negativity, it was a great experience. Please don\'t take it personally, or as if people aren\'t appreciative. In fact it\'s the opposite, it\'s such a great conference that people want to make sure that it stays a great conference.
 
@@ -960,7 +960,7 @@ fantastic!
 
 location needs to be less isolated. Dallas was much better because there were plenty of restaurants nearby.
 
-It was great. I help run large conferences and [PyCon](PyCon) was handled incredibly well.
+It was great. I help run large conferences and [PyCon](../../PyCon) was handled incredibly well.
 
 Enjoyable overall, thanks for the work.
 
@@ -994,15 +994,15 @@ I was impressed by how on-time the whole conference was. Talks started and finis
 
 I\'d like to hear panel discussions on selected technologies. Compiled Python, web frameworks, scientific computing, computing in proprietary settings and so on. There are many to choose from, I\'d like perhaps 3 of them covered? Overall I had an excellent experience. Thanks to all who were front and center as well as behind the scenes. \_\^\_
 
-Even though the Crowne Plaza is kind of seedy, I think it was a good idea to pick a hotel with such an affordable rate in Chicago. Overall, I was very pleased with [PyCon](PyCon) 2008. (If you had a \"medium\" category to rank satisfaction instead of just \"low\" and \"high\" in your survey, I would have ranked food and network as \"medium\" instead of \"low.\" But I could not say those two were \"high\" satifaction.)
+Even though the Crowne Plaza is kind of seedy, I think it was a good idea to pick a hotel with such an affordable rate in Chicago. Overall, I was very pleased with [PyCon](../../PyCon) 2008. (If you had a \"medium\" category to rank satisfaction instead of just \"low\" and \"high\" in your survey, I would have ranked food and network as \"medium\" instead of \"low.\" But I could not say those two were \"high\" satifaction.)
 
-Despite the word on the street, I had a great time at [PyCon](PyCon) \'08. The talks were a bit uneven in quality, and categorizing them, seems important. I recommend carving out a slice of of time early in the schedule when there is nothing but open space to \"teach\" everyone about this practice. Separate corporate pitch track. Please bring back the creativity and spontaneity of lighting talks! And, throw a party, at least one night!
+Despite the word on the street, I had a great time at [PyCon](../../PyCon) \'08. The talks were a bit uneven in quality, and categorizing them, seems important. I recommend carving out a slice of of time early in the schedule when there is nothing but open space to \"teach\" everyone about this practice. Separate corporate pitch track. Please bring back the creativity and spontaneity of lighting talks! And, throw a party, at least one night!
 
 The convention needs to be longer, we now have a large group of attendees, and more topics than we can squeeze in during the alloted time.
 
 Overall superb\-\--ubiquitous power and wireless are fantastic and the community spirit and general class of all speakers and participants is very encouraging\-\--see you next year!
 
-Great! I had a fantastic time. I met a lot of great people who are doing some amazing things with Python. Thank you for having [PyCon](PyCon)!
+Great! I had a fantastic time. I met a lot of great people who are doing some amazing things with Python. Thank you for having [PyCon](../../PyCon)!
 
 I didn\'t mind the sponsorship level at all, however some of the presentations made by the presenters weren\'t always interesting or cool. I don\'t mind if they talk about their products or make a point, but just pitching their company should not happen again.
 
@@ -1028,7 +1028,7 @@ The \_personal\_ networking was really really great. Thank you for having the la
 
 The best part of the conference is the attendees and the hallway conversations. Whatever leads to keeping interesting people coming is the most important part of having a great conference.
 
-Exercise equipment was awesome. I hope all [PyCon](PyCon)\'s will include and encourage people to exercise, as it makes for a clear mind to better absorb information and fight off stress
+Exercise equipment was awesome. I hope all [PyCon](../../PyCon)\'s will include and encourage people to exercise, as it makes for a clear mind to better absorb information and fight off stress
 
 It was one of the best conferences I ever attended. A big thank you to all the volunteers.
 
@@ -1042,7 +1042,7 @@ Had a great time again this year. Will be back next year!
 
 very glad i attended
 
-In general I liked 2007 better - though there were fewer unbearably bad presenters this year, there were fewer that could not be missed (though the location for 2008 was \_much\_ better). That said, I still learned a lot, networked, and got what I came for out of [PyCon](PyCon). Thanks for you efforts!
+In general I liked 2007 better - though there were fewer unbearably bad presenters this year, there were fewer that could not be missed (though the location for 2008 was \_much\_ better). That said, I still learned a lot, networked, and got what I came for out of [PyCon](../../PyCon). Thanks for you efforts!
 
 Enjoyed the conference and learnt a lot. I\'m fairly new to Python and wanted to dive right in and discover what is happening with Python. Very friendly community. Open space sessions were very valuable.
 
@@ -1050,7 +1050,7 @@ Overall, a fantastic experience.
 
 many speakers seemed unprepared. very few seemed inspired. several of the large talks covered extremely basic material (e.g., \"what is coverage?\"). has the quality of the average python programmer gone way down recently? I hope not.
 
-I haven\'t ever enjoyed a [PyCon](PyCon) this much. Way to go.
+I haven\'t ever enjoyed a [PyCon](../../PyCon) this much. Way to go.
 
 Would be more fun to be closer to downtown, the airport area is a wasteland.
 
@@ -1118,13 +1118,13 @@ OLPC update was one of my favorite talks. Didn\'t appear in the survey list. wou
 
 I was disappointed in general. The crass commericialism of the invited lightning talks was a real bringdown. Lightning talks used to be a great part of the conference. Now they are to be avoided like the plague. Overall quality of the talks seems down from last year. If judged on attendance, this was a great success, but if judged on usefulness to me, it was not. It always raises hope to see that all talks are videotaped, only to see those hopes dashed when few of them ever appear. I\'m skeptical that they will this time as well. I\'d say stop wasting effort on it if you can\'t follow through. Invited talks used to be a strong point of the conference. I have never seen a bad one until this year (the legal one was simply awful). I suppose the string of good ones was bound to end, but it just added to the bad aftertaste of the sponsor overload. I\'d say that unless I see some reason for a difference next year in this regard, I\'m not likely to go.
 
-[PyCon](PyCon) was an incredible experience for me, a student-programmer. I learned so much and can\'t wait to attend next year, when I\'m even better prepared, now that I know a bit about how the conference works. Thanks for putting on an awesome event. are the videos hosted yet? i can\'t find them on the [PyCon](PyCon) website and would love to download some of them to watch again, or catch the ones I missed. Thanks again.
+[PyCon](../../PyCon) was an incredible experience for me, a student-programmer. I learned so much and can\'t wait to attend next year, when I\'m even better prepared, now that I know a bit about how the conference works. Thanks for putting on an awesome event. are the videos hosted yet? i can\'t find them on the [PyCon](../../PyCon) website and would love to download some of them to watch again, or catch the ones I missed. Thanks again.
 
 yes, the most important thing: thanks to all those people that where involved in organizing this conference! An impressive thing to do by itself.
 
-I think I only ended up going to 5 talks, most of the time I spent in the hallways talking to people. I enjoy [PyCon](PyCon) and am likely to continue to attend. Next year I may not want a booth, we really didn\'t do much with it and having an unstaffed booth I worry may cause a negative attendee perception, but Steve Holden had some good ideas for having an unstaffed booth.
+I think I only ended up going to 5 talks, most of the time I spent in the hallways talking to people. I enjoy [PyCon](../../PyCon) and am likely to continue to attend. Next year I may not want a booth, we really didn\'t do much with it and having an unstaffed booth I worry may cause a negative attendee perception, but Steve Holden had some good ideas for having an unstaffed booth.
 
-My first [PyCon](PyCon)!! It was better in some ways than I expected, not so good in others\.... I thought the facilities were very good. The food was better than I expected, snacks were great!! The people were harder to communicate with than I had hoped. Most seemed way too focused on their portables\.... I came to [PyCon](PyCon) 2008 trying not to assume / expect / preconceive what would happen. I was excited about bumping into all sorts of interesting people from all over. The reality was disappointing. Most people didn\'t want to talk, only play with their portable and gadgets\.... The few people I really wanted to meet I did get a chance to at least say hi, but they were usually too busy and stressed for much more than that. Perhaps the secret is getting to [PyCon](PyCon) day or two earlier before it gets all busy and everyone too tired and stressed\.... The talks were not nearly as good as I had hoped. Maybe 1-2 per day versus the 5-6 I had expected when reviewing the talk list prior to the conference. Parking cost was kind of a bummer (make that a rude kind of extra conference tax on anyone driving to [PyCon](PyCon))!! The AV setup seemed mostly to work. Maybe more reminders to speakers to use the microphone correctly (or to adjust as needed). Or more working clip on mic\'s vs the hand-held mic\'s. Power for people running portables seemed everywhere, more than adequate. Again, conference facilities seemed pretty good. Not sure what can change except using space differently. Overall I enjoyed my first [PyCon](PyCon), it just seemed a little different than what I had expected from reading about past [PyCon](PyCon)\'s and talks. Perhaps that is result of the size, or just the changes in sponsors / talks this year. I do plan on attending next year [PyCon](PyCon) 2009 in Chicago. Hopefully I will be impressed and happier with the conference next year.
+My first [PyCon](../../PyCon)!! It was better in some ways than I expected, not so good in others\.... I thought the facilities were very good. The food was better than I expected, snacks were great!! The people were harder to communicate with than I had hoped. Most seemed way too focused on their portables\.... I came to [PyCon](../../PyCon) 2008 trying not to assume / expect / preconceive what would happen. I was excited about bumping into all sorts of interesting people from all over. The reality was disappointing. Most people didn\'t want to talk, only play with their portable and gadgets\.... The few people I really wanted to meet I did get a chance to at least say hi, but they were usually too busy and stressed for much more than that. Perhaps the secret is getting to [PyCon](../../PyCon) day or two earlier before it gets all busy and everyone too tired and stressed\.... The talks were not nearly as good as I had hoped. Maybe 1-2 per day versus the 5-6 I had expected when reviewing the talk list prior to the conference. Parking cost was kind of a bummer (make that a rude kind of extra conference tax on anyone driving to [PyCon](../../PyCon))!! The AV setup seemed mostly to work. Maybe more reminders to speakers to use the microphone correctly (or to adjust as needed). Or more working clip on mic\'s vs the hand-held mic\'s. Power for people running portables seemed everywhere, more than adequate. Again, conference facilities seemed pretty good. Not sure what can change except using space differently. Overall I enjoyed my first [PyCon](../../PyCon), it just seemed a little different than what I had expected from reading about past [PyCon](../../PyCon)\'s and talks. Perhaps that is result of the size, or just the changes in sponsors / talks this year. I do plan on attending next year [PyCon](../../PyCon) 2009 in Chicago. Hopefully I will be impressed and happier with the conference next year.
 
 I really enjoyed this one after having been to the 2005 event. Somehow even though the numbers doubled in between, I still got to meet and hear from a lot of different people, and don\'t feel like I missed out on much. So even though parts of it frustrated me (as noted in #19), I\'ll be back because most of it was great, and I\'ll get involved next year to help improve the things I think need to be improved.
 
@@ -1132,7 +1132,7 @@ Overall, the conference was great. The volunteers did an amazing job, putting in
 
 It was awesome!
 
-1\) Open voting or at least, let the community have some form of input in to the talks selected. 2) More talks during the day. Frequently there were 2 talks I wanted to attend at any given time, this year I picked badly. Your top presenters (per feedback) should be enouraged to give their talks at two different times. The two largest open spaces should have been encore venues for these talks. 3) wireless - Man I know what a HUGE job it was, 1000+ attendees, lots of newb\'s and olpcs and ad-hoc networks. I know a heroic job was done by the networking staff to get things stabilized. Maybe leveraging the prior year\'s head and having them come might help?? So knowledge can be shared. Please know I have a lot of respect for Carl K and the work everyone did and I\'m thankful for it, but it was a problem. 4) User groups / [PyCon](PyCon) is a great time to let people know about users groups in their area. Maybe more could be done. We discussed in the Advocacy BoF \-- jeff r has details.
+1\) Open voting or at least, let the community have some form of input in to the talks selected. 2) More talks during the day. Frequently there were 2 talks I wanted to attend at any given time, this year I picked badly. Your top presenters (per feedback) should be enouraged to give their talks at two different times. The two largest open spaces should have been encore venues for these talks. 3) wireless - Man I know what a HUGE job it was, 1000+ attendees, lots of newb\'s and olpcs and ad-hoc networks. I know a heroic job was done by the networking staff to get things stabilized. Maybe leveraging the prior year\'s head and having them come might help?? So knowledge can be shared. Please know I have a lot of respect for Carl K and the work everyone did and I\'m thankful for it, but it was a problem. 4) User groups / [PyCon](../../PyCon) is a great time to let people know about users groups in their area. Maybe more could be done. We discussed in the Advocacy BoF \-- jeff r has details.
 
 I was a little disappointed with the way the schedule was arranged. There were a number of time blocks for which I wasn\'t interested in any of the talks, but Sunday had a lot of high-quality talks scheduled opposite each other.
 
@@ -1146,7 +1146,7 @@ I\'ve used Python (often \"sneaking\" it into Java based workplaces) for many ye
 
 5 minute lightning talks on day 1. registered community voting allows top speakers 15m on a best of showcase.
 
-I\'m satisfied overall with my investment in attending [PyCon](PyCon). On the whole, I think the organizers did a nice job, and handled the scaling problems pretty well\...
+I\'m satisfied overall with my investment in attending [PyCon](../../PyCon). On the whole, I think the organizers did a nice job, and handled the scaling problems pretty well\...
 
 Bang up job guys!
 
@@ -1176,7 +1176,7 @@ Enjoyed it.
 
 2 days of mostly sponsor lightning talks sucked. A lot of the talks were very surface level, something you could get from a quick skim of the docs, this might be related to the time limit? I guess the previous pycons had longer talks, because it felt like every talk ran right up to the time limit with no time for questions or discussion, like I said - all very surface level.
 
-Thank you all for the hard work and effort you put in trying to put on a good conference. I know that I posted a lot of complaints, but I hope that they will help guide [PyCon](PyCon) 2009 toward being a conference that creates many strong connections. I for one, am quite willing to be in a simpler venue (academic spaces?), in exchange for a cheaper (and therefore, more accessible) conference. Thanks, Gregg Lind
+Thank you all for the hard work and effort you put in trying to put on a good conference. I know that I posted a lot of complaints, but I hope that they will help guide [PyCon](../../PyCon) 2009 toward being a conference that creates many strong connections. I for one, am quite willing to be in a simpler venue (academic spaces?), in exchange for a cheaper (and therefore, more accessible) conference. Thanks, Gregg Lind
 
 It was great. Thanks so much to all of you who worked so hard.
 
@@ -1198,7 +1198,7 @@ Don\'t listen to Bruce Eckel.
 
 Thank you for the opportunity! ![:)](/wiki/europython/img/smile.png ":)")
 
-The A/V guys were INCREDIBLY great - many thanks! Having the videos digitized so quickly was just so much appreciated. [PyCon](PyCon) 2008 was by far the best ever - I\'ll be back if I have to ride my bicycle from Texas!
+The A/V guys were INCREDIBLY great - many thanks! Having the videos digitized so quickly was just so much appreciated. [PyCon](../../PyCon) 2008 was by far the best ever - I\'ll be back if I have to ride my bicycle from Texas!
 
 Too commercial. Instead of \'selling\' the lightning talks to sponsors, give the slots back to the community. Between the keynotes and lightning talks it felt like I was sitting through one long commercial.
 
@@ -1216,7 +1216,7 @@ Thanks. I very much enjoyed it.
 
 I will return, but I\'m really depressed about how lightning talks were handled. 1. I didn\'t know where the sheets were initially on Friday and by the time I found them they were full. 2. I woke up super early on Saturday only to find that someone faked a sheet late Friday and everyone signed that. So never had any chance to get on Saturday\'s list. 3. Informed on Saturday night that the \"fake\" overflow list was now going to be the official Sunday list even though signs clearly said there would be a list for Sunday posted. Was told that my talk probably wouldn\'t happen on Sunday.
 
-Overall presentation subject matter was much less interesting than last year. The best two talks, containers and [IronPython](IronPython), were on the last day.
+Overall presentation subject matter was much less interesting than last year. The best two talks, containers and [IronPython](../../../../implementations/IronPython), were on the last day.
 
 nothing was within real walking distance. it was too cold outside. push it back a week or two. the restaurant prices were outrageous. box lunch was great for Sunday not so great for Friday. The food was better in Dallas. Overall I had a great time networking with my fellow programmers and I plan to come back.
 
@@ -1228,7 +1228,7 @@ Regarding talks: I know it must be hard to separate wheat from chaff, and I real
 
 Thank you for putting on this great conference. lightning talks on Sunday were great.
 
-For a first time \"newbie\" to [PyCon](PyCon), I am very impressed with the community. I will definitely be back next year - employer willing\... ![;)](/wiki/europython/img/smile4.png ";)")
+For a first time \"newbie\" to [PyCon](../../PyCon), I am very impressed with the community. I will definitely be back next year - employer willing\... ![;)](/wiki/europython/img/smile4.png ";)")
 
 I was not very impressed with the venue. Most of the conventions I\'ve been to previously use university grounds (out of semester), and the quality of experience using proper lecture theaters was much higher. Good projection capabilities, staggered seating giving better view of the presenter and slides, cheaper/more varied food options, and at least in this case, better location. On-campus accommodation is usually much cheaper as well. I have no idea if this is practical in the USA though.
 
@@ -1240,7 +1240,7 @@ Despite early troubles with wireless, it improved; everyone just swamped. Extrem
 
 A few talks were disappointing because of the presenter rather than the subject. For example, one presenter in particular (for Dogtail), was very difficult to understand and he kept showing us files of seemingly meaningless rows of text.
 
-It would be awesome to have a [PyCon](PyCon) in association with Python users in others countries.
+It would be awesome to have a [PyCon](../../PyCon) in association with Python users in others countries.
 
 I enjoyed talking to some of the exhibitors about IT in their business, and about our experiences. It would be great if there was more of this somehow.
 
@@ -1256,11 +1256,11 @@ Well organized, excellent conference!
 
 Well done, scheduling was very good.
 
-This was my first [PyCon](PyCon), and I\'ve been somewhat disappointed; the wifi was quite flaky, the talks were largely uninteresting (albeit there were some gems), and corporate sponsorship seems to have run amok. I hope I can get involved with [PyCon](PyCon) planning for next year (as I live in Chicago) to help improve things. ^\_^
+This was my first [PyCon](../../PyCon), and I\'ve been somewhat disappointed; the wifi was quite flaky, the talks were largely uninteresting (albeit there were some gems), and corporate sponsorship seems to have run amok. I hope I can get involved with [PyCon](../../PyCon) planning for next year (as I live in Chicago) to help improve things. ^\_^
 
 Great conference. Loved the abundant power and wireless. Hopefully I\'ll get more sleep next time ![;)](/wiki/europython/img/smile4.png ";)")
 
-The Python conference should be about sharing ideas from the community, a look at what others are doing and to finally meet the people you\'ve been conversing with online. It should not be a festival of people bragging about how cool their company is without any look at the underlying technology and then fishing for recruits. Have a recruitment area, even a meet-and-greet event, but don\'t revolve up a new vendor every 5 minutes. Review talks to ensure that they are about Python, the [IronPython](IronPython) talk was about 10 minutes of Python, a few minutes of Django and then a smattering of Silverlight.
+The Python conference should be about sharing ideas from the community, a look at what others are doing and to finally meet the people you\'ve been conversing with online. It should not be a festival of people bragging about how cool their company is without any look at the underlying technology and then fishing for recruits. Have a recruitment area, even a meet-and-greet event, but don\'t revolve up a new vendor every 5 minutes. Review talks to ensure that they are about Python, the [IronPython](../../../../implementations/IronPython) talk was about 10 minutes of Python, a few minutes of Django and then a smattering of Silverlight.
 
 OIt was great, thanks to all volunteers for putting in the work, I greatly appreciate it
 

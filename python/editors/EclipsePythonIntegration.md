@@ -18,7 +18,7 @@ A few plugins for [Eclipse](Eclipse) are in progress that will enable Eclipse to
 +-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
 | Dynamic Languages Toolkit                             | [http://www.eclipse.org/dltk/](http://www.eclipse.org/dltk/)                                                 | 4.0.0        | June 25, 2012    | EPL\*                   | ?                                     |                                                  |
 +-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-| Pydev                                                 | [http://pydev.org](http://pydev.org/)/                                                                       | 3.3.3        | January 27, 2014 | EPL\*                   | Yes                                   | It also supports [IronPython](IronPython) |
+| Pydev                                                 | [http://pydev.org](http://pydev.org/)/                                                                       | 3.3.3        | January 27, 2014 | EPL\*                   | Yes                                   | It also supports [IronPython](../implementations/IronPython) |
 +-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
 | [PythonMonkey](./PythonMonkey.html)     | [http://code.google.com/p/jrfonseca/wiki/PythonMonkey](http://code.google.com/p/jrfonseca/wiki/PythonMonkey) | 0.1.0        | October 21, 2007 |                         | Yes                                   |                                                  |
 +-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
@@ -56,13 +56,13 @@ To point out the obvious, it would be nice if some of these teams would combine 
 
 ## Which plug-in is the best? 
 
-Both [PyDev](PyDev) and [TruStudio](./TruStudio.html) are undergoing active development and both feature and extensive set of useful tools for developing in Eclipse. It\'s not hard to try either of them out, so you might as well just try them both out and see which you enjoy more.
+Both [PyDev](../people/PyDev) and [TruStudio](./TruStudio.html) are undergoing active development and both feature and extensive set of useful tools for developing in Eclipse. It\'s not hard to try either of them out, so you might as well just try them both out and see which you enjoy more.
 
-Going by the popularity on Google, (using a very unscientific method of just searching for the two words *python eclipse*) it seems as though [PyDev](PyDev) is more popular.
+Going by the popularity on Google, (using a very unscientific method of just searching for the two words *python eclipse*) it seems as though [PyDev](../people/PyDev) is more popular.
 
 ### PyDev 
 
-*added by [KirbyUrner](KirbyUrner) [urnerk@python.org](mailto:urnerk@python.org)*
+*added by [KirbyUrner](../people/KirbyUrner) [urnerk@python.org](mailto:urnerk@python.org)*
 
 I saw a demo of this at OSCON 2004, presented by Dana Moore. Alex Totek has done the majority of the work so far, with help from Fabio Zadrozny. pydev includes a debugger. Dana previewed auto-completion but as of this writing it\'s not in the most recent release (0.5.3). I also saw the Python shell integrated into Eclipse. The development language for the plugin itself is Java, not Jython.
 
@@ -157,9 +157,9 @@ For more information about SCons, see [http://www.scons.org/](http://www.scons.o
 
 # Other Links 
 
-- [Jython](Jython)
+- [Jython](../archive/Jython)
 
-- [Python](Python)
+- [Python](../archive/Python)
 
 - [IntegratedDevelopmentEnvironments](IntegratedDevelopmentEnvironments) - Python IDEs not based on Eclipse
 

@@ -16,7 +16,7 @@ Given the recent discussions on the members list, I think we \*do\* have to add 
     reports to the Board of Directors. These reports may be used to compile
     report summaries for the PSF members.
 
-Proposed by [MarcAndreLemburg](MarcAndreLemburg).
+Proposed by [MarcAndreLemburg](../../people/MarcAndreLemburg).
 
 ## Adding a WG Policy to the Bylaws 
 
@@ -34,25 +34,25 @@ The above 7.x will make it obvious that the board can apply such requirements af
 
 All this may seem unnecessary, but IMO it\'s better to spell these things out, even if redundant, to have something to point to in case things go wrong. (Been there, would like to avoid this in the future.)
 
-Proposed by [MarcAndreLemburg](MarcAndreLemburg).
+Proposed by [MarcAndreLemburg](../../people/MarcAndreLemburg).
 
 ## Transitioning Associate Members 
 
 Apart from the WG policy change request below, I think we also need to think about how to transition the existing associate members into the new model. The natural choice would be the \"Supporting Member\" class, but we do need to formalize this in some way, by getting their written consent. Some may prefer to turn their membership into the basic membership or apply for managing/contributing member status.
 
-Proposed by [MarcAndreLemburg](MarcAndreLemburg).
+Proposed by [MarcAndreLemburg](../../people/MarcAndreLemburg).
 
 ## Higher Mem Levels Inheriting Membership Rights 
 
 We need to add wording that all higher membership levels also inherit the basic membership rights, e.g. the ability to attend meetings.
 
-Proposed by [MarcAndreLemburg](MarcAndreLemburg).
+Proposed by [MarcAndreLemburg](../../people/MarcAndreLemburg).
 
 ## Section 4.2 
 
 Section 4.2: \... voting privileges revoked pursuant to Section 4.11. This needs to be fixed to read \"Section 4.12\". We should do a final review of the section references before going final.
 
-Proposed by [MarcAndreLemburg](MarcAndreLemburg).
+Proposed by [MarcAndreLemburg](../../people/MarcAndreLemburg).
 
 ## Rewording Section 4.8 
 
@@ -62,10 +62,10 @@ All, I took a glance at the draft PSF bylaws, and I found myself slightly confus
 
 Section 4.9: \... Fellowship does not continue during any extension of life by non-natural means, such as zombification or vampirism. \...Should we leave this in ?
 
-Proposed by [MarcAndreLemburg](MarcAndreLemburg).
+Proposed by [MarcAndreLemburg](../../people/MarcAndreLemburg).
 
 ## Committing Section 5.9 
 
 Forgot a check-in from the discussions we had about section 5.9 in out conf call last week: the section still reads \"one (1) or more directors\", but we agreed to have this read \"three (1) or more directors\".
 
-Proposed by [MarcAndreLemburg](MarcAndreLemburg).
+Proposed by [MarcAndreLemburg](../../people/MarcAndreLemburg).

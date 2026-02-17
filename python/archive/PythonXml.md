@@ -15,19 +15,19 @@ A variety of XML processing solutions are available for Python. This page attemp
 The standard library has a number of tools available, which fall into mainly three categories:
 
 - a pythonesque, simple-to-use and very fast XML tree library:
-  - [ElementTree](ElementTree) - the [xml.etree](http://docs.python.org/library/xml.etree.elementtree.html) package (new in Python 2.5 but available for older versions, also see the fast xml.etree.cElementTree and the independent implementation [lxml](http://lxml.de/))
+  - [ElementTree](../people/ElementTree) - the [xml.etree](http://docs.python.org/library/xml.etree.elementtree.html) package (new in Python 2.5 but available for older versions, also see the fast xml.etree.cElementTree and the independent implementation [lxml](http://lxml.de/))
 - event-driven XML parsers:
-  - [ElementTree](ElementTree)\'s [iterparse()](http://docs.python.org/library/xml.etree.elementtree.html#xml.etree.ElementTree.iterparse) - a fast and easy-to-use event-driven parser with a high-level XML tree interface
+  - [ElementTree](../people/ElementTree)\'s [iterparse()](http://docs.python.org/library/xml.etree.elementtree.html#xml.etree.ElementTree.iterparse) - a fast and easy-to-use event-driven parser with a high-level XML tree interface
 
   - pyexpat - a fast, low-level XML parser with an event-based callback interface
 
   - [Sax](Sax) - the xml.sax package, a Python implementation of the well-known low-level SAX API
 - XML tree libraries that adhere to the W3C DOM standard:
-  - [MiniDom](MiniDom) - the xml.dom.minidom package
+  - [MiniDom](../people/MiniDom) - the xml.dom.minidom package
 
-  - [PullDom](PullDom) - the xml.dom.pulldom package
+  - [PullDom](../people/PullDom) - the xml.dom.pulldom package
 
-The DOM and SAX packages have the advantage of being compatible with standard or de facto standard APIs, so users who are already familiar with these APIs can use them without learning too many new things. Everyone else should start with the faster and more pythonic [ElementTree](ElementTree) library, which is very well integrated into the Python language, and therefore very easy to learn and use.
+The DOM and SAX packages have the advantage of being compatible with standard or de facto standard APIs, so users who are already familiar with these APIs can use them without learning too many new things. Everyone else should start with the faster and more pythonic [ElementTree](../people/ElementTree) library, which is very well integrated into the Python language, and therefore very easy to learn and use.
 
 ## External packages 
 
@@ -35,7 +35,7 @@ A long list of special purpose and general purpose Python XML packages is availa
 
 ### Pythonic tools 
 
-- [lxml](http://lxml.de/) - a pythonic, [ElementTree](ElementTree)-compatible binding for the [libxml2](http://xmlsoft.org/) and [libxslt](http://xmlsoft.org/XSLT/) libraries that comes with all sorts of powerful XML (and HTML) tools, well integrated into an easy-to-use Python API
+- [lxml](http://lxml.de/) - a pythonic, [ElementTree](../people/ElementTree)-compatible binding for the [libxml2](http://xmlsoft.org/) and [libxslt](http://xmlsoft.org/XSLT/) libraries that comes with all sorts of powerful XML (and HTML) tools, well integrated into an easy-to-use Python API
 
 - [lxml.objectify](http://lxml.de/objectify.html) - a Python object API for XML based on lxml
 
@@ -51,7 +51,7 @@ A long list of special purpose and general purpose Python XML packages is availa
 
 - [PyXML](http://sourceforge.net/projects/pyxml/) - external add-on to Python\'s original XML support - (Warning: no longer maintained, does not work with recent Python versions)
 
-- [itools.xml](http://www.ikaaro.org/itools/) - itools provides XML processing support in a fashion similar to that of [PullDom](PullDom)
+- [itools.xml](http://www.ikaaro.org/itools/) - itools provides XML processing support in a fashion similar to that of [PullDom](../people/PullDom)
 
 - [libxml2dom](http://www.python.org/pypi/libxml2dom) - PyXML-style API for the libxml2 Python bindings
 
@@ -93,11 +93,11 @@ If not mentioned otherwise, this means XSLT 1.0, not XSLT 2.0.
 
 ### Web Services 
 
-- [XmlRpc](XmlRpc)
+- [XmlRpc](../networking/XmlRpc)
 
   - [DocXmlRpcServer](DocXmlRpcServer)
 
-- see [WebServices](WebServices)
+- see [WebServices](../people/WebServices)
 
 ### Object Serialization in XML 
 
@@ -105,7 +105,7 @@ If not mentioned otherwise, this means XSLT 1.0, not XSLT 2.0.
 
 ## Books and Articles 
 
-- [XmlBooks](XmlBooks)
+- [XmlBooks](../people/XmlBooks)
 
 - [Tutorials on XML processing with Python](Tutorials on XML processing with Python)
 

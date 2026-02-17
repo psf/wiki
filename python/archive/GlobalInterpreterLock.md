@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 In CPython, the **global interpreter lock**, or **GIL**, is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once. The GIL prevents race conditions and ensures thread safety. A nice explanation of [how the Python GIL helps in these areas can be found here](https://python.land/python-concurrency/the-python-gil). In short, this mutex is necessary mainly because CPython\'s memory management is not thread-safe.
 
-In hindsight, the GIL is not ideal, since it prevents multithreaded CPython programs from taking full advantage of multiprocessor systems in certain situations. Luckily, many potentially blocking or long-running operations, such as I/O, image processing, and [NumPy](NumPy) number crunching, happen *outside* the GIL. Therefore it is only in multithreaded programs that spend a lot of time inside the GIL, interpreting CPython bytecode, that the GIL becomes a bottleneck.
+In hindsight, the GIL is not ideal, since it prevents multithreaded CPython programs from taking full advantage of multiprocessor systems in certain situations. Luckily, many potentially blocking or long-running operations, such as I/O, image processing, and [NumPy](../science/NumPy) number crunching, happen *outside* the GIL. Therefore it is only in multithreaded programs that spend a lot of time inside the GIL, interpreting CPython bytecode, that the GIL becomes a bottleneck.
 
 Unfortunately, since the GIL exists, other features have grown to depend on the guarantees that it enforces. This makes it hard to remove the GIL without breaking many official and unofficial Python packages and modules.
 
@@ -18,9 +18,9 @@ CPython extensions must be GIL-aware in order to avoid defeating threads. For an
 
 ## Non-CPython implementations 
 
-- [Jython](Jython) and [IronPython](IronPython) have no GIL and can fully exploit multiprocessor systems
+- [Jython](Jython) and [IronPython](../implementations/IronPython) have no GIL and can fully exploit multiprocessor systems
 
-- [PyPy](PyPy) currently has a GIL like CPython
+- [PyPy](../implementations/PyPy) currently has a GIL like CPython
 
 - in Cython the GIL exists, but can be released temporarily using a \"with\" statement
 
@@ -53,7 +53,7 @@ Getting rid of the GIL is an occasional topic on the python-dev mailing list. No
 - **Ordered destruction** (nice to have?). Barring cycles, Python currently always destroys an unreachable object *X* before destroying any other objects referenced by *X*. This means all the object\'s attributes are still there when `__del__`{.backtick} runs. (Many garbage collection schemes don\'t guarantee this.)
 
   - I\'d say this is necessary for Python. There\'s very little you can usefully do with a half-destroyed object. That which you can do, you could also do without being exposed to half-destroyed objects. \--Rhamphoryncus
-    - The [language reference](http://docs.python.org/ref/customization.html) doesn\'t require this. I doubt Jython or [IronPython](IronPython) provides it. \--jorendorff
+    - The [language reference](http://docs.python.org/ref/customization.html) doesn\'t require this. I doubt Jython or [IronPython](../implementations/IronPython) provides it. \--jorendorff
 
       - They seem deliberately vague. Java distinguishes finalized from non-finalized objects, and a single finalizer is ordered with regard to non-finalized objects. The catch is that it\'s not ordered with regard to other finalizers, so you need to program as if they may already be deleted. In practise this means avoiding finalizers unless absolutely necessary, and if necessary they must not depend on each other.
 
@@ -81,7 +81,7 @@ Another issue in this area is that existing C extensions depend on the GIL guara
 
 - [message on 2009-10-25 by Antoine Pitrou](http://mail.python.org/pipermail/python-dev/2009-October/093321.html): Reworking the GIL (for 3.2)
 
-- [Understanding the Python GIL](http://www.dabeaz.com/GIL/): David Beazley at [PyCon](PyCon) 2010
+- [Understanding the Python GIL](http://www.dabeaz.com/GIL/): David Beazley at [PyCon](../conferences/pycon/PyCon) 2010
 
 - [issue #7753](http://bugs.python.org/issue7753): Backport to 2.7 *(rejected)*
 

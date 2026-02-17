@@ -12,7 +12,7 @@ A pair of classes to provide points and rectangles.
 
 Surprisingly, I haven\'t been able to find a single Python module providing such primitive support.
 
-[WxPython](WxPython) supports wxPoint and wxRect, but it lacks many basic functions (such as, say, adding two points together to produce a third point..!) (See: [wxPyWiki:wx.Rect](http://wiki.wxpython.org/index.cgi/wx_2eRect))
+[WxPython](../gui/WxPython) supports wxPoint and wxRect, but it lacks many basic functions (such as, say, adding two points together to produce a third point..!) (See: [wxPyWiki:wx.Rect](http://wiki.wxpython.org/index.cgi/wx_2eRect))
 
 This code is lacking a zillion essential features (but interpoint distance can now be calculated). I only put in the ones I needed immediately. Please add, refactor, optimize, rename stuff to be more standard, etc., as you see fit..!
 

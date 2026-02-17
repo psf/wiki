@@ -24,7 +24,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Steve Waterbury
 
-- [IanBicking](IanBicking)
+- [IanBicking](../people/IanBicking)
 
 (Hmm, how does this list relate to [PyCoreSprint](PyCoreSprint)?)
 

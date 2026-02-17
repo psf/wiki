@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Jython examples using Java XML classes 
 
-[DocumentationAndEducation](DocumentationAndEducation)
+[DocumentationAndEducation](../getting-started/DocumentationAndEducation)
 
 ------------------------------------------------------------------------
 

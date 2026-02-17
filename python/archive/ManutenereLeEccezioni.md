@@ -117,9 +117,9 @@ Tuttavia in origine era:
 
 Alcune indicano che \"except\" catturano piu di un semplice \"except Exception, e.\"
 
-Perchè è questo il caso??.Qual è la differenza? *\--[LionKimbro](LionKimbro).*
+Perchè è questo il caso??.Qual è la differenza? *\--[LionKimbro](../people/LionKimbro).*
 
-Per ora ( nella ver. 2.3) l\'eccezionempm ha ereditato da Exception. Allora pianifichiamo \'except:\' catturiamo tutte le eccezioni,non solo quelle di sistema. \-- [MikeRovner](MikeRovner) 2004-01-19 05:49:19
+Per ora ( nella ver. 2.3) l\'eccezionempm ha ereditato da Exception. Allora pianifichiamo \'except:\' catturiamo tutte le eccezioni,non solo quelle di sistema. \-- [MikeRovner](../people/MikeRovner) 2004-01-19 05:49:19
 
 ## Prendiamo utili Informazioni da una eccezione 
 

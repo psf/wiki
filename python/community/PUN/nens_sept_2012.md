@@ -22,7 +22,7 @@ See also [http://lanyrd.com/2012/dutch-python-meeting/](http://lanyrd.com/2012/d
 
 - ` 5 min -`{.backtick} [(Really) naive data mining](https://speakerdeck.com/u/joelcox/p/really-naive-data-mining), Joël Cox
 
-- ` 5 min -`{.backtick} \"Requests\" library for easy json api access + testing dikes, [ReinoutVanRees](ReinoutVanRees)
+- ` 5 min -`{.backtick} \"Requests\" library for easy json api access + testing dikes, [ReinoutVanRees](../../archive/ReinoutVanRees)
 
 - break
 

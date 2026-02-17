@@ -115,7 +115,7 @@ Let us look at the third line in more detail:
 
     pyrcc4 simple.qrc > qrc_simple.py
 
-This command needs to be executed in the directory with subdirectories **select_tango, help** and, of course, file simple.qrc. For the record, I am using Python 2.6.6, Qt 4.7.0, [PyQt](PyQt) 4.7.4 binaries from ubuntu 10.10 repositories. As the development proceeds in an astounding pace, all these may change and occasional incompatibility with earlier versions can not be completely ruled out.
+This command needs to be executed in the directory with subdirectories **select_tango, help** and, of course, file simple.qrc. For the record, I am using Python 2.6.6, Qt 4.7.0, [PyQt]() 4.7.4 binaries from ubuntu 10.10 repositories. As the development proceeds in an astounding pace, all these may change and occasional incompatibility with earlier versions can not be completely ruled out.
 
 What this last command achieves has a humorous shading: a human readable **simple.qrc** is converted to a computer readable **qrc_simple.py**. Obviously, what is computer readable, is not human readable and vice versa\...
 

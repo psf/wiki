@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Embedding Jython 
 
-[JythonFaq](JythonFaq)
+[JythonFaq]()
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ There are several ways to do that. The best way depends on the needs of your app
 
 ### Using PythonInterpreter in Factories to instantiate python classes 
 
-- [Simple and Efficient Jython Object Factories](http://wiki.python.org/jython/JythonMonthly/Articles/October2006/3) from [CharlieGroves](CharlieGroves)
+- [Simple and Efficient Jython Object Factories](http://wiki.python.org/jython/JythonMonthly/Articles/October2006/3) from [CharlieGroves](../../people/CharlieGroves)
 
 - [Object Factories](http://www.jython.org/jythonbook/en/1.0/JythonAndJavaIntegration.html#using-jython-within-java-applications) from Jython Book v1.0
 
@@ -26,7 +26,7 @@ There are several ways to do that. The best way depends on the needs of your app
 
 Compile the python class into a real java class using the jythonc command. This real java can be used and instances can be created from your application.
 
-**Note: It is no longer recommended that jythonc be used, see [ReplaceJythonc](ReplaceJythonc)**
+**Note: It is no longer recommended that jythonc be used, see [ReplaceJythonc](../../internals/ReplaceJythonc)**
 
 Create a python module (say Foo.py) and make a class with the same name as the python module. The class must inherit from a java class or interface. If you don\'t need a particular java superclass, just use java.lang.Object.
 

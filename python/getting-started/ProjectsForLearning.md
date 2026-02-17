@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Suggested Projects for Learning Python 
 
-Programming for many is a means not an end. Here are collected possible projects for those new to programming, with some indicator of difficulty, and for which it is known that the building blocks exist in the [LearningRepertoire](LearningRepertoire). These should be concrete problems, not abstract ones.
+Programming for many is a means not an end. Here are collected possible projects for those new to programming, with some indicator of difficulty, and for which it is known that the building blocks exist in the [LearningRepertoire](../people/LearningRepertoire). These should be concrete problems, not abstract ones.
 
 (these ideas need work)
 

@@ -55,9 +55,9 @@ Twisted provides an interface to any Python DB-API 2.0 compliant database throug
 
 Twisted Enterprise integrates with Twisted Web and other Twisted services, making it easy to generate dynamic content from an enterprise data source of any variety.
 
-The best supported database at the moment, because we here at Twisted Matrix Labs like it the best, is [PostgreSQL](PostgreSQL).
+The best supported database at the moment, because we here at Twisted Matrix Labs like it the best, is [PostgreSQL](../database/PostgreSQL).
 
-- \-- [InTheirOwnWords](InTheirOwnWords)
+- \-- [InTheirOwnWords](../archive/InTheirOwnWords)
 
 ### Presentation Support 
 

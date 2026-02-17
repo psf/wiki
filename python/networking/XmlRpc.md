@@ -31,7 +31,7 @@ You can [read more about it over on C2,](http://c2.com/cgi/wiki?XmlRpc "Wiki") o
 :::
 ::::
 
-This code calls the [PythonInfo](PythonInfo) wiki, and receives the [TitleIndex](TitleIndex) as a list.
+This code calls the [PythonInfo](../archive/PythonInfo) wiki, and receives the [TitleIndex](TitleIndex) as a list.
 
 ## Message Format 
 
@@ -113,6 +113,6 @@ The capabilities are described under \"Convenience Functions\" in [the xmlrpclib
 
 - [XML-RPC: It Works Both Ways (onlamp.com)](http://www.onlamp.com/pub/a/python/2001/01/17/xmlrpcserver.html)
 
-- [DocXmlRpcServer](DocXmlRpcServer) - class to help make an XML-RPC server
+- [DocXmlRpcServer](../archive/DocXmlRpcServer) - class to help make an XML-RPC server
 
 - [Providing XML-RPC Services via CGI](http://effbot.org/zone/xmlrpc-cgi.htm)

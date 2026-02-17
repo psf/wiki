@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Andrew Elgert 
 
-Pythonista and founder of [PyRVA](RichmondPythonUserGroup).
+Pythonista and founder of [PyRVA](../archive/RichmondPythonUserGroup).
 
 Email: `<andrew DOT elgert AT SPAMFREE gmail DOT com>`
 

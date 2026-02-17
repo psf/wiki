@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-The [Columbus Public Library](http://www.columbuslibrary.org/) has been selected as the venue for [PyOhio](PyOhio) 2008.
+The [Columbus Public Library](http://www.columbuslibrary.org/) has been selected as the venue for [PyOhio](../PyOhio) 2008.
 
 Parking in the attached garage costs \$4 / day; consider carpooling or using public transportation, as well.
 
-The following notes are being left here for future use (planning [PyOhio](PyOhio) 2009, for example.)
+The following notes are being left here for future use (planning [PyOhio](../PyOhio) 2009, for example.)
 
 # Venue Considerations 
 
@@ -18,7 +18,7 @@ The following notes are being left here for future use (planning [PyOhio](PyOhio
 
 - A single room or area big enough to hold everyone for a [plenary session](../PyOhio/Schedule) or two.
 
-  - (Is a plenary session mandatory? - [CatherineDevlin](CatherineDevlin))
+  - (Is a plenary session mandatory? - [CatherineDevlin](../../../people/CatherineDevlin))
 
 - Space to break up into 2 concurrent talks of \~50 attendees each, plus 2 Open Space groups of \~ 20 each
 

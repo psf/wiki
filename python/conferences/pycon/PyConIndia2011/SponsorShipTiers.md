@@ -8,15 +8,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PYCON-INDIA 2011 SPONSORSHIP TIERS 
 
-The Indian Python Software Society(IPSS) and the [PyCon](PyCon)-India organizing committee are happy to announce the third [PyCon](PyCon) India. The conference will be held around September 2011 in Pune. The exact dates and venue are yet to be confirmed.
+The Indian Python Software Society(IPSS) and the [PyCon](../PyCon)-India organizing committee are happy to announce the third [PyCon](../PyCon) India. The conference will be held around September 2011 in Pune. The exact dates and venue are yet to be confirmed.
 
-Your sponsorship helps keep [PyCon](PyCon)-India affordable and accessible to the widest possible audience. The conference is the largest Python Software developers conference in India.
+Your sponsorship helps keep [PyCon](../PyCon)-India affordable and accessible to the widest possible audience. The conference is the largest Python Software developers conference in India.
 
 ## ABOUT IPSS 
 
 IPSS is a non-profit organization established in 2010, to promote the use of Python programming language and conducting the annual conference.
 
-[PyCon](PyCon) India 2011 will bring together Python developers and enthusiasts of various backgrounds. The organizers and the IPSS rely on corporate sponsors to make the event happen year after year, turning the conference into a big success. By sponsoring the conference your organization will be better connected to the Indian Python community.
+[PyCon](../PyCon) India 2011 will bring together Python developers and enthusiasts of various backgrounds. The organizers and the IPSS rely on corporate sponsors to make the event happen year after year, turning the conference into a big success. By sponsoring the conference your organization will be better connected to the Indian Python community.
 
 The tiers and benefits are listed below. For more details, please contact: \* Name: Noufal Ibrahim \* Email: [contact@in.pycon.org](mailto:contact@in.pycon.org) \* Phone: +919880240460
 

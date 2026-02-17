@@ -56,7 +56,7 @@ Participants:
 
 If you don\'t sign up, you can still come and participate. The sign up is to give us an idea who will be there.
 
-[ChrisMcDonough](ChrisMcDonough) says
+[ChrisMcDonough](../archive/ChrisMcDonough) says
 
 ------------------------------------------------------------------------
 

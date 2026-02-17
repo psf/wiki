@@ -17,15 +17,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ---------- ---------------------------------------------------------
 :::
 
-I\'m lucky enough to spend a fair amount of my time at work coding in Python, as well as the majority of my home/hobby time. I\'m working on a game with my seven-year-old daughter using [PyGame](PyGame) and I participate in the [Edu-Sig](http://mail.python.org/mailman/listinfo/edu-sig) mailing list. Currently I\'m exploring the use of PyObjC to wrap some of the work I\'m doing on [data-level collaboration](http://www.svgopen.org/2003/papers/SVGAndCollaborativeWeb/). I\'ve been working extensively with XML since it was called SGML-Web and with Python for the past several years.
+I\'m lucky enough to spend a fair amount of my time at work coding in Python, as well as the majority of my home/hobby time. I\'m working on a game with my seven-year-old daughter using [PyGame](../multimedia/PyGame) and I participate in the [Edu-Sig](http://mail.python.org/mailman/listinfo/edu-sig) mailing list. Currently I\'m exploring the use of PyObjC to wrap some of the work I\'m doing on [data-level collaboration](http://www.svgopen.org/2003/papers/SVGAndCollaborativeWeb/). I\'ve been working extensively with XML since it was called SGML-Web and with Python for the past several years.
 
 ------------------------------------------------------------------------
 
-Non-work projects I\'ve been working on, most of which will be using PyObjC and/or [PyGame](PyGame):
+Non-work projects I\'ve been working on, most of which will be using PyObjC and/or [PyGame](../multimedia/PyGame):
 
 - Quick-fix to \[Pathological\] so multiple logins share high-scores. My kids really love this game (so do I)
 
-- Game framework in [PyGame](PyGame) to make it easier and faster to develop games, including:
+- Game framework in [PyGame](../multimedia/PyGame) to make it easier and faster to develop games, including:
 
   - [FayRay](./FayRay.html), a map-based fairy game with my 7 year-old daughter contributing graphics and game design
 
@@ -41,7 +41,7 @@ Non-work projects I\'ve been working on, most of which will be using PyObjC and/
 
 - Port \[VPython\] to OS X natively (not using X Windows)
 
-- I contribute occasionally to [reStructuredText](reStructuredText)
+- I contribute occasionally to [reStructuredText](../archive/reStructuredText)
 
 - VPython explorations to visual geometry for kids (fun for grownups too)
 

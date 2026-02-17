@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-For much of the 1990s, the International Python Conference was held annually in the U.S, organized by a professional conference management firm (Foretec, a commercial subsidiary of nonprofit CNRI). The conferences were quite expensive yet reportedly lost money, so eventually Foretec stopped holding the conferences. The IPC conferences have been replaced by the volunteer-run [PyCon](PyCon); the O\'Reilly Open Source Conference also has Python-related content. European conferences have formed, notably [EuroPython](EuroPython) and [PythonUK](./PythonUK.html).
+For much of the 1990s, the International Python Conference was held annually in the U.S, organized by a professional conference management firm (Foretec, a commercial subsidiary of nonprofit CNRI). The conferences were quite expensive yet reportedly lost money, so eventually Foretec stopped holding the conferences. The IPC conferences have been replaced by the volunteer-run [PyCon](../conferences/pycon/PyCon); the O\'Reilly Open Source Conference also has Python-related content. European conferences have formed, notably [EuroPython](../conferences/europython/EuroPython) and [PythonUK](./PythonUK.html).
 
 # Past conferences 
 
@@ -32,4 +32,4 @@ All earlier workshops are also found here: [http://legacy.python.org/workshops/]
 
 See also [http://ftp.ntua.gr/mirror/python/workshops/](http://ftp.ntua.gr/mirror/python/workshops/) for a few more links.
 
-In 2003 the community started afresh with the [PyCon](PyCon) series; the first one was at GW University in Washington, DC in 2003, and these have been held once a year ever since. The Python track at OSCON has continued to use the name and numbering of International Python Conferences. Also, [EuroPython](EuroPython) started in 2002 in Charleroi, Belgium.
+In 2003 the community started afresh with the [PyCon](../conferences/pycon/PyCon) series; the first one was at GW University in Washington, DC in 2003, and these have been held once a year ever since. The Python track at OSCON has continued to use the name and numbering of International Python Conferences. Also, [EuroPython](../conferences/europython/EuroPython) started in 2002 in Charleroi, Belgium.

@@ -24,7 +24,7 @@ You should probably register by July 20th or so - no registration deadline has y
 
 ## Dates 
 
-This sprint will happen during the [EuroPython](EuroPython) weekend: Saturday & Sunday July 25 & 26, online.
+This sprint will happen during the [EuroPython](../EuroPython) weekend: Saturday & Sunday July 25 & 26, online.
 
 ## Participants 
 

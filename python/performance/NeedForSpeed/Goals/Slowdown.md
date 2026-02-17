@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[FredrikLundh](FredrikLundh): The main culprit seems to be try/except. We see the same slowdown both on Intel (Windows XP, Linux) and on PowerPC, using both stock builds and local builds.
+[FredrikLundh](../../../people/FredrikLundh): The main culprit seems to be try/except. We see the same slowdown both on Intel (Windows XP, Linux) and on PowerPC, using both stock builds and local builds.
 
 To compare, use
 
@@ -71,7 +71,7 @@ Here\'s what I get (Windows XP, Core Duo, using Tools/pybench from a Python 2.5 
     ------------------------------------------------------------------------
                 Average round time:    3843.92 ms               +5.07%
 
-Here\'s what [SeanReifschneider](SeanReifschneider) gets comparing 2.4.3 to 2.5a2 on a Fedora Core 5 system running on a Dual Xeon 3.2:
+Here\'s what [SeanReifschneider](../../../people/SeanReifschneider) gets comparing 2.4.3 to 2.5a2 on a Fedora Core 5 system running on a Dual Xeon 3.2:
 
     Tests:                              per run    per oper.    diff *)
     ------------------------------------------------------------------------

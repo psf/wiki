@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Where: Vilnius, Lithuania
 
-- When: after [EuroPython](EuroPython), 12-14 july
+- When: after [EuroPython](../EuroPython), 12-14 july
 
 - Organizer: Kristján Valur Jónsson \<[kristjan@ccpgames.com](mailto:kristjan@ccpgames.com)\>
 

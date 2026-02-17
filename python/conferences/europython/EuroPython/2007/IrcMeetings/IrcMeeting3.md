@@ -34,4 +34,4 @@ Some more things worth covering, perhaps:
 
 - Sponsorship: is it time to seek sponsors? Consider also Web site banners and other materials.
 
-- On discounts and pricing: comparisons with [RuPy](http://rupy.wmid.amu.edu.pl) might be drawn, but I suppose that their 15 EUR student price (and 95 EUR regular price) takes advantage of certain venue factors and other things. That conference also only has two tracks (one Python) over two days (10 hours programme length; 20 \"track hours\") vs. 3 to 4 tracks over three days for [EuroPython](EuroPython) 2006 (over 22 hours programme length; over 63 \"track hours\" including keynotes and lightning talks).
+- On discounts and pricing: comparisons with [RuPy](http://rupy.wmid.amu.edu.pl) might be drawn, but I suppose that their 15 EUR student price (and 95 EUR regular price) takes advantage of certain venue factors and other things. That conference also only has two tracks (one Python) over two days (10 hours programme length; 20 \"track hours\") vs. 3 to 4 tracks over three days for [EuroPython](../..) 2006 (over 22 hours programme length; over 63 \"track hours\" including keynotes and lightning talks).

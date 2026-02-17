@@ -32,7 +32,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 If half as much time goes into organizing as goes into developing and choosing a logo this is going to be one heck of a conference ![;-)](/wiki/europython/img/smile4.png ";-)") Bear in mind, though, that it isn\'t the logo that gets people to come back, but the conference content.
 
-It\'s great to see that the Indian community is moving forward with such gusto. Please let the PSF Board know if you need any assistance. One of my goals as chairman is to encourage Python development globally. I hope that one day soon I will be able to visit India and meet the many people who are investing their time in developing the Indian Python community. *[SteveHolden](SteveHolden)*
+It\'s great to see that the Indian community is moving forward with such gusto. Please let the PSF Board know if you need any assistance. One of my goals as chairman is to encourage Python development globally. I hope that one day soon I will be able to visit India and meet the many people who are investing their time in developing the Indian Python community. *[SteveHolden](../../people/SteveHolden)*
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ It\'s great to see that the Indian community is moving forward with such gusto. 
 
       **Votes:**
 
-    - [SteveHolden](SteveHolden)
+    - [SteveHolden](../../people/SteveHolden)
 
     - AnandBPillai
 
@@ -64,22 +64,22 @@ It\'s great to see that the Indian community is moving forward with such gusto. 
 
     - Praveen
 
-4.  Logo Design by [NoufalIbrahim](NoufalIbrahim)
+4.  Logo Design by [NoufalIbrahim](../../people/NoufalIbrahim)
 
     - ![NoufalIbrahim.png](attachments/PyConIndiaLogos/NoufalIbrahim.png "NoufalIbrahim.png")
 
       **Votes:**
 
-    - [DavidGoodger](DavidGoodger) ([PyCon](PyCon) US 2008 & 2009 chair): I like the lettering; it could go well with #1 above too. I recommend removing the black outline around the Python logo though.
+    - [DavidGoodger](../../people/DavidGoodger) ([PyCon](PyCon) US 2008 & 2009 chair): I like the lettering; it could go well with #1 above too. I recommend removing the black outline around the Python logo though.
 
-    - [svaksha](svaksha) : loved the lettering, very indian-ish and yet simple ![:)](/wiki/europython/img/smile.png ":)")
+    - [svaksha](../../archive/svaksha) : loved the lettering, very indian-ish and yet simple ![:)](/wiki/europython/img/smile.png ":)")
 
 5.  Logo Design#1 from Smriti
     - ![Smriti01.jpg](attachments/PyConIndiaLogos/Smriti01.jpg "Smriti01.jpg")
 
       **Votes:**
 
-      **Note:** Be careful about modifying the shape of Python logo (including removing/obscuring a part as above, or separating the parts like #7 & #8 below). The old [trademark policy](http://www.python.org/psf/trademarks/) may be helpful, if complicated. The Trademark Committee (psf-trademarks at python.org) should be consulted on modifications to the logo. Changing the colours is typically fine, as long as the shape is unaltered. \-- *[DavidGoodger](DavidGoodger)*
+      **Note:** Be careful about modifying the shape of Python logo (including removing/obscuring a part as above, or separating the parts like #7 & #8 below). The old [trademark policy](http://www.python.org/psf/trademarks/) may be helpful, if complicated. The Trademark Committee (psf-trademarks at python.org) should be consulted on modifications to the logo. Changing the colours is typically fine, as long as the shape is unaltered. \-- *[DavidGoodger](../../people/DavidGoodger)*
 
 6.  Logo Design#2 from Smriti
     - ![Smriti02.jpg](attachments/PyConIndiaLogos/Smriti02.jpg "Smriti02.jpg")
@@ -98,7 +98,7 @@ It\'s great to see that the Indian community is moving forward with such gusto. 
 
       **Votes:**
 
-    - [NoufalIbrahim](NoufalIbrahim)
+    - [NoufalIbrahim](../../people/NoufalIbrahim)
 
     - Amal
 
@@ -114,7 +114,7 @@ It\'s great to see that the Indian community is moving forward with such gusto. 
 
       **Votes:**
 
-    - [NoufalIbrahim](NoufalIbrahim)
+    - [NoufalIbrahim](../../people/NoufalIbrahim)
 
     - Ram Kumar Hariharan
 
@@ -172,7 +172,7 @@ Author\'s note : The lotus inside the logo which represents the national flower 
 
 - [SenthilKumaran](./SenthilKumaran.html)
 
-- [SteveHolden](SteveHolden)
+- [SteveHolden](../../people/SteveHolden)
 
 - [BharathKeshav](./BharathKeshav.html)
 

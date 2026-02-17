@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-A framework for [WebProgramming](WebProgramming).
+A framework for [WebProgramming](../web/WebProgramming).
 
 ### What It Is 
 
@@ -67,9 +67,9 @@ The requirement for Web server adapter integration, or the running of a standalo
 
 ### Persistence Support 
 
-- SkunkWeb includes the [PyDO](PyDO) object-relational mapper.
+- SkunkWeb includes the [PyDO](../archive/PyDO) object-relational mapper.
 
-- Database connections for [PostgreSQL](PostgreSQL), [MySQL](MySQL), [Oracle](Oracle) and [Firebird](Firebird) can be cached (not pooled).
+- Database connections for [PostgreSQL](../database/PostgreSQL), [MySQL](../database/MySQL), [Oracle](../database/Oracle) and [Firebird](../archive/Firebird) can be cached (not pooled).
 
 - SkunkWeb has a well-considered and high-performance caching system that is easily controllable on a per-component basis.
 
@@ -77,7 +77,7 @@ The requirement for Web server adapter integration, or the running of a standalo
 
 - [STML](./STML.html) - a template language which uses special tags in order to control the final Web page output, and calls components written in Python or [STML](./STML.html) that can either write output or return Python data. Top-level documents can also be written in Python.
 
-- Python Server Pages - a [PythonInWebPage](PythonInWebPage) presentation technology supplied with SkunkWeb (as of version 3.3)
+- Python Server Pages - a [PythonInWebPage](../archive/PythonInWebPage) presentation technology supplied with SkunkWeb (as of version 3.3)
 
 - Python - in lieu of a templating language, straight Python can be used.
 
@@ -87,4 +87,4 @@ The SkunkWeb archive package contains formatted documentation (HTML, [PostScript
 
 The SkunkWeb developers emphasise performance and give caching, process forking and template precompilation as features which differentiate SkunkWeb from other frameworks and application servers; internationalisation using message catalogues is another feature which other frameworks do not provide or emphasise highly. Unlike many Python-based frameworks, Until version 3.4b3, SkunkWeb was licensed solely under the GPL, at which some in the community caviled; it is now also available under a BSD-style license.
 
-- \-- [PaulBoddie](PaulBoddie) (with some additions [InTheirOwnWords](InTheirOwnWords))
+- \-- [PaulBoddie](PaulBoddie) (with some additions [InTheirOwnWords](../archive/InTheirOwnWords))

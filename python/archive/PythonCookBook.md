@@ -12,10 +12,10 @@ PythonCookBook is a catalog of howtos in Python.
 
 [PythonXml](PythonXml)
 
-[Generators](Generators) \-- very basic generator discussion
+[Generators](../language/Generators) \-- very basic generator discussion
 
-[Decorators](Decorators) \-- fun/abuse with decorators
+[Decorators](../language/Decorators) \-- fun/abuse with decorators
 
-[TestingCgiScripts](TestingCgiScripts)
+[TestingCgiScripts](../testing/TestingCgiScripts)
 
 [FutureProofPython](FutureProofPython)

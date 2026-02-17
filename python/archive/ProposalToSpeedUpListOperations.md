@@ -63,7 +63,7 @@ The patch does not break the public interface for third party extensions.
 
 ## Implementation 
 
-[SteveHowell](SteveHowell) submitted the first draft of a fix, which you can find here.
+[SteveHowell](../people/SteveHowell) submitted the first draft of a fix, which you can find here.
 
 [http://codereview.appspot.com/194083/show](http://codereview.appspot.com/194083/show)
 

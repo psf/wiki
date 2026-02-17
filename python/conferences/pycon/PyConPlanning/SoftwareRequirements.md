@@ -38,7 +38,7 @@ Collects requirements for the conference software.
 
 ## Registration 
 
-- Must able to produce a list of attendees, showing attendee name, T-shirt size, food preferences if any, include in delegate listing Y/N, permission to e-mail about [PyCon](PyCon) Y/N, paid/unpaid Y/N, certain special flags (e.g. speaker/session/chair) so we can hand them the right swag bag and info.
+- Must able to produce a list of attendees, showing attendee name, T-shirt size, food preferences if any, include in delegate listing Y/N, permission to e-mail about [PyCon](../PyCon) Y/N, paid/unpaid Y/N, certain special flags (e.g. speaker/session/chair) so we can hand them the right swag bag and info.
 
 - Can charge the user\'s credit card for the appropriate amount. Or attendees can be marked as \'unpaid\', and they must then mail a cheque to the PSF.
 
@@ -82,7 +82,7 @@ Collects requirements for the conference software.
 - multiple types of \'pins\' (different colors, shapes):
   - Person
 
-  - Sponsor of [PyCon](PyCon)
+  - Sponsor of [PyCon](../PyCon)
 
   - Corporation (employer of engineers with python experience)
 

@@ -64,7 +64,7 @@ The \"out of the box\" single server option makes Zope attractive for developers
 
 - Object-oriented, servlet-like - external methods and Zope Products expose request and response objects to Python components.
 
-- [BoaConstructor](BoaConstructor) is an IDE which integrates well with Zope, allowing editing of presentation and logic files from within the same environment.
+- [BoaConstructor](../people/BoaConstructor) is an IDE which integrates well with Zope, allowing editing of presentation and logic files from within the same environment.
 
 - [WingIde](WingIde) provides support for developing and debugging Zope applications.
 
@@ -90,21 +90,21 @@ The \"out of the box\" single server option makes Zope attractive for developers
 
 ### Presentation Support 
 
-- DTML - Zope\'s original [StructureAnnotation](StructureAnnotation) presentation technology which provides additional special tags for use in HTML or other textual resources.
+- DTML - Zope\'s original [StructureAnnotation](../language/StructureAnnotation) presentation technology which provides additional special tags for use in HTML or other textual resources.
 
-- ZPT (Zope Page Templates) - a [StructureAnnotation](StructureAnnotation) presentation technology which specifies HTML/XML attributes for use with HTML/XML-based documents and allows Python expressions and references to be embedded.
+- ZPT (Zope Page Templates) - a [StructureAnnotation](../language/StructureAnnotation) presentation technology which specifies HTML/XML attributes for use with HTML/XML-based documents and allows Python expressions and references to be embedded.
 
 Other presentation systems could presumably be supported in Zope, but from Zope 2.5, the above technologies appear to be \"first class\".
 
 ### Comments 
 
-Zope provides so much support for some activities that certain kinds of applications can be created and configured in very short periods of time, given enough experience of Zope development. Where object persistence is required, for example, Zope applications require little effort to make such mechanisms work, whereas other frameworks (such as [EnterpriseJavaBeans](EnterpriseJavaBeans) container-managed persistence) require a certain amount of administrative overhead (the declaration of each object schema) and may be prone to obscure failure, given the complexity of the integration and configuration of many different systems. \-- [PaulBoddie](PaulBoddie)
+Zope provides so much support for some activities that certain kinds of applications can be created and configured in very short periods of time, given enough experience of Zope development. Where object persistence is required, for example, Zope applications require little effort to make such mechanisms work, whereas other frameworks (such as [EnterpriseJavaBeans](../archive/EnterpriseJavaBeans) container-managed persistence) require a certain amount of administrative overhead (the declaration of each object schema) and may be prone to obscure failure, given the complexity of the integration and configuration of many different systems. \-- [PaulBoddie](../people/PaulBoddie)
 
 Python version should probably mention 2.1.3 (which works well with Zope 2.4.x and 2.5.x), Python versions 2.1.1 and 2.1.2 do not. Python 2.2 is not officially supported for 2.5.x and before (not sure about later versions). \-- Terry Hancock
 
 For Zope 2.7.0, Python 2.3.3 is the preferred release \-- [JeffreyShell](./JeffreyShell.html)
 
-[MythDebunking](MythDebunking): *Zope is hard to learn.*
+[MythDebunking](../people/MythDebunking): *Zope is hard to learn.*
 
 Zope *is* hard to learn. If it\'s the right tool to solve your problem, it\'s arguably worth the pain of learning it because it is extremely powerful. However, as with most web platforms, there is a \"Zope way\" to approach solving any problem with it. The principle of \"expect to throw your first attempt away\" applies strongly with Zope; learn it via smaller examples and projects before tackling anything very substantial. \-- [BenLast](./BenLast.html)
 

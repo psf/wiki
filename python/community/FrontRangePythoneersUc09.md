@@ -58,7 +58,7 @@ The unconference will be an event where everyone is welcome be part of the actua
 
 - Intro to Python or ctypes intro - *Greg Holling*
 
-- Intro to Python or Using [WxPython](WxPython) - *Matt Boersma*
+- Intro to Python or Using [WxPython](../gui/WxPython) - *Matt Boersma*
 
 - Matplotlib, unittesting, and/or some performance - *Nick Verbeck*
 

@@ -10,4 +10,4 @@ SEE:**[Ten things people want to know about Python](Ten things people want to kn
 
 Answer
 
-:   - There are many good IDEs for Python, with standard features like syntax highlighting, intellisense and integrated debugging. See the page on [IntegratedDevelopmentEnvironments](IntegratedDevelopmentEnvironments) for details of some of them.
+:   - There are many good IDEs for Python, with standard features like syntax highlighting, intellisense and integrated debugging. See the page on [IntegratedDevelopmentEnvironments](../editors/IntegratedDevelopmentEnvironments) for details of some of them.

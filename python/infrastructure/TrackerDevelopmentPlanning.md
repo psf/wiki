@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page outlines a plan to improve the Bug Tracker at [http://bugs.python.org](http://bugs.python.org).
 
-See also the [TrackerDevelopment](TrackerDevelopment) page and the [DesiredTrackerFeatures](DesiredTrackerFeatures) pages.
+See also the [TrackerDevelopment](TrackerDevelopment) page and the [DesiredTrackerFeatures](../archive/DesiredTrackerFeatures) pages.
 
 ::::::: 
 ### [Git/GitHub integration](#id1)

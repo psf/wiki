@@ -70,7 +70,7 @@ If you are a Python developer looking for a job, see the list archives for posti
 
 ## Tuesday, May 13, 2014 
 
-- Topic: **[PyCon](PyCon) 2014 Montreal & [PyData](./PyData.html) SV 2014 Recap!**
+- Topic: **[PyCon](../conferences/pycon/PyCon) 2014 Montreal & [PyData](./PyData.html) SV 2014 Recap!**
 
 - [Center for Open Science](http://centerforopenscience.org/), 210 Ridge McIntire Road, Suite 500, Charlottesville, VA 22903
 
@@ -96,7 +96,7 @@ If you are a Python developer looking for a job, see the list archives for posti
 
 ## Thursday, October 17, 2013 
 
-- Topic: Pandas and rapid data visualization with Python by [AndrewMontalenti](AndrewMontalenti)
+- Topic: Pandas and rapid data visualization with Python by [AndrewMontalenti](../people/AndrewMontalenti)
 
 - \~20 attendees
 
@@ -108,7 +108,7 @@ If you are a Python developer looking for a job, see the list archives for posti
 
 - WillowTree Apps, 107 5th Street SE, Suite B; Charlottesville, VA 22902 ([info](http://www.willowtreeapps.com/) \| [where](http://www.willowtreeapps.com/where.png) \| [map](http://maps.google.com/maps?q=107+5th+Street+SE+22902))
 
-- Topic: Charlottesville [PyCon](http://us.pycon.org/2012/) Digest - [PyCon](PyCon) attendees shared conference highlights
+- Topic: Charlottesville [PyCon](http://us.pycon.org/2012/) Digest - [PyCon](../conferences/pycon/PyCon) attendees shared conference highlights
 
 ## Meeting Format through November 2011 
 
@@ -160,7 +160,7 @@ If you are a Python developer looking for a job, see the list archives for posti
 
 - Building APIs in Django: a look at Piston and Tastypie - Thibaud and Matt
 
-- Using [BuildBot](BuildBot) for continuous integration of Flask and its extensions - Ron
+- Using [BuildBot](../infrastructure/BuildBot) for continuous integration of Flask and its extensions - Ron
 
 - Also: A look at search with Haystack (Thibaud) and a sneak peek of [TryFlask](./TryFlask.html) on ep.io (Ron)
 
@@ -202,7 +202,7 @@ If you are a Python developer looking for a job, see the list archives for posti
 
 - OpenSpace, 455 Second Street SE, Suite 100 Charlottesville, VA 22902 ([info](http://getopenspace.com/))
 
-- Topic: Charlottesville [PyCon](http://us.pycon.org/2011/) Digest - [PyCon](PyCon) attendees shared conference highlights and insights through lightning talks followed by an open discussion.
+- Topic: Charlottesville [PyCon](http://us.pycon.org/2011/) Digest - [PyCon](../conferences/pycon/PyCon) attendees shared conference highlights and insights through lightning talks followed by an open discussion.
 
 ## PyCon 2011 
 

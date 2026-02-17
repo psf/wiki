@@ -10,9 +10,9 @@ See:
 
 - [EDU-SIG: Python in Education](http://www.python.org/sigs/edu-sig/) - Python special interest group
 
-- [SchoolsUsingPython](SchoolsUsingPython) - in courses
+- [SchoolsUsingPython](../education/SchoolsUsingPython) - in courses
 
-- [EducationalCd](EducationalCd) and [PythonEducationalDistribution](http://www.seapig.org/PythonEducationalDistribution "SeaPig") projects
+- [EducationalCd](../education/EducationalCd) and [PythonEducationalDistribution](http://www.seapig.org/PythonEducationalDistribution "SeaPig") projects
 
 - [Python Bibliotheca](http://www.ibiblio.org/obp/pyBiblio/) - Python resources for computer science education
 

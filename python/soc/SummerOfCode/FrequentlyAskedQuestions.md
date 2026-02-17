@@ -16,7 +16,7 @@ This page collects some frequently asked questions related to Summer of Code wit
 
     - *Any* open source experience will help you prepare for GSoC, so don\'t worry too much about what project you try first.
 
-    - You can see the list of python sub-orgs who\'ve participated in previous years linked [here](SummerOfCode)
+    - You can see the list of python sub-orgs who\'ve participated in previous years linked [here]()
 
 2.  **Set up your own development environment.** Document what you do so you can remember it later, and so you can help others if they get stuck! And if you get stuck, don\'t be afraid to ask for help.
 
@@ -54,7 +54,7 @@ Choosing a project is a pretty personal choice. You should choose something *you
 
 - **How do you like to communicate?** Do you like realtime communication on IRC? Perhaps you should choose a project with mentors close to you in time zone. Do you like asynchronous communication on mailing lists? Find a group with active lists. Communication is a big part of summer of code (or really any open source development in a team) to finding a team that works the way you want to work can make your summer more awesome.
 
-There\'s a list of sub-orgs for this year and for previous years linked from [SummerOfCode](SummerOfCode). Be aware that all sub orgs might not be able to participate every year, and make sure to check and see if they\'re planning to participate before assuming.
+There\'s a list of sub-orgs for this year and for previous years linked from [SummerOfCode](). Be aware that all sub orgs might not be able to participate every year, and make sure to check and see if they\'re planning to participate before assuming.
 
 **If you\'re chosen as a GSoC student, you\'re going to be expected to make some decisions on your own, so you can make a better first impression on mentors by showing that you\'re able to narrow down your field of choices!**
 
@@ -74,7 +74,7 @@ If you ask \"can I ask a question?\" you\'re basically just waiting for someone 
 
 3.  **Try giving more information.** If you\'ve hit a bug, try to give the error message and information about your setup and information about what you\'ve already tried. If you\'re trying to find a bit of documentation, indicate where you\'ve already looked. And again \"hey, I haven\'t got an answer\... what other information could I provide to help debug this problem?\" is a reasonable follow-up if you\'re not sure what people might need.
 
-4.  **If you\'re really having trouble getting in touch with your mentors, talk to the Python org admins by emailing gsoc-admins(at)python.org** The Python org admins should have contact info for mentors with each project and can help connect you. (Note: please don\'t complain that you can\'t get in touch with us on the general google lists or #gsoc. They\'re just going to redirect you to [TerriOda](TerriOda) anyhow!)
+4.  **If you\'re really having trouble getting in touch with your mentors, talk to the Python org admins by emailing gsoc-admins(at)python.org** The Python org admins should have contact info for mentors with each project and can help connect you. (Note: please don\'t complain that you can\'t get in touch with us on the general google lists or #gsoc. They\'re just going to redirect you to [TerriOda](../../people/TerriOda) anyhow!)
 
 # How should I address my emails (or Why shouldn\'t I start my emails with \"Dear Sir\")? 
 

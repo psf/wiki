@@ -18,11 +18,11 @@ Discuss maintaining \"permanent\" URLs for book writers and external links.
 
 ## Numeric 
 
-Discussion of Numeric and progress on [NumArray](NumArray).
+Discussion of Numeric and progress on [NumArray](../../../people/NumArray).
 
 ## Jython 
 
-At least one person has suggested a complete Jython track, but there has been little response on the main [PyCon](PyCon) page. Doesn\'t anyone care? Where are all the Jythonistas? (see also [PyConJython](PyConJython))
+At least one person has suggested a complete Jython track, but there has been little response on the main [PyCon](../PyCon) page. Doesn\'t anyone care? Where are all the Jythonistas? (see also [PyConJython](../PyConJython))
 
 ## Python Scripting with Excel 
 
@@ -52,7 +52,7 @@ All about networking, distributed programming and more with Twisted. Discuss the
 
 ## Komodo users and lurkers 
 
-David Ascher and Trent Mick (both from [ActiveState](ActiveState)) will be around to talk about [ActiveState](ActiveState)\'s Komodo Integrated Development Environment \-- how it works (lots of Python), what\'s planned for future releases, maybe show off some undocumented macro tricks if people want. If you\'re a fan of Komodo or just someone who\'se curious about, come and say hi. \[Contact: [DavidA@ActiveState.com](mailto:DavidA@ActiveState.com)\]
+David Ascher and Trent Mick (both from [ActiveState](../../../platforms/ActiveState)) will be around to talk about [ActiveState](../../../platforms/ActiveState)\'s Komodo Integrated Development Environment \-- how it works (lots of Python), what\'s planned for future releases, maybe show off some undocumented macro tricks if people want. If you\'re a fan of Komodo or just someone who\'se curious about, come and say hi. \[Contact: [DavidA@ActiveState.com](mailto:DavidA@ActiveState.com)\]
 
 ## RDF/Semantic Web 
 
@@ -60,7 +60,7 @@ At least three Semantic Web hackers will be attending the conference. We could d
 
 ## Web Developers 
 
-Specifically, non-Zope Python web developers \-- I think there\'s room for more cooperation and communication among the different frameworks and related technologies, and increasingly more overlap. Cheetah, for instance, is being used with several different frameworks \-- certainly many other possibilities exist. We have communication over mailing lists for our individual projects, but not many opportunities for communicating between projects. \-- [IanBicking](IanBicking)
+Specifically, non-Zope Python web developers \-- I think there\'s room for more cooperation and communication among the different frameworks and related technologies, and increasingly more overlap. Cheetah, for instance, is being used with several different frameworks \-- certainly many other possibilities exist. We have communication over mailing lists for our individual projects, but not many opportunities for communicating between projects. \-- [IanBicking](../../../people/IanBicking)
 
 ### Cheetah 
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 NicolasPettiaux
 
-- member of the organization or [EuroPython](EuroPython) (especially this 2007 edition)
+- member of the organization or [EuroPython](../conferences/europython/EuroPython) (especially this 2007 edition)
 
 - free software / free knowledge promoter and consultant, physics teacher, numerical analysis teaching assistant at the Free University of Brussels
 

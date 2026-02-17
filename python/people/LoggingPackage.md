@@ -38,7 +38,7 @@ Another alternative is provided by the [config](http://www.red-dove.com/python_c
 
   - Since dictionary-based configuration was added (Python 2.7/3.2, available in older Python versions via dictconfig on PyPI), this is not an issue. You can e.g. use YAML or JSON files for configuration. \-- [VinaySajip](VinaySajip)
 
-If you want to suggest an alternative mechanism which uses [ConfigParser](ConfigParser), please suggest alternatives to the format. \-- [VinaySajip](VinaySajip)
+If you want to suggest an alternative mechanism which uses [ConfigParser](../language/ConfigParser), please suggest alternatives to the format. \-- [VinaySajip](VinaySajip)
 
 I\'d rather avoid using config files (for logging) entirely in almost every project I work on. If logging has its own configuration files, that\'s a smell. If I need configfiles for my project, I\'ll choose the format I need, and expose the necessary settings to the user coherently, including logging settings. That it has its own configuration file to me is a smell, it suggests configuring in code is too hard, and too necessary. \-- [JoshuaRodman](./JoshuaRodman.html)
 

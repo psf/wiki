@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Introduction: Welcome to EmPy! 
 
-[EmPy](http://www.alcyone.com/software/empy/) is a powerful, robust and mature [templating](Templating) system for inserting Python code in template text. EmPy takes a source document, processes it, and produces output. This is accomplished via expansions, which are signals to the EmPy system where to act and are indicated with markup. Markup is set off by a customizable prefix (by default the at sign, `@`{.backtick}). EmPy can expand arbitrary Python expressions, statements and control structures in this way, as well as a variety of additional special forms. The remaining textual data is sent to the output, allowing Python to be used in effect as a markup language.
+[EmPy](http://www.alcyone.com/software/empy/) is a powerful, robust and mature [templating](../archive/Templating) system for inserting Python code in template text. EmPy takes a source document, processes it, and produces output. This is accomplished via expansions, which are signals to the EmPy system where to act and are indicated with markup. Markup is set off by a customizable prefix (by default the at sign, `@`{.backtick}). EmPy can expand arbitrary Python expressions, statements and control structures in this way, as well as a variety of additional special forms. The remaining textual data is sent to the output, allowing Python to be used in effect as a markup language.
 
 EmPy also supports hooks, which can intercept and modify the behavior of a running interpreter; diversions, which allow recording and playback; filters, which can alter output and can be chained together. The system is highly configurable via command line options, configuration files, and environment variables. EmPy documents can also be imported as modules, and an extensive API is also available for embedding EmPy functionality in your own Python programs.
 
@@ -91,4 +91,4 @@ This software is licensed under [BSD (3-Clause)](https://opensource.org/licenses
 
 ## Note 
 
-This is an excerpt of the [EmPy README](http://www.alcyone.com/software/empy/README.html), so consider it [InTheirOwnWords](InTheirOwnWords).
+This is an excerpt of the [EmPy README](http://www.alcyone.com/software/empy/README.html), so consider it [InTheirOwnWords](../archive/InTheirOwnWords).

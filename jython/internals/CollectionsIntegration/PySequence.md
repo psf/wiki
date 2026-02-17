@@ -15,7 +15,7 @@ Notes/Discussion/Decisions on having `PySequence`{.backtick} implement `java.uti
 ------------------------------------------------------------------------
 
 Topic: `InitModule`{.backtick}\
-[ClarkUpdike](ClarkUpdike) Feb 26 2005\
+[ClarkUpdike](../../people/ClarkUpdike) Feb 26 2005\
 I had originally put in here a detailed anaysis of conflicts between the comments and the source code regarding the `InitModule`{.backtick} interface. The comments seemed to indicate that `PySequence`{.backtick} should implement `InitModule`{.backtick} but couldn\'t because the class was abstract and `PyJavaClass`{.backtick} would try to instatiate it erroneously. But `PyJavaClass`{.backtick} was already correctly using reflection to give an error message in `PyObject __call__(PyObject[] args, String[] keywords)`{.backtick} if an abstract class was passed in. So then I was trying to track down why the `PyList`{.backtick} wasn\'t implementing `ClassDictInit`{.backtick}. It was providing the required static method classDictInit() but it was a do-nothing method and it wasn\'t calling `PySequence.classDictInit()`{.backtick} like the comments said it should. So then I diff\'d the changes from 2.2a to the tip with new style class changes. Apparently, all this changed with new style classes. A case of comments being 2 to 3 generations old.
 
 \<whine\>\

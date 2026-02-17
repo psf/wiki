@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # PyUnit 
 
-PyUnit is an easy way to create unit testing programs and [UnitTests](UnitTests) with Python. (Note that docs.python.org uses the name \"unittest\", which is also the module name.)
+PyUnit is an easy way to create unit testing programs and [UnitTests](../testing/UnitTests) with Python. (Note that docs.python.org uses the name \"unittest\", which is also the module name.)
 
 ## Basic Example 
 
@@ -73,7 +73,7 @@ For more details, see [the PyUnit manual](http://pyunit.sourceforge.net/pyunit.h
 
 - [Dive into Python](https://www.cmi.ac.in/~madhavan/courses/prog2-2012/docs/diveintopython3/unit-testing.html) chapter on unit testing
 
-- [UnitTests](UnitTests)
+- [UnitTests](../testing/UnitTests)
 
 ------------------------------------------------------------------------
 

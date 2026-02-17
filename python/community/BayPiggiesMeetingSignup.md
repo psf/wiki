@@ -43,7 +43,7 @@ Note also the change of location to **Symantec** (no longer at Google).
 
 ### Attendee Lists 
 
-![/!\\](/wiki/europython/img/alert.png "/!\") This page gets edited frequently. A number of us scan all the wiki updates looking for spam. It would make our job a bit easier if you were logged in when you edited the page. The update email address subject would contain enough information for us to conclude that the edit was okay without actually having to open the message. \-- [SkipMontanaro](SkipMontanaro)
+![/!\\](/wiki/europython/img/alert.png "/!\") This page gets edited frequently. A number of us scan all the wiki updates looking for spam. It would make our job a bit easier if you were logged in when you edited the page. The update email address subject would contain enough information for us to conclude that the edit was okay without actually having to open the message. \-- [SkipMontanaro](../people/SkipMontanaro)
 
 =First time visitor here - wondering where is the actual sign-up sheet? Links all point back to here, but page doesn\'t have the attendee list\...? Would love some clarity -andrew (andrewdkippen @ gmail \[d0t\] com)
 

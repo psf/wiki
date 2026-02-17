@@ -309,7 +309,7 @@ The API for sets (see [PEP 218](http://www.python.org/dev/peps/pep-0218/)) was i
 
 - Matteo Dell\'Amico
 
-- [Stefano Borini](StefanoBorini)
+- [Stefano Borini](../people/StefanoBorini)
 
 - Tomasz J. Kotarba
 

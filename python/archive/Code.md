@@ -12,27 +12,27 @@ Until we get a lot of code, this little page can serve as a useful focal point.
 
 - [Powerful Python One-Liners](../guides/Powerful Python One-Liners)
 
-- [ThreadProgramming](ThreadProgramming)
+- [ThreadProgramming](../people/ThreadProgramming)
 
-- [HandlingExceptions](HandlingExceptions), [WritingExceptionClasses](WritingExceptionClasses)
+- [HandlingExceptions](../guides/HandlingExceptions), [WritingExceptionClasses](WritingExceptionClasses)
 
-- [SubclassingDictionaries](SubclassingDictionaries), [SortingListsOfDictionaries](SortingListsOfDictionaries), [KeepingListsInDictionaries](KeepingListsInDictionaries), [UsingEnumerate](UsingEnumerate)
+- [SubclassingDictionaries](../people/SubclassingDictionaries), [SortingListsOfDictionaries](SortingListsOfDictionaries), [KeepingListsInDictionaries](KeepingListsInDictionaries), [UsingEnumerate](../people/UsingEnumerate)
 
-- [StringFormatting](StringFormatting), [EscapingHtml](EscapingHtml)
+- [StringFormatting](../people/StringFormatting), [EscapingHtml](../people/EscapingHtml)
 
-- [WorkingWithTime](WorkingWithTime), [RssLibraries](RssLibraries), [UsingPickle](UsingPickle), [MiniDom](MiniDom)
+- [WorkingWithTime](WorkingWithTime), [RssLibraries](../people/RssLibraries), [UsingPickle](../libraries/UsingPickle), [MiniDom](../people/MiniDom)
 
-- [CgiScripts](CgiScripts), [XmlRpc](XmlRpc), [DocXmlRpcServer](DocXmlRpcServer), [BaseHttpServer](BaseHttpServer), [Md5Passwords](Md5Passwords)
+- [CgiScripts](../people/CgiScripts), [XmlRpc](../networking/XmlRpc), [DocXmlRpcServer](DocXmlRpcServer), [BaseHttpServer](BaseHttpServer), [Md5Passwords](Md5Passwords)
 
-- [UdpCommunication](UdpCommunication)
+- [UdpCommunication](../people/UdpCommunication)
 
 - [PointsAndRectangles](PointsAndRectangles) - a pair of classes to provide points and rectangles.
 
-- [PatternProgramming](PatternProgramming) - pattern design implementation in python
+- [PatternProgramming](../people/PatternProgramming) - pattern design implementation in python
 
-- [ArithmoGraph](ArithmoGraph) - a simple example of functional programming and solution to an interesting problem
+- [ArithmoGraph](../people/ArithmoGraph) - a simple example of functional programming and solution to an interesting problem
 
-- [Generators](Generators)
+- [Generators](../language/Generators)
 
 - [LeeEdwin/DownloadCenter](../people/LeeEdwin/DownloadCenter) - programs by [LeeEdwin](./LeeEdwin.html)
 
@@ -52,4 +52,4 @@ Until we get a lot of code, this little page can serve as a useful focal point.
 
 ------------------------------------------------------------------------
 
-For a list of other sites providing Python code, see [PublishingPythonModules](PublishingPythonModules); for some recommendations, see [UsefulModules](UsefulModules).
+For a list of other sites providing Python code, see [PublishingPythonModules](PublishingPythonModules); for some recommendations, see [UsefulModules](../people/UsefulModules).

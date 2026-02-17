@@ -18,7 +18,7 @@ Both PHP and Python:
 
 - are interpreted, high level languages with dynamic typing
 
-- are [OpenSource](OpenSource) (except where various [Zend products](http://www.zend.com/products), recommended by some, are employed)
+- are [OpenSource](../people/OpenSource) (except where various [Zend products](http://www.zend.com/products), recommended by some, are employed)
 
 - are supported by large developer communities
 
@@ -159,7 +159,7 @@ Both PHP and Python:
 - an excellent profiler
   - Retort: XDebug, a debugging and profiling extension, that supports both PHP4 and PHP5 is extremely popular
 
-- lots of high-level data types (lists, tuples, dicts, [DateTimes](./DateTimes.html), [NumPy](NumPy) arrays, etc.)
+- lots of high-level data types (lists, tuples, dicts, [DateTimes](./DateTimes.html), [NumPy](../science/NumPy) arrays, etc.)
 
   - Retort: *PHP had SPL Types which is included in PHP5 as a standard library*
 
@@ -193,7 +193,7 @@ Another difference is that PHP is embedded in the web server, whereas Python web
   - persistent process (all requests are sent from the web server to one persistent process)
     - custom Fast-CGI scripts
 
-    - \'Application Servers\' (eg. Zope, Webware, [SkunkWeb](SkunkWeb))
+    - \'Application Servers\' (eg. Zope, Webware, [SkunkWeb](../people/SkunkWeb))
 
 (Note: It\'s *possible* to write a long-running server in PHP, but there are precious few examples of it.)
 
@@ -225,7 +225,7 @@ PHP has historically had a horrible history when it comes to security. See the f
 
 ### Python 
 
-See the [CommercialServices](CommercialServices) page for more information.
+See the [CommercialServices](../people/CommercialServices) page for more information.
 
 ## Documentation 
 
@@ -257,7 +257,7 @@ Given recent anonymous edits which say things like\...
 
 - Retort: *echo (\$a == \$b) ? \"true\" : \"false\";*
 
-\...the latter either referring to some deep magic or being exceptionally uninformed, I\'d rather not see everyone wanting to pile in with mud-slinging but actually have people who have used both technologies give their informed perspectives. The restrictions on editing existed because of spam, but the maintainers of this Wiki [reserve the right](WikiGuidelines) to enforce access controls if contributions deteriorate in quality. No-one can demand to edit a site like this without showing a degree of responsibility and sincerity. \-- [PaulBoddie](PaulBoddie) 2011-07-23 19:25:57
+\...the latter either referring to some deep magic or being exceptionally uninformed, I\'d rather not see everyone wanting to pile in with mud-slinging but actually have people who have used both technologies give their informed perspectives. The restrictions on editing existed because of spam, but the maintainers of this Wiki [reserve the right](../people/WikiGuidelines) to enforce access controls if contributions deteriorate in quality. No-one can demand to edit a site like this without showing a degree of responsibility and sincerity. \-- [PaulBoddie](../people/PaulBoddie) 2011-07-23 19:25:57
 
 ## Using Python and PHP together 
 

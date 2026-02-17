@@ -12,11 +12,11 @@ Some project ideas that might work for Google\'s summer of code. The Python folk
 
 ## Potential Mentors 
 
-- [FrankWierzbicki](FrankWierzbicki)
+- [FrankWierzbicki](../../people/FrankWierzbicki)
 
-- [JimBaker](JimBaker)
+- [JimBaker](../../people/JimBaker)
 
-- [CharlieGroves](CharlieGroves)
+- [CharlieGroves](../../people/CharlieGroves)
 
 - [MikeTaylor](./MikeTaylor.html)
 
@@ -34,11 +34,11 @@ I would like to work on geting the help system to work on Jython, working on fig
 
 by Damien Lejeune, mentored by Michael Taylor
 
-[JimBaker](JimBaker) and [MikeTaylor](./MikeTaylor.html) are currently working on adding 2.5+ **language** functionality to Jython. We are trying to limit the scope of this work, just as was done with the AST implementation in CPython 2.5:
+[JimBaker](../../people/JimBaker) and [MikeTaylor](./MikeTaylor.html) are currently working on adding 2.5+ **language** functionality to Jython. We are trying to limit the scope of this work, just as was done with the AST implementation in CPython 2.5:
 
 - Write a generational grammar to build the desired AST in ANTLR 3. We may explore using a tree grammar to support enhanced visting. We think we might be able to just generate a comparable set of AST nodes as CPython, for enhanced compatibility. This is the easy part.
 
-- Generate code using ASM; this would replace the current CodeCompiler.java. This would be the bulk of the work. There\'s some interaction with the rest of Jython, but not too much (we think). More importantly, we need to identify some best practices on mapping Python constructs to JVM byte code, basically updating what [JimHugunin](JimHugunin) worked out 10 years ago.
+- Generate code using ASM; this would replace the current CodeCompiler.java. This would be the bulk of the work. There\'s some interaction with the rest of Jython, but not too much (we think). More importantly, we need to identify some best practices on mapping Python constructs to JVM byte code, basically updating what [JimHugunin](../../people/JimHugunin) worked out 10 years ago.
 
 We\'re also looking at two additional enhancements:
 
@@ -65,4 +65,4 @@ The JVM is a great platform, it is widely used, available on many devices and th
 
 by Paul deGrandis, mentored by Antonio Cuni
 
-The recent advancements of [PyPy](./PyPy.html) have been impressive to say the least. Much work as been done to provide a JVM backend, but it still lacks full completion of finer details. The goal of my summer of code project will be to work at the remaining problems to achieve a level stability that is fitting to be used with JSR-223 (the Java Scripting addition) and Java6. Doing so will allow [PyPy](./PyPy.html) interoperability with Java, Scheme, Python, [JavaScript](JavaScript), Ruby, and many more languages that implement this JSR specification. Additionally, should time allow, an empirical experiment will be conducted to show the [PyPy](./PyPy.html)\'s affect on developer efficiency in an academic setting using the JVM backend and JSR-223 bridge.
+The recent advancements of [PyPy](./PyPy.html) have been impressive to say the least. Much work as been done to provide a JVM backend, but it still lacks full completion of finer details. The goal of my summer of code project will be to work at the remaining problems to achieve a level stability that is fitting to be used with JSR-223 (the Java Scripting addition) and Java6. Doing so will allow [PyPy](./PyPy.html) interoperability with Java, Scheme, Python, [JavaScript](../../modules/JavaScript), Ruby, and many more languages that implement this JSR specification. Additionally, should time allow, an empirical experiment will be conducted to show the [PyPy](./PyPy.html)\'s affect on developer efficiency in an academic setting using the JVM backend and JSR-223 bridge.

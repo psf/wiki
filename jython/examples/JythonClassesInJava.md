@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-**NOTE: This documents the pre [NewStyleClasses](NewStyleClasses) world \-- so this style should \*not\* be used for new development against Jython 2.2 or later.**
+**NOTE: This documents the pre [NewStyleClasses](../internals/NewStyleClasses) world \-- so this style should \*not\* be used for new development against Jython 2.2 or later.**
 
 ## Magic fields for Jython objects 
 

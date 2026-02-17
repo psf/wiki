@@ -28,7 +28,7 @@ Web services can be generally regarded as functions or functionality of applicat
 
 ## SOAP 
 
-[SOAP](SOAP) is a Web services technology favoured in certain environments. The following projects seek to support SOAP and related technologies such as WSDL:
+[SOAP](../archive/SOAP) is a Web services technology favoured in certain environments. The following projects seek to support SOAP and related technologies such as WSDL:
 
 - [zeep](https://github.com/mvantellingen/python-zeep) ([on PyPi](https://pypi.org/project/zeep/)) - Zeep is a modern and high performant SOAP client build on top of lxml and requests. It\'s well maintained, and compatible with Python 2 and 3.
 
@@ -50,13 +50,13 @@ Web services can be generally regarded as functions or functionality of applicat
 
 ## XML-RPC 
 
-The first popular and largely standardised Web services technology was [XML-RPC](XmlRpc), supported in Python by the following libraries:
+The first popular and largely standardised Web services technology was [XML-RPC](../networking/XmlRpc), supported in Python by the following libraries:
 
 - xmlrpclib - found in the standard library
 
 ## XMPP 
 
-More in common with the message-centric usage of [SOAP](SOAP), [XMPP](http://www.xmpp.org/) - an Internet standard which provides the foundation for the Jabber instant messaging technology - could be used as a Web services protocol. See [PythonXml](PythonXml) for details of suitable projects.
+More in common with the message-centric usage of [SOAP](../archive/SOAP), [XMPP](http://www.xmpp.org/) - an Internet standard which provides the foundation for the Jabber instant messaging technology - could be used as a Web services protocol. See [PythonXml](../archive/PythonXml) for details of suitable projects.
 
 ## Editorial Note 
 

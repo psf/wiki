@@ -20,4 +20,4 @@ Boost.Python depends on quite a few of the other boost libraries (possibly a few
 - mpl
 - smart_ptr
 
-IIUC, [weave](weave) can be used for embedding nontrivial C++ code, if you\'re willing to stick it all inside one function body. Furthermore, tools like weave.blitz() can make an enormous difference by compiling an entire C++ expression template corresponding to an arbitrarily complicated Python expression. Surely that\'s nontrivial. It\'s definitely *cool*. I think weave offers enormous power to the person who\'s programming mostly in Python.
+IIUC, [weave](../../archive/weave) can be used for embedding nontrivial C++ code, if you\'re willing to stick it all inside one function body. Furthermore, tools like weave.blitz() can make an enormous difference by compiling an entire C++ expression template corresponding to an arbitrarily complicated Python expression. Surely that\'s nontrivial. It\'s definitely *cool*. I think weave offers enormous power to the person who\'s programming mostly in Python.

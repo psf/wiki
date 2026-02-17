@@ -41,7 +41,7 @@ This page describes Python packages for FBP.
   - ZFlow does not support loops in the graph
   - ZFlow uses Python generators instead of asynchronous threads so port data flow works in a lazy, pulling way not by pushing.\"
 
-- [pypedream formerly DAGPype](https://github.com/garywu/pypedream) - \"This is a Python framework for scientific data-processing and data-preparation DAG (directed acyclic graph) pipelines. It is designed to work well within Python scripts or IPython, provide an in-Python alternative for sed, awk, perl, and grep, and complement libraries such as [NumPy/SciPy](./NumPy(2f)SciPy.html), [SciKits](./SciKits.html), pandas, [MayaVi](./MayaVi.html), [PyTables](PyTables), and so forth. Those libraries process data once it has been assembled. This library is for flexible data assembly and quick exploration, or for aggregating huge data which cannot be reasonably assembled.\"
+- [pypedream formerly DAGPype](https://github.com/garywu/pypedream) - \"This is a Python framework for scientific data-processing and data-preparation DAG (directed acyclic graph) pipelines. It is designed to work well within Python scripts or IPython, provide an in-Python alternative for sed, awk, perl, and grep, and complement libraries such as [NumPy/SciPy](./NumPy(2f)SciPy.html), [SciKits](./SciKits.html), pandas, [MayaVi](./MayaVi.html), [PyTables](../people/PyTables), and so forth. Those libraries process data once it has been assembled. This library is for flexible data assembly and quick exploration, or for aggregating huge data which cannot be reasonably assembled.\"
 
 - [florun](https://github.com/leplatrem/florun) - \"florun is a visual workflow editor and runner\"
 

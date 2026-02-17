@@ -121,7 +121,7 @@ Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/
 
 [Jacl v2.5 Released](http://www-1.ibm.com/support/docview.wss?rs=180&uid=swg24012144)
 
-The IBM® Jacl to Jython Conversion Assistant ([Jacl2Jython](./Jacl2Jython.html)) is a program that assists in converting [WebSphere](WebSphere)® administrative (wsadmin) scripts written in Jacl into Jython syntax.
+The IBM® Jacl to Jython Conversion Assistant ([Jacl2Jython](./Jacl2Jython.html)) is a program that assists in converting [WebSphere](../../../user-guide/WebSphere)® administrative (wsadmin) scripts written in Jacl into Jython syntax.
 
 ::: {}
   ----------------------------------------------------------------

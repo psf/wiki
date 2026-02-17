@@ -12,9 +12,9 @@ This page describes useful tricks for Intellij IDEA users. If you haven\'t creat
 
 ## Eclipse Code Formatter 
 
-Configuring the [CodingStandards](CodingStandards) by hand is an annoying task. Fortunately there is a plugin to import Eclipse code formatting rules into Intellij IDEA: Eclipse Code Formatter. It is available in the plugin repository.
+Configuring the [CodingStandards](../CodingStandards) by hand is an annoying task. Fortunately there is a plugin to import Eclipse code formatting rules into Intellij IDEA: Eclipse Code Formatter. It is available in the plugin repository.
 
-The Eclipse Code Styles file is attached to the [CodingStandards](CodingStandards) page.
+The Eclipse Code Styles file is attached to the [CodingStandards](../CodingStandards) page.
 
 Eclipse Code Formatter can be configured under *Settings* (shortcut: ctrl + alt + s) \--\> *Eclipse Code Formatter*
 

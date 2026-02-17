@@ -16,7 +16,7 @@ Currently Mailman3 uses Twisted, ZPT, ZConfig, and a few other Zope3 components 
 
 ### Comments 
 
-I\'d be interested in helping out; I\'ll be around Saturday and Sunday. \-- *[FredDrake](FredDrake)*
+I\'d be interested in helping out; I\'ll be around Saturday and Sunday. \-- *[FredDrake](../people/FredDrake)*
 
 I\'ll be there on Sunday and probably Monday. \-- *Dale Newfield*
 

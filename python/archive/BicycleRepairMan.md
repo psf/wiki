@@ -16,7 +16,7 @@ Links:
 
 - Homepage: [http://bicyclerepair.sourceforge.net/](http://bicyclerepair.sourceforge.net/)
 
-- [SourceForge](SourceForge) Project Page: [http://sourceforge.net/projects/bicyclerepair/](http://sourceforge.net/projects/bicyclerepair/)
+- [SourceForge](../people/SourceForge) Project Page: [http://sourceforge.net/projects/bicyclerepair/](http://sourceforge.net/projects/bicyclerepair/)
 
 Current Maintainer:
 

@@ -10,10 +10,10 @@ Commercial Products and Services, Python at play!
 
 See:
 
-- [PythonConsulting](PythonConsulting)
+- [PythonConsulting](../archive/PythonConsulting)
 
-- [PythonHosting](PythonHosting)
+- [PythonHosting](../libraries/PythonHosting)
 
-- [PythonSupport](PythonSupport)
+- [PythonSupport](../archive/PythonSupport)
 
-- [PythonTraining](PythonTraining)
+- [PythonTraining](../archive/PythonTraining)

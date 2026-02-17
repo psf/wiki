@@ -66,7 +66,7 @@ See [Issue Workflow](http://www.python.org/dev/workflow/) and [general Roundup g
 
 Each bug report will ultimately be assigned to a core developer who will determine what needs to be done to correct the problem or take the necessary steps to include a provided fix or patch into the Python source. You will receive an email update each time action is taken on the bug (it\'s possible to opt-out). Further editing and new messages can be done by the web form. You can also post to issues by replying to an email that you receive, file uploads can be done via attachments in this case.
 
-Contributions in the form of tests, docs and patches are very welcome. The [Developer Documentation](http://www.python.org/dev/) is your main guide to the procedures and [tools of the trade](http://www.python.org/dev/tools). The [PythonBugDay](PythonBugDay) volunteer docs offers an overview focused at newcomer developers.
+Contributions in the form of tests, docs and patches are very welcome. The [Developer Documentation](http://www.python.org/dev/) is your main guide to the procedures and [tools of the trade](http://www.python.org/dev/tools). The [PythonBugDay](../archive/PythonBugDay) volunteer docs offers an overview focused at newcomer developers.
 
 #### see also: 
 

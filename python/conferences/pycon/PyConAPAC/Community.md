@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This page describes the community and people involved in [PyCon](PyCon) APAC.
+This page describes the community and people involved in [PyCon](../PyCon) APAC.
 
 # PyCon APAC Community 
 
-We have a mailing list on [Google Groups](https://groups.google.com/d/forum/pycon-organizers-apac) where organizer teams for [PyCon](PyCon) within the APAC region subscribe to. If you are an organizer of PyConAPAC, please join us.
+We have a mailing list on [Google Groups](https://groups.google.com/d/forum/pycon-organizers-apac) where organizer teams for [PyCon](../PyCon) within the APAC region subscribe to. If you are an organizer of PyConAPAC, please join us.
 
 ## Country representatives 
 

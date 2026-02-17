@@ -18,7 +18,7 @@ The meeting will take place on Monday 23rd of April (2007-04-23) 18:00 CEST (17:
 
 - Bea will review the Agile and Social Skills theme description ([EuroPython/2007/TrackDescriptions](../TrackDescriptions)).
 
-- Laura will ask about [PyCon](PyCon)\'s sponsorship packages.
+- Laura will ask about [PyCon](../../../../pycon/PyCon)\'s sponsorship packages.
 
 - Harald posted [information about sponsorship](http://mail.python.org/pipermail/europython/2007-April/006320.html) to the mailing list. Further discussion about sponsorship details will continue there.
 

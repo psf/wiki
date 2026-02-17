@@ -48,7 +48,7 @@ a = method()
 :::
 ::::
 
-Here, we split up the part where you get the method from the part where you call the method. There really are two different things going on. \-- [PaulBoddie](PaulBoddie) 2011-12-17 18:41:14
+Here, we split up the part where you get the method from the part where you call the method. There really are two different things going on. \-- [PaulBoddie](../../people/PaulBoddie) 2011-12-17 18:41:14
 
 ------------------------------------------------------------------------
 

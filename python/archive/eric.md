@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-eric is a full-featured Python IDE that is written in [PyQt](PyQt) using the QScintilla editor widget.
+eric is a full-featured Python IDE that is written in [PyQt](../gui/PyQt) using the QScintilla editor widget.
 
 eric\'s homepage is at [https://eric-ide.python-projects.org/](https://eric-ide.python-projects.org/)
 

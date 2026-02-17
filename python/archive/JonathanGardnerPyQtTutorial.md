@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Jonathan Gardner\'s PyQt Tutorial 
 
-This is a short tutorial to get you up to speed with [PyQt](PyQt). It assumes some knowledge of bash, Python, and Qt.
+This is a short tutorial to get you up to speed with [PyQt](../gui/PyQt). It assumes some knowledge of bash, Python, and Qt.
 
 If you have questions or comments, you can send them to me at [jgardner@jonathangardner.net](mailto:jgardner@jonathangardner.net). You may also make corrections to this page.
 
@@ -31,9 +31,9 @@ You will need:
 
 - qt-devel RPM properly installed
 
-- [PyQt](PyQt)-devel RPM properly installed
+- [PyQt](../gui/PyQt)-devel RPM properly installed
 
-[PyQt](PyQt) works on other systems. This tutorial may or may not work as well. However, I cannot provide all the details on how to get them to work on all the systems that can use [PyQt](PyQt). You are responsible for figuring that out.
+[PyQt](../gui/PyQt) works on other systems. This tutorial may or may not work as well. However, I cannot provide all the details on how to get them to work on all the systems that can use [PyQt](../gui/PyQt). You are responsible for figuring that out.
 
 You should already know:
 
@@ -157,11 +157,11 @@ Here\'s the code that does that. We\'ll put this in the `__init__`{.backtick} me
               now.setTime_t(time.time()) # Time in seconds since Unix Epoch
               self.time.setDateTime(now)
 
-This code snippet should show how easily python and [PyQt](PyQt) work with each other. It should also demonstrate the thought processes you\'ll have to go through to manipulate Qt\'s widgets.
+This code snippet should show how easily python and [PyQt](../gui/PyQt) work with each other. It should also demonstrate the thought processes you\'ll have to go through to manipulate Qt\'s widgets.
 
 ## Signals and Slots 
 
-Everything you do from here on out is connecting Signals to Slots. It\'s pretty easy, which is why I like [PyQt](PyQt).
+Everything you do from here on out is connecting Signals to Slots. It\'s pretty easy, which is why I like [PyQt](../gui/PyQt).
 
 Python isn\'t C++. So it has to deal with Signals and Slots in a new way.
 
@@ -276,4 +276,4 @@ With the time remaining, you may want to add a few extensions.
 
 This application could be part of a suite of Unix command line interfaces. What other commands would you like to implement? I suggest giving things like \"crontab\" and \"ps\" a try. Parsing the output of these commands isn\'t too difficult, and the interface with them is pretty easy.
 
-You may also want to try and combine your new apps with the \'at\' app. If you like, you can sell them as a Unix graphical interface, but you\'ll have to buy the commercial license for both Qt and [PyQt](PyQt) unless you stick with something like the GPL.
+You may also want to try and combine your new apps with the \'at\' app. If you like, you can sell them as a Unix graphical interface, but you\'ll have to buy the commercial license for both Qt and [PyQt](../gui/PyQt) unless you stick with something like the GPL.

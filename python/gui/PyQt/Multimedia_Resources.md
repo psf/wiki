@@ -12,7 +12,7 @@ There seem to be a few cross-platform resources for playing video and decoding m
 
 ## Non-Python Resources 
 
-The [avifile](http://avifile.sourceforge.net/) project provides a Qt 3-based player on Linux, and would seem to be a reasonable candidate for a [PyQt](PyQt) wrapper. However, there doesn\'t seem to be much documentation for it outside the header files, but it might be possible to create a reasonably high-level wrapper using SIP, and at least we know it will work with Qt\'s event loop.
+The [avifile](http://avifile.sourceforge.net/) project provides a Qt 3-based player on Linux, and would seem to be a reasonable candidate for a [PyQt]() wrapper. However, there doesn\'t seem to be much documentation for it outside the header files, but it might be possible to create a reasonably high-level wrapper using SIP, and at least we know it will work with Qt\'s event loop.
 
 [FFmpeg](http://ffmpeg.mplayerhq.hu/) provides a set of tools and libraries that could be used to play and manipulate video.
 

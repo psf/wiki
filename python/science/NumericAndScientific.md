@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - **Deprecated**: [Numeric](Numeric) \-- Numerical Python adds a fast, compact, multidimensional array language facility to Python. (Note: superseded by [NumPy](NumPy))
 
-  - **Deprecated**: [NumArray](NumArray) - [http://stsdas.stsci.edu/numarray/index.html](http://stsdas.stsci.edu/numarray/index.html) \-- Numarray is a reimplementation of Numeric which adds the ability to efficiently manipulate large numeric arrays in ways similar to Matlab and IDL. (Note: superseded by [NumPy](NumPy))
+  - **Deprecated**: [NumArray](../people/NumArray) - [http://stsdas.stsci.edu/numarray/index.html](http://stsdas.stsci.edu/numarray/index.html) \-- Numarray is a reimplementation of Numeric which adds the ability to efficiently manipulate large numeric arrays in ways similar to Matlab and IDL. (Note: superseded by [NumPy](NumPy))
 
 - [SciPy](SciPy) - [http://www.scipy.org/](http://www.scipy.org/) [SciPy](SciPy) is an open source library of scientific tools for Python. [SciPy](SciPy) supplements the popular [NumPy](NumPy) module, gathering a variety of high level science and engineering modules together as a single package. [SciPy](SciPy) includes modules for linear algebra, optimization, integration, special functions, signal and image processing, statistics, genetic algorithms, ODE solvers, and others.
 
@@ -22,13 +22,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - APM Python - [http://apmonitor.com/wiki/index.php/Main/PythonApp](http://apmonitor.com/wiki/index.php/Main/PythonApp) APMonitor is a nonlinear programming and optimization environment with an interface to Python. The software is available as a web-service through Python libraries for the solution of large-scale mathematical programming problems.
 
-- [SymPy](SymPy) - [http://www.sympy.org/](http://www.sympy.org/) [SymPy](SymPy) is a symbolic manipulation package, written in pure Python. Its aim is to become a full featured CAS in Python, while keeping the code as simple as possible in order to be comprehensible and easily extensible.
+- [SymPy](../people/SymPy) - [http://www.sympy.org/](http://www.sympy.org/) [SymPy](../people/SymPy) is a symbolic manipulation package, written in pure Python. Its aim is to become a full featured CAS in Python, while keeping the code as simple as possible in order to be comprehensible and easily extensible.
 
-- ALGLIB - [http://www.alglib.net/](http://www.alglib.net/) - numerical analysis library in C++ and C#, with Python and [IronPython](IronPython) interfaces.
+- ALGLIB - [http://www.alglib.net/](http://www.alglib.net/) - numerical analysis library in C++ and C#, with Python and [IronPython](../implementations/IronPython) interfaces.
 
 - Python Data Analysis Library - [http://pandas.pydata.org/](http://pandas.pydata.org/) - pandas is a library providing high-performance, easy-to-use data structures and data analysis tools for the Python .
 
-- [PyGSL](PyGSL) - [http://pygsl.sourceforge.net/](http://pygsl.sourceforge.net/) \-- This project provides a python interface for the GNU scientific library (gsl).
+- [PyGSL](../archive/PyGSL) - [http://pygsl.sourceforge.net/](http://pygsl.sourceforge.net/) \-- This project provides a python interface for the GNU scientific library (gsl).
 
 - [FuncDesigner](./FuncDesigner.html) - [http://openopt.org/FuncDesigner](http://openopt.org/FuncDesigner) [FuncDesigner](./FuncDesigner.html) is Python module to rapidly build functions and get their derivatives via automatic differentiation. Also you can perform integration, interpolation, interval analysis, uncertainty analysis, solve eigenvalue problems, systems of linear/non-linear/ODE equations and numerical optimization problems coded in [FuncDesigner](./FuncDesigner.html) by [OpenOpt](./OpenOpt.html).
 
@@ -38,13 +38,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - !NLopt - [http://ab-initio.mit.edu/nlopt](http://ab-initio.mit.edu/nlopt) - another library for nonlinear optimization, including many local/global optimization algorithms written in C, with a Python interface (as well as interfaces for several other languages).
 
-- [jHepWork](jHepWork) - [http://jwork.org/jhepwork](http://jwork.org/jhepwork) - a multiplatform data-analysis framework written in Java. The main programming language is Jython, a clone of Python written in Java. Contains Java libraries for numerical calculations and visualisation of scientific graphs. Contains an interactive Python prompt.
+- [jHepWork](../archive/jHepWork) - [http://jwork.org/jhepwork](http://jwork.org/jhepwork) - a multiplatform data-analysis framework written in Java. The main programming language is Jython, a clone of Python written in Java. Contains Java libraries for numerical calculations and visualisation of scientific graphs. Contains an interactive Python prompt.
 
-- [ScientificPython](ScientificPython) - [http://dirac.cnrs-orleans.fr/ScientificPython/](http://dirac.cnrs-orleans.fr/ScientificPython/) \-- [ScientificPython](ScientificPython) is a collection of Python modules that are useful for scientific computing. In this collection you will find modules that cover basic geometry (vectors, tensors, transformations, vector and tensor fields), quaternions, automatic derivatives, (linear) interpolation, polynomials, elementary statistics, nonlinear least-squares fits, unit calculations, Fortran-compatible text formatting, 3D visualization via VRML, and two Tk widgets for simple line plots and 3D wireframe models. There are also interfaces to the netCDF library (portable structured binary files), to MPI (Message Passing Interface, message-based parallel programming), and to BSPlib (Bulk Synchronous Parallel programming).
+- [ScientificPython](../people/ScientificPython) - [http://dirac.cnrs-orleans.fr/ScientificPython/](http://dirac.cnrs-orleans.fr/ScientificPython/) \-- [ScientificPython](../people/ScientificPython) is a collection of Python modules that are useful for scientific computing. In this collection you will find modules that cover basic geometry (vectors, tensors, transformations, vector and tensor fields), quaternions, automatic derivatives, (linear) interpolation, polynomials, elementary statistics, nonlinear least-squares fits, unit calculations, Fortran-compatible text formatting, 3D visualization via VRML, and two Tk widgets for simple line plots and 3D wireframe models. There are also interfaces to the netCDF library (portable structured binary files), to MPI (Message Passing Interface, message-based parallel programming), and to BSPlib (Bulk Synchronous Parallel programming).
 
-- [PyACTS](PyACTS)- [http://wiki.python.org/moin/PyACTS](http://wiki.python.org/moin/PyACTS) \-- PyACTS is a collection of Python Modules that are very useful to Parallel Computing in a High Performance Computing environment. This packages incorporates several modules like PyBLACS (allows communication data for Linear Algebra), PyPBLAS (distributed Matrix Operations) and PyScaLAPACK (solve linear systems and get the eigenvalue problems). These libraries are part of PyACTS project that provide interfaces to the ACTS Collection. Also is provided a parallel interpreter for using this package that implements message-based parallel programming using MPI.
+- [PyACTS](../archive/PyACTS)- [http://wiki.python.org/moin/PyACTS](http://wiki.python.org/moin/PyACTS) \-- PyACTS is a collection of Python Modules that are very useful to Parallel Computing in a High Performance Computing environment. This packages incorporates several modules like PyBLACS (allows communication data for Linear Algebra), PyPBLAS (distributed Matrix Operations) and PyScaLAPACK (solve linear systems and get the eigenvalue problems). These libraries are part of PyACTS project that provide interfaces to the ACTS Collection. Also is provided a parallel interpreter for using this package that implements message-based parallel programming using MPI.
 
-- [PyDSTool](PyDSTool) - [http://pydstool.sourceforge.net](http://pydstool.sourceforge.net) \-- PyDSTool is an integrated simulation, modeling and analysis package for dynamical systems (including ODEs, DAEs, maps, and hybrid systems) and scientific data. Building on [SciPy](SciPy) classes, the package also supports symbolic expression processing, bifurcation analysis, and enhanced arrays for \"index-free\" and highly contextualized scientific data manipulation. Model building tools use symbolic expression and hierarchical specification classes to ease the development and analysis of complex models. This includes automated compilation of symbolic representations of models into fast numerical code using enhanced legacy Fortran and C integrators for both stiff and non-stiff systems.
+- [PyDSTool](../archive/PyDSTool) - [http://pydstool.sourceforge.net](http://pydstool.sourceforge.net) \-- PyDSTool is an integrated simulation, modeling and analysis package for dynamical systems (including ODEs, DAEs, maps, and hybrid systems) and scientific data. Building on [SciPy](SciPy) classes, the package also supports symbolic expression processing, bifurcation analysis, and enhanced arrays for \"index-free\" and highly contextualized scientific data manipulation. Model building tools use symbolic expression and hierarchical specification classes to ease the development and analysis of complex models. This includes automated compilation of symbolic representations of models into fast numerical code using enhanced legacy Fortran and C integrators for both stiff and non-stiff systems.
 
 - [escript](https://launchpad.net/escript-finley) - [https://launchpad.net/escript-finley](https://launchpad.net/escript-finley) \-- escript is a Python module to define and solve coupled, non-linear, time-dependent partial differential equations (PDEs). The user has to implement high-level time integration schemes and iteration schemes to reduce the problem to the solution of steady, linear systems of PDEs which are solved by a suitable PDE solver library. The current version uses the FEM solver library finley but the design is open and other libraries can be used. escript is parallelized for OpenMP and MPI. It is compatible with [NumPy](NumPy) and VTK for visualization.
 
@@ -68,7 +68,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [MAPM](./MAPM.html) ([http://www.tc.umn.edu/\~ringx004/mapm-main.html](http://www.tc.umn.edu/~ringx004/mapm-main.html)) - Python wrapping unknown
 
-- [GmPy](GmPy) ([http://gmpy.sourceforge.net/](http://gmpy.sourceforge.net/)) - GNU Multiple Precision library wrapping
+- [GmPy](../people/GmPy) ([http://gmpy.sourceforge.net/](http://gmpy.sourceforge.net/)) - GNU Multiple Precision library wrapping
 
 - [mpmath](./mpmath.html) - [http://mpmath.org/](http://mpmath.org/) - mpmath is a pure Python library for arbitrary-precision floating-point arithmetic, with support for complex numbers. Implements all the transcendental functions from Python\'s math and cmath modules and many others.
 
@@ -122,7 +122,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - Glumpy - [http://glumpy.github.io/](http://glumpy.github.io/) - a small python library that uses OpenGL for the rapid vizualization of (mainly two dimensional) numpy arrays. Not so much for nice figures for inclusion in a scientific article, more for rapid vizualization of your running simulation.
 
-- pyqtgraph - [http://luke.campagnola.me/code/pyqtgraph/](http://luke.campagnola.me/code/pyqtgraph/) - Pure-python graphics and GUI library for scientific/angineering applications based on [PyQt](PyQt) and numpy. This library provides fast plotting and image/video display, multidimensional image slicing, volumetric / isosurface rendering, interactive data manipulation tools, and a variety of Qt widgets including an editable property tree, visual programming flowchart, and gradient editor.
+- pyqtgraph - [http://luke.campagnola.me/code/pyqtgraph/](http://luke.campagnola.me/code/pyqtgraph/) - Pure-python graphics and GUI library for scientific/angineering applications based on [PyQt](../gui/PyQt) and numpy. This library provides fast plotting and image/video display, multidimensional image slicing, volumetric / isosurface rendering, interactive data manipulation tools, and a variety of Qt widgets including an editable property tree, visual programming flowchart, and gradient editor.
 
 # Life sciences 
 
@@ -132,7 +132,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - track - [http://xapple.github.com/track/](http://xapple.github.com/track/) \-- Provides easy read/write access to genomic tracks in a fashion that is independent from the underlying format. Implemented formats include: BED; WIG; GFF; GTF; [BedGraph](./BedGraph.html); [BigWig](./BigWig.html).
 
-- [PyChem](PyChem) - [http://pychem.sf.net/](http://pychem.sf.net/) \-- a cross-platform open source package for multivariate analysis, that includes a graphical user interface.
+- [PyChem](../people/PyChem) - [http://pychem.sf.net/](http://pychem.sf.net/) \-- a cross-platform open source package for multivariate analysis, that includes a graphical user interface.
 
 - bx-python - [http://bitbucket.org/james_taylor/bx-python/](http://bitbucket.org/james_taylor/bx-python/) \-- Library and associated set of scripts to allow for rapid implementation of genome scale-analyses. Also a fundamental part of the ongoing [Galaxy](http://g2.bx.psu.edu/) and [ESPERR](http://www.bx.psu.edu/projects/esperr) projects.
 
@@ -156,7 +156,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - [PyLink](./PyLink.html) is an open source Python module for interfacing with the [EyeLink](./EyeLink.html) eye tracking hardware. Find it at [PyLink](http://www.eyelinkinfo.com/mount_software.php)
 
-- [SimPy](SimPy) is an open-source discrete-event simulation package in Python. Read more at its [Homepage](http://simpy.sourceforge.net/index.html)
+- [SimPy](../people/SimPy) is an open-source discrete-event simulation package in Python. Read more at its [Homepage](http://simpy.sourceforge.net/index.html)
 
 - [uncertainties](http://packages.python.org/uncertainties/) is an open-source Python package for transparently performing calculations with uncertainties (3.14±0.01...).
 

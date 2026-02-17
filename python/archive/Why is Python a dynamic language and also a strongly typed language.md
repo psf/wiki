@@ -30,4 +30,4 @@ And another:
 
 Real Life Example:
 
-This author ([SkipMontanaro](SkipMontanaro)) used to operate a now defunct concert calendar website. The backend was implemented in Python, but the front end was implemented in [Mason](http://www.masonhq.com), a Perl-based web application platform. One bug which took awhile to figure out was why entering concert dates for the band \"311\" failed. Python was seeing an int instead of a string. It turns out somewhere in the Perl or Mason frontend \"311\" was being converted into an integer.
+This author ([SkipMontanaro](../people/SkipMontanaro)) used to operate a now defunct concert calendar website. The backend was implemented in Python, but the front end was implemented in [Mason](http://www.masonhq.com), a Perl-based web application platform. One bug which took awhile to figure out was why entering concert dates for the band \"311\" failed. Python was seeing an int instead of a string. It turns out somewhere in the Perl or Mason frontend \"311\" was being converted into an integer.

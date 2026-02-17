@@ -74,7 +74,7 @@ Regression testing against the CPython test suite is certainly a noble goal. Pro
 
 - Django
 
-- [TurboGears](TurboGears)
+- [TurboGears](../web/TurboGears)
 
 This follows what Charles Nutter observed about JRuby and Rails: [Setting a compelling goal](http://sourceforge.net/mailarchive/forum.php?thread_id=30988621&forum_id=5587)
 
@@ -124,7 +124,7 @@ And if we are doing design up front, why not testing too ![;)](/wiki/europython/
 
 ## Designate a champion 
 
-As for a big sponsor, a white knight, my feeling is that is not going to happen until after some progress is made, if even then. (But Sun could still sponsor the [PyCon](PyCon) sprint.) Still, if we get the participation of a company or group out there that\'s actively using Jython, that would add significant focus, just as Array Biopharma helped on the Django-Oracle sprint.
+As for a big sponsor, a white knight, my feeling is that is not going to happen until after some progress is made, if even then. (But Sun could still sponsor the [PyCon](../conferences/pycon/PyCon) sprint.) Still, if we get the participation of a company or group out there that\'s actively using Jython, that would add significant focus, just as Array Biopharma helped on the Django-Oracle sprint.
 
 # Technical Wish List 
 

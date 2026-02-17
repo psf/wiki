@@ -15,6 +15,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **Describe DavidMPatterson here.**
 
-Nice Dr. Seuss imitation. Where\'s the Python content? \-- [SkipMontanaro](SkipMontanaro)
+Nice Dr. Seuss imitation. Where\'s the Python content? \-- [SkipMontanaro](../people/SkipMontanaro)
 
 [CategoryHomepage](CategoryHomepage)

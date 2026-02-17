@@ -12,7 +12,7 @@ This page contains the source code shown in the [Creating widgets and a layout](
 
 This shows basic widget creation, though most programs will tend to create and instantiate subclasses of QWidget or other widget classes for their main user interfaces.
 
-The code below uses version 4 of [PyQt](PyQt). For version 5, see for instance the [PyQt Widgets example on GitHub](https://github.com/pyqt/examples/tree/_/src/02%20PyQt%20Widgets).
+The code below uses version 4 of [PyQt](). For version 5, see for instance the [PyQt Widgets example on GitHub](https://github.com/pyqt/examples/tree/_/src/02%20PyQt%20Widgets).
 
 :::: 
 ::: 

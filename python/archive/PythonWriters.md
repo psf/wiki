@@ -18,21 +18,21 @@ The [http://mail.python.org/mailman/listinfo/python-authors%20python-authors](ht
 
 ## Big-Project Writers (for-hire) 
 
-- [CameronLaird](CameronLaird) has published dozens of articles and book chapters on Python (and hundreds more on other computing topics), and served as technical editor for several books, including **Python and Tkinter Programming** and **Core Python Programming**.
+- [CameronLaird](../people/CameronLaird) has published dozens of articles and book chapters on Python (and hundreds more on other computing topics), and served as technical editor for several books, including **Python and Tkinter Programming** and **Core Python Programming**.
 
 - [James Payne](http://jamesrobertpayne.com) is currently Editor-in-Chief of the Developer Shed Network of sites and has been published in print and on the web 400+ times. His first book, Beginning Python: Using Python 2.6 and 3.1 was recently published by John Wiley and he has another book due to be published by Apress in May, 2010. He can be reached at [jamesrobertpayne@yahoo.com](mailto:jamesrobertpayne@yahoo.com) .
 
 - [Adrian Nye](http://adriannye.com) has published several large award-winning programming books through O\'Reilly, and worked for O\'Reilly for 10 years as author and editor. He is currently an active web developer using Python/Django.
 
-- [Christopher Arndt](http://chrisarndt.de/about.html) is an independent software developer and Linux consultant based in [Cologne, Germany](http://wiki.python.de/pyCologne), and a member of the [TurboGears documentation](http://docs.turbogears.org/1.0) team. He currently writes an introduction to Python for university students in German and an article for the German Linux magazine. He is interested in writing about web development, system administration and Python community topics, both in English and German. He also does general Python and [TurboGears](TurboGears) training (English/German) on request all over Europe. For further information write an email to chris at chrisarndt dot de.
+- [Christopher Arndt](http://chrisarndt.de/about.html) is an independent software developer and Linux consultant based in [Cologne, Germany](http://wiki.python.de/pyCologne), and a member of the [TurboGears documentation](http://docs.turbogears.org/1.0) team. He currently writes an introduction to Python for university students in German and an article for the German Linux magazine. He is interested in writing about web development, system administration and Python community topics, both in English and German. He also does general Python and [TurboGears](../web/TurboGears) training (English/German) on request all over Europe. For further information write an email to chris at chrisarndt dot de.
 
-- [DavidMertz](DavidMertz) has written hundreds of articles (and one book) on Python, or at least on topics that border on Python, including the column **Charming Python** for IBM developerWorks. Email mertz at gnosis dot cx for information on availability on projects (usually yes).
+- [DavidMertz](../people/DavidMertz) has written hundreds of articles (and one book) on Python, or at least on topics that border on Python, including the column **Charming Python** for IBM developerWorks. Email mertz at gnosis dot cx for information on availability on projects (usually yes).
 
 - [Michael Foord](http://www.voidspace.org.uk/python/weblog/index.shtml) - currently writing a book for Manning, but always interested in writing about Python.
 
 - [James Knowlton](http://www.jamesknowlton.com) - currently writing a book on Python for Wiley, has also published articles on Python for IBM developerWorks and Software Test & Performance Magazine.
 
-- [Mark Ramm](http://compoundthinking.com/blog) author or Rapid Web Applications with [TurboGears](TurboGears), and a number of articles for Linux Magazine and others. Currently writing a book for Prentice Hall.
+- [Mark Ramm](http://compoundthinking.com/blog) author or Rapid Web Applications with [TurboGears](../web/TurboGears), and a number of articles for Linux Magazine and others. Currently writing a book for Prentice Hall.
 
 - [Noah Gift](http://noahgift.com) - I write for [Red Hat Magazine](http://www.redhatmagazine.com/author/ngift/),[O\'Reilly](http://www.oreillynet.com/pub/au/3039), [IBM Developerworks](http://www.ibm.com/developerworks/aix/library/au-netsnmpnipython/), and [MacTech](http://www.mactech.com/). I am also in involved in organizing [PyAtl](http://pyatl.org/author/noahgift) or the Python Atlanta Programmers Users Group. Co-author of O\'Reilly book [Python for Unix and Linux Systems Administration](http://oreilly.com/catalog/9780596515829/). Currently co-authoring a book for Manning on Google App Engine due to be finished December 2008, ISBN 1-933988-95-9. Very interested in writing about systems programming, and writing about boring subjects in a fun, quirky way. Extensive Feature Animated [Film](http://www.imdb.com/name/nm2104112/) and Television knowledge base. Finally, available for Video Podcasting/Writing Combinations. I have been editing material for Network Television and Feature Films for 22 years, starting at age 10.
 
@@ -58,11 +58,11 @@ The [http://mail.python.org/mailman/listinfo/python-authors%20python-authors](ht
 
 - [Noah Gift](http://noahgift.com) - author of Python For Unix and Linux Systems Administration is also available for articles. I especially enjoy writing about systems programming, but also the standard library modules, Object Oriented Programming, Concurrency, and scary topics that melt the brain.
 
-- [DougHellmann](DougHellmann) is the former Editor in Chief for [Python Magazine](http://www.pythonmagazine.com) and a senior developer at [Racemi](http://www.racemi.com) and author of [The Python Standard Library By Example](http://www.doughellmann.com/books/byexample/).
+- [DougHellmann](../people/DougHellmann) is the former Editor in Chief for [Python Magazine](http://www.pythonmagazine.com) and a senior developer at [Racemi](http://www.racemi.com) and author of [The Python Standard Library By Example](http://www.doughellmann.com/books/byexample/).
 
 - [Wesley Chun](http://cyberwebconsulting.com), MSCS, is the author of Prentice Hall\'s bestseller, *Core Python Programming* ([http://corepython.com](http://corepython.com)), its video training course, *Python Fundamentals* ([LiveLessons](./LiveLessons.html) DVD), co-author of *Python Web Development with Django* ([http://withdjango.com](http://withdjango.com)), and has also written various technical articles for Linux Journal and cNet. In addition to being a senior software architect and tech lead, he also runs [CyberWeb](./CyberWeb.html) ([http://cyberwebconsulting.com](http://cyberwebconsulting.com)), a consulting business specializing in Python software engineering and technical training. He has over 25 years of programming, teaching, and writing experience, including more than a decade of Python. While at Yahoo!, he helped create Yahoo! Mail and Yahoo! People Search using Python. He holds degrees in Computer Science, Mathematics, and Music from the University of California. He is available for short-term writing projects as an assistant (not lead writer) as well as for editorial tasks (see below).
 
-- [UcheOgbuji](UcheOgbuji) is author of at least a hundred articles on Python or using Python examples and related topics, and over a hundred more on XML, Web services, Semantic technologies and such. Credits include columns for IBM developerWorks, XML.com, Application Development Trends, [LinuxWorld](./LinuxWorld.html) and Intel Developer Network.
+- [UcheOgbuji](../people/UcheOgbuji) is author of at least a hundred articles on Python or using Python examples and related topics, and over a hundred more on XML, Web services, Semantic technologies and such. Credits include columns for IBM developerWorks, XML.com, Application Development Trends, [LinuxWorld](./LinuxWorld.html) and Intel Developer Network.
 
 - [Al Sweigart](http://coffeeghost.net/about/) is the author of [Invent Your Own Computer Games with Python](http://inventwithpython.com). He is a software developer in San Francisco, California who enjoys bicycling, reading, volunteering, haunting coffee shops, and making useful software. He is originally from Houston, Texas and went to school in Austin. He finally put his UT Austin computer science degree in a frame. He\'s always looking for projects to make programming accessible to everyone.
 
@@ -76,7 +76,7 @@ The [http://mail.python.org/mailman/listinfo/python-authors%20python-authors](ht
 
 - Wesley Chun (see above) is also available as a tech editor. He has reviewed for Prentice Hall, Addison Wesley Longman, and Benjamin Cummings.
 
-- [Mark Summerfield](http://www.qtrac.eu/marksummerfield.html) is co-author of C++ GUI Programming with Qt 3 and of C++ GUI Programming with Qt 4, and author of [Programming in Python 3](http://www.qtrac.eu/py3book.html) and [Rapid GUI Programming with Python and Qt](http://www.qtrac.eu/pyqtbook.html). Interested in technical editing and reviewing, especially for Python, C++, Qt, and [PyQt](PyQt)-related books.
+- [Mark Summerfield](http://www.qtrac.eu/marksummerfield.html) is co-author of C++ GUI Programming with Qt 3 and of C++ GUI Programming with Qt 4, and author of [Programming in Python 3](http://www.qtrac.eu/py3book.html) and [Rapid GUI Programming with Python and Qt](http://www.qtrac.eu/pyqtbook.html). Interested in technical editing and reviewing, especially for Python, C++, Qt, and [PyQt](../gui/PyQt)-related books.
 
 - [Stef Maruch](http://pythonfood.com/) is the co-author (with Aahz Maruch) of *Python for Dummies.* Stef is relatively new to Python but has an extensive writing and editing background. She specializes in Mac OS and is interested in projects involving developmental editing, technical editing, and instructional design.
 
@@ -84,7 +84,7 @@ The [http://mail.python.org/mailman/listinfo/python-authors%20python-authors](ht
 
 - [Vasudev Ram](http://www.dancingbison.com) - see the section Small-Project Writers above for info about me.
 
-- [DougHellmann](DougHellmann) is the former Editor in Chief for [Python Magazine](http://www.pythonmagazine.com) and a senior developer at [Racemi](http://www.racemi.com).
+- [DougHellmann](../people/DougHellmann) is the former Editor in Chief for [Python Magazine](http://www.pythonmagazine.com) and a senior developer at [Racemi](http://www.racemi.com).
 
 - \* [Noah Gift](http://noahgift.com) - author of Python For Unix and Linux Systems Administration and Google App Engine in Action. Technical Editor for Iron Python in Action, as well as Python Essential Reference 4th edition. Interested in editing anything Python related.
 

@@ -27,7 +27,7 @@ Please look at the minutes from the last meeting for more background information
 - Keynotes - confirmation of our speakers - **Aiste has been introduced to Hans.**
 
 - Sponsorship
-  - Further discussion of the [SponsorOffers](SponsorOffers) document. - **David will send this to Laura and John, and discuss it further with Jacob.**
+  - Further discussion of the [SponsorOffers](../../../../../people/SponsorOffers) document. - **David will send this to Laura and John, and discuss it further with Jacob.**
 
   - Brief discussion of existing offers from sponsors.
 

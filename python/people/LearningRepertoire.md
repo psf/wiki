@@ -38,7 +38,7 @@ These building blocks should be easy to find, easy to install, documented to a d
 
     - background images
 
-    - intro to use of sprites and [PyGame](PyGame)
+    - intro to use of sprites and [PyGame](../multimedia/PyGame)
 
     - module + intro to SANE interface to scanning
 

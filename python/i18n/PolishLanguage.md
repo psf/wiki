@@ -42,7 +42,7 @@ Where these pages really need help:
 
 - [https://pl.wikibooks.org/wiki/Python](https://pl.wikibooks.org/wiki/Python) -- Podręcznik na Wikibooks
 
-- [https://rk.edu.pl/pl/programowanie/](https://rk.edu.pl/pl/programowanie/) -- Wprowadzenie do Pythona, frameworka www Django i biblioteki [PyQt4](PyQt4)
+- [https://rk.edu.pl/pl/programowanie/](https://rk.edu.pl/pl/programowanie/) -- Wprowadzenie do Pythona, frameworka www Django i biblioteki [PyQt4](../gui/PyQt4)
 
 - [https://www.ii.uni.wroc.pl/\~marcinm/dyd/python/](https://www.ii.uni.wroc.pl/~marcinm/dyd/python/) -- Ciekawy wykład o Pythonie
 
@@ -56,7 +56,7 @@ Where these pages really need help:
 
 - [Code snippets showing callables, functions as objects and objects as functions](https://dziubdziub.blogspot.com/2009/01/python-funkcje-te-posiadaj-atrybuty.html) -- Python blog -- more entries
 
-- [notatnik.mekk](https://notatnik.mekk.waw.pl/plugin/tag/python) -- [PyCon](PyCon) Poland, virtualenv, mostly narrative
+- [notatnik.mekk](https://notatnik.mekk.waw.pl/plugin/tag/python) -- [PyCon](../conferences/pycon/PyCon) Poland, virtualenv, mostly narrative
 
 - [notatnik.mekk](https://notatnik.mekk.waw.pl/archives/185-Virtualenv_dla_Jythona.html) -- Marcin Kasperski -- Jython (remote?) on Linux
 

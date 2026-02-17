@@ -10,7 +10,7 @@ Schedule updates:
 
 - The conference serves a continental breakfast every morning from 8-9.
 
-- Christian Tismer cannot make it; his [PyPy](PyPy) talk is cancelled.
+- Christian Tismer cannot make it; his [PyPy](../../../implementations/PyPy) talk is cancelled.
 
 ------------------------------------------------------------------------
 

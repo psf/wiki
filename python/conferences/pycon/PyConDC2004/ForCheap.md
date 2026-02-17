@@ -24,7 +24,7 @@ Last year breakfast was also free at the Best Western Key Bridge. Note: IIRC, th
 
 The conference serves a lunch too.
 
-\-- is breakfast definite? I thought there was only lunch at the con. - [PaulWinkler](PaulWinkler) \-- Yep, breakfast is definite. Danishes, bagels, and juice, perhaps even fruit. \-- [MichaelChermside](MichaelChermside)
+\-- is breakfast definite? I thought there was only lunch at the con. - [PaulWinkler](../../../people/PaulWinkler) \-- Yep, breakfast is definite. Danishes, bagels, and juice, perhaps even fruit. \-- [MichaelChermside](../../../people/MichaelChermside)
 
 ### Hotels 
 
@@ -44,7 +44,7 @@ March 3 update: Prices are going up. Best values I\'ve found so far this evening
 
 (For the budget-conscious, who know they aren\'t going to be spending much time in their hotel anyway.)
 
-Beds at the [Washington International Student Center](http://www.washingtondchostel.com/) go for \$22/night, and there\'s at least one private room for \$55/night. Breakfast & kitchen facilities included. It\'s located in the Adams-Morgan area (\"on the hippest street in town\"), near the Dupont Circle metro station, about 3 km (2 miles) from [PyCon](PyCon) (GWU). Open to anyone, not just for students.
+Beds at the [Washington International Student Center](http://www.washingtondchostel.com/) go for \$22/night, and there\'s at least one private room for \$55/night. Breakfast & kitchen facilities included. It\'s located in the Adams-Morgan area (\"on the hippest street in town\"), near the Dupont Circle metro station, about 3 km (2 miles) from [PyCon](../PyCon) (GWU). Open to anyone, not just for students.
 
 (Update) As of a Thursday the 4th of March, the hostel still had some room left for the 23rd through 27th.
 
@@ -76,7 +76,7 @@ See [http://cafritz.gwu.edu/cafritz.php?id=1929&site=cafritz](http://cafritz.gwu
 
 #### Canada 
 
-- Toronto - See the [PyConBusFromToronto](PyConBusFromToronto) for info on a free ride to D.C. (it\'s not really a bus, it\'s a minivan that seats 7) \-- Shane [McChesney](./McChesney.html) \<shane at nooro.com\>
+- Toronto - See the [PyConBusFromToronto](../PyConBusFromToronto) for info on a free ride to D.C. (it\'s not really a bus, it\'s a minivan that seats 7) \-- Shane [McChesney](./McChesney.html) \<shane at nooro.com\>
 
 #### Virginia 
 
@@ -87,7 +87,7 @@ See [http://cafritz.gwu.edu/cafritz.php?id=1929&site=cafritz](http://cafritz.gwu
 
 ### Shared Accommodation 
 
-- [PyConBusFromToronto](PyConBusFromToronto) passengers will no doubt pair up for accomodations to save on hotel costs\... if there\'s an odd number, someone will need a partner, so if you\'re interested in splitting a room, note it here.
+- [PyConBusFromToronto](../PyConBusFromToronto) passengers will no doubt pair up for accomodations to save on hotel costs\... if there\'s an odd number, someone will need a partner, so if you\'re interested in splitting a room, note it here.
 
 - Split a room at Key Bridge? I have 2 bed room Sat Sun nites and Wed Thu nites. One bed open. [drew@astroNOSPAM.pas.rochester.edu](mailto:drew@astroNOSPAM.pas.rochester.edu).
 

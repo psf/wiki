@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[Python Library Reference](PythonLibraryReference)
+[Python Library Reference]()
 
 6.1 [os](./PythonLibraryReference(2f)GenericOperatingSystemServices(2f)OSModule.html) \-- Miscellaneous operating system interfaces
 

@@ -8,10 +8,10 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Marilyn Davis
 
-- [WesleyChun](WesleyChun)
+- [WesleyChun](../people/WesleyChun)
 
-- [ChrisCalloway](ChrisCalloway)
+- [ChrisCalloway](../people/ChrisCalloway)
 
-- [DavidBeazley](DavidBeazley)
+- [DavidBeazley](../people/DavidBeazley)
 
 - Logan Jenkins

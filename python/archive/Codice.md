@@ -10,7 +10,7 @@ C\'è una certa quantita di codice che non è abbastanza per essere un modulo ve
 
 Finchè noi prendiamo il codice, questa piccola pagina può servirci come utile punto focale.
 
-- [ProcessoProgramma](ProcessoProgramma)
+- [ProcessoProgramma](../people/ProcessoProgramma)
 
 - [ManutenereLeEccezioni](ManutenereLeEccezioni), scrittura di classi di eccezioni
 
@@ -20,7 +20,7 @@ Finchè noi prendiamo il codice, questa piccola pagina può servirci come utile 
 
 - Lavorare con il tempo, [RssLibrerire](./RssLibrerire.html), uso di salse, Minidominio
 
-- Script Cgi, [XmlRpc](XmlRpc), Documenti [XmlRpc](XmlRpc) per Server, Protocollo base Http per servert, Pasword MD5
+- Script Cgi, [XmlRpc](../networking/XmlRpc), Documenti [XmlRpc](../networking/XmlRpc) per Server, Protocollo base Http per servert, Pasword MD5
 
 - Udp Comunicazione
 

@@ -11,7 +11,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 *Note:* This page is readable without login.
 
-Each workgroup has to present a charter to help establish a collaborative environment. Below is an outline of what each charter must include. Please place your charter on the PSF wiki, so that it can be edited by your team since we ask to keep a current list of participants. The workgroup should have at least the charter page listed in the workgroup section on the [Contents](Contents) page. You can use this page as template for the charter page (removing this intro text and filling in the sections below). See the [PSF Bylaws WG](BylawsWG) wiki page for an example on how to setup a basic workgroup wiki page and charter.
+Each workgroup has to present a charter to help establish a collaborative environment. Below is an outline of what each charter must include. Please place your charter on the PSF wiki, so that it can be edited by your team since we ask to keep a current list of participants. The workgroup should have at least the charter page listed in the workgroup section on the [Contents](../../about/Contents) page. You can use this page as template for the charter page (removing this intro text and filling in the sections below). See the [PSF Bylaws WG](../BylawsWG) wiki page for an example on how to setup a basic workgroup wiki page and charter.
 
 ## Purpose & Common Goals 
 

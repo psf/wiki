@@ -16,7 +16,7 @@ Here are a few ideas:
 
 \- Proofread, edit, and extend the [documentation](http://www.python.org/dev/doc/)
 
-\- Join a [local user group](LocalUserGroups) and encourage other people you know to attend.
+\- Join a [local user group](../community/LocalUserGroups) and encourage other people you know to attend.
 
 \- [Volunteer](http://www.python.org/psf/volunteer/) to help out the Python Software Foundation!
 
@@ -26,4 +26,4 @@ Here are a few ideas:
 
 \- Download interesting packages from the [Python Package Index](http://pypi.python.org/pypi), install them, and test them out.
 
-\- Help porting python [modules and software](Python3PortingStatus) or [operating system depencies](Python3LinuxDistroPortingStatus) from Python 2 to Python 3. This is a serious issue as [the last Python 2 release happens in 2020](http://legacy.python.org/dev/peps/pep-0373/#release-schedule).
+\- Help porting python [modules and software](../py3/Python3PortingStatus) or [operating system depencies](../py3/Python3LinuxDistroPortingStatus) from Python 2 to Python 3. This is a serious issue as [the last Python 2 release happens in 2020](http://legacy.python.org/dev/peps/pep-0373/#release-schedule).

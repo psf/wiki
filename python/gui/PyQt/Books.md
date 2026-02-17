@@ -24,14 +24,14 @@ Published: 2nd edition (March 17, 2022)\
 Publisher: Apress\
 ISBN-10 : 1484279980\
 ISBN-13 : 978-1484279984\
-**Notes:** Learn GUI application development from the ground up with the latest release of [PyQt](PyQt). Take a practical approach by building simple projects that teach the fundamentals of using [PyQt](PyQt). The 2nd edition covers the basics, including widgets, layouts, MVC, and styling, as well as more advanced topics that include storing data using the clipboard, graphics and animation, support for SQL databases, creating custom widgets, multithreading applications, and an introduction to QML and Qt Quick.
+**Notes:** Learn GUI application development from the ground up with the latest release of [PyQt](). Take a practical approach by building simple projects that teach the fundamentals of using [PyQt](). The 2nd edition covers the basics, including widgets, layouts, MVC, and styling, as well as more advanced topics that include storing data using the clipboard, graphics and animation, support for SQL databases, creating custom widgets, multithreading applications, and an introduction to QML and Qt Quick.
 
 ### Python and Qt: The Best Parts 
 
 Author: Michael Herrmann\
 Link: [https://build-system.fman.io/pyqt6-book](https://build-system.fman.io/pyqt6-book)\
 Updated: March 2022\
-**Notes:** A fast introduction to creating desktop applications with Python and Qt. Includes a foreword by Phil Thompson, the creator of [PyQt](PyQt).
+**Notes:** A fast introduction to creating desktop applications with Python and Qt. Includes a foreword by Phil Thompson, the creator of [PyQt]().
 
 ### Beginning PyQt: A Hands-on Approach to GUI Programming 
 
@@ -41,7 +41,7 @@ Published: 1st edition (May 29, 2020)\
 Publisher: Apress\
 ISBN-10 : 1484258568\
 ISBN-13 : 978-1484258569\
-**Notes:** Learn GUI application development from the ground up, taking a practical approach by building simple projects that teach the fundamentals of using [PyQt](PyQt). This guide covers the basics, including widgets, layouts, MVC, and styling, as well as more advanced topics that include storing data using the clipboard, graphics and animation, support for SQL databases, creating custom widgets, and multithreading applications. Using this knowledge, you'll be able to build a photo editor, games, a text editor, a working web browser and an assortment of other GUIs.
+**Notes:** Learn GUI application development from the ground up, taking a practical approach by building simple projects that teach the fundamentals of using [PyQt](). This guide covers the basics, including widgets, layouts, MVC, and styling, as well as more advanced topics that include storing data using the clipboard, graphics and animation, support for SQL databases, creating custom widgets, and multithreading applications. Using this knowledge, you'll be able to build a photo editor, games, a text editor, a working web browser and an assortment of other GUIs.
 
 ### Modern PyQt: Create GUI Applications for Project Management, Computer Vision, and Data Analysis 
 
@@ -51,7 +51,7 @@ Published: 1st edition (December 9, 2020)\
 Publisher: Apress\
 ISBN-10 : 1484266021\
 ISBN-13 : 978-1484266021\
-**Notes:** Dive into GUI application development and create useful applications for practical and relevant topics in the fields of business, computer science, and research. Through extensive examples and hands-on projects, you will explore how to make applications for data analysis and 2D and 3D data visualization, computer vision with OpenCV and [PyQt](PyQt), the basics of networking, handling databases with SQL, and more!
+**Notes:** Dive into GUI application development and create useful applications for practical and relevant topics in the fields of business, computer science, and research. Through extensive examples and hands-on projects, you will explore how to make applications for data analysis and 2D and 3D data visualization, computer vision with OpenCV and [PyQt](), the basics of networking, handling databases with SQL, and more!
 
 ### Create GUI Applications with Python & Qt5 
 
@@ -68,7 +68,7 @@ Link: [http://www.qtrac.eu/pyqtbook.html](http://www.qtrac.eu/pyqtbook.html)\
 Published: October 2007\
 ISBN-10: 0132354187\
 ISBN-13: 978-0132354189\
-**Notes:** Covers all aspects of GUI application development with Python 2.5, [PyQt4](PyQt4) and Qt 4.2/4.3.
+**Notes:** Covers all aspects of GUI application development with Python 2.5, [PyQt4](../PyQt4) and Qt 4.2/4.3.
 
 ### GUI Programming with Python: QT 
 

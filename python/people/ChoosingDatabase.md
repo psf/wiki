@@ -8,4 +8,4 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Choosing a Database System 
 
-If you are looking for a database system to use with your Python application, please have a look at the [DatabaseInterfaces](DatabaseInterfaces) page which lists database systems that have Python interfaces available.
+If you are looking for a database system to use with your Python application, please have a look at the [DatabaseInterfaces](../database/DatabaseInterfaces) page which lists database systems that have Python interfaces available.

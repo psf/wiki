@@ -38,7 +38,7 @@ For example, the ICU one provide the following patterns:
 
 - the portable library \"International Components for Unicode\" might be used. It might be largely available as it is existing in debian distribution.
 
-- [Unicode](Unicode)
+- [Unicode](../archive/Unicode)
 
 related pep:
 
@@ -81,7 +81,7 @@ From an aesthetic point of view, I would *very much* prefer not to see the \<\> 
 
 Most US people will be unable to easily type ≤, ≥ or ≠ on their keyboards. I believe also that Guido has decreed ASCII as the character set with the exception of perhaps in comments and strings. Finally, what do digraphs and trigraphs have to do with your proposal? I don\'t think most people believe them to have been a success.
 
-\-- [SkipMontanaro](SkipMontanaro)
+\-- [SkipMontanaro](../people/SkipMontanaro)
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ Finally, some microsoft compilers are friends with extended ASCII variable names
 
 ## Lambda / Anonymous Methods / Closures 
 
-- [AlternateLambdaSyntax](AlternateLambdaSyntax)
+- [AlternateLambdaSyntax](../language/AlternateLambdaSyntax)
 
 - Anonymous Methods / Closures
 
@@ -111,7 +111,7 @@ Finally, some microsoft compilers are friends with extended ASCII variable names
 
 ## Print as builtin instead of a statement 
 
-- [PrintAsFunction](PrintAsFunction)
+- [PrintAsFunction](../archive/PrintAsFunction)
 
 ## \"..\" Sequences, Custom Infix Operators 
 
@@ -169,7 +169,7 @@ else:
 
 }}}The latter structure always makes me shudder. I\'ve never encountered a good use for non-boolean output from \"and\" (in Python. Other languages are a different story.) but using \"or\" in the first example is both quicker and more intuitive for many people not to mention reducing code complexity.\-- [StephanSokolow](./StephanSokolow.html)
 
-*Unnecessary if:else: statements to take the place of the current \"or\" behavior make my soul hurt. I use \"and\" sometimes, typically like `bar = foo and foo.get('bar')` when `foo` might be None or a dictionary. \-- [IanBicking](IanBicking)*
+*Unnecessary if:else: statements to take the place of the current \"or\" behavior make my soul hurt. I use \"and\" sometimes, typically like `bar = foo and foo.get('bar')` when `foo` might be None or a dictionary. \-- [IanBicking](../people/IanBicking)*
 
 Agreed, only comparison operators (`==`, `>`, `<`) should return True/False, leave and/or as is *(Note: the comparison operators do \*not\* return only True/False; they can return any value, as used by Numeric and SQLObject)*
 
@@ -252,7 +252,7 @@ Guido has expressed that this is a highly popular, but badly misunderstood tool 
 
 - `__slots__` complicates and slows the implementation of new-style classes.
 
-*I have never see `__slots__` misused, or used much at all, so maybe in typical real projects misuse isn\'t much of an issue? \-- [IanBicking](IanBicking)*
+*I have never see `__slots__` misused, or used much at all, so maybe in typical real projects misuse isn\'t much of an issue? \-- [IanBicking](../people/IanBicking)*
 
 ## Extra operators for strings and lists 
 
@@ -286,11 +286,11 @@ pow() to the math module!
 
 Please don\'t. There are times where you want to know if an object is callable without calling it. For instance if you create a metaclass and need to wrap defined methods passed to `__new__`, and don\'t want to wrap class variables.
 
-- *Why use callable() then? Isn\'t this what inspect.ismethod(), .isfunction() etc. are for? \--[StevenBethard](StevenBethard)*
+- *Why use callable() then? Isn\'t this what inspect.ismethod(), .isfunction() etc. are for? \--[StevenBethard](../people/StevenBethard)*
 
 In addition, using exceptions for normal control flow is not good code style.
 
-- *Using exceptions in normal control flow is very typical in Python code, so not everyone agrees \-- [IanBicking](IanBicking)*
+- *Using exceptions in normal control flow is very typical in Python code, so not everyone agrees \-- [IanBicking](../people/IanBicking)*
 
 ## Make API of set, list, dict more consistent 
 
@@ -300,7 +300,7 @@ No need for copy function. A clear function for all of them.
 
 It would clarify how copy should be done.
 
-- *Some people will argue that copy is hard, and deepcopy nearly impossible, to do \"right\" for a typical program, and so you shouldn\'t encourage these to be used generally. For specific data types \-- like dictionaries and lists \-- there are simple idioms for copies. \-- [IanBicking](IanBicking)*
+- *Some people will argue that copy is hard, and deepcopy nearly impossible, to do \"right\" for a typical program, and so you shouldn\'t encourage these to be used generally. For specific data types \-- like dictionaries and lists \-- there are simple idioms for copies. \-- [IanBicking](../people/IanBicking)*
 
 ## Don\'t remove cmp() and \_\_cmp\_\_ 
 
@@ -374,17 +374,17 @@ If the extended function call syntax was able to avoid forcing the creation of t
 
 ## Require \_\_iter\_\_() for DictMixin instead of keys() 
 
-Currently, [UserDict](./UserDict.html).[DictMixin](./DictMixin.html) requires the methods `__getitem__()`, `__setitem__()`, `__delitem__()`, and `keys()` to supply the appropriate other methods of the dict interface. I would prefer that it require `__iter__()` instead of `keys()`. [As I understand it](http://mail.python.org/pipermail/python-list/2005-January/258569.html), the fact that it uses `keys()` instead of `__iter__()` is mainly due to the order of introduction of `keys()` and `__iter__()`. Since `keys()` can easily be defined in terms of `__iter__()`, in Python 3.0, I\'d like to see `__iter__()` be the required method instead. \-- [StevenBethard](StevenBethard)
+Currently, [UserDict](./UserDict.html).[DictMixin](./DictMixin.html) requires the methods `__getitem__()`, `__setitem__()`, `__delitem__()`, and `keys()` to supply the appropriate other methods of the dict interface. I would prefer that it require `__iter__()` instead of `keys()`. [As I understand it](http://mail.python.org/pipermail/python-list/2005-January/258569.html), the fact that it uses `keys()` instead of `__iter__()` is mainly due to the order of introduction of `keys()` and `__iter__()`. Since `keys()` can easily be defined in terms of `__iter__()`, in Python 3.0, I\'d like to see `__iter__()` be the required method instead. \-- [StevenBethard](../people/StevenBethard)
 
-- The default `__iter__` implementation could potentially check if `self.keys` is also the default implementation, and if not then it calls that method. `keys` in turn calls `list(self)` always. \-- [IanBicking](IanBicking)
+- The default `__iter__` implementation could potentially check if `self.keys` is also the default implementation, and if not then it calls that method. `keys` in turn calls `list(self)` always. \-- [IanBicking](../people/IanBicking)
 
 ## Raise the level of os module functions 
 
-Many/most functions in the `os` module are thin wrappers around their underlying POSIX namesakes. This can lead to some surprises. For example, `os.rename` won\'t rename a file across partitions. It may not (I don\'t know for sure) work on Windows if another program has the file open. \-- [SkipMontanaro](SkipMontanaro)
+Many/most functions in the `os` module are thin wrappers around their underlying POSIX namesakes. This can lead to some surprises. For example, `os.rename` won\'t rename a file across partitions. It may not (I don\'t know for sure) work on Windows if another program has the file open. \-- [SkipMontanaro](../people/SkipMontanaro)
 
 ## Parameterize functions that hardcode stdout or stderr 
 
-Some modules hardcode the target of their output, typically as stdout or stderr. One example is the dis module. The functions/methods in such modules should be updated to accept an optional stream argument. \-- [SkipMontanaro](SkipMontanaro)
+Some modules hardcode the target of their output, typically as stdout or stderr. One example is the dis module. The functions/methods in such modules should be updated to accept an optional stream argument. \-- [SkipMontanaro](../people/SkipMontanaro)
 
 ## Module interface 
 
@@ -440,7 +440,7 @@ And yes, I know that [slots] is not supposed to be used for limiting attributes,
 
 ## Replace Integer Masks with Sets 
 
-(This idea was mentioned on c.l.py by Bryan Olson. I\'m just recording it, though I agree it seems like a good idea. \-- [SkipMontanaro](SkipMontanaro))
+(This idea was mentioned on c.l.py by Bryan Olson. I\'m just recording it, though I agree it seems like a good idea. \-- [SkipMontanaro](../people/SkipMontanaro))
 
 In places where Python usage currently uses a bitmask to specify a set of options it would be more Pythonic to instead use a set. For example, `re.compile()` accepts two args, a pattern and an optional set flags. Those flags are specified as integers bitwise-or-ed together:
 
@@ -470,9 +470,9 @@ This is a fairly common mistake:
 
        x = 1,
 
-and results in x referring to a one-element tuple. I think Python 3.0 should require parens for all tuple literals. \-- [SkipMontanaro](SkipMontanaro)
+and results in x referring to a one-element tuple. I think Python 3.0 should require parens for all tuple literals. \-- [SkipMontanaro](../people/SkipMontanaro)
 
-- Would that disallow `a, b == func()` ? That would make me very sad. \-- [IanBicking](IanBicking)
+- Would that disallow `a, b == func()` ? That would make me very sad. \-- [IanBicking](../people/IanBicking)
 
   Yes. You\'d have to write `(a, b) == func()` \-- Skip
 
@@ -499,7 +499,7 @@ The main reasons to remove it:
 
 - it looks like list literals, so you may not immediately realize the differences, e.g. that it\'s iterating over some iterable
 
-I think the arguments for removing the redundant `[...]` form outweigh the arguments for retaining it. \--[StevenBethard](StevenBethard)
+I think the arguments for removing the redundant `[...]` form outweigh the arguments for retaining it. \--[StevenBethard](../people/StevenBethard)
 
 ## Move builtins to be methods on the types they apply to: 
 
@@ -554,7 +554,7 @@ Python does not have a prototype-based object model. If you want to implement th
         gouda.spices = ""
         print havarti.spices
 
-\-- [SkipMontanaro](SkipMontanaro)
+\-- [SkipMontanaro](../people/SkipMontanaro)
 
 Ah, okay. Thanks. Then I would suggest updating the documentation instead.
 

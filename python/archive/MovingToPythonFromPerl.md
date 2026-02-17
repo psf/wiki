@@ -22,6 +22,6 @@ There is a book on moving from Perl to Python:
 
 ## See also 
 
-- [MovingToPythonFromOtherLanguages](MovingToPythonFromOtherLanguages)
+- [MovingToPythonFromOtherLanguages](../getting-started/MovingToPythonFromOtherLanguages)
 
-- [PerlPhrasebook](PerlPhrasebook)
+- [PerlPhrasebook](../people/PerlPhrasebook)

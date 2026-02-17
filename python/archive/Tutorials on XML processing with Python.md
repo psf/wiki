@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 *Start here if you want to write new code for XML processing*
 
-[ElementTree](ElementTree) tutorial: [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm)
+[ElementTree](../people/ElementTree) tutorial: [http://effbot.org/zone/element.htm](http://effbot.org/zone/element.htm)
 
 lxml tutorial: [http://lxml.de/tutorial.html](http://lxml.de/tutorial.html)
 

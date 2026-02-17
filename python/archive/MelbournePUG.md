@@ -75,11 +75,11 @@ If you\'re not sure on a topic, or don\'t want to give a presentation, perhaps y
 
 - Devops, Cloud Computing
 
-- User interfaces with [PyQt](PyQt), wxPython / Phoenix, \...
+- User interfaces with [PyQt](../gui/PyQt), wxPython / Phoenix, \...
 
 - Packaging: pypi, distutils, virtualenv, venv, conda
 
-- Interpreters etc.: [PyPy](PyPy), Cython, [IronPython](IronPython), CPython internals, bytecode hacking
+- Interpreters etc.: [PyPy](../implementations/PyPy), Cython, [IronPython](../implementations/IronPython), CPython internals, bytecode hacking
 
 - \... if you are interested in a particular topic, add it here!
 
@@ -429,9 +429,9 @@ Fortunately, we can do better! Using Python and PostgreSQL, we\'ll discuss a rad
 
 Bio: Robert created the data warehousing for New Zealand\'s supercomputing infrastructure, then worked for the Digital Transformation Agency in Sydney. He has been writing Python tools to make working with databases more pleasant.
 
-**2. Fred Rotbart: Highlights from [PyCon](PyCon) Israel 2017** (15 minutes)
+**2. Fred Rotbart: Highlights from [PyCon](../conferences/pycon/PyCon) Israel 2017** (15 minutes)
 
-Python wasn\'t particularly popular in Israel until recently but has exploded in popularity in the last 1-2 years. Fred attended [PyCon](PyCon) Israel this year and was surprised at how large the community there is now. He will talk about the event, Python uptake in general, and give highlights from the event.
+Python wasn\'t particularly popular in Israel until recently but has exploded in popularity in the last 1-2 years. Fred attended [PyCon](../conferences/pycon/PyCon) Israel this year and was surprised at how large the community there is now. He will talk about the event, Python uptake in general, and give highlights from the event.
 
 **3. Ed Schofield: publishing with Python** (25-30 minutes)
 
@@ -477,7 +477,7 @@ Talks:
 
 - Tyson Clugg: Python: Ludicrous mode (with Django)
 
-- [PyCon](PyCon) AU wrap-up
+- [PyCon](../conferences/pycon/PyCon) AU wrap-up
 
 **Monday, 2017-07-03, 6:00pm** at **One Roof Women, 77-83 City Road, Southbank VIC 3006**.
 
@@ -537,7 +537,7 @@ Monday, 2016-09-05, 6:00pm **at** VLSCI Seminar Room, Ground Floor, 700 Swanton 
 
 Talks:
 
-- Juan Nunez-Iglesias: ImageXD & summary of [SciPy](SciPy) 2016 & [PyCon](PyCon) AU (30 mins)
+- Juan Nunez-Iglesias: ImageXD & summary of [SciPy](SciPy) 2016 & [PyCon](../conferences/pycon/PyCon) AU (30 mins)
 
 - Ed Schofield: Creating branded reports from Jupyter notebooks (20 mins)
 
@@ -565,7 +565,7 @@ Monday, 2016-05-02, 6:00pm **at *VLSCI Seminar Room, Ground Floor, 700 Swanton S
 
 Talks:
 
-\* Tennessee Leeuwenburg: [PyCon](PyCon) AU 2016 (10 mins) \* Alexey Kotlyarov: Behaviour-driven development in Python using Aloe (30 mins) \* Ed Schofield: What\'s New in Python (May 2016) (15 mins) \* Fred Rotbart: Useful Python tech and the state of Python in Israel (20 mins)
+\* Tennessee Leeuwenburg: [PyCon](../conferences/pycon/PyCon) AU 2016 (10 mins) \* Alexey Kotlyarov: Behaviour-driven development in Python using Aloe (30 mins) \* Ed Schofield: What\'s New in Python (May 2016) (15 mins) \* Fred Rotbart: Useful Python tech and the state of Python in Israel (20 mins)
 
 Monday, 2016-04-04, 6:00pm **at *VLSCI Seminar Room, Ground Floor, 700 Swanton Street, Carlton***
 
@@ -586,7 +586,7 @@ Monday, 1 February 2016, 6:00pm **at *Inspire 9: Level 1, 41 Stewart Street, Ric
 
 Talks:
 
-- Ed Schofield: Survey of Python data tools: toolz, [NumPy](NumPy), Pandas, xarray, Blaze, Dask, and Spark
+- Ed Schofield: Survey of Python data tools: toolz, [NumPy](../science/NumPy), Pandas, xarray, Blaze, Dask, and Spark
 
 - We are looking for more talks! If you would like to volunteer a talk, please email [mailto:ed@pythoncharmers.com](mailto:ed@pythoncharmers.com) or the mailing list!
 
@@ -626,7 +626,7 @@ This is a Pycon rehearsal session, please add the times for your presentations s
 - Ed Schofield - Interactive visualization for the curious - 30 minutes (if there\'s time)
 - Andrew Stuart - 30 minutes.
 
-All talks are [PyCon](PyCon) rehearsals, so the speakers would welcome your feedback and criticism! ![:-)](/wiki/europython/img/smile.png ":-)")
+All talks are [PyCon](../conferences/pycon/PyCon) rehearsals, so the speakers would welcome your feedback and criticism! ![:-)](/wiki/europython/img/smile.png ":-)")
 
 Monday, 6 July 2015, 6:00pm **at *Inspire 9: Level 1, 41 Stewart Street, Richmond.***
 
@@ -648,7 +648,7 @@ Monday, 4 May 2015, 6:00pm **at *Inspire 9: Level 1, 41 Stewart Street, Richmond
 
 - Juan Nunez-Iglesias \-- Streaming data analysis
 
-- Ryan Kelly \-- intro to [PyCon](PyCon) AU
+- Ryan Kelly \-- intro to [PyCon](../conferences/pycon/PyCon) AU
 
 April meeting - Cancelled for Easter: Monday, 6 April 2015: no meeting
 
@@ -822,9 +822,9 @@ Monday 2nd September 2013, 6PM, Inspire 9: Level 1, 41 Stewart Street, Richmond.
 - Richard Jones \-- Don\'t do this!
   - In which Richard will tell you about some things you should never (probably ever) do to or in Python. Warranties may be voided.
 
-- Ryan Kelly \-- [PyPy](PyPy).js: towards a fast and compliant python shell for your browser
+- Ryan Kelly \-- [PyPy](../implementations/PyPy).js: towards a fast and compliant python shell for your browser
 
-  - Ryan says: \"This talk will highlight my experiments in porting [PyPy](PyPy) to the web platform: the what, the how, and the why-on-earth-would-you-do-that.\"
+  - Ryan says: \"This talk will highlight my experiments in porting [PyPy](../implementations/PyPy) to the web platform: the what, the how, and the why-on-earth-would-you-do-that.\"
 
 5 minute talks
 
@@ -834,7 +834,7 @@ Monday 5th August 2013
 
 45 minute talk
 
-- Highlights of [PyCon](PyCon) AU 2013 \-- Graeme, Richard, Tennessee, and anyone else who wants to contribute! (Please do\...)
+- Highlights of [PyCon](../conferences/pycon/PyCon) AU 2013 \-- Graeme, Richard, Tennessee, and anyone else who wants to contribute! (Please do\...)
 
 20 minute talk
 
@@ -874,7 +874,7 @@ Monday 4th March 2013
 
 5 minute talk
 
-- [PyCon](PyCon) AU is coming - Everyone
+- [PyCon](../conferences/pycon/PyCon) AU is coming - Everyone
 
 - Python loves Dropbox - Stewart Haines
 

@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ![Tamal Anwar Chowdhury](https://i.ytimg.com/vi/_-KQlvUOIwc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgUihEMA8=&rs=AOn4CLDeapYQ-gm3PTy0F_KgtwylDswzbg "Tamal Anwar Chowdhury")
 
-Organizer of [Python User Group Dhaka](PythonUserGroupDhaka). Technical Writer at Kinde, Tech Educator & Video Content Creator, [JavaScript](./JavaScript.html), React & Next.js Expert.
+Organizer of [Python User Group Dhaka](../archive/PythonUserGroupDhaka). Technical Writer at Kinde, Tech Educator & Video Content Creator, [JavaScript](./JavaScript.html), React & Next.js Expert.
 
 Contact me to co-organize tech events in Dhaka, Bangladesh. I am also available for public speaking, podcast guest, or blog writings.
 

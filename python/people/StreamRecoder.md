@@ -33,7 +33,7 @@ The `codecs` module defines a function `codecs.EncodedFile()` that will return a
 
 ------------------------------------------------------------------------
 
-See also: [StreamReader](StreamReader), [StreamWriter](StreamWriter), [StreamReaderWriter](StreamReaderWriter).
+See also: [StreamReader](StreamReader), [StreamWriter](StreamWriter), [StreamReaderWriter](../archive/StreamReaderWriter).
 
 ------------------------------------------------------------------------
 

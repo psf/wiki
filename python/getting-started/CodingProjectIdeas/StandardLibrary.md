@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Cleanup/modernize a module(s) in the stdlib.
 
-- Work on unit test suite. This includes not only developing support code (such as decorators to flag tests that are implementation-specific, known to fail, etc.), but also to have more [code coverage](CodeCoverage) in the unit tests.
+- Work on unit test suite. This includes not only developing support code (such as decorators to flag tests that are implementation-specific, known to fail, etc.), but also to have more [code coverage](../../people/CodeCoverage) in the unit tests.
 
 - Implement the [SCSU](http://www.unicode.org/reports/tr6/) codec.
 
@@ -22,9 +22,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - The modules which deal with both str and unicode sometimes treat them differently \-- which is usually a bug.
 
-- [CompleteSslSupport](CompleteSslSupport)
+- [CompleteSslSupport](../../archive/CompleteSslSupport)
 
-- [UnicodeonWindowsExtensions](UnicodeonWindowsExtensions)
+- [UnicodeonWindowsExtensions](../../archive/UnicodeonWindowsExtensions)
 
 - [MakeXmlrpclibAsynchronous](./MakeXmlrpclibAsynchronous.html)
 
@@ -36,7 +36,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Add cross compiling support in distutils (and otherwise improve distutils).
 
-- Improve Python Debugger(PDB).Some general ideas are here: [PdbImprovments](PdbImprovments). If you have any suggestions related to pdb, add them there.
+- Improve Python Debugger(PDB).Some general ideas are here: [PdbImprovments](../../people/PdbImprovments). If you have any suggestions related to pdb, add them there.
 
 - Write an RPC mechanism, or prepare an existing RPC mechanism, for the standard library (note: [http://rpyc.wikispaces.com](http://rpyc.wikispaces.com)).
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Python\'s syntax requires special handling in the construction of a Python editor mode. Two issues are particular to Python:
 
-See also [HowToEditPythonCode](HowToEditPythonCode) for concrete examples of editor configuration.
+See also [HowToEditPythonCode](../guides/HowToEditPythonCode) for concrete examples of editor configuration.
 
 ## Indentation 
 

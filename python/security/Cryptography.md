@@ -16,7 +16,7 @@ For more serious cryptography work, have a look at the following extension modul
 
 [OpenSSL](http://www.openssl.org/) is an open-source library that implements SSL and comes with a large number of very fast crypto and hash algorithm implementations.
 
-- [M2Crypto](M2Crypto) - Python interface to OpenSSL
+- [M2Crypto](../archive/M2Crypto) - Python interface to OpenSSL
 
 - [pyOpenSSL](http://pyopenssl.sf.net/) - Python interface to OpenSSL, with focus on SSL networking
 

@@ -38,19 +38,19 @@ You may later write:
 
 ## See Also 
 
-[HandlingExceptions](HandlingExceptions), [TracebackModule](./TracebackModule.html)
+[HandlingExceptions](../guides/HandlingExceptions), [TracebackModule](./TracebackModule.html)
 
 ## Questions 
 
 - How do you relay the traceback information? *Relay the traceback information? Moving it higher up the call-stack? Could you try to explain your question?*
 
-  - When you\'re logging exceptions, you want access to the traceback information to. After some research, I believe what you use is extract_tb or extract_stack from the traceback module. \-- [LionKimbro](LionKimbro) 2003-09-07 15:23:43
+  - When you\'re logging exceptions, you want access to the traceback information to. After some research, I believe what you use is extract_tb or extract_stack from the traceback module. \-- [LionKimbro](../people/LionKimbro) 2003-09-07 15:23:43
 
   *Look at cgitb for how to do detailed TB introspection, and as an example of why mixing logic and (HTML) layout is a very bad thing.*
 
 - What better exception-foo is out there?
 
-  *[AlexMartelli](AlexMartelli)\'s \"Dos and Don\'ts\".*
+  *[AlexMartelli](../people/AlexMartelli)\'s \"Dos and Don\'ts\".*
 
 - The new text involving `super` doesn\'t seem to work for me.
 
@@ -78,9 +78,9 @@ Using Python 2.3:
         super(LocalNamesSyntaxError, self)('Local Names v1.1 Syntax Error: %s' % msg)
     TypeError: super() argument 1 must be type, not classobj
 
-Is this a Python2.4 v. Python2.3 thing? Or is there a simple error in my code? \-- [LionKimbro](LionKimbro)
+Is this a Python2.4 v. Python2.3 thing? Or is there a simple error in my code? \-- [LionKimbro](../people/LionKimbro)
 
-super() only works for new-style classes. Exception is still an old-style class: type \'classobj\'. I\'ve fixed the example. \-- [JohannesGijsbers](JohannesGijsbers)
+super() only works for new-style classes. Exception is still an old-style class: type \'classobj\'. I\'ve fixed the example. \-- [JohannesGijsbers](../people/JohannesGijsbers)
 
 Thanks a lot, I was having hardtime figureing this out, as exactly the same construct worked in other places. \-- [HariDara](./HariDara.html)
 

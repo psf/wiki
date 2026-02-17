@@ -20,7 +20,7 @@ It is not clear right now if a new development will happen outside distutils or 
 
 Another great ressource to get the whole picture is [Kevin Teague\'s post](http://groups.google.com/group/django-developers/msg/5407cdb400157259) in Django Mailing list.
 
-Chris Withers made a presentation called [Python Package Management Sucks](http://www.simplistix.co.uk/presentations/python_package_management_08/python_package_management_08.pdf) at [PyCon](PyCon) Uk in september 2008.
+Chris Withers made a presentation called [Python Package Management Sucks](http://www.simplistix.co.uk/presentations/python_package_management_08/python_package_management_08.pdf) at [PyCon](../conferences/pycon/PyCon) Uk in september 2008.
 
 # Related Docs 
 
@@ -198,7 +198,7 @@ xxx
 
 # What\'s next ? 
 
-BUILDS is the code name of project for a \"Build Utilities, Installation Locations, & Distribution Standards\" (BUILDS) specification. As part of this specification, the [PythonPackagingTerminology](PythonPackagingTerminology) page documents the terms used in the Python packaging ecosystem.
+BUILDS is the code name of project for a \"Build Utilities, Installation Locations, & Distribution Standards\" (BUILDS) specification. As part of this specification, the [PythonPackagingTerminology](../archive/PythonPackagingTerminology) page documents the terms used in the Python packaging ecosystem.
 
 Create a web resource that documents the existing Python packaging ecosystem, tools and practices to make it easier for people to learn about how they can better manage their Python packaging needs.
 

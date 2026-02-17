@@ -24,7 +24,7 @@ The meeting will take place on Monday 4th June (2007-06-04) 18:00 CEST (17:00 BS
 - Bea reported that there was interest in having some speakers/guests from other programming language communities.
   - She\'ll chase up some leads and report to the program group.
 
-- [WorldPay](./WorldPay.html) support has been abandoned for this year. Laura suggested that registration for [WorldPay](./WorldPay.html) should begin immediately after [EuroPython](EuroPython) this year.
+- [WorldPay](./WorldPay.html) support has been abandoned for this year. Laura suggested that registration for [WorldPay](./WorldPay.html) should begin immediately after [EuroPython](../..) this year.
 
 - Sponsorship
   - Paul will contact sponsor \"I\".

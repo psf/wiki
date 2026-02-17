@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # EuroPython Conference Software Requirements 
 
-This page is derived from [PyConPlanning/SoftwareRequirements](../../pycon/PyConPlanning/SoftwareRequirements) but focuses on things that have proven more relevant to [EuroPython](EuroPython). The requirements here do not directly address general conference Web site issues, such as [http://www.europython.org/](http://www.europython.org/) which focuses on the publishing of general information about the conference.
+This page is derived from [PyConPlanning/SoftwareRequirements](../../pycon/PyConPlanning/SoftwareRequirements) but focuses on things that have proven more relevant to [EuroPython](). The requirements here do not directly address general conference Web site issues, such as [http://www.europython.org/](http://www.europython.org/) which focuses on the publishing of general information about the conference.
 
 ------------------------------------------------------------------------
 
@@ -16,19 +16,19 @@ This page is derived from [PyConPlanning/SoftwareRequirements](../../pycon/PyCon
 
 There are a few solutions people are using for conference management, including the following:
 
-- [Indico](http://cdsware.cern.ch/indico/) - used for [EuroPython](EuroPython) 2006 and 2007
+- [Indico](http://cdsware.cern.ch/indico/) - used for [EuroPython]() 2006 and 2007
 
 - [Zookeepr](http://www.zookeepr.org/) - developed for linux.conf.au
 
-- [PyCon-Tech](https://pycon.coderanger.net/) The [PyCon](PyCon) submissions and schedule system - developed for [PyCon](PyCon) and being developed further for [PyCon](PyCon) UK
+- [PyCon-Tech](https://pycon.coderanger.net/) The [PyCon](../../pycon/PyCon) submissions and schedule system - developed for [PyCon](../../pycon/PyCon) and being developed further for [PyCon](../../pycon/PyCon) UK
 
-- [EuroPython Software](https://github.com/pythonitalia) - This was specifically written for [EuroPython](EuroPython) by the Python Italia user group as Django application and is open-source (only the design files are not open-source). It was used for [EuroPython](EuroPython) 2011-2013 and is the official conference software for [EuroPython](EuroPython) conferences.
+- [EuroPython Software](https://github.com/pythonitalia) - This was specifically written for [EuroPython]() by the Python Italia user group as Django application and is open-source (only the design files are not open-source). It was used for [EuroPython]() 2011-2013 and is the official conference software for [EuroPython]() conferences.
 
 ------------------------------------------------------------------------
 
 ## Essentials 
 
-These are things which have been central to the organisation of [EuroPython](EuroPython) and which have already been managed using conference software:
+These are things which have been central to the organisation of [EuroPython]() and which have already been managed using conference software:
 
 - Account management
 - Registration
@@ -44,7 +44,7 @@ These are things which could have been managed using conference software or whic
 
 ## Luxuries 
 
-These are things which people seem to find interesting but which haven\'t been the focus of the [EuroPython](EuroPython) organisers:
+These are things which people seem to find interesting but which haven\'t been the focus of the [EuroPython]() organisers:
 
 - Mapping of attendee locations
 
@@ -64,7 +64,7 @@ One limitation of the Indico instance hosted at CERN was the insistence that reg
 
 ## Registration 
 
-This combines some of the [PyCon](PyCon) requirements for \"users\" with more general requirements:
+This combines some of the [PyCon](../../pycon/PyCon) requirements for \"users\" with more general requirements:
 
 - Support the following information:
   - Name
@@ -77,7 +77,7 @@ This combines some of the [PyCon](PyCon) requirements for \"users\" with more ge
 
   - Payment class: paid, unpaid
 
-  - Geographic information (this is more relevant for [EuroPython](EuroPython) given the number of countries involved)
+  - Geographic information (this is more relevant for [EuroPython]() given the number of countries involved)
 
   - Organisation
 
@@ -110,7 +110,7 @@ See \"Account Management\" for some relevant criteria.
 
 - Proposals have: title, summary/abstract, description, category, length (30/45 min), difficulty level (beginner/intermediate/advanced), a list of 3 assigned reviewers, an accepted boolean, a list of reviewer comments, and a list of uploaded documents
 
-- A mechanism must exist for reviewers to choose or be assigned submissions; [PyCon](PyCon) requirements involve assigning 3 reviewers at random (excluding the author)
+- A mechanism must exist for reviewers to choose or be assigned submissions; [PyCon](../../pycon/PyCon) requirements involve assigning 3 reviewers at random (excluding the author)
 
 - Reviewer voting or the mechanisms to form a consensus
 
@@ -152,7 +152,7 @@ See \"Account Management\" for some relevant criteria.
 
 ## Experiences with Indico 
 
-[Indico](http://cdsware.cern.ch/indico/) has been used to manage [EuroPython](EuroPython) 2007. Here\'s how it fares in the above criteria:
+[Indico](http://cdsware.cern.ch/indico/) has been used to manage [EuroPython]() 2007. Here\'s how it fares in the above criteria:
 
 ::: {}
 +:---------------------------------------------:+:------------------------------------------------------:+

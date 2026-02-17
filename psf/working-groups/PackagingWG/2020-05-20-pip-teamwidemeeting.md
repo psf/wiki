@@ -53,7 +53,7 @@ Agenda
   - different sub-items (see Notion)
     - Key question: whether the documentation work is in scope
       - \"This work possibly sits within wider scope of making the ecosystem around pip better. Georgia needs to look at budget / resources to confirm how far we can contribute to this idea.\"
-        - Sumana: [Pip2020DonorFundedRoadmap](Pip2020DonorFundedRoadmap) \-- let\'s look at this as we embark on Phase III!
+        - Sumana: [Pip2020DonorFundedRoadmap](../../packaging/Pip2020DonorFundedRoadmap) \-- let\'s look at this as we embark on Phase III!
 
     - The pip team has no understanding of when and why the pip resolver fails (`ResolutionImpossible`{.backtick} and `ResolutionTooDeep`{.backtick} exceptions). This makes it very hard to provide useful contextual information to help the user resolve their problem(s).
 

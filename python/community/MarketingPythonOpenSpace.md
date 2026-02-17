@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Organizer 
 
-[KevinAltis](KevinAltis)
+[KevinAltis](../people/KevinAltis)
 
 ## Attendees 
 

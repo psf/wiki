@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The **PythonImagingLibrary** (PIL) adds image processing capabilities to your **Python** interpreter. This library supports most popular file formats, and provides powerful image processing and graphics capabilities.
 
-PIL comes with interfaces for [TkInter](TkInter) and [PythonWin](PythonWin). Many other [GuiProgramming](GuiProgramming) toolkits also support PIL images.
+PIL comes with interfaces for [TkInter](TkInter) and [PythonWin](PythonWin). Many other [GuiProgramming](../gui/GuiProgramming) toolkits also support PIL images.
 
 More here: [http://www.pythonware.com/products/pil/index.htm](http://www.pythonware.com/products/pil/index.htm)
 

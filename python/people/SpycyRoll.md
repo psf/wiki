@@ -14,7 +14,7 @@ Neat things:
 
 - It aggregates RSS feeds, so you don\'t have to!
 
-- It seems to do well at [WorkingWithTime](WorkingWithTime). Glancing at the time interpreter, it seemed to be pretty intelligent. I don\'t think ISO8601 time zones are going to fool it, or whatever else is predominant in RSS feeds.
+- It seems to do well at [WorkingWithTime](../archive/WorkingWithTime). Glancing at the time interpreter, it seemed to be pretty intelligent. I don\'t think ISO8601 time zones are going to fool it, or whatever else is predominant in RSS feeds.
 
 Questions about it:
 

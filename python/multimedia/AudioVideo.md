@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Audio and Video 
 
-Some Python-based projects related to audio and video. See also [Screencasting](Screencasting).
+Some Python-based projects related to audio and video. See also [Screencasting](../archive/Screencasting).
 
 ## Audio/Music Editors 
 
@@ -24,7 +24,7 @@ See also [PythonInMusic](PythonInMusic) for more projects.
 
 - [Quod Libet](http://www.sacredchao.net/quodlibet) - an audio player with scalable management of music collections (more than \"a mere 10000 songs\")
 
-- [TimPlayer](TimPlayer) - a PyGTK based music player using GStreamer (see [http://creationix.com/OpenSource/TimPlayer/](http://creationix.com/OpenSource/TimPlayer/))
+- [TimPlayer](../people/TimPlayer) - a PyGTK based music player using GStreamer (see [http://creationix.com/OpenSource/TimPlayer/](http://creationix.com/OpenSource/TimPlayer/))
 
 ## Libraries and Frameworks 
 
@@ -50,6 +50,6 @@ See also [Audio](Audio) for details of Python audio libraries.
 
 ## Video Editors 
 
-- [OpenShot](http://www.openshotvideo.com/) - an open source video editor, written in Python and based on MLT and [PyGtk](PyGtk)
+- [OpenShot](http://www.openshotvideo.com/) - an open source video editor, written in Python and based on MLT and [PyGtk](../people/PyGtk)
 
 - [Pitivi](http://www.pitivi.org/) - an open source video editor, written in Python and based on GStreamer and GTK+

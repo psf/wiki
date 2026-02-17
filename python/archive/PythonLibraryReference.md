@@ -22,7 +22,7 @@ Release 2.3.3
 
 December 19, 2003
 
-(conversion to Wiki Format by [A. Lloyd Flanagan](LloydFlanagan), who didn\'t know what he was getting into)
+(conversion to Wiki Format by [A. Lloyd Flanagan](../people/LloydFlanagan), who didn\'t know what he was getting into)
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ Please go and add any commentary, links, or other material you wish. If it becom
 
 ------------------------------------------------------------------------
 
-[LloydFlanagan](LloydFlanagan) \-- 10/8/2004
+[LloydFlanagan](../people/LloydFlanagan) \-- 10/8/2004
 
 I\'ve checked out Andrew\'s setup. It\'s brilliant! I\'ve been looking at a system for parsing the current CVS documentation, creating wiki pages out of it, and updating them as the docs are changed. Meanwhile, Andrew has come up with a scheme to view the standard HTML pages side-by-side with comments.
 

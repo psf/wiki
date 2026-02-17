@@ -52,6 +52,6 @@ For the second thing there should be some strategy to choose how (and which) opt
 
 ## 4. See Also 
 
-- [ConfigParser](ConfigParser)
+- [ConfigParser](../language/ConfigParser)
 
 - [CommandlineTools](CommandlineTools)

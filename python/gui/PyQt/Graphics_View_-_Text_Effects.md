@@ -14,7 +14,7 @@ With just a QGraphicsScene, a QGraphicsView and a few input widgets, we can draw
 
 ## Importing Modules 
 
-We begin by importing the standard `sys`{.backtick} module and some classes from the [PyQt4](PyQt4) package:
+We begin by importing the standard `sys`{.backtick} module and some classes from the [PyQt4](../PyQt4) package:
 
 :::: 
 ::: 
@@ -26,7 +26,7 @@ We begin by importing the standard `sys`{.backtick} module and some classes from
 :::
 ::::
 
-For convenience, we import all the classes in [PyQt4](PyQt4)\'s `QtCore`{.backtick} and `QtGui`{.backtick} modules rather than listing only those we need. The only disadvantage to this is that the program\'s namespace will contain all the classes from those modules.
+For convenience, we import all the classes in [PyQt4](../PyQt4)\'s `QtCore`{.backtick} and `QtGui`{.backtick} modules rather than listing only those we need. The only disadvantage to this is that the program\'s namespace will contain all the classes from those modules.
 
 ## Creating a Window 
 

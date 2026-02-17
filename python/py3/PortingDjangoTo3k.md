@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-I started porting Django to Python 3 at [PyCon2008](PyCon2008). The current patch allows me to get through the tutorial, but there are certainly large parts of the code base that I haven\'t touched, so more issues are likely to show up.
+I started porting Django to Python 3 at [PyCon2008](../conferences/pycon/PyCon2008). The current patch allows me to get through the tutorial, but there are certainly large parts of the code base that I haven\'t touched, so more issues are likely to show up.
 
 The current version of the patch is available on [http://bitbucket.org/loewis/django-3k/](http://bitbucket.org/loewis/django-3k/)
 

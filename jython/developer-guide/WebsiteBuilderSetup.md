@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-[CharlieGroves](CharlieGroves), incept: 2006-08-27
+[CharlieGroves](../people/CharlieGroves), incept: 2006-08-27
 
 Jython uses reStructuredText and a custom writer to build its site. This describes how to set it up.
 

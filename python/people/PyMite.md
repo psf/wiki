@@ -32,7 +32,7 @@ I would like to know how many people plan to attend this presentation. I would a
 
 *your question/comment here*
 
-Very Cool! I have an AVR board that is just itching to have this installed. I will definitely be in attendance! I\'m especially interested in what kind of hardware interfaces you\'re providing (avr.porta.write(0x34)?) and what kind of simulation environment (if any) exists. -[PyConBrianWarner](PyConBrianWarner)
+Very Cool! I have an AVR board that is just itching to have this installed. I will definitely be in attendance! I\'m especially interested in what kind of hardware interfaces you\'re providing (avr.porta.write(0x34)?) and what kind of simulation environment (if any) exists. -[PyConBrianWarner](../conferences/pycon/PyConBrianWarner)
 
 ------------------------------------------------------------------------
 

@@ -14,19 +14,19 @@ Email: `<steven.bethard@gmail.com>`
 
 [DubiousPython](DubiousPython)
 
-[StrongVsWeakTyping](StrongVsWeakTyping)
+[StrongVsWeakTyping](../archive/StrongVsWeakTyping)
 
 [Python3.0](../py3/Python3.0)
 
 [Python3.0Suggestions](../py3/Python3.0Suggestions)
 
-[WithStatement](WithStatement)
+[WithStatement](../language/WithStatement)
 
-[AlternateLambdaSyntax](AlternateLambdaSyntax)
+[AlternateLambdaSyntax](../language/AlternateLambdaSyntax)
 
 [DictionaryKeys](DictionaryKeys)
 
-[PythonGraphApi](PythonGraphApi)
+[PythonGraphApi](../archive/PythonGraphApi)
 
 [PythonSpeed/PerformanceTips](../performance/PythonSpeed/PerformanceTips)
 

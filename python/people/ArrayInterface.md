@@ -125,4 +125,4 @@ anything else using the buffer API
 
 The proposed locking mechanism relies entirely on the objects implementing the buffer interface to do their own thing. Ideally an object that implements the buffer interface should keep at least a number indicating how many releases are extant.
 
-Currently the struct module does not allow specification of nested structures. It seems like specifying a nested structure should be specified as several ways of viewing memory areas (ctypes and [NumPy](NumPy)) already allow this.
+Currently the struct module does not allow specification of nested structures. It seems like specifying a nested structure should be specified as several ways of viewing memory areas (ctypes and [NumPy](../science/NumPy)) already allow this.

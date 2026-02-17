@@ -27,7 +27,7 @@ Laura, Stephan, Jacob, John, Aiste, David, Harald
 
   - **We have 71 delegates so far, which is ahead of last year\'s figure at this point, but the early bird deadline was later last year.**
 
-- Getting the logo cleared with the PSF - *Laura was to contact the PSF. The PSF has responded to [PyCon](PyCon) UK about their logo.* - **We\'re OK to use it.**
+- Getting the logo cleared with the PSF - *Laura was to contact the PSF. The PSF has responded to [PyCon](../../../../pycon/PyCon) UK about their logo.* - **We\'re OK to use it.**
 
 - Keynotes - confirmation of our speakers - *Aiste was introduced to Hans. Biographical details plus announcement required.*
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Installation and Setup 
 
-[JythonFaq](JythonFaq)
+[JythonFaq]()
 
 ## Command-line support in Jython? 
 

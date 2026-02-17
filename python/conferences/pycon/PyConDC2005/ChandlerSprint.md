@@ -42,7 +42,7 @@ If you are planning attend the sprint, please leave your name below, or contact 
 
 - Ted Leung
 
-- [MikeTaylor](MikeTaylor)
+- [MikeTaylor](../../../people/MikeTaylor)
 
 - Jeffrey Harris
 

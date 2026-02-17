@@ -42,15 +42,15 @@ Jim Baker spoke about \"Django on Jython.\"
 
 ## Meeting: April 16, 2008, 6-8 PM 
 
-[PyCon](PyCon) Recap!
+[PyCon](../conferences/pycon/PyCon) Recap!
 
-Once again we sent a mighty posse of Pythoneers to [PyCon](PyCon). Now that they\'re safely back in Colorado, we heard from some of them about the highlights of this year\'s big conference in Chicago.
+Once again we sent a mighty posse of Pythoneers to [PyCon](../conferences/pycon/PyCon). Now that they\'re safely back in Colorado, we heard from some of them about the highlights of this year\'s big conference in Chicago.
 
 ## Meeting: March 12, 2008, 6-8 PM 
 
-[PyCon](PyCon) preview!
+[PyCon](../conferences/pycon/PyCon) preview!
 
-Tobias Ivarsson and Jim Baker presented \"the New Compiler for Jython,\" and Jim previewed his [PyCon](PyCon) talk \"More Iterators in Action.\"
+Tobias Ivarsson and Jim Baker presented \"the New Compiler for Jython,\" and Jim previewed his [PyCon](../conferences/pycon/PyCon) talk \"More Iterators in Action.\"
 
 ## Sprint: February 23, 2008 
 
@@ -58,7 +58,7 @@ Tobias Ivarsson and Jim Baker presented \"the New Compiler for Jython,\" and Jim
 
 ## Meeting: February 20, 2008, 6-8 PM 
 
-Tentative: a [PyCon](PyCon) talk.
+Tentative: a [PyCon](../conferences/pycon/PyCon) talk.
 
 ## Meeting: Jan 16, 2008, 6-8 PM 
 
@@ -78,13 +78,13 @@ Meet at Bivio to participate in the worldwide Django sprint: [http://code.django
 
 ## Meeting: Nov 14 2007 
 
-Bring along your proposals for [PyCon](PyCon) 2008
+Bring along your proposals for [PyCon](../conferences/pycon/PyCon) 2008
 
 ## Meeting: Oct 17 2007 
 
 Lightning Talk Potluck!
 
-We\'ll have as many short presentations as we can muster, in the style of [PyCon](PyCon)\'s \"Lightning Talks.\" We may put you on the spot, so please come prepared to say at least three sentences on some tech topic that interests you.
+We\'ll have as many short presentations as we can muster, in the style of [PyCon](../conferences/pycon/PyCon)\'s \"Lightning Talks.\" We may put you on the spot, so please come prepared to say at least three sentences on some tech topic that interests you.
 
 ## Django Sprint: Sept 14-15 2007 
 
@@ -104,7 +104,7 @@ Jim will talk about the Jython 2.5 Compiler work.
 
 ## Sprint: August 4, 2007, 9 AM - 5:30 PM 
 
-A Jython sprint. See [BoulderSprint](BoulderSprint) for more details.
+A Jython sprint. See [BoulderSprint](../people/BoulderSprint) for more details.
 
 ## Meeting: July 18, 2007, 6-8 PM 
 
@@ -112,7 +112,7 @@ We had presentations on three of the leading web frameworks for Python, Django, 
 
 - Ian Kelly on Django. In addition to first introducing Django, and how to do real work with it, he also gave us some insight into contributing to an opensource project. Ian was the lead contributor to the Oracle backend for Django, and in his talk he will lead us through the process of having the [BoulderOracle](./BoulderOracle.html) branch of Django committed to the trunk. (This work on the Oracle backend commenced wtih our November 4 sprint.)
 
-- Matt Boersma on [TurboGears](TurboGears) and Pylons. The next version of [TurboGears](TurboGears), 2.0 , is expected to build on Pylons.
+- Matt Boersma on [TurboGears](../web/TurboGears) and Pylons. The next version of [TurboGears](../web/TurboGears), 2.0 , is expected to build on Pylons.
 
 ## Meeting: June 20, 2007, 6-8 PM 
 
@@ -143,7 +143,7 @@ The event is not only for GIS industry types. We welcome anybody who\'s innovati
 
 - Mary Haley will present \"Python Frameworks for Geoscience Visualization and Analysis\". PyNGL and PyNIO are Python interfaces to a widely popular software package called the NCAR Command Language (NCL), a scripting language developed at the National Center for Atmospheric Research (NCAR) for the access, analysis, and high-quality quantitative visualization of geoscientific data. NCL has had a significant impact on scientific research worldwide. Mary will briefly discuss NCL's history, and then segue into why Python was chosen for developing the next generation framework tools for file input/output, analysis and visualization. She will show an animation from a new high resolution Community Climate System Model (CCSM) run computed on a T341 grid (1024 points in longitude by 512 points in latitude) that was created using our Python interfaces to NCL and other post production utilities.
 
-  There will be a focus on some of the current projects we are working on: adding support for new scientific data formats, developing interfaces to a suite of specialized climate analysis-related functions (that need to deal with missing data), and handling large files. On the less scientific side, there will be a quick mention of issues NCAR has with supporting both Numeric and [NumPy](NumPy) users, dealing with different versions of Python, building on multiple computer platforms, and finally, training users on this software.
+  There will be a focus on some of the current projects we are working on: adding support for new scientific data formats, developing interfaces to a suite of specialized climate analysis-related functions (that need to deal with missing data), and handling large files. On the less scientific side, there will be a quick mention of issues NCAR has with supporting both Numeric and [NumPy](../science/NumPy) users, dealing with different versions of Python, building on multiple computer platforms, and finally, training users on this software.
 
 ## IPython1 Sprint: April 28, 2007 
 
@@ -170,11 +170,11 @@ The event is not only for GIS industry types. We welcome anybody who\'s innovati
 
 - Location: [bivio Software, Inc.](http://www.bivio.biz/)
 
-- Discover [how Python will rule the world](http://oubiwann.blogspot.com/2007/03/python-will-rule-world.html). In a good way, of course! Matt Boersma presented a short introduction to the One Laptop per Child project, and then allowed people to play with the [green XO laptop](http://en.wikipedia.org/wiki/One_Laptop_per_Child) at their leisure. He also led us through installing and using it our own laptops. The foundation of this project is Sugar, which is programmed in Python. As local Pythoneer [DuncanMcGreggor](DuncanMcGreggor) [points out](http://oubiwann.blogspot.com/2007/03/python-will-rule-world.html), there\'s an amazing potential in children discovering the \"mutability of \[their\] universe\]\" and \"view source\", whether it was in Basic for a certain generation, on the web, or now in the OLPC effort.
+- Discover [how Python will rule the world](http://oubiwann.blogspot.com/2007/03/python-will-rule-world.html). In a good way, of course! Matt Boersma presented a short introduction to the One Laptop per Child project, and then allowed people to play with the [green XO laptop](http://en.wikipedia.org/wiki/One_Laptop_per_Child) at their leisure. He also led us through installing and using it our own laptops. The foundation of this project is Sugar, which is programmed in Python. As local Pythoneer [DuncanMcGreggor](../archive/DuncanMcGreggor) [points out](http://oubiwann.blogspot.com/2007/03/python-will-rule-world.html), there\'s an amazing potential in children discovering the \"mutability of \[their\] universe\]\" and \"view source\", whether it was in Basic for a certain generation, on the web, or now in the OLPC effort.
 
 - Lightning talks on testing. In an influential article, Bruce Eckel advocated for [strong testing instead of strong (declarative) typing](http://www.mindview.net/WebLog/log-0025). What are you doing to test your Python code? And how does that fit into a test-driven culture? At the last meeting, there was a strong interest in anecdotes, so please feel free to share, with slides, at the white board, or just in informal discussion.
 
-- [BoulderSprint](BoulderSprint). The next sprint will be Saturday, April 28 on the [IPython1 Beta](http://ipython.scipy.org/moin/Developer_Zone/Sprint). Fernando Perez and Brian Granger will be coaching. This would be an excellent opportunity to learn about decorators, Twisted, distributed unit testing, and other advanced Python concepts while helping getting this amazing shell to beta status.
+- [BoulderSprint](../people/BoulderSprint). The next sprint will be Saturday, April 28 on the [IPython1 Beta](http://ipython.scipy.org/moin/Developer_Zone/Sprint). Fernando Perez and Brian Granger will be coaching. This would be an excellent opportunity to learn about decorators, Twisted, distributed unit testing, and other advanced Python concepts while helping getting this amazing shell to beta status.
 
 ## Meeting: March 21, 2007, 6-8 PM 
 
@@ -202,7 +202,7 @@ The event is not only for GIS industry types. We welcome anybody who\'s innovati
 
 - Michelle Cyr
 
-- [DuncanMcGreggor](DuncanMcGreggor). Represented Twisted on the [Web Frameworks Panel](http://us.pycon.org/TX2007/WebFrameworksPanel)
+- [DuncanMcGreggor](../archive/DuncanMcGreggor). Represented Twisted on the [Web Frameworks Panel](http://us.pycon.org/TX2007/WebFrameworksPanel)
 
 Audio and other presentation materials can be found [here](http://us.pycon.org/apps07/schedule/).
 
@@ -216,13 +216,13 @@ Audio and other presentation materials can be found [here](http://us.pycon.org/a
 
 Other items we talked about:
 
-- [BoulderSprint](BoulderSprint). We had a great [JythonSprint](JythonSprint), focusing on getting IPython to work on it. The next sprint will be in April, also on IPython.
+- [BoulderSprint](../people/BoulderSprint). We had a great [JythonSprint](../people/JythonSprint), focusing on getting IPython to work on it. The next sprint will be in April, also on IPython.
 
 - Google Summer of Code. One of our missions is to mentor Pythoneers. Does it make sense to add a local component to GSoC 2007 that could take advantage of the universities here?
 
 ## Sprint: February 3, 2007 
 
-- [JythonSprint](JythonSprint). Part of our [BoulderSprint](BoulderSprint) series. We sprinted on getting IPython to run on Jython (two birds here?), as well as spent time on looking at compiler updates. More will be posted soon here.
+- [JythonSprint](../people/JythonSprint). Part of our [BoulderSprint](../people/BoulderSprint) series. We sprinted on getting IPython to run on Jython (two birds here?), as well as spent time on looking at compiler updates. More will be posted soon here.
 
 - Location: [bivio Software, Inc.](http://www.bivio.biz/).
 
@@ -232,7 +232,7 @@ Other items we talked about:
 
 Topics and people attending include the following:
 
-- [BoulderSprint](BoulderSprint). We had a great [JythonSprint](JythonSprint), focusing on design. Momentum is really building, Jython might actually get the love that Charles Oliver Nutter of !JRuby proposed. More interestingly, there\'s a chance for people in the dynamic language community to work together on JVM implementations.
+- [BoulderSprint](../people/BoulderSprint). We had a great [JythonSprint](../people/JythonSprint), focusing on design. Momentum is really building, Jython might actually get the love that Charles Oliver Nutter of !JRuby proposed. More interestingly, there\'s a chance for people in the dynamic language community to work together on JVM implementations.
 
 - Tom Churchill and Vinny Fiano will demo Churchill Navigation\'s earth-rendering engine (which looks like Google Earth, only apparently even better and faster ![;)](/wiki/europython/img/smile4.png ";)") ). Vinny (their main Python guy) will explain how they built the glue logic (and why they decided against SWIG) and perhaps some of the implications of using Python as a scripting language in a real-time (60 fps) environment, and the techniques we employed to keep the graphics pipeline from stalling when making an expensive call into their engine from Python.
 
@@ -240,11 +240,11 @@ Topics and people attending include the following:
 
 ## Sprint: January 6, 2007 
 
-- [JythonSprint](JythonSprint). We talked about rethinking the existing compiler to converge on !CPython 2.5/trunk.
+- [JythonSprint](../people/JythonSprint). We talked about rethinking the existing compiler to converge on !CPython 2.5/trunk.
 
 ## Meeting: December 20, 2006 
 
-Canceled! We were going to plan the [JythonSprint](JythonSprint) and see some demos. But a blizzard intervened. Fortunately, we should be able to do all of that instead in January.
+Canceled! We were going to plan the [JythonSprint](../people/JythonSprint) and see some demos. But a blizzard intervened. Fortunately, we should be able to do all of that instead in January.
 
 ## Meeting: November 15, 2006 
 
@@ -254,6 +254,6 @@ This was a fun meeting! Even if Jill\'s has increasingly been high decibel. But 
 
 ## Meeting: October 18, 2006 
 
-- Discussed possible proposals for [PyCon2007](PyCon2007). The basic consensus was that it was a great idea that for [PyCon](PyCon) \"we\'re especially interested in presentations that will teach conference-goers something new and useful.\" In particular, we all would like to see talks with more useful takeaway code, not just talks saying, hey we are doing great things with Python. Trust us ![:)](/wiki/europython/img/smile.png ":)") .
+- Discussed possible proposals for [PyCon2007](../conferences/pycon/PyCon2007). The basic consensus was that it was a great idea that for [PyCon](../conferences/pycon/PyCon) \"we\'re especially interested in presentations that will teach conference-goers something new and useful.\" In particular, we all would like to see talks with more useful takeaway code, not just talks saying, hey we are doing great things with Python. Trust us ![:)](/wiki/europython/img/smile.png ":)") .
 
-- Began planning of [BoulderSprint](BoulderSprint), which apparently has been a burning desire for [JimBaker](JimBaker) for a while.
+- Began planning of [BoulderSprint](../people/BoulderSprint), which apparently has been a burning desire for [JimBaker](../people/JimBaker) for a while.

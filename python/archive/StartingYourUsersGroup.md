@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page describes tips and best practices for **group organizers** in regards to:
 
-- **Creating** a new Python user group (You should have checked [LocalUserGroups](LocalUserGroups) to ensure that there is not an existing group already).
+- **Creating** a new Python user group (You should have checked [LocalUserGroups](../community/LocalUserGroups) to ensure that there is not an existing group already).
 
 - **Improving** an existing Python user group.
 
@@ -42,7 +42,7 @@ These are the initial steps to prepare before the first meeting:
 
 - Other mailing lists, newsgroups, twitter, RSS, etc.
 
-- Add your group in [LocalUserGroups](LocalUserGroups). Some people come here to find such groups.
+- Add your group in [LocalUserGroups](../community/LocalUserGroups). Some people come here to find such groups.
 
 - Identify other user groups in your area and, with their permission, post an announcement of your meetings. For DFW Pythoneers we use the DFW Unix Users Group, and need to start making use of the .NET Users Group, the Apple Users Group and the North Texas Linux Users Group.
 
@@ -131,7 +131,7 @@ Your group could host any one of these.
 
 # Day-to-day operation 
 
-If you are organizing a user group event, please consider adding the event to the [Python Event Calendar](http://pycon.org#calendar) on pycon.org and in the side bar of the python.org website. This calendar is administered by a group of volunteers. Please see the [PythonEventsCalendar](PythonEventsCalendar) wiki page for details on how to get events listed.
+If you are organizing a user group event, please consider adding the event to the [Python Event Calendar](http://pycon.org#calendar) on pycon.org and in the side bar of the python.org website. This calendar is administered by a group of volunteers. Please see the [PythonEventsCalendar](../conferences/regional/PythonEventsCalendar) wiki page for details on how to get events listed.
 
 The [Group-organizers](http://mail.python.org/mailman/listinfo/group-organizers) mailing list supports people starting and running user groups. A [post in the archives of the Group-organizers list](http://mail.python.org/mailman/private/group-organizers/2007-June/000003.html) describes several organizing tactics (you must join the list in order to view its archives).
 
@@ -141,9 +141,9 @@ You may draw on the [PythonSpeakers](PythonSpeakers) page to help find speakers.
 
 # Videos to watch 
 
-- [Diversity in practice: How the Boston Python User Group grew to 1700 people and over 15% women](https://www.youtube.com/watch?v=QrITN6GZDu4), by Jessica [McKellar](./McKellar.html) and Asheesh Laroia, [PyCon](PyCon) 2012.
+- [Diversity in practice: How the Boston Python User Group grew to 1700 people and over 15% women](https://www.youtube.com/watch?v=QrITN6GZDu4), by Jessica [McKellar](./McKellar.html) and Asheesh Laroia, [PyCon](../conferences/pycon/PyCon) 2012.
 
-- [Montreal-Python \-- Lessons Learned from Bootstraping a Python Community](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-montreal-python-lessons-learned-from-bootstraping-a-python-community-4901495), by Yannick Gingras at [PyCon](PyCon) 2011.
+- [Montreal-Python \-- Lessons Learned from Bootstraping a Python Community](http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2011-montreal-python-lessons-learned-from-bootstraping-a-python-community-4901495), by Yannick Gingras at [PyCon](../conferences/pycon/PyCon) 2011.
 
 # Notes from BOF at PyCon 2013 
 

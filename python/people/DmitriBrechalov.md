@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### Translations 
 
-- [Jonathan Gardner\'s PyQt Tutorial translated into Russian](http://dmych.wikispaces.com/PyQtTutorial) (Original text is here: [JonathanGardnerPyQtTutorial](JonathanGardnerPyQtTutorial))
+- [Jonathan Gardner\'s PyQt Tutorial translated into Russian](http://dmych.wikispaces.com/PyQtTutorial) (Original text is here: [JonathanGardnerPyQtTutorial](../archive/JonathanGardnerPyQtTutorial))
 
 ------------------------------------------------------------------------
 

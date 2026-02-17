@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # EuroPython 2007: Call for Sponsors 
 
-**Note: if you change this, bear in mind that a working copy on the [EuroPython](EuroPython) site will also need updating.**
+**Note: if you change this, bear in mind that a working copy on the [EuroPython](..) site will also need updating.**
 
 **See the [EuroPython/2007/CallForSponsorsMessage](CallForSponsorsMessage) for a text suitable for sending out to different channels.**
 
-This year, [EuroPython](EuroPython) will take place from Monday 9th July to Wednesday 11th July in Vilnius, Lithuania. As the premier pan-European Python event, this is a great opportunity to reach dedicated users of Python in business and academia, as well as influential members of the Python community. Last year\'s conference was a great success, and we would like to offer you the chance to participate in this year\'s event as a sponsor or an exhibitor. With your support, your organisation can share in the success of [EuroPython](EuroPython) 2007: the sixth annual conference in the well established and highly regarded conference series for the European Python and Zope communities.
+This year, [EuroPython](..) will take place from Monday 9th July to Wednesday 11th July in Vilnius, Lithuania. As the premier pan-European Python event, this is a great opportunity to reach dedicated users of Python in business and academia, as well as influential members of the Python community. Last year\'s conference was a great success, and we would like to offer you the chance to participate in this year\'s event as a sponsor or an exhibitor. With your support, your organisation can share in the success of [EuroPython](..) 2007: the sixth annual conference in the well established and highly regarded conference series for the European Python and Zope communities.
 
 ## Exhibitors 
 
@@ -22,7 +22,7 @@ As an exhibitor the following terms and conditions apply:
 
 - You are required to keep your booth staffed during the \"trade show\". This will take place for a period of 6 hours. You can keep your booth staffed or left unattended the rest of the time - it is up to each exhibitor to decide.
 
-- You can rent more space and equipment on the show floor at close to \"cost\" prices. Contact the [EuroPython](EuroPython) organisers for an offer.
+- You can rent more space and equipment on the show floor at close to \"cost\" prices. Contact the [EuroPython](..) organisers for an offer.
 
 - Depending on availability, it may also be possible to rent your own seminar room for demonstrations, private seminars, job interviews etc. Please contact the organisers for details and offers.
 
@@ -62,11 +62,11 @@ This gives you:
 
 ### Special Sponsor - Negotiable 
 
-If you have an offer which is of mutual benefit, we are ready to hear it. Please contact the [EuroPython](EuroPython) organisers.
+If you have an offer which is of mutual benefit, we are ready to hear it. Please contact the [EuroPython](..) organisers.
 
 ## Other Arrangements 
 
-If you want to put on a special event, please contact the [EuroPython](EuroPython) organisers.
+If you want to put on a special event, please contact the [EuroPython](..) organisers.
 
 ## Deadlines 
 
@@ -74,6 +74,6 @@ For planning purposes in connection with the programme, we need your decision to
 
 ## Contact 
 
-The [EuroPython](EuroPython) organisers can be contacted via a general sponsorship mailing list at the following address: europython-sponsorship at python.org
+The [EuroPython](..) organisers can be contacted via a general sponsorship mailing list at the following address: europython-sponsorship at python.org
 
 For confidential enquiries, the organisers can also be contacted at the following address: sponsorship at europython.org

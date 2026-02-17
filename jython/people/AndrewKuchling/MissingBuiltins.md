@@ -58,4 +58,4 @@ The [index] method
 
 ------------------------------------------------------------------------
 
-**Note:** Similar list in [BiggerTasks](BiggerTasks)
+**Note:** Similar list in [BiggerTasks](../../internals/BiggerTasks)

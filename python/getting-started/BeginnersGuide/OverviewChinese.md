@@ -30,6 +30,6 @@ Python语言的编程语言特性：
 - 包含生成器（generators）和列表操作（list comprehesions）这样的高级特性
 - 自动管理内存，避免你在自己的代码里费心申请释放内存
 
-可以查看[SimpleProgramsChinese](SimpleProgramsChinese)，收集了一些代码行逐步变多的短程序，它们展示了Python的语法和可读性
+可以查看[SimpleProgramsChinese](../SimpleProgramsChinese)，收集了一些代码行逐步变多的短程序，它们展示了Python的语法和可读性
 
 编写Python代码一点都不难------但你需要使用PEP代码风格，你可以学习Pythonchecker.com上的在线资源来测试、检查和改进你的代码风格

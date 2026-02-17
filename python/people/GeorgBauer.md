@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Email: [gb@murphy.bofh.ms](mailto:gb@murphy.bofh.ms) Homepage: [http://pyds.muensterland.org/](http://pyds.muensterland.org/)
 
-Author of [PyDS](PyDS).
+Author of [PyDS](../archive/PyDS).
 
 ------------------------------------------------------------------------
 

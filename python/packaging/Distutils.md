@@ -80,7 +80,7 @@ The rest of this page and its subpages relate to a previous attempt at improving
 
 - [/Tutorial](Distutils/Tutorial) is a small tutorial to introduce the topic. It includes a complete demo, from start to finish.
 
-- [CheeseShopTutorial](CheeseShopTutorial) is a related tutorial that just covers submitting information to the [Python Package Index](http://pypi.python.org/pypi)
+- [CheeseShopTutorial](../archive/CheeseShopTutorial) is a related tutorial that just covers submitting information to the [Python Package Index](http://pypi.python.org/pypi)
 
 - [Python Package Index Tutorial](http://www.python.org/~jeremy/weblog/030924.html) by Jeremy Hylton covers the use of the distutils register command.
 

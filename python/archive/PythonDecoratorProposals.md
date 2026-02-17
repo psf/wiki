@@ -132,7 +132,7 @@ And here is an example taken from the current test_decorators.py. This exposes t
 
 - \- Would not work in interactive mode (list would be interpreted right away)
 
-- \- [EuroPython](EuroPython) didn\'t like it ( why? ) (hard to teach newbies about the magic)
+- \- [EuroPython](../conferences/europython/EuroPython) didn\'t like it ( why? ) (hard to teach newbies about the magic)
 
 - \- The backwards compatability wouldn\'t be portable to Jython
 

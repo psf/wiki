@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # How to use aeve for newbies 
 
-This aeve module sounds great, exactly what I\'ve been looking for, but I must say that I have been having a ton of trouble getting things to work. Some more documentation would really help. To see what I can add to the effort, I\'ve added this page to jot down my findings. - [WinstonWolff](WinstonWolff) Nov 03
+This aeve module sounds great, exactly what I\'ve been looking for, but I must say that I have been having a ton of trouble getting things to work. Some more documentation would really help. To see what I can add to the effort, I\'ve added this page to jot down my findings. - [WinstonWolff](../../people/WinstonWolff) Nov 03
 
 **Q: How do I Install this thing?**
 
@@ -24,7 +24,7 @@ A: In order to install aeve on Panther you need these modules: - ww nov 03
 
 **Q: How do I get started? I know Python, but I don\'t know a thing about [../AppleScript](AppleScript).**
 
-A: To get a primer on how to \"read\" [../AppleScript](AppleScript) and understand it as a Python programmer, I found Apple\'s \"AppleScript Language Guide\" the most useful. - [WinstonWolff](WinstonWolff) Nov 03
+A: To get a primer on how to \"read\" [../AppleScript](AppleScript) and understand it as a Python programmer, I found Apple\'s \"AppleScript Language Guide\" the most useful. - [WinstonWolff](../../people/WinstonWolff) Nov 03
 
 **Q: I\'ve seen the iCal example of how to \"make\" an object, but I want to automate [../OmniGraffle](OmniGraffle). How do I create these properties to pass into make()? I\'ve tried the following, but the iter Objects For Name() doesn\'t work.**
 

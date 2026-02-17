@@ -10,9 +10,9 @@ If you contribute to the [PythonWiki](./PythonWiki.html), consider creating a pa
 
 - [DougRansom](DougRansom)
 
-- [lwickjr](lwickjr)
+- [lwickjr](../archive/lwickjr)
 
-- [DavidMacQuigg](DavidMacQuigg)
+- [DavidMacQuigg](../archive/DavidMacQuigg)
 
 - [JohnBaxter](JohnBaxter)
 
@@ -20,7 +20,7 @@ If you contribute to the [PythonWiki](./PythonWiki.html), consider creating a pa
 
 - [SkipMontanaro](SkipMontanaro)
 
-- [Pallavi](Pallavi)
+- [Pallavi](../archive/Pallavi)
 
 - [LionKimbro](LionKimbro)
 
@@ -30,11 +30,11 @@ If you contribute to the [PythonWiki](./PythonWiki.html), consider creating a pa
 
 - [LarsOlson](LarsOlson)
 
-- [GvR](GvR)
+- [GvR](../archive/GvR)
 
 - [EdvardMajakari](EdvardMajakari)
 
-- [Andybebad](Andybebad)
+- [Andybebad](../archive/Andybebad)
 
 - [KennethGorelick](KennethGorelick)
 

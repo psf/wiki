@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-A framework for [WebProgramming](WebProgramming).
+A framework for [WebProgramming](../web/WebProgramming).
 
 ### Masthead 
 
@@ -66,4 +66,4 @@ Other presentation systems could presumably be used instead, given the ability t
 
 ### Comments 
 
-Spyce addresses many areas of interest to Web application developers within a widely-known \*SP paradigm: sessions, pooled objects, templating, and so on. Some novel features are also supported: automatons, for example, which attempt to encapsulate multi-stage transactions (or \"application flows\" as the documentation calls them). However, by design, Spyce does not attempt to provide everything - it aims to do dynamic Web content generation well and integrate with other things easily (see [http://spyce.sourceforge.net/](http://spyce.sourceforge.net/)). Moreover, it can also be used as a standalone processing tool completely outside a Web application environment. \-- [PaulBoddie](PaulBoddie)
+Spyce addresses many areas of interest to Web application developers within a widely-known \*SP paradigm: sessions, pooled objects, templating, and so on. Some novel features are also supported: automatons, for example, which attempt to encapsulate multi-stage transactions (or \"application flows\" as the documentation calls them). However, by design, Spyce does not attempt to provide everything - it aims to do dynamic Web content generation well and integrate with other things easily (see [http://spyce.sourceforge.net/](http://spyce.sourceforge.net/)). Moreover, it can also be used as a standalone processing tool completely outside a Web application environment. \-- [PaulBoddie](../people/PaulBoddie)

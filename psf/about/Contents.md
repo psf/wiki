@@ -69,9 +69,9 @@ Contents
 ::: 
 ### [New Membership Model (2013)](#id3)
 
-- [The New PSF Membership Model](NewMembershipModel)
-- [Membership Model Visualization](MembershipModelVisualization)
-- [Talks on the new PSF membership model](MembershipModelTalks)
+- [The New PSF Membership Model](../governance/NewMembershipModel)
+- [Membership Model Visualization](../governance/MembershipModelVisualization)
+- [Talks on the new PSF membership model](../governance/MembershipModelTalks)
 - [PSF Internal FAQ](PSFInternalFAQ) - addressing questions regarding the membership model, work groups, organization, etc.
 :::
 
@@ -80,24 +80,24 @@ Contents
 
 - [Example PSF Workgroup Page](Example PSF Workgroup Page) (includes info on how to begin a workgroup)
 - [Example PSF Workgroup Charter](Example PSF Workgroup Charter)
-- [PSF Bylaws WG](BylawsWG)
-- [PSF Cuban Pythonistas WG](PythonCubaWG)
-- [PSF Education WG](PythonEduWG)
-- [PSF Fellow WG](FellowWG)
-- [PSF Grants WG](GrantsWG)
-- [PSF Infrastructure WG](InfrastructureWG)
-- [PSF Jobs WG](JobsWG)
-- [PSF Marketing WG](MarketingWG)
-- [PSF Meta WG](MetaWG)
-- [PSF Packaging WG](PackagingWG)
-- [PSF Pydotorg WG](PydotorgWG) (not active)
-- [PSF Scientific Python WG](ScientificWG)
-- [PSF Sponsor WG](SponsorWG)
-- [PSF Sponsorship Bundle WG](SponsorshipBundleWG)
-- [PSF Translation WG](TranslationWG)
+- [PSF Bylaws WG](../working-groups/BylawsWG)
+- [PSF Cuban Pythonistas WG](../working-groups/PythonCubaWG)
+- [PSF Education WG](../working-groups/PythonEduWG)
+- [PSF Fellow WG](../working-groups/FellowWG)
+- [PSF Grants WG](../working-groups/GrantsWG)
+- [PSF Infrastructure WG](../working-groups/InfrastructureWG)
+- [PSF Jobs WG](../working-groups/JobsWG)
+- [PSF Marketing WG](../working-groups/MarketingWG)
+- [PSF Meta WG](../working-groups/MetaWG)
+- [PSF Packaging WG](../working-groups/PackagingWG)
+- [PSF Pydotorg WG](../working-groups/PydotorgWG) (not active)
+- [PSF Scientific Python WG](../working-groups/ScientificWG)
+- [PSF Sponsor WG](../working-groups/SponsorWG)
+- [PSF Sponsorship Bundle WG](../working-groups/SponsorshipBundleWG)
+- [PSF Translation WG](../working-groups/TranslationWG)
 - [PSF Conduct WG](../working-groups/ConductWG/Charter)
-- [PSF Funding WG](ProjectFundingWG)
-- [PSF Diversity and Inclusion WG](DiversityandInclusionWG)
+- [PSF Funding WG](../working-groups/ProjectFundingWG)
+- [PSF Diversity and Inclusion WG](../working-groups/DiversityandInclusionWG)
 :::
 
 ::: 
@@ -157,9 +157,9 @@ This section is from 2008 and is not something that evolved into a PSF project.
 ::: 
 ### [Communications](#id11)
 
-- [Communications Status Reports](Communications) (historical information & no longer in use)
-- [Communication Chair Processes](CommunicationChairProcesses)
-- [PSF Blog](PSFBlog)
+- [Communications Status Reports](../communications/Communications) (historical information & no longer in use)
+- [Communication Chair Processes](../communications/CommunicationChairProcesses)
+- [PSF Blog](../communications/PSFBlog)
 :::
 
 ::: 
@@ -176,11 +176,11 @@ This section is from 2008 and is not something that evolved into a PSF project.
 - [PSF Logos](../marketing/PSF Logos) (official versions of the PSF logos)
 - [PSF Python Brochure](../marketing/PSF Python Brochure) (marketing brochure for Python)
 - [Python Logos](../marketing/Python Logos) (official versions of the Python logos)
-- [SurveyQuestions](SurveyQuestions)
+- [SurveyQuestions](../governance/SurveyQuestions)
 - Running a Python booth at a local event: [http://rhodesmill.org/brandon/2009/python-at-atlanta-linux-fest/](http://rhodesmill.org/brandon/2009/python-at-atlanta-linux-fest/)
-- [Call for PSF Logos](CallForLogos)
+- [Call for PSF Logos](../marketing/CallForLogos)
 - [PSF Conference Kit](../marketing/PSF Conference Kit) (conference kits we have available to send to conferences)
-- [Merchandise](Merchandise) (merchandise ideas)
+- [Merchandise](../marketing/Merchandise) (merchandise ideas)
 :::
 
 ::: 
@@ -228,8 +228,8 @@ To make them readable only by members, use the following ACL definition:
 - [AdminGroup](AdminGroup)
 - [BoardGroup](BoardGroup)
 - [TmcGroup](TmcGroup)
-- [ScientificWGGroup](ScientificWGGroup)
-- [PackagingWGGroup](PackagingWGGroup)
-- [SponsorWGGroup](SponsorWGGroup)
-- [FellowWGGroup](FellowWGGroup)
+- [ScientificWGGroup](../working-groups/ScientificWGGroup)
+- [PackagingWGGroup](../working-groups/PackagingWGGroup)
+- [SponsorWGGroup](../working-groups/SponsorWGGroup)
+- [FellowWGGroup](../working-groups/FellowWGGroup)
 :::

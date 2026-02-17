@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Development of python.org Website to promote and inform about python 
 
-**Note:** This proposal was funded and completed. See [PythonWebsite](PythonWebsite) for information on ongoing content and tool development for the python.org website.
+**Note:** This proposal was funded and completed. See [PythonWebsite](../infrastructure/PythonWebsite) for information on ongoing content and tool development for the python.org website.
 
 The python website development started approximately a year ago. Over the period of the last year there has been significant input from Python users, advocates and board members which has resulted in the following deliverables
 

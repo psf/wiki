@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Rescued from archive.org at [this page](http://web.archive.org/web/20070222052545/http://wiki.python.org/moin/PyCon2005/Feedback).
 
-This page summarizes the feedback from the user-response forms from [PyCon](PyCon) 2005. Overall ratings
+This page summarizes the feedback from the user-response forms from [PyCon](../PyCon) 2005. Overall ratings
 
 Please rate your overall \...
 
@@ -20,7 +20,7 @@ High
 
 Very high
 
-\... satisfaction with [PyCon](PyCon)
+\... satisfaction with [PyCon](../PyCon)
 
 2
 
@@ -153,7 +153,7 @@ Vote count:
 
 - - Envisage (3)
 
-- - [PyPy](PyPy) Type Inference (3)
+- - [PyPy](../../../implementations/PyPy) Type Inference (3)
 
 - - Traits (3)
 
@@ -187,7 +187,7 @@ Vote count:
 
 - - Personal Internet Endpoint (2)
 
-Single votes: Learning Arabic, Happy Hooking, [SchoolBell](./SchoolBell.html), Localized Type Inference, Time of Day, Documentation Costs Avoided, Streaming Python, [PyBlosxom](./PyBlosxom.html), [PyLucene](PyLucene). Accommodations
+Single votes: Learning Arabic, Happy Hooking, [SchoolBell](./SchoolBell.html), Localized Type Inference, Time of Day, Documentation Costs Avoided, Streaming Python, [PyBlosxom](./PyBlosxom.html), [PyLucene](../../../people/PyLucene). Accommodations
 
 \"Where did you stay?\"
 
@@ -197,7 +197,7 @@ Single votes: Learning Arabic, Happy Hooking, [SchoolBell](./SchoolBell.html), L
 - - Hostel (11/9%)
 - - Other: Room in a house; rented mini-apartment.
 
-\"If you attend [PyCon](PyCon) next year, would you stay at a conference hotel?\"
+\"If you attend [PyCon](../PyCon) next year, would you stay at a conference hotel?\"
 
 - - Yes (72/72%)
 - - No (27/27%)
@@ -216,7 +216,7 @@ If yes, what is your maximum per-person nightly hotel room budget?
 
 - - \>200 (1/1%) (1% of respondents can afford this)
 
-Which location would you prefer for [PyCon](PyCon) 2006?
+Which location would you prefer for [PyCon](../PyCon) 2006?
 
 - - Downtown hotel (28/25%)
 - - Suburban hotel (8/7%)
@@ -230,7 +230,7 @@ Is the Washington DC metropolitan area convenient for you?
 - - Yes (96/83%)
 - - No (20/17%)
 
-If [PyCon](PyCon) were not to be in Washington DC, what 3 cities/regions would you prefer?
+If [PyCon](../PyCon) were not to be in Washington DC, what 3 cities/regions would you prefer?
 
 Boston (20 votes)
 
@@ -344,7 +344,7 @@ Please list tutorial subjects you would like to attend.
 
 - - Packaging (distutils, standalone apps) (4)
 
-- - [PyGame](PyGame) (4)
+- - [PyGame](../../../multimedia/PyGame) (4)
 
 - - Intermediate-level Python (4)
 
@@ -358,7 +358,7 @@ Please list tutorial subjects you would like to attend.
 
 - - Numeric/science (3)
 
-- - [IronPython](IronPython) (3)
+- - [IronPython](../../../implementations/IronPython) (3)
 
 - - Jython (2)
 

@@ -85,7 +85,7 @@ Please note that the PSF bylaws require that Board candidates disclose significa
 ::: 
 Note
 
-Please follow the instructions on the [FrontPage](FrontPage) to gain wiki edit access.
+Please follow the instructions on the [FrontPage](../../people/FrontPage) to gain wiki edit access.
 :::
 
 **Registering to vote on PSF ballots**
@@ -133,7 +133,7 @@ Affiliation: Raspberry Pi Foundation
 
 You may know me as Python Core Developer. I have designed and implemented the [Unicode integration and codecs for Python](https://www.python.org/dev/peps/pep-0100/) and maintained it for more than a decade, among several other things in CPython.
 
-More details about myself and what I\'ve done for the Python community since I joined it in 1993/1994 are available on my [wiki home page](MarcAndreLemburg).
+More details about myself and what I\'ve done for the Python community since I joined it in 1993/1994 are available on my [wiki home page](../../archive/MarcAndreLemburg).
 
 I am a founding Fellow of the PSF, have been PSF board member in the years 2002-2004 and then again since 2010.
 

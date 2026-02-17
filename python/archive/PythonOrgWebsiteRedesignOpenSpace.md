@@ -10,11 +10,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Organizer 
 
-[KevinAltis](KevinAltis)
+[KevinAltis](../people/KevinAltis)
 
 ## Attendees 
 
-[EvelynMitchell](./EvelynMitchell.html), tummy.com, Aahz, [WesleyChun](WesleyChun), [NeilSchemenauer](NeilSchemenauer), [AndrewKuchling](AndrewKuchling), [ThomasWouters](./ThomasWouters.html), [BrettCannon](./BrettCannon.html), [SteveHolden](SteveHolden), [RogerMasse](./RogerMasse.html), [TrevorToenjes](./TrevorToenjes.html), [MichaelMcFarland](./MichaelMcFarland.html), Francois?
+[EvelynMitchell](./EvelynMitchell.html), tummy.com, Aahz, [WesleyChun](../people/WesleyChun), [NeilSchemenauer](../people/NeilSchemenauer), [AndrewKuchling](AndrewKuchling), [ThomasWouters](./ThomasWouters.html), [BrettCannon](./BrettCannon.html), [SteveHolden](../people/SteveHolden), [RogerMasse](./RogerMasse.html), [TrevorToenjes](./TrevorToenjes.html), [MichaelMcFarland](./MichaelMcFarland.html), Francois?
 
 ## Notes 
 
@@ -22,7 +22,7 @@ A new mailing list has been created for discussion of this topic.
 
 - [http://mail.python.org/mailman/listinfo/pydotorg-redesign](http://mail.python.org/mailman/listinfo/pydotorg-redesign)
 
-Progress is also being tracked on [PydotorgRedesign](PydotorgRedesign).
+Progress is also being tracked on [PydotorgRedesign](../people/PydotorgRedesign).
 
 ## Meeting minutes 
 

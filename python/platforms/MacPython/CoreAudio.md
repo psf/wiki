@@ -12,7 +12,7 @@ Links:
 
 - [Boodler](http://www.eblong.com/zarf/boodler/) - [/Python](./MacPython(2f)CoreAudio(2f)Python.html)
 
-I ([DonovanPreston](DonovanPreston)) have been noodling around with wrapping the low level [/CoreAudio](./MacPython(2f)CoreAudio(2f)CoreAudio.html) APIs necessary to generate sound on Mac OS X using Python. After struggling with threading and callbacks into Python issues I managed to get a simple hello world going which just plays a sine wave for 5 seconds. The bulk of the code is in a pyrex file here:
+I ([DonovanPreston](../../people/DonovanPreston)) have been noodling around with wrapping the low level [/CoreAudio](./MacPython(2f)CoreAudio(2f)CoreAudio.html) APIs necessary to generate sound on Mac OS X using Python. After struggling with threading and callbacks into Python issues I managed to get a simple hello world going which just plays a sine wave for 5 seconds. The bulk of the code is in a pyrex file here:
 
 - [http://soundfarmer.com/content/code/coreaudio/coreaudio.pyx](http://soundfarmer.com/content/code/coreaudio/coreaudio.pyx)
 

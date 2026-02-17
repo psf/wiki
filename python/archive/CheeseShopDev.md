@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page is about development of the [Python Package Index](http://pypi.org) (formerly known as Cheeseshop):
 
-- More Info: [CheeseShop](CheeseShop)
+- More Info: [CheeseShop](../people/CheeseShop)
 
 - PyPI APIs: [JSON](PyPIJSON), [XMLRPC](PyPIXmlRpc)
 
@@ -28,7 +28,7 @@ If you need to test stuff against PyPI (registration, uploading, API activities)
 
 ## TO-DO list 
 
-Meta-to-do: file the issues below that are still unresolved in [the GitHub issue tracker](https://github.com/pypa/warehouse/issues), then remove this section. \-- [SumanaHarihareswara](SumanaHarihareswara) 2019-08-23 10:57:10
+Meta-to-do: file the issues below that are still unresolved in [the GitHub issue tracker](https://github.com/pypa/warehouse/issues), then remove this section. \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:57:10
 
 - A dump of download counts.
 
@@ -96,4 +96,4 @@ XML-RPC requests are detected by CONTENT_TYPE=`text/xml`{.backtick} variable in 
 
 ## Legacy PyPI Development Environment Hints 
 
-Removed (visible in [page history](https://wiki.python.org/moin/CheeseShopDev?action=recall&rev=81)) because developing and running legacy PyPI is deprecated. \-- [SumanaHarihareswara](SumanaHarihareswara) 2019-08-23 10:57:10
+Removed (visible in [page history](https://wiki.python.org/moin/CheeseShopDev?action=recall&rev=81)) because developing and running legacy PyPI is deprecated. \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:57:10

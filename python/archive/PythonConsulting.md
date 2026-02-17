@@ -14,9 +14,9 @@ A Python Consultant providing training and consulting in Python and available to
 
 Agile Objectives, LLC keeps your projects on track by using Agile methodologies. You\'ll know exactly where the project stands at all times and have full control over the priority of the deliverables. We leverage the capabilities of Python, Jython, and Zope for reduced time to market. Contact: [hart@gol.com](mailto:hart@gol.com)
 
-[Antonio Cuni](http://antocuni.eu/) is an expert of Python and [PyPy](PyPy) core developer, based in Italy. He offers consultancy in Europe.
+[Antonio Cuni](http://antocuni.eu/) is an expert of Python and [PyPy](../implementations/PyPy) core developer, based in Italy. He offers consultancy in Europe.
 
-Anubavam LLC is a San Antonio based Software development company with offices in Chennai, India. We have developed Web 2.0 applications in Django, written several run time APIs. We have also worked on Plone and [CherryPy](CherryPy). Our Python developer page [http://www.anubavam.com/python-developer](http://www.anubavam.com/python-developer) Contact: [http://www.anubavam.com/contact-us](http://www.anubavam.com/contact-us)
+Anubavam LLC is a San Antonio based Software development company with offices in Chennai, India. We have developed Web 2.0 applications in Django, written several run time APIs. We have also worked on Plone and [CherryPy](../web/CherryPy). Our Python developer page [http://www.anubavam.com/python-developer](http://www.anubavam.com/python-developer) Contact: [http://www.anubavam.com/contact-us](http://www.anubavam.com/contact-us)
 
 [AnvilEight](https://anvileight.com) is a **Python & Django** web and mobile development shop based in **Ukraine**. We build back-ends and website primarily with Django and Flask. We do API-driven front-ends with React.js and Angular.js as well. We also provide mobile development services building iOS and Android applications while creating API in Python.
 
@@ -124,7 +124,7 @@ Mindfire Solutions is an India based Software development company with offices i
 
 [Pangur Pty Ltd](http://pangur.com.au) is an Australian (Melbourne) python development company specializing in bespoke python web solutions with a focus on scalability/extensibility, but with experience in a broad range of areas from web to GUIs to networking. With over 25 years industry experience our small team is ready to discuss your requirements today.
 
-[Phaseit](http://phaseit.net), most often represented by principal [CameronLaird](CameronLaird), provides Python programming, training, and related consulting services, particularly with [Web services](WebServices), [StacklessPython](StacklessPython), [TurboGears](TurboGears), [WebWare](WebWare), [Zope](Zope), and other Web-based application servers, and [TkInter](TkInter), [PyQt](PyQt), [WxWindows](WxWindows), and other [GUI](GuiProgramming) toolkits.
+[Phaseit](http://phaseit.net), most often represented by principal [CameronLaird](../people/CameronLaird), provides Python programming, training, and related consulting services, particularly with [Web services](../people/WebServices), [StacklessPython](../people/StacklessPython), [TurboGears](../web/TurboGears), [WebWare](../people/WebWare), [Zope](../web/Zope), and other Web-based application servers, and [TkInter](TkInter), [PyQt](../gui/PyQt), [WxWindows](../gui/WxWindows), and other [GUI](../gui/GuiProgramming) toolkits.
 
 [Piran Digital](http://piran.com.au), Python / Django specialists in Sydney, Australia. We build amazing web software with Django.
 
@@ -156,7 +156,7 @@ Mindfire Solutions is an India based Software development company with offices i
 
 **[Riseapps](https://riseapps.co/)** is a B2B IT services company headquartered in Talinn, Estonia with offices in the US, Poland, and Ukraine delivering custom AI solutions and integrations for healthcare under ISO, HIPAA, HITECH, GDPR compliance, trusted by Fortune-500 orgs. The company's [Python development consultants](https://riseapps.co/python-development-company/) use **[PyTorch](./PyTorch.html), Tensorflow, and Keras** to deliver complex AI-driven products for healthcare like **AI ambient scribe, medical chatbots, patient scheduling**, and more.
 
-[Script Foundry](http://www.scriptfoundry.com/) develops tools and trading systems in python. Using [pso](pso) and working with [IntegrationLab](IntegrationLab) Script Foundry developed numerous serious trading tools for the NYSE production floor making python the 4th NYSE production language (the others being cobol, c,c++ ).
+[Script Foundry](http://www.scriptfoundry.com/) develops tools and trading systems in python. Using [pso](pso) and working with [IntegrationLab](../people/IntegrationLab) Script Foundry developed numerous serious trading tools for the NYSE production floor making python the 4th NYSE production language (the others being cobol, c,c++ ).
 
 [Sebastian Witowski](https://switowski.com) is a Python consultant and trainer experienced in working with both scientific institutions and Fortune 500 companies. Specializes in web development (Django, Flask, Django REST Framework+Vue.js), document management solutions, and improving outdated tools and workflows through on-site workshops.
 
@@ -190,7 +190,7 @@ We have a team of experienced Python developers capable of creating secure, cost
 
 [Tivix](http://www.tivix.com) is a Silicon Valley based, custom Django/Python Development shop. Django/Python has been our bread and butter, since our founding in 2008.
 
-[Varsys Inc.](http://www.varsys.com) is a Chicago-based software development company offering full spectrum of development services. Our rich experience and exposure to most modern software platforms and technologies including Zope, Python, [IronPython](IronPython), and Jython, allow us to offer high-quality services within diverse industries.
+[Varsys Inc.](http://www.varsys.com) is a Chicago-based software development company offering full spectrum of development services. Our rich experience and exposure to most modern software platforms and technologies including Zope, Python, [IronPython](../implementations/IronPython), and Jython, allow us to offer high-quality services within diverse industries.
 
 [Velotron Heavy Industries](http://velotronheavyindustries.com) provides solutions for environmental data collection, processing, and analysis, with an emphasis on Python software. We specialize in scientific Python applications and are located in Seattle, USA.
 

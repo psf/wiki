@@ -26,7 +26,7 @@ Python-based Web servers have been available in the standard library for many ye
 
 - Twisted includes [a very scalable web server](http://twistedmatrix.com/trac/wiki/TwistedWeb) written in Python.
 
-- [Waitress](https://pypi.org/project/waitress/) - A WSGI server that runs on Windows and UNIX under [PyPy](PyPy), CPython 2.X and CPython 3.X.
+- [Waitress](https://pypi.org/project/waitress/) - A WSGI server that runs on Windows and UNIX under [PyPy](../implementations/PyPy), CPython 2.X and CPython 3.X.
 
 ## Web Servers embedding Python 
 
@@ -42,11 +42,11 @@ In addition to the above, some non-Python-based Web servers support Python-based
 
 - [Nginx WSGI](http://wiki.nginx.org/NginxNgxWSGIModule) support module for Nginx HTTP server
 
-- [PyWX](PyWX) embeds Python in AOLServer
+- [PyWX](../archive/PyWX) embeds Python in AOLServer
 
 ## Standard Library Technologies 
 
-- [BaseHTTPServer](BaseHttpServer) (along with successors such as [DocXmlRpcServer](DocXmlRpcServer)) can be considered as the original Python Web framework, but it really just provides the ability to process HTTP requests and to generate responses using a relatively primitive API. Some [WebFrameworks](WebFrameworks) use it as the basis for serving content, however.
+- [BaseHTTPServer](../archive/BaseHttpServer) (along with successors such as [DocXmlRpcServer](../archive/DocXmlRpcServer)) can be considered as the original Python Web framework, but it really just provides the ability to process HTTP requests and to generate responses using a relatively primitive API. Some [WebFrameworks](../web/WebFrameworks) use it as the basis for serving content, however.
 
 ------------------------------------------------------------------------
 

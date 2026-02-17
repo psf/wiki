@@ -18,7 +18,7 @@ Nyttige udgangspunkter for udforskning af wiki:
 
 - [OrdListe](OrdListe): en liste over alle ord som indgår i en sidetitel (og dermed en liste over koncepter i en wiki)
 
-- [WikiSandKasse](WikiSandKasse): du er velkommen til at ændre denne side og eksperimentere med redigering
+- [WikiSandKasse](../archive/WikiSandKasse): du er velkommen til at ændre denne side og eksperimentere med redigering
 
 Her er en titelsøgning. Prøv f.eks. *administration*:
 

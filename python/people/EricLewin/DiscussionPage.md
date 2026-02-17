@@ -20,4 +20,4 @@ Welcome ! and blablabla\... ![:-)](/wiki/europython/img/smile.png ":-)")
 
 ------------------------------------------------------------------------
 
-*(dernière mise à jour de cette « EricLewin/DiscussionPage » : \-- [EricLewin](EricLewin) 2008-07-25 23:40:35)*
+*(dernière mise à jour de cette « EricLewin/DiscussionPage » : \-- [EricLewin]() 2008-07-25 23:40:35)*

@@ -248,7 +248,7 @@ Ideally, they should display the version string to the user and allow searches b
 
 \@MAL: One of the issues is being able to specify dependencies (e.g. in the current \"setup_requires\" or whatever). For example: \"simplejson \> 3.0.1\". That means either a deterministic translation btwn version tuple and version string is necessary OR dependencies need to specify version \*tuples\*. The latter might be painful. \--[TrentMick](./TrentMick.html)
 
-\@Trent: Right, dependency definitions will need to use the tuple version, probably using a version matching function or instance, e.g. requires=[PythonPackage](./PythonPackage.html)(\'simplejson\', supported_versions=((3,0), (3,1))). Note that just specifying a minimum version is likely not going to provide a robust setup, e.g. \"simplejson \> 3.0.1\" would also match simplejson 4.0, but that may have a completely incompatible interface. \-- [MarcAndreLemburg](MarcAndreLemburg)
+\@Trent: Right, dependency definitions will need to use the tuple version, probably using a version matching function or instance, e.g. requires=[PythonPackage](./PythonPackage.html)(\'simplejson\', supported_versions=((3,0), (3,1))). Note that just specifying a minimum version is likely not going to provide a robust setup, e.g. \"simplejson \> 3.0.1\" would also match simplejson 4.0, but that may have a completely incompatible interface. \-- [MarcAndreLemburg](../../archive/MarcAndreLemburg)
 
 ### Brian Sutherland 
 

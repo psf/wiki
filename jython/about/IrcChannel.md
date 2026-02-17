@@ -14,9 +14,9 @@ Welcome to our Jython\'s IRC community! Jython is an implementation of the high-
 
 Can we help?
 
-- [FrankWierzbicki](FrankWierzbicki) (fwierzbicki) - Current primary maintainer of Jython
+- [FrankWierzbicki](../people/FrankWierzbicki) (fwierzbicki) - Current primary maintainer of Jython
 
-- [AnselmoPeretto](AnselmoPeretto) (plankton) - IRC channel maintainer and Wiki contributor
+- [AnselmoPeretto](../people/AnselmoPeretto) (plankton) - IRC channel maintainer and Wiki contributor
 
 - [AlexGrönholm](./AlexGr(c3b6)nholm.html) (agronholm) -
 
@@ -26,13 +26,13 @@ Put your name (and your nickname) here. Let us know about you. If you want, crea
 
 - Dirkjan Ochtman (djc) - Avid Python user (with some long-running simulations at work, for one thing) and Mercurial developer
 
-- [OtiHumbel](OtiHumbel) (Oti) - Jython enthusiast and committer
+- [OtiHumbel](../people/OtiHumbel) (Oti) - Jython enthusiast and committer
 
 - [TobiasIvarsson](./TobiasIvarsson.html) (thobe) - Jython committer and compiler zealot
 
-- [PhilipJenvey](PhilipJenvey) (pjenvey) - Jython & Pylons committer
+- [PhilipJenvey](../people/PhilipJenvey) (pjenvey) - Jython & Pylons committer
 
-- [JoshJuneau](JoshJuneau) (juneau001) - Jython committer (focus on maintaining jython.org site), newsletter editor, and podcast host
+- [JoshJuneau](../people/JoshJuneau) (juneau001) - Jython committer (focus on maintaining jython.org site), newsletter editor, and podcast host
 
 ## External Links 
 

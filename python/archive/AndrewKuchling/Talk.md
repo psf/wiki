@@ -16,4 +16,4 @@ I\'m 100% for putting everything in its place; I\'m just not sure that a wiki-in
 
 (And sorry if this isn\'t the way to do a \"Talk\" page. I\'m new to moin. Please teach me if there\'s a better way.)
 
-Cheers, [Philip](Philip) - 2005-09-21
+Cheers, [Philip](../Philip) - 2005-09-21

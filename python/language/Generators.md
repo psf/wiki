@@ -190,7 +190,7 @@ However, a generator might still be the only way, if the storage of these genera
 
 # Examples 
 
-For example, the [RangeGenerator](RangeGenerator) can be used to iterate over a large number of values, without creating a massive list (like range would)
+For example, the [RangeGenerator](../people/RangeGenerator) can be used to iterate over a large number of values, without creating a massive list (like range would)
 
 :::: 
 ::: 
@@ -274,7 +274,7 @@ He did something like: Show how a normal list operation could be written to use 
 
 It\'s been a while since I\'ve seen it, I may be getting this all wrong.
 
-\-- [LionKimbro](LionKimbro) 2005-04-02 19:12:19
+\-- [LionKimbro](../people/LionKimbro) 2005-04-02 19:12:19
 
 :::: 
 ::: 

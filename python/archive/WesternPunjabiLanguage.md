@@ -14,7 +14,7 @@ ISO 639-3 Code: pnb
 
 There are some groundrules, some laid down by the site admins, some my suggestions:
 
-1\) Pages must be named in ASCII and English ([PolishLanguage](PolishLanguage))
+1\) Pages must be named in ASCII and English ([PolishLanguage](../i18n/PolishLanguage))
 
 2\) Pages must have an explanation in English at the top (Links to Python information in \<language X\>)
 

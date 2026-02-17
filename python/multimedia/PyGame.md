@@ -24,4 +24,4 @@ You can find it at [http://www.pygame.org](http://www.pygame.org)
 
 There is a GUI toolkit based on Pygame called OcempGUI.
 
-See also [PythonGames](PythonGames)
+See also [PythonGames](../archive/PythonGames)

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-These are some sites that have photos from [PyCon](PyCon):
+These are some sites that have photos from [PyCon](../PyCon):
 
 - [http://unpythonic.net/newphotos/54545/index.html](http://unpythonic.net/newphotos/54545/index.html) (only 128k outgoing bandwidth)
 

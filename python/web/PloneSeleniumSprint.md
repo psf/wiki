@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 PloneSeleniumSprint
 
-When: Thursday and Friday after [EuroPython](EuroPython) (June 30th-July 1st 2005)
+When: Thursday and Friday after [EuroPython](../conferences/europython/EuroPython) (June 30th-July 1st 2005)
 
 Sprint leader: Maik Röder
 
@@ -18,7 +18,7 @@ Plone should use Selenium to build a functional testing suite. Right now, Plone 
 
 We should make sure the most important functionality is always tested, and that it works in different browsers. Selenium is an excellent approach to this, and ties in well with how Plone already approaches things from a JS perspective.
 
-The Plone Selenium sprint will start the implementation of the [InitialTestingPlan](InitialTestingPlan) for each Plone component. A testing plan contains all the test cases that need to be run. Each testing plan should describe the methodology used for testing and describe the desired results.
+The Plone Selenium sprint will start the implementation of the [InitialTestingPlan](../archive/InitialTestingPlan) for each Plone component. A testing plan contains all the test cases that need to be run. Each testing plan should describe the methodology used for testing and describe the desired results.
 
 Participants:
 
@@ -26,17 +26,17 @@ Please add your name if you plan on coming to a the Plone Selenium sprint!
 
 Add your name below if you plan to participate
 
-(indicate whether you\'ll actually be at [EuroPython](EuroPython), or remote sprinting, and on which days you can participate)
+(indicate whether you\'ll actually be at [EuroPython](../conferences/europython/EuroPython), or remote sprinting, and on which days you can participate)
 
-- Maik Röder (at [EuroPython](EuroPython)) (Tursday and Friday)
+- Maik Röder (at [EuroPython](../conferences/europython/EuroPython)) (Tursday and Friday)
 
-- Jochen Knuth (at [EuroPython](EuroPython)) (Thursday, maybe Friday)
+- Jochen Knuth (at [EuroPython](../conferences/europython/EuroPython)) (Thursday, maybe Friday)
 
-- Stefan Holek (at [EuroPython](EuroPython)) (invited)
+- Stefan Holek (at [EuroPython](../conferences/europython/EuroPython)) (invited)
 
-- Sasha Vinčić (at [EuroPython](EuroPython)) (Thursday and Friday)
+- Sasha Vinčić (at [EuroPython](../conferences/europython/EuroPython)) (Thursday and Friday)
 
-- [ReinoutVanRees](ReinoutVanRees) (at [EuroPython](EuroPython)) (thursday and friday (till 15:00))
+- [ReinoutVanRees](../archive/ReinoutVanRees) (at [EuroPython](../conferences/europython/EuroPython)) (thursday and friday (till 15:00))
 
 Interested in Functional Testing and Selenium?
 

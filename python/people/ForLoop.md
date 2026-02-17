@@ -12,7 +12,7 @@ There are two ways to create loops in Python: with the for-loop and the while-lo
 
 ## When do I use for loops 
 
-*for* loops are used when you have a block of code which you want to repeat a **fixed number of times**. The for-loop is always used in combination with an [iterable object](Iterator), like a list or a range. The Python *for* statement iterates over the members of a sequence in order, executing the block each time. Contrast the *for* statement with the [\'\'while\'\' loop](WhileLoop), used when a condition needs to be checked each iteration or to repeat a block of code forever. For example:
+*for* loops are used when you have a block of code which you want to repeat a **fixed number of times**. The for-loop is always used in combination with an [iterable object](../language/Iterator), like a list or a range. The Python *for* statement iterates over the members of a sequence in order, executing the block each time. Contrast the *for* statement with the [\'\'while\'\' loop](../getting-started/WhileLoop), used when a condition needs to be checked each iteration or to repeat a block of code forever. For example:
 
 *For loop from 0 to 2, therefore running 3 times.*
 

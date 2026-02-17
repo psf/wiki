@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-For more information about [PyCon](PyCon) 2006, see the main conference site at [http://us.pycon.org/](http://us.pycon.org/).
+For more information about [PyCon](../PyCon) 2006, see the main conference site at [http://us.pycon.org/](http://us.pycon.org/).
 
 ------------------------------------------------------------------------
 
 #1. **Introduction to Pyparsing: An Object-oriented Easy-to-Use Toolkit for Building Recursive Descent Parsers**
 
-[PaulMcGuire](PaulMcGuire)
+[PaulMcGuire](../../../archive/PaulMcGuire)
 
-pyparsing is a pure-Python module, containing a class library for easily creating recursive-descent parsers. pyparsing\'s syntax provides tools for both simple tokenization and data structuring and interpretation. I will give an overview of the basic features of pyparsing, and a \*very quick\* overview of the advanced features. I will close with 3 or 4 application examples, time-permitting. (For more detail on the type of information I have to present on pyparsing, you can visit my [SourceForge](SourceForge) project web page at [http://pyparsing.sourceforge.net.)(I](http://pyparsing.sourceforge.net.)(I) have posted the presentation materials at my personal web page: [http://www.geocities.com/ptmcg/python/index.html](http://www.geocities.com/ptmcg/python/index.html).)
+pyparsing is a pure-Python module, containing a class library for easily creating recursive-descent parsers. pyparsing\'s syntax provides tools for both simple tokenization and data structuring and interpretation. I will give an overview of the basic features of pyparsing, and a \*very quick\* overview of the advanced features. I will close with 3 or 4 application examples, time-permitting. (For more detail on the type of information I have to present on pyparsing, you can visit my [SourceForge](../../../people/SourceForge) project web page at [http://pyparsing.sourceforge.net.)(I](http://pyparsing.sourceforge.net.)(I) have posted the presentation materials at my personal web page: [http://www.geocities.com/ptmcg/python/index.html](http://www.geocities.com/ptmcg/python/index.html).)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ The talk is based on the following blog entries I posted:
 
 #4. **An Interactive Adventure Game Engine Built Using Pyparsing**
 
-[PaulMcGuire](PaulMcGuire)
+[PaulMcGuire](../../../archive/PaulMcGuire)
 
 A pure-Python command interpreter engine for creating text adventure games. Used as an example of creating a custom \"little language\", in this case, the domain being a simple text-based adventure game. Provides a complete example of using pyparsing to structure input commands, with an internal Command structure to implement command behavior. (I have posted the presentation materials at my personal web page: [http://www.geocities.com/ptmcg/python/index.html](http://www.geocities.com/ptmcg/python/index.html).)
 
@@ -64,7 +64,7 @@ Wesley J. Chun / [CyberWeb Consulting](http://cyberwebconsulting.com)
 
 Vertebral Fracture Analysis
 
-Several years ago, at [PyCon](PyCon) 2003, I presented a general paper on how [Synarc](http://synarc.com), a medical imaging company in San Francisco, developed medical applications using Python. This time, I would like to focus on one specific project which was my primary responsibility as a Senior Software Engineer there.
+Several years ago, at [PyCon](../PyCon) 2003, I presented a general paper on how [Synarc](http://synarc.com), a medical imaging company in San Francisco, developed medical applications using Python. This time, I would like to focus on one specific project which was my primary responsibility as a Senior Software Engineer there.
 
 The VFract application is used as part of a set of radiology services offered by Synarc. In addition to data entry and image digitization, Synarc provides reading services using software such as VFract to obtain critical patient data necessary for pharmaceutical companies participating in clinical trials to determine the effectiveness of developing medicines. The use of such software helps automate and expedite patient assessment during the course of these clinical trials, overall accelerating the time it takes to get new medicines and treatments to market. The use of VFract has consistently resulted in a large portion of the company\'s annual revenue.
 
@@ -72,29 +72,29 @@ In this talk, we will discuss all four of the VFract applications, the open sour
 
 ------------------------------------------------------------------------
 
-#8. **Scripting .NET with [IronPython](IronPython)**
+#8. **Scripting .NET with [IronPython](../../../implementations/IronPython)**
 
 Martin Maly / Microsoft
 
-[IronPython](IronPython) is a fast implementation of the Python programming language on the .NET Framework. While it stays true to the beauty and simplicity of Python language, [IronPython](IronPython) offers Python programmers seamless access to the riches of .NET libraries and applications in a fully dynamic environment.
+[IronPython](../../../implementations/IronPython) is a fast implementation of the Python programming language on the .NET Framework. While it stays true to the beauty and simplicity of Python language, [IronPython](../../../implementations/IronPython) offers Python programmers seamless access to the riches of .NET libraries and applications in a fully dynamic environment.
 
-This talk will focus on practical side of utilizing the power of [IronPython](IronPython) beyond the interactive console development and exploration. It will demonstrate how to use [IronPython](IronPython) to add rich scripting support to existing .NET applications. This will allow us not only to explore and animate the application but also extend its functionality with custom Python code. We will also demonstrate how [IronPython](IronPython) can be used to bring together and orchestrate a wide variety of .NET components and services.
+This talk will focus on practical side of utilizing the power of [IronPython](../../../implementations/IronPython) beyond the interactive console development and exploration. It will demonstrate how to use [IronPython](../../../implementations/IronPython) to add rich scripting support to existing .NET applications. This will allow us not only to explore and animate the application but also extend its functionality with custom Python code. We will also demonstrate how [IronPython](../../../implementations/IronPython) can be used to bring together and orchestrate a wide variety of .NET components and services.
 
 This talk is targeted at both Python programmers looking to take advantage the .NET Framework and at .NET programmers looking to learn how Python can make their jobs easier.
 
 ------------------------------------------------------------------------
 
-#11. **Effective AJAX with [TurboGears](TurboGears)**
+#11. **Effective AJAX with [TurboGears](../../../web/TurboGears)**
 
 Kevin Dangoor / Blazing Things LLC
 
-Modern web browsers, combined with programming frameworks like [TurboGears](TurboGears), allow for a rich interaction model that was not possible previously. This interaction model, which is commonly being referred to as AJAX regardless of whether XML is involved or not, brings new usability challenges. Just as people have gotten used to browser user interface elements that have become de facto standards, AJAX rises up to challenge user expectations.
+Modern web browsers, combined with programming frameworks like [TurboGears](../../../web/TurboGears), allow for a rich interaction model that was not possible previously. This interaction model, which is commonly being referred to as AJAX regardless of whether XML is involved or not, brings new usability challenges. Just as people have gotten used to browser user interface elements that have become de facto standards, AJAX rises up to challenge user expectations.
 
 This talk, and the accompanying paper, will briefly discuss some of the pitfalls and include demonstrations and code that illustrate ways to do AJAX so that users are pleasantly surprised, rather than frustrated.
 
-Each discussion will include an example implementation done with Python and [TurboGears](TurboGears) with highlights of how the technique is actually implemented.
+Each discussion will include an example implementation done with Python and [TurboGears](../../../web/TurboGears) with highlights of how the technique is actually implemented.
 
-Though [TurboGears](TurboGears) will be used as the demonstration framework, previous experience with [TurboGears](TurboGears) will not be required to understand the talk or the examples.
+Though [TurboGears](../../../web/TurboGears) will be used as the demonstration framework, previous experience with [TurboGears](../../../web/TurboGears) will not be required to understand the talk or the examples.
 
 The [paper and a screencast version of the talk](http://www.turbogears.org/preview/docs/tutorials/eajaxtg/) are online.
 
@@ -182,7 +182,7 @@ The presentation will cover the use of Python/wxPython/Perl/MySQL to create a se
 
 Jonathan Ellis / Berkeley Data Systems
 
-This talk will build on the review of 6 IDEs done by the Utah Python UG and summarized here: [http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html](http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html). In the interest of time, this talk would focus on the most promising four IDEs: Komodo, [PyDev](PyDev), and Wing, which are in the review-of-6, and [SPE](http://pythonide.stani.be), which is not.
+This talk will build on the review of 6 IDEs done by the Utah Python UG and summarized here: [http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html](http://spyced.blogspot.com/2005/09/review-of-6-python-ides.html). In the interest of time, this talk would focus on the most promising four IDEs: Komodo, [PyDev](../../../people/PyDev), and Wing, which are in the review-of-6, and [SPE](http://pythonide.stani.be), which is not.
 
 ------------------------------------------------------------------------
 
@@ -196,11 +196,11 @@ This talk will cover general concepts on how to design Internationalized Applica
 
 ------------------------------------------------------------------------
 
-#23. Cancelled: **Processing XML with [ElementTree](ElementTree)**
+#23. Cancelled: **Processing XML with [ElementTree](../../../people/ElementTree)**
 
 Andrew Kuchling / PSF
 
-[ElementTree](ElementTree) provides a simple library for processing XML that feels natural to Python programmers. This talk is a 45-minute tutorial showing how to perform basic tasks with [ElementTree](ElementTree).
+[ElementTree](../../../people/ElementTree) provides a simple library for processing XML that feels natural to Python programmers. This talk is a 45-minute tutorial showing how to perform basic tasks with [ElementTree](../../../people/ElementTree).
 
 ------------------------------------------------------------------------
 
@@ -222,11 +222,11 @@ There will also be a [Docutils sprint](Sprints/DocutilsSprint) following the con
 
 ------------------------------------------------------------------------
 
-#25. **[TurboGears](TurboGears) Tutorial**
+#25. **[TurboGears](../../../web/TurboGears) Tutorial**
 
 Mark Ramm
 
-I will provide a tutorial for those interested in learning the basics of the [TurboGears](TurboGears) web programming megaframework.
+I will provide a tutorial for those interested in learning the basics of the [TurboGears](../../../web/TurboGears) web programming megaframework.
 
 ------------------------------------------------------------------------
 
@@ -248,9 +248,9 @@ William Stein / Dept. of Math., Univ of California, San Diego
 
 John Pinner / Clockwork Software Systems
 
-At [PyCon](PyCon) 2005, I presented [PayThyme](./PayThyme.html), Clockwork\'s industrial-strength UK statutory payroll. There was some surprise that we had licensed such a commercial application under the GPL. Since then [PayThyme](./PayThyme.html) has been used by over 1000 companies and at London\'s [LinuxWorld](./LinuxWorld.html) expo was the outright winner of Best Open Source Application.
+At [PyCon](../PyCon) 2005, I presented [PayThyme](./PayThyme.html), Clockwork\'s industrial-strength UK statutory payroll. There was some surprise that we had licensed such a commercial application under the GPL. Since then [PayThyme](./PayThyme.html) has been used by over 1000 companies and at London\'s [LinuxWorld](./LinuxWorld.html) expo was the outright winner of Best Open Source Application.
 
-[PayThyme](./PayThyme.html)\'s development platform is Thyme, our own Python development framework based on Python, C and [PyQt](PyQt). It allows us to develop business applications very quickly indeed.
+[PayThyme](./PayThyme.html)\'s development platform is Thyme, our own Python development framework based on Python, C and [PyQt](../../../gui/PyQt). It allows us to develop business applications very quickly indeed.
 
 This presentation describes Thyme, the rationale behind its design, demonstrates it in use, and shows how we are updating and extending it.
 
@@ -284,19 +284,19 @@ Ed Leafe / The Dabo Project
 
 Dabo is a 3-tier desktop application framework written in Python. Its database tier allows it to be used with just about any relational database backend, such as PostgreSQL, MySQL, SQLite and others. Its UI tier wraps the popular wxPython toolkit, and provides a much more consistent and Pythonic API for developing GUI applications. It also makes binding UI controls to data as simple as setting two properties of the control. Its business object middle tier provides flexibility and power in ensuring that the application data is validated against your business rules, and that business processes are kept independent of your choice of UI or database.
 
-Since Dabo was first shown at [PyCon](PyCon) DC 2005, it has continued to be developed, and has matured significantly. The session will begin with an overview of the framework, discussing the target audience for Dabo and how the framework can help make application development much easier and much more maintainable. It will then cover several of the new developments in Dabo, such as the design tools, such as the Form Designer and the Report Designer.
+Since Dabo was first shown at [PyCon](../PyCon) DC 2005, it has continued to be developed, and has matured significantly. The session will begin with an overview of the framework, discussing the target audience for Dabo and how the framework can help make application development much easier and much more maintainable. It will then cover several of the new developments in Dabo, such as the design tools, such as the Form Designer and the Report Designer.
 
 There will also be a section on using the dabo.ui module independently of the rest of the framework. Over the past year, several wxPython developers have started to use Dabo\'s UI tier to develop their applications, even though they are not working with databases. This surprised us at first, but these developers have inspired us to focus on making the dabo.ui module more complete, by adding support for several non-data related controls as well as creating a drawing object framework that gives much better control of the direct drawing on the UI surface than the raw wxPython API does. So I will include a section in the talk contrasting raw wxPython with dabo.ui, showing how much simpler creating a UI app in Dabo is.
 
 ------------------------------------------------------------------------
 
-#35. **[PyPy](PyPy) architecture session**
+#35. **[PyPy](../../../implementations/PyPy) architecture session**
 
 Holger Krekel / merlinux GmbH
 
 Co-talker: Armin Rigo
 
-After reaching important milestones, the [PyPy](PyPy) project is now (starting autumn 2005) heading towards building a specializing JIT-compiler, stackless features and translation to higher level languages into the code base. In this session we will present and interactively discuss with the audience the basic architectural pictures. We are going to emphasize the various emerging possibilities for further development part of which will be an ongoing effort of the European Union\'s funded part of the [PyPy](PyPy) project.
+After reaching important milestones, the [PyPy](../../../implementations/PyPy) project is now (starting autumn 2005) heading towards building a specializing JIT-compiler, stackless features and translation to higher level languages into the code base. In this session we will present and interactively discuss with the audience the basic architectural pictures. We are going to emphasize the various emerging possibilities for further development part of which will be an ongoing effort of the European Union\'s funded part of the [PyPy](../../../implementations/PyPy) project.
 
 In particular, we\'ll describe the following architectural pictures and point out extension and optimization possibilities:
 
@@ -332,13 +332,13 @@ This presentation will cover our reasons for selecting Python and wxPython as th
 
 ------------------------------------------------------------------------
 
-#38. **[PyPy](PyPy) \-- where we are now**
+#38. **[PyPy](../../../implementations/PyPy) \-- where we are now**
 
 Michael Hudson / Heinrich-Heine-Universität Düsseldorf
 
 Christian Tismer
 
-[PyPy](PyPy), the notorious Python-in-Python project reached a significant milestone in the summer of 2005: being able to produce a standalone python interpreter with no dependencies on any of CPython\'s C code.
+[PyPy](../../../implementations/PyPy), the notorious Python-in-Python project reached a significant milestone in the summer of 2005: being able to produce a standalone python interpreter with no dependencies on any of CPython\'s C code.
 
 This talk will describe as much of the toolchain that got us to this point as it\'s possible to cram into 30 minutes :).
 
@@ -387,9 +387,9 @@ Matt Harrison / [SpikeSource](./SpikeSource.html)
 
 This presentation discusses Spike Asset Manager (SAM [http://developer.spikesource.com/wiki/index.php/Projects:sam](http://developer.spikesource.com/wiki/index.php/Projects:sam) ), the reasons python was chosen as implementation language as well the benefits python has provided.
 
-SAM is a tool that detects open source components on a system (windows, linux, mac). By the time [PyCon](PyCon) rolls around SAM will have transformed from a relatively simple cross platform command line application to a network aware server capable of detecting other instances. IT users will be able to control all instances from either the command line or a gui (fancy AJAX provided in a web broswer because some systems may be headless).
+SAM is a tool that detects open source components on a system (windows, linux, mac). By the time [PyCon](../PyCon) rolls around SAM will have transformed from a relatively simple cross platform command line application to a network aware server capable of detecting other instances. IT users will be able to control all instances from either the command line or a gui (fancy AJAX provided in a web broswer because some systems may be headless).
 
-This talk will discuss the evolution of SAM, the design decisions made and a few of the open source projects it uses (PDIS Xpath, [ElementTree](ElementTree), Path, Cheetah, json-py, [MochiKit](./MochiKit.html), [WebStack](WebStack), pyzeroconf, py2exe and more). The intended audience is python users who are interested in AJAX, Web2.0 or converting a commandline app into a web enabled app.
+This talk will discuss the evolution of SAM, the design decisions made and a few of the open source projects it uses (PDIS Xpath, [ElementTree](../../../people/ElementTree), Path, Cheetah, json-py, [MochiKit](./MochiKit.html), [WebStack](../../../people/WebStack), pyzeroconf, py2exe and more). The intended audience is python users who are interested in AJAX, Web2.0 or converting a commandline app into a web enabled app.
 
 ------------------------------------------------------------------------
 
@@ -427,7 +427,7 @@ Brian W. Fitzpatrick / Google, Inc.
 
 While the goal of the Subversion project is to \"provide a compelling alternative to CVS\", the goal of the cvs2svn project is to enable CVS switchers to take all of their history with them to Subversion. cvs2svn started life as a short Python script that converted no CVS tags and branches, but it survived several rewrites and quickly grew to a 5000 line powerhouse. Today, cvs2svn not only converts CVS tags and branches, but it gracefully handles dozens of RCS edge cases and has been used to convert thousands of CVS repositories. This talk reviews the evolution, design, and implementation of cvs2svn and how we managed to discover things about CVS repositories that most people didn\'t think were possible.
 
-(This has grown out of a talk I gave to [ChiPy](ChiPy) in April 2005 and a Python lightning talk I gave at OSCON EU 2005).
+(This has grown out of a talk I gave to [ChiPy](../../../people/ChiPy) in April 2005 and a Python lightning talk I gave at OSCON EU 2005).
 
 ------------------------------------------------------------------------
 
@@ -437,13 +437,13 @@ Beatrice Düring, /Change Maker,
 
 Holger Krekel / Merlinux
 
-There is a growing number of open-source developers organized and connected to company and money related work. We report our experiences from the first year of the [PyPy](PyPy) project which has a 7 company/university consortium and a 1.3 Million Euro research grant from the European Union.
+There is a growing number of open-source developers organized and connected to company and money related work. We report our experiences from the first year of the [PyPy](../../../implementations/PyPy) project which has a 7 company/university consortium and a 1.3 Million Euro research grant from the European Union.
 
 We\'d like to present and discuss models and experiences for connecting open-source/hacking culture driven development to money related projects and goals with the audience.
 
-We are going to briefly describe the organisation of the [PyPy](PyPy) project, showing how formal stakeholders and OSS Python community interact through agile practices like sprinting. We will also reflect on the aspect of diversity, combining technical and non technical people and skills and learnings from this.
+We are going to briefly describe the organisation of the [PyPy](../../../implementations/PyPy) project, showing how formal stakeholders and OSS Python community interact through agile practices like sprinting. We will also reflect on the aspect of diversity, combining technical and non technical people and skills and learnings from this.
 
-We will relate the various agile techniques used in [PyPy](PyPy) and other projects/companies to the agile practices known from the work in the Agile Alliance (XP, Scrum, Crystal) in order to show how agile techniques have been adopted and evolved by the Python community.
+We will relate the various agile techniques used in [PyPy](../../../implementations/PyPy) and other projects/companies to the agile practices known from the work in the Agile Alliance (XP, Scrum, Crystal) in order to show how agile techniques have been adopted and evolved by the Python community.
 
 Lastly we will also share our experience of various challenges and possibilities when integrating the different cultures and skills from the OSS perspective, EU perspective and the Chaos Pilot/process management perspective - managing diversities.
 
@@ -467,7 +467,7 @@ The release due in December is actually the second rewrite of ccPublisher, and d
 
 Using events, adapters and subscribers from the Zope 3 project, the new iteration allows developers to customize areas of interest without delving into the inner workings of the entire system. For example, a developer who wishes to implement a new upload target does not need to know what metadata fields are collected; they only need to know how to handle \"Publish\" events, and know that an object impementing a particular interface is passed as the parameter. This wide-spread decoupling had the added benefit of making it easy to enable \"extensions\" to the application (i.e., post to my blog when I upload new media), as well as full-scale customizations.
 
-The talk will dicuss how we went about designing an application that would be easily modifiable and extensible by other developers, and in the process improved the maitainability and clarity of our own code. It will also focus on using infrastructure pieces developed as part of the Zope 3 project for an application in a completely different domain (desktop v. web-based). Finally, we will provide brief coverage of challenges that have arisen during deployment. These include bundling ZCML configuration with our Python code in a [Py2Exe](Py2Exe) or [Py2App](./Py2App.html) bundle and boostrapping an application which is able to load 3rd party extensions from other developers.
+The talk will dicuss how we went about designing an application that would be easily modifiable and extensible by other developers, and in the process improved the maitainability and clarity of our own code. It will also focus on using infrastructure pieces developed as part of the Zope 3 project for an application in a completely different domain (desktop v. web-based). Finally, we will provide brief coverage of challenges that have arisen during deployment. These include bundling ZCML configuration with our Python code in a [Py2Exe](../../../platforms/Py2Exe) or [Py2App](./Py2App.html) bundle and boostrapping an application which is able to load 3rd party extensions from other developers.
 
 ------------------------------------------------------------------------
 
@@ -517,11 +517,11 @@ The goal of this presentation and paper is to present a case study in implementi
 
 ------------------------------------------------------------------------
 
-#55. **[IronPython](IronPython) Implementation**
+#55. **[IronPython](../../../implementations/IronPython) Implementation**
 
 Jim Hugunin / Microsoft Corporation
 
-[IronPython](IronPython) is a fast implementation of the Python programming language targeting the EMCA standard Common Language Infrastructure (CLI). This talk will focus on the basic implementation strategies used in [IronPython](IronPython) and on several of the more interesting difficulties that were overcome. This talk is targeted at programmers working on Python implementations as well as those who are interested in more of the details of how an implementation works under the hood.
+[IronPython](../../../implementations/IronPython) is a fast implementation of the Python programming language targeting the EMCA standard Common Language Infrastructure (CLI). This talk will focus on the basic implementation strategies used in [IronPython](../../../implementations/IronPython) and on several of the more interesting difficulties that were overcome. This talk is targeted at programmers working on Python implementations as well as those who are interested in more of the details of how an implementation works under the hood.
 
 ------------------------------------------------------------------------
 
@@ -550,7 +550,7 @@ Dr. Charles C. Kemp (Charlie) / MIT CSAIL
 
 Aaron Edsinger
 
-In this talk, I will discuss the use of Python at the humanoid robotics lab at MIT CSAIL, and give a brief overview and demonstration of pysense, a collection of Python code that we will be releasing as open source prior to (or in conjunction with) [PyCon](PyCon) 2006.
+In this talk, I will discuss the use of Python at the humanoid robotics lab at MIT CSAIL, and give a brief overview and demonstration of pysense, a collection of Python code that we will be releasing as open source prior to (or in conjunction with) [PyCon](../PyCon) 2006.
 
 At the humanoid robotics lab at MIT, Python now runs on most of our platforms. Two systems in particular fundamentally rely on Python, Domo a humanoid robot ( [http://people.csail.mit.edu/edsinger/domo.htm](http://people.csail.mit.edu/edsinger/domo.htm) ) and Duo ( [http://people.csail.mit.edu/cckemp/](http://people.csail.mit.edu/cckemp/) ) a wearable system. In spite of the real-time constraints of robot perception and control, we have found that Python can play an important role in most aspects of our research through pure Python and SWIG wrapped C++ modules.
 

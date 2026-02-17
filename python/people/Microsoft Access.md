@@ -46,7 +46,7 @@ Platforms
 Python versions
 :   2.4 - 3.4
 
-PyPyODBC is a pure Python script module providing ODBC interfacing functions, it runs on CPython / [IronPython](IronPython) / [PyPy](PyPy) , Version 2.4 / 2.5 / 2.6 / 2.7 , Win / Linux , 32 / 64 bit.
+PyPyODBC is a pure Python script module providing ODBC interfacing functions, it runs on CPython / [IronPython](../implementations/IronPython) / [PyPy](../implementations/PyPy) , Version 2.4 / 2.5 / 2.6 / 2.7 , Win / Linux , 32 / 64 bit.
 
 However, ***on Windows Platform***, PyPyODBC also provides a set of methods bringing [PyPyODBC\'s extra support for Access on Windows Platform](https://code.google.com/p/pypyodbc/wiki/pypyodbc_for_access_mdb_file)
 

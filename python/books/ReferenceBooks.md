@@ -148,9 +148,9 @@ The reviews are for earlier editions of the book.
 - ISBN: 0764548077
 - Wiley, June 2001, 731 pages
 
-Contains detailed descriptions *with examples* on a number of advanced topics such as networking, threading, XML, Tkinter, wxPython, image processing, embedding, [NumPy](NumPy), win32all, and others. Has a section for introducing Python, but really this is ideal for more advanced users.
+Contains detailed descriptions *with examples* on a number of advanced topics such as networking, threading, XML, Tkinter, wxPython, image processing, embedding, [NumPy](../science/NumPy), win32all, and others. Has a section for introducing Python, but really this is ideal for more advanced users.
 
-Recommended by: [MichaelChermside](MichaelChermside), Todd Mitchell
+Recommended by: [MichaelChermside](../people/MichaelChermside), Todd Mitchell
 
 Note there are other unrelated books that go by some version of the title \"Python Bible\".
 

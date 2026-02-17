@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This is a planning page for hashing out the [PyOhio](PyOhio) 2009 schedule.
+This is a planning page for hashing out the [PyOhio]() 2009 schedule.
 
 # Saturday July 25 
 

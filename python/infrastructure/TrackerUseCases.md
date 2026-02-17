@@ -42,7 +42,7 @@ This page describes various things I want to try with a candidate tracker.
 
 - Receive all new bugs per mail (and all updates)
 
-- Add a comment to a bug/patch via email \-- [SkipMontanaro](SkipMontanaro)
+- Add a comment to a bug/patch via email \-- [SkipMontanaro](../people/SkipMontanaro)
 
 - Find what files were changed to fix a bug.
 

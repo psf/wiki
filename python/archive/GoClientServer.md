@@ -12,9 +12,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 1.  Choose a database, or check that there exists a Python library for your existing database
 
-2.  choose a GUI toolkit: [GuiProgramming](GuiProgramming)
+2.  choose a GUI toolkit: [GuiProgramming](../gui/GuiProgramming)
 
-3.  optional: choose an application server supporting SOAP or XML-RPC: [WebProgramming](WebProgramming)
+3.  optional: choose an application server supporting SOAP or XML-RPC: [WebProgramming](../web/WebProgramming)
 
 4.  use Python to automate deployment, testing, documentation
 
@@ -22,9 +22,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Client/Server Application Infrastructure 
 
-- [CorbaPython](CorbaPython)
+- [CorbaPython](../networking/CorbaPython)
 
-- [PyBrenda](PyBrenda)
+- [PyBrenda](../people/PyBrenda)
 
 - [Pyro](Pyro) - Python Remote Objects
 

@@ -422,7 +422,7 @@ Book Overview:
 
 Over 90 recipes to help you develop widgets, forms, layouts, charts, and much more using the latest features of Python 3
 
-Python is a multi-domain, interpreted programming language that is easy to learn and implement. With its wide support for frameworks to develop GUIs, you can build interactive and beautiful GUI-based applications easily using Python. This third edition of Python GUI Programming Cookbook follows a task-based approach to help you create effective GUIs with the smallest amount of code. Every recipe in this book builds upon the last to create an entire, real-life GUI application. These recipes also help you solve problems that you might encounter while developing GUIs. This book mainly focuses on using Python's built-in tkinter GUI framework. You\'ll learn how to create GUIs in Python using simple programming styles and object-oriented programming (OOP). As you add more widgets and expand your GUI, you will learn how to connect to networks, databases, and graphical libraries that greatly enhance the functionality of your GUI. You'll also learn how to use threading to ensure that your GUI doesn\'t become unresponsive. Toward the end, you'll learn about the versatile [PyQt](PyQt) GUI framework, which comes along with its own visual editor that allows you to design GUIs using drag and drop features. By the end of the book, you'll be an expert in designing Python GUIs and be able to develop a variety of GUI applications with ease.
+Python is a multi-domain, interpreted programming language that is easy to learn and implement. With its wide support for frameworks to develop GUIs, you can build interactive and beautiful GUI-based applications easily using Python. This third edition of Python GUI Programming Cookbook follows a task-based approach to help you create effective GUIs with the smallest amount of code. Every recipe in this book builds upon the last to create an entire, real-life GUI application. These recipes also help you solve problems that you might encounter while developing GUIs. This book mainly focuses on using Python's built-in tkinter GUI framework. You\'ll learn how to create GUIs in Python using simple programming styles and object-oriented programming (OOP). As you add more widgets and expand your GUI, you will learn how to connect to networks, databases, and graphical libraries that greatly enhance the functionality of your GUI. You'll also learn how to use threading to ensure that your GUI doesn\'t become unresponsive. Toward the end, you'll learn about the versatile [PyQt](../gui/PyQt) GUI framework, which comes along with its own visual editor that allows you to design GUIs using drag and drop features. By the end of the book, you'll be an expert in designing Python GUIs and be able to develop a variety of GUI applications with ease.
 
 [Publisher\'s page](https://www.packtpub.com/programming/python-gui-programming-cookbook-third-edition?/utm_source=python.org&utm_medium=referral&utm_Outreach)
 
@@ -438,7 +438,7 @@ Book Overview:
 
 Explore Python's GUI frameworks and create visually stunning and feature-rich applications
 
-This Learning Path begins by introducing you to Tkinter and [PyQt](PyQt), before guiding you through the application development process. As you expand your GUI by adding more widgets, you\'ll work with networks, databases, and graphical libraries that enhance its functionality. You\'ll also learn how to connect to external databases and network resources, test your code, and maximize performance using asynchronous programming. In later chapters, you\'ll understand how to use the cross-platform features of Tkinter and Qt5 to maintain compatibility across platforms. You'll be able to mimic the platform-native look and feel, and build executables for deployment across popular computing platforms.
+This Learning Path begins by introducing you to Tkinter and [PyQt](../gui/PyQt), before guiding you through the application development process. As you expand your GUI by adding more widgets, you\'ll work with networks, databases, and graphical libraries that enhance its functionality. You\'ll also learn how to connect to external databases and network resources, test your code, and maximize performance using asynchronous programming. In later chapters, you\'ll understand how to use the cross-platform features of Tkinter and Qt5 to maintain compatibility across platforms. You'll be able to mimic the platform-native look and feel, and build executables for deployment across popular computing platforms.
 
 With this book you\'ll have the skills and confidence to design and build high-end GUI applications that can solve real-world problems.
 
@@ -490,9 +490,9 @@ ISBN 13: 9781789612790 Packt 770 Pages (29 May 2019)
 
 Book Overview:
 
-Boost UI development with ready-made widgets, controls, charts, and data visualization and create stunning 2D and 3D graphics with [PyQt](PyQt) and [PySide2](./PySide2.html).
+Boost UI development with ready-made widgets, controls, charts, and data visualization and create stunning 2D and 3D graphics with [PyQt](../gui/PyQt) and [PySide2](./PySide2.html).
 
-Qt is one of the most widely used and flexible frameworks for GUI application development, allowing you to write your application once and then deploy it to multiple operating systems. This book combines the best of Python and Qt to help you develop GUI applications with Python bindings, such as [PyQt](PyQt) and [PySide](PySide), that will supercharge your Python applications.
+Qt is one of the most widely used and flexible frameworks for GUI application development, allowing you to write your application once and then deploy it to multiple operating systems. This book combines the best of Python and Qt to help you develop GUI applications with Python bindings, such as [PyQt](../gui/PyQt) and [PySide](../people/PySide), that will supercharge your Python applications.
 
 With this book, you will be able to create modern, responsive, cross-platform desktop applications with the power of Qt, Python, and QML.
 
@@ -544,9 +544,9 @@ ISBN 13: 9781789612790 Packt 770 Pages (29 May 2019)
 
 Book:
 
-Boost UI development with ready-made widgets, controls, charts, and data visualization and create stunning 2D and 3D graphics with [PyQt](PyQt) and [PySide2](./PySide2.html).
+Boost UI development with ready-made widgets, controls, charts, and data visualization and create stunning 2D and 3D graphics with [PyQt](../gui/PyQt) and [PySide2](./PySide2.html).
 
-The book begins with an overview of Qt and QML. You'll start by working with [PyQt](PyQt) GUI elements to style your applications. Then, you will learn how to use QWidget, frames, labels, and text fields, and work with graphics. This will be followed by taking you through how elements in the application communicate with each other by understanding signals, slots, and event handlers. This book will help you to gain a better understanding of the Qt framework and the tools to resolve issues when testing, linking, debugging, and multithreading your Python GUI applications. Finally, the book will help you get to grips with embedded and mobile development using [PyQt](PyQt) and [PySide](PySide).
+The book begins with an overview of Qt and QML. You'll start by working with [PyQt](../gui/PyQt) GUI elements to style your applications. Then, you will learn how to use QWidget, frames, labels, and text fields, and work with graphics. This will be followed by taking you through how elements in the application communicate with each other by understanding signals, slots, and event handlers. This book will help you to gain a better understanding of the Qt framework and the tools to resolve issues when testing, linking, debugging, and multithreading your Python GUI applications. Finally, the book will help you get to grips with embedded and mobile development using [PyQt](../gui/PyQt) and [PySide](../people/PySide).
 
 With this book, you will be able to create modern, responsive, cross-platform desktop applications with the power of Qt, Python, and QML.
 
@@ -584,9 +584,9 @@ Book Overview:
 
 An advanced guide to creating powerful high-performance GUIs for modern, media-rich applications in various domains such as business and game development
 
-You will get started with an introduction to [PyQt5](./PyQt5.html), before going on to develop stunning GUIs with modern features. You will then learn how to build forms using QWidgets and learn about important aspects of GUI development such as layouts, size policies, and event-driven programming. Moving ahead, you'll discover [PyQt5](./PyQt5.html)'s most powerful features through chapters on audio-visual programming with [QtMultimedia](./QtMultimedia.html), database-driven software with QtSQL, and web browsing with [QtWebEngine](./QtWebEngine.html). Next, in-depth coverage of multithreading and asynchronous programming will help you run tasks asynchronously and build high-concurrency processes with ease. In later chapters, you'll gain insights into QOpenGLWidget, along with mastering techniques for creating 2D graphics with QPainter. You'll also explore [PyQt](PyQt) on a Raspberry Pi and interface it with remote systems using [QtNetwork](./QtNetwork.html). Finally, you will learn how to distribute your applications using setuptools and [PyInstaller](PyInstaller).
+You will get started with an introduction to [PyQt5](./PyQt5.html), before going on to develop stunning GUIs with modern features. You will then learn how to build forms using QWidgets and learn about important aspects of GUI development such as layouts, size policies, and event-driven programming. Moving ahead, you'll discover [PyQt5](./PyQt5.html)'s most powerful features through chapters on audio-visual programming with [QtMultimedia](./QtMultimedia.html), database-driven software with QtSQL, and web browsing with [QtWebEngine](./QtWebEngine.html). Next, in-depth coverage of multithreading and asynchronous programming will help you run tasks asynchronously and build high-concurrency processes with ease. In later chapters, you'll gain insights into QOpenGLWidget, along with mastering techniques for creating 2D graphics with QPainter. You'll also explore [PyQt](../gui/PyQt) on a Raspberry Pi and interface it with remote systems using [QtNetwork](./QtNetwork.html). Finally, you will learn how to distribute your applications using setuptools and [PyInstaller](../people/PyInstaller).
 
-By the end of this book, you will have the skills you need to develop robust GUI applications using [PyQt](PyQt).
+By the end of this book, you will have the skills you need to develop robust GUI applications using [PyQt](../gui/PyQt).
 
 [Publisher\'s page](https://www.packtpub.com/application-development/mastering-gui-programming-python)
 
@@ -790,7 +790,7 @@ Video Overview:
 
 Seven short lessons and a daily exercise, carefully chosen to get you started with [PyTorch](./PyTorch.html) Deep Learning faster than other courses
 
-[PyTorch](./PyTorch.html) is Facebook's latest Python-based framework for Deep Learning. It has the ability to create dynamic Neural Networks on CPUs and GPUs, both with significantly less code compared to other competing frameworks. [PyTorch](./PyTorch.html) has a unique interface that makes it as easy to learn as [NumPy](NumPy).
+[PyTorch](./PyTorch.html) is Facebook's latest Python-based framework for Deep Learning. It has the ability to create dynamic Neural Networks on CPUs and GPUs, both with significantly less code compared to other competing frameworks. [PyTorch](./PyTorch.html) has a unique interface that makes it as easy to learn as [NumPy](../science/NumPy).
 
 This 7-day course is for those who are in a hurry to get started with [PyTorch](./PyTorch.html). You will be introduced to the most commonly used Deep Learning models, techniques, and algorithms through [PyTorch](./PyTorch.html) code. This course is an attempt to break the myth that Deep Learning is complicated and show you that with the right choice of tools combined with a simple and intuitive explanation of core concepts, Deep Learning is as accessible as any other application development technologies out there. It's a journey from diving deep into the fundamentals to getting acquainted with the advanced concepts such as Transfer Learning, Natural Language Processing and implementation of Generative Adversarial Networks.
 
@@ -1436,7 +1436,7 @@ ISBN 13: 9781789536591 Packt 134 Pages (October 2018)
 
 Book Overview:
 
-Create real-world machine learning solutions using [NumPy](NumPy), pandas, matplotlib, and scikit-learn
+Create real-world machine learning solutions using [NumPy](../science/NumPy), pandas, matplotlib, and scikit-learn
 
 Machine Learning (ML) has changed the way organizations and individuals use data to improve the efficiency of a system. ML algorithms allow strategists to deal with a variety of structured, unstructured, and semi-structured data. Machine Learning for Healthcare Analytics Projects is packed with new approaches and methodologies for creating powerful solutions for healthcare analytics.
 
@@ -1678,7 +1678,7 @@ Book Overview:
 
 Enhance your data analysis and predictive modeling skills using popular Python tools
 
-In this book, we will cover Python libraries such as [NumPy](NumPy), pandas, matplotlib, seaborn, [SciPy](SciPy), and scikit-learn, and apply them in practical data analysis and statistics examples. As you make your way through the chapters, you will learn to efficiently use the Jupyter Notebook to operate and manipulate data using [NumPy](NumPy) and the pandas library. In the concluding chapters, you will gain experience in building simple predictive models and carrying out statistical computation and analysis using rich Python tools and proven data analysis techniques.
+In this book, we will cover Python libraries such as [NumPy](../science/NumPy), pandas, matplotlib, seaborn, [SciPy](SciPy), and scikit-learn, and apply them in practical data analysis and statistics examples. As you make your way through the chapters, you will learn to efficiently use the Jupyter Notebook to operate and manipulate data using [NumPy](../science/NumPy) and the pandas library. In the concluding chapters, you will gain experience in building simple predictive models and carrying out statistical computation and analysis using rich Python tools and proven data analysis techniques.
 
 By the end of this book, you will have hands-on experience performing data analysis with Python.
 
@@ -2024,7 +2024,7 @@ Book Overview:
 
 Over 60 recipes to help you design interactive, smart, and cross-platform GUI applications
 
-[PyQt](PyQt) is one of the best cross-platform interface toolkits currently available; it\'s stable, mature, and completely native. If you want control over all aspects of UI elements, [PyQt](PyQt) is what you need. This book will guide you through every concept necessary to create fully functional GUI applications using [PyQt](PyQt), with only a few lines of code.
+[PyQt](../gui/PyQt) is one of the best cross-platform interface toolkits currently available; it\'s stable, mature, and completely native. If you want control over all aspects of UI elements, [PyQt](../gui/PyQt) is what you need. This book will guide you through every concept necessary to create fully functional GUI applications using [PyQt](../gui/PyQt), with only a few lines of code.
 
 As you expand your GUI using more widgets, you will cover networks, databases, and graphical libraries that greatly enhance its functionality. Next, the book guides you in using Qt Designer to design user interfaces and implementing and testing dialogs, events, the clipboard, and drag and drop functionality to customize your GUI. You will learn a variety of topics, such as look and feel customization, GUI animation, graphics rendering, implementing Google Maps, and more.
 
@@ -2112,9 +2112,9 @@ ISBN 13: 9781788993357 Packt 248 Pages (June 2018)
 
 Book Overview:
 
-Enhance the power of [NumPy](NumPy) and start boosting your scientific computing capabilities
+Enhance the power of [NumPy](../science/NumPy) and start boosting your scientific computing capabilities
 
-Beginning with [NumPy](NumPy)\'s arrays and functions, you will familiarize yourself with linear algebra concepts to perform vector and matrix math operations. You will thoroughly understand and practice data processing, exploratory data analysis (EDA), and predictive modeling. You will then move on to working on practical examples which will teach you how to use [NumPy](NumPy) statistics in order to explore US housing data and develop a predictive model using simple and multiple linear regression techniques. Once you have got to grips with the basics, you will explore unsupervised learning and clustering algorithms, followed by understanding how to write better [NumPy](NumPy) code while keeping advanced considerations in mind. The book also demonstrates the use of different high-performance numerical computing libraries and their relationship with [NumPy](NumPy). You will study how to benchmark the performance of different configurations and choose the best for your system.
+Beginning with [NumPy](../science/NumPy)\'s arrays and functions, you will familiarize yourself with linear algebra concepts to perform vector and matrix math operations. You will thoroughly understand and practice data processing, exploratory data analysis (EDA), and predictive modeling. You will then move on to working on practical examples which will teach you how to use [NumPy](../science/NumPy) statistics in order to explore US housing data and develop a predictive model using simple and multiple linear regression techniques. Once you have got to grips with the basics, you will explore unsupervised learning and clustering algorithms, followed by understanding how to write better [NumPy](../science/NumPy) code while keeping advanced considerations in mind. The book also demonstrates the use of different high-performance numerical computing libraries and their relationship with [NumPy](../science/NumPy). You will study how to benchmark the performance of different configurations and choose the best for your system.
 
 By the end of this book, you will have become an expert in handling and performing complex data manipulations.
 
@@ -2498,7 +2498,7 @@ Test your Python programming skills by solving real-world problems
 
 This book covers the unexplored secrets of Python, delve into its depths, and uncover its mysteries. You'll unearth secrets related to the implementation of the standard library, by looking at how modules actually work. You'll understand the implementation of collections, decimals, and fraction modules. If you haven't used decorators, coroutines, and generator functions much before, as you make your way through the recipes, you'll learn what you've been missing out on.
 
-We'll cover internal special methods in detail, so you understand what they are and how they can be used to improve the engineering decisions you make. Next, you'll explore the CPython interpreter, which is a treasure trove of secret hacks that not many programmers are aware of. We'll take you through the depths of the [PyPy](PyPy) project, where you'll come across several exciting ways that you can improve speed and concurrency.
+We'll cover internal special methods in detail, so you understand what they are and how they can be used to improve the engineering decisions you make. Next, you'll explore the CPython interpreter, which is a treasure trove of secret hacks that not many programmers are aware of. We'll take you through the depths of the [PyPy](../implementations/PyPy) project, where you'll come across several exciting ways that you can improve speed and concurrency.
 
 [Publisher\'s page](https://www.packtpub.com/application-development/secret-recipes-python-ninja)
 
@@ -2622,9 +2622,9 @@ ISBN 13: 9781789138313 Packt Course Length: 2 hours and 18 minutes (May 2018)
 
 Video Overview:
 
-Apply the practices of Test-Driven Development using the [PyTest](PyTest) framework to easily create your unit tests
+Apply the practices of Test-Driven Development using the [PyTest](../testing/PyTest) framework to easily create your unit tests
 
-In this video tutorial, you'll learn about the [PyTest](PyTest) testing library and how it's used to write unit tests in Python. You'll also set up some common Python development environments to use [PyTest](PyTest). You'll create isolated test environments with Test Doubles and learn how to implement and use them with unittest.mock. Moving on, you'll get to know some of the best practices in Unit Testing and TDD and get some hands-on experience with programming by implementing unit tests using TDD in Python.
+In this video tutorial, you'll learn about the [PyTest](../testing/PyTest) testing library and how it's used to write unit tests in Python. You'll also set up some common Python development environments to use [PyTest](../testing/PyTest). You'll create isolated test environments with Test Doubles and learn how to implement and use them with unittest.mock. Moving on, you'll get to know some of the best practices in Unit Testing and TDD and get some hands-on experience with programming by implementing unit tests using TDD in Python.
 
 By the end of this course, you'll be able to apply the practices of Unit Testing and TDD on a daily basis to radically increase the quality of your code and help you and your company achieve your goals faster than ever before.
 
@@ -3400,7 +3400,7 @@ ISBN 13: 9781789132793 Packt Course Length: 1 hour 32 minutes (Jan 2018)
 
 Video Overview:
 
-A one-stop solution to quickly program fast Machine Learning algorithms with [NumPy](NumPy) and scikit-learn
+A one-stop solution to quickly program fast Machine Learning algorithms with [NumPy](../science/NumPy) and scikit-learn
 
 This course begins by taking you through videos on evaluating the statistical properties of data and generating synthetic data for machine learning modeling. As you progress through the sections, you will come across videos that will teach you to implement techniques such as data pre-processing, linear regression, logistic regression, and K-NN. You will also look at Pre-Model and Pre-Processing workflows, to help you choose the right models.
 
@@ -3440,7 +3440,7 @@ An effective guide to using ensemble techniques to enhance machine learning mode
 
 This book covers different machine learning algorithms that are widely used in the practical world to make predictions and classifications. It addresses different aspects of a prediction framework, such as data pre-processing, model training, validation of the model, and more. You will gain knowledge of different machine learning aspects such as bagging (decision trees and random forests), Boosting (Ada-boost) and stacking (a combination of bagging and boosting algorithms).
 
-Then you'll learn how to implement them by building ensemble models using [TensorFlow](./TensorFlow.html) and Python libraries such as scikit-learn and [NumPy](NumPy). As machine learning touches almost every field of the digital world, you'll see how these algorithms can be used in different applications such as computer vision, speech recognition, making recommendations, grouping and document classification, fitting regression on data, and more.
+Then you'll learn how to implement them by building ensemble models using [TensorFlow](./TensorFlow.html) and Python libraries such as scikit-learn and [NumPy](../science/NumPy). As machine learning touches almost every field of the digital world, you'll see how these algorithms can be used in different applications such as computer vision, speech recognition, making recommendations, grouping and document classification, fitting regression on data, and more.
 
 [Publisher\'s page](https://www.packtpub.com/big-data-and-business-intelligence/ensemble-machine-learning)
 
@@ -3528,7 +3528,7 @@ Book Overview:
 
 Gain practical insights by exploiting data in your business to build advanced predictive modeling applications
 
-This book is your guide to getting started with predictive analytics using Python. You\'ll balance both statistical and mathematical concepts, and implement them in Python using libraries such as pandas, scikit-learn, and [NumPy](NumPy). Through case studies and code examples using popular open-source Python libraries, this book illustrates the complete development process for analytic applications.
+This book is your guide to getting started with predictive analytics using Python. You\'ll balance both statistical and mathematical concepts, and implement them in Python using libraries such as pandas, scikit-learn, and [NumPy](../science/NumPy). Through case studies and code examples using popular open-source Python libraries, this book illustrates the complete development process for analytic applications.
 
 Covering a wide range of algorithms for classification, regression, clustering, as well as cutting-edge techniques such as deep learning, this book illustrates explains how these methods work. You will learn to choose the right approach for your problem and how to develop engaging visualizations to bring to life the insights of predictive modeling.
 
@@ -3564,7 +3564,7 @@ Book Overview:
 
 Tackle the most sophisticated problems associated with scientific computing and data manipulation using [SciPy](SciPy)
 
-This book includes hands-on recipes for using the different components of the [SciPy](SciPy) Stack such as [NumPy](NumPy), [SciPy](SciPy), matplotlib, and pandas, among others. You will use these libraries to solve real-world problems in linear algebra, numerical analysis, data visualization, and much more. The recipes included in the book will ensure you get a practical understanding not only of how a particular feature in [SciPy](SciPy) Stack works, but also of its application to real-world problems.
+This book includes hands-on recipes for using the different components of the [SciPy](SciPy) Stack such as [NumPy](../science/NumPy), [SciPy](SciPy), matplotlib, and pandas, among others. You will use these libraries to solve real-world problems in linear algebra, numerical analysis, data visualization, and much more. The recipes included in the book will ensure you get a practical understanding not only of how a particular feature in [SciPy](SciPy) Stack works, but also of its application to real-world problems.
 
 The independent nature of the recipes also ensure that you can pick up any one and learn about a particular feature of [SciPy](SciPy) without reading through the other recipes, thus making the book a very handy and useful guide.
 
@@ -4130,13 +4130,13 @@ ISBN 13: 9781787121195 Packt Publishing Course Length: 2 hours and 18 minutes (J
 
 Video Overview:
 
-In this video course, you will explore two of the most important Python packages used by Data Analysts. You will start off by learning how to set up the right environment for data analysis with Python. Here, you'll learn to install the right Python distribution, as well as work with the Jupyter notebook, and set up a database. After that you will dive into Python's [NumPy](NumPy) package, Python's powerful extension with advanced mathematical functions. You will learn to create [NumPy](NumPy) arrays, as well as employ different array methods and functions. Then, you will explore Python's Pandas extension, where you will learn to subset your data, as well as dive into data mapping using Pandas. You'll also learn to manage your data sets by sorting and ranking them. Finally, you will learn to index and group your data for sophisticated data analysis and manipulation.
+In this video course, you will explore two of the most important Python packages used by Data Analysts. You will start off by learning how to set up the right environment for data analysis with Python. Here, you'll learn to install the right Python distribution, as well as work with the Jupyter notebook, and set up a database. After that you will dive into Python's [NumPy](../science/NumPy) package, Python's powerful extension with advanced mathematical functions. You will learn to create [NumPy](../science/NumPy) arrays, as well as employ different array methods and functions. Then, you will explore Python's Pandas extension, where you will learn to subset your data, as well as dive into data mapping using Pandas. You'll also learn to manage your data sets by sorting and ranking them. Finally, you will learn to index and group your data for sophisticated data analysis and manipulation.
 
 What you will learn:
 
-- How to read, sort, and map various data into [NumPy](NumPy) and Pandas
+- How to read, sort, and map various data into [NumPy](../science/NumPy) and Pandas
 
-- How to create and slice data arrays using [NumPy](NumPy)
+- How to create and slice data arrays using [NumPy](../science/NumPy)
 
 - How to subset your data frames using Pandas
 
@@ -4269,7 +4269,7 @@ Gain useful insights from your data using popular data science tools
 
 Fully expanded and upgraded, the latest edition of Python Data Science Essentials will help you succeed in data science operations using the most common Python libraries.
 
-This book offers up-to-date insight into the core of Python, including the latest versions of the Jupyter Notebook, [NumPy](NumPy), pandas, and scikit-learn. The book covers detailed examples and large hybrid datasets to help you grasp essential statistical techniques for data collection, data munging and analysis, visualization, and reporting activities. You will also gain an understanding of advanced data science topics such as machine learning algorithms, distributed computing, tuning predictive models, and natural language processing. Furthermore, You'll also be introduced to deep learning and gradient boosting solutions such as XGBoost, LightGBM, and [CatBoost](./CatBoost.html).
+This book offers up-to-date insight into the core of Python, including the latest versions of the Jupyter Notebook, [NumPy](../science/NumPy), pandas, and scikit-learn. The book covers detailed examples and large hybrid datasets to help you grasp essential statistical techniques for data collection, data munging and analysis, visualization, and reporting activities. You will also gain an understanding of advanced data science topics such as machine learning algorithms, distributed computing, tuning predictive models, and natural language processing. Furthermore, You'll also be introduced to deep learning and gradient boosting solutions such as XGBoost, LightGBM, and [CatBoost](./CatBoost.html).
 
 By the end of the book, you will have gained a complete overview of the principal machine learning algorithms, graph analysis techniques, and all the visualization and deployment instruments that make it easier to present your results to an audience of both data science experts and business users.
 
@@ -4321,9 +4321,9 @@ Book Overview:
 
 Get to grips with the most popular Python packages that make Data Analysis possible
 
-Hands-On Data Analysis with [NumPy](NumPy) and Pandas starts by guiding you in setting up the right environment for data analysis with Python, along with helping you install the correct Python distribution. In addition to this, you will work with the Jupyter notebook and set up a database. Once you have covered Jupyter, you will dig deep into Python's [NumPy](NumPy) package, a powerful extension with advanced mathematical functions.
+Hands-On Data Analysis with [NumPy](../science/NumPy) and Pandas starts by guiding you in setting up the right environment for data analysis with Python, along with helping you install the correct Python distribution. In addition to this, you will work with the Jupyter notebook and set up a database. Once you have covered Jupyter, you will dig deep into Python's [NumPy](../science/NumPy) package, a powerful extension with advanced mathematical functions.
 
-You will then move on to creating [NumPy](NumPy) arrays and employing different array methods and functions. You will explore Python's pandas extension which will help you get to grips with data mining and learn to subset your data. Last but not the least you will grasp how to manage your datasets by sorting and ranking them. By the end of this book, you will have learned to index and group your data for sophisticated data analysis and manipulation.
+You will then move on to creating [NumPy](../science/NumPy) arrays and employing different array methods and functions. You will explore Python's pandas extension which will help you get to grips with data mining and learn to subset your data. Last but not the least you will grasp how to manage your datasets by sorting and ranking them. By the end of this book, you will have learned to index and group your data for sophisticated data analysis and manipulation.
 
 [Publisher\'s page](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-analysis-numpy-and-pandas)
 
@@ -4692,13 +4692,13 @@ ISBN 13: 9781788394697 Packt Publishing 931 pages (May 2017)
 
 Book Overview:
 
-This book will get you started with Python data analysis by introducing the basics of data analysis and supported Python libraries such as matplotlib, [NumPy](NumPy), and pandas. Create visualizations by choosing color maps, different shapes, sizes, and palettes then delve into statistical data analysis using distribution algorithms and correlations.
+This book will get you started with Python data analysis by introducing the basics of data analysis and supported Python libraries such as matplotlib, [NumPy](../science/NumPy), and pandas. Create visualizations by choosing color maps, different shapes, sizes, and palettes then delve into statistical data analysis using distribution algorithms and correlations.
 
 What you will learn:
 
 - Understand the importance of data analysis and master its processing steps
 
-- Get comfortable using Python and its associated data analysis libraries such as Pandas, [NumPy](NumPy), and [SciPy](SciPy)
+- Get comfortable using Python and its associated data analysis libraries such as Pandas, [NumPy](../science/NumPy), and [SciPy](SciPy)
 
 - Clean and transform your data and apply advanced statistical analysis to create attractive visualizations
 
@@ -4848,11 +4848,11 @@ ISBN 13: 9781787127487 Packt Publishing 330 pages (March 2017)
 
 Book Overview:
 
-With this book, you will learn how to process and manipulate data with Python for complex analysis and modeling. We learn data manipulations such as aggregating, concatenating, appending, cleaning, and handling missing values, with [NumPy](NumPy) and Pandas. The book covers how to store and retrieve data from various data sources such as SQL and NoSQL, CSV fies, and HDF5. We learn how to visualize data using visualization libraries, along with advanced topics such as signal processing, time series, textual data analysis, machine learning, and social media analysis.
+With this book, you will learn how to process and manipulate data with Python for complex analysis and modeling. We learn data manipulations such as aggregating, concatenating, appending, cleaning, and handling missing values, with [NumPy](../science/NumPy) and Pandas. The book covers how to store and retrieve data from various data sources such as SQL and NoSQL, CSV fies, and HDF5. We learn how to visualize data using visualization libraries, along with advanced topics such as signal processing, time series, textual data analysis, machine learning, and social media analysis.
 
 What you will learn:
 
-- Install open source Python modules such [NumPy](NumPy), [SciPy](SciPy), Pandas, stasmodels, scikit-learn,theano, keras, and tensorflow on various platforms
+- Install open source Python modules such [NumPy](../science/NumPy), [SciPy](SciPy), Pandas, stasmodels, scikit-learn,theano, keras, and tensorflow on various platforms
 
 - Prepare and clean your data, and use it for exploratory analysis
 
@@ -4888,7 +4888,7 @@ Data analysis is the process of applying logical and analytical reasoning in ord
 
 What you will learn:
 
-- Get acquainted with [NumPy](NumPy) and use arrays and array-oriented computing in data analysis
+- Get acquainted with [NumPy](../science/NumPy) and use arrays and array-oriented computing in data analysis
 
 - Process and analyze data using the time-series capabilities of Pandas
 
@@ -4896,7 +4896,7 @@ What you will learn:
 
 - Data visualization with Matplotlib
 
-- Interactive plotting with [NumPy](NumPy), Scipy, and MKL functions
+- Interactive plotting with [NumPy](../science/NumPy), Scipy, and MKL functions
 
 - Build financial models using Monte-Carlo simulations
 

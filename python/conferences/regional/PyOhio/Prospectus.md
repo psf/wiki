@@ -39,7 +39,7 @@ PyOhio is run entirely by a group of regional volunteers, but is held in coopera
 
 You sponsorship dollars will be used to cover the expenses of the conference: facilities rental, coffee/snack service, printing of the program, and the like. We also defray the cost of video recording of all the talks (your logo can appear before every video!), and for meals during the code sprints (if possible). We are printing t-shirts this year and would like to defray some of the costs of that as well.
 
-This year, we would like to charter a 501(c) foundation to take ownership of the [PyOhio](PyOhio) conference, retain any excess donations, and use the funds to present "Day of Python" events around the Midwest, as well as offer introductory Python programming classes and materials to high school students.
+This year, we would like to charter a 501(c) foundation to take ownership of the [PyOhio]() conference, retain any excess donations, and use the funds to present "Day of Python" events around the Midwest, as well as offer introductory Python programming classes and materials to high school students.
 
 ## Sponsorship Levels 
 
@@ -55,7 +55,7 @@ This year, we would like to charter a 501(c) foundation to take ownership of the
 
 - Full-page advertisement in conference program
 
-- 150 x 300 pixel click-through logo/advertisement on [PyOhio](PyOhio) website
+- 150 x 300 pixel click-through logo/advertisement on [PyOhio]() website
 
 - Table in conference common area
 
@@ -73,7 +73,7 @@ This year, we would like to charter a 501(c) foundation to take ownership of the
 
 - Half-page advertisement in conference program
 
-- 150 x 300 pixel click-through logo/advertisement on [PyOhio](PyOhio) website
+- 150 x 300 pixel click-through logo/advertisement on [PyOhio]() website
 
 - 2 T-Shirts and 2 Parking Passes
 
@@ -85,7 +85,7 @@ This year, we would like to charter a 501(c) foundation to take ownership of the
 
 - Quarter-page advertisement in conference program
 
-- 150 x 150 pixel click-through logo/advertisement on [PyOhio](PyOhio) website
+- 150 x 150 pixel click-through logo/advertisement on [PyOhio]() website
 
 - 1 T-Shirt and 1 Parking Pass
 
@@ -95,6 +95,6 @@ We would love to hear what ideas you have for helping make PyOhio the best Pytho
 
 Sincerely,
 
-*The organizers of [PyOhio](PyOhio) 2011*
+*The organizers of [PyOhio]() 2011*
 
 *[pyohio-organizers@python.org](mailto:pyohio-organizers@python.org)*

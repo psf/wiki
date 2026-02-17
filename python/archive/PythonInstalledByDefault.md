@@ -36,4 +36,4 @@ Where is Python *not* installed by default?
 
 Actually, some vendors do install Python on Windows machines, but that\'s vendor-specific rather than platform-specific. More information on such installations can be found in the [\"Why is Python Installed on my Computer?\"](http://www.python.org/doc/faq/installed.html) FAQ.
 
-For Linux, you can use [Freeze](Freeze) to make executables. For Windows, you can use [Py2Exe](Py2Exe). The Mac OS equivalent is [py2app](./py2app.html).
+For Linux, you can use [Freeze](Freeze) to make executables. For Windows, you can use [Py2Exe](../platforms/Py2Exe). The Mac OS equivalent is [py2app](./py2app.html).

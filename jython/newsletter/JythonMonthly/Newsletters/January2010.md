@@ -71,7 +71,7 @@ I am currently experimenting jython in order to do pdf files manipulations. I en
 
 [Websphere Application Server Administration Using Jython](http://webspherecommunity.blogspot.com/2010/01/websphere-application-server.html) - Websphere Community Blog
 
-I recently had the opportunity to review the recently published [WebSphere](WebSphere) Application Server Administration Using Jython from IBM Press and thought I would share my opinions on this book. In the spirit of full disclosure, I was provided a copy of the book to review at no cost to myself. [Read More](http://webspherecommunity.blogspot.com/2010/01/websphere-application-server.html)
+I recently had the opportunity to review the recently published [WebSphere](../../../user-guide/WebSphere) Application Server Administration Using Jython from IBM Press and thought I would share my opinions on this book. In the spirit of full disclosure, I was provided a copy of the book to review at no cost to myself. [Read More](http://webspherecommunity.blogspot.com/2010/01/websphere-application-server.html)
 
 [Django-Jython 1.1.1 Released](http://blog.leosoto.com/2010/01/django-jython-111-released.html) - Leo Soto
 
@@ -107,11 +107,11 @@ I\'m really not sure what to think about this yet: Sikuli \"is a visual technolo
 
 **[Changing Cell Names, Node Names, Host Names](http://dustinamrhein.wordpress.com/2010/01/26/changing-cell-names-node-names-host-names/) - Dustin\'s Blog**
 
-It seems like I get asked quite a bit about how to change cell names, node names, and host names for a given [WebSphere](WebSphere) Application Server environment. It usually starts by someone asking me what configuration files they need to change when they want to update this information, and is followed by their surprise when I tell them none. The reason I say that is because it's time consuming, hard, and unnecessary for you to figure this out. Instead, you can use three simple wsadmin commands. I'll give you an example of those here (all written in Jython). [Read More](http://dustinamrhein.wordpress.com/2010/01/26/changing-cell-names-node-names-host-names/)
+It seems like I get asked quite a bit about how to change cell names, node names, and host names for a given [WebSphere](../../../user-guide/WebSphere) Application Server environment. It usually starts by someone asking me what configuration files they need to change when they want to update this information, and is followed by their surprise when I tell them none. The reason I say that is because it's time consuming, hard, and unnecessary for you to figure this out. Instead, you can use three simple wsadmin commands. I'll give you an example of those here (all written in Jython). [Read More](http://dustinamrhein.wordpress.com/2010/01/26/changing-cell-names-node-names-host-names/)
 
 **[Precompiling JSPs for Websphere 6.1](http://jlorenzen.blogspot.com/2010/01/precompiling-jsps-for-websphere-61.html) - James Lorenzen**
 
-For the past week I have been trying to get precompiled JSPs working for [WebSphere](WebSphere) 6.1, because our target environment does not include the Java Development Kit (JDK) for security reasons. The following is a brief explanation on how to precompile JSPs for [WebSphere](WebSphere) 6.1 using maven2. And as an added bonus, I\'ll also explain how to use the maven-was6-plugin to automate deployment of a WAR using Jython. [Read More](http://jlorenzen.blogspot.com/2010/01/precompiling-jsps-for-websphere-61.html)
+For the past week I have been trying to get precompiled JSPs working for [WebSphere](../../../user-guide/WebSphere) 6.1, because our target environment does not include the Java Development Kit (JDK) for security reasons. The following is a brief explanation on how to precompile JSPs for [WebSphere](../../../user-guide/WebSphere) 6.1 using maven2. And as an added bonus, I\'ll also explain how to use the maven-was6-plugin to automate deployment of a WAR using Jython. [Read More](http://jlorenzen.blogspot.com/2010/01/precompiling-jsps-for-websphere-61.html)
 
 **[Spring Python 1.1.0 M1 Released](http://dbaktiar.wordpress.com/2010/02/01/spring-python-1-1-0-m1-released/) - Daniel Baktier**
 

@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Oleksandr Yakovlyev\'s Embeding PyQt Tutorial 
 
-This is a short tutorial to embed your Qt application in [PyQt](PyQt) . It assumes knowledge of bash, Python, Qt+[PyQt](PyQt) and sip.
+This is a short tutorial to embed your Qt application in [PyQt](../gui/PyQt) . It assumes knowledge of bash, Python, Qt+[PyQt](../gui/PyQt) and sip.
 
 ## Hybrid Application? 
 
-One day I discovered that it can be really great to use [PyQt](PyQt) scripts in a Qt application. It assumes that such Hybrid application can have two \"branches\" - c++ code and python code working together, exchange signals between two these branches, of course possibility to create new objects with python/pyqt and connect signal/slots beetween two parts of the application (Qt and [PyQt](PyQt)), well between Qt objects and [PyQt](PyQt) objects. Well, even more, with Python you can create new classes in runtime, and \... this is almost magic, these new clases/objects will work together with C++(Qt) part of application.
+One day I discovered that it can be really great to use [PyQt](../gui/PyQt) scripts in a Qt application. It assumes that such Hybrid application can have two \"branches\" - c++ code and python code working together, exchange signals between two these branches, of course possibility to create new objects with python/pyqt and connect signal/slots beetween two parts of the application (Qt and [PyQt](../gui/PyQt)), well between Qt objects and [PyQt](../gui/PyQt) objects. Well, even more, with Python you can create new classes in runtime, and \... this is almost magic, these new clases/objects will work together with C++(Qt) part of application.
 
-First challenge is event loop. Python and Qt application have their own event loop, and I have not found way to use only Qt event loop yet. So we need to use Python ([PyQt](PyQt)) event loop. It means next change in application:
+First challenge is event loop. Python and Qt application have their own event loop, and I have not found way to use only Qt event loop yet. So we need to use Python ([PyQt](../gui/PyQt)) event loop. It means next change in application:
 
 - Removed main.cpp
 - Created main.py with same functionality

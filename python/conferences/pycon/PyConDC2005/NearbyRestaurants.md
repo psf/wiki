@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This page will list restaurants near the [PyCon](PyCon) conference site. If you have a particularly good or bad experience with a particular restaurant, or discover a good one that isn\'t listed, please add your account to this page.
+This page will list restaurants near the [PyCon](../PyCon) conference site. If you have a particularly good or bad experience with a particular restaurant, or discover a good one that isn\'t listed, please add your account to this page.
 
 Georgetown, an upscale neighbourhood to the west of the Foggy Bottom area, has many fine restaurants as long as you\'re willing to walk there; parking is scarce and buses aren\'t particularly frequent. If you\'re willing to walk somewhere for dinner, though, you could consider Georgetown.
 
 Several Metro stops are connected to huge food courts. Union Station is probably the largest. Washington\'s small Chinatown district surrounds the Gallery Place/Chinatown Metro stop.
 
-The Metro station closest to [PyCon](PyCon) is Foggy Bottom; walk up to Eye Street and turn left, walking a few blocks west.
+The Metro station closest to [PyCon](../PyCon) is Foggy Bottom; walk up to Eye Street and turn left, walking a few blocks west.
 
 If you\'re trying to use a store locator, the Cafritz Center\'s Zip code is 20052.
 
@@ -53,7 +53,7 @@ If you leave the building by the main entrance, you\'ll see a large Tower Record
 
 # Nearby 
 
-There are many restaurants in the blocks surrounding the conference center. They\'re almost all located to the north of [PyCon](PyCon); southwards the area is mostly university buildings or residences.
+There are many restaurants in the blocks surrounding the conference center. They\'re almost all located to the north of [PyCon](../PyCon); southwards the area is mostly university buildings or residences.
 
 In rough order of proximity (Eye Street is used as a more-readable synonym for I Street):
 
@@ -111,7 +111,7 @@ There is a CVS drugstore at 1901 Pennsylvania (corner of 19th and Penn), and ano
 
 ## Bookstores 
 
-[Reiter\'s](http://www.reiters.com/) is the largest technical and scientific bookstore in the DC area, and is definitely worth a visit; they also carry legal and professional titles. It\'s a few blocks to the north of [PyCon](PyCon), at 2021 K Street.
+[Reiter\'s](http://www.reiters.com/) is the largest technical and scientific bookstore in the DC area, and is definitely worth a visit; they also carry legal and professional titles. It\'s a few blocks to the north of [PyCon](../PyCon), at 2021 K Street.
 
 The GW University bookstore is on the first floor of the Cafritz Center.
 

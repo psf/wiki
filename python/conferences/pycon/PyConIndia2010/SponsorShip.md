@@ -26,7 +26,7 @@ This is a list of sponsors whom we can meet. A good starting point is [BangPyper
   --------------------------------------------------- ----------------------------------------------
 :::
 
-Possible cold calls to all the sponsors at The US, APAC and Euro [PyCon](PyCon) sites?
+Possible cold calls to all the sponsors at The US, APAC and Euro [PyCon](../PyCon) sites?
 
 # Sponsorship Tiers 
 

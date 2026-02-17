@@ -71,7 +71,7 @@ Parking downtown can be tricky. There are a number of parking garages around. Pl
 
 - April 16, 2008: *Big* turnout this month. Discussed Google App Engine and other topics.
 
-- Mar 12, 2008: Held at [PyCon](PyCon) 2008
+- Mar 12, 2008: Held at [PyCon](../conferences/pycon/PyCon) 2008
 
 - Feb 13, 2008: CNC machine controls using Python
 
@@ -83,7 +83,7 @@ Parking downtown can be tricky. There are a number of parking garages around. Pl
 
 - May 16th, 2007: Sudoku sprint
 
-- March 7th, 2007: Exciting topics from [PyCon](PyCon) 2007.
+- March 7th, 2007: Exciting topics from [PyCon](../conferences/pycon/PyCon) 2007.
 
 - February 8th, 2007: Web Development discussions (mostly around Django)
 
@@ -107,7 +107,7 @@ Parking downtown can be tricky. There are a number of parking garages around. Pl
 
 - Building GUI apps
 
-- Web Development with Python (Django, [TurboGears](TurboGears), Zope, Plone, etc.)
+- Web Development with Python (Django, [TurboGears](../web/TurboGears), Zope, Plone, etc.)
 
 - Profiling and debugging tools
 

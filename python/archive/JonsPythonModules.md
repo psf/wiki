@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-A framework for [WebProgramming](WebProgramming).
+A framework for [WebProgramming](../web/WebProgramming).
 
 ### Masthead 
 
@@ -28,7 +28,7 @@ Python versions
 
 ### Deployment Platforms 
 
-- Integrated with a Web server using CGI or FastCGI or [ModPython](ModPython).
+- Integrated with a Web server using CGI or FastCGI or [ModPython](../people/ModPython).
 
 - With CGI, the lifespan of a program is determined by the Web server, but the FastCGI deployment option requires processes to remain responding to requests, potentially indefinitely.
 
@@ -65,4 +65,4 @@ Other presentation systems could easily be used instead, given the ability to us
 
 ### Comments 
 
-Jonpy does not provide a complete Web application environment for the most demanding of developers, but the intention behind the development of the framework is clearly to provide a robust foundation for small applications (or applications in limited environments), with the obvious possibility to use other packages and frameworks in conjunction with this one to address larger or more \"ambitious\" problems. Moreover, the framework seems to attempt to provide solutions for the most common problem areas in the early phases of Web application development, notably session support and a convenient-but-simple object model. \-- [PaulBoddie](PaulBoddie)
+Jonpy does not provide a complete Web application environment for the most demanding of developers, but the intention behind the development of the framework is clearly to provide a robust foundation for small applications (or applications in limited environments), with the obvious possibility to use other packages and frameworks in conjunction with this one to address larger or more \"ambitious\" problems. Moreover, the framework seems to attempt to provide solutions for the most common problem areas in the early phases of Web application development, notably session support and a convenient-but-simple object model. \-- [PaulBoddie](../people/PaulBoddie)

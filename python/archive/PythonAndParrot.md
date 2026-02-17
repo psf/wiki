@@ -16,4 +16,4 @@ The Parrot source tree includes some support for Python, but it can\'t run very 
 
 ------------------------------------------------------------------------
 
-See also: [Jython](Jython), [IronPython](IronPython), [PyPy](PyPy).
+See also: [Jython](Jython), [IronPython](../implementations/IronPython), [PyPy](../implementations/PyPy).

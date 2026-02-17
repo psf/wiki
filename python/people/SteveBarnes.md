@@ -30,7 +30,7 @@ Working as a software engineer, *in both contract and permanent roles*, since 19
 
 I am familiar with target & development systems ranging from those with no OS (bare metal), through those that need to be booted from paper tape, desktop machines and mainframes - from single chips to pipelines & clusters with 100s of processors.
 
-I am an occasional conference attendee at PyConUK & [EuroPython](EuroPython).
+I am an occasional conference attendee at PyConUK & [EuroPython](../conferences/europython/EuroPython).
 
 ------------------------------------------------------------------------
 

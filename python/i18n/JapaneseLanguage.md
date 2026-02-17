@@ -46,7 +46,7 @@ The [Japanese Translation Project](http://pythonjp.sourceforge.jp/) provides tra
 
 [Python pages on PukiWiki](http://www.logos.ic.i.u-tokyo.ac.jp/~s1s5/pukiwiki/index.php?programming%2Fpython)
 
-[sourceforge.jp](http://sourceforge.jp/forum/forum.php?forum_id=20875) - インテリセンス for [IronPython](IronPython) ver.0.3.2 リリース
+[sourceforge.jp](http://sourceforge.jp/forum/forum.php?forum_id=20875) - インテリセンス for [IronPython](../implementations/IronPython) ver.0.3.2 リリース
 
 ### Blogs 
 
@@ -70,7 +70,7 @@ The [Japanese Translation Project](http://pythonjp.sourceforge.jp/) provides tra
 
 - [peroon](http://d.hatena.ne.jp/peroon/20091027/1256620133) - get server name
 
-- [boxheadroom](http://boxheadroom.com/2009/10/23/mathematica_ironpython_webapi) - Mathematica server - [IronPython](IronPython) 2.6rc1
+- [boxheadroom](http://boxheadroom.com/2009/10/23/mathematica_ironpython_webapi) - Mathematica server - [IronPython](../implementations/IronPython) 2.6rc1
 
 - [monospace](http://blog.monospace.jp/tag/python/) - Python blog
 
@@ -88,7 +88,7 @@ The [Japanese Translation Project](http://pythonjp.sourceforge.jp/) provides tra
 
 - [kumattau](http://d.hatena.ne.jp/kumattau/20091101/1257091091) - jython extending Java applet
 
-- [palepoli](http://palepoli.skr.jp/wp/2009/10/29/identify-the-x64-windows-for-ironpython/) - [IronPython](IronPython) - identify Windows 32 or 64 bit
+- [palepoli](http://palepoli.skr.jp/wp/2009/10/29/identify-the-x64-windows-for-ironpython/) - [IronPython](../implementations/IronPython) - identify Windows 32 or 64 bit
 
 - [anything.research-forecast](http://anything.research-forecast.com/2009/11/pythonpass.html) - pass keyword
 
@@ -168,6 +168,6 @@ The [Japanese Translation Project](http://pythonjp.sourceforge.jp/) provides tra
 
 - [d](http://d.hatena.ne.jp/mzp/20100504/prime) - prime number snippet
 
-- [kadotanimitsuru](http://d.hatena.ne.jp/kadotanimitsuru/20100504/ironpythontype) - [IronPython](IronPython), XNA, colors
+- [kadotanimitsuru](http://d.hatena.ne.jp/kadotanimitsuru/20100504/ironpythontype) - [IronPython](../implementations/IronPython), XNA, colors
 
 [CategoryLanguage](CategoryLanguage) [CategoryUnicode](CategoryUnicode)

@@ -14,17 +14,17 @@ These are team members who help porting existing job postings from the old job b
 
 - *Please add your name here.*
 
-- [GilesThomas](GilesThomas)
+- [GilesThomas](../../people/GilesThomas)
 
-- [FrancoRobles](FrancoRobles)
+- [FrancoRobles](../../people/FrancoRobles)
 
-- [MarcAndreLemburg](MarcAndreLemburg)
+- [MarcAndreLemburg](../../archive/MarcAndreLemburg)
 
 - [GregBack](./GregBack.html)
 
 - [MelanieJutras](./MelanieJutras.html)
 
-- [SteveBarnes](SteveBarnes)
+- [SteveBarnes](../../people/SteveBarnes)
 
 - [SimonHayward](./SimonHayward.html)
 

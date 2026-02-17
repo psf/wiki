@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # General Information 
 
-[JythonFaq](JythonFaq)
+[JythonFaq]()
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ These are good starting points for learning python but by no means a complete li
 
 for Jython specific starting points try these:
 
-- [The Jython Users Guide](UserGuide)
+- [The Jython Users Guide](../../user-guide/UserGuide)
 
 - An excellent book, [\"Jython Essentials\"](http://www.oreilly.com/catalog/jythoness/), by Samuele Pedroni & Noel Rappin
 

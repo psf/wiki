@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### Overview 
 
-These instructions describe how to configure Qt on Windows so the drivers for PostgreSQL are built and usable by [PyQt4](PyQt4). They do not go into detail on how to build Qt, SIP and [PyQt4](PyQt4) from source. Here is the OS and software versions that were used:
+These instructions describe how to configure Qt on Windows so the drivers for PostgreSQL are built and usable by [PyQt4](../PyQt4). They do not go into detail on how to build Qt, SIP and [PyQt4](../PyQt4) from source. Here is the OS and software versions that were used:
 
 - Windows Vista
 
@@ -20,7 +20,7 @@ These instructions describe how to configure Qt on Windows so the drivers for Po
 
 - SIP 20070714 snapshot
 
-- [PyQt4](PyQt4) 20070721 snapshot
+- [PyQt4](../PyQt4) 20070721 snapshot
 
 ### Install PostgreSQL 
 
@@ -36,4 +36,4 @@ Note that spaces are important. -lpq does not work.
 
 ### SIP and PyQt4 
 
-Compile and install SIP and [PyQt4](PyQt4) normally.
+Compile and install SIP and [PyQt4](../PyQt4) normally.

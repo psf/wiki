@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-For more information about [PyCon](PyCon) 2006, see the main conference site at [http://us.pycon.org/TX2006/](http://us.pycon.org/TX2006/).
+For more information about [PyCon](../PyCon) 2006, see the main conference site at [http://us.pycon.org/TX2006/](http://us.pycon.org/TX2006/).
 
-The following tutorials were offered at [PyCon](PyCon) 2006, on Thursday February 23. See the [conference schedule](http://www.python.org/pycon/2006/schedule) for more information.
+The following tutorials were offered at [PyCon](../PyCon) 2006, on Thursday February 23. See the [conference schedule](http://www.python.org/pycon/2006/schedule) for more information.
 
 ## Morning session (9:00-12:20) 
 

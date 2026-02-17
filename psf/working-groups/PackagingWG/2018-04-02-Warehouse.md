@@ -81,7 +81,7 @@ There\'s a [request from JFrog to postpone redirect to 22nd](https://github.com/
 
 ### Resolution 
 
-Group approved this plan. Updated the [Warehouse roadmap](WarehouseRoadmap).
+Group approved this plan. Updated the [Warehouse roadmap](../../packaging/WarehouseRoadmap).
 
 ## Ask Donald for 
 

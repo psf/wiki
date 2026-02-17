@@ -27,7 +27,7 @@ The meeting took place on Monday 28th January 2008 at 1900 CET in the #europytho
 
       - Zeth is administering the Wiki infrastructure. Matt offered to help out with the Web site; lenscape also offered to police the Wiki.
   2.  Registration
-      - John\'s shopping cart solution for [PyCon](PyCon) UK will be used for registration. (The shopping cart is flexible with regard to payment services and can use [WorldPay](./WorldPay.html) as well as [PayPal](./PayPal.html), which people reported problems with. According to Zeth, a \"non-shopping cart approach\" could be done, but not for this year\'s conference.)
+      - John\'s shopping cart solution for [PyCon](../../../../pycon/PyCon) UK will be used for registration. (The shopping cart is flexible with regard to payment services and can use [WorldPay](./WorldPay.html) as well as [PayPal](./PayPal.html), which people reported problems with. According to Zeth, a \"non-shopping cart approach\" could be done, but not for this year\'s conference.)
 
       - The payment currency will be the Euro, but amounts in other currencies should be provided for information.
 
@@ -39,9 +39,9 @@ The meeting took place on Monday 28th January 2008 at 1900 CET in the #europytho
 
       - Laura suggested that all members of the selection committee should commit to reading all abstracts.
 
-      - [PyCon](PyCon) UK and [EuroPython](EuroPython) have previously scheduled talks using paper cards and in other ad-hoc ways.
+      - [PyCon](../../../../pycon/PyCon) UK and [EuroPython](../..) have previously scheduled talks using paper cards and in other ad-hoc ways.
 
-      - [PyCon](PyCon) UK used the [PyCon](PyCon)-Tech solution, which is available for use, but some expressed satisfaction with e-mail, cards and Wikis.
+      - [PyCon](../../../../pycon/PyCon) UK used the [PyCon](../../../../pycon/PyCon)-Tech solution, which is available for use, but some expressed satisfaction with e-mail, cards and Wikis.
 
 - Paul will take up DNS matters with the parties holding the `europython.org`{.backtick} domain.
 
@@ -57,8 +57,8 @@ These minutes were written by John and sent to Laura:
 
 3.  The UK PyWM group will be responsible for the Registration Bookings and Payments system.
 
-4.  Whoever is responsible for organising the talks programme will decide what they want to use, eg simple email, the [PyCon](PyCon)-tech system, whatever. Suggestion: make Samuele head up the talks, as he was so unhappy with [PyCon](PyCon) US on this, he should have the chance to put it right.
+4.  Whoever is responsible for organising the talks programme will decide what they want to use, eg simple email, the [PyCon](../../../../pycon/PyCon)-tech system, whatever. Suggestion: make Samuele head up the talks, as he was so unhappy with [PyCon](../../../../pycon/PyCon) US on this, he should have the chance to put it right.
 
-No decision on [EuroPython](EuroPython) 2009/2010.
+No decision on [EuroPython](../..) 2009/2010.
 
 Next meeting Thursday 7th February. No time set, I suggest 18:00 CET, which might be better for Aiste.

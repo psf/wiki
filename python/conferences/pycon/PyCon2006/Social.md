@@ -20,11 +20,11 @@ There should be some place for people to meet up for dinner; without that someon
 
 *Got a protocol suggestion for this? Do we just need a \'Meet for Dinner Here\' sign, and some explanation in the conference materials? \--amk*
 
-Yes, just a sign, maybe a quick announcement at lunch or something. \-- [IanBicking](IanBicking)
+Yes, just a sign, maybe a quick announcement at lunch or something. \-- [IanBicking](../../../people/IanBicking)
 
 *Possibly a couple different signs/locations-to-meet for people who may want to go to specific places to eat. \-- Ken Whitesell*
 
-Just about every major restaurant chain has a store in the area, but they\'re the same Applebee\'s and Bennigan\'s as anyplace else. The Trail Dust is not as close, but is more of a Texas steakhouse. \-- [PaulMcGuire](PaulMcGuire)
+Just about every major restaurant chain has a store in the area, but they\'re the same Applebee\'s and Bennigan\'s as anyplace else. The Trail Dust is not as close, but is more of a Texas steakhouse. \-- [PaulMcGuire](../../../archive/PaulMcGuire)
 
 # Music? 
 
@@ -36,7 +36,7 @@ So please: Don\'t confuse a social event for developers with a disco. If you wan
 
 # Local Pythonista-finder 
 
-One of the things we had trouble with in getting a Python Meetup going here in Austin was that everyone is \*so\* busy. I hope to be pleasantly surprised at all the Texas Pythoneers that show up at a [PyCon](PyCon) so close to home, and I expect there might be similar clusters of folks in other locations. Is there any way we could put up a map or two (US/Texas/world) for people to pin their home state/country? \-- [PaulMcGuire](PaulMcGuire)
+One of the things we had trouble with in getting a Python Meetup going here in Austin was that everyone is \*so\* busy. I hope to be pleasantly surprised at all the Texas Pythoneers that show up at a [PyCon](../PyCon) so close to home, and I expect there might be similar clusters of folks in other locations. Is there any way we could put up a map or two (US/Texas/world) for people to pin their home state/country? \-- [PaulMcGuire](../../../archive/PaulMcGuire)
 
 ------------------------------------------------------------------------
 

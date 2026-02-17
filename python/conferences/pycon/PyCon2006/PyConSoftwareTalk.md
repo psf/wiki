@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This talk will cover the [PyCon2006](PyCon2006) software evolution, lessons learned and what to do next.
+This talk will cover the [PyCon2006]() software evolution, lessons learned and what to do next.
 
 When:
 
@@ -18,7 +18,7 @@ Where:
 
 Who should Attend:
 
-- People interested in the automation of [PyCon](PyCon) via web applications
+- People interested in the automation of [PyCon](../PyCon) via web applications
 
 - People who want to know how we did all those cool things on us.pycon.org
 

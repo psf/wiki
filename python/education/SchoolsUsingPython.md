@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Schools using Python 
 
-Note that in order to edit text on this wiki page you will need to be registered with and logged into the wiki. See the [FrontPage](FrontPage) for more info. If you are unable to edit this page, feel free to send the info you wanted to add to [altis@semi-retired.com](mailto:altis@semi-retired.com) .
+Note that in order to edit text on this wiki page you will need to be registered with and logged into the wiki. See the [FrontPage](../people/FrontPage) for more info. If you are unable to edit this page, feel free to send the info you wanted to add to [altis@semi-retired.com](mailto:altis@semi-retired.com) .
 
 # Introduction 
 
 This is a listing of schools that are using Python in their curriculum.
 
-I would like to confirm each of the schools below by linking to a specific web page with a course listing and/or the professor(s) teaching classes that involve the use of Python. Each listing should be expanded with a description of how Python is being used. \-- [KevinAltis](KevinAltis)
+I would like to confirm each of the schools below by linking to a specific web page with a course listing and/or the professor(s) teaching classes that involve the use of Python. Each listing should be expanded with a description of how Python is being used. \-- [KevinAltis](../people/KevinAltis)
 
 # High Schools 
 
@@ -278,7 +278,7 @@ I would like to confirm each of the schools below by linking to a specific web p
 - Binghamton University
   - CS110 Computer Programming and Applications: Introduction to programming for students without any programming experience. Python is used in this course using John Zelle\'s book. Course homepage: [http://bingweb.binghamton.edu/\~cs110/](http://bingweb.binghamton.edu/~cs110/)
 
-  - ISE314 Computer Programming for Engineers: o Python (basic syntax and programming principle) o [NumPy](NumPy) (matrix and linear algebra) o [SymPy](SymPy) (symbolic operation) o [SciPy](SciPy) (signal processing) o Pandas (data analysis and statistics) o [MatPlotLib](./MatPlotLib.html) (data visualization) o SQLite3 (database programming) o [PyQt](PyQt) (GUI programming). [http://binghamton.edu/centers/seorl/teaching.html](http://binghamton.edu/centers/seorl/teaching.html)
+  - ISE314 Computer Programming for Engineers: o Python (basic syntax and programming principle) o [NumPy](../science/NumPy) (matrix and linear algebra) o [SymPy](../people/SymPy) (symbolic operation) o [SciPy](SciPy) (signal processing) o Pandas (data analysis and statistics) o [MatPlotLib](./MatPlotLib.html) (data visualization) o SQLite3 (database programming) o [PyQt](../gui/PyQt) (GUI programming). [http://binghamton.edu/centers/seorl/teaching.html](http://binghamton.edu/centers/seorl/teaching.html)
 - Stony Brook University
   - Python is used for most of the programming assignments in CSE 307: Principles of Programming Language
 - New York University Polytechnic School of Engineering
@@ -366,7 +366,7 @@ I would like to confirm each of the schools below by linking to a specific web p
 
 - [Introduction to Computer Science Using Python: A Computational Problem-Solving Focus](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002046.html) by Charles Dierbach
 
-- Also see [PythonBooks](PythonBooks)
+- Also see [PythonBooks](../books/PythonBooks)
 
 # Other Materials 
 

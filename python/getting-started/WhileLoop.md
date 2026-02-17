@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - When do I use them?
 
-*While* loops, like the [ForLoop](ForLoop), are used for repeating sections of code - but unlike a *for* loop, the *while* loop will not run *n* times, but until a defined condition is no longer met. If the condition is initially false, the loop body will not be executed at all.
+*While* loops, like the [ForLoop](../people/ForLoop), are used for repeating sections of code - but unlike a *for* loop, the *while* loop will not run *n* times, but until a defined condition is no longer met. If the condition is initially false, the loop body will not be executed at all.
 
 As the *for* loop in Python is so powerful, *while* is rarely used, except in cases where a user\'s input is required\*, for example:
 

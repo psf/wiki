@@ -14,7 +14,7 @@ The list is under construction. Suggestion on formatting, help finding more proj
 
 In order to keep the list focused, some metrics have to be established so that every Python-related project isn\'t in the list. For example, a minimum of three thousand (3K) downloads per month, a few hundred subscribers to the project mailing list, or an obviously large established user base (e.g. Mailman). In addition, the list doesn\'t include modules or packages in the standard libraries such as Tkinter.
 
-Download figures will vary for a project as new releases are made. Perhaps the download figures below should be an average of the last full three or four previous months? You can see detailed monthly downloads by following the links below for projects hosted on [SourceForge](SourceForge).
+Download figures will vary for a project as new releases are made. Perhaps the download figures below should be an average of the last full three or four previous months? You can see detailed monthly downloads by following the links below for projects hosted on [SourceForge](../people/SourceForge).
 
 ::: caution
 The download figures were last updated in March 2004.
@@ -24,11 +24,11 @@ The download figures were last updated in March 2004.
 
 - Mac OS X includes Python - Jaguar used Python 2.2.0, Panther uses Python 2.3.0
 
-- [RedHat](RedHat) and Debian Linux distributions include Python and [RedHat](RedHat) uses Python extensively and some Python projects are also included with the distributions.
+- [RedHat](../people/RedHat) and Debian Linux distributions include Python and [RedHat](../people/RedHat) uses Python extensively and some Python projects are also included with the distributions.
 
 - Due to bundling and the use of mirror sites we can\'t collect meaningful download totals for Linux users for many projects. In those cases, maybe it is better to use the size of the mailing list as a popularity gauge?
 
-- [AppsWithPythonScripting](AppsWithPythonScripting)
+- [AppsWithPythonScripting](../libraries/AppsWithPythonScripting)
 
 # Most Popular Python Projects 
 
@@ -63,22 +63,22 @@ The download figures were last updated in March 2004.
 
 - downloads: [2-3K/month](http://sourceforge.net/project/stats/index.php?group_id=103&ugn=mailman&type=&mode=year)
 
-- large installed base, including [SourceForge](SourceForge) mailing lists
+- large installed base, including [SourceForge](../people/SourceForge) mailing lists
 
-[pywin32](http://starship.python.net/crew/mhammond/win32/) (formerly [Win32All](Win32All))
+[pywin32](http://starship.python.net/crew/mhammond/win32/) (formerly [Win32All](../platforms/Win32All))
 
 - downloads: [20-30K/month](https://sourceforge.net/project/stats/index.php?group_id=78018&ugn=pywin32&type=&mode=year)
 
-[WxPython](WxPython)
+[WxPython](../gui/WxPython)
 
 - downloads: [20K/month](http://sourceforge.net/project/stats/index.php?report=months&group_id=10718)
 
 - mailing list subscribers: 900+
 
-- related Python projects: [BoaConstructor](BoaConstructor), [WxGlade](WxGlade), [SPE](http://wiki.python.org/moin/SPE), [PythonCard](./PythonCard.html)
+- related Python projects: [BoaConstructor](../people/BoaConstructor), [WxGlade](../people/WxGlade), [SPE](http://wiki.python.org/moin/SPE), [PythonCard](./PythonCard.html)
 
 - book coming out soon
-  - [BoaConstructor](BoaConstructor)
+  - [BoaConstructor](../people/BoaConstructor)
 
     - downloads: [3K/month](http://sourceforge.net/project/stats/index.php?report=months&group_id=1909)
 
@@ -102,7 +102,7 @@ The download figures were last updated in March 2004.
 
 - book coming out this summer
 
-[Zope](Zope)
+[Zope](../web/Zope)
 
 - related Python projects: Plone
 - 10 books
@@ -111,11 +111,11 @@ The download figures were last updated in March 2004.
 
 - downloads 9-15K/month (guesstimate)
 
-[PyGtk](PyGtk)
+[PyGtk](../people/PyGtk)
 
 - mailing list subscribers: 550+
 
-[PyQt](PyQt)
+[PyQt](../gui/PyQt)
 
 - mailing list subscribers: 500+
 
@@ -131,17 +131,17 @@ The download figures were last updated in March 2004.
 
 - used by many other projects for collaboration and documentation (even right *here* ![;)](/wiki/europython/img/smile4.png ";)") )
 
-[NumPy](http://www.numpy.org/) / [NumArray](NumArray)
+[NumPy](http://www.numpy.org/) / [NumArray](../people/NumArray)
 
 - downloads: [6K/month](http://sourceforge.net/project/stats/index.php?report=months&group_id=1369)
 
-[PyGame](PyGame)
+[PyGame](../multimedia/PyGame)
 
 - downloads: 5K/month
 - mailing list subscribers: 270+
 - 2 books
 
-[MySQL](MySQL) for Python
+[MySQL](../database/MySQL) for Python
 
 - downloads: [4-5K/month](http://sourceforge.net/project/stats/index.php?report=months&group_id=22307)
 
@@ -151,13 +151,13 @@ The download figures were last updated in March 2004.
 
 - mailing list subscribers: 53 + 74 (devel + announce)
 
-[Py2Exe](Py2Exe)
+[Py2Exe](../platforms/Py2Exe)
 
 - downloads: [3-4K/month](http://sourceforge.net/project/stats/index.php?report=months&group_id=15583)
 
 - Combined with Inno Setup users can package and distribute Python applications as standalones on Windows.
 
-[TwistedMatrix](TwistedMatrix) ([Twisted](http://www.twistedmatrix.com))
+[TwistedMatrix](../web/TwistedMatrix) ([Twisted](http://www.twistedmatrix.com))
 
 - downloads: 3-4K/month
 - mailing list subscribers: 570+ for twisted-python, 150+ for twisted-web

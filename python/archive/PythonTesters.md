@@ -13,17 +13,17 @@ Here\'s your chance to help. If you would be able to help test Python on non-mai
 ::: {}
   ----------------------------------------------------- ----------------------------------------------------------------------------------------------------- ---------------------------------------------
   **Name**                                              **Platforms Available**                                                                               **Email**
-  [SkipMontanaro](SkipMontanaro)                 Mac OS X                                                                                              `<skip AT pobox DOT com>`
-  [MichaelHudson](MichaelHudson)                 RH 7.2, Mac OS X                                                                                      mwh at python.net
-  [FredDrake](FredDrake)                         RH 7.3, RH 9.0                                                                                        fdrake at acm.org
-  [BarryWarsaw](BarryWarsaw)                     RH 7.3, RH 9.0, Mac OS X                                                                              barry at python.org
+  [SkipMontanaro](../people/SkipMontanaro)                 Mac OS X                                                                                              `<skip AT pobox DOT com>`
+  [MichaelHudson](../people/MichaelHudson)                 RH 7.2, Mac OS X                                                                                      mwh at python.net
+  [FredDrake](../people/FredDrake)                         RH 7.3, RH 9.0                                                                                        fdrake at acm.org
+  [BarryWarsaw](../people/BarryWarsaw)                     RH 7.3, RH 9.0, Mac OS X                                                                              barry at python.org
   [NealNorwitz](./NealNorwitz.html)       RH 6.2/Alpha, RH 8.0, RH 9.0, Solaris 8, AIX 4.2.1, 4.3.1, 4.3.3, HPUX 11, IRIX 6.5, Tru64 5.0, 5.1   neal at metaslash.com
   Kurt B. Kaiser                                        RH 6.0 ++ /i386, OpenBSD Current, Debian Sid, Win98                                                   kbk att shore net
   [MarkFavas](./MarkFavas.html)           Solaris 8, Solaris 9, Tru64 4.0F, Tru64 5.1, FreeBSD 4.8                                              mark dot favas at csiro dot au
   [JordanKrushen](./JordanKrushen.html)   Any downloadable Linux/FreeBSD, Mac OS X                                                              jordan at krushen.com
   PieterB                                               FreeBSD 4.8, FreeBSD 5.1                                                                              pieterb att gewis.nl
-  [AleksanderPiotrowski](AleksanderPiotrowski)   OpenBSD -current (i386, sparc64)                                                                      aleksander.piotrowski at nic dot com dot pl
-  [ChristosGeorgiou](ChristosGeorgiou)           Irix 6.5.x - SGI Linux (Itanium) Propack 2.2.x                                                        tzot at sil-tec dot gr
+  [AleksanderPiotrowski](../people/AleksanderPiotrowski)   OpenBSD -current (i386, sparc64)                                                                      aleksander.piotrowski at nic dot com dot pl
+  [ChristosGeorgiou](../people/ChristosGeorgiou)           Irix 6.5.x - SGI Linux (Itanium) Propack 2.2.x                                                        tzot at sil-tec dot gr
   [HyeShikChang](./HyeShikChang.html)     [FreeBSD internal machines](http://www.freebsd.org/internal/machines.html)                     perky at i18n.org
   [LeoJackson](./LeoJackson.html)         Sparc, Solaris10, Ubuntu8.04, Ubuntu8.10, IRIS, RISC, BSD, MAC OSX, System5, UNIX                     lajjr at yahoo dot com
   ----------------------------------------------------- ----------------------------------------------------------------------------------------------------- ---------------------------------------------

@@ -190,7 +190,7 @@ Existing solutions:
 
 - Resources Control is a way to stop a task if it reach a resource limit (CPU time, memory quantity).
 
-- Fine Configuration presents in [BuildBot](BuildBot), when you configure a task you can configure how to catch failure and warnings : [http://buildbot.net/buildbot/docs/latest/Common-Parameters.html#Common-Parameters](http://buildbot.net/buildbot/docs/latest/Common-Parameters.html#Common-Parameters).
+- Fine Configuration presents in [BuildBot](../infrastructure/BuildBot), when you configure a task you can configure how to catch failure and warnings : [http://buildbot.net/buildbot/docs/latest/Common-Parameters.html#Common-Parameters](http://buildbot.net/buildbot/docs/latest/Common-Parameters.html#Common-Parameters).
 
 ##### Pony-build 
 
@@ -322,7 +322,7 @@ Total: 11
   Guest OS                         Most(Kernel need to be modified)                  Most                                                   Most                                                 Most
   Speed                            Performance loss on disk intensive operations     Qemu is usually slow. But Kqemu has good performance   Good performance                                     Good performance
   Virtual Hard Disk Image Format   VMDK,VHD                                          VMDK,VHD,QCOW2,RAW                                     VMDK,VHD,QCOW2,RAW                                   VDI,VMDK,VHD
-  Community Support                Community not very active in the fast few years   Support dropped for KQemu                              [RedHat](RedHat) is currently supporting it   Oracle is currently working on it
+  Community Support                Community not very active in the fast few years   Support dropped for KQemu                              [RedHat](../people/RedHat) is currently supporting it   Oracle is currently working on it
   -------------------------------- ------------------------------------------------- ------------------------------------------------------ ---------------------------------------------------- -----------------------------------------------
 :::
 

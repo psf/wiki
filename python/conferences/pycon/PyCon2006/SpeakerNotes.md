@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This page collects suggestions for speakers and presenters at [PyCon](PyCon). Thank you very much for taking the time and trouble to make a presentation. We really appreciate your efforts.
+This page collects suggestions for speakers and presenters at [PyCon](../PyCon). Thank you very much for taking the time and trouble to make a presentation. We really appreciate your efforts.
 
 There will be a panel discussion, \"Tips for Presenters\", at 6PM the evening before the conference begins (Thursday, February 23) in the Bent Tree III room. We encourage you to attend this panel to pick up some tips and tricks for improving your presentations.
 
 # The final version of your proposal 
 
-- [PyCon](PyCon) does not have a published volume of proceedings, but the slides and other materials for talks are made available on-line. Therefore, be sure your presentation can be turned into a format suitable for online viewing. While PDF is permitted, HTML is better. Keep graphics reasonably sized for web access.
+- [PyCon](../PyCon) does not have a published volume of proceedings, but the slides and other materials for talks are made available on-line. Therefore, be sure your presentation can be turned into a format suitable for online viewing. While PDF is permitted, HTML is better. Keep graphics reasonably sized for web access.
 
-- Finish preparing your slides and other materials before [PyCon](PyCon), and upload it to [the conference submission system](http://submit.python.org). This gives the audience more information in choosing which talks to attend, and people can refer to the slides if they miss something during your talk.
+- Finish preparing your slides and other materials before [PyCon](../PyCon), and upload it to [the conference submission system](http://submit.python.org). This gives the audience more information in choosing which talks to attend, and people can refer to the slides if they miss something during your talk.
 
 # A Presentation is not a Paper (Slide Sample) 
 
@@ -44,7 +44,7 @@ There will be a panel discussion, \"Tips for Presenters\", at 6PM the evening be
 - If you are nervous, there\'s nothing wrong with admitting that
   - The information you present is your talk\'s primary value
 
-  - [PyCon](PyCon) audiences are very forgiving
+  - [PyCon](../PyCon) audiences are very forgiving
 
 - Take time to yourself before you speak
   - Deep breathing is always good preparation
@@ -69,7 +69,7 @@ There will be a panel discussion, \"Tips for Presenters\", at 6PM the evening be
 
 # Other resources 
 
-- [Conference Presentation Judo](http://perl.plover.com/yak/presentation/) \-- aimed at people giving three-hour tutorials, but many suggestions apply to shorter talks like those given at [PyCon](PyCon).
+- [Conference Presentation Judo](http://perl.plover.com/yak/presentation/) \-- aimed at people giving three-hour tutorials, but many suggestions apply to shorter talks like those given at [PyCon](../PyCon).
 
 - [SAGE/LISA Conference Presentation advice](http://www.sage.org/presentation/)
 

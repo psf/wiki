@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 There a various tools which make it easier to bridge the gap between Python and C/C++:
 
-- [Pyrex](Pyrex) - write your extension module on Python ![(!)](/wiki/europython/img/idea.png "(!)")
+- [Pyrex](../implementations/Pyrex) - write your extension module on Python ![(!)](/wiki/europython/img/idea.png "(!)")
 
 - [Cython](http://cython.org/) \-- Cython \-- an improved version of Pyrex
 
@@ -42,9 +42,9 @@ Tools to make C/C++ functions/methods accessible from Python by generating bindi
 
 - [PyBindGen](https://github.com/gjcarneiro/pybindgen) Python bindings code generator for pure C or C++ APIs. The generator is written in Python and has low complexity. The generated code is lean, efficient, and highly readable
 
-- [shiboken](https://pyside.github.io/docs/shiboken/) - Binding Generator used to create [PySide](PySide) Python bindings for Qt
+- [shiboken](https://pyside.github.io/docs/shiboken/) - Binding Generator used to create [PySide](../people/PySide) Python bindings for Qt
 
-- [SIP](SIP) - similar to SWIG but specialised for Python and C++. Used to create [PyQt](PyQt), the [Qt](./Qt.html) API wrapper library
+- [SIP](SIP) - similar to SWIG but specialised for Python and C++. Used to create [PyQt](../gui/PyQt), the [Qt](./Qt.html) API wrapper library
 
 - [SWIG](http://www.swig.org/) - generate extension module from your .h files
 
@@ -72,7 +72,7 @@ Tools to make C/C++ functions/methods accessible from Python by generating bindi
 
 **Related**
 
-- [AppsWithPythonScripting](AppsWithPythonScripting)
+- [AppsWithPythonScripting](../libraries/AppsWithPythonScripting)
 
 # Delphi 
 
@@ -94,7 +94,7 @@ Tools to make C/C++ functions/methods accessible from Python by generating bindi
 
 # Prolog 
 
-- [PyLog](PyLog) (actually two *different* products)
+- [PyLog](../people/PyLog) (actually two *different* products)
 
 - [prolog](http://agave.ahsc.arizona.edu/~schcats/projects/) a simple interface to [SWI-Prolog](http://www.swi-prolog.org/)
 
@@ -136,11 +136,11 @@ See also [http://www.google.com/search?hl=en&lr=&ie=ISO-8859-1&q=Python+prolog](
 
 See [http://www.faqts.com/knowledge_base/view.phtml/aid/17202/fid/1102](http://www.faqts.com/knowledge_base/view.phtml/aid/17202/fid/1102)
 
-- [PyPerl](PyPerl) [http://search.cpan.org/dist/pyperl/](http://search.cpan.org/dist/pyperl/)
+- [PyPerl](../people/PyPerl) [http://search.cpan.org/dist/pyperl/](http://search.cpan.org/dist/pyperl/)
 
 - [Inline::Python](http://search.cpan.org/search?query=Inline::Python&mode=all)
 
-- [PyPerlish](PyPerlish) - Perl idioms in Python
+- [PyPerlish](../people/PyPerlish) - Perl idioms in Python
 
 For converting/porting Perl code to Python the tool \'Bridgekeeper\' [http://www.crazy-compilers.com/bridgekeeper/](http://www.crazy-compilers.com/bridgekeeper/) may be handy.
 
@@ -190,11 +190,11 @@ For converting/porting Perl code to Python the tool \'Bridgekeeper\' [http://www
 
 - [LotusNotes](./LotusNotes.html) [http://www.dominopower.com/issuesprint/issue200008/command.html](http://www.dominopower.com/issuesprint/issue200008/command.html)
 
-- [PostgreSQL](PostgreSQL) [http://www.linuxgazette.com/issue80/nielsen.html](http://www.linuxgazette.com/issue80/nielsen.html)
+- [PostgreSQL](../database/PostgreSQL) [http://www.linuxgazette.com/issue80/nielsen.html](http://www.linuxgazette.com/issue80/nielsen.html)
 
-- [RenderMan](RenderMan) [http://www.lysator.liu.se/\~ture/terry.html](http://www.lysator.liu.se/~ture/terry.html)
+- [RenderMan](../people/RenderMan) [http://www.lysator.liu.se/\~ture/terry.html](http://www.lysator.liu.se/~ture/terry.html)
 
-- [CorbaPython](CorbaPython): for a generic solution to language integration
+- [CorbaPython](../networking/CorbaPython): for a generic solution to language integration
 
 to name a few. There are much [more\...](http://www.google.com/search?q=Python+binding&hl=en)
 

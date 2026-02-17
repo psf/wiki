@@ -30,7 +30,7 @@ Samuele: The next big things that we can foresee are indeed **finding a solution
 
 Charles asked: How much effort would it take to **componentize the whole jar-indexing** subsystem? We\'d be interested in using it for \"import\" purposes in JRuby
 
-Charlie replied: the indexing code could use a significant cleanup. It\'s mostly contained in the [PackageManager](./PackageManager.html) class hierarchy. [SysPackageManager](SysPackageManager) extends [PathPackageManager](./PathPackageManager.html) which extends [CachedJarsPackageManager](./CachedJarsPackageManager.html) which extends [PackageManager](./PackageManager.html). Disentangling the interactions between that mess of inheritance makes working on the caching system harder than it should be.
+Charlie replied: the indexing code could use a significant cleanup. It\'s mostly contained in the [PackageManager](./PackageManager.html) class hierarchy. [SysPackageManager](../../internals/SysPackageManager) extends [PathPackageManager](./PathPackageManager.html) which extends [CachedJarsPackageManager](./CachedJarsPackageManager.html) which extends [PackageManager](./PackageManager.html). Disentangling the interactions between that mess of inheritance makes working on the caching system harder than it should be.
 
 Charles added: **making the dynlangs be able to call across each other** without some awful marshalling layer to/from java. In other words, we should be able to pass an object from JRuby to Jython to Rhino and read fields and invoke methods without difficulty. That\'s where a common underlying runtime or set of interfaces will be an absolute necessity.
 

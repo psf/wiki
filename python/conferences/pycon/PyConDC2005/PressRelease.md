@@ -10,13 +10,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Dear Editor:
 
-Enclosed is a press release for the [PyCon](PyCon) open source conference, which will be held at George Washington University\'s Cafritz Conference Center on March 23-25, 2005. We hope you will include a mention of the conference in your newspaper/listing/whatever to help promote our event.
+Enclosed is a press release for the [PyCon](../PyCon) open source conference, which will be held at George Washington University\'s Cafritz Conference Center on March 23-25, 2005. We hope you will include a mention of the conference in your newspaper/listing/whatever to help promote our event.
 
-If you would like to send a reporter to cover the conference, please contact me at (XXX) XXX-XXXX or XXX@XXX; please include \"[PyCon](PyCon)\" in the subject line. Please contact me no later than March XXX (cutoff date?) so that we can add your staff to the press list in time.
+If you would like to send a reporter to cover the conference, please contact me at (XXX) XXX-XXXX or XXX@XXX; please include \"[PyCon](../PyCon)\" in the subject line. Please contact me no later than March XXX (cutoff date?) so that we can add your staff to the press list in time.
 
 Regards,
 
-Andrew M. Kuchling Publicity, [PyCon](PyCon) 2005
+Andrew M. Kuchling Publicity, [PyCon](../PyCon) 2005
 
 # Press release 
 

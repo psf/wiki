@@ -10,16 +10,16 @@ The basic idea behind StructuredText is to avoid the necessity for a markup lang
 
 There are several different versions of StructuredText:
 
-- [ClassicStructuredText](ClassicStructuredText)
+- [ClassicStructuredText](../archive/ClassicStructuredText)
 
 - [StructuredTextNG](http://dev.zope.org/Members/jim/StructuredTextWiki/StructuredTextNG)
 
 - [Setext](http://docutils.sourceforge.net/mirror/setext/)
 
-- [reStructuredText](reStructuredText) - intended primarily for documentation
+- [reStructuredText](../archive/reStructuredText) - intended primarily for documentation
 
-- [PyTextile](PyTextile) - intended for web use
+- [PyTextile](../people/PyTextile) - intended for web use
 
-One application of StructuredText which is currently discussed on the [DocSig](DocSig) is the generation of documentation from Python [DocStrings](./DocStrings.html).
+One application of StructuredText which is currently discussed on the [DocSig](../people/DocSig) is the generation of documentation from Python [DocStrings](./DocStrings.html).
 
 See [TextFilter](http://c2.com/cgi/wiki?TextFilter "Wiki") for more information on text filters, like StructuredText. We have a bit of information about StructuredText [mark up](StructuredText/MarkUp).

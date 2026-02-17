@@ -24,9 +24,9 @@ jEdit is a nice Swing based editor for many languages and Java specially. You ca
 
 One of the nicest feature of jEdit is the folding. Once you get used to it. It is very difficult to work without it. By the way, since version 6.0 [ViImproved (Vim)](./ViImproved(2028)Vim(29).html) also has folding.
 
-If you want a simpler, lighter and faster version, you might want to check out [JeXt](JeXt) or [J](http://armedbear-j.sf.net/) I recently came across *J* and find it quite nice for doing Python.
+If you want a simpler, lighter and faster version, you might want to check out [JeXt](../people/JeXt) or [J](http://armedbear-j.sf.net/) I recently came across *J* and find it quite nice for doing Python.
 
-[AshishShrestha](AshishShrestha)
+[AshishShrestha](../people/AshishShrestha)
 
 ------------------------------------------------------------------------
 

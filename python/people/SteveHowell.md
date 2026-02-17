@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Hi, my name is Steve Howell, and I have been programming in Python more or less full time since 2001.
 
-In 2010 I attempted to submit a patch to CPython shown here: [ProposalToSpeedUpListOperations](ProposalToSpeedUpListOperations)
+In 2010 I attempted to submit a patch to CPython shown here: [ProposalToSpeedUpListOperations](../archive/ProposalToSpeedUpListOperations)
 
 I mainly use Python at work now, but I have also contributed to open source projects. Here are some things that I\'ve done in the Open Source world:
 
@@ -16,7 +16,7 @@ I mainly use Python at work now, but I have also contributed to open source proj
 
   the initial version of [LocalSiteMap](./LocalSiteMap.html) feature in [MoinMoin](MoinMoin)
 
-Here is an early version of the code on the [SimplePrograms](SimplePrograms) page. I wrote most of the initial code, with helpful edits from other folks.
+Here is an early version of the code on the [SimplePrograms](../getting-started/SimplePrograms) page. I wrote most of the initial code, with helpful edits from other folks.
 
 I am keeping it here for posterity. The code below is free for use under the Python license. I encourage you to try building up your own suite of examples.
 

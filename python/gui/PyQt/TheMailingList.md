@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## The PyQt Mailing List 
 
-The [mailing list](http://www.riverbankcomputing.com/mailman/listinfo/pyqt) provides support for sip, [PyQt](PyQt), PyKDE and eric. And sometimes, it\'s even funny to read.\
+The [mailing list](http://www.riverbankcomputing.com/mailman/listinfo/pyqt) provides support for sip, [PyQt](), PyKDE and eric. And sometimes, it\'s even funny to read.\
 Archives are at [http://www.riverbankcomputing.com/pipermail/pyqt/](http://www.riverbankcomputing.com/pipermail/pyqt/) or use [Google](http://www.google.com) to search.
 
 ## People on the mailing list 

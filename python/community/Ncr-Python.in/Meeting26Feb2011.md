@@ -28,7 +28,7 @@ the points which were discussed in order to make Python the language of choice w
 
   <!-- -->
 
-  - 1\) Arulalan.T \-- IITDelhi - CDAT, [NumPy](NumPy)
+  - 1\) Arulalan.T \-- IITDelhi - CDAT, [NumPy](../../science/NumPy)
 
   - 2\) Rajat Khandelwal (Panda3d, Modelling engine Blender3d, ) [rajatgupta59@gmail.com](mailto:rajatgupta59@gmail.com)
 
@@ -54,7 +54,7 @@ the points which were discussed in order to make Python the language of choice w
 
   - Introduction in colleges.
 
-  - Representing NCR in [PyCon](PyCon) India.
+  - Representing NCR in [PyCon](../../conferences/pycon/PyCon) India.
 
   - We wish to have a Python India (Pycon India ) In NCR area by 2011.
 

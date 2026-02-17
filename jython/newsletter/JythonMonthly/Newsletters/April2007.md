@@ -101,7 +101,7 @@ Release Highlights in Pydev:
 
 ------------------------------------------------------------------------
 
-\* Mylar integration: the pydev package explorer now supports mylar (packaged as a separate feature: org.python.pydev.mylar.feature ) \* Code-completion: comment completion is now the same as string completion \* Debug: Breakpoints can be set in external files \* Debug: Breakpoint annotations now show in external files \* Package Explorer: filter for import nodes created \* Fix: Package Explorer Actions: Open action does not expand children when opening python file \* Fix: Project Explorer (WTP) integration: does not conflict with elements from other plugins anymore (such as java projects) \* Fix: halt in new project wizard: when creating a new project from the pydev wizard it was halting in some platforms \* Fix: \${string_prompt} in run config: now only evaluated on the actual run \* Fix: Code-Completion: jython shell was not handling java.lang.[NoClassDefFoundError](NoClassDefFoundError) correctly
+\* Mylar integration: the pydev package explorer now supports mylar (packaged as a separate feature: org.python.pydev.mylar.feature ) \* Code-completion: comment completion is now the same as string completion \* Debug: Breakpoints can be set in external files \* Debug: Breakpoint annotations now show in external files \* Package Explorer: filter for import nodes created \* Fix: Package Explorer Actions: Open action does not expand children when opening python file \* Fix: Project Explorer (WTP) integration: does not conflict with elements from other plugins anymore (such as java projects) \* Fix: halt in new project wizard: when creating a new project from the pydev wizard it was halting in some platforms \* Fix: \${string_prompt} in run config: now only evaluated on the actual run \* Fix: Code-Completion: jython shell was not handling java.lang.[NoClassDefFoundError](../../../about/NoClassDefFoundError) correctly
 
 # Interesting Facts 
 
@@ -111,7 +111,7 @@ Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/
 
 [Jacl v2.5 Released](http://www-1.ibm.com/support/docview.wss?rs=180&uid=swg24012144)
 
-The IBM® Jacl to Jython Conversion Assistant ([Jacl2Jython](./Jacl2Jython.html)) is a program that assists in converting [WebSphere](WebSphere)® administrative (wsadmin) scripts written in Jacl into Jython syntax.
+The IBM® Jacl to Jython Conversion Assistant ([Jacl2Jython](./Jacl2Jython.html)) is a program that assists in converting [WebSphere](../../../user-guide/WebSphere)® administrative (wsadmin) scripts written in Jacl into Jython syntax.
 
 ::: {}
   ----------------------------------------------------------------

@@ -10,7 +10,7 @@ A software developer. Forced to use C++ for part of day job.
 
 Giving a PyOpenGL tutorial at the 12/16/2006 [ArlingtonSprint](ArlingtonSprint).
 
-Gave a [PyGame](PyGame) tutorial at [PyCon2006](PyCon2006).
+Gave a [PyGame](../multimedia/PyGame) tutorial at [PyCon2006](../conferences/pycon/PyCon2006).
 
 Led the Lore Sprint at PyConDC2004.
 

@@ -124,7 +124,7 @@ There will be additional meeting rooms available. There are many interesting Pyt
 
 ### Volunteers 
 
-There is already a list of a dozen local people that have volunteered to help. Personally, I live 4 miles from the hotel and can accept shipments. [BayPiggies](BayPiggies) has a email list of several hundred people that can potentially help.
+There is already a list of a dozen local people that have volunteered to help. Personally, I live 4 miles from the hotel and can accept shipments. [BayPiggies](../community/BayPiggies) has a email list of several hundred people that can potentially help.
 
 ### If you have never been to the San Francisco Bay area 
 

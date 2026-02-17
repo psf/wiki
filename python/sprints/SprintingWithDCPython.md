@@ -16,7 +16,7 @@ There are a few things that are worth doing ahead of time:
 
     Work is always needed on the Python language core and standard library, but you\'re not restricted to that. Many people are interested in the libraries they use on a daily basis, with perhaps the most common ground to be found in the web frameworks.
 
-    Tell your fellow sprinters what you want to work on using the [planning page](DCPythonNov2010Sprint) for the sprint you\'ll be attending.
+    Tell your fellow sprinters what you want to work on using the [planning page](../archive/DCPythonNov2010Sprint) for the sprint you\'ll be attending.
 
 2.  Know what tools you need.
 

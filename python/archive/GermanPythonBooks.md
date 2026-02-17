@@ -82,7 +82,7 @@ German translation of the Python Essential Reference. The included CD contains a
 
 **Python Standard-Bibliothek**
 
-- [FredrikLundh](FredrikLundh), translated by Dinu C. Gherman and Christian Tismer
+- [FredrikLundh](../people/FredrikLundh), translated by Dinu C. Gherman and Christian Tismer
 
 [3897212889](http://www.amazon.com/exec/obidos/ISBN=3897212889 "ISBN"), O\'Reilly Verlag, 298 pages (2002)
 

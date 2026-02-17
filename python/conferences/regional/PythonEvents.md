@@ -36,17 +36,17 @@ See the [Python Conferences](PythonConferences) page for a general overview of t
 
 If you want to organize a conference or event in your city or community, read [our guide to running a conference](../../community/AdvocacyWritingTasks/RunningAConference) for helpful advice.
 
-Looking for speakers at various events? Check out the [list of Python speakers](PythonSpeakers)!
+Looking for speakers at various events? Check out the [list of Python speakers](../../archive/PythonSpeakers)!
 
 ### Python Training 
 
-Looking for a complete list of Python training options? Check out the [Python training](PythonTraining) page!
+Looking for a complete list of Python training options? Check out the [Python training](../../archive/PythonTraining) page!
 
-If you want to set up your own training event, refer to the [Python Training](PythonTraining) page on this site and add training dates to the [PythonTraining/Events](../../archive/PythonTraining/Events) page. You can also add yourself to [Cameron Laird\'s](CameronLaird) page of [Python trainers](http://phaseit.net/claird/comp.lang.python/python_training.html).
+If you want to set up your own training event, refer to the [Python Training](../../archive/PythonTraining) page on this site and add training dates to the [PythonTraining/Events](../../archive/PythonTraining/Events) page. You can also add yourself to [Cameron Laird\'s](../../people/CameronLaird) page of [Python trainers](http://phaseit.net/claird/comp.lang.python/python_training.html).
 
 ### Python User Groups 
 
-Also see the [local user groups](LocalUserGroups) list for recurring local events.
+Also see the [local user groups](../../community/LocalUserGroups) list for recurring local events.
 
 ## Calendar 
 

@@ -12,7 +12,7 @@ Some well-known programs that are written, partially or completely, in Python:
 
 ## Web and Internet Applications 
 
-See also the [Web Applications](WebApplications) page.
+See also the [Web Applications](../people/WebApplications) page.
 
 - [Mailman](http://www.gnu.org/software/mailman/index.html)
 
@@ -65,7 +65,7 @@ See also lists at [http://pythonology.org/spotting](http://pythonology.org/spott
 
 Related topics:
 
-- [AppsWithPythonScripting](AppsWithPythonScripting)
+- [AppsWithPythonScripting](../libraries/AppsWithPythonScripting)
 
 - [PythonForSystemsAdministration](PythonForSystemsAdministration)
 

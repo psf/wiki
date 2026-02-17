@@ -50,7 +50,7 @@ Haskell has a much steeper learning curve for programmers who are not used to fu
 
 For me (Nioate), learning [OCaml](http://caml.inria.fr/ocaml/) first smoothed the way into Haskell because ML has a very similar (though less flexible) type system. After understanding the type system, the jump to haskell is much less daunting: beyond new syntax, it only involves learning to utilize lazy evaluation, type classes, and monads. (Don\'t let monads scare you; learn about the list and Maybe monads first. Jeff Newbern\'s [All About Monads](http://horna.org.ua/books/All_About_Monads.pdf) is the best.)
 
-Contributors: [MichaelChermside](MichaelChermside)
+Contributors: [MichaelChermside](../people/MichaelChermside)
 
 See also \[[LanguageComparisons](LanguageComparisons)\].
 

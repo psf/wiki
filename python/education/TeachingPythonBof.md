@@ -58,7 +58,7 @@ Pictures on the screen were important for learning. just because they\'re entert
 
 Sound is a fun thing to learn how to do.
 
-\"Intruder alert\" one of [MichaelBernstein](MichaelBernstein)\'s first programs.
+\"Intruder alert\" one of [MichaelBernstein](../people/MichaelBernstein)\'s first programs.
 
 Programming classes are less available now than ever before.
 

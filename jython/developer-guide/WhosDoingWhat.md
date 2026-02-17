@@ -20,27 +20,27 @@ If you\'d like to have a personal account, please [request one](mailto:jython@ex
 
 ## Individuals 
 
-[OtiHumbel](OtiHumbel)
+[OtiHumbel](../people/OtiHumbel)
 
 - build
 - installer
 - java integration
 
-[TimFreund](TimFreund)
+[TimFreund](../people/TimFreund)
 
 - [Jython BuildBot](http://jython.achievewith.us/buildbot/) (contact Tim to add or edit a build slave)
 
-[JoshJuneau](JoshJuneau)
+[JoshJuneau](../people/JoshJuneau)
 
 - website
 - documentation
 
-[CharlieGroves](CharlieGroves)
+[CharlieGroves](../people/CharlieGroves)
 
 - finishing off 2.2 test failures
 - fixing windows only regrtest failures
 
-[AndrewKuchling](AndrewKuchling)
+[AndrewKuchling](../people/AndrewKuchling)
 
 - wiki software administration
 
@@ -50,28 +50,28 @@ If you\'d like to have a personal account, please [request one](mailto:jython@ex
 
 - bytes type (from [PEP 358](http://www.python.org/dev/peps/pep-0358/); being added to Python 3000 and 2.6)
 
-[JimBaker](JimBaker)
+[JimBaker](../people/JimBaker)
 
 - Parser and compiler updates (to 2.5 and beyond !)
 - Generally help on sprinting
 
-[PhilipJenvey](PhilipJenvey)
+[PhilipJenvey](../people/PhilipJenvey)
 
-- [SetuptoolsOnJython](SetuptoolsOnJython)
+- [SetuptoolsOnJython](../modules/SetuptoolsOnJython)
 
-- [PylonsOnJython](PylonsOnJython)
+- [PylonsOnJython](../modules/PylonsOnJython)
 
-[GregMoore](GregMoore)
+[GregMoore](../people/GregMoore)
 
 - Working on 2.2 user docs
 
-- Created and maintaining [DocumentationAndEducation](DocumentationAndEducation) section.
+- Created and maintaining [DocumentationAndEducation](../getting-started/DocumentationAndEducation) section.
 
 - Jython example writer and collector.
 
-[AlanKennedy](AlanKennedy)
+[AlanKennedy](../people/AlanKennedy)
 
-- Network modules, i.e. [NewSocketModule](NewSocketModule), [SelectModule](SelectModule), httplib, ftplib, [BaseHttpServer](./BaseHttpServer.html), etc
+- Network modules, i.e. [NewSocketModule](../modules/NewSocketModule), [SelectModule](../modules/SelectModule), httplib, ftplib, [BaseHttpServer](./BaseHttpServer.html), etc
 
 - Modjy, the jython WSGI to servlets gateway
 

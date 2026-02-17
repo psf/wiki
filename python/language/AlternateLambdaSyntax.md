@@ -322,7 +322,7 @@ Talin: \'given\' keyword (Same as the \'for no parens\' except uses a different 
 
 ### functional syntax 
 
-[lwickjr](lwickjr): How about converting the `lambda` functionality into a function? For example, in pure can-do-now Python:
+[lwickjr](../archive/lwickjr): How about converting the `lambda` functionality into a function? For example, in pure can-do-now Python:
 
 :::: 
 ::: 

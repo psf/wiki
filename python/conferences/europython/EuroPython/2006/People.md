@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [BenediktHegner](./BenediktHegner.html) is the local man on the ground.
 
-[MichaelHudson](MichaelHudson) is program chair.
+[MichaelHudson](../../../../people/MichaelHudson) is program chair.
 
 [HolgerKrekel](./HolgerKrekel.html) and [PaulEveritt](./PaulEveritt.html) have been doing some planning about marketing.
 
@@ -16,4 +16,4 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ??? is the sprint coordinator.
 
-[PaulBoddie](PaulBoddie) is currently going through the Web site and this Wiki making changes.
+[PaulBoddie](../../../../people/PaulBoddie) is currently going through the Web site and this Wiki making changes.

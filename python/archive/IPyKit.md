@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [http://ipython.scipy.org/moin/IpyKit](http://ipython.scipy.org/moin/IpyKit)
 
-\"It\'s basically a [Py2Exe](Py2Exe)\'d \'preconfigured\' [IPython](IPython).\"
+\"It\'s basically a [Py2Exe](../platforms/Py2Exe)\'d \'preconfigured\' [IPython](IPython).\"
 
 It builds in [PyReadline](./PyReadline.html). It\'s currently only available for Windows.
 

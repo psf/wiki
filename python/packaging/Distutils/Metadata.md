@@ -36,7 +36,7 @@ Package [MetaData](./MetaData.html) needs to include:
 
 - list of program executeables - (eg define the location of ez_install.exe) otherwise it\'s easy for programs to get lost.
 
-- name/location of the configuration file (in the case of a [ConfigParser](ConfigParser) compatable config file)
+- name/location of the configuration file (in the case of a [ConfigParser](../../language/ConfigParser) compatable config file)
 
 - name/location of the tests directory
 
@@ -54,7 +54,7 @@ in linux\...
 
 By making this information available in the metadata, it provides for a cross platform friendly system where the setup.py could conceivably copy all the files into the \"right\" locations.
 
-A Package Manager program could conceivably make this information readily available to the user. Alternatively, in the most conservative case, IDLE, [PythonWin](PythonWin), Eclipse would be able to utilise this information and render it to the python user.
+A Package Manager program could conceivably make this information readily available to the user. Alternatively, in the most conservative case, IDLE, [PythonWin](../../archive/PythonWin), Eclipse would be able to utilise this information and render it to the python user.
 
 ## Jim Fulton\'s comments 
 
@@ -84,7 +84,7 @@ My proposal:
 
 - Update the not-yet-released PEP 345, documenting the desired semantics for the \'Requires:\', \'Provides:\', and \'Obsoletes:\' fields. In particular, note that the names in these fields are preferentially distutils projects, rather than package / module names. Document the semantics of the version strings according to the consensus proposal
 
-  from [PyCon](PyCon) (the \'verlib.py\' version).
+  from [PyCon](../../conferences/pycon/PyCon) (the \'verlib.py\' version).
 
 - Update distutils, adding an API for querying values stored in PKG-INFO fields (avoiding running \'setup.py\').
 

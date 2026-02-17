@@ -25,7 +25,7 @@ Paradoxically, a `UnicodeDecodeError` may happen when \_encoding\_. The cause of
 
 Unlike a similar case with [UnicodeEncodeError](UnicodeEncodeError), such a failure cannot be always avoided. This is because the `str` result of `encode()` must be a legal coding-specific sequence. However, a more flexible treatment of the unexpected `str` argument type might first validate the `str` argument by decoding it, then return it unmodified if the validation was successful. As of Python2.5, this is not implemented.
 
-Alternatively, a [TypeError](TypeError) exception could always be thrown on receiving an `str` argument in `encode()` functions. (This would require [StreamWriter](StreamWriter)`.write()` to accept only `unicode`. The underlying stream\'s `.write()` will receive only `str`\'s).
+Alternatively, a [TypeError](../people/TypeError) exception could always be thrown on receiving an `str` argument in `encode()` functions. (This would require [StreamWriter](../people/StreamWriter)`.write()` to accept only `unicode`. The underlying stream\'s `.write()` will receive only `str`\'s).
 
     Encoding from unicode to str.
 

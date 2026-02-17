@@ -16,7 +16,7 @@ Suitable for game programming. Easy to use.
 
 # Dependencies 
 
-[PyGame](PyGame), [PyOpenGl](./PyOpenGl.html), PIL ([PythonImagingLibrary](PythonImagingLibrary))
+[PyGame](../multimedia/PyGame), [PyOpenGl](./PyOpenGl.html), PIL ([PythonImagingLibrary](../archive/PythonImagingLibrary))
 
 # Caveats 
 

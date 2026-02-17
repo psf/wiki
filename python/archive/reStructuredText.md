@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # reStructuredText (reST) 
 
-reStructuredText is a complete rewrite of [StructuredText](StructuredText) by David Goodger.
+reStructuredText is a complete rewrite of [StructuredText](../language/StructuredText) by David Goodger.
 
 It is distributed as part of Docutils.
 
@@ -108,7 +108,7 @@ These techniques were culled from [an ASPN article,](http://aspn.activestate.com
 
 ### The \"Easy\" Way 
 
-[IanBicking](IanBicking) has contributed this code, which reads a source text (in reST), and writes HTML:
+[IanBicking](../people/IanBicking) has contributed this code, which reads a source text (in reST), and writes HTML:
 
 :::: 
 ::: 
@@ -125,7 +125,7 @@ These techniques were culled from [an ASPN article,](http://aspn.activestate.com
 
 ### The \"Cool\" Way 
 
-\"This sure is a lot cooler and generates a nice and more kosher html fragment from the \'official\' reST-to-html fragment example above.\"-[MaxPa](MaxPa)
+\"This sure is a lot cooler and generates a nice and more kosher html fragment from the \'official\' reST-to-html fragment example above.\"-[MaxPa](../people/MaxPa)
 
 :::: 
 ::: 
@@ -143,12 +143,12 @@ These techniques were culled from [an ASPN article,](http://aspn.activestate.com
 
 ### See Also: 
 
-[PyTextile](PyTextile) is a similar, but different, text-to-html converter. It was originally intended for HTML fragments, unlike reStructuredText.
+[PyTextile](../people/PyTextile) is a similar, but different, text-to-html converter. It was originally intended for HTML fragments, unlike reStructuredText.
 
 ## Discussion 
 
 I\'ve been having problems getting reST to work from a blog script I\'ve written. It seems that there\'s a part in Publisher where I\'m triggering an exception, and then Publisher calls *exit,* so I can\'t see what\'s wrong.
 
-I\'ll leave notes here if I figure out how to get around this problem. \-- [LionKimbro](LionKimbro)
+I\'ll leave notes here if I figure out how to get around this problem. \-- [LionKimbro](../people/LionKimbro)
 
-No luck finding a way to get around the publisher\'s exit, but I did find something interesting: [http://sourceforge.net/mailarchive/forum.php?thread_id=3740457&forum_id=8812](http://sourceforge.net/mailarchive/forum.php?thread_id=3740457&forum_id=8812) \-- [LionKimbro](LionKimbro)
+No luck finding a way to get around the publisher\'s exit, but I did find something interesting: [http://sourceforge.net/mailarchive/forum.php?thread_id=3740457&forum_id=8812](http://sourceforge.net/mailarchive/forum.php?thread_id=3740457&forum_id=8812) \-- [LionKimbro](../people/LionKimbro)

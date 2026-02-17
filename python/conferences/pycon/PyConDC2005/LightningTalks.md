@@ -16,7 +16,7 @@ This page will list speakers for the Lightning Talk session.
 
 - Richard Jones, [http://mechanicalcat.net/tech/ld48](http://mechanicalcat.net/tech/ld48), **LD48: Having far too much fun programming in Python.**
 
-- [AndyHarrington](AndyHarrington), **Simplifying the User Interface for Repetitive Tasks: Custom File Formats** [http://www.cs.luc.edu/\~anh/gallery/lightning.html](http://www.cs.luc.edu/~anh/gallery/lightning.html)
+- [AndyHarrington](../../../people/AndyHarrington), **Simplifying the User Interface for Repetitive Tasks: Custom File Formats** [http://www.cs.luc.edu/\~anh/gallery/lightning.html](http://www.cs.luc.edu/~anh/gallery/lightning.html)
 
 - Wayne K. Yamamoto [http://www.merchantcircle.com](http://www.merchantcircle.com), Entrepreneur in Residence at Rustic Canyon Partners ([wayne@rusticcanyon.com](mailto:wayne@rusticcanyon.com)), **Venture Capital: Snake Oil for the Python Developer? Banking Your Company on Python**
 

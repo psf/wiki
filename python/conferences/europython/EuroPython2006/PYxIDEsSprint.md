@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # EuroPython2006/PYxIDEsSprint 
 
-If there\'s enough interest, perhaps [EuroPython](EuroPython) might be a good venue for collaborating on PYxIDEs work. Things like\...
+If there\'s enough interest, perhaps [EuroPython](../EuroPython) might be a good venue for collaborating on PYxIDEs work. Things like\...
 
 - Source code analysis tools. This might help in a number of IDE-related areas: completion, documentation, refactoring.
 - Work on things which support source code analysis:

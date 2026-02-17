@@ -22,7 +22,7 @@ Brief introduction & overview; perhaps a single 8.5x11 page folded twice.
 
   - Manages python.org
 
-  - Organizes the [PyCon](PyCon) conferences
+  - Organizes the [PyCon](../conferences/pycon/PyCon) conferences
 
   - Supports Python development
 - Who runs the PSF?
@@ -44,4 +44,4 @@ Not sure what should go on a python.org CD?
 
 - The code, plus a copy of the web site?
 
-- A bootable Linux distribution w/ lots of Python toys (like the [PythonCd](PythonCd)).
+- A bootable Linux distribution w/ lots of Python toys (like the [PythonCd](../psf/PythonCd)).

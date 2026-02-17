@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-ClassicStructuredText is the original [StructuredText](StructuredText) markup. It was developed by Jim Fulton of Zope Corporation and first released in 1996. It is now part of the Z Object Publishing Environment (Zope).
+ClassicStructuredText is the original [StructuredText](../language/StructuredText) markup. It was developed by Jim Fulton of Zope Corporation and first released in 1996. It is now part of the Z Object Publishing Environment (Zope).
 
 The following text describes ClassicStructuredText and how it tries to make use of indentation and simple symbology to guess the structure of a document. For the next generation of structured text, see [StructuredTextNG](http://dev.zope.org/Members/jim/StructuredTextWiki/StructuredTextNG).
 

@@ -20,7 +20,7 @@ Steve Holden has a good [article](http://www.onlamp.com/pub/a/python/2006/10/19/
 
 ## Why sprint? 
 
-Sprints are intended to benefit a projects by getting people working in the same room and making decisions quickly. They\'re also a good opportunity to spend 4 or 8 hours concentrating on a task, and to encourage more people to take part in development. They will also be a good place to see [ExtremeProgramming](ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced project developers.
+Sprints are intended to benefit a projects by getting people working in the same room and making decisions quickly. They\'re also a good opportunity to spend 4 or 8 hours concentrating on a task, and to encourage more people to take part in development. They will also be a good place to see [ExtremeProgramming](../people/ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced project developers.
 
 If you wish to participate in a sprint, please contact the sprint organizers in advance, or add your name to the list of participants for a given sprint. It\'s important for organizers to have an idea of how many people will be participating.
 
@@ -43,14 +43,14 @@ Optional:
 
 Here is a list of some recent sprints organized by corporations and user groups around the world:
 
-- [ArlingtonSprint](ArlingtonSprint). Held every 3rd Saturday in Arlington, Virginia.
+- [ArlingtonSprint](../people/ArlingtonSprint). Held every 3rd Saturday in Arlington, Virginia.
 
-- [BoulderSprint](BoulderSprint). First sprint is November 4 in Boulder, Colorado.
+- [BoulderSprint](../people/BoulderSprint). First sprint is November 4 in Boulder, Colorado.
 
-- [GoogleSprintPy3k](GoogleSprintPy3k). Sponsored by Google, a 4 day sprint in two locations in late August 2006 to work on Python3000.
+- [GoogleSprintPy3k](../archive/GoogleSprintPy3k). Sponsored by Google, a 4 day sprint in two locations in late August 2006 to work on Python3000.
 
-- [NeedForSpeed](NeedForSpeed). Held in Iceland, speed was achieved, May 21-28, 2006.
+- [NeedForSpeed](../performance/NeedForSpeed). Held in Iceland, speed was achieved, May 21-28, 2006.
 
-- [PyCon](PyCon). 4 days of sprinting at [PyCon2007](PyCon2007), February 26 - March 1, 2007.
+- [PyCon](../conferences/pycon/PyCon). 4 days of sprinting at [PyCon2007](../conferences/pycon/PyCon2007), February 26 - March 1, 2007.
 
-- [PyPy](PyPy). Sprints are held nearly every month to work on this exciting direction in Python\'s future development.
+- [PyPy](../implementations/PyPy). Sprints are held nearly every month to work on this exciting direction in Python\'s future development.

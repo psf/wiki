@@ -21,7 +21,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - I am employeed at [AmericanGreetings.com](http://www.ag.com)
 
-- I was inspired at [PyCon](PyCon) to become more active in the community
+- I was inspired at [PyCon](../conferences/pycon/PyCon) to become more active in the community
 
 - For more information take a look at my blog
 

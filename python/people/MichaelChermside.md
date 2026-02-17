@@ -16,7 +16,7 @@ A frequent reader and less-frequent contributor to various python mailing lists 
 
 Comments From Others:
 
-- Would you put a note on [PythonVsHaskell](PythonVsHaskell) about where to learn more about Haskell? \-- [LionKimbro](LionKimbro) 2003-09-11 16:44:21
+- Would you put a note on [PythonVsHaskell](../archive/PythonVsHaskell) about where to learn more about Haskell? \-- [LionKimbro](LionKimbro) 2003-09-11 16:44:21
 
 ------------------------------------------------------------------------
 

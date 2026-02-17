@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Note : This is an experimental page, Python can be learned interactively from a prompt, and learning by observations is a good habit, so this page. \-- [BaijuMuthukadan](BaijuMuthukadan)
+Note : This is an experimental page, Python can be learned interactively from a prompt, and learning by observations is a good habit, so this page. \-- [BaijuMuthukadan](../people/BaijuMuthukadan)
 
 (This page is not linked from main pages yet.)
 

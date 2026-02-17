@@ -22,7 +22,7 @@ This working group will review PSF sponsorship applications and determine if the
 
 - [Sponsors WG Mailing List](https://mail.python.org/mailman/listinfo/sponsors)
 
-  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](EwaJodlowska) is the list admin.
+  The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](../people/EwaJodlowska) is the list admin.
 
 ## Discussions 
 

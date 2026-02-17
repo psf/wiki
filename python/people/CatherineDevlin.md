@@ -12,6 +12,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Phone (-very- iffy) 937-427-8814 x222
 
-Cell phone (even iffier, until [PyCon](PyCon) itself) 937-248-8303
+Cell phone (even iffier, until [PyCon](../conferences/pycon/PyCon) itself) 937-248-8303
 
 [CategoryHomepage](CategoryHomepage)

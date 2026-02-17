@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Asking for Help: Is there a way to create a file object from text without touching the file system? 
 
-I want to use [ElementTree](ElementTree) to parse a text object, but the [ElementTree](ElementTree).parse function looks like it only takes file objects. I\'m doing this all from within Blender, and don\'t want to touch the filesystem - so is there a way to create a file object from text (to pass to parse) without touching the file system? I\'d also like to go the other way, create a text object from an [ElementTree](ElementTree) object.
+I want to use [ElementTree](../../people/ElementTree) to parse a text object, but the [ElementTree](../../people/ElementTree).parse function looks like it only takes file objects. I\'m doing this all from within Blender, and don\'t want to touch the filesystem - so is there a way to create a file object from text (to pass to parse) without touching the file system? I\'d also like to go the other way, create a text object from an [ElementTree](../../people/ElementTree) object.
 
 ## Answer 
 
@@ -25,7 +25,7 @@ The `StringIO`{.backtick} module provides support for treating strings like file
 :::
 ::::
 
-In fact, for the exact problem you\'re having, the example \"21 lines: XML/HTML parsing (using Python 2.5 or third-party library)\" from the [SimplePrograms](SimplePrograms) page should at least help you with the parsing problem. For serialising (\"going the other way\"), you probably want to create a `StringIO`{.backtick} object and then pass it to the appropriate [ElementTree](ElementTree) node method.
+In fact, for the exact problem you\'re having, the example \"21 lines: XML/HTML parsing (using Python 2.5 or third-party library)\" from the [SimplePrograms](../../getting-started/SimplePrograms) page should at least help you with the parsing problem. For serialising (\"going the other way\"), you probably want to create a `StringIO`{.backtick} object and then pass it to the appropriate [ElementTree](../../people/ElementTree) node method.
 
 ------------------------------------------------------------------------
 

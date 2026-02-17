@@ -15,13 +15,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - Promotion:
   - python.org now has an announcement for the Call For Proposals.
 
-  - The [EuroPython](EuroPython) site now has a more visible \"submit a talk\" link.
+  - The [EuroPython](../..) site now has a more visible \"submit a talk\" link.
 
   - Benedikt has spread the word at CERN.
 
   - The CFP should be sent to europython-announce.
 
-  - Armin and the [PyPy](PyPy) people could mention [EuroPython](EuroPython) at [RuPy](./RuPy.html).
+  - Armin and the [PyPy](../../../../../implementations/PyPy) people could mention [EuroPython](../..) at [RuPy](./RuPy.html).
 
   - Bea suggested contacting ZEA in order to get the word around in the Zope community.
 
@@ -39,11 +39,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
     - Michael suggested a sponsorship at europython.org address.
   - Benedikt or Michael will look into Google participation.
   - Commercial concerns:
-    - Paul noted that [PyCon](PyCon) feedback had been somewhat negative about sponsored talks.
+    - Paul noted that [PyCon](../../../../pycon/PyCon) feedback had been somewhat negative about sponsored talks.
 
     - Michael said that sponsor lightning talks had been \"mildly ridiculed\" by some people.
 
-    - Laura noted that some people regard [PyCon](PyCon) as being \"too commercial\" and warned about having too many \"talks about what people are doing at work\" rather than cool stuff.
+    - Laura noted that some people regard [PyCon](../../../../pycon/PyCon) as being \"too commercial\" and warned about having too many \"talks about what people are doing at work\" rather than cool stuff.
 
     - David mentioned that \"more employers are sympathetic to community events\", referring to employers\' expectations of what their employees are going to be doing at the conference.
   - Packages:
@@ -68,13 +68,13 @@ No agenda yet. Suggestions:
 
 - Finishing the theme descriptions in Indico: \"education\" and \"social skills\" are missing; \"agile\" needs reviewing; suggestions welcome about the others.
 
-- Promotion: we\'re on python.org now, but what other channels should be involved? See [EuroPython/2007/PublicRelations](../PublicRelations) for interesting avenues, along with some materials used by the [PyCon](PyCon) organisers.
+- Promotion: we\'re on python.org now, but what other channels should be involved? See [EuroPython/2007/PublicRelations](../PublicRelations) for interesting avenues, along with some materials used by the [PyCon](../../../../pycon/PyCon) organisers.
 
 - Sponsorship. Any motion here?
-  - [EuroPython](EuroPython) sponsorship has become fairly unobtrusive: Web site banners, some promotional activity at the conference.
+  - [EuroPython](../..) sponsorship has become fairly unobtrusive: Web site banners, some promotional activity at the conference.
 
-  - In contrast, [PyCon](PyCon) has maintained the previous \"sophisticated\" sponsorship plans: [http://us.pycon.org/TX2007/HowToSponsor](http://us.pycon.org/TX2007/HowToSponsor)
+  - In contrast, [PyCon](../../../../pycon/PyCon) has maintained the previous \"sophisticated\" sponsorship plans: [http://us.pycon.org/TX2007/HowToSponsor](http://us.pycon.org/TX2007/HowToSponsor)
 
-  - Some resistance to promotional keynotes and lightning talks is detectable in the [PyCon](PyCon) feedback: [PyCon2007/Feedback/Comments](../../../../pycon/PyCon2007/Feedback/Comments)
+  - Some resistance to promotional keynotes and lightning talks is detectable in the [PyCon](../../../../pycon/PyCon) feedback: [PyCon2007/Feedback/Comments](../../../../pycon/PyCon2007/Feedback/Comments)
 
   - Perhaps a dialogue with potential sponsors is better than the usual bronze/silver/gold categories.

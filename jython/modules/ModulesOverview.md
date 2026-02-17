@@ -17,6 +17,6 @@ Jump-off page to deeper discussion about various modules.
   - Non-blocking support
   - Client-side SSL support
 
-- [ThreadLocalVariables](ThreadLocalVariables)
+- [ThreadLocalVariables](../internals/ThreadLocalVariables)
 
   - How to use thread-local variables on jython 2.2

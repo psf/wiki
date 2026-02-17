@@ -10,7 +10,7 @@ This page is devoted to various tips and tricks that help improve the performanc
 
 Python has changed in some significant ways since I first wrote my \"fast python\" page in about 1996, which means that some of the orderings will have changed. I migrated it to the Python wiki in hopes others will help maintain it.
 
-You should always test these tips with your application and the specific version of the Python [implementation](PythonImplementations) you intend to use and not just blindly accept that one method is faster than another. See the [profiling](./PythonSpeed(2f)PerformanceTips.html#Profiling) section for more details.
+You should always test these tips with your application and the specific version of the Python [implementation](../../implementations/PythonImplementations) you intend to use and not just blindly accept that one method is faster than another. See the [profiling](./PythonSpeed(2f)PerformanceTips.html#Profiling) section for more details.
 
 Also new since this was originally written are packages like [Cython](http://cython.org/), [Pyrex](http://www.cosc.canterbury.ac.nz/~greg/python/Pyrex/), [Psyco](http://psyco.sourceforge.net/), [Weave](http://www.scipy.org/Weave), [Shed Skin](http://code.google.com/p/shedskin/) and [PyInline](http://pyinline.sourceforge.net/), which can dramatically improve your application\'s performance by making it easier to push performance-critical code into C or machine language.
 
@@ -97,7 +97,7 @@ Note that the original item is never used for sorting, only the returned key - t
 
 ## String Concatenation 
 
-The accuracy of this section is disputed with respect to later versions of Python. In CPython 2.5, string concatenation is fairly fast, although this may not apply likewise to other Python implementations. See [ConcatenationTestCode](ConcatenationTestCode) for a discussion.
+The accuracy of this section is disputed with respect to later versions of Python. In CPython 2.5, string concatenation is fairly fast, although this may not apply likewise to other Python implementations. See [ConcatenationTestCode](../../archive/ConcatenationTestCode) for a discussion.
 
 Strings in Python are immutable. This fact frequently sneaks up and bites novice Python programmers on the rump. Immutability confers some advantages and disadvantages. In the plus column, strings can be used as keys in dictionaries and individual copies can be shared among multiple variable bindings. (Python automatically shares one- and two-character strings.) In the minus column, you can\'t say something like, \"change all the \'a\'s to \'b\'s\" in any given string. Instead, you have to create a new string with the desired properties. This continual copying can lead to significant inefficiencies in Python programs.
 
@@ -209,7 +209,7 @@ Except for the first time, each time a word is seen the `if` statement\'s test f
         except KeyError:
             wdict[word] = 1
 
-It\'s important to catch the expected [KeyError](KeyError) exception, and not have a default `except` clause to avoid trying to recover from an exception you really can\'t handle by the statement(s) in the `try` clause.
+It\'s important to catch the expected [KeyError](../../people/KeyError) exception, and not have a default `except` clause to avoid trying to recover from an exception you really can\'t handle by the statement(s) in the `try` clause.
 
 A third alternative became available with the release of Python 2.x. Dictionaries now have a get() method which will return a default value if the desired key isn\'t found in the dictionary. This simplifies the loop:
 

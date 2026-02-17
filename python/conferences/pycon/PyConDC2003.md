@@ -14,7 +14,7 @@ Sprints were free. See [/SprintPlan](PyConDC2003/SprintPlan).
 
 Paul Graham gave a keynote on the \"hundred-year language\" (his vision of the programming language people will be using a hundred years from now). The text is here: [http://www.paulgraham.com/hundred.html](http://www.paulgraham.com/hundred.html) . The talk is reviewed by Ziggy in his blog: [http://use.perl.org/\~ziggy/journal/11248](http://use.perl.org/~ziggy/journal/11248) See also how Paul Prescod made Paul Graham famous: [http://www.prescod.net/python/IsPythonLisp.html](http://www.prescod.net/python/IsPythonLisp.html)
 
-[/OpenSpaceSessions](PyConDC2003/OpenSpaceSessions) - Session Notes from [PyCon](PyCon) [OpenSpace](OpenSpace)
+[/OpenSpaceSessions](PyConDC2003/OpenSpaceSessions) - Session Notes from [PyCon](PyCon) [OpenSpace](../../people/OpenSpace)
 
 **[/Papers](PyConDC2003/Papers)** - Quick index to papers/slides/links for PyCon talks. (I\'ve indexed all the papers I have found announced on this wiki, python-announce, etc. - Please consider adding links to your papers on this page so we can find them!)
 
@@ -86,7 +86,7 @@ In many conferences the [/BoFs](PyConDC2003/BoFs) are where much of the real com
 
 ### Sprints 
 
-The sprints are intended to benefit the Python core, as well as encouraging more developers to take part in Python\'s development. They will also be a good place to see [ExtremeProgramming](ExtremeProgramming) or other [AgileMethods](http://c2.com/cgi/wiki?AgileMethods "Wiki") in action. What would you like to see done, or at least attempted?
+The sprints are intended to benefit the Python core, as well as encouraging more developers to take part in Python\'s development. They will also be a good place to see [ExtremeProgramming](../../people/ExtremeProgramming) or other [AgileMethods](http://c2.com/cgi/wiki?AgileMethods "Wiki") in action. What would you like to see done, or at least attempted?
 
 There is a separate [/SprintPlan](PyConDC2003/SprintPlan) page with more details. *Please use it to flesh out the sprint plans.*
 
@@ -94,7 +94,7 @@ There is a separate [/SprintPlan](PyConDC2003/SprintPlan) page with more details
 
 At IPC 10 the Developer Day had many short talks on diverse topics. If you can\'t produce a full-blown paper, offer your own talk (as short as five minutes is acceptable) to distill a part of your hard-won experience and save others the learning time you put in. Or just say what you\'d like someone else to give a lightning talk on.
 
-- *Probably \"lightning\" is 15 minutes max \-- however, [PyCon](PyCon) [OpenSpace](OpenSpace) means that we don\'t distinguish that much between \"lightning\" and \"what people want to hear and can persuade someone to do\".* \-- SH
+- *Probably \"lightning\" is 15 minutes max \-- however, [PyCon](PyCon) [OpenSpace](../../people/OpenSpace) means that we don\'t distinguish that much between \"lightning\" and \"what people want to hear and can persuade someone to do\".* \-- SH
 
 The idea of lightning talks has also been extended to the possibility of lightning tutorials where the audience brings their laptops and a tutorial of around 15 to 30 minutes is held. Think of them as lightning talks with heavy audience participation. \-- brett
 
@@ -140,7 +140,7 @@ Should there be a mechanism for disseminating info to people interested in pytho
 
 ### Progress Reports 
 
-There are many areas of Python development where it\'s hard to stay in touch with what\'s going on. What would you like to see reports about? Two areas that have already been mentioned are Jython/JPython and the [PythonBusinessForum](PythonBusinessForum). What else is of burning interest? Who is going to give these reports? Sign up here and help to make [PyCon](PyCon) *relevant* and *engaging*. You don\'t need to be a professional speaker to help other Pythonistas out with a little information.
+There are many areas of Python development where it\'s hard to stay in touch with what\'s going on. What would you like to see reports about? Two areas that have already been mentioned are Jython/JPython and the [PythonBusinessForum](../../archive/PythonBusinessForum). What else is of burning interest? Who is going to give these reports? Sign up here and help to make [PyCon](PyCon) *relevant* and *engaging*. You don\'t need to be a professional speaker to help other Pythonistas out with a little information.
 
 ### Which Batteries? 
 
@@ -150,7 +150,7 @@ There seems to be some interest in building Python distributions that combine th
 
 If sponsorship is available (as it appears it might be), should the organizers ask for money, to be used to reduce conference registration fees, or should they try to get nice giveaways that your technical friends will think are outrageously cool when you return home? Suggestions, please.
 
-[ChoiceOfFreebies](ChoiceOfFreebies)
+[ChoiceOfFreebies](../../archive/ChoiceOfFreebies)
 
 ### Interested in Jython/J2EE track 
 
@@ -160,9 +160,9 @@ I believe there would be intense interest in a track related toPython/Jython\'s 
 
 ### OpenSpace Track 
 
-One of the problems in organizing a conference is knowing what people want to see and hear discussed. If the content is over-scheduled then we lose the ability to respond to the specific needs of the most important group: those who have taken the time and spent the money to attend. Consequently we plan to dedicate a significant amount of the time available to events that address the issues of importance *as decided at the conference*. Here\'s what Bob Payne had to say about [OpenSpace](OpenSpace) in his original comments:
+One of the problems in organizing a conference is knowing what people want to see and hear discussed. If the content is over-scheduled then we lose the ability to respond to the specific needs of the most important group: those who have taken the time and spent the money to attend. Consequently we plan to dedicate a significant amount of the time available to events that address the issues of importance *as decided at the conference*. Here\'s what Bob Payne had to say about [OpenSpace](../../people/OpenSpace) in his original comments:
 
-Agile Universe in Chicago ran an [OpenSpace](OpenSpace) track and it was exciting and well attended [http://www.xpuniverse.com/openSpace](http://www.xpuniverse.com/openSpace). It is a straight forward way to get greater participation by all attendees. It is somewhat like BOF sessions but more dynamic and collaborative, with people negotiating slot times and combining/dividing talks. It has been called the XP of conference organization. One surprising result was that there were more testers in attendance than anyone expected, they essentially set up their own testing track in [OpenSpace](OpenSpace).
+Agile Universe in Chicago ran an [OpenSpace](../../people/OpenSpace) track and it was exciting and well attended [http://www.xpuniverse.com/openSpace](http://www.xpuniverse.com/openSpace). It is a straight forward way to get greater participation by all attendees. It is somewhat like BOF sessions but more dynamic and collaborative, with people negotiating slot times and combining/dividing talks. It has been called the XP of conference organization. One surprising result was that there were more testers in attendance than anyone expected, they essentially set up their own testing track in [OpenSpace](../../people/OpenSpace).
 
 I have facilitated many training events and would be happy to facilitate such a track if people were interested. [BobPayne](./BobPayne.html) \[[bobpayne@webdc.com](mailto:bobpayne@webdc.com)\]
 

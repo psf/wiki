@@ -18,21 +18,21 @@ Stuff of interest to developers:
 
 A list of developers using Python:
 
-- [MichaelWax](MichaelWax)
+- [MichaelWax](../people/MichaelWax)
 
 - [thanos](./thanos.html) - NYSE Python developer
 
 - Vishnu Nath
 
-- [CharlesThayer](CharlesThayer) - Writing Systems Software, Bay Area
+- [CharlesThayer](../people/CharlesThayer) - Writing Systems Software, Bay Area
 
-- [TomBryan](TomBryan)
+- [TomBryan](../people/TomBryan)
 
-- [MarkHughes](MarkHughes) - author of the [Umbra CRPG](http://kuoi.asui.uidaho.edu/~kamikaze/Umbra/), written in Python
+- [MarkHughes](../people/MarkHughes) - author of the [Umbra CRPG](http://kuoi.asui.uidaho.edu/~kamikaze/Umbra/), written in Python
 
-- [JarekZgoda](JarekZgoda)
+- [JarekZgoda](../people/JarekZgoda)
 
-- [PhippsXue](PhippsXue)
+- [PhippsXue](../people/PhippsXue)
 
 - [aKKu](./aKKu.html)
 

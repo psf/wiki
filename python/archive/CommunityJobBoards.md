@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Python Jobs Blog 
 
-The [Python Jobs Blog](http://pythonjobs.blogspot.com) lists JOB postings, both commercial and volunteer posted on the [BangPypers](BangPypers) mailing list. The postings are automatically added to the blog by a web-crawler at least once in a month.
+The [Python Jobs Blog](http://pythonjobs.blogspot.com) lists JOB postings, both commercial and volunteer posted on the [BangPypers](../community/BangPypers) mailing list. The postings are automatically added to the blog by a web-crawler at least once in a month.
 
 ------------------------------------------------------------------------
 

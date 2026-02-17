@@ -24,7 +24,7 @@ Yes, [PyCon2005](./PyCon2005.html) falls during Holy Week. Fear not, there are s
 
 [St. Paul\'s](http://www.stpauls-kst.com/) (Episcopal)
 
-[St. Stephen Martyr](http://www.parishes.org/stephenmartyr.html) (Catholic) (not a reference to the [PyCon](PyCon) chair) (I think)
+[St. Stephen Martyr](http://www.parishes.org/stephenmartyr.html) (Catholic) (not a reference to the [PyCon](../PyCon) chair) (I think)
 
 [St. Matthew\'s](http://www.stmatthewscathedral.org/) (Catholic)
 

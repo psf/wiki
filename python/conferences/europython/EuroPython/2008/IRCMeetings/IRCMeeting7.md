@@ -21,11 +21,11 @@ Laura, David, Paul, Lennart, John, Samuel, Marius, Jacob, Zeth, Christian.
 - Talks/Themes
   - *We decided the basic ground rules for themes and the durations of talks in the last meeting.*
 
-  - **Laura mentioned Steve Holden\'s [Teach Me Twisted](http://catherinedevlin.blogspot.com/2008/03/teach-me-twisted.html) presentation at [PyCon](PyCon). People seem generally positive about trying the same thing at [EuroPython](EuroPython), perhaps as part of an Open Space/Unconference day.**
+  - **Laura mentioned Steve Holden\'s [Teach Me Twisted](http://catherinedevlin.blogspot.com/2008/03/teach-me-twisted.html) presentation at [PyCon](../../../../pycon/PyCon). People seem generally positive about trying the same thing at [EuroPython](../..), perhaps as part of an Open Space/Unconference day.**
 
   - Workflow discussion (how the talks will be handled)
 
-  - **Samuel asked about the call for talks. Laura asked about the system used for [PyCon](PyCon) UK. John mentioned using e-mail for submissions, and another system for putting the material online, with scripts to generate the HTML for a manually-organised schedule.**
+  - **Samuel asked about the call for talks. Laura asked about the system used for [PyCon](../../../../pycon/PyCon) UK. John mentioned using e-mail for submissions, and another system for putting the material online, with scripts to generate the HTML for a manually-organised schedule.**
 
   - **Jacob suggested using this simple, manual system, just to get going. David suggested setting up a private mailing list for submissions.**
 
@@ -67,7 +67,7 @@ Laura, David, Paul, Lennart, John, Samuel, Marius, Jacob, Zeth, Christian.
 - Sponsorship
   - Offers/packages/candidates - *we need more information about costs from the venue for having booths, streamers, etc.*
 
-  - *Here is a draft of [SponsorOffers](SponsorOffers)*
+  - *Here is a draft of [SponsorOffers](../../../../../people/SponsorOffers)*
 
 <!-- -->
 
@@ -75,7 +75,7 @@ Laura, David, Paul, Lennart, John, Samuel, Marius, Jacob, Zeth, Christian.
 
 - *In the last meeting, we talked about potentially offering sponsors the opportunity to have their own [SponsorSpaces](./SponsorSpaces.html) in extra rooms at the venue.*
 
-- Discussion is expected following the happenings at [PyCon](PyCon)
+- Discussion is expected following the happenings at [PyCon](../../../../pycon/PyCon)
 
 <!-- -->
 
@@ -95,7 +95,7 @@ Laura, David, Paul, Lennart, John, Samuel, Marius, Jacob, Zeth, Christian.
 
   - Get in touch with the *tutor* mailing list owners to ask about publicising tutorials on the list.
 
-  - Give Jacob feedback on the [SponsorOffers](SponsorOffers) document.
+  - Give Jacob feedback on the [SponsorOffers](../../../../../people/SponsorOffers) document.
 
 - **Marius, Laura:** Marius to help get someone in Vilnius in touch with Laura and the Google people to make the videoconferencing arrangements.
 

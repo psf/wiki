@@ -40,7 +40,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [S2S](http://bioinformatics.org/S2S/) Sequence To Structure is a bioinformatics Java framework providing several graphical tools to easily display and manipulate RNA data from the sequence to the structure.
 
-[Sulu](http://sulu.sourceforge.net/) Sulu is an LGPL Mozilla XUL rendering engine written in Java that uses Jython instead of [JavaScript](JavaScript).
+[Sulu](http://sulu.sourceforge.net/) Sulu is an LGPL Mozilla XUL rendering engine written in Java that uses Jython instead of [JavaScript](../modules/JavaScript).
 
 [TestMaker](http://www.pushtotest.com/ptt) A free open-source framework for building intelligent test agents to check Web Services (HTTP, HTTPS, SOAP, .NET, XML-RPC) for functionality, scalability and performance. [TestMaker](./TestMaker.html) embeds Jython as a scripting language that calls a library of test objects. [TestMaker](./TestMaker.html) is built on [NetBeans](./NetBeans.html) so it offers Jython users a very nice graphical integrated development environment for general Jython development too.
 
@@ -73,7 +73,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [The Grinder](http://grinder.sourceforge.net) The Grinder is a Java load-testing framework. It is freely available under a BSD-style open-source license. The Grinder makes it easy to orchestrate the activities of a Jython test script in many processes across many machines, using a graphical console application. The Grinder also features a mature plug-in for testing HTTP services, and a tool which allows HTTP scripts to be automatically recorded.
 
-[IBM WebSphere Application Server](http://www.ibm.com/software/webservers/appserv/was/) IBM\'s [WebSphere](WebSphere) Application Server is the foundation of the IBM [WebSphere](WebSphere) software platform. Jython has been included as the administrative scripting language for several releases, and as of the latest release (6.1) it has become the default administrative scripting language.
+[IBM WebSphere Application Server](http://www.ibm.com/software/webservers/appserv/was/) IBM\'s [WebSphere](../user-guide/WebSphere) Application Server is the foundation of the IBM [WebSphere](../user-guide/WebSphere) software platform. Jython has been included as the administrative scripting language for several releases, and as of the latest release (6.1) it has become the default administrative scripting language.
 
 [das2](http://www.das2.org/) das2 is the second-generation web-based data delivery, visualization, and analysis system built and used by the radio and plasma wave group at the University of Iowa. Jython is being used to define applications and alloy clients to tweak applications.
 

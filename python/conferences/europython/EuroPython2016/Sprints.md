@@ -21,7 +21,7 @@ Please add your sprint suggestion to the list below. If you intend to provide mo
   hypothesis (json_schema, and \'smart\' strategies)                                                                                                                                      1+                             ?? Not sure. Chillida (1st floor)
   Python for [CloudABI](https://nuxi.nl)                                                                                                                                          1+                             Chillida (1st floor)?
   [qutebrowser the vim-keystrokes browser](http://qutebrowser.org/)                                                                                                                1+                             ?
-  [PyTest](PyTest)                                                                                                                                                                 1+                             ?
+  [PyTest](../../../testing/PyTest)                                                                                                                                                                 1+                             ?
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------ -------------------------------------------
 :::
 

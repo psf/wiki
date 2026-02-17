@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 # Writing code that runs under both Python2 and 3 
 
-Please note that Python 2.x will no longer be supported nor maintained after 1 January 2020. If you need additional support in porting existing 2.x code to 3.x, please see the resources available [here](PortingPythonToPy3k).
+Please note that Python 2.x will no longer be supported nor maintained after 1 January 2020. If you need additional support in porting existing 2.x code to 3.x, please see the resources available [here](../PortingPythonToPy3k).
 
 # Historical Information 
 

@@ -22,7 +22,7 @@ Pick up momentum for the International Sponsorship Bundle that we created in ear
 
 ## Mailing List 
 
-- The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](EwaJodlowska) is the list admin.
+- The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](../people/EwaJodlowska) is the list admin.
 
 - [Mailing List Info Page](https://mail.python.org/mailman/listinfo/bundle-sponsorship-wg)
 

@@ -103,9 +103,9 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Michel(le)\'s Monthly Module: functools (Michelle Rowley)
 
-- Recap of [PyCon](PyCon) 2010 (Adam Lowry, Michael Schurter, Michelle Rowley)
+- Recap of [PyCon](../conferences/pycon/PyCon) 2010 (Adam Lowry, Michael Schurter, Michelle Rowley)
 
-- \"What I Learned at [PyCon](PyCon)\... Last Year\": lessons learned over a year of functional web testing at Idealist.org. (Jason Kirtland)
+- \"What I Learned at [PyCon](../conferences/pycon/PyCon)\... Last Year\": lessons learned over a year of functional web testing at Idealist.org. (Jason Kirtland)
 
 - **Pizza & beverage was sponsored by [Survey Monkey](http://www.surveymonkey.com/)!**
 
@@ -139,7 +139,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Pythonic book raffle
 
-- Michel\'s Monthly Module ([ConfigParser](ConfigParser)) by Kyle Jones
+- Michel\'s Monthly Module ([ConfigParser](../language/ConfigParser)) by Kyle Jones
 
 - Solace by special guest Armin Ronacher
 
@@ -173,7 +173,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 ## April 14th 2009 
 
-- Recap of [PyCon](PyCon)
+- Recap of [PyCon](../conferences/pycon/PyCon)
 
 - Planning of new pdxpython.org
 
@@ -239,7 +239,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Michael: Django
 
-- Igal: [TurboGears](TurboGears) & Pylons
+- Igal: [TurboGears](../web/TurboGears) & Pylons
 
 - Jason: WSGI
 
@@ -261,7 +261,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Mark: [ipython](http://ipython.scipy.org/)
 
-- Discussion: [AppEngine](AppEngine)
+- Discussion: [AppEngine](../people/AppEngine)
 
 ## March 11th 2008 
 
