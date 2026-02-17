@@ -43,8 +43,9 @@ docs-clean: ## Clean built documentation
 lint: ## Run pre-commit hooks
 	$(UV) run prek run --all-files
 
-redirects: ## Regenerate old wiki URL redirects into _redirects.json
+redirects: ## Regenerate redirect mapping and static HTML files
 	$(UV) run python scripts/gen_old_wiki_redirects.py
+	$(UV) run python scripts/gen_redirect_pages.py
 
 ##@ Utility
 

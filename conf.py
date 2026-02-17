@@ -2,7 +2,6 @@
 
 from __future__ import annotations
 
-import json
 import os
 from datetime import datetime
 from pathlib import Path
@@ -15,12 +14,11 @@ extensions = [
     "myst_parser",
     "sphinx_copybutton",
     "sphinx_design",
-    "sphinxext.rediraffe",
 ]
 
 templates_path = ["_templates"]
 exclude_patterns = [
-    "_build", "_raw", "_exclude", "scripts", ".github", ".claude",
+    "_build", "_raw", "_exclude", "_redirects_html", "scripts", ".github", ".claude",
     "Thumbs.db", ".DS_Store", "venv", ".venv",
     "node_modules", "uv.lock", "pyproject.toml", "Makefile",
     "**/_attachments",
@@ -102,6 +100,7 @@ html_title = "Python Wiki"
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 html_show_sourcelink = False
+html_extra_path = ["_redirects_html"]
 
 html_context = {
     "source_type": "github",
@@ -122,23 +121,10 @@ html_theme_options = {
     ],
 }
 
-# -- Rediraffe (redirect) configuration -------------------------------------
-_redirects_file = Path(__file__).parent / "_redirects.json"
-if _redirects_file.exists():
-    _all_redirects: dict[str, str] = json.loads(_redirects_file.read_text())
-else:
-    _all_redirects = {}
 
-# When building a single wiki, only keep redirects whose *target* belongs to
-# that wiki.  Redirects for other wikis would always fail ("does not exist")
-# and generate thousands of useless warnings.
-if _wiki_only:
-    rediraffe_redirects = {
-        src: tgt
-        for src, tgt in _all_redirects.items()
-        if tgt.startswith(f"{_wiki_only}/")
-    }
-else:
-    rediraffe_redirects = _all_redirects
-
-rediraffe_branch = "main"
+# -- Redirects ---------------------------------------------------------------
+# Static redirect HTML files live in _redirects_html/ and are copied into the
+# build output via html_extra_path. To regenerate:
+#   python scripts/gen_redirect_pages.py
+# To update the source mapping:
+#   python scripts/gen_old_wiki_redirects.py
