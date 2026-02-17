@@ -67,8 +67,8 @@ myst_enable_extensions = [
     "html_admonition",
     "html_image",
     # "linkify",  # disabled: very slow on 3500+ files of converted wiki content
-    "replacements",
-    "smartquotes",
+    # "replacements",  # disabled: converts .. to ellipsis inside link URLs, breaking 4786 relative links
+    # "smartquotes",  # disabled: unnecessary for wiki content, marginal perf cost
     "strikethrough",
     "tasklist",
 ]
