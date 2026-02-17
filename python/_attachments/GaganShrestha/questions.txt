@@ -1,0 +1,12 @@
+radiation
+doctor
+nurse
+hospital
+newspaper
+bottle
+bread
+television
+knife
+computer
+water
+

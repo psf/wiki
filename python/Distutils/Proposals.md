@@ -1,0 +1,31 @@
+# Distutils/Proposals
+
+::: {#content dir="ltr" lang="en"}
+## Introduction {#Introduction}
+
+This page contains the index of Distutils Enhancement Proposals.
+
+Use [Distutils/Proposals/Template](./Distutils(2f)Proposals(2f)Template.html) when you write your own.
+
+## Proposals {#Proposals}
+
+These proposals predate the acceptance of recent Distutils PEPs. Some ideas have or will land in Distutils2, other have been considered and rejected, and the rest are good ideas that will be put on a separate page.
+
+- [Distutils 2.0](./Distutils(2f)Proposals(2f)Distutils20.html)
+
+- [Dependency Support](./Distutils(2f)Proposals(2f)DependencySupport.html)
+
+- [Autoconf-like Options Support](./Distutils(2f)Proposals(2f)AutoconfLikeOptions.html)
+
+- [Uininstall Command](./Distutils(2f)Proposals(2f)UninstallCommand.html)
+
+- [Setup as a Class not a Procedure](./Distutils(2f)Proposals(2f)SetupClass.html)
+
+These proposals are up to date:
+
+- [Split and Compound Distributions](./Distutils(2f)Proposals(2f)SplitAndCompoundDistributions.html)
+
+- [In-Development Distributions](./Distutils(2f)Proposals(2f)DevelopmentDistributions.html)
+
+See also [open feature requests for Distutils2](http://bugs.python.org/issue?%40search_text=&title=&%40columns=title&id=&%40columns=id&stage=&creation=&creator=&activity=&%40columns=activity&%40sort=activity&actor=&nosy=&type=6&components=25&versions=&dependencies=&assignee=&keywords=&priority=&%40group=priority&status=-1%2C1%2C3&%40columns=status&resolution=&nosy_count=&message_count=&%40pagesize=50&%40startwith=0&%40queryname=&%40old-queryname=&%40action=search){.http} on the Python bug tracker.
+:::

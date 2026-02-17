@@ -1,0 +1,21 @@
+# JythonDeveloperGuide
+
+```{toctree}
+:maxdepth: 1
+
+AttributeLookupMethods
+EclipseNotes
+EclipseSubclipse
+HowToMakeARelease
+HowToReleaseJython
+ImplementingStrAndRepr
+IntellijNotes
+IntellijTricks
+NetbeansGuide
+PleaseAdoptMe
+PortingPythonModulesToJython
+RegressionTestNotes
+UsingPyNewStringFromPythonCode
+VersionTransitionTestExclusions
+WebsiteBuilderSetup
+```

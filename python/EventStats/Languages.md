@@ -1,0 +1,22 @@
+# EventStats/Languages
+
+::::: {#content dir="ltr" lang="en"}
+:::: {}
+::: {}
+  ---------------------- ----------------
+  **Language**           **%**
+  Browser setting        99.79% (75540)
+  English                0.12% (94)
+  Spanish                0.03% (19)
+  Brazilian Portuguese   0.02% (15)
+  Simplified Chinese     0.01% (9)
+  German                 0.01% (6)
+  Russian                0.00% (3)
+  Italian                0.00% (3)
+  French                 0.00% (3)
+  Serbian                0.00% (1)
+  Others                 0.01% (5)
+  ---------------------- ----------------
+:::
+::::
+:::::

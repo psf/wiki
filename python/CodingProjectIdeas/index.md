@@ -1,0 +1,21 @@
+# CodingProjectIdeas
+
+```{toctree}
+:maxdepth: 1
+
+ApplicationIdeas
+EnhancedIterTools
+ExploreFunctionalProgramming
+FileSystemVirtualization
+Libraries
+PygameOnCtypes
+PythonCore
+PythonDocInOpenEbook
+PythonGarbageCollected
+PythonWebPlugin
+PythonWebProgrammingIdeas
+RegisterVirtualMachine
+StandardLibrary
+TestingImprovements
+WebServiceStack
+```

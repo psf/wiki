@@ -1,0 +1,17 @@
+# Asking for Help/I am trying to run Python on IDLE in Windows. Why doesn't IDLE close old pythonw processes on restarting the shell or even quitting IDLE?
+
+:::: {#content dir="ltr" lang="en"}
+# Asking for Help: IDLE doesn\'t clean up pythonw processes {#Asking_for_Help:_IDLE_doesn.27t_clean_up_pythonw_processes}
+
+\...
+
+I am trying to run Python on IDLE in Windows 7. Why doesn\'t IDLE close old pythonw processes on restarting the shell or even quitting IDLE? I\'m having to manually close he processes in task manager. Is this normal or do I have to change some settings?
+
+::: note
+When *answering* questions, add the [CategoryAskingForHelpAnswered](CategoryAskingForHelpAnswered) category when saving the page. This will move the link to this page from the questions section to the answers section on the [Asking for Help](./Asking(20)for(20)Help.html) page.
+:::
+
+------------------------------------------------------------------------
+
+[CategoryAskingForHelp](CategoryAskingForHelp)
+::::

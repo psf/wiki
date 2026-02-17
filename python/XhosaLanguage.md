@@ -1,0 +1,48 @@
+# XhosaLanguage
+
+::::: {#content dir="ltr" lang="en"}
+Links to Python related information in Xhosa
+
+ISO 639-1 Code: xh
+
+[1SEP09 Ideally, all the language pages should be like the Polish or Turkish pages - all native language, only the necessary English. ]{.comment style="display:none"}
+
+There are some groundrules, some laid down by the site admins, some my suggestions:
+
+1\) Pages must be named in ASCII and English ([PolishLanguage](PolishLanguage))
+
+2\) Pages must have an explanation in English at the top (Links to Python information in \<language X\>)
+
+3\) (my suggestion) We probably want to limit invites to edit the pages to people we know well, or Pythonistas with a track record. Hopefully this is inclusive enough without opening the site up to a spam flood and vandalismfest.
+
+4\) No anonymous changes.
+
+Where these pages really need help:
+
+1\) check links, remove broken ones.
+
+2\) add new links that are quality Python information and active.
+
+3\) some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
+
+**isiXhosa**
+
+[awkward attempt at doing this myself with help of [http://sabelo.tripod.com/dictionary.htm](http://sabelo.tripod.com/dictionary.htm){.http}]{.comment style="display:none"}
+
+:::: {.highlight .python}
+::: {.codearea dir="ltr" lang="en"}
+``` {#CA-0c9aabc890e5d5ca5f08ee5577270ead3a9de246 dir="ltr" lang="en"}
+   1 # Python 3.0/3.1
+   2 igama = 'Mnuzana Mandela'
+   3 
+   4 def bulisa(igama):
+   5     print("Mohlo, {0}.".format(igama))
+   6     return 'Salakakule'
+   7 
+   8 bulisa(igama)
+```
+:::
+::::
+
+[CategoryLanguage](CategoryLanguage)
+:::::

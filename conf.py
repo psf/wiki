@@ -15,7 +15,12 @@ extensions = [
 ]
 
 templates_path = ["_templates"]
-exclude_patterns = ["_build", "_raw", "scripts", ".github", "Thumbs.db", ".DS_Store", "venv", ".venv"]
+exclude_patterns = [
+    "_build", "_raw", "scripts", ".github", ".claude",
+    "Thumbs.db", ".DS_Store", "venv", ".venv",
+    "node_modules", "uv.lock", "pyproject.toml", "Makefile",
+    "**/_attachments",
+]
 
 source_suffix = {
     ".rst": "restructuredtext",
@@ -36,7 +41,6 @@ myst_enable_extensions = [
     "replacements",
     "smartquotes",
     "strikethrough",
-    "substitution",
     "tasklist",
 ]
 myst_heading_anchors = 3
@@ -46,6 +50,8 @@ suppress_warnings = [
     "myst.header",
     "myst.xref_missing",
     "myst.directive_unknown",
+    "myst.substitution",
+    "toc.not_readable",
     "misc.highlighting_failure",
     "image.not_readable",
     "toc.not_included",
@@ -66,7 +72,7 @@ html_show_sourcelink = False
 
 html_theme_options = {
     "accent_color": "blue",
-    "github_url": "https://github.com/psf/wiki",
+    "github_url": "https://github.com/JacobCoffee/wiki",
     "nav_links": [
         {"title": "Python Wiki", "url": "python/index"},
         {"title": "PSF Wiki", "url": "psf/index"},

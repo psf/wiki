@@ -26,24 +26,36 @@ from bs4 import BeautifulSoup
 
 WIKIS = ["python", "psf", "jython"]
 
-# MoinMoin meta-pages to exclude from all wikis
+# MoinMoin meta-pages to exclude from all wikis (English + translated variants)
 META_PAGES = {
-    "FindPage",
-    "RecentChanges",
-    "WordIndex",
-    "WortIndex",
-    "TitleIndex",
-    "OrdRegister",
-    "OrdListe",
-    "AbandonedPages",
-    "OrphanedPages",
-    "EventStats",
-    "PageSize",
-    "PageHits",
-    "InterWiki",
-    "SystemInfo",
-    "WikiSandBox",
-    "SystemPagesInEnglishGroup",
+    # English
+    "FindPage", "RecentChanges", "WordIndex", "TitleIndex",
+    "AbandonedPages", "OrphanedPages", "EventStats", "PageSize", "PageHits",
+    "InterWiki", "SystemInfo", "WikiSandBox", "SystemPagesInEnglishGroup",
+    "WantedPages", "DesiredPages",
+    # German
+    "WortIndex", "AufgegebeneSeiten", "GesuchteSeiten",
+    # Scandinavian
+    "OrdRegister", "OrdListe", "EfterladteSider",
+}
+
+# MoinMoin meta-page prefixes (match encoded filenames starting with these)
+META_PREFIXES_ENCODED = {
+    "HelpOn",
+    "HilfeZu",
+    "HilfeZum",
+    "SystemPagesIn",
+    # Translated meta pages (encoded filenames)
+    "(c396)vergivnaSidor",  # ÖvergivnaSidor
+    "(c396)nskadeSidor",    # ÖnskadeSidor
+    "(c398)nskedeSider",    # ØnskedeSider
+    "SideStørrelse",
+    "SidStorlek",
+    "SeitenGr",             # SeitenGröße
+    "SeitenZugriffe",
+    "TitelIndex",
+    "KategorieKategorie",
+    "SidStørrelse",
 }
 
 # PSF wiki restricted pages (behind htpasswd auth, not public)
@@ -324,8 +336,8 @@ def convert_wiki(wiki_name: str, raw_dir: Path, out_dir: Path) -> None:
     excluded = 0
     for html_file in html_files:
         stem = html_file.stem
-        # Skip MoinMoin meta pages
-        if stem in META_PAGES:
+        # Skip MoinMoin meta pages (exact match or prefix match)
+        if stem in META_PAGES or any(stem.startswith(p) for p in META_PREFIXES_ENCODED):
             excluded += 1
             continue
         # Skip PSF restricted pages

@@ -1,0 +1,33 @@
+# WikiCourse
+
+```{toctree}
+:maxdepth: 1
+
+01 What is a MoinMoin wiki_
+02 Finding information
+03 Staying up to date
+04 Creating a wiki account
+05 User preferences
+06 Your own wiki homepage
+07 The text editor
+08 Hot Keys
+10 Text layout with wiki markup
+11 Paragraphs
+12 Headlines
+13 Lists
+14 Text styles
+15 Tables
+16 Wiki internal links
+17 External links
+18 Attachments
+19 Symbols
+20 Dynamic content
+21 Macros
+22 Parsers
+23 Actions
+30 The graphical editor
+40 Creating more pages
+50 Wiki etiquette
+51 Applications
+52 Structure in the wiki
+```

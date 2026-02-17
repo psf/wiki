@@ -1,0 +1,7 @@
+# FormEncode
+
+::: {#content dir="ltr" lang="en"}
+FormEncode is a validation and form generation package. The validation can be used separately from the form generation. The validation works on compound data structures, with all parts being nestable. It is separate from HTTP or any other input mechanism.
+
+- Website: [http://formencode.org](http://formencode.org){.http}
+:::
