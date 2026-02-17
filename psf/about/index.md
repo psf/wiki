@@ -3,7 +3,6 @@
 ```{toctree}
 :maxdepth: 1
 
-MarcAndreLemburg/index
 CodeOfConduct
 Contents
 Example PSF Workgroup Charter
