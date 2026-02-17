@@ -147,8 +147,12 @@ def extract_content(html_path: Path) -> tuple[str, str]:
         tag.decompose()
     for tag in content_div.find_all("div", id="pagebottom"):
         tag.decompose()
+    # Remove inline table of contents (Shibuya sidebar handles this)
+    for tag in content_div.find_all("div", class_="table-of-contents"):
+        tag.decompose()
 
-    return title, str(content_div)
+    # Return inner HTML only (not the <div id="content"> wrapper)
+    return title, content_div.decode_contents()
 
 
 def html_to_markdown(html_content: str) -> str:
@@ -245,8 +249,16 @@ def convert_file(
     markdown = html_to_markdown(html_content)
     markdown = fix_links(markdown, wiki_name, filename_map)
 
-    # Prepend title
-    markdown = f"# {title}\n\n{markdown}"
+    # Prepend title and import notice
+    import_notice = (
+        "```{admonition} Legacy Wiki Page\n"
+        ":class: note\n\n"
+        "This page was migrated from the old MoinMoin-based wiki. "
+        "Information may be outdated or no longer applicable. "
+        "For current documentation, see [python.org](https://www.python.org).\n"
+        "```\n\n"
+    )
+    markdown = f"# {title}\n\n{import_notice}{markdown}"
 
     # Determine output path
     new_name = filename_map.get(html_file.name, html_file.stem)
@@ -329,27 +341,37 @@ def convert_wiki(wiki_name: str, raw_dir: Path, out_dir: Path) -> None:
     print("  Building filename map...")
     filename_map = build_filename_map(raw_dir, wiki_name)
 
-    # Pass 2: Convert each file (with exclusions)
-    print("  Converting HTML -> Markdown...")
-    converted = 0
-    skipped = 0
+    # Pass 2: Filter files, then convert in parallel
+    print("  Filtering...")
+    files_to_convert = []
     excluded = 0
     for html_file in html_files:
         stem = html_file.stem
-        # Skip MoinMoin meta pages (exact match or prefix match)
         if stem in META_PAGES or any(stem.startswith(p) for p in META_PREFIXES_ENCODED):
             excluded += 1
             continue
-        # Skip PSF restricted pages
         if wiki_name == "psf":
             if stem in PSF_RESTRICTED_STEMS or any(stem.startswith(p) for p in PSF_RESTRICTED_PREFIXES):
                 excluded += 1
                 continue
-        result = convert_file(html_file, wiki_name, wiki_out, filename_map)
-        if result:
-            converted += 1
-        else:
-            skipped += 1
+        files_to_convert.append(html_file)
+
+    print(f"  Converting {len(files_to_convert)} files ({excluded} excluded)...")
+    converted = 0
+    skipped = 0
+    import os
+    workers = os.cpu_count() or 4
+    with ProcessPoolExecutor(max_workers=workers) as executor:
+        futures = {
+            executor.submit(convert_file, f, wiki_name, wiki_out, filename_map): f
+            for f in files_to_convert
+        }
+        for future in as_completed(futures):
+            result = future.result()
+            if result:
+                converted += 1
+            else:
+                skipped += 1
 
     print(f"  Converted: {converted}, Skipped: {skipped}, Excluded: {excluded}")
 
