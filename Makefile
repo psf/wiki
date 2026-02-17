@@ -26,7 +26,7 @@ docs: docs-clean ## Build Sphinx documentation
 	$(UV) run sphinx-build -b html . _build/html -j auto --keep-going
 
 docs-serve: ## Serve docs with live reload
-	$(UV) run sphinx-autobuild . _build/html -j auto --port 8001
+	$(UV) run sphinx-autobuild . _build/html -j auto --port 0
 
 docs-clean: ## Clean built documentation
 	rm -rf _build
