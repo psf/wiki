@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Grig Gheorghiu
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Grig Gheorghiu 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+\* organizer of the [So Cal Piggies Python Interest Group](http://socal-piggies.org)
 
-You can email me at annapoornima.koppad.in at ieee.org.
-
-Email: bangalore at pyladies dot com
+\...
 
 ------------------------------------------------------------------------
 

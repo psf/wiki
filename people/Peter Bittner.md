@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Peter Bittner
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Peter Bittner 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+- [http://twitter.com/peterbittner](http://twitter.com/peterbittner)
 
-You can email me at annapoornima.koppad.in at ieee.org.
+## Python projects I\'m contributing to 
 
-Email: bangalore at pyladies dot com
+- [http://pyjs.org](http://pyjs.org) Pyjamas: a Python to [JavaScript](./JavaScript.html) translator, and RIA framework as a port of GWT
 
 ------------------------------------------------------------------------
 

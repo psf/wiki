@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Katie McLaughlin
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,23 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+# Katie McLaughlin ✨ 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+👋
 
-You can email me at annapoornima.koppad.in at ieee.org.
+PSF Contributing Member since 2016
 
-Email: bangalore at pyladies dot com
+PSF Supporting Member since 2018
+
+PSF Director 2018 -
+
+PSF Fellow 2018
+
+PyCon AU 2018/19 Chair
+
+\@glasnt, in all the places
+
+✨
 
 ------------------------------------------------------------------------
 

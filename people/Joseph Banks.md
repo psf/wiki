@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Joseph Banks
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+# JosephBanks 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Email: `<joseph AT SPAMFREE josephbanks DOT me>`
 
-You can email me at annapoornima.koppad.in at ieee.org.
+- Owner of [Python Discord](https://pythondiscord.com/).
 
-Email: bangalore at pyladies dot com
+GitHub: [jb3](https://github.com/jb3)
+
+Twitter: [\@JoeBanksDev](https://twitter.com/JoeBanksDev)
 
 ------------------------------------------------------------------------
 

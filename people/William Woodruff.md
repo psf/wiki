@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# William Woodruff
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,14 +6,14 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## WilliamWoodruff 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+bpo: yossarian
 
-You can email me at annapoornima.koppad.in at ieee.org.
+[GitHub](./GitHub.html): woodruffw
 
-Email: bangalore at pyladies dot com
+Email: william AT yossarian DOT net
 
 ------------------------------------------------------------------------
 
-[CategoryHomepage](CategoryHomepage)
+[CategoryHomepage](CategoryHomepage) [CategoryHomepage](CategoryHomepage)

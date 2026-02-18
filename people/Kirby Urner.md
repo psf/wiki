@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Kirby Urner
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Kirby Urner 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Email: `<urnerk@python.org>`
 
-You can email me at annapoornima.koppad.in at ieee.org.
-
-Email: bangalore at pyladies dot com
+Maintains [edu-sig page](http://www.python.org/sigs/edu-sig) at python.org
 
 ------------------------------------------------------------------------
 

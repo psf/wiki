@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Luis de la Orden
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,14 +6,16 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## LuisdelaOrden 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Luis de la Orden Mendoza ![B)](/wiki/europython/img/smile2.png "B)")
 
-You can email me at annapoornima.koppad.in at ieee.org.
+From Spain.
 
-Email: bangalore at pyladies dot com
+Email: `<luis AT SPAMFREE delaorden DOT info>`
+
+Editing [OutOfPrintBooks](../archive/OutOfPrintBooks)
 
 ------------------------------------------------------------------------
 
-[CategoryHomepage](CategoryHomepage)
+[CategoryHomepage](CategoryHomepage) [CategoryHomepage](CategoryHomepage)

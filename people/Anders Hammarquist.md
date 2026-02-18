@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Anders Hammarquist
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Anders Hammarquist 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+I suppose I should write various interesting bits about myself here. Perhaps I\'ll fill it in some other day.
 
-You can email me at annapoornima.koppad.in at ieee.org.
+Email: `<iko AT SPAMFREE cd DOT chalmers DOT se>`
 
-Email: bangalore at pyladies dot com
+\...
 
 ------------------------------------------------------------------------
 

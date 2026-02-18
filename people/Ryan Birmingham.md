@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Ryan Birmingham
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+# Ryan Birmingham 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Email: `<birm@rbirm.us>`
 
-You can email me at annapoornima.koppad.in at ieee.org.
+Articles that I\'ll move elsewhere in the wiki before too long:
 
-Email: bangalore at pyladies dot com
+(feel free to edit/comment, of course)
+
+[Primer for Arcitectural Patterns](../archive/primer_arch_patterns)
+
+\...
 
 ------------------------------------------------------------------------
 

@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Shae Erisson
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+geez I have too many Wiki pages! [ShaeErisson](http://c2.com/cgi/wiki?ShaeErisson "Wiki") also on haskell-wiki, #python-wiki, too many wikis.
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
-
-You can email me at annapoornima.koppad.in at ieee.org.
-
-Email: bangalore at pyladies dot com
+I\'m shapr on the #python channel of irc.openprojects.net
 
 ------------------------------------------------------------------------
 

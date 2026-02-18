@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Umit Kaan Usta
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+# UmitKaanUsta 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Email: [u.kaanusta@gmail.com](mailto:u.kaanusta@gmail.com)
 
-You can email me at annapoornima.koppad.in at ieee.org.
+[GitHub](./GitHub.html): [https://github.com/umitkaanusta](https://github.com/umitkaanusta)
 
-Email: bangalore at pyladies dot com
+[LinkedIn](./LinkedIn.html): [https://www.linkedin.com/in/%C3%BCmit-kaan-usta-98491318a/](https://www.linkedin.com/in/ümit-kaan-usta-98491318a/)
+
+\...
 
 ------------------------------------------------------------------------
 

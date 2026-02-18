@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Anirudh Asokan
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Anirudh Asokan 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Heya !! Im Anirudh, im a student, found in Bangalore. Do drop in at my [homepage](http://www.anirudh.ind.in) for more info.
 
-You can email me at annapoornima.koppad.in at ieee.org.
+Email: `<mails AT SPAMFREE anirudh DOT ind DOT in>` Homepage : [www.anirudh.ind.in](http://www.anirudh.ind.in)
 
-Email: bangalore at pyladies dot com
+\...
 
 ------------------------------------------------------------------------
 

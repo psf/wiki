@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Giles Thomas
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Giles Thomas 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Founder, [PythonAnywhere](http://www.pythonanywhere.com/), a Python platform-as-a-service and browser-based development environment.
 
-You can email me at annapoornima.koppad.in at ieee.org.
+Previously ran Resolver Systems.
 
-Email: bangalore at pyladies dot com
+Email: `<giles@giles.net>`
+
+Website: [gilesthomas.com](http://www.gilesthomas.com/)
 
 ------------------------------------------------------------------------
 

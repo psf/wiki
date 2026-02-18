@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Chankey Pathak
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Chankey Pathak 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Email: [chankey@cpan.org](mailto:chankey@cpan.org)
 
-You can email me at annapoornima.koppad.in at ieee.org.
+\...
 
-Email: bangalore at pyladies dot com
+# About 
+
+Chankey Pathak is a Python developer from India. Chankey is well known for improving Perl community in India and is now leading the Indian Python Community.
 
 ------------------------------------------------------------------------
 

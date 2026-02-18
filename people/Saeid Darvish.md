@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Saeid Darvish
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Saeid Darvishghazvini 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Software engineer by day, anime connoisseur by night. My superpower? Understanding machines better than humans!
 
-You can email me at annapoornima.koppad.in at ieee.org.
+**Home page:** [saeiddrv.com](https://saeiddrv.com)
 
-Email: bangalore at pyladies dot com
+### Publications 
+
+**Python in Persian** [pythonpersian.com](https://pythonpersian.com), SINCE 2015
 
 ------------------------------------------------------------------------
 

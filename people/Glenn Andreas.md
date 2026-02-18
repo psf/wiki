@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Glenn Andreas
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,14 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+Glenn Andreas is the author of the Python IDEs [/ScrIDE](./GlennAndreas(2f)ScrIDE.html), Widgetarium (an IDE for creating Tiger Dashboard Widgets), and quadrium (an art, texture, fractal creation, explorer, animation tool)\
+\
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
-
-You can email me at annapoornima.koppad.in at ieee.org.
-
-Email: bangalore at pyladies dot com
+::: {}
+  ---------- -----------
+  Location   Minnesota
+  ---------- -----------
+:::
 
 ------------------------------------------------------------------------
 

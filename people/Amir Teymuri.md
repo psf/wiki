@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Amir Teymuri
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Amir Teymuri 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+Email: [ateymuri63@gmail.com](mailto:ateymuri63@gmail.com)
 
-You can email me at annapoornima.koppad.in at ieee.org.
+## About 
 
-Email: bangalore at pyladies dot com
+## Modules 
+
+[https://kodou.readthedocs.io/](https://kodou.readthedocs.io/)
 
 ------------------------------------------------------------------------
 

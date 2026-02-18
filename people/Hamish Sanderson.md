@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Hamish Sanderson
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+(a.k.a. \'HAS\') Lazy, arrogant, unreliable and burnt-out.
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+See also:
 
-You can email me at annapoornima.koppad.in at ieee.org.
+\* [/AppscriptModule](./HamishSanderson(2f)AppscriptModule.html)
 
-Email: bangalore at pyladies dot com
+\* [http://freespace.virgin.net/hamish.sanderson/](http://freespace.virgin.net/hamish.sanderson/)
 
 ------------------------------------------------------------------------
 

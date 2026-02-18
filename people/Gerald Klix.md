@@ -1,4 +1,4 @@
-# Annapoornima Koppad
+# Gerald Klix
 
 ```{admonition} Legacy Wiki Page
 :class: note
@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Annapoornima Koppad,
+## Gerald Klix 
 
-I am the founder of Pyladies Bangalore, and one of the eleven directors of Python Software Foundation.
+My name is Gerald Klix. I am an old fart of a`^H^H^H^H^H^H^H^H` senior python programmer.
 
-You can email me at annapoornima.koppad.in at ieee.org.
+You can find my [resume](http://www.gulp.de/Resume/311264.html) at [gulp.de](http://www.gulp.de).
 
-Email: bangalore at pyladies dot com
+Email: `<Gerald.klix AT klix DOT SwIsS(ch!)>`
 
 ------------------------------------------------------------------------
 
