@@ -14,7 +14,7 @@ Related information:
 
 - [March 2013 ballot with the original text that the membership voted on](http://psf2013.election.name/evote/default/results/40)
 
-- [PSF Bylaws WG](../working-groups/BylawsWG) - work group to convert the model description into bylaws changes
+- [PSF Bylaws WG](../working-groups/Bylaws) - work group to convert the model description into bylaws changes
 
 Version history:
 

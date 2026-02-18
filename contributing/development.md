@@ -19,7 +19,7 @@ The wiki has ~3,500 pages total, so building everything takes a while. You almos
 make docs-serve-fast WIKI=psf
 
 ## A single subsection (~100 pages, a few seconds)
-make docs-serve-fast WIKI=psf SECTION=PackagingWG
+make docs-serve-fast WIKI=psf SECTION=Packaging
 
 ## The full Python wiki (~3,400 pages)
 make docs-serve-fast WIKI=python

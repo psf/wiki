@@ -132,7 +132,7 @@ If you find any potential security vulnerabilities, please [follow our published
 
 ### Our next steps 
 
-Once we fix all the urgent bugs we find, we\'ll remove the \"beta\" badge for each feature. Then we expect to move on to working on further security, accessibility, and internationalization tasks per [the Warehouse roadmap](https://wiki.python.org/psf/WarehouseRoadmap)). Thanks to the Open Technology Fund for funding this work. More progress reports at [the Packaging Working Group\'s wiki page](https://wiki.python.org/psf/PackagingWG).
+Once we fix all the urgent bugs we find, we\'ll remove the \"beta\" badge for each feature. Then we expect to move on to working on further security, accessibility, and internationalization tasks per [the Warehouse roadmap](https://wiki.python.org/psf/WarehouseRoadmap)). Thanks to the Open Technology Fund for funding this work. More progress reports at [the Packaging Working Group\'s wiki page](https://wiki.python.org/psf/Packaging).
 
 ### Contact us 
 

@@ -14,7 +14,7 @@ The [Fundable Packaging Improvements repository](https://github.com/psf/fundable
 
 2.  are fairly well-scoped
 
-3.  would happen much faster if the [Packaging Working Group](../working-groups/PackagingWG) got funding to achieve them (through [donations](http://donate.pypi.org/) or grants/directed gifts)
+3.  would happen much faster if the [Packaging Working Group](../working-groups/Packaging) got funding to achieve them (through [donations](http://donate.pypi.org/) or grants/directed gifts)
 
 That list [was previously on this wiki page](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements?action=info) and has now been moved [to GitHub](https://github.com/psf/fundable-packaging-improvements).
 

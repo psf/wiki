@@ -37,13 +37,13 @@ The existing members that nominated new members for PSF membership (or the board
 
 The list of currently active committees is at [http://www.python.org/psf/committees/](http://www.python.org/psf/committees/) and below:
 
-- [Bylaws WG](../working-groups/BylawsWG)
-- [Cuban Pythonistas WG](../working-groups/PythonCubaWG)
-- [Scientific Python WG](../working-groups/ScientificWG)
-- [International Sponsorship Bundle WG](../working-groups/SponsorshipBundleWG)
-- [Grant WG](../working-groups/GrantsWG)
-- [Education WG](../working-groups/PythonEduWG)
-- [Marketing WG](../working-groups/MarketingWG)
+- [Bylaws WG](../working-groups/Bylaws)
+- [Cuban Pythonistas WG](../working-groups/Python Cuba)
+- [Scientific Python WG](../working-groups/Scientific)
+- [International Sponsorship Bundle WG](../working-groups/Sponsorship Bundle)
+- [Grant WG](../working-groups/Grants)
+- [Education WG](../working-groups/Python Edu)
+- [Marketing WG](../working-groups/Marketing)
 :::
 
 ::: 

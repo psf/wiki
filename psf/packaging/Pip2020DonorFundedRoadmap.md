@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Roadmap for pip resolver and UX work in 2020 
 
-Thanks to [the Chan Zuckerberg Initiative](https://chanzuckerberg.com/eoss/proposals/improving-user-experience-and-debuggability-of-pip-for-all-python-users/) and [Mozilla\'s Open Source Support program](https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html), the [PackagingWG](../working-groups/PackagingWG) is receiving funding to [finish pip\'s dependency resolver](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip) and [improve pip\'s user experience](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Improve_pip_user_experience).
+Thanks to [the Chan Zuckerberg Initiative](https://chanzuckerberg.com/eoss/proposals/improving-user-experience-and-debuggability-of-pip-for-all-python-users/) and [Mozilla\'s Open Source Support program](https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html), the [PackagingWG](../working-groups/Packaging) is receiving funding to [finish pip\'s dependency resolver](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip) and [improve pip\'s user experience](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Improve_pip_user_experience).
 
 ### Key people 
 

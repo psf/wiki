@@ -40,7 +40,7 @@ make docs-serve-fast WIKI=python
 
 ```bash
 ## Just the Packaging WG pages (~113 pages, builds in seconds)
-make docs-serve-fast WIKI=psf SECTION=PackagingWG
+make docs-serve-fast WIKI=psf SECTION=Packaging
 
 ## Just the Advocacy section
 make docs-serve-fast WIKI=python SECTION=Advocacy

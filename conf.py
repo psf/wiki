@@ -46,7 +46,7 @@ exclude_patterns = [
 
 # Allow building a single wiki section or subsection:
 #   WIKI=psf                       - build only the PSF wiki
-#   WIKI=psf SECTION=PackagingWG   - build only psf/PackagingWG
+#   WIKI=psf SECTION=Packaging     - build only psf/Packaging
 #   WIKI=python SECTION=Advocacy   - build only python/Advocacy
 _wiki_only = os.environ.get("WIKI")
 if _wiki_only:
