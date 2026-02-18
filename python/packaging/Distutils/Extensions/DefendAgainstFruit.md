@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Vision 
+## Vision 
 
 [Defend Against Fruit](http://teamfruit.github.io/defend_against_fruit/) is focused on providing a pragmatic, continuous deployment style build system for Python. Current Python build systems do not properly account for the needs of effective continuous deployment. This package extends the Python tooling to add the missing pieces.
 
@@ -18,7 +18,7 @@ With an eye to agile development principles and [fast-feedback](https://github.c
 
 For in-depth documentation with lots of pretty diagrams, [take a look at the wiki](https://github.com/teamfruit/defend_against_fruit/wiki).
 
-# Authors 
+## Authors 
 
 The majority of Defend Against Fruit has been co-developed by [James Carpenter](http://www.linkedin.com/in/jamescarpenter1) and [Matthew Tardiff](http://www.linkedin.com/in/matthewtardiff), but many others provided considerable assistance.
 

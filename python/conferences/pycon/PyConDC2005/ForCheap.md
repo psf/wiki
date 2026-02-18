@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyCon DC 2005 For Cheap 
+## PyCon DC 2005 For Cheap 
 
 See also [PyConDC2005/Accommodation](Accommodation).
 
-### Register Early 
+#### Register Early 
 
 Registration prices are \$50 cheaper in advance than at the door.
 
-### Save On Meals 
+#### Save On Meals 
 
 The conference serves a continental breakfast from 8-9 every morning, and a lunch. There are a number of restaurant choices near by; consult [PyConDC2005/NearbyRestaurants](NearbyRestaurants)\] for a list.
 
-### Hotels 
+#### Hotels 
 
 If you\'re looking to keep hotel prices low, you can stay at a hotel out in the burbs and take advantage of the [metro system](http://www.wmata.com/metrorail/default.cfm).
 
@@ -38,13 +38,13 @@ I got Marriott Washington Westend at \$63 plus tax from Priceline (Foggy bottom 
 
 Check out this Google Maps search for [motels, arlington va](http://maps.google.com/maps?q=motels%2C%20arlington%20va). I found one that was \$89/night.
 
-### Hostels 
+#### Hostels 
 
 (For the budget-conscious, who know they aren\'t going to be spending much time in their hotel anyway.)
 
 Beds at the [Washington International Student Center](http://www.washingtondchostel.com/) go for \$22/night, and there\'s at least one private room for \$55/night. Breakfast & kitchen facilities included. It\'s located in the Adams-Morgan area (\"on the hippest street in town\"), near the Dupont Circle metro station, about 3 km (2 miles) from [PyCon](../PyCon) (GWU). Open to anyone, not just for students.
 
-### Flights 
+#### Flights 
 
 [National Airport (DCA)](http://www.mwaa.com/national/index.htm) is on the metro system but is usually the most expensive.
 
@@ -54,7 +54,7 @@ Beds at the [Washington International Student Center](http://www.washingtondchos
 
 Getting to the DC Metro System from BWI: You can take the Marc train[http://www.bwiairport.com/4grndtrn/in_mrct.shtml](http://www.bwiairport.com/4grndtrn/in_mrct.shtml) from BWI to Union Station to catch the metro or you can take the Metro Express Bus [http://www.bwiairport.com/4grndtrn/in_mb.shtml](http://www.bwiairport.com/4grndtrn/in_mb.shtml) which will take you to the Greenbelt metro station.
 
-### Other Transportation 
+#### Other Transportation 
 
 The conference is close to Metro (subway). If you\'re taking the train, [Union Station](http://www.unionstationdc.com/) is on the metro system. Amtrak stops there. Union Station is a quick train ride from the conference site, much easier than the airports. Amtrak is often similar price to flying, but depending on the length of the trip, can be much easier and more pleasant.
 
@@ -62,19 +62,19 @@ Consider 1-day or 7-day [Metrorail Passes](http://www.wmata.com/riding/passes.cf
 
 Visit the [Metrorail Stations](http://www.wmata.com/metrorail/stations.cfm) page and click on your starting station (e.g., Vienna / GMU) to calculate fares and determine whether or not a pass is worthwhile.
 
-### Parking 
+#### Parking 
 
 See [http://cafritz.gwu.edu/cafritz.php?id=1929&site=cafritz](http://cafritz.gwu.edu/cafritz.php?id=1929&site=cafritz) - a full day of parking is \$13. This is downtown DC, you won\'t easily find a better deal. Street parking is all metered with a 2 hour limit. When the garage is full, there\'s another one one block to the west with similar rates.
 
 Don\'t park illegally - DC police \*will\* ticket or tow you. The no-parking signs are very confusing but worth careful reading. Also avoid the faculty parking lots.
 
-## Sharing Advertisements 
+### Sharing Advertisements 
 
 Add your offers/requests of transportation and accommodation to this page.
 
-### Transportation 
+#### Transportation 
 
-### Shared Accommodation 
+#### Shared Accommodation 
 
 ------------------------------------------------------------------------
 

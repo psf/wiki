@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sprinting 
+## Sprinting 
 
 The BoulderSprint is a regular activity of the [FrontRangePythoneers](../community/FrontRangePythoneers). We held six sprints in 2007, and we hope to do this or better in 2008. If you are interested in holding a sprint with us, please contact FRP leader Jim Baker (jbaker AT zyasoft DOT com).
 
@@ -14,17 +14,17 @@ For more information about sprints in general, read the [SprintIntroduction](../
 
 Sprints have both short-term and long-term value. If you attend a sprint, you are going to get an immediate and immersive introduction to an opensource codebase. It\'s quite possible that code you write that day will get accepted immediately into the project, via its trunk or a branch. And then there is the long-term payoff, where the sprint leads into a longer journey. The newcompiler project for Jython 2.5 (sprints Jan 6, Feb 3, Aug 4) was merged into trunk on Jan 7, 2008, and is part of two students\' master and dissertation research respectively. The modern branch (expected to be merged in soon) generated some interest for Django on Jython, and soon perhaps ipython on Jython too (also due to another local Pythoneer) (sprints Sept 14-15; Dec 1); the Boulder-Oracle branch was merged April 19 into the Django trunk for its Oracle support (sprint Nov 4, 2006). (Fill in more long-term stories.)
 
-# Previous Sprints 
+## Previous Sprints 
 
 (Fill in details for the last 3 sprints.)
 
-## TurboGears World-Wide Sprint: Jan 12-13, 2007 
+### TurboGears World-Wide Sprint: Jan 12-13, 2007 
 
-## Django World-Wide Sprint: Dec 1, 2007 
+### Django World-Wide Sprint: Dec 1, 2007 
 
-## Django World-Wide Sprint: Sept 14-15, 2007 
+### Django World-Wide Sprint: Sept 14-15, 2007 
 
-## Jython Sprint: Aug 4, 2007 
+### Jython Sprint: Aug 4, 2007 
 
 - Date/time: August 4, 2007 (Saturday), 9 AM - 5:30 PM. Time Zone: Americas/Denver (MDT)
 
@@ -59,7 +59,7 @@ Sprints have both short-term and long-term value. If you attend a sprint, you ar
 
   12. Philip Jenvey
 
-### IPython on Jython 
+#### IPython on Jython 
 
 For the Jython sprint on Aug 4, there\'s strong interest in getting IPython working on jython. Jython\'s ability to explore the large and complex ecosystem that is Java is one reason it\'s such a great tool. In particular, I (Jim Baker) like using Jython on Jython, as well as to explore functionality we are in the process of adding. It\'s much better to use an object shell than the alternatives (mostly painful).
 
@@ -71,7 +71,7 @@ But IPython is a much better object shell, as we know in using it to explore Dja
 - Late-breaking Homework
   1.  Grab the source for the sprint branch through svn: svn co [https://jython.svn.sourceforge.net/svnroot/jython/branches/august-boulder-sprint](https://jython.svn.sourceforge.net/svnroot/jython/branches/august-boulder-sprint) jython
 
-### Jython 2.5 
+#### Jython 2.5 
 
 The upcoming Jython 2.2 release represents a huge milestone for the Jython community, but in the next step we want to catch up on 2.5 (or even 2.6) features. The principal reason is to enlarge the community: as long as there\'s such a lagging between CPython and Jython, it means that supporting even core packages is shouldered by Jython implementers instead of being shared across the Python community. In addition, certain 2.5 functionality addresses portability concerns. Resource Allocation is Initialization (RAII), as enabled by the with-statement, makes it much easier to do the right thing and have deterministic resource destruction instead of relying on reference counting doing this implicitly, but creating an incompatibility with non-refcounting GC as is the case with Java/Jython. 2.6\'s Class decorators and function annotations, in addition to 2.5\'s function decorators and 2.2\'s import hooking, make it possible for Jython to consume and produce annotation metadata and type signatures.
 
@@ -79,7 +79,7 @@ Two of our Google Summer of Code students have confirmed their participation, Da
 
 - Homework. To be filled in shortly.
 
-## IPython1 Sprint 
+### IPython1 Sprint 
 
 - Date/time: April 28, 2007 (Saturday), 9 AM - 6 PM
 
@@ -103,14 +103,14 @@ This shouldn\'t take more than an hour or two, and will ensure we all have a bas
 
 In addition, Fernando plans to use Mercurial for distributed version control during the sprint, so you should install and familiarize yourself with that software if time permits.
 
-## Jython Sprints 
+### Jython Sprints 
 
 - January 6, 2007 (Saturday), 9 AM - 6 PM
 - February 3, 2007 (Saturday), 9 AM - 6 PM
 
 Update Jython. [Brian Zimmer\'s proposal](http://wiki.python.org/jython/MovingJythonForward) is an useful outline of what needs to be done technically. Perhaps even more importantly, there are some key engineering challenges to be addressed to ensure overall project success. Because of the scope of the work, we are looking at this as preliminary to [a 4-day sprint at PyCon](http://us.pycon.org/TX2007/Sprints). More here at [JythonSprint](JythonSprint).
 
-## Participants 
+### Participants 
 
 1.  Eric Dobbs
 2.  Bill Simons
@@ -118,7 +118,7 @@ Update Jython. [Brian Zimmer\'s proposal](http://wiki.python.org/jython/MovingJy
 4.  Kip Lehman
 5.  Jim Baker
 
-## Django-Oracle Project 
+### Django-Oracle Project 
 
 November 4, 2006 (Saturday), 9 AM - 6 PM
 
@@ -128,11 +128,11 @@ UPDATE: Thanks to the hard work of Ian Kelly, this code is basically complete. W
 
 Specifically, we would like to build on the good work already done by the Django community to produce a single patch that can be applied to current subversion sources, enabling Django\'s ORM to pass basic tests against an Oracle database. The current patches available have Oracle-specific conditional tests in many locations; we will try to confine such code to the django.db.backends.oracle package.
 
-## References 
+### References 
 
 The bug report stipulating Oracle support by Django version 1.0 is here: [http://code.djangoproject.com/ticket/1990](http://code.djangoproject.com/ticket/1990)
 
-## Preliminary Tasks 
+### Preliminary Tasks 
 
 (Many of these are refinements and performance improvements that we won\'t get to, since we\'re focused only on correct behavior right now. But several of us reviewed the code and didn\'t want to lose any feedback. After the sprint, we will enter the outstanding issues in [the Django project Trac](http://code.djangoproject.com/newticket).)
 
@@ -186,7 +186,7 @@ The bug report stipulating Oracle support by Django version 1.0 is here: [http:/
 
 - Add more Monty Python references to the code.
 
-## Participants 
+### Participants 
 
 1.  Jim Baker
 2.  Matt Boersma, Aries, the man with the plan
@@ -198,10 +198,10 @@ The bug report stipulating Oracle support by Django version 1.0 is here: [http:/
 8.  Malcolm Tredinnick (working remotely from Sydney \-- with the flu, no less!)
 9.  Mitchell W. Smith, Virgo, schwag coordinator
 
-## Post Sprint Party 
+### Post Sprint Party 
 
 Some of us are planning to go to the [Cuban Connection fundraiser](http://www.bouldercuba.org/), 6 PM - 1 AM, St. Julien Hotel (our favorite meeting place for [FrontRangePythoneers](../community/FrontRangePythoneers)). In addition to raising money for a good cause, this will be a chance to stretch our weary coding muscles while dancing salsa to Quemando and Havana NRG.
 
-## Photo Stream 
+### Photo Stream 
 
 - Nov 4, 2006 [Photos](http://www.flickr.com/search/?w=all&q=bouldersprint)

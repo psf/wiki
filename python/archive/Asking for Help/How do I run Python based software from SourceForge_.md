@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How do I run Python based software from SourceForge? 
+## How do I run Python based software from SourceForge? 
 
 There isn\'t a straightforward answer to this question because projects on SourceForge often provide software both in source form as well as in binary (executable) form. Consider the MySQL for Python [packages](http://sourceforge.net/project/showfiles.php?group_id=22307), available via the \"Download\" link on the [project page](http://sourceforge.net/projects/mysql-python/): in this case, you\'ll choose `mysql-python`{.backtick} and be presented with a [list of files](http://sourceforge.net/project/showfiles.php?group_id=22307&package_id=15775) (under \"Filename\").
 

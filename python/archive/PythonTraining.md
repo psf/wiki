@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Training 
+## Python Training 
 
 **If you are seeking upcoming open-to-the-public training events, check out the [PythonTraining/Events](PythonTraining/Events) page.**
 
-## Adding entries 
+### Adding entries 
 
 If you want to add information to this page and find that it is immutable, please sign up to the wiki and see the [FrontPage#use](FrontPage#use) for details on how to get editing permissions.
 
 The sections tends to be ordered by \"time since last person edited it\" or by event date in the case of upcoming public courses. As such, entries towards the top will cycle slowly towards the bottom of the section over time. If you\'re offering an upcoming class or have updated your entry, it\'s fine to bump it back to the top, but be considerate of others and use some common sense. Entries with dead links may be removed.
 
-### Formatting of Entries 
+#### Formatting of Entries 
 
 Please use the following format when adding entries to the wiki text version of the page:
 
@@ -30,7 +30,7 @@ Please *avoid excessive emphasis* and *keep the entries short* to give everyone 
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") Entries which are too long will be flagged as such from time to time to gently make the authors aware.
 
-## USA 
+### USA 
 
 \* **[Marilyn Davis, Ph.D.](http://www.pythontrainer.com)** Marilyn specializes in Python training in corporate environments in the Silicon Valley, and anywhere, either through [UCSC-Extension](http://www.ucsc-extension.edu/), where students earn University credit, or independently. She has taught Python at Apple, Cisco, Facebook, Google, Intuit, LLNL, NASA, Nokia, Oracle, Plantronics, Skype, VMware, and more.
 
@@ -186,7 +186,7 @@ Please *avoid excessive emphasis* and *keep the entries short* to give everyone 
 
 - **[GreyCampus](http://www.greycampus.com/django-unchained-with-python-training-instructor-led)** is a Dallas based training provider of Python.
 
-## Canada 
+### Canada 
 
 - **[Python Training Courses by Bernd Klein](http://www.python-training-courses.com)**: Open enrolment training courses in Toronto.
 
@@ -202,7 +202,7 @@ Please *avoid excessive emphasis* and *keep the entries short* to give everyone 
 
 \* **[Web Age Solutions](https://www.webagesolutions.com/)** offers instructor-led and virtual [Python training](https://www.webagesolutions.com/courses/python-training) in US and Canada. Our current offerings include [Introduction to Python Programming](https://www.webagesolutions.com/courses/TP1758-introduction-to-python-programming) and [Advanced Python Programming](https://www.webagesolutions.com/courses/TTPS4850-advanced-python-programming). Web Age Solutions also provides customized training as per the needs of the organizations.
 
-## Europe 
+### Europe 
 
 - **[Volodymyr Obrizan, Ph.D.](https://www.linkedin.com/in/obrizan/)** offers training on [Python + Selenium: Test Automation of Web Applications](https://first.institute/uk/education/selenium-python) for beginners (remotely, in Ukrainian, English, Russian).
 
@@ -353,13 +353,13 @@ Please *avoid excessive emphasis* and *keep the entries short* to give everyone 
 
   - [Machine Learning (ML) with Python](https://www.hco.de/leistungen/maschinelles-lernen-ml-mit-python-beratung-coaching-workshop-training)
 
-## Australia 
+### Australia 
 
 - **[Python Charmers](http://pythoncharmers.com)** specializes in Python training for scientists and engineers in the Asia-Pacific region, based in Melbourne and Singapore. The principal trainer is Dr Edward Schofield. Ed is a well-known contributor in the [NumPy](../science/NumPy) and [SciPy](SciPy) communities; he was the release manager for five releases of [SciPy](SciPy) in 2005-6 and the author of the maximum entropy and parts of the sparse matrix module. He has 20 years of experience in programming, teaching, and public speaking, including 9 years of experience with Python. Ed holds a PhD in statistical pattern recognition from Imperial College London and an MA in mathematics and computer science from Cambridge University. He and Python Charmers\' other topic specialists are available to travel globally. [More info](http://pythoncharmers.com/training).
 
 - **Peter Lovett** of [Plus Plus](http://www.plusplus.com.au/) offers [Introductory](http://www.plusplus.com.au/prodpy.htm), [Intermediate](http://www.plusplus.com.au/prodpyi.htm) and [Advanced](http://www.plusplus.com.au/prodpya.htm) level Python courses (as well as other languages). He is an accomplished trainer, running computer programming courses since 1985, in C, C++, Perl, Python, Java and XML around Australia, New Zealand and England, and is available for travel. As well as being highly accomplished technically, Peter is also highly effective at communicating, and gets glowing reviews for his courses.
 
-## Latin America 
+### Latin America 
 
 - **[Facundo Batista](http://www.taniquetil.com.ar/facundo/cursoPython.html)** teaches introduction and advanced courses of Python to different types of organization (universities, schools, enterprises) in Argentina and other locations.
 
@@ -371,7 +371,7 @@ Please *avoid excessive emphasis* and *keep the entries short* to give everyone 
 
 - **[Menttes](http://www.menttes.com)** A free software company, offers high quality Python, Zope and Plone development, consulting, coaching and training. The directors are [Roberto Allende](http://robertoallende.com), member of [Plone Foundation](http://plone.org) and Emanuel Sartor. Both are co-founders of [Plone Cono Sur](http://plone.org/countries/conosur).
 
-## India 
+### India 
 
 - **[Kiran Chandra Chitmalla](http://www.indiatrainings.in/technology/python/)** conducts online & classroom training classes for Graduate students in various python frameworks. [KiranChandra](./KiranChandra.html) has got 6 years experience in the field of python data structures, algorithms and networking. He Currently Runs [IndiaTrainings](http://www.indiatrainings.in/) as a platform for improving career oppurtunities for graduates by **[training python in hyderabad, Telangana](http://www.indiatrainings.in/technology/python/).**
 
@@ -387,11 +387,11 @@ Please *avoid excessive emphasis* and *keep the entries short* to give everyone 
 
 - [Noufal Ibrahim](https://thelycaeum.in/) **is the founder of \"[PyCon](../conferences/pycon/PyCon) India\" and has been using Python since 2002. He offers corporate training, campus workshops, public classes and mentors fresh engineering graduates to help them find jobs via his company [Lycaeum](https://thelycaeum.in) based in Kozhikode, Kerala.**
 
-## Iran 
+### Iran 
 
 - [GoToClass.ir](http://gotoclass.ir) offers online traning for Persian Speakers, this time we offer free online python course for biginners, this course is a ***[\"Introduction to programming using python\"](http://gotoclass.ir/courses/آموزش-پایتون/)***, [JADI](http://jadi.net) teach you all that need to start programming in python in a interactive course, by sign up in this course you have access to videos, documents, assessments, quizes, exams and a discusion for being in touch with our teacher and classmates. if you are a persion speaker and you need to start programming using Python, don\'t miss this course.
 
-## Israel 
+### Israel 
 
 - **[Yoav Ram, PhD](http://python.yoavram.com)** offers training in USA and Israel with focus on numerical, scientific, and statistical applications, including web application and user interfaces. To enhance participant learning, all course material is fully interactive, using Jupyter notebooks, and all lectures include hands-on exercises. Yoav is a postdoc at Stanford University, earned his PhD from Tel-Aviv University, working with Python since 2002, training and teaching Scientific Python since 2011, including [NumPy](../science/NumPy), [SciPy](SciPy), Matplotlib, Jupyter, Pandas, Seaborn, Cython, scikit-image, scikit-learn, [TensorFlow](./TensorFlow.html), Flask, Click, Tk. Experience with both small and enterprise companies.
 
@@ -401,7 +401,7 @@ Please *avoid excessive emphasis* and *keep the entries short* to give everyone 
 
 - **[Ram Rachum, Python Workshops](http://pythonworkshops.co)** Hi! My name is Ram Rachum, and I\'ve been working with Python since 2009. As an escape from my life of corporate imprisonment, I like to give workshops in which I teach basic and advanced Python usage. I usually teach teams of 10-20 developers / QA people / database people. Sometimes companies bring me to teach experienced programmers who need to up their Python game, and sometimes complete beginners who have never programmed before and want to get started with Python. Email me at [ram@rachum.com](mailto:ram@rachum.com) so we could talk about what kind of workshop would be the best for your team. Thanks! ([Hebrew website](http://pythonworkshops.co.il).)
 
-## Malaysia 
+### Malaysia 
 
 - [R. Ramesh Kumar](mailto:rameshkumar@techdynamics.com.my) **provides Python classes through his company [Tech Dynamics](http://www.techdynamics.com.my). Primarily a developer, he has a passion for teaching and sharing his knowledge and experience. Ramesh also teaches other programming languages, and Linux/Unix courses.**
 
@@ -409,25 +409,25 @@ Please *avoid excessive emphasis* and *keep the entries short* to give everyone 
 
 - [Low Kian Seong](mailto:kianseong@gmail.com) **conducts beginner, intermediate and advanced Python courses in Malaysia under his own company Squid Consulting and Integration affectionately known as [SqCI](http://www.sqci.biz). He has been using Python since 2000 starting from Zope ending up in Django and have been deploying projects in MNCs all around the country.**
 
-## Nigeria 
+### Nigeria 
 
 - **[http://www.ascomt.com](http://www.ascomt.com)** ASCOMT NIGERIA offers training and consulting for Python in Nigeria and the rest of Africa for small and large companies with focus on numerical, scientific, and statistical applications, including data mining and artificial intelligence. Our training service include [NumPy](../science/NumPy), [SciPy](SciPy), Matplotlib, Pandas, Seaborn, Scikit-learn, and other popular Python packages. Our consulting service include offering innovative, value driven solutions that help clients manage and analyse data. For further information please visit our websites -- [http://www.ascomt.com/](http://www.ascomt.com/).
 
 - [NanoEdge](https://nanoedgeng.com) **offers Python training in Nigeria, with a focus on essential digital skills for beginners. [NanoEdge](./NanoEdge.html) provides comprehensive, beginner-friendly Python programming courses, designed to equip learners with the skills necessary to succeed in the tech industry. The courses emphasize practical, real-world applications and aim to make Python accessible and engaging for newcomers to the field.**
 
-## Singapore 
+### Singapore 
 
 - [Python Charmers](http://pythoncharmers.com) **specializes in Python training for scientists and engineers in the Asia-Pacific region, based in Melbourne and Singapore. The principal trainer is Dr Edward Schofield. Ed is a well-known contributor in the [NumPy](../science/NumPy) and [SciPy](SciPy) communities; he was the release manager for five releases of [SciPy](SciPy) in 2005-6 and the author of the maximum entropy and parts of the sparse matrix module. He has 20 years of experience in programming, teaching, and public speaking, including 9 years of experience with Python. Ed holds a PhD in statistical pattern recognition from Imperial College London and an MA in mathematics and computer science from Cambridge University. He and Python Charmers\' other topic specialists are available to travel globally. [More info](http://pythoncharmers.com/training).**
 
-## New Zealand 
+### New Zealand 
 
 - Peter Lovett **of [Plus Plus](http://www.plusplus.com.au/) offers [Introductory](http://www.plusplus.com.au/prodpy.htm), [Intermediate](http://www.plusplus.com.au/prodpyi.htm) and [Advanced](http://www.plusplus.com.au/prodpya.htm) level Python courses (as well as other languages). He is an accomplished trainer, running computer programming courses since 1985, in C, C++, Perl, Python, Java and XML. Although based in Sydney, Australia, he regularly travels to New Zealand, and is available for training. As well as being highly accomplished technically, Peter is also highly effective at communicating, and gets glowing reviews for his courses.**
 
-## Turkey 
+### Turkey 
 
 - [Hakan Ozen](http://hakanozen.com) **is available for teaching Python.**
 
-## Internet - Python Online Training 
+### Internet - Python Online Training 
 
 \* **[Marilyn Davis, Ph.D.](http://www.pythontrainer.com)** Marilyn specializes in Python training in corporate environments in the Silicon Valley, and anywhere, either through [UCSC-Extension](http://www.ucsc-extension.edu/), where students earn University credit, or independently. She has taught Python at Apple, Cisco, Facebook, Google, Intuit, LLNL, NASA, Nokia, Oracle, Plantronics, Skype, VMware, and more.
 

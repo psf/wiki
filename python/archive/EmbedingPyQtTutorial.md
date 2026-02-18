@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Oleksandr Yakovlyev\'s Embeding PyQt Tutorial 
+## Oleksandr Yakovlyev\'s Embeding PyQt Tutorial 
 
 This is a short tutorial to embed your Qt application in [PyQt](../gui/PyQt) . It assumes knowledge of bash, Python, Qt+[PyQt](../gui/PyQt) and sip.
 
-## Hybrid Application? 
+### Hybrid Application? 
 
 One day I discovered that it can be really great to use [PyQt](../gui/PyQt) scripts in a Qt application. It assumes that such Hybrid application can have two \"branches\" - c++ code and python code working together, exchange signals between two these branches, of course possibility to create new objects with python/pyqt and connect signal/slots beetween two parts of the application (Qt and [PyQt](../gui/PyQt)), well between Qt objects and [PyQt](../gui/PyQt) objects. Well, even more, with Python you can create new classes in runtime, and \... this is almost magic, these new clases/objects will work together with C++(Qt) part of application.
 
@@ -23,7 +23,7 @@ Usually Qt application does not have any critical code in main.cpp so it can not
 
 The application code compiles into shared library. Let\'s try it with Qt example (examples/application)
 
-### application.h
+#### application.h
 
 - #ifndef APPLICATION_H 
       #define APPLICATION_H 
@@ -69,7 +69,7 @@ The application code compiles into shared library. Let\'s try it with Qt example
 
 Here I have added signal void runScript(const QString&)
 
-### application.cpp
+#### application.cpp
 
 - #include "application.h"
 
@@ -103,7 +103,7 @@ I added a toolbutton \"Run Script\". Text of script is content of QTextEdit (edi
 
 Now we can create pro file. Remember that our qt application is shared library now.
 
-### application.pro
+#### application.pro
 
 - TEMPLATE        = lib
       CONFIG          += qt warn_on release
@@ -121,7 +121,7 @@ Now we can create pro file. Remember that our qt application is shared library n
 
 So, we have compiliable small qt application with editor and button \"Run Script\". Let us to make wrapping for the application. We create dir \"coreappwrap\" where we put wrapping generated with sip. Now we create sip file for our wrappings:
 
-### coreapp.sip
+#### coreapp.sip
 
 - %Module coreappwrap 0
 
@@ -157,7 +157,7 @@ Note, that we use #include \"../application.h\" because sip generates files to c
 
 Now we create configure.py according to [Phil Thompson manual](http://www.river-bank.demon.co.uk/docs/sip/sipref.html#a-simple-c-example)
 
-### configure.py
+#### configure.py
 
 - import os
       import sipconfig
@@ -231,7 +231,7 @@ It creates coreappwrap/coreappwrap.so. It is python module.
 
 At the end we need to write main.py to run it all
 
-### main.py
+#### main.py
 
 - import sys
 

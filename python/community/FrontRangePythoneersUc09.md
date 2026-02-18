@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# FRUncon 09: Front Range Pythoneers Unconference 2009 
+## FRUncon 09: Front Range Pythoneers Unconference 2009 
 
 We\'re planning a Python Unconference. Date: October 10, 2009, all day Saturday. We will be following up with code sprints on Sunday the 11th.
 
@@ -14,7 +14,7 @@ To learn more about unconferences, click [here](http://en.wikipedia.org/wiki/Unc
 
 Note that an unconference assumes participation by a majority of the attendees. The more you put into it, the more you\'ll get out. Please feel free to edit this page if you\'d like to contribute.
 
-## Dates & Locations 
+### Dates & Locations 
 
 Day 1 Unconference Sat Oct 10
 
@@ -24,17 +24,17 @@ Day 2 [CodeJam](./CodeJam.html) Sun Oct 11
 
 - Bivio Software, 2701 Iris, Suite S, Boulder.
 
-## Social networking 
+### Social networking 
 
 Proposed Twitter hashtag: #fruncon09
 
 (Registered: [http://tagal.us/tag/fruncon09](http://tagal.us/tag/fruncon09) )
 
-## Day 1 (The Unconference) 
+### Day 1 (The Unconference) 
 
 The unconference will be an event where everyone is welcome be part of the actual conference other then just be an attendee. All are welcome to give a speech and/or presentation about Python or the tools that you use with your Python. If you\'re not sure what to talk about, there are a few ideas below, or if you would like to hear someone talk about something, please feel free to add to the list.
 
-### Bios 
+#### Bios 
 
 - Greg Holling, unconference unorganizer, is an independent consultant, mentor, and trainer based in Lakewood CO. You can reach him at 303-274-9001, or greg (at) holling-co.com.
 
@@ -52,7 +52,7 @@ The unconference will be an event where everyone is welcome be part of the actua
 
 - Steve Rogers lives in Lyons and works for Seagate. He\'s a language junkie, but finds that Python hits a sweat spot for many projects.
 
-### What would you like to talk about? 
+#### What would you like to talk about? 
 
 - (Note that many topics will come up \*at\* the conference)
 
@@ -78,7 +78,7 @@ The unconference will be an event where everyone is welcome be part of the actua
 
 - Flappserver \-- the Foolscap Application Server: a convenient, secure \"remote button\" [http://foolscap.lothar.com/docs/flappserver.html](http://foolscap.lothar.com/docs/flappserver.html)
 
-### What would you like to learn about? 
+#### What would you like to learn about? 
 
 - Introduction to Python
 
@@ -109,7 +109,7 @@ The unconference will be an event where everyone is welcome be part of the actua
 
 - Vtrace
 
-### What would you like to do to help out with the conference? 
+#### What would you like to do to help out with the conference? 
 
 - Greg Holling: Conference organizer
 - Nick Verbeck: Got us into Google\'s Offices, whatever else needs to be done
@@ -118,19 +118,19 @@ The unconference will be an event where everyone is welcome be part of the actua
 
 *I think this section could use a list of needed tasks/help/contributions. Not everyone knows what sort of help is needed.*
 
-### RSVP 
+#### RSVP 
 
 If you are wishing to attend the unconfrence. We do ask that if you would please RSVP on the Meetup site @ [http://www.meetup.com/frpythoneers/calendar/11167624/](http://www.meetup.com/frpythoneers/calendar/11167624/)
 
 This will help use in getting started the day of the event as well as planning for everything. Including food and drink.
 
-## Day 2 (CodeJaming) 
+### Day 2 (CodeJaming) 
 
-### TurboGears 
+#### TurboGears 
 
 In the morning I\'d like to run this:
 
-#### Relational Database Applications NOW! with TurboGears 
+##### Relational Database Applications NOW! with TurboGears 
 
 This tutorial is intended to be an un-tutorial. The idea is simple. Bring me a public database, (or 4) and share with the class as we explore the new admin-level RESTful features that [TurboGears2](./TurboGears2.html) employs.
 
@@ -140,11 +140,11 @@ I will ask the students to do some prep-work. For those who would like to share 
 
 We will then split up into teams of people working on similar database systems.
 
-##### Intro Talk 
+###### Intro Talk 
 
 A 10 minute talk to introduce myself and describe what SA and TG2 aim to do for relational databases. I will also discuss goals for the tutorial.
 
-##### Part I 
+###### Part I 
 
 The goal of part one is to break the ice with everyone, getting them into groups and getting the first database interactions happening.
 
@@ -156,7 +156,7 @@ The goal of part one is to break the ice with everyone, getting them into groups
   - We will discuss the different options sqlautocode provides, and take a look at the output it produces.
 - Set up TG2 and Quickstart a new App. (20 mins)
 
-##### Part II 
+###### Part II 
 
 The goal of part 2 is to integrate the work done in Part I and explore the ways we can put the turbogears admin and sprox to good use.
 
@@ -177,11 +177,11 @@ The goal of part 2 is to integrate the work done in Part I and explore the ways 
 
   - as needed (60 minutes)
 
-##### Bonus 
+###### Bonus 
 
 If we need extra filler at the end (not likely), or, if people want to meet after the afternoon session, I will have a mini-tutorial for [BootAlchemy](./BootAlchemy.html). [BootAlchemy](./BootAlchemy.html) allows people to load Yaml files directly into a relational database.
 
-##### Requirements 
+###### Requirements 
 
 Laptop with Python 2.5 or 2.6 installed. Database system of your choice (Postgres, Sqlite, MySQL) Python drivers for your desired database system installed. (psychopg2, pg8000, pysqlite, mysql-python)
 

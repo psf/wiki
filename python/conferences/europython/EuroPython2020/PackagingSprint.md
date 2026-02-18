@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python packaging sprint at EuroPython 2020 
+## Python packaging sprint at EuroPython 2020 
 
 We welcome package maintainers, backend and frontend web developers, infrastructure administrators, technical writers, and testers to join us at sprints to help us make the new PyPI, and [the entire packaging/distribution toolchain](https://packaging.python.org/key_projects/#pypa-projects), as usable and robust as possible.
 
@@ -16,17 +16,17 @@ Or, if you just want to learn to **use** the tools to package your scripts up an
 
 Newcomers are welcome \-- we\'ll help you learn and contribute!
 
-## Register 
+### Register 
 
 You\'ll need to [register and get a free ticket](https://ep2020.europython.eu/events/sprints/) ahead of time.
 
 You should probably register by July 20th or so - no registration deadline has yet been announced.
 
-## Dates 
+### Dates 
 
 This sprint will happen during the [EuroPython](../EuroPython) weekend: Saturday & Sunday July 25 & 26, online.
 
-## Participants 
+### Participants 
 
 **Attending**:
 
@@ -37,7 +37,7 @@ This sprint will happen during the [EuroPython](../EuroPython) weekend: Saturday
 - Felipe Rodrigues
 - \[add your name here!\]
 
-## Working on 
+### Working on 
 
 - bandersnatch: getting the next release out
 
@@ -51,11 +51,11 @@ This sprint will happen during the [EuroPython](../EuroPython) weekend: Saturday
 
 - test [the new pip dependency resolver](https://github.com/pypa/pip/issues/988)
 
-## Discussion 
+### Discussion 
 
 [https://discuss.python.org/t/europython-online-sprint-july-25-26/4300](https://discuss.python.org/t/europython-online-sprint-july-25-26/4300)
 
-## Tutorials/resources 
+### Tutorials/resources 
 
 1.  If you don\'t know git: [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/)
 

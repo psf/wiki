@@ -10,13 +10,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html?action=print&media=projection) [\^](WikiCourse) \|\< \<\< Slide 1 of 27 [\>\>](./WikiCourse(2f)02(20)Finding(20)information.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# What is a wiki? 
+## What is a wiki? 
 
 A wiki (also called WikiWiki or WikiWikiWeb) is a collection of websites, which not only can be read, but can also be edited by the users directly and simply. *wikiwiki* is Hawaiian and means \"fast\".
 
 The first WikiWikiWeb was developed and put into operation by Ward Cunningham in 1995. The idea of editable content in the World Wide Web dates from the original ideas of the inventor of the World Wide Web, Tim Berners-Lee.
 
-## The wiki-way 
+### The wiki-way 
 
 - open and cooperative: on many sites, everyone may change everything.
 
@@ -30,7 +30,7 @@ The first WikiWikiWeb was developed and put into operation by Ward Cunningham in
 
 - flexible: in a wiki you can save many kinds of information, e. g. training courses, transparency lectures and brainstorming.
 
-# What is MoinMoin? 
+## What is MoinMoin? 
 
 [MoinMoin](MoinMoin) is software to run a wiki.
 

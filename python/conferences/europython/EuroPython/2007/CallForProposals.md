@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007: Call for Proposals 
+## EuroPython 2007: Call for Proposals 
 
 Book Monday 9th July to Wednesday 11th July 2007 in your calendar! [EuroPython](..) 2007, the European Python and Zope Conference, will be held in Vilnius, Lithuania. Last year\'s conference was a great success, featuring a variety of tracks, amazing lightning talks and inspiring keynotes. With your participation, we want to make [EuroPython](..) 2007, the sixth [EuroPython](..), even more successful than the previous five.
 
-## Talks, Papers and Themes 
+### Talks, Papers and Themes 
 
 This year we have decided to borrow a few good ideas from [PyCon](../../../pycon/PyCon), one of which is to move away from the \'track\' structure. Instead, speakers are invited to submit presentations about anything they have done that they think would be of interest to the Python community. We will then arrange them into related groups and schedule them in the space available. In the past, [EuroPython](..) participants have found the following themes to be of interest:
 
@@ -26,7 +26,7 @@ In addition to talks, we will also accept full paper submissions about any of th
 
 **The deadline for talk proposals is Friday 18th May at midnight (24:00 CEST, Central European Summer Time, UTC+2).**
 
-## Other ways to participate 
+### Other ways to participate 
 
 Apart from giving talks, there are plenty of other ways to participate in the conference. Just attending and talking to people you find here can be satisfying enough, but there are three other kinds of activity you may wish to plan for: Lightning Talks, Open Space and Sprints. Lightning Talks are very short talks that give you just enough time to introduce a topic or project, Open Space is an area reserved for informal discussions, and Sprints are focused gatherings for developers interested in particular projects. For more information please see the following pages:
 
@@ -36,7 +36,7 @@ Apart from giving talks, there are plenty of other ways to participate in the co
 
 - Sprints: [http://www.europython.org/sections/sprints_and_wiki](http://www.europython.org/sections/sprints_and_wiki)
 
-## Your Contribution 
+### Your Contribution 
 
 To propose a talk or a paper, go to\...
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Rationale 
+## Rationale 
 
 The ability to uninstall packages installed by the install command is a long-time waited feature for distutils/setuptools. This document describe the design and features of such a facility.
 
@@ -18,7 +18,7 @@ What should be the behavior of an uninstall command ?
 - setuptools: should be able to remove eggs, deal with .pth.
 - easy_install: may remove the dependencies (ala apt-get autoremove).
 
-# distutils command 
+## distutils command 
 
 Problems to solve:
 
@@ -28,11 +28,11 @@ Problems to solve:
 
 Possible solutions:
 
-## How to record the files installed 
+### How to record the files installed 
 
 use the same facility as install \--record to record the list of files to remove
 
-## Where to put the generated list 
+### Where to put the generated list 
 
 The list itself should be put in .egg-info (since it is built by both distutils and setuptools install command). The problem is how to get access to this list when several packages are installed (e.g. different site-packages, user vs system package, etc\...). Several possible solutions:
 
@@ -48,20 +48,20 @@ Maybe another useful features:
 
 - should be possible to avoid generating the record file (for OS distributors ?), although I am not sure whether this is useful. The rationale would be to avoid removing a system-wide package by accident. On OS with proper user protection, it won\'t be possible to do anything, and on windows, it is no worse than removing by rd-like commands, and requires the same effort.
 
-# setuptools command 
+## setuptools command 
 
 - should deal with eggs, versions ?
 - ability to remove a specified version
 
-# easy_install command 
+## easy_install command 
 
 - based on setuptools uninstall
 
-# Central management for packages 
+## Central management for packages 
 
 A nice solution may be for python to have a centralized system to record installed packages. But how to deal with user python vs system python ? Putting some info into \$HOME or equivalent cannot accomodate multiple python interpreters installed by users; putting them into a location \'owned\' by the python interpreter is not usable when the python is system wide. More than likely to be hard to agree on implementation.
 
-# References 
+## References 
 
 See:
 

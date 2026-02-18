@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Jython Roadmap 
+## Jython Roadmap 
 
-## Position Now 
+### Position Now 
 
 (Least edited February 2013.)
 
 - v2.5.3 is current.
 
-## Current Plan 
+### Current Plan 
 
 (Least edited February 2013: Needs more detail.)
 
@@ -23,11 +23,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - v2.7 is the main focus of current work. A beta is imminent (February 2013).
 - v3.x (3.3 probably) is under consideration.
 
-## Who is doing what? 
+### Who is doing what? 
 
 - [Bug fixes](http://bugs.jython.org): anyone
 
-### Towards v2.7 
+#### Towards v2.7 
 
 - math module: Oti
 
@@ -41,15 +41,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - `bytearray`{.backtick}, buffer API and a partial `memoryview`{.backtick}: Jeff
 
-### Towards v3.3 
+#### Towards v3.3 
 
 - Use of Java 7 `invokedynamic`{.backtick}: Jim?
 
-## Scraps of former plans 
+### Scraps of former plans 
 
 When the page bore a roadmap was for v2.6, this material was in it. Some of it is still accurate for v2.7, some is probably complete now, and some is no longer relevant. Those who know which is which are able to improve the roadmap!
 
-### 2.6.0 
+#### 2.6.0 
 
 - Upgrade to Python 2.6 language and builtins, along with a substantial subset of the stdlib
 
@@ -67,7 +67,7 @@ When the page bore a roadmap was for v2.6, this material was in it. Some of it i
   - can start utilizing jsr199 (the Java compiler API) for certain things (mostly for unittests I believe)
   - Other things..
 
-### 2.6.? (TBD) 
+#### 2.6.? (TBD) 
 
 - unicodedata
 
@@ -83,7 +83,7 @@ When the page bore a roadmap was for v2.6, this material was in it. Some of it i
 
 - Performance improvements
 
-### Future? 
+#### Future? 
 
 - [ctypes module](http://docs.python.org/whatsnew/modules.html#SECTION0001410000000000000000)
 

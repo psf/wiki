@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Games 
+## Python Games 
 
 See also: [GameProgramming](../multimedia/GameProgramming)
 
-## Resources 
+### Resources 
 
 - [pygame.org](http://pygame.org/) - home of the [PyGame](../multimedia/PyGame) module and a portal with links to lots of Python games
 
 - [PyWeek](http://www.pyweek.org/) is a bi-annual programming challenge that produces several great games
 
-## Libraries 
+### Libraries 
 
 - [Harfang 3D](https://www.harfang3d.com/) - is a python framework for 2D, 3D and VR game development (other allowed languages are Lua and C++). It is little known, with poor documentation, but promising. Run on any supported platform. Example game demo [video](https://www.youtube.com/watch?v=sPNPPfVWqY8&t=1s) and [code](https://github.com/harfang3d/game-dogfight).
 
@@ -50,13 +50,13 @@ See also: [GameProgramming](../multimedia/GameProgramming)
 
 - [Free Python Games](http://www.grantjenks.com/docs/freegames/) - Free Python Games is an Apache2 licensed library and collection of free Python games intended for education and fun. Simplified versions of several classic arcade games are included.
 
-## Online Game Servers 
+### Online Game Servers 
 
 - [Evennia](http://evennia.com/) is a feature-liberal MUD codebase with Django and Twisted serving as the foundation.
 
 - [GrailMUD](http://code.google.com/p/grailmud/) is a MUD codebase with an emphasis on separation of logic and content.
 
-## Specific Games 
+### Specific Games 
 
 - [Battle Field 2 and 2142](http://battlefield.ea.com/battlefield/bf2142/) Is a strategy and first person shooter game that uses python for logic and server controls.
 

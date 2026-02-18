@@ -10,7 +10,7 @@ Python solutions and commentary for [Programming Challenges](http://www.programm
 
 **Index**
 
-# Problem 110101: The 3n + 1 problem 
+## Problem 110101: The 3n + 1 problem 
 
 [http://www.programming-challenges.com/pg.php?page=downloadproblem&probid=110101&format=html](http://www.programming-challenges.com/pg.php?page=downloadproblem&probid=110101&format=html)
 

@@ -12,7 +12,7 @@ This wiki page can be used to capture and discuss enhancements before putting th
 
 For now, put proposals forth here if you want to try and kick them around a bit and get some feedback before writing an official PEP.
 
-# Enhancement Proposals 
+## Enhancement Proposals 
 
 - [RangeGenerator](../people/RangeGenerator)
 
@@ -26,13 +26,13 @@ For now, put proposals forth here if you want to try and kick them around a bit 
 
 - [Python3UnicodeDecodeError](../py3/Python3UnicodeDecodeError)
 
-# About Using Wiki to Discuss Enhancement Proposals 
+## About Using Wiki to Discuss Enhancement Proposals 
 
 Thoughts here on moving the official discussion of Python Enhancements from email to wiki.
 
 See also [PEEPs](PEEPs).
 
-# Discussion of Completed PEPs 
+## Discussion of Completed PEPs 
 
 Once a PEP is complete, altering the document to capture ongoing community input has a very high bar. Here are some PEP \"rehash\" pages.
 

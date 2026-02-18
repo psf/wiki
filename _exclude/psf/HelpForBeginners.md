@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Help for Beginners 
+## Help for Beginners 
 
 A [WikiWikiWeb](WikiWikiWeb) is a collaborative hypertext environment, with an emphasis on easy access to and modification of information.
 

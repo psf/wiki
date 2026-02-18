@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Prioritize Warehouse & OTF work 
+## Prioritize Warehouse & OTF work 
 
 Meeting on Thursday, 29 August 2019
 
@@ -17,7 +17,7 @@ Attendees:
 - Ernest
 - Nicole
 
-## What can we actually finish by September 30th? And within remaining budget? 
+### What can we actually finish by September 30th? And within remaining budget? 
 
 **Imperative: Up to date Invoices to close month**
 
@@ -31,7 +31,7 @@ In scope?
 
   - Yes
 
-### Stopping work on security milestone 
+#### Stopping work on security milestone 
 
 Outside of OTF-scoped work: ToB intern will be working on security items (API tokens, events)
 
@@ -39,7 +39,7 @@ Sumana\'s OK with leaving this as beta and concentrating on accessibility and lo
 
 Sumana to announce WebAuthn & API tokens to Announce mailing list
 
-### Accessibility 
+#### Accessibility 
 
 [https://github.com/pypa/warehouse/milestone/15](https://github.com/pypa/warehouse/milestone/15)
 
@@ -48,7 +48,7 @@ Sumana to announce WebAuthn & API tokens to Announce mailing list
 
 We are confident we will complete this in Sept
 
-### Localization: how far can we get? 
+#### Localization: how far can we get? 
 
 [https://github.com/pypa/warehouse/milestone/14](https://github.com/pypa/warehouse/milestone/14) milestone
 
@@ -79,10 +79,10 @@ When can we start recruiting translators? mid-September?
 
 Suggestion: once we are set up with many localized messages on the translation platform, reach out to French community
 
-## Invoices 
+### Invoices 
 
 Let\'s aim to submit invoices on 1 September
 
-## To Do 
+### To Do 
 
 \* Ernest to reach out to Weblate

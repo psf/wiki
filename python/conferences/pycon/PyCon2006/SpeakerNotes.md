@@ -10,13 +10,13 @@ This page collects suggestions for speakers and presenters at [PyCon](../PyCon).
 
 There will be a panel discussion, \"Tips for Presenters\", at 6PM the evening before the conference begins (Thursday, February 23) in the Bent Tree III room. We encourage you to attend this panel to pick up some tips and tricks for improving your presentations.
 
-# The final version of your proposal 
+## The final version of your proposal 
 
 - [PyCon](../PyCon) does not have a published volume of proceedings, but the slides and other materials for talks are made available on-line. Therefore, be sure your presentation can be turned into a format suitable for online viewing. While PDF is permitted, HTML is better. Keep graphics reasonably sized for web access.
 
 - Finish preparing your slides and other materials before [PyCon](../PyCon), and upload it to [the conference submission system](http://submit.python.org). This gives the audience more information in choosing which talks to attend, and people can refer to the slides if they miss something during your talk.
 
-# A Presentation is not a Paper (Slide Sample) 
+## A Presentation is not a Paper (Slide Sample) 
 
 - The slides are primarily to support your talk
 - Slides should not be too \"busy\"
@@ -26,7 +26,7 @@ There will be a panel discussion, \"Tips for Presenters\", at 6PM the evening be
 - Only hit the most important points on the slides
   - Expand as you speak if there\'s audience interest
 
-# Presentation advice 
+## Presentation advice 
 
 - For a 30-minute slot, you have 25 minutes to talk plus 5 minutes for questions. 45-minute slots mean you have 40 minutes to talk and 5 minutes for questions. Time your talk accordingly.
 
@@ -39,7 +39,7 @@ There will be a panel discussion, \"Tips for Presenters\", at 6PM the evening be
 - If in doubt, err on the side of not talking long enough. It\'s better to have the audience thinking \"That talk left me wanting more. I need to go talk to the presenter/download the package/go to the BoF,\" than \"That talk stretched 15 minutes of material into an hour. What a waste of time.\"
 - Don\'t waste time on introductory material, e.g. explaining Python\'s syntax, explaining XML for fifteen slides.
 
-# Speaking Techniques 
+## Speaking Techniques 
 
 - If you are nervous, there\'s nothing wrong with admitting that
   - The information you present is your talk\'s primary value
@@ -67,7 +67,7 @@ There will be a panel discussion, \"Tips for Presenters\", at 6PM the evening be
 
 - During the Q&A portion of the talk, always repeat any questions that were asked without a microphone - otherwise many people in the audience won\'t hear the question.
 
-# Other resources 
+## Other resources 
 
 - [Conference Presentation Judo](http://perl.plover.com/yak/presentation/) \-- aimed at people giving three-hour tutorials, but many suggestions apply to shorter talks like those given at [PyCon](../PyCon).
 

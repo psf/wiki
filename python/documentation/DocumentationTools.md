@@ -17,7 +17,7 @@ See [here](../archive/API Extraction) for a longer explanation of the two concep
 
 Tools that generate documentation from user-provided input typically use plain text markup formats such as [reStructuredText](../archive/reStructuredText) (reST, the markup used for writing the official Python documentation) or [Markdown](http://daringfireball.net/projects/markdown/).
 
-## Python docstrings 
+### Python docstrings 
 
 Python modules are usually documented using docstrings. You can read a module\'s docstrings from the Python interactive prompt with the `help()`{.backtick} function. For example:
 
@@ -26,7 +26,7 @@ Python modules are usually documented using docstrings. You can read a module\'s
 
 The `help()`{.backtick} function uses Python\'s standard pydoc module, as does the `pydoc`{.backtick} command that comes with Python.
 
-## Automatic Python API documentation generation tools 
+### Automatic Python API documentation generation tools 
 
 - [autosummary](https://www.sphinx-doc.org/en/master/usage/extensions/autosummary.html), an extension for the Sphinx documentation tool.
 
@@ -42,7 +42,7 @@ The `help()`{.backtick} function uses Python\'s standard pydoc module, as does t
 
 - [Doxygen](http://www.doxygen.org) can create documentation in various formats (HTML, LaTeX, PDF, \...) and you can include formulas in your documentation (great for technical/mathematical software). Together with [Graphviz](http://graphviz.org/), it can create diagrams of your code (inhertance diagram, call graph, \...). Another benefit is that it handles not only Python, but also several other programming languages like C, C++, Java, etc.
 
-# No longer under development 
+## No longer under development 
 
 - Another [PythonDoc](./PythonDoc.html) - uses [JavaDoc](./JavaDoc.html)-style comments, and produces HTML and XML output. Can also be used as a library, producing [ElementTree](../people/ElementTree) descriptions of your source code. [http://effbot.org/zone/pythondoc.htm](http://effbot.org/zone/pythondoc.htm)
 
@@ -60,19 +60,19 @@ The `help()`{.backtick} function uses Python\'s standard pydoc module, as does t
 
 - Apydia, [http://apydia.ematia.de/](http://apydia.ematia.de/)
 
-## Documentation processing tools 
+### Documentation processing tools 
 
 - [DocUtils](DocUtils), [http://docutils.sourceforge.net/](http://docutils.sourceforge.net/) [reStructuredText](../archive/reStructuredText) processing engine
 
 - [Sphinx](Sphinx), [https://www.sphinx-doc.org/](https://www.sphinx-doc.org/) - converts reStructuredText documentation into various formats
 
-## Other projects that can be used to produce API documentation 
+### Other projects that can be used to produce API documentation 
 
 - [XIST](http://www.livinglogic.de/Python/xist/index.html) - an XML based extensible HTML generator written in Python.
 
 - [HtmlGen](http://starship.python.net/crew/friedrich/HTMLgen/html/main.html) - a Python library for generating HTML documents.
 
-## Other documentation processing tools 
+### Other documentation processing tools 
 
 - [Pandoc](http://johnmacfarlane.net/pandoc/) \-- written in Haskell, this tool can read and write a number of formats (including reST).
 

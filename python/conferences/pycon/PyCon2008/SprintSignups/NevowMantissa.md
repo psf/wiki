@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sign Up for a Sprint! 
+## Sign Up for a Sprint! 
 
 Are you interested in sprinting in this project? Great!
 
@@ -16,9 +16,9 @@ If you\'re not sure which project to join, you can register in the [generic spri
 
 See you at [PyCon](../../PyCon)!
 
-# Nevow/Mantissa 
+## Nevow/Mantissa 
 
-## Project Info 
+### Project Info 
 
 For the sprint, we are focusing efforts on improvements to the Twisted application server (Mantissa) and the templating Ajax/COMET engine (Nevow/Athena) for faster, easier, funner development.
 
@@ -48,7 +48,7 @@ In particular, we are preparing for a \"Mantissa Community Release\" with in-pro
 
 - #divmod on irc.freenode.org
 
-## Sprinters 
+### Sprinters 
 
 - Glyph Lefkowitz
 

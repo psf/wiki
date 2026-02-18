@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2018 Sprints 
+## EuroPython 2018 Sprints 
 
 Please add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2018/MySprint`{.backtick}.
 
@@ -27,7 +27,7 @@ Please add your sprint suggestion to the list below. If you intend to provide mo
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------ ------------------------------------------- ---------------------------------------------------------------------------------------------------------------
 :::
 
-## Sprint Locations 
+### Sprint Locations 
 
 The sprints will take place in the EICC.
 

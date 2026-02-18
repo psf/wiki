@@ -30,13 +30,13 @@ Where these pages really need help:
 
 [thanks to Doc for translations CBT 21SEP09]
 
-# Vithon 
+## Vithon 
 
 [Python cho người Việt.](http://www.vithon.org) - Nơi tập hợp những người dùng Python cho người Việt. Ở đây có nhiều tài liệu tiếng Việt, một diễn đàn, và một phòng chat.
 
-# Docs 
+## Docs 
 
-### Python Dạy Kèm 2.5 
+#### Python Dạy Kèm 2.5 
 
 Trang mạng [http://www.vithon.org](http://www.vithon.org) có bản dịch tiếng Việt của tài liệu này.
 
@@ -56,7 +56,7 @@ Trang mạng [http://www.vithon.org](http://www.vithon.org) có bản dịch ti�
 
 [http://forum.joomla.org/viewforum.php](http://forum.joomla.org/viewforum.php) --- Hệ quản lý nội dung Joomla có một số phần mở rộng tô sáng mã nguồn của các ngôn ngữ lập trình khác nhau, gồm có Python
 
-### Python trên điện thoại di động hay PDA 
+#### Python trên điện thoại di động hay PDA 
 
 [Symbian](http://pdaviet.net/forumdisplay.php?f=341) --- Ứng dụng Python cho s60v5 (Hệ Symbian) [http://www.ledmobile.net/diendan/ung-dung-chay-tren-nen-python-s60-3th/](http://www.ledmobile.net/diendan/ung-dung-chay-tren-nen-python-s60-3th/) --- Ứng dụng chạy trên nền Python s60v3 (Hệ Symbian)
 
@@ -64,7 +64,7 @@ Trang mạng [http://www.vithon.org](http://www.vithon.org) có bản dịch ti�
 
 [Ped v2.30.3](http://digifuns.net/forum/showthread.php?t=15569) --- Ped v2.30.3: Lập trình Python trên đi động
 
-### Blogs 
+#### Blogs 
 
 - [navaroiss](http://navaroiss.wordpress.com/2009/12/11/sorting-list-of-dictionaries/) - sorting a list of dictionaries - other entries on django and other topics
 

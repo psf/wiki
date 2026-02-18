@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Duties & Responsibilities of PSF Directors
+## Duties & Responsibilities of PSF Directors
 
 In general, Directors help to fulfill [the mission of the PSF](http://www.python.org/psf/mission); we take responsibility for moving Python and the PSF forward.
 
@@ -15,7 +15,7 @@ Check out the PSF\'s video titled Life as a Python Software Foundation Director:
 Please see [the minutes of the monthly Board of Directors meetings](http://www.python.org/psf/records/board/minutes) for specific actions, decisions, and reports given.
 
 ::: 
-### What are the responsibilities of board members?
+#### What are the responsibilities of board members?
 
 - Understand and help the PSF fulfill its mission. When necessary, help determine any changes or updates that need to happen to the mission.
 - Stay on top of communications (emails, blogs, reports) and engage in discussions
@@ -31,7 +31,7 @@ Please see [the minutes of the monthly Board of Directors meetings](http://www.p
 :::
 
 ::: 
-### How do Directors and Officers conduct business?
+#### How do Directors and Officers conduct business?
 
 - 90 minutes meetings, every other month, via conference call & Slack (note during crisis planning it can be monthly like during COVID-19)
 - an active mailing list and also our internal Slack channels
@@ -39,7 +39,7 @@ Please see [the minutes of the monthly Board of Directors meetings](http://www.p
 :::
 
 ::: 
-### What is the flow of meetings?
+#### What is the flow of meetings?
 
 > 1.  Introduction and Roll call
 > 2.  The PSF uses a [consent agenda](https://www.councilofnonprofits.org/sites/default/files/documents/a3e8abbfab7a4d088d56ba3e563c6c061.pdf) for actions that a consensus is made on prior to the board meeting.
@@ -48,7 +48,7 @@ Please see [the minutes of the monthly Board of Directors meetings](http://www.p
 :::
 
 ::: 
-### Additional items to know
+#### Additional items to know
 
 > 1.  The position of Director is unpaid, purely volunteer.
 > 2.  [Staff positions](https://www.python.org/psf/records/staff/) receive a salary.

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Python 2.4 added the `-m`{.backtick} option to execute modules as scripts ([Python documentation](https://docs.python.org/3/using/cmdline.html#cmdoption-m)). [PEP 338](https://www.python.org/dev/peps/pep-0338/), adopted in Python 2.5, adds the ability to execute modules in the search path.
 
-# Executable Standard Library Modules 
+## Executable Standard Library Modules 
 
 The following standard library modules work as command-line tools:
 
@@ -20,7 +20,7 @@ The following standard library modules work as command-line tools:
 
 - `python -m timeit -s 'import string' '"x" in string.lowercase'`{.backtick} - Run some setup code (`import string`{.backtick}), and then run test code many (1,000,000 times) to time execution of the code. ([full docs](https://docs.python.org/3/library/timeit.html))
 
-# Writing Executable Modules 
+## Writing Executable Modules 
 
 Here\'s a sample executable Python script:
 

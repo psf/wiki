@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Outreachy with Python 
+## Outreachy with Python 
 
 [Outreachy](https://www.gnome.org/outreachy/) is a program to help people from underrepresented communities get involved in free and open source software by providing paid internships and mentoring support. Python will not be participating in 2017-2018 due to lack of mentor and administrator availability.
 

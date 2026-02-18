@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Releases signed 
+## Releases signed 
 
 We can go ahead and proceed with editing these talks.
 
@@ -19,7 +19,7 @@ We can go ahead and proceed with editing these talks.
     Trac -- assigned -- edited
     Zope Tutorial
 
-# No release 
+## No release 
 
 We have audio for these talks, but not release forms. I\'ll write the authors and ask if they signed a release, wish to sign one now, or want the raw audio for their own talk.
 
@@ -27,7 +27,7 @@ We have audio for these talks, but not release forms. I\'ll write the authors an
 
 Topographica (possibly partial) Test Automation for a Complex System Some lightning talks }}}
 
-# Keynotes 
+## Keynotes 
 
 We have sizable chunks of the GvR, Krstic, and Lefkowitz keynotes; I haven\'t verified whether we actually have every minute of those talks.
 

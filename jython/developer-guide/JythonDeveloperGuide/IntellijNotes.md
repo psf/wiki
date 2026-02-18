@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Intellij project creation notes 
+## Intellij project creation notes 
 
 Jython is an Ant project. This makes it a bit difficult to import into Intellij IDEA. This step by step guide should help you to get started.
 
-## Prequisites 
+### Prequisites 
 
-### Software packages (outside Intellij) 
+#### Software packages (outside Intellij) 
 
 - ant
 
@@ -28,7 +28,7 @@ There is a free \"Community Edition\" of Intellij that might work (I\'m only uns
 
 Intellij offers free IDEA licenses for Open Source projects. Perhaps it might be a good idea to apply for them.
 
-### Intellij Plugins 
+#### Intellij Plugins 
 
 - Ant Support (Bundled)
 - Eclipse Integration (Bundled)
@@ -37,9 +37,9 @@ Intellij offers free IDEA licenses for Open Source projects. Perhaps it might be
 
 Of course there are many other useful plugins, but these four are essential for importing Jython into Intellij IDEA.
 
-## Steps 
+### Steps 
 
-### Make a clean checkout 
+#### Make a clean checkout 
 
 :::: 
 ::: 
@@ -49,7 +49,7 @@ Of course there are many other useful plugins, but these four are essential for 
 :::
 ::::
 
-### Remove Intellij files from jython 
+#### Remove Intellij files from jython 
 
 Unfortunately the Intellij project files in the jython source directory don\'t work (anymore?). We\'ll delete them. Later Intellij IDEA will create new ones for us.
 
@@ -74,7 +74,7 @@ Remove files:
 :::
 ::::
 
-### Run ant 
+#### Run ant 
 
 Run this in the jython source directory (if you made the previous step, you\'re already there):
 
@@ -86,7 +86,7 @@ Run this in the jython source directory (if you made the previous step, you\'re 
 :::
 ::::
 
-### Import jython as Eclipse-Project in Intellij IDEA 
+#### Import jython as Eclipse-Project in Intellij IDEA 
 
 Start Intellij IDEA. Close the last open project (if there\'s any), to get to the start screen.
 
@@ -114,7 +114,7 @@ Drag and drop the ant build.xml from the project window to the ant window. This 
 
 ![DragAndDropAnt.png](attachments/JythonDeveloperGuide(2f)IntellijNotes/DragAndDropAnt.png "DragAndDropAnt.png")
 
-### Configure SDKs 
+#### Configure SDKs 
 
 If you\'ve configured more than one SDK for Python oder Java in Intellij IDEA, you should open the *Project Structure* (Shortcut: Strg + Alt + Shift + s) and check that the right SDKs are used for Jython.
 
@@ -124,7 +124,7 @@ I think a JDK \>= 6 and CPython corresponting to the current Jython version (2.7
 
 ![ProjectStructureProjectSDK.jpg](attachments/JythonDeveloperGuide(2f)IntellijNotes/ProjectStructureProjectSDK.jpg "ProjectStructureProjectSDK.jpg")
 
-### InformixDataHandler and OracleDataHandler 
+#### InformixDataHandler and OracleDataHandler 
 
 The classes [InformixDataHandler](./InformixDataHandler.html) and [OracleDataHandler](./OracleDataHandler.html) depend on proprietary Jars. Downloading the Oracle odbc.jar for example requires a reqistration at Oracles Website.
 
@@ -132,11 +132,11 @@ If you just want to get your project running, delete both classes ([InformixData
 
 If you\'re going to work in the area of JDBC data handlers, figure from build.xml out which jars you\'ll need (one for Infromix and one for Oracle), download them and put them into the extlibs directory.
 
-### Make 
+#### Make 
 
 Build the project to see, if everything went well. For this either use *Build* \--\> *Make Project* in the menu or the shortcut Ctrl + F9.
 
-## What did we? 
+### What did we? 
 
 Speaking in Intellij jargon, we adopted the whole *Project Structure* (classpath, source and test directories, libaries) from the Eclipse project files. We could have done this manually, but this way was much easier and less error-prone.
 

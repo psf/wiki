@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Documentation 
+## Documentation 
 
 The official documentation landing page is [python.org/doc](https://www.python.org/doc/).
 
-## Reference Documentation 
+### Reference Documentation 
 
 To read official Python documentation:
 
@@ -24,7 +24,7 @@ To read official Python documentation:
 
 ------------------------------------------------------------------------
 
-## Beginners 
+### Beginners 
 
 Start here if you\'re new to Python or are considering trying Python after using other languages.
 
@@ -46,7 +46,7 @@ Start here if you\'re new to Python or are considering trying Python after using
 
 - [Tutorial on Python 3.2](http://www.w3resource.com/python/python-tutorial.php)
 
-## Topic Guides 
+### Topic Guides 
 
 If you are developing a particular kind of program or library, you might wish to study some related material.
 
@@ -72,7 +72,7 @@ If you are developing a particular kind of program or library, you might wish to
 
 - [Unicode](../archive/Unicode)
 
-## Advanced Topics 
+### Advanced Topics 
 
 - [Python 3 porting guide](../py3/PortingToPy3k) including a [quick reference](../py3/PortingToPy3k/BilingualQuickRef)
 
@@ -92,7 +92,7 @@ If you are developing a particular kind of program or library, you might wish to
 
 - [Threads in Python](http://www.python-course.eu/threads.php)
 
-## Philosophy and Wisdom 
+### Philosophy and Wisdom 
 
 - [PythonDevWisdom](../archive/PythonDevWisdom)
 
@@ -100,7 +100,7 @@ If you are developing a particular kind of program or library, you might wish to
 
 - [PythonSpeed](../performance/PythonSpeed)
 
-## Other Resources 
+### Other Resources 
 
 - [PythonBooks](../books/PythonBooks)
 
@@ -108,10 +108,10 @@ If you are developing a particular kind of program or library, you might wish to
 
 - [PythonPeriodicals](../books/PythonPeriodicals)
 
-## Working on the Official Documentation 
+### Working on the Official Documentation 
 
 See the [Developer\'s Guide](https://devguide.python.org/documentation/start-documenting/).
 
-## Discussion 
+### Discussion 
 
 Please see [DocumentationDiscussion](DocumentationDiscussion).

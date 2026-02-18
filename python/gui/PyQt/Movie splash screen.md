@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Movie splash screen 
+## Movie splash screen 
 
 On the `#pyqt`{.backtick} channel on freenode, iTayb asked if it was possible to show a movie instead of a static image in a splash screen.
 

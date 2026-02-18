@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using a translation of Qt 
+## Using a translation of Qt 
 
 On the `#pyqt`{.backtick} channel on [freenode](http://freenode.net), `Fisiu`{.backtick} asked about getting localized versions of the Qt dialogs.
 

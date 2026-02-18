@@ -10,17 +10,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)18(20)Anh(c3a4)nge.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)17(20)Externe(20)Links.html) Slide 17 of 27 [\>\>](./WikiKurs(2f)19(20)Symbole.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Datei-Anhänge 
+## Datei-Anhänge 
 
 [MoinMoin](MoinMoin) bietet die Möglichkeit, Dateien direkt an eine Wikiseite \"anzuhängen\".
 
-## Eingabe 
+### Eingabe 
 
     [[attachment:brief.txt]]
 
     {{attachment:foto.jpg}}
 
-## Anzeige 
+### Anzeige 
 
 [brief.txt]( "Upload new attachment "brief.txt"")
 

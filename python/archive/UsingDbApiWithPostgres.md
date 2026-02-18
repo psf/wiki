@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Use cases of the DB API for a PostgreSQL database
+## Use cases of the DB API for a PostgreSQL database
 
   ------------ -----------------------------------------------------
   Author:      Pavel Vinogradov
@@ -39,7 +39,7 @@ Contents
 :::
 
 ::: 
-### [Introduction](#id1)
+#### [Introduction](#id1)
 
 Python lets you write programs that access, display and update the information in the database with minimal effort.
 
@@ -49,7 +49,7 @@ To solve the problem, a Special Interest Group (or SIG) for databases was formed
 :::
 
 ::: 
-### [Python DB-API](#id2)
+#### [Python DB-API](#id2)
 
 Thanks to DB-API specification, there\'s only one interface to learn. Porting code to use a different database product is much simpler, often requiring the change of only a few lines.
 
@@ -59,7 +59,7 @@ Current version of DB-API is 2.0 (PEP 249) replaced older DB-API 1.0 version (PE
 :::
 
 ::: 
-### [PostgreSQL](#id3)
+#### [PostgreSQL](#id3)
 
 **PostgreSQL** is a powerful, open source relational database system. It has more than 15 years of active development and a proven architecture that has earned it a strong reputation for reliability, data integrity, and correctness. It runs on all major operating systems.
 
@@ -69,10 +69,10 @@ It includes most SQL92 and SQL99 data types. It also supports storage of binary 
 :::
 
 :::::: 
-### [Python interfaces to PostgreSQL](#id4)
+#### [Python interfaces to PostgreSQL](#id4)
 
 ::: 
-#### [PyGreSQL](#id5)
+##### [PyGreSQL](#id5)
 
 > **PyGreSQL** is an open-source Python module that interfaces to a PostgreSQL database. It embeds the PostgreSQL query library to allow easy use of the powerful PostgreSQL features from a Python script.
 >
@@ -80,7 +80,7 @@ It includes most SQL92 and SQL99 data types. It also supports storage of binary 
 :::
 
 ::: 
-#### [pyPgSQL](#id6)
+##### [pyPgSQL](#id6)
 
 > **pyPgSQL** is a package of two modules that provide a Python DB-API 2.0 compliant interface to PostgreSQL databases. The first module, libpq, exports the PostgreSQL C API to Python. This module is written in C and can be compiled into Python or can be dynamically loaded on demand. The second module, PgSQL, provides the DB-API 2.0 compliant interface.
 >
@@ -88,7 +88,7 @@ It includes most SQL92 and SQL99 data types. It also supports storage of binary 
 :::
 
 ::: 
-#### [psycopg2](#id7)
+##### [psycopg2](#id7)
 
 > **psycopg2** is a PostgreSQL database adapter for the Python programming language. Its main advantages are that it supports the full Python DBAPI 2.0 and it is thread safe at level 2. It was designed for heavily multi-threaded applications that create and destroy lots of cursors and make a conspicuous number of concurrent INSERTs or UPDATEs.
 >
@@ -97,7 +97,7 @@ It includes most SQL92 and SQL99 data types. It also supports storage of binary 
 ::::::
 
 :::::::::: 
-### [Basic examples](#id8)
+#### [Basic examples](#id8)
 
 All examples tested on Python 2.4.4 and PostgreSQL 8.2 under Debian GNU/Linux 4.0, but should work on greater Python versions and other operational systems.
 
@@ -111,7 +111,7 @@ This part will take you on a fast tour of the main features of DB-API 2.0, showi
 All listed examples include SQL and DB-API version of actions.
 
 ::: 
-#### [Getting Started](#id9)
+##### [Getting Started](#id9)
 
 For the first time we need to run python interpreter, import database module (e.g. psycopg2) and connect to database. Also we need to obtain a **cursor** object, which acts as a handle for a given SQL query; it allows retrieval of one or more rows of the result, until all the matching rows have been processed.
 
@@ -123,7 +123,7 @@ For the first time we need to run python interpreter, import database module (e.
 :::
 
 ::: 
-#### [Create database](#id10)
+##### [Create database](#id10)
 
 Usually your system administrator must create databases for you, but if you use your own PostgreSQL server you can do it without assistance.
 
@@ -133,7 +133,7 @@ Usually your system administrator must create databases for you, but if you use 
 :::
 
 ::: 
-#### [Create table](#id11)
+##### [Create table](#id11)
 
 The created database is empty, so it doesn\'t contain any user tables or data. We must create a new table and specify its columns.
 
@@ -147,7 +147,7 @@ The created database is empty, so it doesn\'t contain any user tables or data. W
 :::
 
 ::: 
-#### [Add data](#id12)
+##### [Add data](#id12)
 
 To insert data into the table we can use the execute method of the cursor object. Use the commit() method to commit, i.e. make permanent, the changes to the database.
 
@@ -168,7 +168,7 @@ To insert data into the table we can use the execute method of the cursor object
 :::
 
 ::: 
-#### [Retrieve data](#id13)
+##### [Retrieve data](#id13)
 
 Use the execute function to run sql SELECT queries.
 
@@ -190,7 +190,7 @@ Use the execute function to run sql SELECT queries.
 :::
 
 ::: 
-#### [Delete data](#id14)
+##### [Delete data](#id14)
 
 Use the execute function to run sql DELETE or DROP TABLE. You don\'t need to delete all the rows from the table before dropping it.
 
@@ -206,7 +206,7 @@ Use the execute function to run sql DELETE or DROP TABLE. You don\'t need to del
 :::
 
 ::: 
-#### [Close Connection](#id15)
+##### [Close Connection](#id15)
 
 When you finish work with a cursor or database, closing the cursor and connection is good practice (but isn\'t necessary).
 
@@ -218,10 +218,10 @@ When you finish work with a cursor or database, closing the cursor and connectio
 ::::::::::
 
 ::::: 
-### [Advanced examples](#id16)
+#### [Advanced examples](#id16)
 
 ::: 
-#### [Advanced querying](#id17)
+##### [Advanced querying](#id17)
 
 You can use all the normal SQL operators like WHERE, GROUP BY, ORDER BY, etc in queries which execute through the execute() method of a cursor object. But be careful when you use database dependent operators, because your code will depends on used database.
 
@@ -241,7 +241,7 @@ You can use all the normal SQL operators like WHERE, GROUP BY, ORDER BY, etc in 
 :::
 
 ::: 
-#### [Transactions](#id18)
+##### [Transactions](#id18)
 
 For databases that support transactions, the Python interface silently starts a transaction when the cursor is created. The commit() method commits the updates made using that cursor, and the rollback() method discards them. Each method then starts a new transaction. Some databases don\'t have transactions, but simply apply all changes as they\'re executed. On these databases:
 
@@ -281,7 +281,7 @@ For databases that support transactions, the Python interface silently starts a 
 :::::
 
 ::: 
-### [References](#id19)
+#### [References](#id19)
 
 1.  The Python DB-API interface [http://www.amk.ca/python/writing/DB-API.html](http://www.amk.ca/python/writing/DB-API.html) by Andrew Kuchling
 2.  Python Database API Specification v2.0 [http://www.python.org/dev/peps/pep-0249/](http://www.python.org/dev/peps/pep-0249/)

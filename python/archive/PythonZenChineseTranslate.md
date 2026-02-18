@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# 蟒之禅 
+## 蟒之禅 
 
-## 通译集注 
+### 通译集注 
 
 啄木鸟社区收集整理:
 
@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - `http://wiki.woodpecker.org dot cn/moin/PythonZen`{.backtick}
 
-## ZoomQuiet禅译 
+### ZoomQuiet禅译 
 
     美丽好过丑陋,
     浅显好过隐晦,
@@ -41,7 +41,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 \-- by Tim Peters
 
-## 曹星明:Python之禅 
+### 曹星明:Python之禅 
 
     优美胜于丑陋，显明胜于隐含。
     简单胜于复杂，复杂胜于繁复。
@@ -66,7 +66,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
     [1]python发明人Guido van Rossum是荷兰人。
 
-### 参考 
+#### 参考 
 
 我参考的另一翻译http://python.cn/pipermail/python-chinese/2006-January/020833.html
 

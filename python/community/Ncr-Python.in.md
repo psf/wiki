@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Ncr-Python.in 
+## Ncr-Python.in 
 
 Welcome to Python User Group of National Capital Regions of India - P .!.
 
@@ -20,11 +20,11 @@ Be a Python lover .!.
 
 This wiki page has created in the purpose of making awareness about NCR-Python.in meetings, its schedules and to post its IRC logs.
 
-# Mailing List 
+## Mailing List 
 
 [http://mail.python.org/mailman/listinfo/ncr-python.in](http://mail.python.org/mailman/listinfo/ncr-python.in)
 
-# PyCon India 
+## PyCon India 
 
 - Python Conference India 2014 will be held in Bangalore from 26th-28th Sep.
 
@@ -32,22 +32,22 @@ This wiki page has created in the purpose of making awareness about NCR-Python.i
 
 - For more info visit [http://in.pycon.org/2014/](http://in.pycon.org/2014/)
 
-# Meetings 
+## Meetings 
 
 - We are planning to conduct regular python meeting once in a month
 
-# Contact Persons 
+## Contact Persons 
 
 - Arulant : Arulalant at gmail dot com
 - Satyaakam Goswami : satyaakam at gmail dot com
 
-## Upcoming Meetings 
+### Upcoming Meetings 
 
-## Meetup Summaries 
+### Meetup Summaries 
 
 Find Summary of meetup @ [https://wiki.python.org/moin/Ncr-Python.in/meetupsummary](https://wiki.python.org/moin/Ncr-Python.in/meetupsummary)
 
-## Earlier Meetings 
+### Earlier Meetings 
 
 ------------------------------------------------------------------------
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using Bazaar to develop Python 
+## Using Bazaar to develop Python 
 
 Note: While Python has officially chosen Mercurial for its DVCS, you can still use Bazaar to develop Python. This page describes the current workflow. The migration plan is [PEP 385](http://www.python.org/dev/peps/pep-0385/).
 
 Python\'s source code is maintained under the [Subversion](http://subversion.tigris.org) revision control system. Unofficial [Bazaar](http://bazaar-vcs.org) mirrors of the Subversion repository are maintained on Launchpad and are kept up-to-date automatically.
 
-## What is available? 
+### What is available? 
 
 We currently have mirrors of the Python 2.6, trunk (2.7), 3.1, and py3k (3.2) branches available to the public. These branches are synchronized in near-real time with the Subversion master. This means that as commits are made to Subversion, they will be available in Bazaar on Launchpad soon thereafter. Of course, there\'s a bit of a lag imposed by the Launchpad puller.
 
@@ -22,7 +22,7 @@ Code hosting of Bazaar branches is also available on Launchpad. This means you c
 
 There is a pretty good [Bazaar/Subversion bridge](http://wiki.bazaar.canonical.com/BzrForeignBranches/Subversion) which should allow you to commit your Bazaar branch to the Subversion master, but I have not tried it.
 
-## What do I need? 
+### What do I need? 
 
 \* [Bazaar 2.0 or newer](http://bazaar-vcs.org/Download). As of this writing (2010-02-24) Bazaar 2.1 is the most recent release. As Bazaar is written in Python (yay!), it is available for all major platforms, See the Bazaar home page for information about versions for your platform.
 
@@ -30,7 +30,7 @@ There is a pretty good [Bazaar/Subversion bridge](http://wiki.bazaar.canonical.c
 
 \* A Launchpad login if you want to push branches to Launchpad. You do not need a login if all you\'re going to do is pull branches from Launchpad.
 
-## How do I get started? 
+### How do I get started? 
 
 There are many ways to use Bazaar. Some like to use it the same way they use Subversion. Others like to take advantage of the disconnected and distributed features, so that they can develop code while off the net. The Bazaar web site outlines all these options. The documentation here will describe just one way of working with it.
 
@@ -74,11 +74,11 @@ Now everyone (not just core developers) will be able to view, branch, and merge 
 
 You can attach your branch URL to the issue in the Python bug tracker, and it will be much easier for a core developer to review and apply your changes.
 
-## Loggerhead 
+### Loggerhead 
 
 [Loggerhead](https://launchpad.net/loggerhead) is the [ViewVC](http://www.viewvc.org/) of Bazaar. It\'s a web interface that lets you explore Python\'s bzr branches, view history, etc. Loggerhead is available for all the Python branches. E.g. the trunk is visible [here](http://bazaar.launchpad.net/~python-dev/python/trunk/files). Other branches can be viewed by clicking on the appropriate series as listed [here](https://code.edge.launchpad.net/python).
 
-## Anything else? 
+### Anything else? 
 
 You want to create or edit your `~/.bazaar/bazaar.conf`{.backtick} file to set a few things up. Unlike Subversion, Bazaar commits happen locally, so you have control over the email address that gets associated with your changes. You should use an email address that is identifiably you in the Python community. You may also decide to [GPG](http://www.gnupg.org) sign your commits, though this is not required. Here for example is my `bazaar.conf`{.backtick} [file::](file::)
 
@@ -109,7 +109,7 @@ Christian Heimes points out the following instructions for getting the latest bz
 
 Also read [https://launchpad.net/\~bzr/+archive](https://launchpad.net/~bzr/+archive) and [http://bazaar-vcs.org/DistroDownloads](http://bazaar-vcs.org/DistroDownloads)
 
-## Where do I get help? 
+### Where do I get help? 
 
 Start by reading the [Bazaar documentation](http://bazaar-vcs.org/Documentation). There are many ways to use Bazaar and many options, commands and plugins (such as [looms](https://edge.launchpad.net/bzr-loom) which rock) which are not described above. Explore!
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Escaping XML 
+## Escaping XML 
 
 The Python standard library contains a couple of simple functions for escaping strings of text as XML character data. These routines are not actually very powerful, but are sufficient for many applications. They should generally be applied to Unicode text that will later be encoded appropriately, or to already-encoded text using an ASCII-superset encoding, since most characters are left alone.
 
@@ -54,7 +54,7 @@ Both of these functions can be provided with a mapping of additional replacement
 :::
 ::::
 
-## Unescaping XML 
+### Unescaping XML 
 
 The `xml.sax.saxutils` module provides an `unescape()` function as well. This function converts the `&amp;`, `&gt;`, and `&lt;` entity references back to the corresponding characters:
 
@@ -149,6 +149,6 @@ We also get support for constructs that we might not want in some contexts, thou
 :::
 ::::
 
-## See Also 
+### See Also 
 
 - [EscapingHtml](EscapingHtml)

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# General Information about python-urlo;) 
+## General Information about python-urlo;) 
 
 This page will serve as a starting point for the coordination of the italian Python newsletter called python-urlo;) (named of course after the more famous python-url!). Already released issues can be found here: [http://www.python.it/python-urlo](http://www.python.it/python-urlo)
 
@@ -14,11 +14,11 @@ The newsletter is maintained by Nicola Paolucci with the collaboration of Luca S
 
 The newsletter is in Italian.
 
-# Newsletter Sources 
+## Newsletter Sources 
 
 An incomplete list of sources of this newsletter can be found here: [ItalianPythonUrloSources](ItalianPythonUrloSources).
 
-# Past Issues 
+## Past Issues 
 
 Issues already edited using this Wiki:
 
@@ -30,7 +30,7 @@ Issues already edited using this Wiki:
   --------------------------------------------- -----------------------------------------------------------
 :::
 
-# Upcoming Issue 
+## Upcoming Issue 
 
 The following is a sample of the coming week 35 issue, first time using wiki formatting:
 

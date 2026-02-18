@@ -10,17 +10,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)18(20)Attachments.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)17(20)External(20)links.html) Slide 17 of 27 [\>\>](./WikiCourse(2f)19(20)Symbols.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Attachments 
+## Attachments 
 
 With [MoinMoin](MoinMoin) you can directly append files to a wiki page.
 
-## Input 
+### Input 
 
     [[attachment:letter.txt]]
 
     {{attachment:foto.jpg}}
 
-## Display 
+### Display 
 
 [letter.txt](attachments/WikiCourse(2f)18(20)Attachments/letter.txt)
 

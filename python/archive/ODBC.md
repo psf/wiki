@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# ODBC 
+## ODBC 
 
 [ODBC](http://www.wikipedia.com/wiki/ODBC "WikiPedia") stands for *Open Database Connectivity*, the industry standard for database C APIs.
 
@@ -16,9 +16,9 @@ Since all ODBC Python interfaces need ODBC drivers to connect to the databases, 
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -39,7 +39,7 @@ mxODBC comes with full support for stored procedures, multiple result sets, Unic
 
 Supports Windows, Mac OS X, iODBC, unixODBC and DataDirect ODBC driver managers. Is known to work with these ODBC drivers: MS SQL Server Native Client, MS SQL Server ODBC Driver, FreeTDS ODBC Driver, Oracle Instant Client ODBC Driver, IBM DB2 ODBC Driver, Sybase ASE ODBC Driver, Netezza ODBC Driver, Teradata ODBC Driver, PostgreSQL ODBC Driver, MySQL ODBC Driver, .MaxDB ODBC Driver as well as the ODBC driver sets of EasySoft, DataDirect, OpenLink, Actual Technologies.
 
-### pyodbc
+#### pyodbc
 
 URL
 
@@ -62,7 +62,7 @@ Actively maintained Open Source project.
 
 Precompiled binary wheels are available for Windows and macOS for Python 2.7 and 3.4+, installable using `pip install pyodbc`{.backtick}. [RedHat](../people/RedHat) Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
 
-### turbodbc
+#### turbodbc
 
 URL
 
@@ -81,7 +81,7 @@ Actively maintained Open Source project.
 
 Turbodbc offers turbocharged database access for data scientists. It heavily relies on buffered I/O for maximum performance, and comes with built-in (optional) [NumPy](../science/NumPy) support.
 
-### ceODBC 
+#### ceODBC 
 
 URL
 
@@ -98,7 +98,7 @@ Python versions
 
 :   
 
-### mxODBC Connect 
+#### mxODBC Connect 
 
 URL
 
@@ -119,7 +119,7 @@ mxODBC Connect supports asynchronous query execution via the popular [gevent pac
 
 For ODBC drivers supported on the server side, please see the mxODBC entry.
 
-### ODBTPAPI 
+#### ODBTPAPI 
 
 URL
 
@@ -137,7 +137,7 @@ Python versions
 
 :   
 
-### PyPyODBC (Pure Python) 
+#### PyPyODBC (Pure Python) 
 
 URL
 
@@ -166,9 +166,9 @@ Simple - the whole module is implemented in a single python script with less tha
 
 ------------------------------------------------------------------------
 
-## DB API 1.0 Drivers 
+### DB API 1.0 Drivers 
 
-### win32 odbc module (part of pywin32 package) 
+#### win32 odbc module (part of pywin32 package) 
 
 URL
 

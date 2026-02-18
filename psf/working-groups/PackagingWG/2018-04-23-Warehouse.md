@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Warehouse weekly meeting 
+## Warehouse weekly meeting 
 
 Monday, 23 April 2018
 
-## Present 
+### Present 
 
 - Nicole
 - Dustin
@@ -19,7 +19,7 @@ Monday, 23 April 2018
 - Ernest
 - Mark
 
-## Announcements 
+### Announcements 
 
 From Jochai at Mozilla, last week:
 
@@ -29,7 +29,7 @@ Sumana: unavailable much of this week
 
 Ernest: We\'ve done \_50\_ deploys since prod launch!!!
 
-## Working on/blocked 
+### Working on/blocked 
 
 Nicole:
 
@@ -79,11 +79,11 @@ Laura:
 
 - Sprint with NYC Python and PyLadies this Thursday!
 
-## Ask Donald for 
+### Ask Donald for 
 
 - Update GDPR issue with VanL\'s reply
 
-## Upcoming talks/sprints? 
+### Upcoming talks/sprints? 
 
 - PyPA \[redacted\] sprint \-- October 27/28? TODO Sumana to reach out to PyPA today
 
@@ -91,7 +91,7 @@ Laura:
 
   - Sumana TODO - ask Packaging WG \-- DONE
 
-## After April 30th: momentum 
+### After April 30th: momentum 
 
 Who\'s committing to what as volunteers after grant is over?
 
@@ -109,7 +109,7 @@ Who\'s committing to what as volunteers after grant is over?
 
 Ernest, Dustin, and Nicole to try to concentrate volunteer time on supporting, responding to volunteers, and to find potential coordinator/co-maintainer candidates at[ [PyCon](./PyCon.html) ]sprints[ ]
 
-## TODO 
+### TODO 
 
 Everyone:
 

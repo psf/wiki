@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Swing Examples in Jython 
+## Swing Examples in Jython 
 
 [DocumentationAndEducation](../getting-started/DocumentationAndEducation)
 
@@ -22,11 +22,11 @@ In March 2007, Anton Vredegoor asked the Jython mailing list for help converting
 
 The Jython Mailing list is a great source of help. If you have questions or problems the mailing list is a good place to look for help but there is no substitute for RTFM or Google searches before hand.
 
-## Simple Swing examples 
+### Simple Swing examples 
 
 These are fairly simple examples but show components.
 
-### Hello, World! 
+#### Hello, World! 
 
 These are some ways of creating a simple frame with the title \'Hello, World!\' on it.
 
@@ -79,7 +79,7 @@ And yet another way of doing it is shown below:
 :::
 ::::
 
-### JButton and Button events 
+#### JButton and Button events 
 
 Just a simple example.
 
@@ -117,7 +117,7 @@ Just a simple example.
 :::
 ::::
 
-### JTextField 
+#### JTextField 
 
 :::: 
 ::: 
@@ -167,7 +167,7 @@ Just a simple example.
 :::
 ::::
 
-### JRadioButton 
+#### JRadioButton 
 
 :::: 
 ::: 
@@ -235,7 +235,7 @@ Just a simple example.
 :::
 ::::
 
-### JCheckBox 
+#### JCheckBox 
 
 :::: 
 ::: 
@@ -302,7 +302,7 @@ Just a simple example.
 :::
 ::::
 
-### JList 
+#### JList 
 
 - Also see [http://www.jython.org/applets/list.html](http://www.jython.org/applets/list.html)
 
@@ -374,7 +374,7 @@ Just a simple example.
 :::
 ::::
 
-### JComboBox 
+#### JComboBox 
 
 *under construction*
 
@@ -431,11 +431,11 @@ Here are a couple of combo box examples. one requires a button click and the oth
 :::
 ::::
 
-### JTree 
+#### JTree 
 
 This example is a bit long so here is the [JtreeExample](JtreeExample)
 
-### JTable 
+#### JTable 
 
 I think this is the most amazing example. This creates a small table that has editable cells, cursor movement and resizeable. The is at least 75% shorter then a comparable java version. Time is money, and here is proof the jython can save you money and make you more productive.
 
@@ -493,7 +493,7 @@ I think this is the most amazing example. This creates a small table that has ed
 :::
 ::::
 
-### JTabbedPane 
+#### JTabbedPane 
 
 This create a simple JTabbedPane example. Here is another [TabbedExample](TabbedExample).
 
@@ -542,7 +542,7 @@ This create a simple JTabbedPane example. Here is another [TabbedExample](Tabbed
 :::
 ::::
 
-### JSplitPane 
+#### JSplitPane 
 
 This just creates a simple split pane. nothing fancy. ![:)](/wiki/modernized/img/smile.png ":)")
 
@@ -590,7 +590,7 @@ This just creates a simple split pane. nothing fancy. ![:)](/wiki/modernized/img
 :::
 ::::
 
-### JDesktopPane and JInternalFrame Demo 
+#### JDesktopPane and JInternalFrame Demo 
 
 :::: 
 ::: 
@@ -665,7 +665,7 @@ This just creates a simple split pane. nothing fancy. ![:)](/wiki/modernized/img
 :::
 ::::
 
-### Decorator to add a function to SwingUtilities.invokeLater donated by Alex Grönholm 
+#### Decorator to add a function to SwingUtilities.invokeLater donated by Alex Grönholm 
 
 :::: 
 ::: 

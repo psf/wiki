@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Writing Materials Wanted: 
+## Writing Materials Wanted: 
 
 Hi! We need volunteers who can write and can create some of the following materials. Some of it already exists on the net; where so, let\'s collect links and I\'ll contact the authors to see about reusing/reformatting it, with credit.
 
@@ -30,7 +30,7 @@ For those who would prefer writing magazine articles, we also have an [ArticleId
 
 *Want to know what is being done with these materials? Check out [the advocacy kits](Advocacy#AdvocacyKits) into which they are being assembled!*
 
-## Documents To Be Written 
+### Documents To Be Written 
 
 [(permalink)](AdvocacyWritingTasks#WhatIsPython)\
 **Title:** *[What is Python?](AdvocacyWritingTasks/WhatIsPython)*\
@@ -277,7 +277,7 @@ And perhaps some discussion of how Python can be embedded into their existing ap
 
 For publication before [PyCon](../conferences/pycon/PyCon) 2008. To encourage sprint participation and general [PyCon](../conferences/pycon/PyCon) awareness. Will be an interview with experienced sprint coaches and first-time sprinters.
 
-## Completed Drafts 
+### Completed Drafts 
 
 [(permalink)](AdvocacyWritingTasks#ComparingPythonToJava)\
 **Title:** *[About Python, for the Java Programmer](http://advocacy.python.org/docs/python-vs-java.3600.en.1)*\

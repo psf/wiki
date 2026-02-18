@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: Why don\'t my list and generator comprehensions work? 
+## Asking for Help: Why don\'t my list and generator comprehensions work? 
 
 [lwickjr](../lwickjr): \[2008-Jul-09\]
 

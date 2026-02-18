@@ -10,11 +10,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 The lists below should be arranged in ascending alphabetical order (excluding \"Version Control Systems\" which should be stated first). When specifying release dates please use the format YYYY-MM-DD.
 :::
 
-# Version Control 
+## Version Control 
 
 The following applications related to version/revision control are written in Python:
 
-## Version Control Systems 
+### Version Control Systems 
 
 - [Bazaar](http://bazaar-vcs.org/) (formerly Bazaar-NG)
 
@@ -22,7 +22,7 @@ The following applications related to version/revision control are written in Py
 
 - [Mercurial](http://www.selenic.com/mercurial/)
 
-## Abstraction Layers and Tools 
+### Abstraction Layers and Tools 
 
 Tools with unified interface to several version control systems.
 
@@ -34,13 +34,13 @@ Tools with unified interface to several version control systems.
 
 - [vcs](http://pypi.python.org/pypi/vcs/) - another abstraction layer, seems to be MIT licensed
 
-## Migration Tools 
+### Migration Tools 
 
 - [cvs2svn](http://cvs2svn.tigris.org/) - the CVS to Subversion repository converter
 
 - [Tailor](http://progetti.arstecnica.it/tailor) - a tool to migrate changesets between ArX, Bazaar, Bazaar-NG, CVS, Codeville, Darcs, Git, Mercurial, Monotone, Subversion and Tla repositories
 
-## Repository Browsers 
+### Repository Browsers 
 
 - [Trac](http://trac.edgewall.org/) supports repository browsing
 

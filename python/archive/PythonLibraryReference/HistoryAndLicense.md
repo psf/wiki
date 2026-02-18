@@ -14,13 +14,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# History And License 
+## History And License 
 
-## C.1 History of the software 
+### C.1 History of the software 
 
-## C.2 Terms and conditions for accessing or otherwise using Python 
+### C.2 Terms and conditions for accessing or otherwise using Python 
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

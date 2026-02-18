@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Can Python Introspect Like Java? 
+## Can Python Introspect Like Java? 
 
 \"I come from a java background. Java has an API that list all classes and their methods that come with Java. Is there anything like that in python?\"
 
@@ -20,7 +20,7 @@ In certain interactive shells (or prompts), such as [IPython](../../archive/IPyt
 
 \>\>\> dir(some_object)
 
-## Discussion 
+### Discussion 
 
 I\'m not sure this is what the OP is asking. I think s/he\'s referring to the API documentation rather than the API itself. Calling help(object) in the interpreter is a good start for help on an object.
 
@@ -28,7 +28,7 @@ In fact, the dir and help built-in functions make use of Python\'s introspection
 
 CL\'s answer: no, Python cannot introspect like Java; it can only do better.
 
-## API Documentation 
+### API Documentation 
 
 The [DocumentationTools](../../documentation/DocumentationTools) page provides details of tools which can produce API documentation for Python applications and libraries, such as that provided for [wxPython](../../gui/WxPython) (a GUI-building kit for Python): [wxPython API documentation](http://www.wxpython.org/docs/api/).
 

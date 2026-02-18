@@ -26,21 +26,21 @@ Differences from the template code:
 
 ------------------------------------------------------------------------
 
-# Code of Conduct for Python Software Foundation Members 
+## Code of Conduct for Python Software Foundation Members 
 
 The Python community is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences great successes and continued growth. When we're working with members of the community, we aim to follow these guidelines to help steer our interactions and strive to keep Python a positive, successful, and growing community.
 
 Python Software Foundation members are:
 
-## Open 
+### Open 
 
 - Members of the foundation are open to collaboration, whether it's on PEPs, patches, problems, or otherwise. We're receptive to constructive comment and criticism, as the experiences and skill sets of other community members contribute to the whole of our efforts. We're accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
 
-## Considerate 
+### Considerate 
 
 - Members of the foundation are considerate of their peers \-- other Python users. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
 
-## Respectful 
+### Respectful 
 
 - Members of the foundation are respectful. We're respectful of others, their positions, their skills, their commitments, and their efforts. We're respectful of the volunteer efforts that permeate the Python community. We're respectful of the processes set forth in the community, and we work within them. When we disagree, we are courteous in raising our issues.
 

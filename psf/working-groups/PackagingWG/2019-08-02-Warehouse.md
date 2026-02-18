@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Bug triage/prioritization call 
+## Bug triage/prioritization call 
 
 August 2, 2019
 
-## Participants 
+### Participants 
 
 - Sumana
 - Ernest
@@ -18,7 +18,7 @@ August 2, 2019
 - EMi (listening)
 - Nicole
 
-## Bugs to prioritize 
+### Bugs to prioritize 
 
 - Add collaborators by invitation - WIP PR [https://github.com/pypa/warehouse/pull/6054](https://github.com/pypa/warehouse/pull/6054)
 
@@ -87,7 +87,7 @@ August 2, 2019
   - Ernest\'s concern: let\'s make sure what we change @ to is not a pain
   - TODO: Nicole to look
 
-## Things to user test 
+### Things to user test 
 
 Nicole:
 
@@ -95,7 +95,7 @@ Nicole:
 
 - discussion of what timing would be better for project management; decided to try to get some API token user tests scheduled for next week, and then do audit log tests later
 
-## Accessibility milesone 
+### Accessibility milesone 
 
 Nicole:
 
@@ -104,7 +104,7 @@ Nicole:
   - zooming - 400%, do things still work? some things need to be fixed. Tend to be the same as things in l10n, as that\'s where things get cut off. So that\'s also i18n prep!! yay!
   - TODO: Sumana to coordinate with Nicole re user test audiences \-- especially people using screenreaders
 
-## TODOs 
+### TODOs 
 
 - Ernest to look at improving error reporting to users re: token permissions [https://github.com/pypa/warehouse/issues/6232](https://github.com/pypa/warehouse/issues/6232) this afternoon
 

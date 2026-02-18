@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyCon India 2011 Venue 
+## PyCon India 2011 Venue 
 
-## Venue Comparison Criteria 
+### Venue Comparison Criteria 
 
 - Venue Hire Charges
 - Lecture Halls
@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - Accessibility
 - Accomodation
 
-## Raja Lakshmi Engineering College 
+### Raja Lakshmi Engineering College 
 
 - Venue Hire Charges
 - Lecture Halls
@@ -29,7 +29,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - Accomodation
   - There seems to be lot of hotels nearby, since Sriperumbudur is a tourist spot. [http://groups.google.com/group/chennaipy/browse_thread/thread/23f101b66563960c#](http://groups.google.com/group/chennaipy/browse_thread/thread/23f101b66563960c#)
 
-## Jaya Engineering College 
+### Jaya Engineering College 
 
 - Venue Hire Charges
 - Lecture Halls
@@ -40,7 +40,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - Accessibility
 - Accomodation
 
-## SRM City 
+### SRM City 
 
 - Venue Hire Charges
 - Lecture Halls
@@ -50,7 +50,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - Accomodation
   - Lot of hotels nearby.
 
-## SRM Main Campus 
+### SRM Main Campus 
 
 - Venue Hire Charges
 - Lecture Halls
@@ -59,7 +59,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   - Far off from the city. But connected through rail.
 - Accomodation
 
-## IIT Madras 
+### IIT Madras 
 
 - Venue Hire Charges
 - Lecture Halls
@@ -70,7 +70,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   - Located centrally.
 - Accomodation
 
-## Anna University 
+### Anna University 
 
 - Venue Hire Charges
 - Lecture Halls

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: How To Remove Escape Characters 
+## Asking for Help: How To Remove Escape Characters 
 
 system: ubuntu connected to a serial port connected datalogger pls look at this post using \"source txt\"or\"bron txt\" button rigth top for better lay-out
 

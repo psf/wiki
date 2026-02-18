@@ -12,7 +12,7 @@ This table intends to list every single step required to plan and carry out a co
 
 The dates are given in terms of time before the conference. Larger conferences need lots of preparation time, and a smaller event can probably compress the timeline significantly.
 
-# 1. Timeline 
+## 1. Timeline 
 
 ::: {}
   --------------- --------------------------------------------------------------------
@@ -38,7 +38,7 @@ The dates are given in terms of time before the conference. Larger conferences n
   --------------- --------------------------------------------------------------------
 :::
 
-### 1.0.1. Refereed papers 
+#### 1.0.1. Refereed papers 
 
 ::: {}
   ----------- ---------------------------------------------
@@ -55,7 +55,7 @@ The dates are given in terms of time before the conference. Larger conferences n
   ----------- ---------------------------------------------
 :::
 
-### 1.0.2. BoFs 
+#### 1.0.2. BoFs 
 
 ::: {}
   ----------- --------------------------------------------------
@@ -64,7 +64,7 @@ The dates are given in terms of time before the conference. Larger conferences n
   ----------- --------------------------------------------------
 :::
 
-### 1.0.3. Swag 
+#### 1.0.3. Swag 
 
 ::: {}
   ----------------------------- ----------------------------------------------------------------------------------------
@@ -93,7 +93,7 @@ The dates are given in terms of time before the conference. Larger conferences n
   ----------------------------- ----------------------------------------------------------------------------------------
 :::
 
-### 1.0.4. Demos 
+#### 1.0.4. Demos 
 
 ::: {}
   ----- -----------------------------------
@@ -101,7 +101,7 @@ The dates are given in terms of time before the conference. Larger conferences n
   ----- -----------------------------------
 :::
 
-## 1.1. PSF Meeting 
+### 1.1. PSF Meeting 
 
 ::: {}
   ----------- -----------------------------------------
@@ -111,7 +111,7 @@ The dates are given in terms of time before the conference. Larger conferences n
   ----------- -----------------------------------------
 :::
 
-## 1.2. Next year\'s con 
+### 1.2. Next year\'s con 
 
 ::: {}
   ----------- -------------------------------------------------------------------------------------------------------------------------
@@ -122,7 +122,7 @@ The dates are given in terms of time before the conference. Larger conferences n
   ----------- -------------------------------------------------------------------------------------------------------------------------
 :::
 
-## 1.3. Days before conference 
+### 1.3. Days before conference 
 
 1.  Formatting finalized program.
 2.  Contracting for printing of individual programs for the delegates\' totes, and the presentation boards to go outside each of the session rooms.
@@ -135,25 +135,25 @@ The dates are given in terms of time before the conference. Larger conferences n
 9.  \[added after IRC communications\]: encourage sprint leaders to prepare feedback and prepare to present it at the feedback session.
 10. Preparation and printing of public notices (e.g. signage for registration desk, sponsors\' logo sheet).
 
-## 1.4. During the conference 
+### 1.4. During the conference 
 
 - Supervise sprints.
 - Run the registration desk.
 
-## 1.5. After the conference 
+### 1.5. After the conference 
 
 - Prepare web-based proceedings.
 - Prepare recorded audio.
 - Evaluate participant feedback and prepare report.
 - Determine profit/loss.
 
-# 2. Related links 
+## 2. Related links 
 
-## 2.1. Programming conferences 
+### 2.1. Programming conferences 
 
 - [GUADEC Planning HowTo](http://live.gnome.org/GuadecPlanningHowTo)
 
-## 2.2. SF fandom 
+### 2.2. SF fandom 
 
 - [Running cons the CAPTION way](http://caption.org/1998/prog-howto.html)
 

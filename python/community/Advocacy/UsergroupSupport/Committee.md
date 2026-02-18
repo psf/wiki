@@ -6,10 +6,10 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Usergroup Support Committee
+## Usergroup Support Committee
 
 ::: 
-### Committee Members
+#### Committee Members
 
 > - Chris McAvoy \[Chicago\]
 > - Sean O\'Donnell \[Dublin\]
@@ -21,7 +21,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### Charter
+#### Charter
 
 To encourage the creation of new usergroups worldwide and to strengthen those that already exist. At PyCon 2007 the following priority items were selected for initial implementation:
 
@@ -32,7 +32,7 @@ To encourage the creation of new usergroups worldwide and to strengthen those th
 :::
 
 ::: 
-### Active Task List/Assignments
+#### Active Task List/Assignments
 
 1.  Come up with the goals of the committee. (the what) 1. Help existing groups prosper and grow 2. help create new groups 3. support UG\'s wanting to conduct local events (?)
 2.  Come up with a set of action items. 1. Study how to get usergroups onto local google. 2. Start an overall newsletter (PDF/eZine) about usergroups, by PSF. 3. Raise visibility of usergroups by: a. blogging about them, b. interviews with leaders on Python411, and c. articles in The Python Papers 4. support UGs with initial speakers or a speaking tour.
@@ -41,7 +41,7 @@ To encourage the creation of new usergroups worldwide and to strengthen those th
 :::
 
 ::: 
-### What Does Auditing The Usergroups Mean?
+#### What Does Auditing The Usergroups Mean?
 
 Follow each link from the local usergroups wiki
 
@@ -54,13 +54,13 @@ Follow each link from the local usergroups wiki
 :::
 
 ::::::: 
-### Meeting Agendas
+#### Meeting Agendas
 
 :::::: 
-#### Apr 25, 2007
+##### Apr 25, 2007
 
 ::: 
-##### Questions to Answer
+###### Questions to Answer
 
 1.  Maintain a mailing list for group organizers and another list for this committee, or share one list?
 2.  How can we improve the findability of usergroups without writing software - PSF wants a non-software solution.
@@ -70,7 +70,7 @@ Follow each link from the local usergroups wiki
 :::
 
 ::: 
-##### Proposed Steps
+###### Proposed Steps
 
 > - As part of audit, we need to collect email addresses of organizers; not all group webpages have them, many only have a mailing list.
 >
@@ -92,7 +92,7 @@ Follow each link from the local usergroups wiki
 :::
 
 ::: 
-##### Need Help
+###### Need Help
 
 > - identifying [good lecture videos](http://wiki.python.org/moin/Advocacy/VideoLectures)
 > - rounding up [reusable presentation materials](http://wiki.python.org/moin/Advocacy/MeetingTopics)

@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# 10. The Python Profiler 
+## 10. The Python Profiler 
 
 10.1 [Introduction to the profiler](./PythonLibraryReference(2f)ThePythonProfiler(2f)ProfilerIntro.html)
 

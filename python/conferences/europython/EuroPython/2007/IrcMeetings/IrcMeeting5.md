@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #5 
+## IRC Meeting #5 
 
-## Minutes 
+### Minutes 
 
 (From an incomplete IRC log - thanks a lot, X-Chat!)
 
@@ -58,11 +58,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - A time limit of one hour was suggested for subsequent meetings.
 - Next meeting was suggested for Monday 16th April.
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Monday 2nd of April (2007-04-02) 18:00 CEST (17:00 BST, 16:00 UTC/GMT) in the #europython channel on freenode.net. *That\'s 5pm UK time, 6pm in most of Western Europe.*
 
-## Agenda 
+### Agenda 
 
 No agenda yet. Suggestions:
 

@@ -12,11 +12,11 @@ This page describes directory-based path classes, an alternative to [PEP 355](ht
 
 ------------------------------------------------------------------------
 
-# Proposal #1 (Noam Raphael) 
+## Proposal #1 (Noam Raphael) 
 
 The source can be found in [AlternativePathModule](AlternativePathModule).
 
-## Introduction 
+### Introduction 
 
 Hello,
 
@@ -31,9 +31,9 @@ My basic problem with the current proposed path module is that it\'s a bit\... m
 
 So I tried to organize it all. The following section describes the changes. I think that the result may make file and path manipulation really easier. All these are ideas - I would like to hear what you think about them.
 
-## Major Changes 
+### Major Changes 
 
-### a tuple instead of a string 
+#### a tuple instead of a string 
 
 The biggest conceptual change is that my path object is a subclass of *tuple* rather than *str*. For example,
 
@@ -71,7 +71,7 @@ This means that paths starting with a drive letter alone (UnrootedDrive instance
 
 I really think that it\'s a better way to handle paths. If you want an example, compare the current implementation of relpathto and my implementation.
 
-### Easier attributes for stat objects 
+#### Easier attributes for stat objects 
 
 The current path objects includes:
 
@@ -101,7 +101,7 @@ I think that isfile, isdir should be kept (along with lisfile, lisdir), since I 
 
 I think that still, isdir, isfile and islink should be added to stat_result objects: They turned out pretty useful in writing some of the more complex path methods.
 
-### One Method for Finding Files 
+#### One Method for Finding Files 
 
 (They\'re actually two, but with exactly the same interface). The original path object has these methods for finding files:
 
@@ -133,13 +133,13 @@ Now, for the promised additional method. The current implementation of glob does
 
 Oh, and it returns an iterator, not a list.
 
-### Separation of Calculations and System Calls 
+#### Separation of Calculations and System Calls 
 
 I like to know when I\'m using system calls and when I don\'t. It turns out that using tuples instead of strings makes it possible to define all operations which do not use system calls as properties or operators, and all operations which do use system calls as methods.
 
 The only exception currently is .match(). What can I do?
 
-### Reduce the Number of Methods 
+#### Reduce the Number of Methods 
 
 I think that the number of methods should be reduced. The most obvious example are the copy functions. In the current proposal:
 
@@ -155,7 +155,7 @@ In my proposal:
 
 It\'s just that I think that copyfile, copymode and copystat aren\'t usually useful, and there\'s no reason not to unite copy and copy2.
 
-## Other Changes 
+### Other Changes 
 
 Here is a list of the smaller things I\'ve changed in my proposal.
 
@@ -198,7 +198,7 @@ match - The current implementation matches the base name of the path against a p
 
 matchcase - I removed it. If you see a reason for keeping it, tell me.
 
-## Comparison to the Current Path Class 
+### Comparison to the Current Path Class 
 
 Here\'s a comparison of doing things using the current path class and doing things using my proposed path class.
 
@@ -300,19 +300,19 @@ Here\'s a comparison of doing things using the current path class and doing thin
     # Special stuff from os
     chroot, startfile - unchanged.
 
-## Open Issues 
+### Open Issues 
 
 Unicode - I have no idea about unicode paths. My current implementation simply uses str. This should be changed, I guess.
 
 Slash-terminated paths - In my current implementation, paths ending with a slash are normalized to paths without a slash (this is also the behaviour of os.path.normpath). However, they aren\'t really the same: stat() on paths ending with a slash fails if they aren\'t directories, and lstat() treats them as directories even if they are symlinks. Perhaps a final empty string should be allowed.
 
-## Comments on proposal #1 
+### Comments on proposal #1 
 
 Please write here comments. Thanks!
 
 ------------------------------------------------------------------------
 
-# Proposal #2 (Mike Orr) 
+## Proposal #2 (Mike Orr) 
 
 Two classes in os.path: [FilePath](./FilePath.html), [DirectoryPath](./DirectoryPath.html). These are defined in posixpath, ntpath, etc. Inheritance graph:
 
@@ -393,7 +393,7 @@ XXX TODO: Split the combined Path below and Noam\'s class above into [FilePath](
 
 [MutablePath](./MutablePath.html) is a subclass that\'s mutable, so it cannot be used as a dictionary key. The .path attribute is a list.
 
-## Open issues 
+### Open issues 
 
 Should \*Path subclass str or unicode? Advantages: drop-in replacement for string paths. Disadvantages: str/unicode dichotomy, can\'t use p[-N](./(2d)N.html) to return a derived path with N directories dropped.
 
@@ -405,13 +405,13 @@ Consider using .delete() instead of .remove() or .unlink().
 
 Should Path and [MutablePath](./MutablePath.html) be called [FrozenPath](./FrozenPath.html) and Path? Or frozenpath and path?
 
-## Comments on proposal #2 
+### Comments on proposal #2 
 
 None yet.
 
 ------------------------------------------------------------------------
 
-# Summary of Python-dev discussion 
+## Summary of Python-dev discussion 
 
 Threads:
 

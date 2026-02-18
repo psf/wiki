@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Call for PSF Logos 
+## Call for PSF Logos 
 
-## Intro 
+### Intro 
 
 *This is an intro adapted from the initial email sent to the members list and the follow-ups to the email.*
 
@@ -71,15 +71,15 @@ If you need the font files, we can send them to you for the purpose of using the
 
 Thanks, \-- Marc-Andre Lemburg
 
-## Candidates 
+### Candidates 
 
 *Please add a new subsection with your name and upload the logos as attachments.*
 
-### David Goodger 
+#### David Goodger 
 
 See the [Logo](Logo) page for his creations.
 
-### Stephen Hawkes 
+#### Stephen Hawkes 
 
 John Pinner has received these from Stephen. here is the general idea:
 
@@ -95,7 +95,7 @@ We have a ton of design rationalisation info on how we arrived at this concept, 
 
 - [psf.pdf](attachments/CallForLogos/psf.pdf)
 
-### The Phuse 
+#### The Phuse 
 
 Proposals by Erik Evensen \<[erik@thephuse.com](mailto:erik@thephuse.com)\>:
 

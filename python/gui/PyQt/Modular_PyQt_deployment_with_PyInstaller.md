@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How to distribute only the qt4 dlls and pyqt libraries that your application really needs 
+## How to distribute only the qt4 dlls and pyqt libraries that your application really needs 
 
 If you want to finetune the size of a [PyQt]() application, the best way is to recompile Qt/PyQt to use a consolidated module. Basically:
 

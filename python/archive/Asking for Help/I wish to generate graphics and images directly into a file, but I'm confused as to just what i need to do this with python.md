@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How to generate graphics and write the image directly to a file 
+## How to generate graphics and write the image directly to a file 
 
 Have a look at the [GraphicsAndImages](../GraphicsAndImages) page. It depends somewhat on the kind of graphics you want to produce: some libraries like [matplotlib](http://matplotlib.sourceforge.net/) are focused on graphs and charts, whereas the [PythonImagingLibrary](../PythonImagingLibrary) supports both bitmap manipulation as well as line and shape drawing (and other similar operations) using the ImageDraw module.
 

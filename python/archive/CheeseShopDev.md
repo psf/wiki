@@ -12,9 +12,9 @@ This page is about development of the [Python Package Index](http://pypi.org) (f
 
 - PyPI APIs: [JSON](PyPIJSON), [XMLRPC](PyPIXmlRpc)
 
-# Developing the Package Index 
+## Developing the Package Index 
 
-## PyPI.nextgen: 
+### PyPI.nextgen: 
 
 Currently, as of 2019-06-27, PyPI has undergone a complete rewrite from scratch, and as a result much of the information on this page is not up-to-date.
 
@@ -22,11 +22,11 @@ The development moved from Mercurial (Python) to Git (C, shell). License changed
 
 - [https://github.com/pypa/warehouse](https://github.com/pypa/warehouse)
 
-## Testing Your Stuff Against PyPI 
+### Testing Your Stuff Against PyPI 
 
 If you need to test stuff against PyPI (registration, uploading, API activities) then please [use the alternative server, test.pypi.org](https://packaging.python.org/guides/using-testpypi/).
 
-## TO-DO list 
+### TO-DO list 
 
 Meta-to-do: file the issues below that are still unresolved in [the GitHub issue tracker](https://github.com/pypa/warehouse/issues), then remove this section. \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:57:10
 
@@ -48,21 +48,21 @@ Meta-to-do: file the issues below that are still unresolved in [the GitHub issue
 
 Something that\'s been requested, but needs much more thought and analysis to see whether it causes any problems: the ability to treat project names and versions as case-insensitive, while removing extraneous characters (as in pkg_resources.safe_name()) for purposes both of searching and determining name uniqueness when registering.
 
-### Done 
+#### Done 
 
 - command-line tool to query pypi and fetch entries: [yolk](http://pypi.python.org/pypi/yolk)
 
-## Not Going TO-DO 
+### Not Going TO-DO 
 
 - Edit [PEP 243](http://www.python.org/peps/pep-0243.html) to reflect reality. The interface is implemented in the distutils register and upload commands. This code is good enough for documentation, especially because it\'s the only implementation necessary.
 
 - moderated user reviews and ratings (this would require quite a lot of support from volunteers though)
 
-## Proposals 
+### Proposals 
 
 - [EnhancedPyPI](http://wiki.python.org/moin/EnhancedPyPI) Enhance multiple package index servers support in Distutils.
 
-## Previous PyPI version 
+### Previous PyPI version 
 
 The legacy version of PyPI is the code that was running on [http://pypi.python.org](http://pypi.python.org) for many years, till mid-2018. [This LWN article goes into the history.](https://lwn.net/Articles/751458/) The information below should help you get around the code.
 
@@ -76,7 +76,7 @@ The legacy version of PyPI is the code that was running on [http://pypi.python.o
 
 - [PyPIOAuth](PyPIOAuth) - authentication library for Google and Launchpad logins
 
-## Legacy PyPI architecture and endpoints 
+### Legacy PyPI architecture and endpoints 
 
 PyPI is a WSGI application that can be executed standalone using `python pypi.wsgi`{.backtick} command if all requirements are met. `pypi.wsgi`{.backtick} contains usual WSGI wrapper code and delegates request processing to `WebUI.run()`{.backtick} method from `webui.py`{.backtick}. This method just opens DB and handles exceptions, actual request processing is done in `WebUI.inner_run()`{.backtick}. This method analyzes URL endpoint and executes appropriate handler. As of 2011-04, the rules to match endpoints to handlers are the following:
 
@@ -94,6 +94,6 @@ PyPI is a WSGI application that can be executed standalone using `python pypi.w
 
 XML-RPC requests are detected by CONTENT_TYPE=`text/xml`{.backtick} variable in CGI environment and processed by `rpc.RequestHandler().__call__()`{.backtick}. List of XML-RPC \"endpoints\" is available on [PyPIXmlRpc](PyPIXmlRpc) page.
 
-## Legacy PyPI Development Environment Hints 
+### Legacy PyPI Development Environment Hints 
 
 Removed (visible in [page history](https://wiki.python.org/moin/CheeseShopDev?action=recall&rev=81)) because developing and running legacy PyPI is deprecated. \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:57:10

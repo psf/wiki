@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This is a planning page for hashing out the [PyOhio]() 2009 schedule.
 
-# Saturday July 25 
+## Saturday July 25 
 
 ::: {}
 +:--------:+:--------------------------:+:---------------:+:---------------:+
@@ -40,7 +40,7 @@ This is a planning page for hashing out the [PyOhio]() 2009 schedule.
 +----------+----------------------------+-----------------+-----------------+
 :::
 
-# Sunday July 26 
+## Sunday July 26 
 
 ::: {}
 +:--------:+:--------------------------:+:---------------:+:---------------:+
@@ -72,6 +72,6 @@ This is a planning page for hashing out the [PyOhio]() 2009 schedule.
 +----------+----------------------------+-----------------+-----------------+
 :::
 
-# Activities to be scheduled 
+## Activities to be scheduled 
 
 - (e.g.) Beginner session: Classroom, 2 hours

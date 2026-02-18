@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Concurrency 
+## Concurrency 
 
 Concurrency in programming means that multiple computations happen at the same time. For example, you may have multiple Python programs running on your computer. Or you may connect multiple computers via a network (e.g., Ethernet) that work together towards a common objective (e.g., distributed data analytics). As all concurrent programs can access shared resources (e.g., files) at the same time, this can lead to a variety of problems and challenges (e.g., race conditions).
 
 The goal of this article is to clear concurrency-related questions, problems, or issues you may have. It also serves as a first starting point for further discussions on concurrency in Python.
 
-## Links 
+### Links 
 
 - [Concurrency/99Bottles](Concurrency/99Bottles) - solutions to common problems in different styles/toolkits
 
@@ -22,7 +22,7 @@ The goal of this article is to clear concurrency-related questions, problems, or
 
 - [GlobalInterpreterLock](../archive/GlobalInterpreterLock) - a limitation for multithreading in CPython
 
-## Talks 
+### Talks 
 
 - [Concurrency from the Ground Up - LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4) [DavidBeazley](../people/DavidBeazley) blows some minds at Pycon 2015
 
@@ -32,7 +32,7 @@ The goal of this article is to clear concurrency-related questions, problems, or
 
 - [A Curious Course on Coroutines and Concurrency](https://www.youtube.com/watch?v=Z_OAlIhXziw) A Beazley tutorial from 2009.
 
-## Concurrency support offered by the Standard Library 
+### Concurrency support offered by the Standard Library 
 
 - [multiprocessing](http://docs.python.org/library/multiprocessing.html) (available in CPython 2.6+ and 3, also in recent [PyPy](../implementations/PyPy) 1.5 alpha builds)
 
@@ -44,7 +44,7 @@ The goal of this article is to clear concurrency-related questions, problems, or
 
 - async/await simpler syntatic sugar for coroutines (Python 3.5+)
 
-## Popular Frameworks 
+### Popular Frameworks 
 
 See also: [ParallelProcessing](../people/ParallelProcessing), [Pypi Distributed Computing Trove](http://pypi.python.org/pypi?:action=browse&show=all&c=450)
 
@@ -66,7 +66,7 @@ See also: [ParallelProcessing](../people/ParallelProcessing), [Pypi Distributed 
 
 - [Ray](https://github.com/ray-project/ray) - Parallel (and distributed) process-based execution framework which uses a lightweight API based on dynamic task graphs and actors to flexibly express a wide range of applications. Uses shared-memory and zero-copy serialization for efficient data handling. Supports low-latency and high-throughput task scheduling. Includes higher-level libraries for machine learning and AI applications.
 
-## Other Frameworks 
+### Other Frameworks 
 
 - [asyncoro](http://asyncoro.sourceforge.net) - Framework for asynchronous, concurrent, distributed and network programming.
 
@@ -92,7 +92,7 @@ See also: [ParallelProcessing](../people/ParallelProcessing), [Pypi Distributed 
 
 - [Chiral](http://chiral.j4cbo.com/) - Chiral is a lightweight coroutine-based networking framework for high-performance internet and Web services.
 
-## Presentations etc. 
+### Presentations etc. 
 
 - **Using Coroutines to Create Efficient, High-Concurrency Web Applications** - Matt Spitz, Pycon 2011 [Video](http://blip.tv/file/4883016)
 

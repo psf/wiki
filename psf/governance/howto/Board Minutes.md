@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How To Prepare the Board Meeting Minutes
+## How To Prepare the Board Meeting Minutes
 
 ::: 
 Contents
@@ -34,7 +34,7 @@ Contents
 :::
 
 ::: 
-### [1   Preparation](#id3)
+#### [1   Preparation](#id3)
 
 You will need:
 
@@ -60,7 +60,7 @@ You will need:
 :::
 
 ::: 
-### [2   Update Last Month\'s Minutes](#id4)
+#### [2   Update Last Month\'s Minutes](#id4)
 
 If the minutes of last month\'s meeting were approved, update last month\'s minutes:
 
@@ -69,7 +69,7 @@ If the minutes of last month\'s meeting were approved, update last month\'s minu
 :::
 
 ::: 
-### [3   Update the List of Meeting Minutes](#id5)
+#### [3   Update the List of Meeting Minutes](#id5)
 
 The list of meeting minutes (table of contents) is at build/data/psf/records/board/minutes/content.ht in the [website repository](#website-repository).
 
@@ -81,24 +81,24 @@ The list of meeting minutes (table of contents) is at build/data/psf/records/boa
 :::
 
 :::::::::::::: 
-### [4   Update This Month\'s Minutes](#id6)
+#### [4   Update This Month\'s Minutes](#id6)
 
 ::: 
-#### [4.1   Title](#id7)
+##### [4.1   Title](#id7)
 
 1.  Update the date in the page title (first line). Be sure the title line says \"(Draft)\" at the end.
 2.  Update the date in in the title block (\"\|\" border on the left). Be sure the title block has \"\| Draft\" under the date.
 :::
 
 ::: 
-#### [4.2   Intro Paragraph](#id8)
+##### [4.2   Intro Paragraph](#id8)
 
 1.  Update the date & time (in the UTC/GMT time zone) in the intro paragraph under the title block. Use the [World Clock](http://www.timeanddate.com/worldclock/) to get the current time UTC time.
 2.  Verify who presided and who prepared the minutes, and correct if necessary.
 :::
 
 ::: 
-#### [4.3   Attendance](#id9)
+##### [4.3   Attendance](#id9)
 
 1.  Update the list of attendees, both Directors and \"Also in attendance\". Directors names should be listed in alphabetical order by family name.
 
@@ -106,7 +106,7 @@ The list of meeting minutes (table of contents) is at build/data/psf/records/boa
 :::
 
 ::: 
-#### [4.4   Minutes of Past Meetings](#id10)
+##### [4.4   Minutes of Past Meetings](#id10)
 
 Update the \"Minutes of Past Meetings\" section.
 
@@ -116,7 +116,7 @@ Update the \"Minutes of Past Meetings\" section.
 :::
 
 ::: 
-#### [4.5   Votes Taken Between Meetings](#id11)
+##### [4.5   Votes Taken Between Meetings](#id11)
 
 Update the \"Votes Taken Between Meetings\" section.
 
@@ -143,12 +143,12 @@ Update the \"Votes Taken Between Meetings\" section.
 :::
 
 ::::::: 
-#### [4.6   Status of Past Action Items](#id12)
+##### [4.6   Status of Past Action Items](#id12)
 
 Update the \"Status of Past Action Items\" section.
 
 ::: 
-##### [4.6.1   Carried Forward](#id13)
+###### [4.6.1   Carried Forward](#id13)
 
 Update the \"Carried Forward\" subsection:
 
@@ -168,7 +168,7 @@ Update the \"Carried Forward\" subsection:
 :::
 
 ::: 
-##### [4.6.2   New on \<D Month YYYY\>](#id14)
+###### [4.6.2   New on \<D Month YYYY\>](#id14)
 
 1.  Update the date of the last month\'s meeting in the title and the first paragraph.
 
@@ -200,13 +200,13 @@ Update the \"Carried Forward\" subsection:
 :::
 
 ::: 
-##### [4.6.3   New Between Meetings](#id15)
+###### [4.6.3   New Between Meetings](#id15)
 
 Look at the [action items wiki page](http://wiki.python.org/psf/Action_Items). Any action items added since the last Board meeting should be recorded in the minutes.
 :::
 
 ::: 
-##### [4.6.4   Update the Action Items](#id16)
+###### [4.6.4   Update the Action Items](#id16)
 
 Referring to the [action items wiki page](http://wiki.python.org/psf/Action_Items), update the action items:
 
@@ -237,7 +237,7 @@ While summarizing new business from the meeting transcript (IRC log), record any
 :::::::
 
 ::: 
-#### [4.7   Add Sections for New Business](#id17)
+##### [4.7   Add Sections for New Business](#id17)
 
 Referring to the meeting agenda and transcript (IRC log), add a section for each topic discussed.
 
@@ -299,14 +299,14 @@ Referring to the meeting agenda and transcript (IRC log), add a section for each
 ::::::::::::::
 
 ::::: 
-### [5   Update Action Items Wiki Page](#id18)
+#### [5   Update Action Items Wiki Page](#id18)
 
 Edit the [Action Items wiki page](http://wiki.python.org/psf/Action_Items).
 
 Scan the minutes of this month\'s Board meeting for new action items and updates to existing action items.
 
 ::: 
-#### [5.1   Add status updates to existing action items](#id19)
+##### [5.1   Add status updates to existing action items](#id19)
 
 1.  Add brief status text to the \"Description\" column.
 2.  Update the \"Status\" column if applicable.
@@ -314,7 +314,7 @@ Scan the minutes of this month\'s Board meeting for new action items and updates
 :::
 
 ::: 
-#### [5.2   Add new action items](#id20)
+##### [5.2   Add new action items](#id20)
 
 Add new action items to the \"Outstanding Items\" section of the wiki page.
 
@@ -343,14 +343,14 @@ Add new action items to the \"Outstanding Items\" section of the wiki page.
 :::::
 
 ::: 
-### [6   Inform the Secretary and the Board](#id21)
+#### [6   Inform the Secretary and the Board](#id21)
 
 1.  Send a copy of the completed minutes to the PSF Secretary for approval (markup fixes, content, etc.).
 2.  Send a copy of the minutes (as edited and approved by the Secretary) to the Board mailing list ([psf@python.org](mailto:psf@python.org)).
 :::
 
 ::: 
-### [7   Links](#id22)
+#### [7   Links](#id22)
 
 - [List of PSF Board meeting minutes] (with links): [http://www.python.org/psf/records/board/minutes/](http://www.python.org/psf/records/board/minutes/)
 

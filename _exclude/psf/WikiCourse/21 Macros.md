@@ -10,11 +10,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)21(20)Macros.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)20(20)Dynamic(20)content.html) Slide 20 of 27 [\>\>](./WikiCourse(2f)22(20)Parsers.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Macros 
+## Macros 
 
 A macro is called using \"`<<macroname(parameter)>>`{.backtick}\". Parameters vary from macro to macro and are sometimes not used.
 
-## Input 
+### Input 
 
     <<TableOfContents>>
     ----
@@ -24,7 +24,7 @@ A macro is called using \"`<<macroname(parameter)>>`{.backtick}\". Parameters va
     ----
     A certain moment - world wide: <<DateTime(2006-01-26T23:03:25Z)>>
 
-## Display 
+### Display 
 
 ------------------------------------------------------------------------
 

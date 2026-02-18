@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)07(20)The(20)text(20)editor.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)06(20)Your(20)own(20)wiki(20)homepage.html) Slide 7 of 27 [\>\>](./WikiCourse(2f)08(20)Hot(20)Keys.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# The text editor 
+## The text editor 
 
 We just met it while creating your own homepage: the text-based editor of [MoinMoin](MoinMoin). You are, of course, not limited to only using it for that, because you can also use it to change any other page in the wiki.
 

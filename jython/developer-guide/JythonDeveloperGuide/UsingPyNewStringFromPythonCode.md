@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using Py.NewString from Python Code
+## Using Py.NewString from Python Code
 
 On some really rare cases, you may need to convert a Java String (equivalent to a Python unicode object) to a Python String, without going through the encoding process. Suppose you have the following code (useful for the purposes of this document, but not wise, since you have better ways to do this using the Python standard library):
 

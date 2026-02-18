@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page describes the community and people involved in [PyCon](../PyCon) APAC.
 
-# PyCon APAC Community 
+## PyCon APAC Community 
 
 We have a mailing list on [Google Groups](https://groups.google.com/d/forum/pycon-organizers-apac) where organizer teams for [PyCon](../PyCon) within the APAC region subscribe to. If you are an organizer of PyConAPAC, please join us.
 
-## Country representatives 
+### Country representatives 
 
 This are a list of individuals which will be representing their respective countries when we have APAC wide discussions. This list was created after a show of hands in a discussion in the mailing list above. If you would like to know more or participate in APAC wide discussions, please contact your respective country reps below.
 

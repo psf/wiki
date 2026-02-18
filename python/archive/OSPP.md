@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# OSPP 
+## OSPP 
 
 **OSPP** stands for Open-Source Python Project.
 
@@ -14,6 +14,6 @@ The OSPP is a small dedicated group of novice programmers with the aim to create
 
 Their database is currently small, yet it is growing each day.
 
-# Links 
+## Links 
 
 [http://ospp.cjb.net](http://ospp.cjb.net)

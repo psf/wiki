@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Warts 
+## Python Warts 
 
 Python \"warts\" are things for which people have criticised Python, typically aspects of the language or mechanisms of its implementation, because such aspects either expose certain surprising inconsistencies, are regarded as omissions, or cause irritation for parts of the community in some sense. One goal of Python 3000 was to fix inconsistencies which could not have been fixed earlier due to the backwards compatibility constraints imposed on earlier releases of Python. This page summarises the unfixed warts, pitfalls and \"gotchas\" (which are not mere observations) from the following resources and lists Python 3000 remedies, if any:
 

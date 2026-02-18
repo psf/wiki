@@ -8,17 +8,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This is a page taken up from [BangPypers](../BangPypers) page , will try to update it as and when i learn about companies and
 
-# Python Companies in India 
+## Python Companies in India 
 
 Add Python Company name here. Please maintain Alphabetical order.
 
-## Ahmedabad 
+### Ahmedabad 
 
 - [Tech Receptives](http://www.techreceptives.com), Ahmedabad , Gujarat
 
 - [N J Consultancy](http://www.njconsultancy.com), Ahmedabad , Gujarat
 
-## Bangalore 
+### Bangalore 
 
 - [Comat Technologies Pvt. Ltd.](http://www.comat.com), Richmond Town, Bangalore
 
@@ -46,7 +46,7 @@ Add Python Company name here. Please maintain Alphabetical order.
 
 - [ZeOmega Infotech Pvt. Ltd.](http://www.zeomega.com/), #86, Palyam House, South End Road, Bangalore
 
-## Chennai 
+### Chennai 
 
 - [Efficient Frontier Technology India Pvt. Ltd.](http://www.efrontier.com/), Teynampet, Chennai
 
@@ -60,11 +60,11 @@ Add Python Company name here. Please maintain Alphabetical order.
 
 - [Tachyon Technologies](http://tachyon.in), Chennai
 
-## Coimbatore 
+### Coimbatore 
 
 - [Cognizant Technology Solution](http://www.cognizant.com), Coimbatore
 
-## Delhi 
+### Delhi 
 
 - [Initto technology](http://www.initto.com), Delhi
 
@@ -84,7 +84,7 @@ Add Python Company name here. Please maintain Alphabetical order.
 
 - [Gale Technologies](http://www.galetechnologies.com), Noida
 
-## Hyderabad 
+### Hyderabad 
 
 - [Brainwave](http://www.brainwavelive.com/), Hyderabad
 
@@ -92,17 +92,17 @@ Add Python Company name here. Please maintain Alphabetical order.
 
 - [Usware Technologies](http://uswaretech.com), Hyderabad
 
-## Kerala 
+### Kerala 
 
 - [Core Solutions](http://www.coresolutionsindia.com/), Calicut, Kerala
 
 - [Pearlsoft](http://www.pearlsoft.in/), Kochi/Trivandrum
 
-## Kolkata 
+### Kolkata 
 
 - [Brainwave](http://www.brainwavelive.com/), 3/1 Dr. U.N. Bhramachari Street, Kolkata
 
-## Pune 
+### Pune 
 
 - [Infinitely Beta Technologies](http://infinitelybeta.com), Pune
 
@@ -118,7 +118,7 @@ Add Python Company name here. Please maintain Alphabetical order.
 
 - [Opel IT Services](http://www.opelitservices.com), Pune
 
-## Srinagar 
+### Srinagar 
 
 - [iKraft Software Pvt Ltd](http://ikraftsoft.com/), Zam Zam Complex, Rambagh, Srinagar - 190015, J & K
 

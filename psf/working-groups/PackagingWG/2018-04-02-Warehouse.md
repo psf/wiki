@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Warehouse Sync-up Meeting 
+## Warehouse Sync-up Meeting 
 
 Monday, 2 April, 2018
 
-## Present: 
+### Present: 
 
 - Laura
 - Sumana
@@ -20,7 +20,7 @@ Monday, 2 April, 2018
 - (Ernest absent)
 - (Donald absent)
 
-## Blocked/working on/announcements 
+### Blocked/working on/announcements 
 
 Nicole:
 
@@ -56,7 +56,7 @@ Mark:
 - Burn rate updated: \[document\]
 - Should be able to announce \[infra\] Credits this week, but still awaiting the transparent logo. Ernest did ping our contact; has not replied yet.
 
-## Proposed April schedule 
+### Proposed April schedule 
 
 Context: we have very few open issues blocking us from launching/redirecting and shutting down legacy, and want to shut down legacy this month so we have a few days in early May to fix things while we\'re still available, pre-PyCon, have budget, etc. And Ernest is unavailable this week so we should not launch/redirect this week.
 
@@ -79,15 +79,15 @@ Context: we have very few open issues blocking us from launching/redirecting and
 
 There\'s a [request from JFrog to postpone redirect to 22nd](https://github.com/pypa/warehouse/issues/3275) \-- but they can use the User-Agent redirect exclusion from legacy until we shut down Legacy, so they should be fine.
 
-### Resolution 
+#### Resolution 
 
 Group approved this plan. Updated the [Warehouse roadmap](../../packaging/WarehouseRoadmap).
 
-## Ask Donald for 
+### Ask Donald for 
 
 \[sponsor\] transparent logo
 
-## Issue triage 
+### Issue triage 
 
 - Twine/Warehouse error message conflict [https://github.com/pypa/warehouse/issues/3482](https://github.com/pypa/warehouse/issues/3482) [https://github.com/pypa/twine/issues/332](https://github.com/pypa/twine/issues/332)
 
@@ -115,6 +115,6 @@ Group approved this plan. Updated the [Warehouse roadmap](../../packaging/Wareho
 
   - deferring to Nicole - none. Priority is mobile/tablet bugs because there is higher percentage of users there than on ie11. Nothing blocking. ie11 users are \< 3% - 90% confident Nicole has found most bugs - most users use Chrome and site was developed with Chrome
 
-## TODO 
+### TODO 
 
 - [Sumana to open issue about users searching for maintainer names] \-- filed as [https://github.com/pypa/warehouse/issues/3527](https://github.com/pypa/warehouse/issues/3527)

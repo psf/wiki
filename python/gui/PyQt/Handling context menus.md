@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Handling context menus 
+## Handling context menus 
 
 On the #pyqt channel on Freenode, `jams`{.backtick} asked about adding a context menu to a table widget.
 
@@ -30,7 +30,7 @@ The code for the examples shown here can be found as attachments to this page:
 
 - [custommenu_signal.py](attachments/PyQt(2f)Handling(20)context(20)menus/custommenu_signal.py)
 
-## Subclassing 
+### Subclassing 
 
 If you are writing a custom widget or are subclassing a standard widget, the default subclassing approach is quite convenient.
 
@@ -65,7 +65,7 @@ We reimplement the context menu event and create our own menu, making sure that 
 :::
 ::::
 
-## Actions 
+### Actions 
 
 For widgets with built-in actions, we can change the policy to `ActionsContextMenu`{.backtick} and the widget will automatically obtain its own context menu. For widgets without built-in actions, we can add new ones.
 
@@ -118,7 +118,7 @@ We can even add actions to standard widgets without having to subclass them:
 :::
 ::::
 
-## Signal and Slot 
+### Signal and Slot 
 
 Sometimes, when we do not want to subclass a standard widget or use actions, it is easier to handle the context menu in a separate component, so we need a way for the widget to notify us when a context menu has been requested. We can do this by changing the policy to `CustomContextMenu`{.backtick} and connecting the widget\'s `customContextMenuRequested()`{.backtick} signal to a slot, method or function.
 

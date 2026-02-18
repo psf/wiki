@@ -1,6 +1,6 @@
 # Editing Wiki Pages
 
-## On GitHub
+### On GitHub
 
 The most straightforward path. Every wiki page is a `.md` file under one of three directories:
 
@@ -12,21 +12,21 @@ Find the file you want to change, edit it, and open a pull request. GitHub's web
 
 Pages use MyST Markdown, which is standard Markdown plus a handful of Sphinx directives. You can use `{admonition}`, `{toctree}`, `{grid}`, code blocks, tables -- all the usual stuff. The [MyST docs](https://myst-parser.readthedocs.io/en/latest/syntax/roles-and-directives.html) cover the full syntax.
 
-### Adding a new page
+#### Adding a new page
 
 1. Create a `.md` file in the right directory. Start it with a top-level heading (`# Page Title`).
 2. Add the filename (without `.md`) to the `{toctree}` in the parent `index.md`.
 
 If you're making a new subdirectory, put an `index.md` inside it with its own toctree, then reference `subdir/index` from the parent.
 
-### Page format
+#### Page format
 
 Pages migrated from MoinMoin have a legacy notice at the top. You can remove it if you're substantially rewriting the content. New pages don't need one.
 
 A minimal page looks like:
 
 ```markdown
-# My Page Title
+## My Page Title
 
 Content goes here. Standard Markdown works -- links, lists, code blocks, tables.
 
@@ -34,7 +34,7 @@ Use [MyST directives](https://myst-parser.readthedocs.io/en/latest/syntax/roles-
 when you need admonitions, toctrees, or tab panels.
 ```
 
-### What about redirects?
+#### What about redirects?
 
 The old MoinMoin wiki encoded special characters in URLs in its own way -- spaces became `(20)`, slashes became `(2f)`, German umlauts like `Ä` became `(c384)`. All 5,400+ redirects from old URLs to new paths live in `_redirects.json`.
 
@@ -44,7 +44,7 @@ If you move or rename a page, add an entry there so existing links don't break. 
 make redirects
 ```
 
-## On GitHub with CMS
+### On GitHub with CMS
 
 For people who'd rather not touch Git directly, there's a browser-based editor at `/admin/` on the live site. It's powered by [Decap CMS](https://decapcms.org/) (the maintained fork of Netlify CMS).
 
@@ -52,7 +52,7 @@ You log in with your GitHub account, pick a page from any of the three wiki sect
 
 The CMS configuration lives in `_extra/admin/config.yml`. It defines three collections (one per wiki section) and uses `open_authoring`, which means anyone with a GitHub account can propose edits -- they don't need write access to the repo.
 
-## Without GitHub
+### Without GitHub
 
 :::{admonition} Work in progress
 :class: warning

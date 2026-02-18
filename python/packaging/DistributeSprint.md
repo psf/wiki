@@ -26,7 +26,7 @@ If you want to join, please do !
 
   - [http://timeanddate.com/worldclock/meeting.html](http://timeanddate.com/worldclock/meeting.html)
 
-# Participants 
+## Participants 
 
 name / skills / desired date
 
@@ -34,7 +34,7 @@ name / skills / desired date
 
 - Toshio Kuratomi / Fedora Packaging, some paver, setuptools consumer / Thursday, Friday but none of the times ![:-(](/wiki/europython/img/sad.png ":-(") 7:00AM my time == 4:00PM CEST == 14:00 UTC. I could meet from that point on? Alternately, I could be online at 5:00UTC until I fall asleep.
 
-# Tasks that will be covered 
+## Tasks that will be covered 
 
 - make a synthesis of all the threads that have discussed distutils previously
 
@@ -46,6 +46,6 @@ name / skills / desired date
 
 - list the problems in compilation matters and work on a proposal to improve it
 
-# Desired output 
+## Desired output 
 
 We would like to come up with enough material to write a meta-PEP and a series of PEP. These PEPs will then be submitted in the distutils-SIG mailing list for further discussions.

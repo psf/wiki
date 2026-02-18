@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Warehouse core developers\' meeting 
+## Warehouse core developers\' meeting 
 
 Monday, 19 March, 2018
 
-## Present 
+### Present 
 
 - Dustin
 - Sumana
@@ -20,11 +20,11 @@ Monday, 19 March, 2018
 - Ernest
 - Donald
 
-## Reschedule Monday March 26 meeting? 
+### Reschedule Monday March 26 meeting? 
 
 No, don\'t reschedule. Nicole unavailable; Dustin can join
 
-## Working on/blocked/announcements 
+### Working on/blocked/announcements 
 
 *Reminder: last week of March & first week of April, lots of unavailability*
 
@@ -90,7 +90,7 @@ Donald
 
 - Warehouse brownouts ?
 
-## Followup from past meetings 
+### Followup from past meetings 
 
 Mark, Ernest & Donald: When can we announce \[redacted\] credits?
 
@@ -121,7 +121,7 @@ Mark: PEP 541? (addressing) Mark: Open Tech Fund?
 - Formal determination message within the next 2 weeks.
 - May take some time to iterate through their process and create a finished proposal with them
 
-## Beta & redirect schedule 
+### Beta & redirect schedule 
 
 \* Should the China CAPTCHA issue be in our beta milestone? [https://github.com/pypa/warehouse/issues/3174](https://github.com/pypa/warehouse/issues/3174)
 
@@ -146,7 +146,7 @@ Who\'s available & interested in being on podcasts in April?
 - Sumana
 - Nicole - user experience focused podcasts
 
-## Bug triage 
+### Bug triage 
 
 \* Set samesite=lax on session cookies #3221 [https://github.com/pypa/warehouse/issues/3221](https://github.com/pypa/warehouse/issues/3221)
 
@@ -171,10 +171,10 @@ Design question for Nicole on ISO dates [https://github.com/pypa/warehouse/issue
 
 - Progress? This week
 
-## Ask Donald for: 
+### Ask Donald for: 
 
 nothing this week
 
-## TODO 
+### TODO 
 
 \* Ernest: DI, Mark, Donald logins for Cabotage/Tectonic

@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python terminology 
+## Python terminology 
 
-## General Python terminology 
+### General Python terminology 
 
 If you're reading this document, you probably have a good idea of what modules, extensions, and so forth are. Nevertheless, just to be sure that everyone is operating from a common starting point, we offer the following glossary of common Python terms:
 
@@ -32,7 +32,7 @@ If you're reading this document, you probably have a good idea of what modules, 
 
 - the root of the hierarchy of packages. (This isn't really a package, since it doesn't have an [init].py file. But we have to call it something.) The vast majority of the standard library is in the root package, as are many small, standalone third-party modules that don't belong to a larger module collection. Unlike regular packages, modules in the root package can be found in many directories: in fact, every directory listed in sys.path contributes modules to the root package.
 
-## Distutils-specific terminology 
+### Distutils-specific terminology 
 
 The following terms apply more specifically to the domain of distributing Python modules using the Distutils:
 
@@ -66,7 +66,7 @@ The project publishes, for its 1.4.2 version release, a set of different distrib
 
 There\'s one source distribution (mercurial-1.4.2.tar.gz), a windows specific distribution using an executable format (mercurial-1.4.2.exe) and two OSX specific distributions, targeted at different OS versions (Mercurial-1.4.2-py2.6-macosx10.6.zip and Mercurial-1.4.2-py2.5-macosx10.5.zip).
 
-## Further discussion 
+### Further discussion 
 
 Discussion goes here?
 

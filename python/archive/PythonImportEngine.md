@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Import Engine - Possible GSoC Project 
+## Python Import Engine - Possible GSoC Project 
 
 This concept has been put forward as a project for students to consider undertaking as part of [SummerOfCode/2011](../soc/SummerOfCode/2011)
 

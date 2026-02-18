@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #13 
+## IRC Meeting #13 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Monday 4th June (2007-06-04) 18:00 CEST (17:00 BST, 16:00 UTC/GMT) in the #europython channel on freenode.net. *That\'s 5pm UK time, 6pm in most of Western Europe.* The suggested duration of the meeting is at most *one hour*.
 
-## Minutes 
+### Minutes 
 
 - Bea reported that her contact has submitted a costed proposal for travel, accommodation and other minor expenses.
   - We proposed to accept this, and Bea will chase up funding.
@@ -54,7 +54,7 @@ The meeting will take place on Monday 4th June (2007-06-04) 18:00 CEST (17:00 BS
   - Michael volunteered to add (some of) the scheduling information to Indico when it is complete.
   - The mailing list should be notified so that the Web site can be updated and announcements sent out.
 
-## Agenda 
+### Agenda 
 
 This week\'s meeting will focus on the programme, but may also cover any other issues that arise.
 
@@ -72,6 +72,6 @@ This week\'s meeting will focus on the programme, but may also cover any other i
 
 - Announcements shall be planned: keynotes, early registration reminder, \...
 
-## Notes 
+### Notes 
 
 See [the calendar](http://www.europython.org/sections/calendar) to get an idea of where we should be at this point in time.

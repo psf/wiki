@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Web Programming in Python 
+## Web Programming in Python 
 
 This topic guide attempts to cover every aspect of programming Web applications (both clients and servers) using Python.
 
-## Server Programming 
+### Server Programming 
 
 Topics concerned with writing providing Web applications, doing server-side programming, providing a Web site or pages which use Python in some way:
 
@@ -24,7 +24,7 @@ Topics concerned with writing providing Web applications, doing server-side prog
 
 - [WebServices](../people/WebServices) - tools for accessing and providing functionality via APIs over the Web
 
-## Client Programming 
+### Client Programming 
 
 Topics concerned with accessing Web applications, sites or pages using Python:
 
@@ -34,7 +34,7 @@ Topics concerned with accessing Web applications, sites or pages using Python:
 
 - [WebServices](../people/WebServices) - tools for accessing and providing functionality via APIs over the Web
 
-## Related Links 
+### Related Links 
 
 Related topics of interest:
 
@@ -46,6 +46,6 @@ Related topics of interest:
 
 - [BuildAnIntranet](../archive/BuildAnIntranet) - advice on how one might go about developing and deploying an intranet solution
 
-## Editorial Note 
+### Editorial Note 
 
 This simplified start page replaces the previous \"comprehensive\" guide to Web programming. Unless adding a distinct category of Web programming, please add things like new frameworks to the appropriate page - not to this page.

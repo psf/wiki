@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# A custom Python class-based 1D model 
+## A custom Python class-based 1D model 
 
 On 2010-04-12, on the `#pyqt`{.backtick} channel on Freenode, `rowinggolfer`{.backtick} [pasted](http://paste.debian.net/68590/) the following model with these remarks:
 

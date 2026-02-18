@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EmPy 
+## EmPy 
 
-## Introduction: Welcome to EmPy! 
+### Introduction: Welcome to EmPy! 
 
 [EmPy](http://www.alcyone.com/software/empy/) is a powerful, robust and mature [templating](../archive/Templating) system for inserting Python code in template text. EmPy takes a source document, processes it, and produces output. This is accomplished via expansions, which are signals to the EmPy system where to act and are indicated with markup. Markup is set off by a customizable prefix (by default the at sign, `@`{.backtick}). EmPy can expand arbitrary Python expressions, statements and control structures in this way, as well as a variety of additional special forms. The remaining textual data is sent to the output, allowing Python to be used in effect as a markup language.
 
@@ -18,13 +18,13 @@ EmPy also has a supplemental library for additional non-essential features (`eml
 
 EmPy can be used in a variety of roles, including as a templating system, a text processing system (preprocessing and/or postprocessing), a simple macro processor, a frontend for a content management system, annotating documents, for literate programming, as a souped-up text encoding converter, a text beautifier (with macros and filters), and many other purposes.
 
-## Markup overview 
+### Markup overview 
 
 Expressions are embedded in text with the `@(...)`{.backtick} notation; variations include conditional expressions with `@(...?...!...)`{.backtick} and the ability to handle thrown exceptions with `@(...$...)`{.backtick}. As a shortcut, simple variables and expressions can be abbreviated as `@variable`{.backtick}, `@object.attribute`{.backtick}, `@sequence[index]`{.backtick}, `@function(arguments...)`{.backtick}, and combinations. Functions can be called with expanded markup as arguments using `@function{markup}`{.backtick}. Full-fledged statements are embedded with `@`{.backtick}. Control flow in terms of conditional or repeated expansion is available with `@[...]`{.backtick}. A `@`{.backtick} followed by any whitespace character (including a newline) expands to nothing, allowing string concatenations and line continuations. Line comments are indicated with `@#...`{.backtick} including the trailing newline. `@*...*`{.backtick} allows inline comments. Output can be disabled and re-enabled with `@-...`{.backtick} and `@+...`{.backtick}, including the trailing newlines. Escapes are indicated with `@\...`{.backtick}; diacritics with `@^...`{.backtick}; icons with `@|...`{.backtick}; and emoji with `@:...:`{.backtick}. `@%...`{.backtick}, `@%!...`{.backtick}, `@%%...%%`{.backtick} and `@%%!...%%`{.backtick} indicate \"significators,\" which are distinctive forms of variable assignment intended to specify document metadata in a format easy to parse externally. In-place expressions are specified with `@$...$...$`{.backtick}. Context name and line number changes can be made with `@?...`{.backtick} and `@!...`{.backtick}, respectively. A set of markups (`@((...))`{.backtick}, `@[[...]]`{.backtick}, `@{}`{.backtick}, `@<...>`{.backtick}) are customizable by the user and can be used for any desired purpose. @`...`{.backtick} allows literal escaping of any EmPy markup. Output can be toggled on and off with `@+`{.backtick} and `@-`{.backtick}, respectively. And finally, a `@@`{.backtick} sequence (the prefix repeated once) expands to a single literal at sign.
 
 The prefix defaults to `@`{.backtick} but can be changed with the command line option `-p/--prefix=CHAR`{.backtick} (*environment variable:* `EMPY_PREFIX`{.backtick}, *configuration variable:* `prefix`{.backtick}).
 
-## Getting the software 
+### Getting the software 
 
 The official URL for the Web site is [http://www.alcyone.com/software/empy/](http://www.alcyone.com/software/empy/).
 
@@ -85,10 +85,10 @@ The testing system included (the test.sh script and the tests and suites directo
 
 If you find an incompatibility with your Python interpreter or operating system, [let me know](http://www.alcyone.com/software/empy/README.html#reporting-bugs).
 
-## License 
+### License 
 
 This software is licensed under [BSD (3-Clause)](https://opensource.org/licenses/bsd-3-clause/).
 
-## Note 
+### Note 
 
 This is an excerpt of the [EmPy README](http://www.alcyone.com/software/empy/README.html), so consider it [InTheirOwnWords](../archive/InTheirOwnWords).

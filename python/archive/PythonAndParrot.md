@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python and Parrot 
+## Python and Parrot 
 
 Parrot is an effort to write the equivalent of .Net\'s Common Language Runtime or the Java Virtual Machine for dynamically-typed scripting languages. The project is developed by the community working on Perl 6.
 

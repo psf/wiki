@@ -8,10 +8,10 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [en](./en.html)
 
-# byteplay Module Documentation
+## byteplay Module Documentation
 
 ::: 
-### About byteplay
+#### About byteplay
 
 byteplay is a module which lets you easily play with Python bytecode. I wrote it because I needed to manipulate Python bytecode, but didn\'t find any suitable tool. Michael Hudson\'s bytecodehacks ([http://bytecodehacks.sourceforge.net/](http://bytecodehacks.sourceforge.net/)) could have worked fine for me, but it only works with Python 1.5.2. I also looked at Phillip J. Eby\'s peak.util.assembler ([http://pypi.python.org/pypi/BytecodeAssembler](http://pypi.python.org/pypi/BytecodeAssembler)), but it\'s intended at creating new code objects from scratch, not for manipulating existing code objects.
 
@@ -25,7 +25,7 @@ Feel free to improve this document - that\'s why it\'s on the wiki! Also, if you
 :::
 
 ::: 
-### A Quick Example
+#### A Quick Example
 
 Let\'s start from a quick example, to give you a taste of what byteplay does. Let\'s define this stupid function:
 
@@ -75,7 +75,7 @@ Ok, now let\'s play! Say we want to change the function, to print its arguments 
 :::
 
 ::: 
-### Opcodes
+#### Opcodes
 
 We have seen that the code list contains opcode constants such as LOAD_FAST. These are instances of the Opcode class. The Opcode class is a subclass of int, which overrides the `__repr__` method to return the string representation of an opcode. This means that instead of using a constant such as LOAD_FAST, a numerical constant such as 124 can be used. Opcode instances are, of course, much easier to understand. The byteplay module creates Opcode instances for all the interpreter opcodes. They can be found in the `opcodes` set, and also in the module\'s global namespace, so you can write `from byteplay import *` and use the opcode constants immediately.
 
@@ -83,7 +83,7 @@ byteplay doesn\'t include a constant for the EXTENDED_ARG opcode, as it is not u
 :::
 
 ::: 
-### Module Contents
+#### Module Contents
 
 These are byteplay\'s public attributes, which are imported when `from byteplay import *` is done.
 
@@ -213,10 +213,10 @@ And, last but not least - the Code class itself!
 :::
 
 :::::: 
-### The Code Class
+#### The Code Class
 
 ::: 
-#### Constructor
+##### Constructor
 
     Code(code, freevars, args, varargs, varkwargs, newlocals,
          name, filename, firstlineno, docstring) -> new Code object
@@ -225,7 +225,7 @@ This constructs a new Code object. The argument are simply values for the Code o
 :::
 
 ::: 
-#### Data Attributes
+##### Data Attributes
 
 We\'ll start with the data attributes - those are read/write, and distinguish one code instance from another. First come the attributes which affect the operation of the interpreter when it executes the code, and then come attributes which give extra information, useful for debugging and introspection.
 
@@ -334,7 +334,7 @@ Now come attributes with additional information about the code:
 :::
 
 ::: 
-#### Methods
+##### Methods
 
 These are the Code class methods.
 
@@ -350,7 +350,7 @@ These are the Code class methods.
 ::::::
 
 ::: 
-### Stack-depth Calculation
+#### Stack-depth Calculation
 
 What was described above is enough for using byteplay. However, if you encounter an \"Inconsistent code\" exception when you try to assemble your code and wonder what it means, or if you just want to learn more about Python\'s stack behaviour, this section is for you.
 

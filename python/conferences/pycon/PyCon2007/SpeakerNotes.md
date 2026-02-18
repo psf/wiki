@@ -12,13 +12,13 @@ This page collects suggestions for speakers and presenters at [PyCon](../PyCon).
 
 Thank you very much for taking the time and trouble to make a presentation. We appreciate your efforts.
 
-# The final version of your talk 
+## The final version of your talk 
 
 \* [PyCon](../PyCon) does not have a published volume of proceedings, but the slides and other materials for talks are made available on-line. Therefore, be sure your presentation can be turned into a format suitable for online viewing. While PDF is permitted, HTML is better. Keep graphics reasonably sized for web access.
 
 \* Finish preparing your slides and other materials before [PyCon](../PyCon), and upload it to the conference submission system. This gives the audience more information in choosing which talks to attend, and people can refer to the slides if they miss something during your talk.
 
-# Designing your slides 
+## Designing your slides 
 
 \* The slides are primarily to support your talk
 
@@ -32,7 +32,7 @@ Thank you very much for taking the time and trouble to make a presentation. We a
 
 - Expand as you speak if there\'s audience interest
 
-# Presentation advice 
+## Presentation advice 
 
 \* For a 30-minute slot, you have 25 minutes to talk plus 5 minutes for questions. 45-minute slots mean you have 40 minutes to talk and 5 minutes for questions. Time your talk accordingly.
 
@@ -60,7 +60,7 @@ Thank you very much for taking the time and trouble to make a presentation. We a
 
 \* consider having a hard copy of your notes. It is handy for proofing, and there is a chance it will be the only thing working when it is time to give your presentation.
 
-# Speaking Techniques 
+## Speaking Techniques 
 
 \* If you are nervous, there\'s nothing wrong with admitting that
 
@@ -93,7 +93,7 @@ Thank you very much for taking the time and trouble to make a presentation. We a
 
 \* During the Q&A portion of the talk, always repeat any questions that were asked without a microphone - otherwise many people in the audience won\'t hear the question. It is important to get the question into the audio recording. The recording is costing us (therefore attendees) money, so we all have an obligation to make the best of it. Even if it was free, that little extra effort will be of value to whoever is listing later. And we all want to help as much as we can, right?
 
-# Other resources 
+## Other resources 
 
 \* [Conference Presentation Judo](http://perl.plover.com/yak/presentation/) \-- aimed at people giving three-hour tutorials, but many suggestions apply to shorter talks like those given at [PyCon](../PyCon).
 

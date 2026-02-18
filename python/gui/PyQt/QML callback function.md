@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyQt5 callback function 
+## PyQt5 callback function 
 
 This example code is available for download on [GitHub](https://github.com/ben-github/PyQt5-QML-CallbackFunction). This demo shows a QML calling a python function and passing a (QML) callback function as an argument. The python backend can then run the QML callback function. This can be useful for passing data from the python backend to the GUI and having the GUI be responsible for updating the graphical elements (via the callback function). Also, this can be used for non-blocking asynchronous updates of the GUI: By running the QML GUI in a separate thread as the python backend, The QML can request an update on data but not be blocking while that data is being obtained. While the QML GUI is running, python gets updated data over a slow link (REST query, serial port, etc) and once the data is ready, the callback function can be executed.
 
 The code consists of three files. The shortest is the QML file which basically just loads the javascript to be run for the QML:
 
-## main.qml
+### main.qml
 
     import QtQuick 2.0
     import "application.js" as App
@@ -26,7 +26,7 @@ The code consists of three files. The shortest is the QML file which basically j
 
 The javascript to be loaded in contained in application.js:
 
-## application.js
+### application.js
 
     function queueMe(response)
     {
@@ -49,7 +49,7 @@ The ice prefixed functions are python functions. The onLoad() function runs ice.
 
 The last file is the main python function main.py.
 
-## main.py
+### main.py
 
     Skip to content
      This repository

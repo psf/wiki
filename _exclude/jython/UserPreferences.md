@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [UserPreferences](UserPreferences)
 
-# First time 
+## First time 
 
 Please fill out **Name**, **Password**, **Password repeat** and **Email**.
 
@@ -16,18 +16,18 @@ Please fill out **Name**, **Password**, **Password repeat** and **Email**.
 
 If you click on **Create Profile**, a user profile will be created for you and you will be logged in immediately.
 
-# Logging in 
+## Logging in 
 
 If want to re-login, just use **Name** and **Password** and click on **Login**. If you forgot your password, provide your email address and click on **Mail me my account data**.
 
-# Changing settings 
+## Changing settings 
 
 **Save** updates your profile (stored on the wiki server).
 
-# Logging out 
+## Logging out 
 
 **Logout** clears the cookie created at login.
 
-# The Cookie 
+## The Cookie 
 
 ![/!\\](/wiki/modernized/img/alert.png "/!\") The \"ID\", shown in the response page, gets saved as a cookie in your browser for the [system](http://grin-optics.org) to temporarily recognize you. It will expire next midnight - except if you choose **Remember login information** (after being logged in), then the cookie won\'t expire.

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# New Revisions of Boost 
+## New Revisions of Boost 
 
 Since this Wiki page was originally written, Boost::Python has added C++ wrappers for a lot of the direct C code this page references. The documentation for those wrappers are available under \"Embedding\" in the TOC. The current version, as of this writing, is here: [http://www.boost.org/doc/libs/1_46_0/libs/python/doc/v2/exec.html](http://www.boost.org/doc/libs/1_46_0/libs/python/doc/v2/exec.html)
 
 An example similar to the one below is provided at the bottom of the page.
 
-# Full example 
+## Full example 
 
 While Boost.Python does not provide all the constructs necessary for embedding Python in a C++ application, using it will still dramatically help with the task.
 
@@ -147,9 +147,9 @@ While this is certainly not complete, hopefully it will provide a starting point
 
 \--Thomas Stephens \<spiralman at gmail.com\>
 
-# Tips and Tricks 
+## Tips and Tricks 
 
-## Loading a module by full or relative path 
+### Loading a module by full or relative path 
 
 The main benefit of this approach is that you don\'t need to worry about escaping strings.
 
@@ -181,7 +181,7 @@ The main benefit of this approach is that you don\'t need to worry about escapin
 :::
 ::::
 
-## Extracting Python Exceptions 
+### Extracting Python Exceptions 
 
 :::: 
 ::: 
@@ -212,7 +212,7 @@ The main benefit of this approach is that you don\'t need to worry about escapin
 :::
 ::::
 
-## Line-oriented Logging of Python Exceptions 
+### Line-oriented Logging of Python Exceptions 
 
 The following sample is written using log4cxx. It may be trivially adapted to any other line-oriented logging system that prefixes every log message, such as syslog.
 
@@ -247,7 +247,7 @@ The following sample is written using log4cxx. It may be trivially adapted to an
 :::
 ::::
 
-## Working with Unicode 
+### Working with Unicode 
 
 Python supports unicode and string objects. If you have your own string type that stores UTF-8 it is very simple (I think) to support Unicode from Python:
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the 2014 PSF Board of Directors
+## Candidates for the 2014 PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning in April 2014. Their self-written summaries follow.
 
@@ -46,7 +46,7 @@ Please note that the new bylaws require disclosing the affiliation of each candi
 ------------------------------------------------------------------------
 
 ::: 
-### [Lynn Root](#id2)
+#### [Lynn Root](#id2)
 
 *2013 Board Member.*
 
@@ -62,7 +62,7 @@ Affiliation: Lynn Root works for Spotify.
 :::
 
 ::: 
-### [Jessica McKellar](#id3)
+#### [Jessica McKellar](#id3)
 
 *Current board member (2012, 2013)*
 
@@ -96,7 +96,7 @@ Affiliation: Jessica McKellar is a co-founder of Zulip.
 :::
 
 ::: 
-### [Brian Curtin](#id4)
+#### [Brian Curtin](#id4)
 
 *Current board member (2012, 2013)*
 
@@ -117,7 +117,7 @@ Affiliation: Rackspace
 :::
 
 ::: 
-### [Alex Gaynor](#id5)
+#### [Alex Gaynor](#id5)
 
 *Current board member (2013)*
 
@@ -129,7 +129,7 @@ Affiliations: I\'m employed by Rackspace.
 :::
 
 ::: 
-### [Marc-Andre Lemburg](#id6)
+#### [Marc-Andre Lemburg](#id6)
 
 *2013 Board Member*
 
@@ -171,7 +171,7 @@ Affiliation: eGenix.com GmbH, Germany
 :::
 
 ::: 
-### [Van Lindberg](#id7)
+#### [Van Lindberg](#id7)
 
 *Current board member (2012, 2013)*
 
@@ -190,7 +190,7 @@ Affiliation: I work at Rackspace.
 :::
 
 ::: 
-### [David Mertz](#id8)
+#### [David Mertz](#id8)
 
 *Current Board member (5 years)*
 
@@ -216,7 +216,7 @@ Affiliation: David Mertz is a consultant for D. E. Shaw Research and owner of Gn
 :::
 
 ::: 
-### [Rachel Sanders](#id9)
+#### [Rachel Sanders](#id9)
 
 *New Board Member.*
 
@@ -234,7 +234,7 @@ Affiliation: Rachel Sanders works for LinkedIn.
 :::
 
 ::: 
-### [Selena Deckelmann](#id10)
+#### [Selena Deckelmann](#id10)
 
 *New Board Member.*
 
@@ -263,7 +263,7 @@ Affiliation: Selena Deckelmann works for Mozilla.
 :::
 
 ::: 
-### [Kushal Das](#id11)
+#### [Kushal Das](#id11)
 
 *New Board Member.*
 
@@ -287,7 +287,7 @@ Affiliation: I work in Eucalyptus Systems.
 :::
 
 ::: 
-### [Alyssa Coghlan](#id12)
+#### [Alyssa Coghlan](#id12)
 
 *New Board Member.*
 
@@ -308,7 +308,7 @@ Affiliation: Alyssa Coghlan works for Red Hat.
 :::
 
 ::: 
-### [Travis Oliphant](#id13)
+#### [Travis Oliphant](#id13)
 
 *New Board Member.*
 

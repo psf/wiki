@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Library of Video Lectures
+## Library of Video Lectures
 
 A collection of video lectures suitable for projection at fledgling usergroup meetings to supply initial presentation material.
 
@@ -23,7 +23,7 @@ Other collections of Python-related video:
 ------------------------------------------------------------------------
 
 ::: 
-### [Iterators, Generators, and Descriptors](http://lang.stanford.edu/courses/ee380/2003-2004/031029-ee380-100.wmv)
+#### [Iterators, Generators, and Descriptors](http://lang.stanford.edu/courses/ee380/2003-2004/031029-ee380-100.wmv)
 
   --------- --------------------
   By:       Guido van Rossum
@@ -37,7 +37,7 @@ Python 2.2 and 2.3 added significant power to Python\'s competence in the constr
 :::
 
 ::: 
-### [Python 3000](http://video.google.com/videoplay?docid=-6459339159268485356)
+#### [Python 3000](http://video.google.com/videoplay?docid=-6459339159268485356)
 
   --------- -------------------
   By:       Guido van Rossum
@@ -49,7 +49,7 @@ The next major version of Python, nicknamed Python 3000 (or more prosaically Pyt
 :::
 
 ::: 
-### [Better, faster, smarter: Python yesterday, today \... and tomorrow](http://video.google.com/videoplay?docid=4539942226071440048)
+#### [Better, faster, smarter: Python yesterday, today \... and tomorrow](http://video.google.com/videoplay?docid=4539942226071440048)
 
   --------- -------------------
   By:       Alex Martelli
@@ -61,7 +61,7 @@ A presentation to the Bay Area Python Interest Group, giving some historical int
 :::
 
 ::: 
-### [Introducing Python](http://video.google.com/videoplay?docid=9023849479319414382)
+#### [Introducing Python](http://video.google.com/videoplay?docid=9023849479319414382)
 
   --------- -------------------------------------------------------------
   By:       Arlington Career Center Multimedia and Yorktown High School
@@ -75,7 +75,7 @@ A joint, interdisciplinary project between Arlington Career Center Multimedia an
 :::
 
 ::: 
-### [How Open Source Projects Survive Poisonous People](http://video.google.nl/videoplay?docid=-4216011961522818645)
+#### [How Open Source Projects Survive Poisonous People](http://video.google.nl/videoplay?docid=-4216011961522818645)
 
   --------- --------------------------------------------
   By:       Ben Collins-Sussman & Brian W. Fitzpatrick
@@ -89,7 +89,7 @@ Although the talk is focused on development teams, many of the principles relate
 :::
 
 ::: 
-### [Python 3000 (2)](http://video.google.com/videoplay?docid=1189446823303316785)
+#### [Python 3000 (2)](http://video.google.com/videoplay?docid=1189446823303316785)
 
   --------- --------------------
   By:       Guido van Rossum
@@ -101,7 +101,7 @@ Since the renewed Python 3000 effort was announced at PyCon 2006, a lot has happ
 :::
 
 ::: 
-### [Advanced Python or Understanding Python](http://video.google.com/videoplay?docid=7760178035196894549)
+#### [Advanced Python or Understanding Python](http://video.google.com/videoplay?docid=7760178035196894549)
 
   --------- --------------------
   By:       Thomas Wouters
@@ -113,14 +113,14 @@ The Python language, while object-oriented, is fundamentally different from both
 :::
 
 ::::: 
-### Python Design Patterns
+#### Python Design Patterns
 
   ----- ---------------
   By:   Alex Martelli
   ----- ---------------
 
 ::: 
-#### [Part 1](http://video.google.com/videoplay?docid=-3035093035748181693)
+##### [Part 1](http://video.google.com/videoplay?docid=-3035093035748181693)
 
   --------- ---------------
   Date:     March 2007
@@ -129,7 +129,7 @@ The Python language, while object-oriented, is fundamentally different from both
 :::
 
 ::: 
-#### [Part 2](http://video.google.com/videoplay?docid=-288473283307306160)
+##### [Part 2](http://video.google.com/videoplay?docid=-288473283307306160)
 
   --------- ---------------
   Date:     April 2007

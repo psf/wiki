@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Playing a sound with QtMultimedia 
+## Playing a sound with QtMultimedia 
 
 This example shows how to use the QAudioOutput class, introduced in Qt 4.6, to play a simple sine wave.
 

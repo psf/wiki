@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How can \"normal\" users report bugs in Python or the documentation? 
+## How can \"normal\" users report bugs in Python or the documentation? 
 
 The best way to submit bug reports for Python is to use the [bug reporting page](http://bugs.python.org) of the Python project. You will need to be logged into the [bug tracker](http://bugs.python.org) site. That may mean you will have to sign up, but it\'s not difficult. The decision to not allow anonymous bug reports was made because so many reports were incomplete and required further input from the submitter. This was impossible with anonymous reports. All we could do was close such reports.
 

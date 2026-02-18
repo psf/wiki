@@ -16,7 +16,7 @@ You could probably choose the child python script to run as
 
 if you know how to set up the web.tap.
 
-# Service Wrapper 
+## Service Wrapper 
 
     #based on http://twistedmatrix.com/pipermail/twisted-python/2003-October/006081.html
 
@@ -48,7 +48,7 @@ if you know how to set up the web.tap.
     if __name__ == '__main__':
         win32serviceutil.HandleCommandLine(TwistedWebService)
 
-# Web Server 
+## Web Server 
 
     from twisted.web import static, server, script,error
     from twisted.application import internet, service

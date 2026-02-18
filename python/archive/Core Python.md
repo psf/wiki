@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Just Python
+## Just Python
 
 Basic Python - a subset of the core language elements. Cover the import command, but don\'t cover any modules. scope, lists vs tuple\... that stuff, but don\'t cover lambda and other things that would make someones head explode.
 

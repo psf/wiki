@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sumit World 
+## Sumit World 
 
 Hi Friends here u got the some critical software and hacking skill to hack the people. or how to beacome a hacker
 
-# How To Become A Hacker 
+## How To Become A Hacker 
 
 **Table of Contents**
 

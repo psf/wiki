@@ -29,7 +29,7 @@ Please send email to:
 
 [jython-monthly@mchsi.com](mailto:jython-monthly@mchsi.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# Article Call 
+## Article Call 
 
 Unfortunately, we had no article submissions for this month\'s newsletter. All of the holiday activity must have had an impact on everyone\'s schedules. I know it has had an impact on mine!
 
@@ -41,7 +41,7 @@ Until then, enjoy the holiday season! The next issue of Jython Monthly is schedu
 
 \- Josh Juneau
 
-# Tips and Tricks 
+## Tips and Tricks 
 
 This is an old useful trick for referencing a static method within a Jython class.
 
@@ -74,15 +74,15 @@ Thanks to Alex Martelli for posting this recipe.
 
 [Python Cookbook](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/52304)
 
-# Podcasts 
+## Podcasts 
 
-### Python 411 
+#### Python 411 
 
 An excellent Python podcast which is useful for keeping current on the Python language, and also for learning how to use many of it\'s features.
 
 [Python 411 Site](http://www.awaretek.com/python/index.html)
 
-# Jython Blogs 
+## Jython Blogs 
 
 [Jython Alive and Well and Looking For Love](http://headius.blogspot.com/2006/11/jython-alive-and-well-and-looking-for.html)
 
@@ -90,23 +90,23 @@ An excellent Python podcast which is useful for keeping current on the Python la
 
 [Javalobby Forum](http://www.javalobby.org/java/forums/t84455.html)
 
-# News 
+## News 
 
-### PyCon 2007 
+#### PyCon 2007 
 
 [PyCon](./PyCon.html) 2007 is getting closer. The event is scheduled to take place in Addison, Texas (near Dallas) on February 23-25, 2007.
 
 The list of talks is available [here](http://us.pycon.org/apps07/talks/). Frank Wierzbicki will be giving a talk entitled ***Jython for Python Developers***. Book your reservations today and do not miss out on the event!
 
-## JavaOne Help 
+### JavaOne Help 
 
 The [JavaOne](./JavaOne.html) event will be held at the Moscone Center in San Francisco, California on May 8-11 2007. The *Call for Papers* is now open and there is a need for Jython presentations. If you are interested or would like to learn more about the event, please visit [JavaOne 2007 Site](http://java.sun.com/javaone/sf/index.jsp)
 
-## 2.2 Beta Just Around the Corner 
+### 2.2 Beta Just Around the Corner 
 
 Developers on the Jython project are predicting that the next beta release will be due out soon\...please stay tuned to [the Jython site](http://www.jython.org) for the most recent details on this upcoming release.
 
-# Interesting Facts 
+## Interesting Facts 
 
 [Code Golf](http://codegolf.com:80/)
 
@@ -120,13 +120,13 @@ Developers on the Jython project are predicting that the next beta release will 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 Check out the new [Porting Python Modules to Jython](http://wiki.python.org/jython/JythonDeveloperGuide/PortingPythonModulesToJython) guide which has been posted by Charlie Groves. This guide will help beginners get a quick start on developing Jython. Thanks for the guide Charlie.
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Useful Links 
+## Useful Links 
 
 ::: {}
   ----------------------------------------------------------------

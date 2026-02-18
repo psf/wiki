@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Welcome to Pyramid 
+## Welcome to Pyramid 
 
 Pyramid is the internal website templating system used to build the python.org pages. (It is not connected to the Pyramid web framework, formerly named BFG, that\'s used with Pylons.)
 
@@ -14,7 +14,7 @@ Pyramid uses Nevow as its templating system and YAML as the format for its file 
 
 Pyramid has been tested on Debian, Ubuntu and Windows XP.
 
-## Obtaining Pyramid 
+### Obtaining Pyramid 
 
 To check out and install pyramid:
 
@@ -23,7 +23,7 @@ To check out and install pyramid:
     python setup.py build
     sudo python setup.py install
 
-## Requirements 
+### Requirements 
 
 Pyramid requires Python 2.4.
 
@@ -50,15 +50,15 @@ To install syck, use the usual configure/make/install:
     make
     sudo make install
 
-## Using Eggs 
+### Using Eggs 
 
 See [PythonWebsitePyramidEggs](PythonWebsitePyramidEggs) for information on installing from eggs (tho I don\'t know if this is up to date).
 
-## Windows Users 
+### Windows Users 
 
 Should be able to get away with Twisted Sumo windows installer [http://twistedmatrix.com/projects/core/](http://twistedmatrix.com/projects/core/) (which includes zope interfaces as well as twisted and twisted web) and [PySyck](./PySyck.html) windows installer from xitology (which includes syck windows build)
 
-## Testing 
+### Testing 
 
 XXX: Apparently, the exportpathCHANGEME.sh script is no longer used?
 
@@ -70,7 +70,7 @@ XXX: Three tests are failing right now. I do know xmldiff is being used right no
 
 This should pass nicely. (actually it may not as different installations spit out html attributes in different orders.. The unittests are being changed to perform xmldiff\'s to get around this - in the mean time as long as the diff that you see when you run the script looks very similar you should be ok). Note.. this is really a regression test rather than a unit test. The second test will probable show differences depending on what version of docutils that you are using.
 
-## Usage 
+### Usage 
 
 For python.org-specific instructions, take a look at [http://www.python.org/dev/pydotorg/website/](http://www.python.org/dev/pydotorg/website/).
 
@@ -88,7 +88,7 @@ Beginner\'s documentation is at:
 
 The documentation has some python.org specific stuff in it but that is a good thing at the moment.
 
-## Debugging in Wing IDE 
+### Debugging in Wing IDE 
 
 To debug pyramid in Wing IDE, set up a project, add pyramid (or a copy of it) as the \"main debug file\" and set the parameters and starting directory in the File Properties (right click on file or file\'s name in project view). This can help point at problems when running w/ -V doesn\'t provide enough info.
 
@@ -98,7 +98,7 @@ We should specify version ranges where applicable, and allow the latest packages
 
 TP: I\'ll check on this..
 
-## Zope Interfaces 
+### Zope Interfaces 
 
 A requirement for Twisted
 
@@ -106,7 +106,7 @@ homepage [http://www.zope.org/Products/ZopeInterface](http://www.zope.org/Produc
 
 download [http://www.zope.org/Products/ZopeInterface/3.1.0c1/ZopeInterface-3.1.0c1.tgz](http://www.zope.org/Products/ZopeInterface/3.1.0c1/ZopeInterface-3.1.0c1.tgz)
 
-## Twisted & Twisted Web 
+### Twisted & Twisted Web 
 
 homepage [http://twistedmatrix.com/projects/core/](http://twistedmatrix.com/projects/core/)
 
@@ -116,19 +116,19 @@ homepage [http://twistedmatrix.com/projects/web/](http://twistedmatrix.com/proje
 
 download [http://tmrc.mit.edu/mirror/twisted/Web/0.5/TwistedWeb-0.5.0.tar.bz2](http://tmrc.mit.edu/mirror/twisted/Web/0.5/TwistedWeb-0.5.0.tar.bz2)
 
-## Nevow 
+### Nevow 
 
 homepage [http://divmod.org/trac/wiki/DivmodNevow](http://divmod.org/trac/wiki/DivmodNevow)
 
 download [http://divmod.org/trac/attachment/wiki/SoftwareReleases/Nevow-0.7.0.tar.gz?format=raw](http://divmod.org/trac/attachment/wiki/SoftwareReleases/Nevow-0.7.0.tar.gz?format=raw)
 
-## docutils
+### docutils
 
 home page [http://docutils.sourceforge.net/](http://docutils.sourceforge.net/)
 
 download [http://docutils.sourceforge.net/docutils-snapshot.tgz](http://docutils.sourceforge.net/docutils-snapshot.tgz)
 
-## syck & pysyck 
+### syck & pysyck 
 
 You will need bison and yacc to build and install syck.
 
@@ -142,13 +142,13 @@ pysyck interface: [http://xitology.org/pysyck](http://xitology.org/pysyck)
 
 Download [http://xitology.org/pysyck/PySyck-0.55.1.tar.gz](http://xitology.org/pysyck/PySyck-0.55.1.tar.gz)
 
-## Beautiful Soup 
+### Beautiful Soup 
 
 Download version 2.1.1 or later from [http://www.crummy.com/software/BeautifulSoup/index.html#Download](http://www.crummy.com/software/BeautifulSoup/index.html#Download)
 
 Home page [http://www.crummy.com/software/BeautifulSoup/](http://www.crummy.com/software/BeautifulSoup/)
 
-## xmldiff from logilab 
+### xmldiff from logilab 
 
 If you are having problems getting pyramid to work, you might like to try the built in tests. The tests require comparing xml files and because of which we have another requirement for xmldiff
 

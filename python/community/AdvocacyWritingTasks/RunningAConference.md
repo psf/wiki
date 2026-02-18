@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Planning a Python Conference
+## Planning a Python Conference
 
   --------- --------------------
   Author:   Andrew M. Kuchling
@@ -36,7 +36,7 @@ Contents
 :::
 
 ::: 
-### [Introduction](#id1)
+#### [Introduction](#id1)
 
 A great way to energize the Python® community in your area is to hold a Python conference. Conferences are an excellent way for people to meet old friends and make new friends, to exchange ideas and knowledge, and to work together on projects using fast face-to-face discussions instead of slower e-mail and chat sessions. After a successful conference, people come away excited and energized.
 
@@ -48,12 +48,12 @@ Larger conferences such as PyCon or EuroPython are more complicated to plan for 
 :::
 
 ::::::: 
-### [Types of conferences](#id2)
+#### [Types of conferences](#id2)
 
 Small conferences can be structured in a number of ways.
 
 ::: 
-#### [Planned conferences](#id3)
+##### [Planned conferences](#id3)
 
 A planned conference is the most traditional kind, with a fixed timetable and pre-selected schedule of speakers. Attendees will spend most of the conference time listening to speakers and occasionally making a comment or asking a question.
 
@@ -64,7 +64,7 @@ Pre-conference planning:
 :::
 
 ::: 
-#### [Sprints](#id4)
+##### [Sprints](#id4)
 
 Sprints (also called hackathons) feature small groups of 3-10 people, who gather around a table and work on various projects. Sprints are very decentralized because there are no speakers who stand up and talk while the rest of the room listens; instead the activity is in the conversations within each small group.
 
@@ -78,7 +78,7 @@ Pre-conference planning:
 :::
 
 ::: 
-#### [Unconferences](#id5)
+##### [Unconferences](#id5)
 
 An unconference is a conference where the content of the sessions is invented day-by-day by the participants. Often the program for each day is planned at the first session every morning. Participants introduce themselves, describe session topics they\'re interested in, and assemble into groups.
 
@@ -90,7 +90,7 @@ Alternate terms for unconferences are \"open space conference\" or \"barcamp\".
 :::
 
 ::: 
-#### [Combinations](#id6)
+##### [Combinations](#id6)
 
 You can combine more than one of these styles. For example, a two-day conference might feature one day of planned talks and one day for a more loosely-structured unconference or for sprints.
 
@@ -101,7 +101,7 @@ Another benefit of putting sprints after the conference is making the sprint mor
 :::::::
 
 ::: 
-### [Volunteers](#id7)
+#### [Volunteers](#id7)
 
 It would be difficult (though not impossible) for a single person to organize and run a conference, but the job is much easier for a group of organizers. Volunteers can:
 
@@ -116,7 +116,7 @@ During the months before the conference, schedule a regular volunteer meeting to
 :::
 
 ::: 
-### [Finding a location](#id8)
+#### [Finding a location](#id8)
 
 The most important things about the location are:
 
@@ -155,7 +155,7 @@ The location should be accessible by public transport. It\'s a bonus if there ar
 :::
 
 ::: 
-### [Scheduling the conference](#id9)
+#### [Scheduling the conference](#id9)
 
 Weekends are probably best for a small conference. Most attendees probably won\'t be sent by their employers and would have to use up vacation time if the conference is held during the work-week.
 
@@ -163,7 +163,7 @@ Think carefully before scheduling your conference for a holiday. While it might 
 :::
 
 ::: 
-### [Drawing up the program](#id10)
+#### [Drawing up the program](#id10)
 
 There are several different approaches to assembling a conference program.
 
@@ -179,7 +179,7 @@ Don\'t over-schedule; you don\'t need to fill every single block of time with an
 :::
 
 ::: 
-### [Networking](#id11)
+#### [Networking](#id11)
 
 Internet access is **extremely** important for a technical conference. Many people will have laptops, and attendees like to download the software being presented or look at related web sites.
 
@@ -189,7 +189,7 @@ Some facilities may have an existing wireless network. You should plan on bringi
 :::
 
 ::: 
-### [Food and Catering](#id12)
+#### [Food and Catering](#id12)
 
 Providing food is a major source of complications. Food is expensive, especially if the location requires you to use a particular catering service. Food needs to be stored and served carefully for health (and legal!) reasons. You also need to worry about providing options for vegetarians or people with food allergies.
 
@@ -204,7 +204,7 @@ OTOH, sponsoring catered food is an excellent way of attracting financial assist
 :::
 
 ::: 
-### [Publicizing your conference](#id13)
+#### [Publicizing your conference](#id13)
 
 Publicizing your conference is important for attracting people who don\'t attend regular user group meetings or aren\'t aware of them. You can reach out to people who don\'t see themselves primarily as Python users, but as programmers or sysadmins or researchers who happen to use Python.
 
@@ -261,7 +261,7 @@ If a reporter is interested in attending, don\'t just leave him/her to their own
 :::
 
 ::: 
-### [Running your conference](#id14)
+#### [Running your conference](#id14)
 
 It\'s hard to offer detailed advice on what needs to be done while an event is going on. This section is therefore rather scattered, a collection of tips and suggestions about various topics.
 
@@ -277,7 +277,7 @@ Make the conference staff visible so that attendees know who they can ask for he
 :::
 
 ::: 
-### [Finances](#id15)
+#### [Finances](#id15)
 
 There will certainly be some expenses required to hold an event. You can cover these expenses in several ways:
 
@@ -290,7 +290,7 @@ Ask the venue whether the attendees for your event will be covered by their insu
 :::
 
 ::: 
-### [References](#id16)
+#### [References](#id16)
 
 [http://www.barcamp.org](http://www.barcamp.org):
 :   The world-wide site for Bar Camps.
@@ -323,7 +323,7 @@ The PyCon organizers try to make their planning process as transparent as possib
 :::
 
 ::: 
-### [Legal](#id17)
+#### [Legal](#id17)
 
 Python is a registered trademark of the Python Software Foundation.
 :::

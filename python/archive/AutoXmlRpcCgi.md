@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This is a CGI version of the \"automatic [DocXmlRpcServer](DocXmlRpcServer).\"
 
-## Tutorial 
+### Tutorial 
 
 Suppose you have a Python module:
 
@@ -55,7 +55,7 @@ Your friends can now call your function!
 
 There it is!
 
-## Notes 
+### Notes 
 
 - If you set XMLRPC_namespace to None, then namespaces aren\'t used.
 
@@ -63,7 +63,7 @@ There it is!
 
 - If you define a function \"uli\" (`def uli(msg):`), you can call it in IRC with [UliBot!](http://onebigsoup.wiki.taoriver.net/moin.cgi/UliBot)
 
-## Code: xrcgi.py 
+### Code: xrcgi.py 
 
 :::: 
 ::: 
@@ -158,7 +158,7 @@ There it is!
 :::
 ::::
 
-# Discussion 
+## Discussion 
 
 This could be improved. Some ideas:
 

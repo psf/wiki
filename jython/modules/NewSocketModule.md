@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# New Socket Module 
+## New Socket Module 
 
-## Introduction 
+### Introduction 
 
 This page descibes the socket module for jython 2.5, which now has support for [asynchronous or non-blocking operations](http://en.wikipedia.org/wiki/Non-blocking_I/O). This support makes possible the use of event-based server frameworks on jython. Examples of cpython event-based frameworks are [Twisted](http://twistedmatrix.com/), [Zope](http://www.zope.org/) and [Medusa](http://www.amk.ca/python/code/medusa.html). It is considered by some that Asynchronous IO is the only way to address [The C10K problem](http://www.kegel.com/c10k.html)
 
@@ -18,7 +18,7 @@ The socket module is quite stable; a [number of bugs in the functionality have b
 
 There are necessarily some differences between the behaviour of the cpython and jython socket modules, because jython is implemented on the java socket model, which is more restrictive than the C language socket interface that cpython is based on. It is the purpose of this document to describe those differences. If you find a difference in behaviour between cpython and jython that is not documented here, and where jython is behaving differently to the cpython socket documentation, then [that should be considered a bug and reported, please](http://bugs.jython.org/).
 
-## Requirements 
+### Requirements 
 
 Non-blocking support
 
@@ -32,7 +32,7 @@ SSL support
 
 - Any jython version \>= 2.5
 
-## Cpython compatibility 
+### Cpython compatibility 
 
 The new socket module has been written to comply as closely as possible with the cpython 2.5 API for non-blocking sockets, therefore you should use the cpython socket documentation as your reference when writing code.
 
@@ -40,7 +40,7 @@ The new socket module has been written to comply as closely as possible with the
 
 If the jython module exhibits behaviour that differs from that described in the cpython documentation, then that should be considered a bug and reported as such, except for certain unavoidable differences, desribed below.
 
-## SSL Support 
+### SSL Support 
 
 The module includes an implementation of client side SSL support, which is compatible with the cpython SSL API. The client side ssl example from the cpython documentation should just work.
 
@@ -57,7 +57,7 @@ All of the above are possible, but since no other python version includes that s
 
 If you have serious SSL or crypto requirements, then I **strongly** recommend using the java crypto libraries, or one of the excellent third-party crypto libraries for java, such as that from the [Legion of the Bouncy Castle](http://www.bouncycastle.org).
 
-### Certificate Checking 
+#### Certificate Checking 
 
 By default, the cpython socket library does not carry out certificate checking, which means that it will accept expired certificates, etc. This is acceptable when the validity of the remote certificate is not important, such as in testing.
 
@@ -65,11 +65,11 @@ In Java, by default, certificate checking is **enabled**. This means that the jy
 
 There is also a pure Jython implementation of this same thing here: [Trusting All Certificates in Jython](http://tech.pedersen-live.com/2010/10/trusting-all-certificates-in-jython/)
 
-#### By configuring your JVM 
+##### By configuring your JVM 
 
 If you are using self-generated certificates for testing, then you can import those certificates into the JVM running your jython scripts, and the certificate will then be recognised. See this article from Sun on [how to install certificates on a JVM](http://java.sun.com/j2ee/1.4/docs/tutorial/doc/Security6.html).
 
-#### By installing your own Security Provider 
+##### By installing your own Security Provider 
 
 The following technique has been adapted from the ZXTM [KnowledgeHub](./KnowledgeHub.html) article [Using the Control API with Java](http://knowledgehub.zeus.com/articles/2006/01/03/using_the_control_api_with_java).
 
@@ -130,13 +130,13 @@ To install this custom Security Provider from jython, execute the following code
 
 All code which creates SSL socket connections should now accept all certicates, whether they are valid or not.
 
-## Cpython versions 
+### Cpython versions 
 
 It is the intention that these modules be fully API compatible with cpython, as far as is possible or sensible. This means that any cpython socket code that is syntax compatible with your selected jython version should produce identical behaviour to the same code running on cpython.
 
 The unit-tests provided with these modules should also run on all versions of cpython. See below under unit-tests for more details.
 
-## Other I/O 
+### Other I/O 
 
 The design of the cpython non-blocking API is derived from the UNIX C api, which deals with FILE DESCRIPTORS. Since file descriptors can describe any type of I/O channel on unix OSes, cpython can deal with selecting and polling on multiple channel types, such non-blocking files, pipes and named-pipes, fifos, etc.
 
@@ -150,7 +150,7 @@ Specifically, [FileChannel\'s](http://java.sun.com/j2se/1.4.2/docs/api/java/nio/
 
 Of the two channel types listed above, these modules only support socket channels. This is because it was necessary to rewrite all of the socket creation calls to return [SelectableChannels](./SelectableChannels.html). To do so for Pipes, which are used for communication with sub-processes, it would be necessary to rewrite the jython sub-process creation modules, i.e. popen, etc, to create [SelectableChannels](./SelectableChannels.html). Although it should be reasonably straightforward to implement this, I have no plans to do this work.
 
-## Socket options 
+### Socket options 
 
 The following socket options are supported on jython
 
@@ -214,9 +214,9 @@ The exception is SO_LINGER, which (thanks to cpython\'s C heritage) takes a pack
     linger_status = mysock.getsockopt(socket.SOL_SOCKET, socket.SO_LINGER)
     linger_enabled, linger_time = struct.unpack('ii', linger_status)
 
-## Differences between cpython and jython 
+### Differences between cpython and jython 
 
-### socket.fileno() does not return an integer 
+#### socket.fileno() does not return an integer 
 
 Cpython, as is appropriate for its C language heritage, returns an integer from the **socket.fileno()** method. However, the concept of having an integer handle on I/O channels is a C language specific idiom: C maintains an internal of array of FILE\* structures, and the integer \"file descriptor\" is an index into that array.
 
@@ -228,7 +228,7 @@ The **socket.fileno()** method has been added to jython purely for code compatib
 
 For a much more detailed discussion of this subject, see this email discussion: [fileno support is not in jython. Reason?](http://comments.gmane.org/gmane.comp.lang.jython.devel/3994)
 
-### Socket shutdown 
+#### Socket shutdown 
 
 On sockets, the **shutdown** method is closely related to the **close** method, in that it terminates network communication on the socket. However, there are differences, because **close** relates to the file descriptor connected to the socket, whereas the **shutdown** method relates to the socket itself. But java doesn\'t have file descriptors, and doesn\'t have the shutdown method for sockets in general; only TCP client sockets have shutdown methods; for TCP server sockets and UDP sockets, the method to shutdown a socket is the **close** method. For a detailed discussion of these issues, see this blog post: [Socket shutdown versus socket close on cpython, jython and java](http://jython.xhaus.com/socket-shutdown-versus-socket-close-on-cpython-jython-and-java/). On jython, the socket method is implemented as follows, for each type of socket
 
@@ -238,13 +238,13 @@ On sockets, the **shutdown** method is closely related to the **close** method, 
 
 3.  **UDP sockets**. When **shutdown** is called on an UDP socket, as with TCP server sockets, the effect should be to stop accepting incoming packets. However, in java there is no **shutdown** method on udp sockets (see [DatagramSocket](http://java.sun.com/j2se/1.5/docs/api/java/net/DatagramSocket.html) and [DatagramChannel](http://java.sun.com/j2se/1.5/docs/api/java/nio/channels/DatagramChannel.html)), there is only a **close** method. So in jython, the **shutdown** method on UDP sockets is a no-op, i.e. it **does nothing**. If you want to stop accepting incoming packets, then you should call the **close()** method on the socket.
 
-### Error handling 
+#### Error handling 
 
 These modules have been coded so that the error handling is as close to the error handling of cpython as possible. So, ideally, cpython socket and select code run on jython should exhibit identical behaviour to cpython, in terms of exception types raised, error numbers returned, etc.
 
 However, due to the different semantics of java and C, there will be differences in the error handling, which will be documented here as they are discovered.
 
-### Differences in the treatment of zero timeout values 
+#### Differences in the treatment of zero timeout values 
 
 On cpython, when you specify a zero (i.e. 0 or 0.0) timeout value, the socket should behave the same as if the socket had been placed in non-blocking mode. See the [cpython socket object documentation](http://www.python.org/doc/lib/socket-objects.html) for details.
 
@@ -257,7 +257,7 @@ This means that you may get differing exception signatures when using zero timeo
 1.  Cpython: socket operations with zero timeouts that fail will raise socket.error exceptions. This is equivalent to a -1 return from the C socket.recv call, with errno set to EAGAIN, meaning \"The socket is marked non-blocking and the receive operation would block, or a receive timeout had been set and the timeout expired before data was received.\"
 2.  Jython: socket operations with zero timeouts that fail will generate socket.timeout exceptions.
 
-### Deferred socket creation on jython 
+#### Deferred socket creation on jython 
 
 Java has different objects for Client (java.net.Socket+java.nio.channels.[SocketChannel](./SocketChannel.html)) and Server (java.net.[ServerSocket](./ServerSocket.html)+java.nio.channels.[ServerSocketChannel](./ServerSocketChannel.html)) sockets. Jython cannot know whether to create a client or server socket until some client or server specific behaviour is observed. For clients, this is a **connect()** call, and for servers, this is a **listen()** call.
 
@@ -295,13 +295,13 @@ In this scenario, if you relied on the port number returned after the bind call 
 
 Similarly, the actual underlying implementation socket for client sockets does not exist until you have called one of the **connect()** methods.
 
-## Known issues and workarounds 
+### Known issues and workarounds 
 
-### Null address returned from UDP socket.recvfrom() in timeout mode 
+#### Null address returned from UDP socket.recvfrom() in timeout mode 
 
 This bug is reported on the jython bug tracker: [UDP recvfrom fails to get the remote address](http://bugs.jython.org/issue1018).
 
-#### Description 
+##### Description 
 
 When an UDP socket is in timeout mode, the address returned from socket.recvfrom() is always (None, -1).
 
@@ -313,15 +313,15 @@ This only happens in timeout mode, because that code path uses java.net.[Datagra
 
 This bug has been reported to Sun, but is not yet public on the Java bug database.
 
-#### Workaround 
+##### Workaround 
 
 1.  Until the java bug is fixed, only use sockets in either blocking or non-blocking mode; the problem will not occur in this case.
 
 2.  If you need timeouts, then until the java bug is fixed, you should probably create your own [DatagramSockets](./DatagramSockets.html), directly through the java.net APIs.
 
-### IPV6 address support 
+#### IPV6 address support 
 
-#### Description 
+##### Description 
 
 On some versions of the JVM, there are problems with bind\'ing and connect\'ing sockets using IPV6 addresses, even though the OS platform ostensibly supports IPV6. See this bug on the Java bug database: [NIO channels with IPv6 on Windows](http://bugs.sun.com/view_bug.do?bug_id=6230761)
 
@@ -356,7 +356,7 @@ This is problematic in jython, because there are multiple modules, such as telne
 
 So to prevent those failures, we\'ve put a workaround in place.
 
-#### Workaround 
+##### Workaround 
 
 The workaround is a jython-specific function which instructs the **getaddrinfo()** function to **only** return IPV4 addresses. Although this function is in the socket module, it affects all modules that use the **getaddrinfo()** function.
 
@@ -380,7 +380,7 @@ To restore normal behaviour of the **AF_UNSPEC** family, pass a **False** value 
 
 **NB**: This workaround **only** affects the **getaddrinfo()** function. If you pass traditional (hostname, port) tuples containing IPV6 addresses to socket functions, e.g. (\"::1\", 80), you will **not** be able to avail of this workaround.
 
-### Internationalized Domain Name support 
+#### Internationalized Domain Name support 
 
 [Internationalized Domain Names for Applications](http://en.wikipedia.org/wiki/Internationalized_domain_name) (IDNA) is a mechanism whereby characters from outside the [US-ASCII character set](http://en.wikipedia.org/wiki/ASCII) may be used in domain names. IDNA is specified in [RFC 3490](http://tools.ietf.org/html/rfc3490).
 
@@ -388,7 +388,7 @@ Before IDNA, it was not possible to include non-ASCII characters in domain names
 
 Therefore, in order to access the entire internet, including non-ASCII domain names, IDNA support is required.
 
-#### Description 
+##### Description 
 
 When you pass a non-ASCII hostname to the cpython or jython socket module, it attempts to automatically map that name to its IDNA equivalent. This applies to all functions that take hostnames, e.g. getaddrinfo(), bind(), connect(), etc, as in these examples from cpython
 
@@ -413,7 +413,7 @@ The problem is that [jython\'s IDNA support is currently broken](http://bugs.jyt
     socket.gaierror: (20001, 'getaddrinfo failed')
     >>>
 
-#### Workaround 1 for Java 6 JVMs 
+##### Workaround 1 for Java 6 JVMs 
 
 There is builtin [IDNA support in Java 6](http://java.sun.com/developer/technicalArticles/javase/i18n_enhance/#idn). This support has been used in the jython socket module, but **only when jython is run on a Java 6 JVM**. This support was first made available in jython 2.5.2rc4. See this example from the latest jython
 
@@ -427,7 +427,7 @@ There is builtin [IDNA support in Java 6](http://java.sun.com/developer/technica
 
 This IDNA support **will not work on Java 5 JVMs**: You must use a Java 6 JVM for it to work.
 
-#### Workaround 1 for Java 5 JVMs 
+##### Workaround 1 for Java 5 JVMs 
 
 If you are unable to upgrade the JVM on which you run jython to Java 6, then there is another potential workaround.
 

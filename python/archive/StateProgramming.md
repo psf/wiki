@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# State Programming 
+## State Programming 
 
-### Why, When 
+#### Why, When 
 
 Very often, the response of a function will depend on the state of this object. With this pattern, It\'s easy to do such a thing ! You just have to write several sub-classes, each per state, inherit the State class and call the setState when the object need to change state.
 
-### Code 
+#### Code 
 
 :::: 
 ::: 
@@ -31,7 +31,7 @@ Very often, the response of a function will depend on the state of this object. 
 :::
 ::::
 
-### Example 
+#### Example 
 
 :::: 
 ::: 

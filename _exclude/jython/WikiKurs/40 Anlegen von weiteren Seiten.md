@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)40(20)Anlegen(20)von(20)weiteren(20)Seiten.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)30(20)Der(20)grafische(20)Editor.html) Slide 24 of 27 [\>\>](./WikiKurs(2f)50(20)Wiki(2d)Etikette.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Weitere Seiten anlegen 
+## Weitere Seiten anlegen 
 
 Neue Seiten legt man am Einfachsten und Besten so an:
 

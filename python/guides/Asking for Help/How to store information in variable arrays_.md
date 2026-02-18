@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How to store information in variable arrays? 
+## How to store information in variable arrays? 
 
 How would I store information in variables that I can go back later and compare? Such as
 

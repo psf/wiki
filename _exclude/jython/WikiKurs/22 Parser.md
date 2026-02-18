@@ -10,16 +10,16 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)22(20)Parser.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)21(20)Makros.html) Slide 21 of 27 [\>\>](./WikiKurs(2f)23(20)Aktionen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Parser 
+## Parser 
 
-## Eingabe 
+### Eingabe 
 
      {{{#!highlight python
      def hallo(name):
          print "Hallo %s" % name
      }}}
 
-## Anzeige 
+### Anzeige 
 
 :::: 
 ::: 

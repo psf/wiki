@@ -12,7 +12,7 @@ Pydev is an **Open Source** Python plugin for Eclipse, and is hosted at [http://
 
 Below there are some of the features available (version 1.5.0)
 
-# Pydev 
+## Pydev 
 
 - **Python**, **Jython** and **[IronPython](../implementations/IronPython)** support
 

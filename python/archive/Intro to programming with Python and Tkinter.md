@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Introduction 
+## Introduction 
 
 hello \....
 
@@ -32,7 +32,7 @@ Due to the construction of the school, I have been rather late in replying, I ha
 
 Chieh Wu
 
-## Intro to programming with Python in Tkinter 
+### Intro to programming with Python in Tkinter 
 
 Have you ever wanted to know how your application is programmed on the computer. This lecture will show you how easy it is to program.
 
@@ -40,15 +40,15 @@ Aimed at beginner programmers or people that has no programming experience. For 
 
 The python course series is designed to be short, fun, and concise. They are 10 minutes each with fun examples and easy instruction. If you want to learn programming this is the way to go.
 
-### Lecture 1: Why is python so cool??? 
+#### Lecture 1: Why is python so cool??? 
 
 In this lecture I will convince you that python will eventually take over the world :). Actually we will discuss how the class will be conducted and how much fun we are going to have. This will be the last lecture I write.
 
-### Lecture 2: How to download python 
+#### Lecture 2: How to download python 
 
 I will show you where you download python. If you found this page, chances are that you already know how. I will also talk about different resources to help you program python.
 
-### Lecture 3: Your first python program (10min) 
+#### Lecture 3: Your first python program (10min) 
 
 [http://iamar.net/subpages/pythonLect3.html](https://web.archive.org/web/20121126014531/http://iamar.net/subpages/pythonLect3.html)
 
@@ -94,7 +94,7 @@ Like all programming books, we kick off with a quick and simple non-hello world 
     listb2.pack()
     root.mainloop()                 # Invoke the main event handling loop
 
-### Lecture 4: Button are meant to be pushed(10min) 
+#### Lecture 4: Button are meant to be pushed(10min) 
 
 [http://iamar.net/subpages/pythonLect4.html](https://web.archive.org/web/20130724053700/http://iamar.net/subpages/pythonLect4.html)
 
@@ -202,7 +202,7 @@ When you press a button, your program will say \"hi\"
     listbox.pack()                  #this tells the listbox to come out
     root.mainloop()                 #This command will tell the window come out
 
-### Lecture 5: Stealing is good in programming(10min) 
+#### Lecture 5: Stealing is good in programming(10min) 
 
 [http://iamar.net/subpages/pythonLect5.html](http://iamar.net/subpages/pythonLect5.html)
 
@@ -241,7 +241,7 @@ We will program something using other people\'s code ![:)](/wiki/europython/img/
 
     print answer
 
-### Lecture 6: How to create anything in Tkinter(10min) 
+#### Lecture 6: How to create anything in Tkinter(10min) 
 
 [http://iamar.net/subpages/pythonLect6.html](http://iamar.net/subpages/pythonLect6.html)
 
@@ -253,7 +253,7 @@ We will learn how to create everything in the Tkinter library, windows, buttons,
 
 **Example Code** [lecture6_chieh.py](attachments/Intro(20)to(20)programming(20)with(20)Python(20)and(20)Tkinter/lecture6_chieh.py) [lecture6_stacy.py](attachments/Intro(20)to(20)programming(20)with(20)Python(20)and(20)Tkinter/lecture6_stacy.py)
 
-### Lecture 7: Now let\'s make them do something(10min) 
+#### Lecture 7: Now let\'s make them do something(10min) 
 
 [http://iamar.net/subpages/pythonLect7.html](http://iamar.net/subpages/pythonLect7.html)
 
@@ -263,7 +263,7 @@ Now that we have learned how to create widgets, we need to tell them to do somet
 
 **Example Code** [lecture7_homework.py](attachments/Intro(20)to(20)programming(20)with(20)Python(20)and(20)Tkinter/lecture7_homework.py) [lecture7_text.py](attachments/Intro(20)to(20)programming(20)with(20)Python(20)and(20)Tkinter/lecture7_text.py)
 
-### Lecture 8: Let\'s make some decisions(7min) 
+#### Lecture 8: Let\'s make some decisions(7min) 
 
 [http://iamar.net/subpages/pythonLect8.html](http://iamar.net/subpages/pythonLect8.html)
 
@@ -275,7 +275,7 @@ Learn how to use the if statements. Having a program that makes decisions for us
 
 **Example Code** [lecture8_ifexample.py](attachments/Intro(20)to(20)programming(20)with(20)Python(20)and(20)Tkinter/lecture8_ifexample.py)
 
-### Lecture 9: Let\'s create a password system(11min) 
+#### Lecture 9: Let\'s create a password system(11min) 
 
 [http://iamar.net/subpages/pythonLect9.html](http://iamar.net/subpages/pythonLect9.html)
 
@@ -285,7 +285,7 @@ Learn how we can use the if statement to create a password system.
 
 **Example Code** [lecture9_password.py](attachments/Intro(20)to(20)programming(20)with(20)Python(20)and(20)Tkinter/lecture9_password.py)
 
-### Lecture 10: Photo display Part A(15min) 
+#### Lecture 10: Photo display Part A(15min) 
 
 [http://iamar.net/subpages/pythonLect10.html](http://iamar.net/subpages/pythonLect10.html)
 
@@ -295,7 +295,7 @@ Learn how to create a photo display. The concentration of this lecture is about 
 
 **Example Code** [lecture10_pictures.py](attachments/Intro(20)to(20)programming(20)with(20)Python(20)and(20)Tkinter/lecture10_pictures.py)
 
-### Lecture 11: Photo display Part B(9min) 
+#### Lecture 11: Photo display Part B(9min) 
 
 [http://iamar.net/subpages/pythonLect11.html](http://iamar.net/subpages/pythonLect11.html)
 
@@ -303,7 +303,7 @@ Actually creating the image viewer. We are going to create what I promised last 
 
 **You will learn:** How to use canvas widget to include a gif image, how to delete an image. A real example of the need for global variables.
 
-### Lecture 12: Photo display Part C(9min) 
+#### Lecture 12: Photo display Part C(9min) 
 
 [http://iamar.net/subpages/pythonLect12.html](http://iamar.net/subpages/pythonLect12.html)
 
@@ -311,19 +311,19 @@ Improving the image viewer we had from the last class. This lecture will start t
 
 **You will learn:** The 4 types of OS most people use (windows, unix, apple, linux) , How do you find out your OS, How do you list all the files in a specific directory.
 
-### Lecture 13: Photo display Part d (9min) 
+#### Lecture 13: Photo display Part d (9min) 
 
 [http://iamar.net/subpages/pythonLect13.html](http://iamar.net/subpages/pythonLect13.html)
 
 We start learning about the string library. With these many libraries, you will also learn how to find all the tools inside the library using the IDLE interpreter. In this lecture, I am showing you how to fish.
 
-### Lecture 14: Photo display Part e (9min) 
+#### Lecture 14: Photo display Part e (9min) 
 
 [http://iamar.net/subpages/pythonLect14.html](http://iamar.net/subpages/pythonLect14.html)
 
 You will learn: We learn about for loops and the concept of range function in this lecture
 
-### Lecture 15: Photo display Part f (9min) 
+#### Lecture 15: Photo display Part f (9min) 
 
 \[\[[http://iamar.net/subpages/pythonLect15.html](http://iamar.net/subpages/pythonLect15.html)\]
 
@@ -331,23 +331,23 @@ We finish up the project by learning about how to position the widgets inside th
 
 You will learn: pack functions, position functions, grid functions, and callback functions
 
-### Lecture 16: Photo display Part g (9min) 
+#### Lecture 16: Photo display Part g (9min) 
 
 [http://iamar.net/subpages/pythonLect16.html](http://iamar.net/subpages/pythonLect16.html)
 
 We are now finally getting into more advanced topics such as reading text files. You can find the source code for this lecture at [http://ourmedia.org/node/29741](http://ourmedia.org/node/29741)
 
-### Lecture 17: File reading and writing(9min) 
+#### Lecture 17: File reading and writing(9min) 
 
 Here we are going to have a little practice with reading and writing files
 
 Source code for this lecture at [http://www.ourmedia.org/node/32502](http://www.ourmedia.org/node/32502)
 
-### 3D Python Computer graphics 
+#### 3D Python Computer graphics 
 
 [http://vpython.erikthompson.com/](http://vpython.erikthompson.com/)
 
-### Chieh\'s Blog and suggestion 
+#### Chieh\'s Blog and suggestion 
 
 *That\'s incredible! I don\'t have any video equipment at home, but I should have some within 2 years.* \-- [LionKimbro](../people/LionKimbro) 2005-04-15 20:16:00
 

@@ -44,7 +44,7 @@ Inizio questa pagina facendo una domanda. Come si può fermare un processo dall\
 
 Il problema è che `EventChannel.waitEvent()` è una operazione di blocco. Così se l\'evento non si verifica, allora il nostro lavoro non si fermerà mai. *(`EventChannel` e `EventHandler` sono classi che io ho inventato per questo esempio)*
 
-## Suggerimenti 
+### Suggerimenti 
 
 - Utilizzando il metodo `shutdown()` si spingono alcuni innocui eventi nell\'evento channel
 
@@ -134,10 +134,10 @@ Il problema è che `EventChannel.waitEvent()` è una operazione di blocco. Così
 :::
 ::::
 
-# Chiamata ad una Funzione \"C\" che blocca tutti i processi 
+## Chiamata ad una Funzione \"C\" che blocca tutti i processi 
 
 Ho un modulo in \"c\" che pone delle interrogazioni al D.B. Queste interrogazioni pongono ad off il server SQLper essere processato.Posso usare delle mie funzioni di interrogazione dentro i processi per avere un lavoro come questo `time.sleep()`,blocco il corrente processo finchè lui termina ma permette agli altri processi di continuare le operazioni. Non ho visto questi indirizzamenti in nessuno dei libri che possiedo.
 
-# Risorse 
+## Risorse 
 
 - [Aahz OSCON 2001 presentatione](http://starship.python.net/crew/aahz/OSCON2001/index.html)

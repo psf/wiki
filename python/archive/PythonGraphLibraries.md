@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Graph Libraries 
+## Python Graph Libraries 
 
 These libraries are concerned with graphs and networks, not the plotting of numeric data in graphical form.
 
@@ -28,7 +28,7 @@ The following Python package is based on the concept of [implicit graphs](https:
 
 - [NoGraphs](https://nographs.readthedocs.io) (dist: nographs, mopd: nographs) Graph analysis - the lazy (evaluation) way. NoGraphs simplifies the analysis of graphs that can not or should not be fully computed, stored or adapted, e.g. infinite graphs, large graphs and graphs with expensive computations.
 
-## Unmaintained libraries 
+### Unmaintained libraries 
 
 The following are marked as or at least seem unmaintained:
 
@@ -38,10 +38,10 @@ The following are marked as or at least seem unmaintained:
 
 - [python-graph](https://github.com/Shoobx/python-graph/) (dist: `python-graph-core`{.backtick}, mod: `pygraph`{.backtick}) is a library for working with graphs in Python. This software provides ﻿a suitable data structure for representing graphs and a whole set of important algorithms. (Last commit in 2018, no issue page)
 
-## Other libraries 
+### Other libraries 
 
 - [EasyGraph](https://easy-graph.github.io/) (dist: `Python-EasyGraph`{.backtick}, mod: `easygraph`{.backtick}) is a multi-processing, hybrid (written in Python and C++) graph library for analyzing undirected, directed graphs and multigraphs. It integrates state-of-the-art graph processing approaches, and covers a series of advanced graph processing algorithms include structural hole spanners detection (HIS, MaxD, Common_Greedy, AP_Greedy and HAM), and graph representation learning (deepwalk, node2vec, LINE and SDNE).
 
-## Editorial Notes 
+### Editorial Notes 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new entries. When specifying release dates please use the format YYYY-MM-DD.

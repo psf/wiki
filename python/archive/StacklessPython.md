@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Stackless Python 
+## Stackless Python 
 
 ***A Python Implementation That Does Not Use The C Stack***
 
-## What are the benefits of this Python variant? 
+### What are the benefits of this Python variant? 
 
 A small advantage is that recursions are no longer limited by the size of the C stack, but only by the amount of available heap memory. But that\'s not the major point.
 
@@ -18,13 +18,13 @@ Stackless Python allows you to run hundreds of thousands of tiny tasks, called \
 
 Furthermore, the concept of small, communicating tasklets can lead you to a new, very simple way of formulating your problems. \[\--much more to be said here\--\]
 
-## How does this work? 
+### How does this work? 
 
 Without delving into the (complicated) implementation details, the following is relevant: The Python interpreter is recursive. That is, for every invocation of a Python function or method, another incarnation of the interpreter is called from C code. By decoupling the execution of Python code from the C stack, it is possible to change the order of execution. In particular, this allows to switch between multiple concurrent running \"threads\" of Python code, which are no threads in the sense of the operating system, but so-called \"green threads\".
 
 Although in alpha state, Stackless is being heavily used by commercial applications. One outstanding example is the Massive [MultiPlayer](./MultiPlayer.html) Online Game EVE [http://www.eve-online.com/](http://www.eve-online.com/) which is completely based upon Stackless technology.
 
-## And is this efficient? 
+### And is this efficient? 
 
 Oh well! As a measure of efficiency, here a couple of numbers:
 
@@ -34,15 +34,15 @@ With its tiny Python tasklets, Stackless accomplishes similar performance within
 
 In conclusion, Stackless Python is very efficient and especially suited for simulations with very many autonomous tiny objects.
 
-## Is Stackless different from Standard Python? 
+### Is Stackless different from Standard Python? 
 
 Stackless is completely compatible with Standard Python, it just adds some functionality. The interpreter is changed internally, but there is no change of behavior, unless the Stackless features are used.
 
-## Where can I find Stackless Python 
+### Where can I find Stackless Python 
 
 The Stackless website can be found here: [http://www.stackless.com/](http://www.stackless.com/)
 
-## Discussion 
+### Discussion 
 
 \[Question copied from Ward\'s Wiki (see [StacklessPython](http://c2.com/cgi/wiki?StacklessPython "Wiki"))\]
 

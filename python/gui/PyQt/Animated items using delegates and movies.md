@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Animated items using delegates and movies 
+## Animated items using delegates and movies 
 
 This example shows how to use a custom delegate with an animation to indicate that an item is busy, or perhaps waiting for additional data.
 
 Example code: [movie_delegate.py](attachments/PyQt(2f)Animated(20)items(20)using(20)delegates(20)and(20)movies/movie_delegate.py)
 
-## Outline 
+### Outline 
 
 For convenience, we re-use QStandardItemModel and QStandardItem. Real world models may be completely implemented from scratch by subclassing QAbstractItemModel or one of its subclasses.
 
@@ -176,6 +176,6 @@ Now we can show the view and start the event loop.
 :::
 ::::
 
-## Conclusions 
+### Conclusions 
 
 This appears to work quite well, and it should be possible to write more abstract models that actually need to wait for data, but I\'m not satisfied with having lots of low-level connections between the components. Perhaps I\'ll apply the technique to a real world model and create a new example based on my experience.

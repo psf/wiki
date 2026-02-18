@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Warehouse roadmap 
+## Warehouse roadmap 
 
-## Current 
+### Current 
 
 See [https://warehouse.readthedocs.io/roadmap/](https://warehouse.readthedocs.io/roadmap/) .
 
-## Complete & archived 
+### Complete & archived 
 
 We completed these milestones between December 2017 and May 2018. See PackagingWG for details.
 
-### 1. Maintainer Minimum Viable Product milestone \-- COMPLETE 
+#### 1. Maintainer Minimum Viable Product milestone \-- COMPLETE 
 
 [On GitHub.](https://github.com/pypa/warehouse/milestone/8)
 
@@ -24,7 +24,7 @@ The point of this first milestone is to give package maintainers a solid chance 
 
 We completed this milestone on **Feb. 20th, 2018**.
 
-### 2. End User MVP \-- COMPLETE 
+#### 2. End User MVP \-- COMPLETE 
 
 [On GitHub.](https://github.com/pypa/warehouse/milestone/9)
 
@@ -32,7 +32,7 @@ Necessary features for Python users (other than package maintainers) to try, tes
 
 We completed this milestone on **Feb. 23rd, 2018**.
 
-### 3: Publicize beta \-- COMPLETE 
+#### 3: Publicize beta \-- COMPLETE 
 
 [On GitHub.](https://github.com/pypa/warehouse/milestone/10)
 
@@ -40,7 +40,7 @@ Prepare to [blog](https://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is
 
 We [completed this milestone](https://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html) on **March 26th, 2018**.
 
-### 4: Launch: redirect pypi.python.org to pypi.org \-- COMPLETE 
+#### 4: Launch: redirect pypi.python.org to pypi.org \-- COMPLETE 
 
 [On GitHub.](https://github.com/pypa/warehouse/milestone/1)
 
@@ -52,7 +52,7 @@ We are temporarily keeping the legacy code base running [at legacy.pypi.org](htt
 
 We [completed](https://blog.python.org/2018/04/new-pypi-launched-legacy-pypi-shutting.html) this milestone on Monday, **16 April 2018**.
 
-### 5: Shut Down Legacy PyPI \-- COMPLETE 
+#### 5: Shut Down Legacy PyPI \-- COMPLETE 
 
 [Issues in this milestone, on GitHub.](https://github.com/pypa/warehouse/milestone/7)
 

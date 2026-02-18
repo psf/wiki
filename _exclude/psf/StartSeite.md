@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# WikiName Wiki 
+## WikiName Wiki 
 
 Worum geht es in diesem Wiki?
 
@@ -22,7 +22,7 @@ Wichtige Einstiegsseiten:
 
 **Beachten Sie auch die englische Startseite: [FrontPage](FrontPage).**
 
-## Wie man diese Seiten benutzt 
+### Wie man diese Seiten benutzt 
 
 Ein Wiki wird von einer gemeinschaftlichen Idee getragen, jeder kann seinen Beitrag leisten und daran teilhaben:
 

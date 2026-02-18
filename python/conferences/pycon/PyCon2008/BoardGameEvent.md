@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Board Game session at PyCon 2008
+## Board Game session at PyCon 2008
 
 When: Dedicated time-slice: Friday and Saturday evenings. 7-11, but as this is an Open Spaces event, you can schedule any other Open Spaces time (and place) for more specific appointments. Please see comments section below for more details.
 
@@ -18,7 +18,7 @@ If you\'re coming to PyCon and can bring a board game, please add your name to t
 - What games can you bring?
 
 ::: 
-### Games
+#### Games
 
 - [A Game of Thrones](http://www.boardgamegeek.com/game/6472) (Jono)
 - [Apples to Apples](http://www.boardgamegeek.com/game/74) (cards) (Sheila)
@@ -48,7 +48,7 @@ If you\'re coming to PyCon and can bring a board game, please add your name to t
 :::
 
 ::: 
-### Traditional Games
+#### Traditional Games
 
 - Scrabble
 - Yatzee, Kismet
@@ -57,7 +57,7 @@ If you\'re coming to PyCon and can bring a board game, please add your name to t
 :::
 
 ::: 
-### Attendees
+#### Attendees
 
 - Dean Goodmanson (red SPAM hat)
 - AndrewKuchling
@@ -67,7 +67,7 @@ If you\'re coming to PyCon and can bring a board game, please add your name to t
 :::
 
 ::: 
-### Resources
+#### Resources
 
 - [PyCon 2008 Events page](http://us.pycon.org/2008/about/events/)
 - Open Spaces page
@@ -77,7 +77,7 @@ If you\'re coming to PyCon and can bring a board game, please add your name to t
 :::
 
 ::: 
-### Comments, Suggestions?
+#### Comments, Suggestions?
 
 - I am not sure I can make it, but I will bring my board games \-- Sheila
 - I would like to see [Robo rally](http://www.boardgamegeek.com/game/18). \-- ? Looks like we\'ll need a few experience players. - Dean; I\'ve only played it once I don\'t mind if the experienced players beat up on me. Wow! It\'s been reprinted. I just ordered it. \-- Sheila :) \-- I\'ll bring my copy \-- Jono.

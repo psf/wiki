@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Welcome 
+## Welcome 
 
 ::: {}
 +:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+:---------------------------------------------------------------------------------:+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
@@ -15,11 +15,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 +-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-## System and Help Page Package installation 
+### System and Help Page Package installation 
 
 MoinMoin comes with no system and help pages installed by default (the page you read right now is the only page after a fresh installation).
 
-### Becoming superuser 
+#### Becoming superuser 
 
 For installation of the language packages, it is required that you are superuser:
 
@@ -35,7 +35,7 @@ For installation of the language packages, it is required that you are superuser
 
 4.  Login in (with the login name you configured as superuser).
 
-### Installing page packages 
+#### Installing page packages 
 
 You can install help and system page packages for any language you want to support for your wiki users. You should see links for each supported language, and below an **install** link for each page package of that language --- click on it for each of the packages you wish to install. When you\'re finished, restart the wiki (otherwise it won\'t recognize the newly installed pages correctly).
 
@@ -43,7 +43,7 @@ You can install help and system page packages for any language you want to suppo
 
 ![/!\\](/wiki/modernized/img/alert.png "/!\") If you want to use translated categories and templates, after installing their corresponding pages you still need to update your `page_category_regex`{.backtick} and `page_template_regex`{.backtick} configs to match the translated page names. See [HelpOnConfiguration](http://master.moinmo.in/HelpOnConfiguration "MoinMaster") and [http://moinmo.in/ConfigMarket](http://moinmo.in/ConfigMarket) for more details.
 
-## FrontPage configuration 
+### FrontPage configuration 
 
 For the root URL of your wiki, moin will use a special page (called the \"front page\"). Users can be given a translated front page in their preferred language, or they can be given any other single page you specify.
 
@@ -114,7 +114,7 @@ If you go the *multiple language* way, don\'t forget to edit all translations of
 :::
 ::::
 
-## User interface text translations 
+### User interface text translations 
 
 MoinMoin tries to adapt the user interface to the language the user prefers.
 
@@ -126,13 +126,13 @@ If there is no common language in the user\'s browser configuration and in moin 
 
 The usual case when you want to set `language_ignore_browser = True` is when running a local wiki with no international audience and you maintain the wiki in only one (your local) language. Don\'t forget to specify your one-and-only language using language_default when doing this.
 
-## System and help page translations and the navigation bar 
+### System and help page translations and the navigation bar 
 
 The MoinMoin distribution archive contains the system pages (like `RecentChanges`{.backtick}) in different languages, selecting the correct language in the same way as for the user interface.
 
 For example, if the navi_bar contains a link to `RecentChanges`{.backtick}, moin will first look for a translation of `RecentChanges`{.backtick} into the user\'s language. So if the user\'s language is German (de), the translation is `AktuelleÄnderungen`{.backtick}. Moin will use `AktuelleÄnderungen`{.backtick} in the navi_bar display if that page actually exists; otherwise, it will fall back to using `RecentChanges`{.backtick}.
 
-## Understanding Language packs 
+### Understanding Language packs 
 
 ::: note
 **Quickstart (for lazy people)**: Install the package `all_pages` for the language(s) in which you provide some content.

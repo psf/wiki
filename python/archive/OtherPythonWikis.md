@@ -54,7 +54,7 @@ To get into the nuts and bolts of it, visit the [WikiNodes wiki.](http://wikinod
 
 \-- [LionKimbro](../people/LionKimbro)
 
-# Thinki salvage 
+## Thinki salvage 
 
 Thinki [http://thinkware.se/cgi-bin/thinki.cgi/](http://thinkware.se/cgi-bin/thinki.cgi/) used to be a second major python wiki, similar in scope to wiki.python.org.
 

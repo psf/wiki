@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PEP 382 Sprint 
+## PEP 382 Sprint 
 
 - Silver Spring, Maryland USA 21-Jun-2011 2000UTC
 
@@ -21,7 +21,7 @@ Attendees:
 
 Bitbucket clone: [https://bitbucket.org/embray/pep-382-sprint](https://bitbucket.org/embray/pep-382-sprint)
 
-# Tasks 
+## Tasks 
 
 - review Martin\'s branch `hg clone http://hg.python.org/features/pep-382`
 
@@ -69,7 +69,7 @@ Bitbucket clone: [https://bitbucket.org/embray/pep-382-sprint](https://bitbucket
 
   - should LBYL on [AttributeError](./AttributeError.html) in `find_path`
 
-# PEP Questions 
+## PEP Questions 
 
 - Clarify what happens when a directory contains both an `__init__.py` and a `.pth` file
 
@@ -81,7 +81,7 @@ Bitbucket clone: [https://bitbucket.org/embray/pep-382-sprint](https://bitbucket
 
 - Use case for extending existing .pth file syntax (minus `import` support)? I.e why are non-\* lines in the .pth files added to [path]? And should these really be called `.pth` files? At least clarify the PEP!
 
-# Action Items 
+## Action Items 
 
 \"It\'s all so freaking big we can never make any progress on it\" - ES
 

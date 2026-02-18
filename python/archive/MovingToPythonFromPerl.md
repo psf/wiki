@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Moving to Python from Perl 
+## Moving to Python from Perl 
 
-## Books 
+### Books 
 
 There is a book on moving from Perl to Python:
 
@@ -16,11 +16,11 @@ There is a book on moving from Perl to Python:
 
   \"Are you a Perl programmer who would like to be able to programme in Python? Brimming with a wealth of practical examples and resources this book will show you how.\" [More information](http://www.pearsonptg.com/book_detail/0,3771,0201734885,00.html).
 
-## Software 
+### Software 
 
 - [bridgekeeper](http://www.crazy-compilers.com/bridgekeeper/) A Perl to Python source code converter
 
-## See also 
+### See also 
 
 - [MovingToPythonFromOtherLanguages](../getting-started/MovingToPythonFromOtherLanguages)
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Basic configparser usage 
+## Basic configparser usage 
 
 These are some examples on using [ConfigParser](ConfigParser), assuming the following INI file\...
 
@@ -73,13 +73,13 @@ You can also use `getint(section, option)` to get a number as an int. This may 
 
 ------------------------------------------------------------------------
 
-## Notes on reading an INI file 
+### Notes on reading an INI file 
 
 lines beginning with a semicolon \';\' a pound sign \'#\' or the letters \'REM\' (uppercase or lowercase) will be ignored. You may use these for comments if you want. You cannot put a comment on an option line. It will only be treated as a comment if it is at the beginning of the line!
 
 ------------------------------------------------------------------------
 
-## Writing an INI file 
+### Writing an INI file 
 
 When you write to an INI file, you will wipe out all comments.
 
@@ -97,9 +97,9 @@ Assuming the config file doesn\'t exist yet, this is the code to create one:
     Config.write(cfgfile)
     cfgfile.close()
 
-# Advanced configparser usage 
+## Advanced configparser usage 
 
-## ExtendedInterpolation 
+### ExtendedInterpolation 
 
 Using [ExtendedInterpolation](./ExtendedInterpolation.html) one can make use of cross-chapter flexible parameter values. For instance, using the following ini file:
 

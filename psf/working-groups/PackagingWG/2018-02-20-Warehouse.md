@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Warehouse Sync-up Meeting 
+## Warehouse Sync-up Meeting 
 
 Monday, Feb 19 2018
 
-## Present: 
+### Present: 
 
 - Sumana
 - Nicole
@@ -18,7 +18,7 @@ Monday, Feb 19 2018
 - Dustin
 - Ernest
 
-## Current work/announcements/blocked: 
+### Current work/announcements/blocked: 
 
 Ernest:
 
@@ -72,7 +72,7 @@ Sumana:
 
 - \- helped volunteers via IRC/GitHub/email
 
-## Bug/PR triage 
+### Bug/PR triage 
 
 \* [https://github.com/pypa/warehouse/issues/2285](https://github.com/pypa/warehouse/issues/2285) Rename \"/legacy\" url to something else
 
@@ -155,7 +155,7 @@ Sumana:
 - Ernest will send a message to Eric
 - PyPI not in business of hosting docs \-- need division of who does what
 
-## Ask Donald to: 
+### Ask Donald to: 
 
 - [https://github.com/pypa/warehouse/issues/2216](https://github.com/pypa/warehouse/issues/2216) \<- not just do this, but also help us make sure we can do it in the same way w/o him
 
@@ -165,13 +165,13 @@ Sumana:
 
   - Ernest can grant Nicole and Dustin access to that repo
 
-## Milestone progress 
+### Milestone progress 
 
 [We\'ve hit Milestone 1 and are on to Milestone 2!](https://github.com/pypa/warehouse/projects/1)
 
 We\'ll decouple testing/promotional tasks for Milestone 2 from milestone schedule, since we\'ll hit Milestone 2 before we\'re done getting maintainer MVP feedback.
 
-## TODO 
+### TODO 
 
 - add a nice to have issue for a \"report spam\" button
   - +1, once [https://github.com/pypa/warehouse/pull/2991](https://github.com/pypa/warehouse/pull/2991) is merged

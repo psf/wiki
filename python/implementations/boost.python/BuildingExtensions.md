@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Building Extensions with boost.python 
+## Building Extensions with boost.python 
 
-## Using bjam 
+### Using bjam 
 
 bjam is a standard tool for building boost library itself. Thus it is preferable way to build Python extensions based on [boost.python]() with bjam. Basic example listed in [tutorial](http://www.boost.org/libs/python/doc/tutorial/doc/html/python/hello.html).
 
@@ -70,11 +70,11 @@ Keeping your projects under boost hierarchy is often inconvenient. You may build
 
 - to silence warning create empty **Jamrules** file.
 
-## Using make 
+### Using make 
 
 - Make sure to link with *boost_python* or *boost_python_debug* library.
 
-## Using SCons 
+### Using SCons 
 
 You might want to try [scons](http://www.scons.org).
 
@@ -87,11 +87,11 @@ It\'s really easy to build python extensions with scons. Here is an example that
                        RPATH=['./',BOOSTLIBPATH])
     env.SharedLibrary (target='uvector', source='uvector.cc', SHLIBPREFIX='', LIBS=[BOOST_PYTHON_LIB])
 
-## Using Windows IDE 
+### Using Windows IDE 
 
 - Make sure you keep `"Use Managed Extension" == No` if you are using Visual Studio.NET.
 
-## Using CMake 
+### Using CMake 
 
 Save the file as CMakeLists.txt, `cd` into the directory, and run `cmake .` followed by `make`:
 
@@ -109,7 +109,7 @@ Save the file as CMakeLists.txt, `cd` into the directory, and run `cmake .` fol
 
 On Linux, this will make a libMyLibrary.so library in the same directory.
 
-# Tips and tricks 
+## Tips and tricks 
 
 To keep up with bjam rules you might want to have a *dry* run without actually building anything: {{{bjam -na }}}
 

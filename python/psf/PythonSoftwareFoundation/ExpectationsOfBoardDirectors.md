@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Thank you for considering the Python Software Foundation!
+## Thank you for considering the Python Software Foundation!
 
 Being a board of director is a privilege and obligation to the Python community. Volunteer board of directors are the ambassadors of the Python Software Foundation and also of the Python ecosystem. Their dedication and effort is countless and I am very thankful for the work that each of them have put into this Foundation. If you are considering running for the 2018/2019 term, please review the expectations below. Please note that these listed expectations of a board director and not necessarily requirements for being voted on
 

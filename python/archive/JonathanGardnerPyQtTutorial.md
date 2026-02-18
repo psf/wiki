@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Jonathan Gardner\'s PyQt Tutorial 
+## Jonathan Gardner\'s PyQt Tutorial 
 
 This is a short tutorial to get you up to speed with [PyQt](../gui/PyQt). It assumes some knowledge of bash, Python, and Qt.
 
@@ -14,7 +14,7 @@ If you have questions or comments, you can send them to me at [jgardner@jonathan
 
 A (brazilian) portuguese translation is available at [https://web.archive.org/web/20081017155041/http://www.pythonbrasil.com.br/moin.cgi/TutorialPyQt](https://web.archive.org/web/20081017155041/http://www.pythonbrasil.com.br/moin.cgi/TutorialPyQt) thanks to Rodrigo B. Vieira.
 
-## Abstract 
+### Abstract 
 
 We will cover:
 
@@ -23,7 +23,7 @@ We will cover:
 - Using Qt Signals and Slots in Python.
 - Creating a simple application to interface with the \'at\' program.
 
-## Requirements 
+### Requirements 
 
 You will need:
 
@@ -44,7 +44,7 @@ You should already know:
 
 If you haven\'t fulfilled these requirements, you may have some trouble getting the tutorial to work.
 
-## Using Qt Designer 
+### Using Qt Designer 
 
 First things first. We\'ll start where I start. Open up a bash prompt. Start Qt Designer by typing the following command:
 
@@ -66,7 +66,7 @@ Now, rearrange the layout using the Qt layout tools to your heart\'s content. Yo
 
 Save the file in a project directory for this tutorial. If you haven\'t already created one, create one called \"pyqt_tutorial\" or something. Save the file as \"at.ui\".
 
-## Using pyuic 
+### Using pyuic 
 
 Go back to your bash prompt, or open up a new one. Go into the project directory, and run these commands.
 
@@ -98,13 +98,13 @@ Notice that it says something about all the files being up to date. Let\'s touch
 
 Now it echos out the commands it runs. You see that it has successfully regenerated at_auto.py.
 
-### Theory 
+#### Theory 
 
 The idea here is that you want the GUI developer to be able to go and make changes to the GUI interface (like moving stuff around) without affecting the logic behind the GUI. So with your setup right now, all the GUI developer has to do is use Qt Designer to change the at.ui file, and then run make to see his changed take effect.
 
 Your make file will get more complicated as you add more files. Be sure to read more about make so that you make good design decisions early on about how to use make properly.
 
-## Running Your Application 
+### Running Your Application 
 
 So we have that at.ui file, and the at_auto.py file. How do we actually run the app?
 
@@ -146,7 +146,7 @@ exec python at.py
 
 chmod 700 myscript and you\'re set !
 
-## Setting the Default Date / Time 
+### Setting the Default Date / Time 
 
 Let\'s set a default value for the QDateTimeEdit widget. The QDateTimeEdit widget expects a QDateTime for an argument to the setDateTime method, so we\'ll have to create one. But how to set the time of the QDateTime? Examination of the documentation reveals that the setTime_t method will allow us to set the date with the time in seconds from the Unix epoch. We can get that from the time() function in the built-in time module.
 
@@ -159,7 +159,7 @@ Here\'s the code that does that. We\'ll put this in the `__init__`{.backtick} me
 
 This code snippet should show how easily python and [PyQt](../gui/PyQt) work with each other. It should also demonstrate the thought processes you\'ll have to go through to manipulate Qt\'s widgets.
 
-## Signals and Slots 
+### Signals and Slots 
 
 Everything you do from here on out is connecting Signals to Slots. It\'s pretty easy, which is why I like [PyQt](../gui/PyQt).
 
@@ -258,7 +258,7 @@ Here is the final code for the \'at.py\' file.
           w.show()
           a.exec_loop()
 
-## Homework 
+### Homework 
 
 With the time remaining, you may want to add a few extensions.
 
@@ -272,7 +272,7 @@ With the time remaining, you may want to add a few extensions.
 
 - Add functionality to edit or remove queued \'at\' jobs. Try to reuse as much code as possible. (Hint: the widget that will schedule a new \'at\' job is already finished. Try embedding it in a QDialog.)
 
-## Future Directions 
+### Future Directions 
 
 This application could be part of a suite of Unix command line interfaces. What other commands would you like to implement? I suggest giving things like \"crontab\" and \"ps\" a try. Parsing the output of these commands isn\'t too difficult, and the interface with them is pretty easy.
 

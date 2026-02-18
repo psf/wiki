@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Scoping Facebook-funded work 
+## Scoping Facebook-funded work 
 
 Thursday, June 20th
 
@@ -14,7 +14,7 @@ Thursday, June 20th
 - Donald
 - Sumana
 
-## Deliverables 
+### Deliverables 
 
 [Work milestone on GitHub](https://github.com/pypa/warehouse/milestone/16)
 
@@ -36,7 +36,7 @@ Re: autodetection of malicious uploads: we\'re being funded to build infrastruct
 
 So we\'ll work to specify our requirements so infrastructure/architecture we build on this project is pluggable.
 
-## Deciding what\'s in scope 
+### Deciding what\'s in scope 
 
 In scope?
 
@@ -160,7 +160,7 @@ In scope?
 
   - correct. not in scope. significant feature. may deserve its own grant.
 
-## TODOs 
+### TODOs 
 
 - Sumana to file issue on admin review of flagged packages (done: 6062) and open issue for discussing pre-upload checking of typosquatting (done: reopened 4998)
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# CiviCRM 
+## CiviCRM 
 
 Access URL: [http://www.psfmember.org/civicrm/](http://www.psfmember.org/civicrm/)
 
@@ -14,7 +14,7 @@ We are currently on CiviCRM 3.3.6. Documentation: [http://wiki.civicrm.org/confl
 
 Drupal admin page: [http://psfmember.org/admin](http://psfmember.org/admin)
 
-## Associate Membership 
+### Associate Membership 
 
 Tasks:
 

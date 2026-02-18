@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 I\'m using this page to record notes and reminders while assessing trackers. Please do not edit these notes. (Feel free to add a comment at the bottom of a section if there\'s something you want to respond to; just don\'t edit my text.)
 
-# 09/16 weekend tasks 
+## 09/16 weekend tasks 
 
 Get more information on the Launchpad e-mail interface problems, and try to give Henstridge et.al. some debugging info.
 
 Start thinking about ranking the trackers. Draw up a list of criteria and assign scores?
 
-# Trac 
+## Trac 
 
 \'View Active Tickets\' query only returns a single spam query, but the bugs \*\*are\*\* in the tracker. Not sure why \'View Active\' isn\'t working like I expect.
 
@@ -60,7 +60,7 @@ Tripped a Python traceback (query: all new/assigned/reopened, component is Docum
       File "neo_hdf.c", line 795, in _set_value()
     AssertError: Unable to set Empty component query.num_matches_group.Fred L. Drake, Jr.
 
-# Roundup 
+## Roundup 
 
 Slightly unclear how to sort to see most recent bugs (sort by descending activity, it turns out).
 
@@ -74,7 +74,7 @@ Not receiving e-mails about my changes \-- maybe I\'ll only receive messages whe
 
 Didn\'t try e-mail interface yet.
 
-# Jira 
+## Jira 
 
 No anonymous bug submissions, at least as currently configured.
 
@@ -94,7 +94,7 @@ Has RSS feeds, which is kind of neat.
 
 I didn\'t receive any e-mails; not sure if they\'re disabled in this installation, or if I need to do something to enable mail. There doesn\'t seem to be any way to add comments or close bugs via e-mail.
 
-# Launchpad 
+## Launchpad 
 
 Filing a bug seems straightforward. All the other use cases are feasible.
 
@@ -110,7 +110,7 @@ I couldn\'t decrypt the OpenPGP message Launchpad sent me (complains of a CRC er
 
 The ability to cross-link Python bugs with bugs filed on other projects might be a really useful tool for getting more bug reports, and for introducing more people to Python maintenance.
 
-# Notes / Comments 
+## Notes / Comments 
 
 - On Roundup ([DavidLinke](../../people/DavidLinke)):
 

@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Embedded Python 
+## Embedded Python 
 
 Python can be used in embedded, small or minimal hardware devices, depending on how limiting the devices actually are.
 
-## Devices capable of running CPython 
+### Devices capable of running CPython 
 
 Some modern embedded devices have enough memory and a fast enough CPU to run a typical Linux-based environment, for example, and running CPython on such devices is mostly a matter of compilation (or cross-compilation) and tuning.
 
@@ -28,7 +28,7 @@ Devices which could be considered as \"embedded\" by modern standards and which 
 
 See also [PythonForArmLinux](../archive/PythonForArmLinux) and [OpenEmbedded](OpenEmbedded).
 
-## Work to improve CPython for embedded applications 
+### Work to improve CPython for embedded applications 
 
 Various efforts have been made to make CPython more usable for embedded applications:
 
@@ -44,7 +44,7 @@ Various efforts have been made to make CPython more usable for embedded applicat
 
 - Using a launcher process where \"expensive\" modules are required: [Introducing python-launcher](http://blogs.gnome.org/johan/2007/01/18/introducing-python-launcher/)
 
-## Reduced or reworked Python implementations 
+### Reduced or reworked Python implementations 
 
 Some devices may be more restrictive in that the typical memory footprint of CPython may exceed the amount of memory available on the device. In such cases, a re-engineered or adapted version of CPython, perhaps even to the point where it can be considered a new implementation of Python, might be appropriate.
 
@@ -58,7 +58,7 @@ Examples of such implementations include the following:
 
 On the other hand, one can start with a full build, and simply remove unneeded modules, *e.g.*, Tkinter, etc., to realize a reduced-size Python with little effort.
 
-## Python-based tools for developing embedded applications 
+### Python-based tools for developing embedded applications 
 
 Sometimes the embedded environment is just too restrictive to support a Python virtual machine. In such cases, various Python tools can be employed for prototyping, with the eventual application or system code being generated and deployed on the device.
 

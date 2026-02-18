@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# In House User Groups 
+## In House User Groups 
 
 This page is intended to give the reader some hints and tips on \"In House User Groups\" within a company or organization.
 
-## What is an In House User Group 
+### What is an In House User Group 
 
 In House User Groups are similar to [LocalUserGroups](../community/LocalUserGroups) but with some specific differences that make starting, or running, one a little different. They are normally **closed** in the sense of being restricted in their membership to people within the specific company or organization. They often have some value above and beyond Local User Groups in that:
 
@@ -28,7 +28,7 @@ In House User Groups are similar to [LocalUserGroups](../community/LocalUserGrou
 
 The aim of this page is to try to gather some tips and best practices for such groups but not everything will apply in all cases. Some points are more applicable to large, distributed or multinational, companies than to smaller, single site ones and, of course some are more general and apply to just about all cases so, the rest of this page is split into 3 sections: General Points, Small Organizations & Large Organizations.
 
-## General Points 
+### General Points 
 
 A few general points to keep in mind:
 
@@ -87,7 +87,7 @@ A few general points to keep in mind:
 
 - Encourage the presenters to make links to materials used available, ideally in advance of the meeting.
 
-## Small Organizations 
+### Small Organizations 
 
 For small, single site, *or only a couple of geographically close sites*:
 
@@ -103,7 +103,7 @@ For small, single site, *or only a couple of geographically close sites*:
 
 - It can be hard, *unless your company or organization is heavily involved with python*, to reach a critical mass where you have enough people involved.
 
-## Large Organizations 
+### Large Organizations 
 
 Larger Organizations are significantly different to smaller ones and have some other considerations:
 

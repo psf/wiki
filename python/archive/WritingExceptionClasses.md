@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Writing Exception Classes 
+## Writing Exception Classes 
 
 Exception classes are not special, you just derive them from Exception:
 
@@ -36,11 +36,11 @@ You may later write:
 :::
 ::::
 
-## See Also 
+### See Also 
 
 [HandlingExceptions](../guides/HandlingExceptions), [TracebackModule](./TracebackModule.html)
 
-## Questions 
+### Questions 
 
 - How do you relay the traceback information? *Relay the traceback information? Moving it higher up the call-stack? Could you try to explain your question?*
 

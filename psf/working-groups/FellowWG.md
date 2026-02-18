@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Fellow Working Group 
+## PSF Fellow Working Group 
 
 Please note that this Working Group is still in process of being created. If you are interested in joining, you must be a PSF Fellow. Email ewa at python dot org.
 
-## Agenda 
+### Agenda 
 
 This working group will review PSF Fellow applications and determine if they qualify to be a PSF Fellow Member.
 
-## Resources 
+### Resources 
 
 - No financial resources needed
 
@@ -22,22 +22,22 @@ This working group will review PSF Fellow applications and determine if they qua
 
 - List of nominees that the WG votes on: [https://wiki.python.org/moin/PythonSoftwareFoundation/FellowNominations](https://wiki.python.org/moin/PythonSoftwareFoundation/FellowNominations)
 
-## Mailing List 
+### Mailing List 
 
 - [PSF Fellow WG Mailing List](https://mail.python.org/mailman/listinfo/psf-fellow)
 
   The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](../people/EwaJodlowska) is the list admin.
 
-## Discussions 
+### Discussions 
 
 Discussions will happen on the mailing list.
 
-## Administration 
+### Administration 
 
 - TBD (chair)
 - TBD (co-chair)
 
-## Members 
+### Members 
 
 - Naomi Ceder
 - Kushal Das
@@ -50,6 +50,6 @@ Discussions will happen on the mailing list.
 - Aisha Bello
 - Ngazetungue Muheue
 
-## Meetings 
+### Meetings 
 
 - As needed

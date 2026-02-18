@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Information that might be useful while implementing or maintaining a sequence type, based on things I discovered while trying to implement `bytearray`.
 
-# Sequence Types 
+## Sequence Types 
 
 Jython provides some apparatus to support the implementation of sequence types.
 
-## Helper class SequenceIndexDelegate 
+### Helper class SequenceIndexDelegate 
 
 The range of things that can appear in Python as the \"index\" of a sequence type is a lot broader than in most languages. Consider
 
@@ -50,7 +50,7 @@ Jython provides a useful abstract class `org.python.core.SequenceIndexDelegate` 
 
 Your implementations of the standard API, such as `__setitem__`, can delegate almost immediately to corresponding methods of this inner class, with all their arguments uninspected. The inner class will then call the right methods from these 8 to handle the actual work. There\'s still plenty for your code to deal with, but you can do it knowing the arguments are of well-defined type and have safe values.
 
-## Base class PySequence 
+### Base class PySequence 
 
 Jython provides further help in the form of `org.python.core.PySequence`, with the intention that an implementer of sequence types extend the class. This has been used as a base for Python types `list` and `array.array`, and soon `bytearray`.
 

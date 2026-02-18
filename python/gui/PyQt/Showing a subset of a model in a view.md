@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Showing a subset of a model in a view 
+## Showing a subset of a model in a view 
 
 On the `pyqt`{.backtick} channel on [freenode](http://www.freenode.net), `frankRojas`{.backtick} asked for a way to show child items from a tree view in a table view.
 

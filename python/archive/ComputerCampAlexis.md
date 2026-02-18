@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Computer Camp near Angers - 20 and 21 October 
+## Computer Camp near Angers - 20 and 21 October 
 
-## Qui vient quand ? 
+### Qui vient quand ? 
 
 (vous pouvez aussi utiliser ça pour le covoiturage)
 

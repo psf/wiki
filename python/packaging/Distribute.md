@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Distribute is a project that tries to think about how distutils can evolve 
+## Distribute is a project that tries to think about how distutils can evolve 
 
 Interesting discussion are happening in distutils-SIG. You can read the threads
 
@@ -22,7 +22,7 @@ Another great ressource to get the whole picture is [Kevin Teague\'s post](http:
 
 Chris Withers made a presentation called [Python Package Management Sucks](http://www.simplistix.co.uk/presentations/python_package_management_08/python_package_management_08.pdf) at [PyCon](../conferences/pycon/PyCon) Uk in september 2008.
 
-# Related Docs 
+## Related Docs 
 
 - [Functionality](http://wiki.python.org/moin/Distribute/Functionality)
 
@@ -34,15 +34,15 @@ Chris Withers made a presentation called [Python Package Management Sucks](http:
 
 - [Defend Against Fruit Docs](https://github.com/teamfruit/defend_against_fruit/wiki): Continuous Deployment considerations and Python package management
 
-# Related PEPs 
+## Related PEPs 
 
 - a new package dedicated to PyPI handling [PEP 373](http://wiki.python.org/moin/A_new_pypi_module)
 
 - mirroring protocol for PyPI : [PEP 374](./PEP(20)374.html)
 
-# What do we have today ? 
+## What do we have today ? 
 
-## Distutils 
+### Distutils 
 
 This is a really high-level view of Distutils. It is just made to understand its mechanisms, so if you are not used to it you can get it.
 
@@ -83,7 +83,7 @@ Python 2.6 has been changed so you can do it with any website and several accoun
 
     $ python setup.py register sdist upload -r plone.org
 
-## Setuptools 
+### Setuptools 
 
 Setuptools can be seen as an enhancement of Distutils. It does a lot of things, and this section will not present everything. You might want to read [Phillip\'s page on the project](http://peak.telecommunity.com/DevCenter/setuptools).
 
@@ -97,7 +97,7 @@ But basically it adds 4 major features a lot of people use:
   - \"test\", that will let you link a tets runner to the package tests
 - easy_install (described later)
 
-### real-world example 
+#### real-world example 
 
 Zope used setuptools namespace feature to split its huge code base into small packages. For instance zope.interface is distributed as a single package and has its own developement cycle. In a way, Instead of downloading one 100MB package called Zope that contains the whole zope.\* source tree, you download 100 packages of 1MB. And zope.whatever can use the new version of zope.interface, without having to wait for a 6 months-based release of Zope.
 
@@ -113,7 +113,7 @@ This will tell Setuptools that zope.whatever needs zope.interface 1.2.4 or highe
 
 And if you try to install it, Setuptools will check if it is installed. If not it will try to get it at [PyPI](http://pypi.python.org) and instal it.
 
-## Paver 
+### Paver 
 
 Paver subsumes the build tool portion of distutils/setuptools. It allows python programmers to use all of the setuptools/distutils commands but makes it easy to add new commands and modify the existing ones. Extensibility is easy in both the declarative portion of the files (adding new pieces of information about a package) and the imperative portion (adding new commands to perform.)
 
@@ -121,7 +121,7 @@ Converting a simple setup.py that only has declarations to a pavement.py file is
 
 [http://www.blueskyonmars.com/projects/paver](http://www.blueskyonmars.com/projects/paver)
 
-## Defend Against Fruit 
+### Defend Against Fruit 
 
 [Defend Against Fruit](http://teamfruit.github.io/defend_against_fruit/) is focused on providing a pragmatic, continuous deployment style build system for Python. Current Python build systems do not properly account for the needs of effective continuous deployment. This package extends the Python tooling to add the missing pieces.
 
@@ -133,27 +133,27 @@ With an eye to agile development principles and [fast-feedback](https://github.c
 
 For in-depth documentation with lots of pretty diagrams, [take a look at the wiki](https://github.com/teamfruit/defend_against_fruit/wiki).
 
-## Other tools 
+### Other tools 
 
 xxx
 
-# What is good ? 
+## What is good ? 
 
-## Distutils 
-
-xxx
-
-## Setuptools 
+### Distutils 
 
 xxx
 
-## Other tools 
+### Setuptools 
 
 xxx
 
-# What is wrong ? 
+### Other tools 
 
-## Distutils 
+xxx
+
+## What is wrong ? 
+
+### Distutils 
 
 The problems in distutils that where listed by people:
 
@@ -166,17 +166,17 @@ The problems in distutils that where listed by people:
 - no un-install
 - No provisions for installing applications or \"private libraries\". private libraries are libraries meant to be used by an application but not wanting to export a public API.
 
-## Setuptools 
+### Setuptools 
 
 xxx
 
-## Other tools 
+### Other tools 
 
 xxx
 
-# What can we do today ? 
+## What can we do today ? 
 
-## Distutils 
+### Distutils 
 
 - remove the log module and use logging
 
@@ -188,15 +188,15 @@ xxx
 
   this is started here: [A new pypi module](A new pypi module)
 
-## Setuptools 
+### Setuptools 
 
 xxx
 
-## Other tools 
+### Other tools 
 
 xxx
 
-# What\'s next ? 
+## What\'s next ? 
 
 BUILDS is the code name of project for a \"Build Utilities, Installation Locations, & Distribution Standards\" (BUILDS) specification. As part of this specification, the [PythonPackagingTerminology](../archive/PythonPackagingTerminology) page documents the terms used in the Python packaging ecosystem.
 

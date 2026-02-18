@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using Eclipse as a Python editor 
+## Using Eclipse as a Python editor 
 
 It is not known which version of Eclipse these comments refer to, please be careful and read the release notes for the plugin you choose.
 
@@ -34,7 +34,7 @@ A few plugins for [Eclipse](Eclipse) are in progress that will enable Eclipse to
 
 To point out the obvious, it would be nice if some of these teams would combine their efforts.
 
-## Some Features 
+### Some Features 
 
 *The next seven sections of documentation, up to and including \"Supplying parameters to your jython or python program\" are contributed by Andy Bulka [abulka@netspace.net.au](mailto:abulka@netspace.net.au) .*
 
@@ -54,21 +54,21 @@ To point out the obvious, it would be nice if some of these teams would combine 
 
 - Instead of importing a folder into eclipse (which copies the files into c:\\eclipse\\workspace\\\...) you can instead create a linked folder which means that you can edit files on your regular file system. To do this, create a new folder, then when prompted, click \"Advanced\" and select the folder on your file system to link to. Sometimes you have to \'refresh\' the list by r.clicking on the folder and selecting \'refresh\'.
 
-## Which plug-in is the best? 
+### Which plug-in is the best? 
 
 Both [PyDev](../people/PyDev) and [TruStudio](./TruStudio.html) are undergoing active development and both feature and extensive set of useful tools for developing in Eclipse. It\'s not hard to try either of them out, so you might as well just try them both out and see which you enjoy more.
 
 Going by the popularity on Google, (using a very unscientific method of just searching for the two words *python eclipse*) it seems as though [PyDev](../people/PyDev) is more popular.
 
-### PyDev 
+#### PyDev 
 
 *added by [KirbyUrner](../people/KirbyUrner) [urnerk@python.org](mailto:urnerk@python.org)*
 
 I saw a demo of this at OSCON 2004, presented by Dana Moore. Alex Totek has done the majority of the work so far, with help from Fabio Zadrozny. pydev includes a debugger. Dana previewed auto-completion but as of this writing it\'s not in the most recent release (0.5.3). I also saw the Python shell integrated into Eclipse. The development language for the plugin itself is Java, not Jython.
 
-# Configuring Eclipse for running Python and Jython 
+## Configuring Eclipse for running Python and Jython 
 
-## Jython 
+### Jython 
 
 To configure Eclipse to run jython on the current file you are editing:
 
@@ -84,7 +84,7 @@ then fill in the following values:
 
 - **Tool Arguments**: -\> Browse Variables -\> \${resource_name}
 
-#### Supplying parameters to your jython or python program 
+##### Supplying parameters to your jython or python program 
 
 If you need to run an app which requires arguments, you will need to make another tool configuration (just copy the jython one) and simply add the necessary arguments to the **Tool Arguments** field.
 
@@ -98,7 +98,7 @@ For example instead of just
 
 Notice I have supplied the argument **c:\\\\**
 
-# Embedding Jython into Eclipse 
+## Embedding Jython into Eclipse 
 
 Don Coleman has written a jython code completion shell which he says he would be happy to rewrite for Eclipse.
 
@@ -110,7 +110,7 @@ This URL was given by Don Coleman in an ASPN jython users newsgroup,
 
 How to make Jython unit tests\... and see them inside Junit plugin : [here](http://www.devx.com/Java/Article/26602/1954?pf=true) and modification and completion [here](http://lauploix.blogspot.com/2005/03/test-driven-development-why-using.html)
 
-# Running SCons from CDT Eclipse 
+## Running SCons from CDT Eclipse 
 
 SCons is a powerful software construction tool in python, more flexible than ant and simpler than make. It is primarily intended to manage builts for C/C++ programs. To set up SCons as the builder from CDT, add it as a custom builder:
 
@@ -126,7 +126,7 @@ There is now an [Scons Builder Plugin](http://nic-nac-project.de/~lothar/eclipse
 
 For more information about SCons, see [http://www.scons.org/](http://www.scons.org/)
 
-# Some Eclipse features people want with Jython/Python 
+## Some Eclipse features people want with Jython/Python 
 
 - project/file management (module organization)
 - package explorer
@@ -145,7 +145,7 @@ For more information about SCons, see [http://www.scons.org/](http://www.scons.o
 - support for pyunit (unittest)
 - a Jython console, where one could try short snippets of code, with access to the current project classpath
 
-# Eclipse would gain 
+## Eclipse would gain 
 
 - Python/Jython support in the editor
   - this is what the existing plug-ins address, but they are incomplete
@@ -155,7 +155,7 @@ For more information about SCons, see [http://www.scons.org/](http://www.scons.o
 - simplifies mixing Jython/Java to broaden range of problems that can be solved
 - large user base of Jython/Python programmers
 
-# Other Links 
+## Other Links 
 
 - [Jython](../archive/Jython)
 

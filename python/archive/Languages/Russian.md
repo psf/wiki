@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Russian 
+## Russian 
 
-## Active 
+### Active 
 
-### Sites 
+#### Sites 
 
 - [Russian Python & Zope User Group (ZoPyRus)](http://zope.net.ru/)
 
@@ -22,7 +22,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Python learning course](http://www.intuit.ru/department/pl/python/)
 
-### Wikis 
+#### Wikis 
 
 - [Python Wiki Russian version](http://ru.pywiki.com)
 
@@ -32,7 +32,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Russian Python page at Wikipedia](http://ru.wikipedia.org/wiki/Python)
 
-### Forums 
+#### Forums 
 
 - [Python.su Forum](http://python.su/forum/)
 
@@ -46,7 +46,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Ru-Board big Python-related topic](http://forum.ru-board.com/topic.cgi?forum=31&topic=1537)
 
-### Blogs 
+#### Blogs 
 
 - [\"SoftwareManiacs \" by Ivan Sagalaev](http://softwaremaniacs.org/blog/category/python/)
 
@@ -60,7 +60,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Python-russian LiveJournal community](http://community.livejournal.com/ru_python/)
 
-## Obsolete 
+### Obsolete 
 
 - [Python programming language](http://www.python.ru)
 

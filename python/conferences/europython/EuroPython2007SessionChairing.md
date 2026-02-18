@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Rooms are identified by name. The more detailed timetable is at [http://www.europython.org/timetable](http://www.europython.org/timetable).
 
-# Day 1 
+## Day 1 
 
 ::: {}
   ------------- -------------------------------- ------------ ------------- -----------
@@ -20,7 +20,7 @@ Rooms are identified by name. The more detailed timetable is at [http://www.euro
   ------------- -------------------------------- ------------ ------------- -----------
 :::
 
-# Day 2 
+## Day 2 
 
 ::: {}
 +-------------+:---------:+:---------------------:+:----------------------:+:----------------------:+
@@ -36,7 +36,7 @@ Rooms are identified by name. The more detailed timetable is at [http://www.euro
 +-------------+-------------------------------------------------------------------------------------+
 :::
 
-# Day 3 
+## Day 3 
 
 ::: {}
 +-------------+:-----------:+:-----------------------:+:----------:+:---------:+

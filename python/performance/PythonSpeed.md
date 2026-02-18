@@ -6,21 +6,21 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python speed 
+## Python speed 
 
 People are often worried about the speed of their Python programs; doesn\'t using Python mean an unacceptable loss in performance? Some people just jump to the conclusion that \"hey, it\'s an interpreted scripting language, and those all run very slow!\" Other people have actually tried Python and have found it performs well enough. Sometimes, though, you have a program that just runs too slowly.
 
-## Why is raw speed important? Or isn\'t it? 
+### Why is raw speed important? Or isn\'t it? 
 
 Some people are inappropriately obsessed with speed and think that just because C can provide better performance for certain types of problem, it must therefore be a better language for all purposes. Other people think that *speed of development* is far more important, and choose Python even for those applications where it will run slower. Often, they are surprised to find Python code can run at quite acceptable speeds, and in some cases even faster than what they could get from C/C++ with a similar amount of development time invested.
 
 Usually it is not the absolute speed that is important, you should think about what would be an *acceptable* speed of execution. Optimisations beyond achieving this acceptable speed are wasteful of resources (usually: your time. And thus: money.).
 
-## Techniques for Improving Performance and Scalability 
+### Techniques for Improving Performance and Scalability 
 
 Here are some coding guidelines for applications that demand peak performance (in terms of memory utilization, speed, or scalability).
 
-### Use the best algorithms and fastest tools 
+#### Use the best algorithms and fastest tools 
 
 - Membership testing with sets and dictionaries is much faster, O(1), than searching sequences, O(n). When testing \"a in b\", b should be a set or dictionary instead of a list or tuple.
 
@@ -38,7 +38,7 @@ Here are some coding guidelines for applications that demand peak performance (i
 
   See also [TimeComplexity](../language/TimeComplexity).
 
-### Take advantage of interpreter optimizations 
+#### Take advantage of interpreter optimizations 
 
 - In functions, local variables are accessed more quickly than global variables, builtins, and attribute lookups. So, it is sometimes worth localizing variable access in inner-loops. For example, the code for `random.shuffle()` localizes access with the line, `random=self.random`. That saves the shuffling loop from having to repeatedly lookup `self.random`. Outside of loops, the gain is minimal and rarely worth it.
 
@@ -56,20 +56,20 @@ Here are some coding guidelines for applications that demand peak performance (i
 
 - A few fast approaches should be considered hacks and reserved for only the most demanding applications. For example, \"`not not x`\" is faster than \"`bool(x)`\".
 
-### Take advantage of diagnostic tools 
+#### Take advantage of diagnostic tools 
 
 - The [hotshot](http://docs.python.org/2/library/hotshot.html) and [profile](http://docs.python.org/2/library/profile.html) modules help identify performance bottlenecks. Profile can distinguish between time spent in pure Python and time spent in C code.
 
 - The timeit module offers immediate performance comparisons between alternative approaches to writing individual lines of code.
 
-### Performance can dictate overall strategy 
+#### Performance can dictate overall strategy 
 
 - SAX is typically faster and more memory efficient than DOM approaches to XML.
 - Use C versions of modules that are used frequently; e.g. cPickle instead of the pickle module, and cStringIO instead of StringIO. Note that on occasion, the C versions are less flexible, so be sure to read the module docs to know what you may be missing.
 - Threading can improve the response time in applications that would otherwise waste time waiting for I/O.
 - Select can help minimize the overhead for polling multiple sockets.
 
-### Consider external tools for enhancing performance 
+#### Consider external tools for enhancing performance 
 
 - Numpy is essential for high volume numeric work.
 
@@ -77,7 +77,7 @@ Here are some coding guidelines for applications that demand peak performance (i
 
 - See the [SciPy](SciPy)-related document [\"A beginners guide to using Python for performance computing\"](http://scipy.github.io/old-wiki/pages/PerformancePython) for an interesting comparison of different tools, along with some timing results.
 
-## More Performance Tips 
+### More Performance Tips 
 
 More performance tips and examples can be found at [PythonSpeed/PerformanceTips](PythonSpeed/PerformanceTips).
 

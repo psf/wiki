@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# stability and high availability 
+## stability and high availability 
 
 we went in two directions to improve PyPI :
 
 1\. add the mirroring protocol 2. make the PyPI server more reliable by pushing its storage in a redundant cloud.
 
-## mirroring
+### mirroring
 
 The mirroring protocol (PEP 381) is implemented on server-side, I\'ve worked with Martin on this, and we have mirrors now:
 
@@ -26,7 +26,7 @@ The idea is that anyone in the community willing to maintain a mirror can do so.
 
 The effect of the mirrors is that PyPI being down should not impact the community. This will be true once all tool are transparently using the mirrors.
 
-## better infra 
+### better infra 
 
 The current plan is to have two primary load balancer VMs running Nginx acting as both balancer and SSL termination points. These will share a set of floating IPs using Heartbeat. Behind this will be the same Apache configuration currently in use (Apache serving static files and PyPI running as an FCGI script controlled by Apache) running on two VMs, both talking to the same master-slave Postgres 9 replication setup. Package files will initially be handled by a shared DRBD drive, however this may be obsoleted by the project to move file hosting to Cloudfront or another CDN.
 
@@ -34,7 +34,7 @@ A currently open question is how best to provide reliability and security for th
 
 This will only partially address the current reliability issues as many of the current problems are linked to Apache or mod_fcgid needing to be restarted. In that light I would like to see PyPI and the catalog-sig group investigate moving the codebase to work against mod_wsgi or gunicorn (no real preference between the two) to create a more reliable runtime environment.
 
-# private mirrors 
+## private mirrors 
 
 Having a private mirror makes a lot of sense, when companies need to make sure their build systems are not relying on external services like PyPI or a mirror. It\'s also a good way to dramatically reduce the load for the community servers.
 
@@ -44,7 +44,7 @@ We have everything needed these days to set up this kind of system, with zc.buil
 
 What we need is a good tutorial or a guide \[\*\]
 
-# private projects 
+## private projects 
 
 The part that we do not address in the community is private projects: since we don\'t have any permissions/group/roles system in PyPI, everything is public.
 
@@ -52,7 +52,7 @@ One way to solve this is to have a local repository for private packages, that i
 
 What we need is a good tutorial or a guide \[\*\]
 
-# tutorial
+## tutorial
 
 \[\*\] If this helps, I am willing to work on a tutorial day for Pycon US, that goes through all of this, to help people set up their dev. environment the best way possible.
 

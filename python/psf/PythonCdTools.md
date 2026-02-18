@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Wiki 
+## Python Wiki 
 
 You said you wanted to mirror the Python wiki on the CD, here is a little script to suck the pages from the wiki to a folder:
 

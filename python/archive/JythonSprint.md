@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Redirection 
+## Redirection 
 
 We\'re moving this page to the official [JythonSprint](http://wiki.python.org/jython/JythonSprint) page on the Jython wiki.
 
-# Rationale 
+## Rationale 
 
 Jython is certainly a juicy project: it's still actively used, there are interesting technical challenges, and in this one, we see substantial organizational challenges to overcome as well.
 
-# Some other targets 
+## Some other targets 
 
 [http://wiki.python.org/jython/JythonDeveloperGuide/PleaseAdoptMe](http://wiki.python.org/jython/JythonDeveloperGuide/PleaseAdoptMe)
 
-# Design Ideas 
+## Design Ideas 
 
 This is the result of some ideas from the sprint on Jan 6. Our overall thinking was based on the premise of unification and reuse:
 
@@ -28,7 +28,7 @@ This is the result of some ideas from the sprint on Jan 6. Our overall thinking 
 
 Note that unification without 2.5 is not without controversy. In particular, an incremental approach might in fact be the best course of action.
 
-## Keep JavaCC 
+### Keep JavaCC 
 
 In the spirit of radical revolution, we looked at the feasibility of using CPython's new AST approach. (AST = abstract syntax tree, think of a specific snippet of Python code as a Lisp expression.) This is documented in [PEP 339](http://www.python.org/dev/peps/pep-0339/). This was motivated by the idea, why not just lift the grammar -- Python.asdl - from CPython 2.5 exactly. This is elegantly written and would allow for exact compliance. Seems like a nice idea!
 
@@ -46,15 +46,15 @@ However, we quickly realized that just like is done with ANTLR, we could immedia
 
 Would it make sense to unify the actual AST nodes as well? We need to look at that too.
 
-## Move to ASM for Bytecode Generation 
+### Move to ASM for Bytecode Generation 
 
 ASM has emerged as a standard library for manipulating and emitting bytecode. The analogy that might be used here is think of writing XML output. The first instinct is to DIY with print because it's so easy. But then consider entities, encodings, etc., and quickly one realizes that even just writing XML is a hassle without using packages like [ElementTree](ElementTree).
 
-### Removing Reflection 
+#### Removing Reflection 
 
 ASM also readily enables what Dennis Sosnoski described as [classworking](http://www-128.ibm.com/developerworks/java/library/j-dyn0610/), a method of replacing reflection with bytecode generation, since this is what ASM directly supports. Comments in the current code, [PyJavaClass](./PyJavaClass.html).java, to support reflection suggest there's an [ancient (1997) bug](http://bugs.sun.com/bugdatabase/view_bug.do?bug_id=4071957) lurking here. Is it possible to remove reflection then completely in favor of just a bit more bytecode generation? It would seem so.
 
-### Comparative Generation 
+#### Comparative Generation 
 
 Here's a list of modules that perform bytecode generation in the respective languages:
 
@@ -68,7 +68,7 @@ Some relevant resources:
 
 - [Java VM specification](http://java.sun.com/docs/books/vmspec/2nd-edition/html/VMSpecTOC.doc.html)
 
-## Fix a Compliance Target 
+### Fix a Compliance Target 
 
 Regression testing against the CPython test suite is certainly a noble goal. Probably what will excite more interest are supported applications in Jython. Here's a list:
 
@@ -78,7 +78,7 @@ Regression testing against the CPython test suite is certainly a noble goal. Pro
 
 This follows what Charles Nutter observed about JRuby and Rails: [Setting a compelling goal](http://sourceforge.net/mailarchive/forum.php?thread_id=30988621&forum_id=5587)
 
-## Replacing JythonC 
+### Replacing JythonC 
 
 Kip Lehman noted in one post that his impression from sporadic reading of the jython-dev mailing list is that jythonc isn\'t going to be a workable part of 2.2.
 
@@ -90,13 +90,13 @@ The right decision is probably to provide for emitting Java bytecode persistentl
 
 - [Jar Jar Links](http://tonicsystems.com/products/jarjar/)
 
-## Supporting select 
+### Supporting select 
 
 Various networking modules in the standard library do not work because of a lack of Posix style select. Java NIO has what looks like a close match in [java.nio.channels.Selector](http://java.sun.com/j2se/1.4.2/docs/api/java/nio/channels/Selector.html).
 
-# Sprint Participation 
+## Sprint Participation 
 
-## Engineering 
+### Engineering 
 
 Charlie Groves (jython committer) suggests:
 
@@ -108,25 +108,25 @@ You could also look at [http://wiki.python.org/jython/BiggerTasks](http://wiki.p
 
 Kip Lehman:
 
-## Jython status communication 
+### Jython status communication 
 
 The likelihood that you, unless you are a core Jython developer, know what components are complete in Jython for a 2.2 release is quite small. Why? There appears to be no publicly available and easily digestible record of what is done, what is being worked on (and how far along it might be) and what remains to be done.
 
 A starting point might be to segment the product into a handful of categories (with some subcategorization) and put up a red/yellow/green scoreboard for each item on the Jython web-site. What might those categorizations be? later\... There is a Jython wiki page that might be an appropriate target for this. Having some rudimentary form of project status tracking might be helpful in terms of bringing in additional help. If you don\'t know what needs to be done or fixed, you might not want to volunteer your time. Knowing specific areas or items that are in need of attention and have a close relationship to your area of interest/expertise could be a catalyst for involvement and action.
 
-## Design 
+### Design 
 
 Jim Baker: One insight I got from the Django-Oracle sprint is the value of design. Well, no one questioned that, but what we saw was the input of design even late into the process with respect to supporting Oracle. We had enough experts in the room to resolve definitively some open questions - or redress some ones that had not been done satisfactorily before. So some design issues to be addressed for Jython would be byte code translation of Python features, possibly via an intermediary like Janino; requisite modules; etc. (I was looking at the list of missing modules, and there was Bastion, disabled as of 2.3\...)
 
-## Testing 
+### Testing 
 
 And if we are doing design up front, why not testing too ![;)](/wiki/europython/img/smile4.png ";)") . So here\'s one addition to having an effective test-driven process. It would be nice if Jython were in the Pybots. I mean, why should Jython be chasing CPython constantly, when it comes to pure Python code? Complex projects like Twisted and Django have their dependencies too, and that\'s why they\'re in Pybots. My intuitive feeling is that Jython should not be converging on CPython 2.3 but on 2.6.
 
-## Designate a champion 
+### Designate a champion 
 
 As for a big sponsor, a white knight, my feeling is that is not going to happen until after some progress is made, if even then. (But Sun could still sponsor the [PyCon](../conferences/pycon/PyCon) sprint.) Still, if we get the participation of a company or group out there that\'s actively using Jython, that would add significant focus, just as Array Biopharma helped on the Django-Oracle sprint.
 
-# Technical Wish List 
+## Technical Wish List 
 
 Kip Lehman:
 
@@ -141,11 +141,11 @@ strawman categories:
 - Web related considerations (server side, client side?)
 - applet related considerations (environment, howto, examples)
 
-## Classpath / invocation environment issues 
+### Classpath / invocation environment issues 
 
 Having observed the Jython mailing for some years, a repeated topic of confusion is one related to setting the CLASSPATH, using jars and how to properly reference jars/dirs in manifests. Providing a primer on how to operate using the different constructs and some pointers on the decision making process of when and how to use said constructs would be a valuable addition to the Jython community.
 
-## Improving coverage and awareness of Jython environments 
+### Improving coverage and awareness of Jython environments 
 
 - Jython 2.1 supports Java 1.2 through Java 1.5
 - Jython 2.2x is slated to support Java 1.2? through Java 1.5 .
@@ -155,7 +155,7 @@ Identifying features and capabilities within Java 1.5 and 1.6 that would be cand
 
 Results of running the Jython test suite on various platforms/ JVM versions could provide a one-stop shop for those wondering if Jython could work in their environment and also serve to display the wide range of Jython applicability.
 
-## Jython installation package 
+### Jython installation package 
 
 Unknown what state the 2.2x version is in. My recollection is that the 2.1 version was characterized as not being suitable for continued use. A Jython installation package that can:
 
@@ -170,13 +170,13 @@ Python SOAP implementations seem to offer only limited coverage and the document
 
 Java web-services implementations seem to have a wider range of capabilities and larger operational acceptance. Leveraging some of the better Java web-services products with Jython might be a niche that could widen and diversify the Jython community.
 
-# Resources 
+## Resources 
 
 - [Developers\' FAQ](http://www.jython.org/Project/devfaq.html)
 
 - [Developers\' Guide](http://www.jython.org/Project/devguide.html)
 
-# Supporting Comments 
+## Supporting Comments 
 
 - Matt Boersma. I\'d like to help, especially if it involves getting at least Python 2.3-level support. I wrote a large EJB/Swing app all in jython 2.1 a few years ago, and it was fast enough and much more pleasant than writing the equivalent Java code. Plus, we can\'t let the Rubyists get ahead of us. :- )
 - Bill Simons. Yes! I\'m a fan of jython and it\'s been disappointing to see it lagging behind the other python implementations. Probably like a lot of other bellyachers I\'m not sure I have the time or energy to make a significant contribution to its development, but a sprint sounds like a good way to get our feet wet.

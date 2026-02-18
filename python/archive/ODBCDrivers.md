@@ -6,20 +6,20 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# ODBC Drivers 
+## ODBC Drivers 
 
 This page provides resources for people looking for ODBC drivers which they can then use with one of the available [Python ODBC interfaces](ODBC).
 
 We group drivers by database backend. Where available, please add the database vendor drivers as first entry in each section.
 
-## Generic Lists 
+### Generic Lists 
 
 - [SQL Summit list of ODBC drivers and vendors](https://web.archive.org/web/20140209203657/http://www.sqlsummit.com/ODBCVend.HTM)\
   This was once the most comprehensive listing of ODBC drivers. Unfortunately, the site stopped working in 2014, so the above is a link to the last archive.org version. Even though it is not updated anymore, it still provides a good overview of where to look for drivers.
 
 - [ODBC Drivers on databasedrivers.com](http://www.databasedrivers.com/odbc/) Listing of available ODBC drivers. This is also available as [list based on database backend](http://www.databasedrivers.com/sources/).
 
-## ODBC Driver Vendors 
+### ODBC Driver Vendors 
 
 There are a couple of companies which focus on creating commercial quality ODBC drivers for various backends:
 
@@ -37,21 +37,21 @@ There are a couple of companies which focus on creating commercial quality ODBC 
 
 - [Simba Technologies](http://www.simba.com/connectors) Drivers and driver development tools for Windows, Linux, Mac OS X: SQL Server, Couchbase, MongoDB, Hive, DynamoDB, Redshift, Cassandra, Spark, Impala, [BigQuery](./BigQuery.html), HBase, Salesforce.
 
-## Drivers by Data Source 
+### Drivers by Data Source 
 
-### Amazon DynamoDB 
+#### Amazon DynamoDB 
 
 - [CData ODBC Driver for Amazon DynamoDB](http://www.cdata.com/drivers/dynamodb/odbc)
 
 - *Please add new entries here*
 
-### Amazon SimpleDB 
+#### Amazon SimpleDB 
 
 - [CData ODBC Driver for Amazon SimpleDB](http://www.cdata.com/drivers/simpledb/odbc)
 
 - *Please add new entries here*
 
-### Apache Cassandra 
+#### Apache Cassandra 
 
 - [CData ODBC Driver for Apache Cassandra](http://www.cdata.com/drivers/cassandra/odbc)
 
@@ -59,37 +59,37 @@ There are a couple of companies which focus on creating commercial quality ODBC 
 
 - *Please add new entries here*
 
-### Apache HBase 
+#### Apache HBase 
 
 - [CData ODBC Driver for Apache HBase](http://www.cdata.com/drivers/hbase/odbc)
 
 - *Please add new entries here*
 
-### Apache Hive 
+#### Apache Hive 
 
 - [Simba Hive ODBC driver with SQL connector](http://www.simba.com/connectors/apache-hadoop-hive-driver)
 
 - *Please add new entries here*
 
-### Authorize.Net 
+#### Authorize.Net 
 
 - [CData ODBC Driver for Authorize.Net](http://www.cdata.com/drivers/authorizedotnet/odbc)
 
 - *Please add new entries here*
 
-### Azure Management 
+#### Azure Management 
 
 - [CData ODBC Driver for Azure Management](http://www.cdata.com/drivers/azuremanagement/odbc)
 
 - *Please add new entries here*
 
-### Azure Table 
+#### Azure Table 
 
 - [CData ODBC Driver for Azure Table](http://www.cdata.com/drivers/azure/odbc)
 
 - *Please add new entries here*
 
-### Couchbase 
+#### Couchbase 
 
 - [CData ODBC Driver for Couchbase Server](http://www.cdata.com/drivers/couchbase/odbc)
 
@@ -97,43 +97,43 @@ There are a couple of companies which focus on creating commercial quality ODBC 
 
 - *Please add new entries here*
 
-### CSV/TSV Files 
+#### CSV/TSV Files 
 
 - [CData ODBC Driver for CSV/TSV Files](http://www.cdata.com/drivers/csv/odbc)
 
 - *Please add new entries here*
 
-### E\*TRADE 
+#### E\*TRADE 
 
 - [CData ODBC Driver for E\*TRADE](http://www.cdata.com/drivers/etrade/odbc)
 
 - *Please add new entries here*
 
-### Email 
+#### Email 
 
 - [CData ODBC Driver for Email](http://www.cdata.com/drivers/email/odbc)
 
 - *Please add new entries here*
 
-### Exact Online 
+#### Exact Online 
 
 - [CData ODBC Driver for Exact Online](http://www.cdata.com/drivers/exact/odbc)
 
 - *Please add new entries here*
 
-### Facebook 
+#### Facebook 
 
 - [CData ODBC Driver for Facebook](http://www.cdata.com/drivers/facebook/odbc)
 
 - *Please add new entries here*
 
-### FreshBooks Accounting 
+#### FreshBooks Accounting 
 
 - [CData ODBC Driver for FreshBooks Accounting](http://www.cdata.com/drivers/freshbooks/odbc)
 
 - *Please add new entries here*
 
-### Firebird (and Interbase) 
+#### Firebird (and Interbase) 
 
 - [Devart Firebird ODBC Driver](https://www.devart.com/odbc/firebird/download.html)\
   Works on Windows, Linux, Mac OS X 32/64 bits.\
@@ -145,55 +145,55 @@ There are a couple of companies which focus on creating commercial quality ODBC 
 
 - *Please add new entries here*
 
-### Gmail 
+#### Gmail 
 
 - [CData ODBC Driver for Gmail](http://www.cdata.com/drivers/gmail/odbc)
 
 - *Please add new entries here*
 
-### Google AdWords 
+#### Google AdWords 
 
 - [CData ODBC Driver for Google AdWords](http://www.cdata.com/drivers/adwords/odbc)
 
 - *Please add new entries here*
 
-### Google Analytics 
+#### Google Analytics 
 
 - [CData ODBC Driver for Google Analytics](http://www.cdata.com/drivers/ganalytics/odbc)
 
 - *Please add new entries here*
 
-### Google Apps 
+#### Google Apps 
 
 - [CData ODBC Driver for Google Apps](http://www.cdata.com/drivers/google/odbc)
 
 - *Please add new entries here*
 
-### Google BigQuery 
+#### Google BigQuery 
 
 - [CData ODBC Driver for Google BigQuery](http://www.cdata.com/drivers/bigquery/odbc)
 
 - *Please add new entries here*
 
-### Google Sheets 
+#### Google Sheets 
 
 - [CData ODBC Driver for Google Sheets](http://www.cdata.com/drivers/gsheets/odbc)
 
 - *Please add new entries here*
 
-### HPCC ECL Queries 
+#### HPCC ECL Queries 
 
 - [CData ODBC Driver for HPCC ECL Queries](http://www.cdata.com/drivers/hpcc/odbc)
 
 - *Please add new entries here*
 
-### HubSpot 
+#### HubSpot 
 
 - [CData ODBC Driver for HubSpot](http://www.cdata.com/drivers/hubspot/odbc)
 
 - *Please add new entries here*
 
-### IBM DB2 
+#### IBM DB2 
 
 - [IBM DB2 ODBC driver for Windows and Unix](http://www-01.ibm.com/support/knowledgecenter/SSEPGG_9.7.0/com.ibm.swg.im.dbclient.install.doc/doc/c0059871.html?lang=en)\
   Come with IBM DB2, but can also be downloaded separately. Supports Windows and Unix.
@@ -206,11 +206,11 @@ There are a couple of companies which focus on creating commercial quality ODBC 
 
 - *Please add new entries here*
 
-### IBM Informix 
+#### IBM Informix 
 
 - *Please add new entries here*
 
-### IBM Netezza 
+#### IBM Netezza 
 
 - Netezza ODBC driver
 
@@ -218,35 +218,35 @@ There are a couple of companies which focus on creating commercial quality ODBC 
 
 - *Please add new entries here*
 
-### Ingres 
+#### Ingres 
 
 - *Please add new entries here*
 
-### Intacct 
+#### Intacct 
 
 - [CData ODBC Driver for Intacct](http://www.cdata.com/drivers/intacct/odbc)
 
 - *Please add new entries here*
 
-### JSON Services 
+#### JSON Services 
 
 - [CData ODBC Driver for JSON Services](http://www.cdata.com/drivers/json/odbc)
 
 - *Please add new entries here*
 
-### LDAP Directory Services 
+#### LDAP Directory Services 
 
 - [CData ODBC Driver for LDAP Directory Services](http://www.cdata.com/drivers/ldap/odbc)
 
 - *Please add new entries here*
 
-### MailChimp 
+#### MailChimp 
 
 - [CData ODBC Driver for MailChimp](http://www.cdata.com/drivers/mailchimp/odbc)
 
 - *Please add new entries here*
 
-### MariaDB 
+#### MariaDB 
 
 MariaDB is a fork of MySQL.
 
@@ -258,59 +258,59 @@ MariaDB is a fork of MySQL.
 
 - *Please add new entries here*
 
-### Marketo 
+#### Marketo 
 
 - [CData ODBC Driver for Marketo](http://www.cdata.com/drivers/marketo/odbc)
 
 - *Please add new entries here*
 
-### Microsoft Access 
+#### Microsoft Access 
 
 - *Please add new entries here*
 
-### Microsoft Active Directory 
+#### Microsoft Active Directory 
 
 - [CData ODBC Driver for Microsoft Active Directory](http://www.cdata.com/drivers/activedirectory/odbc)
 
 - *Please add new entries here*
 
-### Microsoft Dynamics CRM 
+#### Microsoft Dynamics CRM 
 
 - [CData ODBC Driver for Microsoft Dynamics CRM](http://www.cdata.com/drivers/dynamicscrm/odbc)
 
 - *Please add new entries here*
 
-### Microsoft Dynamics GP 
+#### Microsoft Dynamics GP 
 
 - [CData ODBC Driver for Microsoft Dynamics GP](http://www.cdata.com/drivers/dynamicsgp/odbc)
 
 - *Please add new entries here*
 
-### Microsoft Dynamics NAV 
+#### Microsoft Dynamics NAV 
 
 - [CData ODBC Driver for Microsoft Dynamics NAV](http://www.cdata.com/drivers/dynamicsnav/odbc)
 
 - *Please add new entries here*
 
-### Microsoft Exchange 
+#### Microsoft Exchange 
 
 - [CData ODBC Driver for Microsoft Exchange](http://www.cdata.com/drivers/exchange/odbc)
 
 - *Please add new entries here*
 
-### Microsoft Project 
+#### Microsoft Project 
 
 - [CData ODBC Driver for Microsoft Project](http://www.cdata.com/drivers/msproject/odbc)
 
 - *Please add new entries here*
 
-### Microsoft SharePoint 
+#### Microsoft SharePoint 
 
 - [CData ODBC Driver for Microsoft SharePoint](http://www.cdata.com/drivers/sharepoint/odbc)
 
 - *Please add new entries here*
 
-### Microsoft SQL Server 
+#### Microsoft SQL Server 
 
 - [MS SQL Server Native Client for SQL Server 2005, 2008 and later](https://msdn.microsoft.com/en-us/sqlserver/connectivity.aspx#SNAC)\
   Free, supported by Microsoft and available for Windows and 64-bit Linux.
@@ -334,7 +334,7 @@ MariaDB is a fork of MySQL.
 
 - *Please add new entries here*
 
-### MongoDB 
+#### MongoDB 
 
 - [CData ODBC Driver for MongoDB](http://www.cdata.com/drivers/mongodb/odbc)
 
@@ -342,7 +342,7 @@ MariaDB is a fork of MySQL.
 
 - *Please add new entries here*
 
-### MySQL 
+#### MySQL 
 
 - [MySQL ODBC Driver](http://dev.mysql.com/downloads/connector/odbc/) GPLed ODBC driver for Windows, Linux, Mac OS X, and Unix platforms.
 
@@ -360,31 +360,31 @@ MariaDB is a fork of MySQL.
 
 - *Please add new entries here*
 
-### NetSuite CRM & ERP 
+#### NetSuite CRM & ERP 
 
 - [CData ODBC Driver for NetSuite CRM & ERP](http://www.cdata.com/drivers/netsuite/odbc)
 
 - *Please add new entries here*
 
-### OData Services 
+#### OData Services 
 
 - [CData ODBC Driver for OData Services](http://www.cdata.com/drivers/odata/odbc)
 
 - *Please add new entries here*
 
-### Office 365 
+#### Office 365 
 
 - [CData ODBC Driver for Office 365](http://www.cdata.com/drivers/office365/odbc)
 
 - *Please add new entries here*
 
-### OFX Financial Accounts 
+#### OFX Financial Accounts 
 
 - [CData ODBC Driver for OFX Financial Accounts](http://www.cdata.com/drivers/ofx/odbc)
 
 - *Please add new entries here*
 
-### Oracle 
+#### Oracle 
 
 - [Oracle Instant Client ODBC driver](http://www.oracle.com/technology/tech/oci/instantclient/index.html)\
   Free, supported by Oracle. Works on Windows, Linux, Mac OS X, AIX, z/Linux, Solaris, HP-UX.
@@ -404,31 +404,31 @@ MariaDB is a fork of MySQL.
 
 - *Please add new entries here*
 
-### Oracle Eloqua 
+#### Oracle Eloqua 
 
 - [CData ODBC Driver for Oracle Eloqua](http://www.cdata.com/drivers/eloqua/odbc)
 
 - *Please add new entries here*
 
-### PayPal 
+#### PayPal 
 
 - [CData ODBC Driver for PayPal](http://www.cdata.com/drivers/paypal/odbc)
 
 - *Please add new entries here*
 
-### PowerShell 
+#### PowerShell 
 
 - [CData ODBC Driver for PowerShell](http://www.cdata.com/drivers/powershell/odbc)
 
 - *Please add new entries here*
 
-### PreEmptive Analytics 
+#### PreEmptive Analytics 
 
 - [CData ODBC Driver for PreEmptive Analytics](http://www.cdata.com/drivers/preemptive/odbc)
 
 - *Please add new entries here*
 
-### PostgreSQL 
+#### PostgreSQL 
 
 - [PostgreSQL ODBC Driver](http://psqlodbc.projects.postgresql.org/)\]\
   Open-source driver developed as part of the PostgreSQL project.
@@ -447,25 +447,25 @@ MariaDB is a fork of MySQL.
 
 - *Please add new entries here*
 
-### Quandl 
+#### Quandl 
 
 - [CData ODBC Driver for Quandl](http://www.cdata.com/drivers/quandl/odbc)
 
 - *Please add new entries here*
 
-### Reckon 
+#### Reckon 
 
 - [CData ODBC Driver for Reckon](http://www.cdata.com/drivers/reckon/odbc)
 
 - *Please add new entries here*
 
-### RSS Feeds 
+#### RSS Feeds 
 
 - [CData ODBC Driver for RSS Feeds](http://www.cdata.com/drivers/rss/odbc)
 
 - *Please add new entries here*
 
-### SAP ASE / Sybase ASE 
+#### SAP ASE / Sybase ASE 
 
 - [SAP/Sybase ASE ODBC driver](http://scn.sap.com/community/developer-center/oltp-db)\
   The ASE ODBC driver comes as part of the ASE installer. Simply select the ODBC driver when running the installer on a client.
@@ -483,62 +483,62 @@ MariaDB is a fork of MySQL.
 
 - *Please add new entries here*
 
-### SAP DB / MaxDB 
+#### SAP DB / MaxDB 
 
 - [MaxDB ODBC Driver](http://scn.sap.com/community/maxdb)\
   The driver comes as part of the [MaxDB downloads](https://store.sap.com/sap/cpa/ui/resources/store/html/Search.html?searchText=maxdb).
 
 - *Please add new entries here*
 
-### SAP NetWeaver 
+#### SAP NetWeaver 
 
 - [CData ODBC Driver for SAP NetWeaver](http://www.cdata.com/drivers/sap/odbc)
 
 - *Please add new entries here*
 
-### Sage 50 UK 
+#### Sage 50 UK 
 
 - [CData ODBC Driver for Sage 50 UK](http://www.cdata.com/drivers/sageuk/odbc)
 
 - *Please add new entries here*
 
-### Salesforce & Force.com 
+#### Salesforce & Force.com 
 
 - [CData ODBC Driver for Salesforce & Force.com](http://www.cdata.com/drivers/salesforce/odbc)
 
 - *Please add new entries here*
 
-### SharePoint Excel Services 
+#### SharePoint Excel Services 
 
 - [CData ODBC Driver for SharePoint Excel Services](http://www.cdata.com/drivers/excelservices/odbc)
 
 - *Please add new entries here*
 
-### Smartsheet.com 
+#### Smartsheet.com 
 
 - [CData ODBC Driver for Smartsheet.com](http://www.cdata.com/drivers/smartsheet/odbc)
 
 - *Please add new entries here*
 
-### Spark 
+#### Spark 
 
 - [Simba Spark ODBC driver with SQL connector](http://www.simba.com/connectors/apache-spark-driver)
 
 - *Please add new entries here*
 
-### Square 
+#### Square 
 
 - [CData ODBC Driver for Square](http://www.cdata.com/drivers/square/odbc)
 
 - *Please add new entries here*
 
-### Sugar 
+#### Sugar 
 
 - [CData ODBC Driver for Sugar](http://www.cdata.com/drivers/sugarcrm/odbc)
 
 - *Please add new entries here*
 
-### Teradata 
+#### Teradata 
 
 - [Teradata ODBC Driver](http://www.teradata.com/downloadcenter/)\
   ODBC driver is available for Windows, Linux, Solaris, AIX, HP-UX and Mac.
@@ -547,49 +547,49 @@ MariaDB is a fork of MySQL.
 
 - *Please add new entries here*
 
-### Twilio 
+#### Twilio 
 
 - [CData ODBC Driver for Twilio](http://www.cdata.com/drivers/twilio/odbc)
 
 - *Please add new entries here*
 
-### Twitter 
+#### Twitter 
 
 - [CData ODBC Driver for Twitter](http://www.cdata.com/drivers/twitter/odbc)
 
 - *Please add new entries here*
 
-### xBase 
+#### xBase 
 
 - [CData ODBC Driver for xBase](http://www.cdata.com/drivers/xbase/odbc)
 
 - *Please add new entries here*
 
-### XML Files 
+#### XML Files 
 
 - [CData ODBC Driver for XML Files](http://www.cdata.com/drivers/xml/odbc)
 
 - *Please add new entries here*
 
-### Xero Accounting 
+#### Xero Accounting 
 
 - [CData ODBC Driver for Xero Accounting](http://www.cdata.com/drivers/xero/odbc)
 
 - *Please add new entries here*
 
-### YouTube 
+#### YouTube 
 
 - [CData ODBC Driver for YouTube](http://www.cdata.com/drivers/youtube/odbc)
 
 - *Please add new entries here*
 
-### YouTube Analytics 
+#### YouTube Analytics 
 
 - [CData ODBC Driver for YouTube Analytics](http://www.cdata.com/drivers/youtubeanalytics/odbc)
 
 - *Please add new entries here*
 
-### Zoho CRM 
+#### Zoho CRM 
 
 - [CData ODBC Driver for Zoho CRM](http://www.cdata.com/drivers/zohocrm/odbc)
 

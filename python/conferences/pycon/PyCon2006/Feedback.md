@@ -6,10 +6,10 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Topic questions
+## Topic questions
 
 ::: 
-### What were your 3 favorite talks?
+#### What were your 3 favorite talks?
 
     Lightning talks (17)
     IronPython implementation  (17)
@@ -69,7 +69,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::::: 
-### What 3 topics should have been covered at PyCon?
+#### What 3 topics should have been covered at PyCon?
 
     Twisted  (8)
     More on scientific computing with python  (7)
@@ -112,7 +112,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
     Applications using various frameworks  (1)
 
 ::: 
-#### Web stuff
+##### Web stuff
 
     Wiki (Moin) Hacking  (2)
     WebOff II  (2)
@@ -134,7 +134,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-#### Core Python
+##### Core Python
 
     Usage of new/advanced python features  (12)
     Python Best Practices  (3)
@@ -158,7 +158,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::::
 
 :::: 
-### What 3 topics would you like to see repeated next year?
+#### What 3 topics would you like to see repeated next year?
 
     A Game-Free Introduction to PyGame  (1)
     AJAX  (1)
@@ -228,7 +228,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
     wxPython  (3)
 
 ::: 
-#### Web stuff
+##### Web stuff
 
     Ajax  (1)
     Any web development talks  (1)
@@ -255,7 +255,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 ::::
 
 ::: 
-### Where did you stay?
+#### Where did you stay?
 
     91% Hotel  (72)
      4% Am local resident  (3)
@@ -264,7 +264,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### If you stayed at a hotel other than the conference hotel, what was its name?
+#### If you stayed at a hotel other than the conference hotel, what was its name?
 
     Crowne Plaza  (1)
     Comfort Inn  (1)
@@ -272,13 +272,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### Would you recommend the hotel to other attendees?
+#### Would you recommend the hotel to other attendees?
 
     True  (60)
 :::
 
 ::: 
-### What is your maximum per-person nightly room budget for accommodations?
+#### What is your maximum per-person nightly room budget for accommodations?
 
     21% $75 or less  (15)
     36% $100  (25)
@@ -289,7 +289,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### If PyCon were not to be in Dallas TX, what 3 cities/regions would you prefer?
+#### If PyCon were not to be in Dallas TX, what 3 cities/regions would you prefer?
 
     Washington DC  (21)
     Chicago  (21)
@@ -346,14 +346,14 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### Would you be interested in attending half-day (3-hour) tutorials next year?
+#### Would you be interested in attending half-day (3-hour) tutorials next year?
 
     32% False  (24)
     52% True  (52)
 :::
 
 ::: 
-### How much would you be willing to pay for a half-day (3 hour) tutorial?
+#### How much would you be willing to pay for a half-day (3 hour) tutorial?
 
     11% Nothing  (7)
     13% $25  (8)
@@ -363,7 +363,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### If yes, please list 3 tutorial subjects you would like to attend:
+#### If yes, please list 3 tutorial subjects you would like to attend:
 
     Django  (8)
     Web development  (7)
@@ -419,7 +419,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### Other comments
+#### Other comments
 
 The wxPython tutorial was great! I want a sequel.
 
@@ -599,13 +599,13 @@ I\'d like to learn to use a specific part of Python for applications on Linux, n
 :::
 
 ::: 
-### What days did you attend PyCon?
+#### What days did you attend PyCon?
 
 Sunday (74) Friday (78) Saturday (77)
 :::
 
 ::: 
-### Please rate your overall satisfaction with PyCon 2006
+#### Please rate your overall satisfaction with PyCon 2006
 
     34% very high  (27)
     60% high  (48)
@@ -613,7 +613,7 @@ Sunday (74) Friday (78) Saturday (77)
 :::
 
 ::: 
-### Please rate your overall satisfaction with the keynotes
+#### Please rate your overall satisfaction with the keynotes
 
     25% very high  (20)
     54% high  (43)
@@ -621,7 +621,7 @@ Sunday (74) Friday (78) Saturday (77)
 :::
 
 ::: 
-### Please rate your overall satisfaction with the talks.
+#### Please rate your overall satisfaction with the talks.
 
     14% very high  (11)
     70% high  (55)
@@ -629,7 +629,7 @@ Sunday (74) Friday (78) Saturday (77)
 :::
 
 ::: 
-### Please rate your overall satisfaction with the network.
+#### Please rate your overall satisfaction with the network.
 
      3% very high  (2)
     15% high  (11)
@@ -638,7 +638,7 @@ Sunday (74) Friday (78) Saturday (77)
 :::
 
 ::: 
-### Please rate your overall satisfaction with the food.
+#### Please rate your overall satisfaction with the food.
 
     19% very high  (19)
     62% high  (48)
@@ -647,7 +647,7 @@ Sunday (74) Friday (78) Saturday (77)
 :::
 
 ::: 
-### Please rate your likelihood of attending next year.
+#### Please rate your likelihood of attending next year.
 
     45% very high  (35)
     38% high  (30)
@@ -656,7 +656,7 @@ Sunday (74) Friday (78) Saturday (77)
 :::
 
 ::: 
-### Would you prefer a conference that took place:
+#### Would you prefer a conference that took place:
 
     just as it was  (1)
     better to end on a weekend, this years way worked  (1)
@@ -669,7 +669,7 @@ Sunday (74) Friday (78) Saturday (77)
 :::
 
 ::: 
-### How can we improve PyCon next year?
+#### How can we improve PyCon next year?
 
 The current location felt fairly isolated from the outside world \-- I would prefer a more urban location, however the hotel environment worked much better than the previous DC location as far as feeling spacious, connected. The crowd flow felt smoother than in years past.
 

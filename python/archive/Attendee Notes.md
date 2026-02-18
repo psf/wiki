@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Addenda to Attendee Notes for PyCon 2008
+## Addenda to Attendee Notes for PyCon 2008
 
 This page is for addenda to the [Attendee Notes](http://us.pycon.org/2008/about/notes/) page on the [PyCon web site](http://us.pycon.org/).
 

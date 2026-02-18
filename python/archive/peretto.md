@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Let\'s talk about Sockets and Threads in Python 
+## Let\'s talk about Sockets and Threads in Python 
 
 Anselmo A. Peretto \<peretto(at)gmail.com\>
 

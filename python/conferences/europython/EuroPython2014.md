@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2014 
+## EuroPython 2014 
 
 EuroPython 2014 will take place from July 21 - 27, in Berlin, Germany. The first five days will have a combination of talks and trainings. The weekend days are reserved for sprints.
 
@@ -18,17 +18,17 @@ See the official site for more details:
 
 If you want to add information to this page and find that it is immutable, please sign up to the wiki and see the [FrontPage](../../people/FrontPage) for details on how to get editing permissions.
 
-## Discussion 
+### Discussion 
 
 Please join the [EuroPython](EuroPython) Mailing List to discuss conference topics:
 
 - [EuroPython Mailing List](https://mail.python.org/mailman/listinfo/europython)
 
-## Traveling 
+### Traveling 
 
 Please also see the [public transport page](https://ep2014.europython.eu/en/venue/public-transportation/) on the [EuroPython](EuroPython) 2014 website. Most of the information here has been merged into the [EuroPython](EuroPython) web page.
 
-### BVG Public Transport Tickets 
+#### BVG Public Transport Tickets 
 
 These tickets allow traveling on Berlin public transport. Note that they are usually restricted to certain zones.
 
@@ -44,7 +44,7 @@ These tickets allow traveling on Berlin public transport. Note that they are usu
 
 **Note:** If you have a [EuroPython](EuroPython) badge with a \"VBB\" logo on it, this serves as ticket for the zones A and B, valid from Monday, July 21 - Sunday, July 27. If you arrive early or stay longer, you may want to get day tickets. See the [EuroPython 2014 Public Transportation](https://ep2014.europython.eu/en/venue/public-transportation/) page for details.
 
-### Navigation tools 
+#### Navigation tools 
 
 - [Öffi Fahrplanauskunft](http://oeffi.schildbach.de/) - A great public transport navigation app available for Android. There are two networks you can select: \"BVG\" (Berlin city) or \"VBB\" (Berlin + outskirts).
 
@@ -52,7 +52,7 @@ These tickets allow traveling on Berlin public transport. Note that they are usu
 
 - [Citymapper app (iOS, Android)](https://citymapper.com/apps/)
 
-### Berlin Welcome Card 
+#### Berlin Welcome Card 
 
 This is a combined ticket for the Berlin public transport system and discount card for many Berlin attractions.
 
@@ -60,7 +60,7 @@ This is a combined ticket for the Berlin public transport system and discount ca
 
 - [Berlin Welcome Card](http://www.berlin.de/en/tourism/1895467-2975548-berlin-welcomecard.en.html)
 
-### Berlin CityTourCard 
+#### Berlin CityTourCard 
 
 This is a slightly cheaper alternative to the Berlin Welcome Card.
 
@@ -68,7 +68,7 @@ This is a slightly cheaper alternative to the Berlin Welcome Card.
 
 - [Berlin CityTourCard](http://www.citytourcard.com/en)
 
-### Getting from Berlin Tegel (TXL) airport to Berlin Alexanderplatz 
+#### Getting from Berlin Tegel (TXL) airport to Berlin Alexanderplatz 
 
 There\'s a bus called *[JetExpressBus](./JetExpressBus.html) TXL* providing a quick link between the airport and the city center:
 
@@ -82,7 +82,7 @@ You will need a ticket valid for zones A and B (usually called \"AB\").
 
 **Note:** If you have received your [EuroPython](EuroPython) badge by postal mail, you can use this as public transport ticket for traveling from the airport to the city center. The badge is valid for the zones A and B, from Monday, July 21 - Sunday, July 27. If you arrive early or stay longer, you will have to get day or single tickets. See the [EuroPython 2014 Public Transportation](https://ep2014.europython.eu/en/venue/public-transportation/) page for details.
 
-### Getting from Berlin Schönefeld (SFX) airport to Berlin Alexanderplatz 
+#### Getting from Berlin Schönefeld (SFX) airport to Berlin Alexanderplatz 
 
 The airport Berlin Schönefeld has a train station which allows direct travel to Berlin Alexanderplatz. The train service is called Airport Express, uses the regional trains RE7 and RB14 and is available between 4:30 and 23:00 hours:
 
@@ -94,15 +94,15 @@ The journey takes around 30 minutes. There\'s a shuttle bus that operates betwee
 
 If you have received your [EuroPython](EuroPython) badge by postal mail, you can use this as public transport ticket for part of the journey from the airport to the city center. The badge is valid for the zones A and B, from Monday, July 21 - Sunday, July 27. If you arrive early or stay longer, you will have to get day or single tickets. **Important:** Since the airport is in zone C, make sure you get an \"Anschlußfahrschein/Connection ticket A/C\" for 1.60 €. This covers the journey part from Schönefeld (zone C) into zone A/B when using your badge ticket.
 
-## Information from earlier conferences in berlin 
+### Information from earlier conferences in berlin 
 
 - [DjangoCon 2010 wiki](http://djangode.pbworks.com/w/page/4861417/DjangoCon%20Europe%202010)
 
-## Sightseeing in Berlin 
+### Sightseeing in Berlin 
 
 - [City guide of the German ART magazine](http://www.art-magazin.de/cityguide/en/berlin) - lists interesting museums and art galleries in Berlin.
 
-## Check out what\'s going on in Berlin 
+### Check out what\'s going on in Berlin 
 
 To find what you\'ll love in Berlin (Theater, Scene, Music, Culture, People, Restaurant \...)
 
@@ -112,7 +112,7 @@ To find what you\'ll love in Berlin (Theater, Scene, Music, Culture, People, Res
 
 - [List of exhibitions and events in art galleries and museums](http://www.art-magazin.de/div/ausstellungssuche?city=Berlin&frommonth=7&fromyear=2014&tomonth=7&toyear=2014&submit) (from the German ART magazine) - with addresses, opening times and links to the museum/exhibition websites.
 
-## Special events during the conference 
+### Special events during the conference 
 
 - [\"Monty Python Live (mostly)\" show](http://www.montypythonlive.com/) on July 20th
 

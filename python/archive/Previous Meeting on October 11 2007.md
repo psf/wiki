@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Describe Previous Meeting on October 11 2007 here.
 
-# Previous (October 11) meeting attendees 
+## Previous (October 11) meeting attendees 
 
 - Matthew Ford, VMware, Palo Alto
 

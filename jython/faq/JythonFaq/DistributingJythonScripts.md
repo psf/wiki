@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Distributing Jython Scripts 
+## Distributing Jython Scripts 
 
 return to [JythonFaq]()
 
 ------------------------------------------------------------------------
 
-## How can others use scripts/applications I\'ve developed? 
+### How can others use scripts/applications I\'ve developed? 
 
 Initial creation date: Aug 2007 last updated: Aug 6, 2009
 
-### Using Maven 
+#### Using Maven 
 
 The easiest way to distribute a standalone jar is by using the **[jython compilation maven plugin](http://mavenjython.sourceforge.net/compile/)**. It allows you to deploy a standalone project that includes jython with libraries.
 
@@ -30,7 +30,7 @@ For testing python / jython code, the [python test maven plugin](http:/mavenjyth
 
 The sourceforge umbrella project is [http://mavenjython.sourceforge.net/](http://mavenjython.sourceforge.net/)
 
-### Manually 
+#### Manually 
 
 **NOTE:** This contains advanced concepts that require knowledge of Java development. Specifically, if you do not know what a classpath is, the difference between a class and a .class file and how they are created or don\'t know what a jar file contains or what it really is, then I would suggest learning these **Java** concepts and once you understand them, come back and continue on. Here are a couple of links that may help you: [Java Tutorial](http://java.sun.com/docs/books/tutorial/java/TOC.html) and [About Java Technology](http://java.sun.com/docs/books/tutorial/getStarted/intro/index.html) but I would not stop with these two links. Use your favorite search engine and search for the terms above. [LearningJython](../../getting-started/LearningJython) is also good reading.
 
@@ -40,7 +40,7 @@ The sourceforge umbrella project is [http://mavenjython.sourceforge.net/](http:/
 
 There are really two main ways to accomplish distributing your code and, like most things Jython, they are pretty easy.
 
-## Requirements 
+### Requirements 
 
 For your script to run on another PC there isn\'t much in the way of requirements really only two that I can think of.
 
@@ -50,7 +50,7 @@ For your script to run on another PC there isn\'t much in the way of requirement
 What I did is install Jython twice. Once as a regular installation (not standalone) and then once as standalone. Then I renamed the standalone Jython jar file to jythonStandalone.jar, moved it into my original Jython2.2 directory, and deleted the other one.\
 [*Note:*] *you don\'t have to call it \'jythonStandalone\' it is simply the name I chose you can use any name you like as long as it ends in .jar.*
 
-## Using the Class Path 
+### Using the Class Path 
 
 Just set up the classpath with all the jars needed and pass that to java with the \"-cp\" command-line option. That\'s a pretty standard thing for command line Java tools to do and isn\'t specific to Jython. If you\'re going to do that, you can\'t use -jar though. Just add the Jython jar to the things you\'ve added to the classpath and give Jython\'s main class, org.python.util.jython, explicitly. Optionally you can add a script as a parameter which would run as usual. This does not use jythonc in any way.
 
@@ -65,7 +65,7 @@ for example:
 - (Linux / Unix) java -cp /path/to/jython2.2/jython.jar:\$CLASSPATH org.python.util.jython \[file.py\]
 - (windows) java -cp \"c:\\jython2.2\\jython.jar;%CLASSPATH%\" org.python.util.jython \[file.py\]
 
-## Using the Jar Method 
+### Using the Jar Method 
 
 This is my favorite method of distribution. It\'s less hassle for you, the developer, with fewer files to keep track of and easier for your end users to use. This also does not use jythonc in any way.
 
@@ -120,13 +120,13 @@ Then, after packaging `__run__.py`{.backtick} inside the JAR file, the command s
 
 If you use this method, you may have to add your jar file (myapp.jar in the above example command line) to your CLASSPATH environment variable.
 
-## Building jars - some samples 
+### Building jars - some samples 
 
 The following examples assume that you want to build and run your Jython application from a jar file in a way that is **not** dependent on files in your Jython installation. This will enable your users to run your Jython application (packaged in a jar file) without installing Jython. They will, of course, need Java installed on their machines.
 
 The following example scripts were developed on Linux (and the bash shell), but with minor modifications, you should be able to do the same thing in an MS DOS box on MS Windows.
 
-### Add Jython install stuff to our jar 
+#### Add Jython install stuff to our jar 
 
 To build our jar, we first make a copy of jython.jar, then add the contents of the Lib/ directory to it:
 
@@ -134,7 +134,7 @@ To build our jar, we first make a copy of jython.jar, then add the contents of t
     $ cp jython.jar jythonlib.jar
     $ zip -r jythonlib.jar Lib
 
-### Add modules and paths to the jar file 
+#### Add modules and paths to the jar file 
 
 Then we copy this expanded jar file, and add modules that are specific to our application. I\'m also going to add a path to an additional jar file to the manifest:
 
@@ -148,7 +148,7 @@ Where, othermanifest.mf contains the following:
 
     Class-Path: ./otherjar.jar
 
-### Run the script/jar 
+#### Run the script/jar 
 
 Now I have a self-contained jar file that I can run by executing the following:
 
@@ -156,7 +156,7 @@ Now I have a self-contained jar file that I can run by executing the following:
 
 The file `testmyapp.py` imports modules that I have added to `myapp.jar` and `otherjar.jar`, then starts my application.
 
-### A more self-contained jar file 
+#### A more self-contained jar file 
 
 Now suppose you want to package your \"start-up\" script in the (main) jar itself. In order to do so, follow the above instructions plus:
 
@@ -178,7 +178,7 @@ Alternatively, instead of adding your standalone jar to the `CLASSPATH` environm
 
 This works because Java and Jython both *have `-jar` options. The first `-jar` tells Java to run Jython, and the second `-jar` tells Jython to run the `__run__.py` in the jar file.*
 
-## A summary 
+### A summary 
 
 Create the basic jar:
 
@@ -221,7 +221,7 @@ Or, if you have added your start-up script to the jar, use one of the following:
 
 **NOTE:** Wildcard imports, e.g. `from javax.swing import *` that may work when invoking using jython directly `jython myapp.py`, or `java -jar jython.jar myapp.py` fail when the application is packaged as a single jar file. To avoid this problem, always use explicit imports for Java packages, e.g. `from javax.swing import JFrame`.
 
-## A note about webstart 
+### A note about webstart 
 
 Ok maybe one mention of webstart: check out these postings to the mailing list (all from aug 2007):
 
@@ -231,7 +231,7 @@ Ok maybe one mention of webstart: check out these postings to the mailing list (
 
 - and David Huebel recommends [http://seanmcgrath.blogspot.com/JythonWebAppTutorial.html](http://seanmcgrath.blogspot.com/JythonWebAppTutorial.html) the first part looks pretty good.
 
-## \"What\'s a really easy way to distribute my app as a single jar?\" 
+### \"What\'s a really easy way to distribute my app as a single jar?\" 
 
 Start with a fresh working directory. Paste the following code into the file `Main.java`:
 
@@ -310,7 +310,7 @@ With all this, `java -jar output.jar`{.backtick} should run your code.
 
 **NOTE**: Please email charlieATcharliedyson.net if this does or does not work for you, I\'ve only just come up with it as I wanted a single jar that could be executed without any arguments. The Main.java code above was hacked to support readline (if possible) by msdemleiATari uni-heidelberg.de, so if that bugs you, don\'t bother Charlie, ask Markus. Also, an ant build as well as a sample project that implements this method is available [here](https://github.com/jsbruneau/jython-selfcontained-jar).
 
-## Resources and acknowledgements 
+### Resources and acknowledgements 
 
 Finally, as in all things [YMMV](http://en.wiktionary.org/wiki/your_mileage_may_vary). If you have different experences or just think I\'m crazy then don\'t just sit there and complain, contribute to the wiki!
 

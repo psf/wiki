@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# ADO 
+## ADO 
 
 ADO is a Microsoft high-level interface to databases on Windows. It usually stacks up on top of an [ODBC](../archive/ODBC) driver.
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### adodbapi
+#### adodbapi
 
 URL
 

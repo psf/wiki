@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Modifying a standard Qt image plugin 
+## Modifying a standard Qt image plugin 
 
 I created a Qt image format plugin to write CCITT-compressed TIFF files by stripping out everything that wasn\'t needed from the standard TIFF plugin in Qt.
 

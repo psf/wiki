@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Web Components 
+## Web Components 
 
 For use with some of the frameworks listed on [WebFrameworks](../web/WebFrameworks), the components/libraries/toolkits on this page often attempt to solve common problems in a way that can work with more than one particular framework; the idea being that you choose the component which does a particular job and it hopefully works with the framework you\'re developing your application in.
 
-## Authorization Toolkits 
+### Authorization Toolkits 
 
 These allow you to add authorization to your web applications.
 
@@ -28,7 +28,7 @@ These allow you to add authorization to your web applications.
 
 - [HTTP basic authentication example](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/305288) (this is a CGI script)
 
-## Form Handling 
+### Form Handling 
 
 - [wheezy.html](https://bitbucket.org/akorn/wheezy.html) is a lightweight HTML widget rendering library with preprocessing features for template engines.
 
@@ -44,7 +44,7 @@ These allow you to add authorization to your web applications.
 
 - [Deform](http://docs.repoze.org/deform) is a featureful framework-agnostic form generation system.
 
-## Request Dispatchers 
+### Request Dispatchers 
 
 A dispatcher takes the requests (i.e. the URL that a user types in) and then provides the response (i.e. the web application that creates the webpage that the user sees).
 
@@ -56,7 +56,7 @@ A dispatcher takes the requests (i.e. the URL that a user types in) and then pro
 
 - [Colubrid](http://wsgiarea.pocoo.org/colubrid/) is a WSGI publisher which simplifies Python web developement. However, it should be possible to do the same things using [Werkzeug](http://werkzeug.pocoo.org/), a more recent Pocoo project offering a collection of web components.
 
-## Templating Engines 
+### Templating Engines 
 
 Templating engines allow you to separate your application code from the presentation. Many of these engines can be used alone or within a high-level framework. A more extensive list can be found on the [Templating](../archive/Templating) page.
 

@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 You can add additional topics below. Please discuss the specific goals and possible approaches to these tasks!
 
-# CPython 
+## CPython 
 
 - CPython 2.5 is slower than CPython 2.4. See [/Slowdown](Goals/Slowdown).
 
@@ -113,7 +113,7 @@ You can add additional topics below. Please discuss the specific goals and possi
 
 - Improve interpreter startup time, like in patch [921466](http://bugs.python.org/issue921466 "SF").
 
-# Pure Python Projects 
+## Pure Python Projects 
 
 - Improve [language shootout](http://dada.perl.it/shootout/python.html) submissions
 
@@ -126,14 +126,14 @@ You can add additional topics below. Please discuss the specific goals and possi
 
 - Update [PythonSpeed/PerformanceTips](../PythonSpeed/PerformanceTips)
 
-# Twisted 
+## Twisted 
 
 - Speed improvements to select and poll reactors
 - Reactor based on /dev/epoll
 - Better integration with psyco
 - Improvements against twisted benchmark
 
-# Psyco 
+## Psyco 
 
 - Support for 64-bit CPUs (e.g. Opteron)
 
@@ -159,11 +159,11 @@ You can add additional topics below. Please discuss the specific goals and possi
 
 - Virtualized slots (Ability to cache [getattribute]() values)
 
-# Py3000 
+## Py3000 
 
 - Make a wishlist for possible performance gains in Py3.0
 
-# Shared Memory Lib 
+## Shared Memory Lib 
 
 \* [MartinBlais](../../people/MartinBlais): I have had this idea in the back of my head for the longest time, to write a small C library to let non-related Python processes (i.e. not forked from one another) access a same shared memory location, even if it is just to share strings, in the manner of a shared dictionary. There is POSH, but it cannot do that, you have to fork from a single parent to use it, which means it won\'t work within certain contexts (i.e. apache prefork). There is memcached, but it uses sockets, I\'m sure shmem would be faster (and it\'s applicable in the case where sharing only within the host is good enough). Now, I understand that it\'s not directly on the Python interpreter itself, but it would provide a path to making certain kinds of Python applications faster (could EWT benefit from this?), so I\'m proposing it here anyway. I\'m thinking of the following steps:
 

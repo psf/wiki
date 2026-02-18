@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IBM DB2 
+## IBM DB2 
 
-## General Information 
+### General Information 
 
 URL
 
@@ -22,9 +22,9 @@ platforms
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### ibm_db
+#### ibm_db
 
 URL
 
@@ -40,7 +40,7 @@ Python versions
 
 :   *to be specified*
 
-### PyDB2 
+#### PyDB2 
 
 URL
 
@@ -56,7 +56,7 @@ Python versions
 
 :   *to be specified*
 
-### ceODBC 
+#### ceODBC 
 
 URL
 
@@ -72,7 +72,7 @@ Python versions
 
 :   *to be specified*
 
-### pyodbc
+#### pyodbc
 
 URL
 
@@ -91,7 +91,7 @@ Actively maintained Open Source project.
 
 Precompiled binaries are available for Windows. RedHat Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -108,7 +108,7 @@ Python versions
 
 DB2\'s native CLI is ODBC compatible and mxODBC can link directly against these libraries on Unix. It also supports the DB2 ODBC driver on Windows, including the those for DB2 running on z/OS.
 
-### mxODBC Connect 
+#### mxODBC Connect 
 
 URL
 

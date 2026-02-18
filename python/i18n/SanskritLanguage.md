@@ -28,7 +28,7 @@ Where these pages really need help:
 
 3\) some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
 
-# संस्कृत 
+## संस्कृत 
 
 संस्कृतभाषायाः पाइथन (Python) पृष्ठ। स्वागतम्।
 
@@ -43,7 +43,7 @@ Where these pages really need help:
         व्याहृ = "नमस्ते, {0}. कथम् अस्ति भवान् / भवती ?".format(विद्या):
         print(व्याहृ)
 
-### उनिकोड् उपकारं \|\| Unicode upakaaraM \|\| Unicode help 
+#### उनिकोड् उपकारं \|\| Unicode upakaaraM \|\| Unicode help 
 
 [unicode](http://coseruc.people.cofc.edu/unicode/)
 

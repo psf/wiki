@@ -6,21 +6,21 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Useful Modules, Packages and Libraries 
+## Useful Modules, Packages and Libraries 
 
 The intent of this page is to list some of the most commonly used Python modules, in the hope that it will provide useful recommendations for other programmers (especially beginners). Remember that in addition to the listings below, there are other directories of Python modules - see [PublishingPythonModules](../archive/PublishingPythonModules) for details. Another collection of library details can be found on the [Libraries](../archive/Libraries) page.
 
 Be warned that this list is subjective by its very nature - it is only intended as a helpful guide. It is not definitive in any way, nor should it discourage developers from developing their own modules.
 
-## Standard Library Backports 
+### Standard Library Backports 
 
 - [StandardLibraryBackports](../archive/StandardLibraryBackports) - modules that make later standard library functionality available in earlier version
 
-## Cryptography 
+### Cryptography 
 
 - [Python and Cryptography](../security/Cryptography)
 
-## Database 
+### Database 
 
 - [SQLAlchemy](http://www.sqlalchemy.org/) or [SQLObject](http://sqlobject.org/) - Object oriented access to several different database systems
 
@@ -28,23 +28,23 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 - See also [DatabaseProgramming](../database/DatabaseProgramming) for guidance on choosing a database backend system
 
-## Foreign Function Interface 
+### Foreign Function Interface 
 
 - [CTypes](http://starship.python.net/crew/theller/ctypes/) - A package for calling the functions of dlls/shared libraries. Now included with Python 2.5 and up.
 
 - [Cython](http://cython.org/) is an extension language for the CPython runtime. It translates Python code to fast C code and supports calling external C and C++ code natively. As opposed to ctypes, it requires a C compiler to translate the generated code.
 
-## Game Development 
+### Game Development 
 
 - [PyGame](http://www.pygame.org/) - Principal wrapper of the SDL library.
 
 - See also [GameProgramming](../multimedia/GameProgramming). A more comprehensive list of packages can be found on the [PythonGameLibraries](../multimedia/PythonGameLibraries) page.
 
-## GIS (Geographic Information System) 
+### GIS (Geographic Information System) 
 
 - [GIS Web services](../archive/GIS/Web_services) - Packages to access to Google Maps, Yahoo! MapsÃ¢Â€Â¦ and more information
 
-## GUI 
+### GUI 
 
 - [PyGtk](PyGtk) - Bindings for the cross-platform Gtk toolkit.
 
@@ -60,15 +60,15 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 - GUI Programming is, in many cases, a matter of taste. See a more extensive list on the [GuiProgramming](../gui/GuiProgramming) page.
 
-### Console 
+#### Console 
 
 - [Ascii Table](../archive/Console/Ascii_table) packages
 
-## Audio / Music 
+### Audio / Music 
 
 - [Audio in Python](../multimedia/Audio)
 
-## ID3 Handling 
+### ID3 Handling 
 
 - [Mutagen](http://code.google.com/p/mutagen/) - Mutagen is a Python module to handle audio metadata. It supports FLAC, M4A, Musepack, MP3, Ogg FLAC, Ogg Speex, Ogg Theora, Ogg Vorbis, True Audio, and [WavPack](./WavPack.html) audio files. All versions of ID3v2 are supported, and all standard ID3v2.4 frames are parsed. It can read Xing headers to accurately calculate the bitrate and length of MP3s. ID3 and APEv2 tags can be edited regardless of audio format. It can also manipulate Ogg streams on an individual packet/page level. **It only writes ID3v2.4** (introduced in 2000, but as of Windows 8 still not supported by [MediaPlayer](./MediaPlayer.html)).
 
@@ -84,21 +84,21 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 - [pytaglib](https://pypi.python.org/pypi/pytaglib) - Python 3.x and 2.x support - bindings to the C++ [taglib](http://taglib.github.io) library, reads and writes mp3, ogg, flac, mpc, speex, opus, [WavPack](./WavPack.html), [TrueAudio](./TrueAudio.html), wav, aiff, mp4 and asf files.
 
-## Image Manipulation 
+### Image Manipulation 
 
 - [Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/) - Supports many file formats, and provides powerful image processing and graphics capabilities.
 
 - [pyqtgraph](http://www.pyqtgraph.org/) - Pure-python graphics library for scientific applications with image/video display, multidimensional image slicing, and interactive manipulation tools.
 
-## Indexing and Searching 
+### Indexing and Searching 
 
 - [InformationRetrieval](InformationRetrieval)
 
-## Java 
+### Java 
 
 - [Java scripting](ScriptingJava)
 
-## Networking 
+### Networking 
 
 - [asyncoro](http://asyncoro.sourceforge.net) - Asynchronous, concurrent programming framework with coroutines with thread-like interface
 
@@ -114,25 +114,25 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 - [Celery](http://celeryproject.org) - Distributed task queue for out of band processing/RPC and more.
 
-## Platform-Specific 
+### Platform-Specific 
 
 - [Psyco](http://psyco.sourceforge.net/) - Psyco can speed up the execution of any Python code (x86 only).
 
 - [PyInstaller](http://www.pyinstaller.org/) - Packages Python programs into stand-alone executables, under Windows, Linux and Irix.
 
-### Mac 
+#### Mac 
 
 - [py2app](http://pythonmac.org/wiki/py2app) - Creates stand-alone apps (like py2exe for Mac)
 
 - [PyObjC](http://pyobjc.sourceforge.net) - Bridge between the Python and Objective-C. Most important usage of this is writing Cocoa GUI applications on Mac OS X in pure Python
 
-### Windows 
+#### Windows 
 
 - [PyWin32](https://sourceforge.net/projects/pywin32/) - Python extensions for Windows.
 
 - [Py2exe](http://www.py2exe.org/) - Converts python scripts into executable windows programs, able to run without requiring a python installation.
 
-## Plotting 
+### Plotting 
 
 - [Chaco](http://code.enthought.com/chaco/) - Creates interactive plots
 
@@ -152,17 +152,17 @@ Be warned that this list is subjective by its very nature - it is only intended 
 
 The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98ffdb309ccce4e4504a25ea75b5c806e4897b6) page has a longer list.
 
-## Presentation 
+### Presentation 
 
 - [http://docutils.sourceforge.net/docs/user/tools.html#rst2s5-py](http://docutils.sourceforge.net/docs/user/tools.html#rst2s5-py) - Create HTML slides from .rst files
 
 - [http://seld.be/notes/introducing-slippy-html-presentations](http://seld.be/notes/introducing-slippy-html-presentations) - For your Python presentations in browser
 
-## RDF Processing 
+### RDF Processing 
 
 - See [RdfLibraries](RdfLibraries) for a list of available RDF processing solutions.
 
-## Scientific 
+### Scientific 
 
 - [Visual Python](http://vpython.org/) - Offers real-time 3D output, is easily usable by novice programmers, excellent for physics.
 
@@ -174,7 +174,7 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - [PyIMSL](http://www.roguewave.com/products/imsl-numerical-libraries/pyimsl-studio.aspx) is a collection of Python wrappers to the mathematical and statistical algorithms in the IMSL C Numerical Library. Developers can use Python, PyIMSL and the IMSL C Numerical Library for rapid prototyping. [PyIMSL Studio](http://www.roguewave.com/products/imsl-numerical-libraries/pyimsl-studio.aspx) is a complete packaged, supported and documented development environment designed for deploying mathematics and statistics prototype models into production applications. PyIMSL Studio includes the PyIMSL wrappers, the IMSL C Numerical Library, a Python distribution and a selection of open source python modules useful for prototype analytical development. PyIMSL Studio is available for download at no charge for non-commercial use or for commercial evaluation.
 
-## Standard Library Enhancements 
+### Standard Library Enhancements 
 
 - [Python Path](http://pypi.python.org/pypi/path.py) - Wraps the functionality of the os.path module and provides something more convenient.
 
@@ -188,17 +188,17 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - [PyLibrary](http://sourceforge.net/projects/pylibrary/) - Collection of Libraries useful for Python developers.
 
-## Threading 
+### Threading 
 
 - [ThreadPool](http://chrisarndt.de/projects/threadpool/) - Intuitive approach to threads, well-explained.
 
 - See the [ParallelProcessing](ParallelProcessing) page for other multiprocessing or parallel processing approaches.
 
-## System administration 
+### System administration 
 
 - [psutil](https://github.com/giampaolo/psutil) - cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network) in Python.
 
-## Web Development 
+### Web Development 
 
 - [Django](http://www.djangoproject.com) - High-level web framework.
 
@@ -214,7 +214,7 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - See a more complete list of topics on the [WebProgramming](../web/WebProgramming) page and frameworks on the [WebFrameworks](../web/WebFrameworks) page.
 
-### HTML Forms 
+#### HTML Forms 
 
 - [ClientForm](http://wwwsearch.sourceforge.net/ClientForm/) - \"[ClientForm](./ClientForm.html) is a Python module for handling HTML forms on the client side, useful for parsing HTML forms, filling them in and returning the completed forms to the server. It developed from a port of Gisle Aas\' Perl module HTML::Form, from the libwww-perl library, but the interface is not the same.\" - from the website.
 
@@ -224,7 +224,7 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - See also the [WebProgramming](../web/WebProgramming) and [WebFrameworks](../web/WebFrameworks) pages.
 
-### HTML Parser 
+#### HTML Parser 
 
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) - HTML/XML parser designed for quick turnaround projects like screen-scraping, will accept bad markup.
 
@@ -236,13 +236,13 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - See also [PythonXml](../archive/PythonXml) for related tools.
 
-## Workflow 
+### Workflow 
 
 - [openflow](http://www.openflow.it/Openflow) - A workflow engine for Zope 2.
 
 - [Goflow](http://code.djangoproject.com/wiki/GoFlow) - A workflow engine for Django, with same design as openflow.
 
-## XML Processing 
+### XML Processing 
 
 - [ElementTree](http://effbot.org/zone/element-index.htm) - The Element type is a simple but flexible container object, designed to store hierarchical data structures, such as simplified XML infosets, in memory. \--Note: Python 2.5 and up has [ElementTree](ElementTree) in the Standard Library\--
 
@@ -252,11 +252,11 @@ The [SciPy](SciPy) [topical software](http://scipy.org/Topical_Software#head-b98
 
 - [PythonXml](../archive/PythonXml) provides a list of available XML processing solutions.
 
-## Flow Based Programming 
+### Flow Based Programming 
 
 - [Python and Flow Based Programming (pipelines)](../archive/FlowBasedProgramming)
 
-## Editorial Notes 
+### Editorial Notes 
 
 Please avoid listing modules where\...
 

@@ -125,7 +125,7 @@ Although the core features of elmer have gone unchanged for several years, and i
 
 [http://elmer.sourceforge.net](http://elmer.sourceforge.net)
 
-# Windows Build Mods 
+## Windows Build Mods 
 
 Needed to make a couple of changes to get it to build using Microsoft VS.Net 2003:
 

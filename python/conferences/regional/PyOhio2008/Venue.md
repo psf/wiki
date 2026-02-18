@@ -12,7 +12,7 @@ Parking in the attached garage costs \$4 / day; consider carpooling or using pub
 
 The following notes are being left here for future use (planning [PyOhio](../PyOhio) 2009, for example.)
 
-# Venue Considerations 
+## Venue Considerations 
 
 - Room for approximately 100-150 attendees.
 
@@ -24,7 +24,7 @@ The following notes are being left here for future use (planning [PyOhio](../PyO
 
 - Wireless! Absolutely crucial if we have sprints, very desirable otherwise
 
-# Possible Venues 
+## Possible Venues 
 
 - Ohio Supercomputing Center
   - They did, after all, put this on: [http://www.osc.edu/press/releases/2007/python.shtml](http://www.osc.edu/press/releases/2007/python.shtml)

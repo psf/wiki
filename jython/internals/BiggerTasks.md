@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **Contents**
 
-# Jython 2.3 
+## Jython 2.3 
 
-## Builtins 
+### Builtins 
 
 yield is always a keyword. **\[done\]**
 
@@ -32,7 +32,7 @@ assert no longer checks [debug] flag.
 
 Many type objects are now callable. **\[possibly done\]**
 
-## PEPs 
+### PEPs 
 
 [PEP 218](http://www.python.org/dev/peps/pep-0218/): A Standard Set Datatype
 
@@ -48,7 +48,7 @@ Many type objects are now callable. **\[possibly done\]**
 
 Reference: [What\'s New in Python 2.3](http://www.python.org/doc/2.3/whatsnew/)
 
-# Jython 2.4 
+## Jython 2.4 
 
 Built-in set, frozenset
 
@@ -62,7 +62,7 @@ Multi-line imports
 
 Reference: [What\'s New in Python 2.4](http://www.python.org/doc/2.4/whatsnew/)
 
-# Jython 2.5 
+## Jython 2.5 
 
 Conditional expressions
 
@@ -80,16 +80,16 @@ The [index] method
 
 Reference: [What\'s New in Python 2.5](http://www.python.org/doc/2.5/whatsnew/)
 
-# Replace jythonc 
+## Replace jythonc 
 
 jythonc doesn\'t handle generators and is difficult to debug and improve. The current thinking is to add capabilites to jython itself to generate bytecode from py files and run those statically compiled items rather than jythonc\'s approach of making Java classes that work like the base Python code. See [http://thread.gmane.org/gmane.comp.lang.jython.devel/1429/focus=1430](http://thread.gmane.org/gmane.comp.lang.jython.devel/1429/focus=1430) for the general idea.
 
-# Solidify Import System 
+## Solidify Import System 
 
 Jython adds to Python\'s import system to handle loading from Java\'s classpath and to load from jar files. It\'s not exactly clear what modifications are in place and what techniques are best for adding jar files to the path at runtime and things like that. An informational JEP explaining what\'s been added and how things relate to both the Python and Jython sides would be nice.
 
 Brett Cannon has been working on rewriting all of Python\'s import machinery in Python; see [http://svn.python.org/view/sandbox/trunk/import_in_py/](http://svn.python.org/view/sandbox/trunk/import_in_py/) for the code.
 
-# Complete Java to Python naming integration 
+## Complete Java to Python naming integration 
 
 Java allows a method and field of the same name to exist in the same class. Python only has a single namespace for these items. This leads to methods being hidden in a Java instance in Jython if the instance has a field of the same name. In addition, the bean convenience methods that map object.getField() in Java to object.field in Jython lead to collisions. See [http://thread.gmane.org/gmane.comp.lang.jython.user/4919/](http://thread.gmane.org/gmane.comp.lang.jython.user/4919/) and [http://jython.org/bugs/1509095](http://jython.org/bugs/1509095). A standard system for renaming fields and methods to avoid collisions and a JEP explaining the whole thing would be most welcome.

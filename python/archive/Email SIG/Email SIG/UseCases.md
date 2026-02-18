@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Email Package Use Cases 
+## Email Package Use Cases 
 
 The following use cases for the email package API are gleaned from the email-sig mailing list and are collected here for reference. Note that \'strings\' are python3 unicode strings.
 

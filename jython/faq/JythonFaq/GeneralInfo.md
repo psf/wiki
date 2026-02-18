@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# General Information 
+## General Information 
 
 [JythonFaq]()
 
 ------------------------------------------------------------------------
 
-## What is Jython? 
+### What is Jython? 
 
 Jython follows closely the Python language and its reference implementation CPython, as created by Guido van Rossum. Jython 2.7 corresponds to CPython 2.7.
 
 Jython started as JPython, created by Jim Hugunin in 1997. JPython was renamed to Jython by Barry Warsaw in 1999 with the 2.0 release. Since then, Jython 2.x releases have corresponded to equivalent CPython 2.x releases.
 
-## Is Jython the same language as Python? 
+### Is Jython the same language as Python? 
 
 Yes. Jython is an implementation of the Python language for the Java platform. Jython 2.7 implements the same language as CPython 2.7, and nearly all of the Core Python standard library modules. (CPython is the C implementation of the Python language.) Jython 2.7 uses the same regression test suite as CPython, with some minor modifications.
 
@@ -28,7 +28,7 @@ There are a number of other differences between the two implementations that are
 
 ------------------------------------------------------------------------
 
-## What is the current status of Jython? 
+### What is the current status of Jython? 
 
 Jython 3.x development is in progress.
 
@@ -46,7 +46,7 @@ Jython 2.0 was released on January 17, 2001
 
 ------------------------------------------------------------------------
 
-## How fast is Jython? 
+### How fast is Jython? 
 
 The startup time and runtime performance for Jython are largely determined by the JVM. Startup time can be mitigated by using a tool like Nailgun. Running an older release of Java 7 can be much slower, due to bytecode verification.
 
@@ -58,7 +58,7 @@ If you find a specific area where Jython performance is worse than CPython, and 
 
 ------------------------------------------------------------------------
 
-## How do I learn more about Jython? 
+### How do I learn more about Jython? 
 
 You might want to start with the the Apress book documenting Jython 2.5, [The Definitive Guide to Jython](http://apress.com/book/view/9781430225270), which is also available online as the [Jython Book](http://jythonbook.com), an open source version.
 
@@ -86,7 +86,7 @@ These are just a sampling of what\'s available. There is a lot out there and it 
 
 ------------------------------------------------------------------------
 
-## Can I use Jython to make apps for mobile phones? 
+### Can I use Jython to make apps for mobile phones? 
 
 Unfortunately not. The Android operating system does use Java as its primary programming language, but there is no known port of Jython to the platform. If you want to make apps for Android smartphones, see the Python Wiki\'s [Android page](https://wiki.python.org/moin/Android) for alternative approaches.
 

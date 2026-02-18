@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Other Persistent Storage Modules 
+## Other Persistent Storage Modules 
 
 The modules listed on this page provide mechanisms for storing data on disk. Some modules are simply the disk-based equivalent of dictionaries; others provide for persistent storage of arbitrary Python objects.
 
-## Disk-based Dictionaries 
+### Disk-based Dictionaries 
 
 [anydbm](http://docs.python.org/lib/module-anydbm.html) Included with the standard Python distribution. The `anydbm` module is a generic interface to all the DBM-like modules listed in the next two lines, selecting from whichever modules are installed.
 
@@ -24,7 +24,7 @@ The modules listed on this page provide mechanisms for storing data on disk. Som
 
 [mxBeeBase](http://www.lemburg.com/files/python/mxBeeBase.html) mxBeeBase is a high performance construction kit for disk based indexed databases. It offers components which you can plug together to easily build your own custom mid-sized databases, up to around 2Gb on 32-bit platforms).
 
-## Data Writing and Parsing 
+### Data Writing and Parsing 
 
 [PyTables](PyTables) reads and writes large amounts of numeric data.
 
@@ -40,7 +40,7 @@ The xBase .dbf file format used by several old systems such as dBase(II,III,IV),
 
 - [http://www.clicketyclick.dk/databases/xbase/format/](http://www.clicketyclick.dk/databases/xbase/format/)
 
-## Persistent Objects 
+### Persistent Objects 
 
 [pickle.py](http://docs.python.org/lib/module-pickle.html) Included with the standard Python distribution. The `pickle` module can convert Python objects to and from a string representation.
 

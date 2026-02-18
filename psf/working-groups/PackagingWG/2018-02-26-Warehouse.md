@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Warehouse weekly meeting, Feb 26, 2018 
+## Warehouse weekly meeting, Feb 26, 2018 
 
-## Present 
+### Present 
 
 - Sumana
 - Laura
@@ -18,7 +18,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 (Mark absent, as he\'d told us he would be)
 
-## Done/working on/blockers 
+### Done/working on/blockers 
 
 - Nicole
   - Not blocked
@@ -59,13 +59,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   - Open Tech Fund grant proposal - deadline at end of this month
   - PEP 541
 
-## Reschedule March 5th meeting 
+### Reschedule March 5th meeting 
 
 - Nicole \-- is later on Monday March 5th ok, or should we move to Tuesday the 6th? - Either works, but I\'d prefer tues if it works for everyone else ![:)](/wiki/europython/img/smile.png ":)")
 
   - Laura to update \-- DONE
 
-## IRC livechats/office hours 
+### IRC livechats/office hours 
 
 1.  Tuesday Feb 27th: 1700 UTC / noon-1pm EST
 2.  Tuesday Feb 27th: 2300 UTC / 6pm-7pm EST
@@ -74,7 +74,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 you\'ll get calendar invites
 
-## Open Tech Fund grant-seeking - improving security for users 
+### Open Tech Fund grant-seeking - improving security for users 
 
 - Mark needs our help on Etherpad. See Slack and packaging-wg thread
   - Nicole, Ernest, Sumana, Dustin, Laura are all in
@@ -86,7 +86,7 @@ you\'ll get calendar invites
   - Localization
 - let\'s put all our ideas in the Etherpad and winnow from there
 
-## Milestone progress, publicity planning 
+### Milestone progress, publicity planning 
 
 - Milestones 1 & 2 cleared
 
@@ -126,13 +126,13 @@ you\'ll get calendar invites
 
 - Brainstorming for places we could promote the beta, the launch, and the shutdown [https://docs.google.com/document/d/1uinYN4hjq5Yzz1oWFcGqC5XE45wXF4sh3heqtid6EW8/edit](https://docs.google.com/document/d/1uinYN4hjq5Yzz1oWFcGqC5XE45wXF4sh3heqtid6EW8/edit)
 
-## Ask Donald for 
+### Ask Donald for 
 
 - \[infra\]
 
 - Review [https://github.com/pypa/packaging/pull/125](https://github.com/pypa/packaging/pull/125)
 
-## Bug triage/double-checking 
+### Bug triage/double-checking 
 
 - User forgot PyPI password, packaging-problems #122
   - Ernest or Dustin?
@@ -184,7 +184,7 @@ you\'ll get calendar invites
 
   - Will save a headache when people ask about it, nice to have
 
-## TODO 
+### TODO 
 
 - add another IRC office hours at 23:00 UTC
   - Laura send calendar invites for IRC office hours -DONE

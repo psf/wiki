@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python and XML 
+## Python and XML 
 
 A variety of XML processing solutions are available for Python. This page attempts to list the major tools.
 
-## Packages in the standard library 
+### Packages in the standard library 
 
 The standard library has a number of tools available, which fall into mainly three categories:
 
@@ -29,11 +29,11 @@ The standard library has a number of tools available, which fall into mainly thr
 
 The DOM and SAX packages have the advantage of being compatible with standard or de facto standard APIs, so users who are already familiar with these APIs can use them without learning too many new things. Everyone else should start with the faster and more pythonic [ElementTree](../people/ElementTree) library, which is very well integrated into the Python language, and therefore very easy to learn and use.
 
-## External packages 
+### External packages 
 
 A long list of special purpose and general purpose Python XML packages is available from [PyPI](http://pypi.python.org/pypi?:action=browse&show=all&c=500). The following is a choice of major tools that support a broader set of XML features.
 
-### Pythonic tools 
+#### Pythonic tools 
 
 - [lxml](http://lxml.de/) - a pythonic, [ElementTree](../people/ElementTree)-compatible binding for the [libxml2](http://xmlsoft.org/) and [libxslt](http://xmlsoft.org/XSLT/) libraries that comes with all sorts of powerful XML (and HTML) tools, well integrated into an easy-to-use Python API
 
@@ -47,7 +47,7 @@ A long list of special purpose and general purpose Python XML packages is availa
 
 - [Amara 2.x](http://xml3k.org/Amara) - Amara provides tools you can trust to conform with XML standards without losing the familiar Python feel
 
-### W3C DOM-like libraries 
+#### W3C DOM-like libraries 
 
 - [PyXML](http://sourceforge.net/projects/pyxml/) - external add-on to Python\'s original XML support - (Warning: no longer maintained, does not work with recent Python versions)
 
@@ -59,7 +59,7 @@ A long list of special purpose and general purpose Python XML packages is availa
 
 - [4Suite](http://4suite.org/) - a framework for XML (and RDF) processing
 
-### XPath Support 
+#### XPath Support 
 
 - [py-dom-xpath](http://code.google.com/p/py-dom-xpath/) - pure Python XPath implementation for use with DOM libraries
 
@@ -69,7 +69,7 @@ A long list of special purpose and general purpose Python XML packages is availa
 
 - [SaxonC](https://www.saxonica.com/saxon-c/documentation12/index.html) from Saxonica includes a Python API with full support for XPath 3.1.
 
-### XSLT Support 
+#### XSLT Support 
 
 If not mentioned otherwise, this means XSLT 1.0, not XSLT 2.0.
 
@@ -83,7 +83,7 @@ If not mentioned otherwise, this means XSLT 1.0, not XSLT 2.0.
 
 - [SaxonC](https://www.saxonica.com/saxon-c/documentation12/index.html) from Saxonica includes a Python API with full support for XSLT 3.0
 
-### XML-based Communications 
+#### XML-based Communications 
 
 - [jabber.py](http://jabberpy.sourceforge.net/) - a Python module for the jabber instant messaging protocol
 
@@ -91,7 +91,7 @@ If not mentioned otherwise, this means XSLT 1.0, not XSLT 2.0.
 
 - [xmpppy](http://xmpppy.sourceforge.net/) - a Python library that is targeted to provide easy scripting with Jabber
 
-### Web Services 
+#### Web Services 
 
 - [XmlRpc](../networking/XmlRpc)
 
@@ -99,20 +99,20 @@ If not mentioned otherwise, this means XSLT 1.0, not XSLT 2.0.
 
 - see [WebServices](../people/WebServices)
 
-### Object Serialization in XML 
+#### Object Serialization in XML 
 
 - [pyxser](http://coder.cl/software/pyxser/) - a Python extension to serialize/deserialize Python objects into XML
 
-## Books and Articles 
+### Books and Articles 
 
 - [XmlBooks](../people/XmlBooks)
 
 - [Tutorials on XML processing with Python](Tutorials on XML processing with Python)
 
-## SIG 
+### SIG 
 
 - [http://python.org/community/sigs/current/xml-sig](http://python.org/community/sigs/current/xml-sig)
 
-## Editorial Notes 
+### Editorial Notes 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new entries. When specifying release dates please use the format YYYY-MM-DD.

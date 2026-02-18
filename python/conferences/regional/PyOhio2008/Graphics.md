@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Potential PyOhio Graphics 
+## Potential PyOhio Graphics 
 
 I had some logo ideas this evening and so I noodled around with Illustrator a little bit\... Here\'s what I came up with so far. Aside from the favicon, these are all vector art so they can be resized, colored, etc. as needed.
 

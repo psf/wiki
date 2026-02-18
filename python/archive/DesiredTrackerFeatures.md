@@ -6,10 +6,10 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Desired Tracker Features
+## Desired Tracker Features
 
 ::: 
-### Patch and Test Tracking
+#### Patch and Test Tracking
 
 Instead of the \'needs test\' and \'needs patch\' stages, it would be better to have a checkbox grid something like this:
 
@@ -38,7 +38,7 @@ In the meanwhile the stages could be changed to \"needs unit test\", \"needs pat
 :::
 
 ::: 
-### Python Version Tracking
+#### Python Version Tracking
 
 Instead of a multi-selection list for python versions, perhaps we could have a list of versions like this:
 
@@ -85,7 +85,7 @@ With values like \'unaffected\', \'affected\', \'committed\', \'to be ported\'.
 :::
 
 ::: 
-### New Field for Module/Package
+#### New Field for Module/Package
 
 When I want to find all bugs related to one module or package, I have to use the plain text search, which could give false positives and leave out valid results. For some packages I can use a component, e.g. Distutils, but not for all. I suggest a new field that would allow selecting what module(s)/package(s) a bug apply to. This would provide reliable and discoverable URIs for people who want to monitor particular modules or packages.
 
@@ -116,7 +116,7 @@ When I want to find all bugs related to one module or package, I have to use the
 :::
 
 ::: 
-### Easier Monitoring
+#### Easier Monitoring
 
 (merwok)
 
@@ -132,7 +132,7 @@ Add a stats page that shows stats and graphs similar to the ones included in the
 :::
 
 ::: 
-### Files
+#### Files
 
 (merwok)
 
@@ -143,7 +143,7 @@ Attach files to emails sent to nosy if they have a sane mime type and size (poss
 :::
 
 ::: 
-### Misc
+#### Misc
 
 There could be a short (one line) description that depending on the stage of the issue says what should be done next (triaging, adding tests, a patch, review it, commit it), with a link to the respective section of the devguide.
 

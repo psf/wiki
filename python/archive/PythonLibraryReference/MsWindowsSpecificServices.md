@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# MS Windows Specific Services 
+## MS Windows Specific Services 
 
 22.1 msvcrt - Useful routines from the MS VC++ runtime
 
@@ -24,7 +24,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 22.3 winsound \-- Sound-playing interface for Windows
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

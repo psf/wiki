@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Out of print books. 
+## Out of print books. 
 
 ::: caution
 **Out of print Python books.**
@@ -16,7 +16,7 @@ All books in this category are out of print. They may contain outdated informati
 
 ![{i}](/wiki/europython/img/icon-info.png "{i}") Ordered by publication date.
 
-## Internet Programming with Python 
+### Internet Programming with Python 
 
 ![Internet Programming width Python book cover](attachments/OutOfPrintBooks/internet_programming_python_cover.png "Internet Programming width Python book cover")
 
@@ -38,7 +38,7 @@ This was the very first Python book to be published.
 
 ------------------------------------------------------------------------
 
-## Programming Python (1st edition) 
+### Programming Python (1st edition) 
 
 ![Programming Python 1st edition book cover](attachments/OutOfPrintBooks/programming_python_1st_cover.png "Programming Python 1st edition book cover")
 
@@ -58,7 +58,7 @@ This was the very first Python book to be published.
 
 ------------------------------------------------------------------------
 
-## Python Pocket Reference (1st edition) 
+### Python Pocket Reference (1st edition) 
 
 ![Python Pocket Reference 1st edition book cover](attachments/OutOfPrintBooks/python_pocket_reference_1st_cover.png "Python Pocket Reference 1st edition book cover")
 
@@ -78,7 +78,7 @@ This was the very first Python book to be published.
 
 ------------------------------------------------------------------------
 
-## Learning Python (1st edition) 
+### Learning Python (1st edition) 
 
 ![Learning Python 1st edition book cover](attachments/OutOfPrintBooks/learning_python_1st_cover.png "Learning Python 1st edition book cover")
 
@@ -98,7 +98,7 @@ This was the very first Python book to be published.
 
 ------------------------------------------------------------------------
 
-## Python Annotated Archives 
+### Python Annotated Archives 
 
 ![Python Annotated Archives book cover](attachments/OutOfPrintBooks/python_annotated_archives_cover.jpg "Python Annotated Archives book cover")
 
@@ -116,7 +116,7 @@ This was the very first Python book to be published.
 
 ------------------------------------------------------------------------
 
-## Programming with Python 
+### Programming with Python 
 
 ![Programming with Python book cover](attachments/OutOfPrintBooks/programming_with_Python_cover.png "Programming with Python book cover")
 
@@ -134,7 +134,7 @@ This was the very first Python book to be published.
 
 ------------------------------------------------------------------------
 
-## Python Essential Reference (1st edition) 
+### Python Essential Reference (1st edition) 
 
 - **By:** David M.Beazley.
 
@@ -152,7 +152,7 @@ This was the very first Python book to be published.
 
 ------------------------------------------------------------------------
 
-## The Quick Python Book 
+### The Quick Python Book 
 
 - **By:** Daryl Harms and Kenneth McDonald.
 
@@ -168,7 +168,7 @@ This was the very first Python book to be published.
 
 ------------------------------------------------------------------------
 
-## Teach Yourself Python in 24 Hours (1st edition) 
+### Teach Yourself Python in 24 Hours (1st edition) 
 
 - **By:** Ivan van Laningham
 
@@ -188,7 +188,7 @@ This book\'s primary aim is to teach programming using Python as the language. R
 
 ------------------------------------------------------------------------
 
-## Core Python Programming (1st edition) 
+### Core Python Programming (1st edition) 
 
 - **By:** Wesley Chun.
 
@@ -206,7 +206,7 @@ This book\'s primary aim is to teach programming using Python as the language. R
 
 ------------------------------------------------------------------------
 
-## Programming Python (2nd edition) 
+### Programming Python (2nd edition) 
 
 - **By:** Mark Lutz
 
@@ -224,7 +224,7 @@ This book\'s primary aim is to teach programming using Python as the language. R
 
 ------------------------------------------------------------------------
 
-## Python Essential Reference (2nd edition) 
+### Python Essential Reference (2nd edition) 
 
 - **By:** David M. Beazley.
 
@@ -242,7 +242,7 @@ This book\'s primary aim is to teach programming using Python as the language. R
 
 ------------------------------------------------------------------------
 
-## Perl to Python Migration 
+### Perl to Python Migration 
 
 - **By:** Martin C. Brown
 
@@ -262,7 +262,7 @@ This book\'s primary aim is to teach programming using Python as the language. R
 
 ------------------------------------------------------------------------
 
-## Python Pocket Reference (2nd Edition) 
+### Python Pocket Reference (2nd Edition) 
 
 - **By:** Mark Lutz.
 
@@ -280,7 +280,7 @@ This book\'s primary aim is to teach programming using Python as the language. R
 
 ------------------------------------------------------------------------
 
-## Python Programming Patterns 
+### Python Programming Patterns 
 
 - **By:** Thomas Christopher.
 

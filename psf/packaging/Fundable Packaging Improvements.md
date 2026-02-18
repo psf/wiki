@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Packaging improvements that could be funded 
+## Packaging improvements that could be funded 
 
 The [Fundable Packaging Improvements repository](https://github.com/psf/fundable-packaging-improvements) lists specific things that
 

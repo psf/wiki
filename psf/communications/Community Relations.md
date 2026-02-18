@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Community Relations 
+## Community Relations 
 
 Members:
 
 - [MarcAndreLemburg](../people/MarcAndreLemburg)
 
-## Summary 
+### Summary 
 
 With the PSF Community Relations we aim at creating closer bindings with the world-wide Python communities.
 
@@ -22,7 +22,7 @@ One of the ways we\'re trying to do this is by showing more presence at internat
 
 Another way is to have regional PSF representatives which can help give the PSF a closer relation to local groups. We\'re trying to find such representatives and work out a strategy for the local representation with them.
 
-## Conference Kits 
+### Conference Kits 
 
 The conference kit for South America is managed locally by Luciano Ramalho and Mariano Reingart.
 
@@ -34,11 +34,11 @@ For more details on the kits, please have a look at the conference kit wiki page
 
 - [PSF Conference Kit](../marketing/PSF Conference Kit)
 
-## Local PSF Representation 
+### Local PSF Representation 
 
 After the last PSF meeting at [EuroPython](./EuroPython.html), Duncan [McGreggor](./McGreggor.html) has kindly initiated a discussion with the Indian Python community. We will be following up with this and hope to arrange one of the first regional representations there. Progress so far has been slow on this due to many other PSF activities.
 
-## Events Calendars 
+### Events Calendars 
 
 In order to make it easier for the community to find Python related events, I\'ve setup a team of volunteers to manage two new event calendars. One for larger events and another one for smaller events:
 
@@ -51,7 +51,7 @@ Details about the calendars are available on the wiki page we have for them:
 
 - [https://wiki.python.org/moin/PythonEventsCalendar](https://wiki.python.org/moin/PythonEventsCalendar)
 
-## Python Job Board 
+### Python Job Board 
 
 The job board has been running for many years now. Most of the time the maintenance was done by a single person. Since Chris Withers left to work on other things, the project has been having problems getting up to speed again.
 
@@ -61,11 +61,11 @@ Details about the project can be found on the team wiki page:
 
 - [https://wiki.python.org/moin/PSF%20Python%20Job%20Board](https://wiki.python.org/moin/PSF%20Python%20Job%20Board)
 
-## Issues 
+### Issues 
 
 The budget the board approved for the conference kits is fully used up. I\'ll have to propose a budget position for marketing activities.
 
-## Future plans 
+### Future plans 
 
 Have more conference kits for e.g. India, Australia and Asia.
 

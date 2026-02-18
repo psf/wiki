@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Proposed agendas and notes taken during the IRC meetings 
+## Proposed agendas and notes taken during the IRC meetings 
 
 - [/IrcMeeting1](IrcMeetings/IrcMeeting1): 2007-03-07
 

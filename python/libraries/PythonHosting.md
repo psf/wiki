@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python-Friendly Web Hosting 
+## Python-Friendly Web Hosting 
 
 Python is a web-friendly language. From the standard web-related modules delivered with the core distribution to a wide variety of full-blown application servers, users can choose just the right set of tools to create sophisticated websites of all sorts. Individuals or small companies who don\'t want to manage their own server hardware need to locate companies who offer Python solutions.
 
@@ -28,7 +28,7 @@ If you are new to editing Wikis, please check [HelpOnTables](HelpOnTables) for h
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") Also, this is not an advertising service, so please restrict yourself to information relevant to Python users!
 
-## Hosting Options 
+### Hosting Options 
 
 - [Free Hosts](../people/FreeHosts)
 

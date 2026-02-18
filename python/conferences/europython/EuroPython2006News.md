@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2006 News 
+## EuroPython 2006 News 
 
 This page was updated frequently during the [EuroPython2006](EuroPython2006) conference, and interesting post-conference information will also appear here.
 

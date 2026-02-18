@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Drawing highlighted rows in a calendar widget 
+## Drawing highlighted rows in a calendar widget 
 
 On the Freenode #pyqt channel, rowinggolfer asked if it was possible to highlight the current week in a calendar widget.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sprinters: 
+## Sprinters: 
 
 Add your name to this list if you\'re considering sprinting on Webware. Put \"definitely\", \"probably\", or \"maybe\" in parens next to your name so we\'ll have a rough idea of how many bibs to get for the lobster dinner.
 
@@ -16,7 +16,7 @@ That\'s a joke. There\'s no lobster dinner. Unless we will it to be so.
 - Mike Orr (definitely)
 - Ian Bicking (definitely)
 
-# Sprint Topic Discussion: 
+## Sprint Topic Discussion: 
 
 There\'s no consensus yet on what, precisely, we\'ll be working on, but I know I\'ve a personal bias towards [MiddleKit](MiddleKit) enhancements, DAVKit enhancements, and bringing [UserKit](UserKit) out of its alpha-ness.
 

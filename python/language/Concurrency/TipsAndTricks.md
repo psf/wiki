@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Concurrency Tips & Tricks 
+## Concurrency Tips & Tricks 
 
-## Use with statement to manage locks 
+### Use with statement to manage locks 
 
 Starting in Python 2.5, the `with`{.backtick} statement is a far easier way to manage locks:
 
@@ -39,6 +39,6 @@ This is equivalent to:
 :::
 ::::
 
-## Adjust checkinterval 
+### Adjust checkinterval 
 
 Increasing the [check interval](http://docs.python.org/library/sys.html#sys.setcheckinterval) may improve performance for CPU-bound multithreaded programs, at the cost of I/O responsiveness.

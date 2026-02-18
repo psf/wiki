@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Software Foundation 
+## Python Software Foundation 
 
-# 2015 Google Summer of Code Proposal Template 
+## 2015 Google Summer of Code Proposal Template 
 
 NOTE: Things marked with an \* are **REQUIRED**. Failure to provide the requested information may result in your application being rejected.
 
@@ -16,7 +16,7 @@ It is **HIGHLY RECOMMENDED** that you submit your proposal early and make change
 
 It is also recommended that you discuss your proposal with your prospective mentors before the deadline. They are allowed (and encouraged!) to help you make the best possible proposal.
 
-## Sub-organization information 
+### Sub-organization information 
 
 - Sub-organization with whom you hope to work(\*):
 
@@ -24,7 +24,7 @@ It is also recommended that you discuss your proposal with your prospective ment
 
 You must also put your sub-org information in the title of your proposal, as it makes it easier for mentors to find proposals for their sub-orgs in the melange system.
 
-## Student Information 
+### Student Information 
 
 - Name(\*):
 - Email(\*):
@@ -45,14 +45,14 @@ You must also put your sub-org information in the title of your proposal, as it 
   - This will be included on a blog aggregator for all the GSoC student blogs and probably on Planet Python as well in 2014, so please make sure it will be only relevant and appropriate content. (Note the [Python Community Code of Conduct](http://python.org/psf/codeofconduct/).) We recommend using a tag of \"GSoC\" or \"Python\" on your blog.
 - Other personal information you think we would find relevant:
 
-## University Information 
+### University Information 
 
 - University(\*):
 - Major(\*):
 - Current Year and Expected Graduation date(\*):
 - Degree(\*) (e.g. BSc, PhD):
 
-## Project Proposal Information 
+### Project Proposal Information 
 
 - Proposal Title (\*)
   - The name of your proposal. This should explain in a few words what you plan to do and include the name of your sub-org. e.g. \"QTile: Refactor window focusing\" or \"Kivy: Matplotlib Integration.\"
@@ -67,18 +67,18 @@ You must also put your sub-org information in the title of your proposal, as it 
 - Links to additional information
   - (e.g. other projects, resources, code you\'ve written, relevant information. You may wish to include a link to your resume here to help mentors evaluate your experience level.)
 
-## Other Schedule Information 
+### Other Schedule Information 
 
 - Please indicate any vacations or other time off that you may be taking or expecting to take over the course of the summer. Any time that you would not be expecting to work should be noted here, along with a reason. (e.g. \"June 12-15th, travel for my sister\'s wedding\" \"May 30, midterm exam\") Google expects you to work 40h/week for the entire GSoC period, so consider how you will make up any lost time (you may have to start coding during community bonding, for example).
   - Note: We don\'t penalize students for needing adjustments to schedule if they\'re up-front about them and have a plan to mitigate any issues. However, we \*have\* failed students for lying about their availability and subsequently falling behind in their work. Be honest!
 - Please indicate any other commitments you have that you think we should know about. (e.g. part time-jobs, large volunteer projects, summer courses)
 - Have you applied with any other organizations? If so, do you have a preferred project/org? (This will help us in the event that more than one organization decides they wish to accept your proposal.)
 
-## Sub-organization specific information 
+### Sub-organization specific information 
 
 - If your sub-org requests any additional information, please don\'t forget to include it here!
 
-# Notes for submitting a proposal 
+## Notes for submitting a proposal 
 
 The information requested above is generally required for us to be able to contact you and evaluate your proposal. Please feel free to add information to this template and to format it in whatever way you think will be most effective in conveying your intentions. You may wish to check with your sub-organization to see if they have any additional requirements.
 

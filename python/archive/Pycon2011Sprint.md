@@ -6,12 +6,12 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Pycon 2011 Sprints
+## Pycon 2011 Sprints
 
 The pycon 2011 core sprint is focusing on improving test coverage in the standard library.
 
 ::: 
-### Work List
+#### Work List
 
 When you pick a module to work on, add your name and the module here
 
@@ -45,7 +45,7 @@ When you pick a module to work on, add your name and the module here
 :::
 
 ::: 
-### Tickets
+#### Tickets
 
 When you create a ticket and attach a patch, please list the ticket number here. This serves as a record of the sprint work, and in addition any patches not committed during the sprints can be followed up afterward.
 

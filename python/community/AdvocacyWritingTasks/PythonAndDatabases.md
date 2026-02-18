@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python and Databases 
+## Python and Databases 
 
 We intend to show that Python is an ideal language to choose for database interaction. In particular, the Python DBI offers a consistent look and feel when it comes to using just about any database.
 

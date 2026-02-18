@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Pydotorg Working Group 
+## Pydotorg Working Group 
 
 *Note:* When creating new wiki pages related to this group, please use wiki subpages, e.g. BylawsWG/Charter.
 
-## Agenda 
+### Agenda 
 
 Streamline how we handle membership signup and management. Work on evolving pydotorg to accept membership properly and allow self certifications. Work on making pygotorg community oriented and easily navigated. Update content on pydotorg to make it as relevant/current as possible.
 
-## Resources 
+### Resources 
 
 - [Pydotorg Github](https://github.com/python/pythondotorg)
 
@@ -26,23 +26,23 @@ Streamline how we handle membership signup and management. Work on evolving pydo
 
 - 
 
-## Mailing List 
+### Mailing List 
 
 - [Pydotorg WG Mailing List](http://mail.python.org/mailman/listinfo/pydotorg-wg)
 
   The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](../people/EwaJodlowska) is the list admin.
 
-## Discussions 
+### Discussions 
 
 Discussions will happen on the mailing list and also during weekly meetings with the vendors.
 
-## Administration 
+### Administration 
 
 - Chair: Van Lindberg
 
 - [Pydotorg WG Charter](PydotorgWG/Charter)
 
-## Meetings 
+### Meetings 
 
 - Due to [PyCon](./PyCon.html) and new board elections, we have not had a meeting since at [PyCon](./PyCon.html). Our next meeting is pending for June 5th at 9am EDT. It will only be 30 minutes due to time constraints of participants. This will be a meeting to discuss any updates and to discuss what will be worked on next. [June 5, 2015 - 9:00am EDT](http://www.timeanddate.com/worldclock/fixedtime.html?msg=pydotorg+meeting+June+5th&iso=20150605T09&p1=43&am=30)
 

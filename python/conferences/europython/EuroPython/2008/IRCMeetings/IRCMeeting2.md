@@ -6,21 +6,21 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #2 
+## IRC Meeting #2 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Thursday 7th February 2008 at 1900 CET in the #europython channel on freenode.
 
-## Resources 
+### Resources 
 
 The proposed [EuroPython logo](http://mail.python.org/mailman/private/europython-improve/attachments/20071207/5b2c8134/attachment-0001.png) as suggested on the [europython-improve](http://mail.python.org/mailman/listinfo/europython-improve) mailing list.
 
-## Agenda 
+### Agenda 
 
 Posted in [this message](http://mail.python.org/mailman/private/europython-improve/2008-February/000049.html).
 
-## Minutes 
+### Minutes 
 
 - Talks
   - [Samuele is in charge of talks.](http://mg.pov.lt/europython-irclog/%23europython.2008-02-07.log.html#t2008-02-07T20:11:59)

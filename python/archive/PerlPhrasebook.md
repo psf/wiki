@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-## Introduction 
+### Introduction 
 
 This phrasebook contains a collection of idioms, various ways of accomplishing common tasks, tricks and useful things to know, in Perl and Python side-by-side. I hope this will be useful for people switching from Perl to Python, and for people deciding which to choose. The first part of the phrasebook is based on Tom Christiansen\'s [Perl Data Structures Cookbook](http://www.perl.com/perl/pdsc/).
 
@@ -41,19 +41,19 @@ QUESTIONS:
 
 - Should function and data structure names for python code be in python_style (and more appropriate/informative)?
 
-## The obvious 
+### The obvious 
 
 Python don\'t need no steenking semicolons.
 
-## The not so obvious 
+### The not so obvious 
 
 There are many Integrated Development Environments, (IDEs), for Python that are usually recommended to new users and used by seasoned Python programmers alike. The Idle IDE is a TK based GUI providing language-aware editing, debugging and command line shell for Python that is part of the Python distribution. Many of the python examples shown can be experimented with in the Idle IDE.
 
-## Simple types 
+### Simple types 
 
-### Strings 
+#### Strings 
 
-#### Creating a string 
+##### Creating a string 
 
     $s = 'a string';
 
@@ -63,7 +63,7 @@ The `$`{.backtick} in Perl indicates a scalar variable, which may hold a string,
 
 - You can program in a Pythonesque subset of Perl by restricting yourself to scalar variables and references. The main difference is that Perl doesn\'t do implicit dereferencing like Python does.
 
-#### Quoting 
+##### Quoting 
 
     $s1 = "some string";
     $s2 = "a string with\ncontrol characters\n";
@@ -97,7 +97,7 @@ Quoting is definitely one of the areas where Perl excels.
 
 Note that in Perl you can always replace `foreach`{.backtick} with `for`{.backtick}, which is shorter; but explicitly writing `foreach`{.backtick} is clearer, so you don\'t confuse it with the other kind of `for`{.backtick}.
 
-#### Interpolation 
+##### Interpolation 
 
     $name    = "Fred";
     $header1 = "Dear $name,";
@@ -143,7 +143,7 @@ The name in parentheses is used as a key into the dictionary you provide on the 
 
 [PEP215](http://www.python.org/peps/pep-0215.html) proposed a `$"$var"` substitution mode as an alternative to `"%(var)s" % locals()`, but was rejected in favour of the explicit Template class proposed in [PEP292](http://www.python.org/peps/pep-0292.html), which required no syntax changes.
 
-#### Modifying a string 
+##### Modifying a string 
 
     $s1 = "new string";        # change to new string
     $s2 = "new\nstring\with\nnew\nlines"; # change to new string
@@ -180,7 +180,7 @@ Note: Perl range operator uses a closed interval. To get the range to the end of
     $#a;           # last index, 4, because the firs index is 0 as in Python.
     @a[ 2..$#a ]   # as Python's a[2:]
 
-## Importing 
+### Importing 
 
 In Perl a module is simply a package with a package name. ( see: perldoc -f package ). The symbols exported by the module depends on the module itself. The module may export symbols - mostly functions - by default, on request or none of them. In the latter case the module usually a class or has special access, like File::Spec. In Perl the module interfaces may vary - see the doc of the particular module.
 
@@ -200,9 +200,9 @@ In Perl a module is simply a package with a package name. ( see: perldoc -f pack
 
     module.func()
 
-## Common tasks 
+### Common tasks 
 
-### Reading a file as a list of lines 
+#### Reading a file as a list of lines 
 
     my $filename = "cooktest1.1-1";
     open my $f, $filename or die "can't open $filename: $!\n";
@@ -220,7 +220,7 @@ In Perl, variables are always preceded by a symbol that indicates their type. A 
 
 In Python, objects must be initialized before they are used, and the initialization determines the type. For example, `a = []`{.backtick} creates an empty array `a`{.backtick}, `d = {}`{.backtick} creates an empty dictionary.
 
-### looping over files given on the command line or stdin 
+#### looping over files given on the command line or stdin 
 
 The useful Perl idiom of:
 
@@ -256,7 +256,7 @@ If you want to loop over several filenames given on the command line, then you c
         for line in open(fname):
             ...                 # code to process each line
 
-## Some general comparisons 
+### Some general comparisons 
 
 This section is under construction; for the moment I am just putting random notes here. I will organize them later.
 
@@ -276,11 +276,11 @@ While most of the concerns are subjective here this one is obviously wrong. Perl
 
 - Python allows you to define operators for user-defined types. The operator overloading facility in Perl is provided as an add-on\-\--the `overload`{.backtick} module.
 
-## Lists of lists 
+### Lists of lists 
 
 The Perl code in this section is taken, with permission, almost directly from Tom Christiansen\'s [Perl Data Structures Cookbook](http://www.perl.com/perl/pdsc/), part 1, release 0.1, with a few typos fixed.
 
-### Lists of lists: preliminaries 
+#### Lists of lists: preliminaries 
 
     sub printSep { print "=" x 60, "\n" }
 
@@ -326,7 +326,7 @@ The Perl code in this section is taken, with permission, almost directly from To
 
 `somefunc`{.backtick} is a function that is used in various places below.
 
-#### Lost in the translation 
+##### Lost in the translation 
 
 In converting Perl examples so directly to Python, whilst initially useful, the casual browser should be aware that the task of `printLoL` is usually accomplished by just
 
@@ -340,7 +340,7 @@ An import of the pprint at the beginning of a module would then allow
 
 to substitute for all cases of printLol in a more \'pythonic\' way. (`pprint` gives even more formatting options when printing data structures).
 
-### requires/imports 
+#### requires/imports 
 
     import sys
 
@@ -352,7 +352,7 @@ Perl has much more built in, so nothing here requires importing.
 
 For many simple operations, Perl will use a regular expression where Pythonic code won\'t. Should you really need to use regular expressions, import the `re`{.backtick} module.
 
-### Declaration of a list of lists 
+#### Declaration of a list of lists 
 
     @LoL = (
            [ "fred", "barney" ],
@@ -400,9 +400,9 @@ You can make a deep copy using the copy module:
     b[0][0] = 999
     print(a[0][0])   # prints 1
 
-### Generation of a list of lists 
+#### Generation of a list of lists 
 
-#### Reading from a file line by line 
+##### Reading from a file line by line 
 
     open my $f, "cookbook.data1" or die $!;
     my @LoL;
@@ -420,7 +420,7 @@ Unless you expect to be reading huge files, or want feedback as you read the fil
 
 In Perl, reading from a file-handle, e.g., `<STDIN>`{.backtick}, has a context-dependent effect. If the handle is read from in a scalar context, like `$a = <STDIN>;`{.backtick}, one line is read. If it is read in a list context, like `@a = <STDIN>;`{.backtick}the whole file is read, and the call evaluates to a list of the lines in the file.
 
-#### Reading from a file in one go 
+##### Reading from a file in one go 
 
     open my $f, "cookbook.data1" or die $!;
     @LoL = map [split], <$f>;
@@ -431,7 +431,7 @@ In Perl, reading from a file-handle, e.g., `<STDIN>`{.backtick}, has a context-d
 
 Thanks to Adam Krolnik for help with the Perl syntax here.
 
-### Filling a list of lists with function calls 
+#### Filling a list of lists with function calls 
 
     foreach my $i ( 0 .. 9 ) {
         $LoL[$i] = [ somefunc $i ];
@@ -464,7 +464,7 @@ In python:
 - You have to populate the matrix \-- this doesn\'t happen automatically in Python.
 - It doesn\'t matter what type the initial elements of the matrix are, as long as they exist.
 
-### Filling a list of lists with function calls, using temporaries 
+#### Filling a list of lists with function calls, using temporaries 
 
     foreach my $i (0..9) {
         @tmp = somefunc $i;
@@ -501,7 +501,7 @@ or
 
     @LoL = map ([ somefunc($_)], 0..9);
 
-### Adding to an existing row in a list of lists 
+#### Adding to an existing row in a list of lists 
 
     @LoL = @LoLsave;  # start afresh
     push @{$LoL[0]}, "wilma", "betty";
@@ -520,9 +520,9 @@ Or to extend:
 
     LoL[0].extend(["wilma", "betty"])
 
-### Accessing elements of a list of lists 
+#### Accessing elements of a list of lists 
 
-#### One element 
+##### One element 
 
     $LoL[0][0] = "Fred";
     print ("first element is now $LoL[0][0]\n");
@@ -532,7 +532,7 @@ Or to extend:
     print('first element is now', LoL[0][0])
     printSep()
 
-#### Another element 
+##### Another element 
 
     # upcase the first letter of each word
     # s/(\w)/\u$1/ is almost equivalent to Python .capitalize() [.capitalize() also lowercases the remaining letters]
@@ -560,9 +560,9 @@ Python\'s `str2 = str1.title()`{.backtick} is equivalent to Perl\'s:
 
 This is because regular expression search and replace operations modify the string in place (Perl strings are mutable).
 
-### Printing a list of lists 
+#### Printing a list of lists 
 
-#### Print a list of lists using references 
+##### Print a list of lists using references 
 
     foreach my $aref ( @LoL ) {
         print "\t [ @$aref ],\n";
@@ -573,7 +573,7 @@ This is because regular expression search and replace operations modify the stri
         print(f"\t [ {a} ],")
     printSep()
 
-#### Print a list of lists using indices 
+##### Print a list of lists using indices 
 
     foreach my $i ( 0 .. $#LoL ) {
         print "\t [ @{$LoL[$i]} ],\n";
@@ -612,7 +612,7 @@ Note: Perl uses a closed interval, while Python uses a closed-open interval. You
 
 \[Link to details of the range function\]
 
-#### Print a list of lists element by element 
+##### Print a list of lists element by element 
 
     foreach my $i ( 0 .. $#LoL ) {
         foreach my $j ( 0 .. $#{$LoL[$i]} ) {
@@ -626,7 +626,7 @@ Note: Perl uses a closed interval, while Python uses a closed-open interval. You
             print(f'elt {i} {j} is {elem}')
     printSep()
 
-#### Print a list of lists using map 
+##### Print a list of lists using map 
 
     sub printLine { print "@{shift()}\n" }
     map printLine($_), @LoL;
@@ -638,7 +638,7 @@ Note: Perl uses a closed interval, while Python uses a closed-open interval. You
     map(printLine, LoL)
     printSep()
 
-#### Print a list of lists using map and anonymous functions 
+##### Print a list of lists using map and anonymous functions 
 
     print map "@$_\n", @LoL;
     printSep();
@@ -680,7 +680,7 @@ In Perl, a function can be defined inside another function, but it is defined in
        map lprint($_), @_;
     }
 
-## Hashes/dictionaries of lists 
+### Hashes/dictionaries of lists 
 
 The Perl code in this section is taken, with permission, almost directly from Tom Christiansen\'s [Perl Data Structures Cookbook](http://www.perl.com/perl/pdsc/), part 2, release 0.1, with a few typos fixed.
 
@@ -688,7 +688,7 @@ Associative arrays are containers that hold pairs of elements. The first element
 
 Associative arrays are sometimes called maps, dictionaries (Python, Smalltalk), or hashes (Perl).
 
-### Preliminaries 
+#### Preliminaries 
 
     sub printSep { print "=" x 60, "\n" }
 
@@ -749,7 +749,7 @@ If you didn\'t care for the results to be sorted (which is often true), you woul
             print(key, ':', " ".join(value))
         printSep()
 
-### Declaration of a hash of lists 
+#### Declaration of a hash of lists 
 
     %HoL = (
            flintstones        => [ "fred", "barney" ],
@@ -793,9 +793,9 @@ Larry Wall says:
 
 Note that since `$HoL`{.backtick} is already a ref, the `\\`{.backtick} is no longer necessary.
 
-### Initializing hashes of lists 
+#### Initializing hashes of lists 
 
-#### Initializing hashes of lists from a file 
+##### Initializing hashes of lists from a file 
 
 The file is assumed to consist of a sequence of lines of the form:
 
@@ -821,7 +821,7 @@ The file is assumed to consist of a sequence of lines of the form:
 
 Note that the Perl hash doesn\'t need to be initialized.
 
-#### Reading into a hash of lists from a file with temporaries 
+##### Reading into a hash of lists from a file with temporaries 
 
     # flintstones: fred barney wilma dino
     open my $f, "cookTest.3" or die $!;
@@ -847,7 +847,7 @@ Note that the Perl hash doesn\'t need to be initialized.
 
     printHoL ('read from cookTest.3', HoL)
 
-#### Initializing a hash of lists from function calls 
+##### Initializing a hash of lists from function calls 
 
 For each key of the hash, we call a function that creates a list, and associate the key with this list.
 
@@ -883,7 +883,7 @@ The Perl section could also have been written like this (each of the control sta
     my %HoL;
     $HoL{$_} = [get_family $_] foreach (qw/simpsons jetsons flintstones/);
 
-#### Initializing a hash of lists from function calls with temporaries 
+##### Initializing a hash of lists from function calls with temporaries 
 
 For each key of the hash, we call a function that creates a list, and associate the key with this list. The list is assigned to a local variable (where it could be modified, for example).
 
@@ -902,7 +902,7 @@ For each key of the hash, we call a function that creates a list, and associate 
 
     printHoL ('by get_family with temps', HoL)
 
-### Append to a list in a hash of lists 
+#### Append to a list in a hash of lists 
 
 We want to add two strings to the list of strings indexed by the name `flintstones`{.backtick}.
 
@@ -924,9 +924,9 @@ Note: There is a big difference between the above two examples, which create a n
     print "@{$HoL{flintstones}}\n");
     printSep();
 
-### Access elements of a hash of lists 
+#### Access elements of a hash of lists 
 
-#### Access a single element 
+##### Access a single element 
 
 Assign to the first element of the list indexed by `flintstones`{.backtick}.
 
@@ -946,7 +946,7 @@ Tom Christiansen explains when you don\'t need quotes around strings in Perl:
 
 If blah were a function then you would have to use `$something{blah()}`{.backtick} to overwrite the stringificiation. Barewords are autoquoted in braces and as the LHS operand of `=&rt;`{.backtick} as well.
 
-#### Change a single element 
+##### Change a single element 
 
 This upcases the first letter in the second element of the array indexed by `simpsons`{.backtick}.
 
@@ -960,11 +960,11 @@ This upcases the first letter in the second element of the array indexed by `sim
 
     printHoL ('after modifying an element', HoL)
 
-### Print a hash of lists 
+#### Print a hash of lists 
 
 Various different ways of printing it out.
 
-#### Simple print 
+##### Simple print 
 
 Printed sorted by family name, in the format:
 
@@ -982,7 +982,7 @@ Printed sorted by family name, in the format:
         print('%s: %s' % (surname, " ".join(members)))
     printSep()
 
-#### Print with indices 
+##### Print with indices 
 
     for my $family ( sort keys %HoL ) {
         print "family: ";
@@ -1000,7 +1000,7 @@ Printed sorted by family name, in the format:
         print
     printSep()
 
-#### Print sorted by number of members 
+##### Print sorted by number of members 
 
     push (@{$HoL{simpsons}}, 'Lisa');
     for my $family ( sort { @{$HoL{$b}} <=> @{$HoL{$a}} } keys %HoL ) {
@@ -1025,7 +1025,7 @@ You can use a lambda expression in python here, too, though I don\'t find it ver
     for surname, members in k:
         print("%s:" % surname, " ".join(members)))
 
-#### Print sorted by number of members, and by name within each list 
+##### Print sorted by number of members, and by name within each list 
 
     foreach my $family ( sort { @{$HoL{$b}} <=> @{$HoL{$a}} } keys %HoL ) {
         print "$family: @{[ sort @{ $HoL{$family}} ]}\n";
@@ -1042,11 +1042,11 @@ Do it more like the Perl version:
     for surname, members in sorted(HoL.items(), key=lambda x: len(x[1])):
        print("%s: %s" % (family, ", ".join(sorted(members))))
 
-## Lists of hashes/dictionaries 
+### Lists of hashes/dictionaries 
 
 The Perl code in this section is taken, with permission, almost directly from Tom Christiansen\'s [Perl Data Structures Cookbook](http://www.perl.com/perl/pdsc/), part 3, release 0.1, with a few typos fixed.
 
-### Lists of hashes: preliminaries 
+#### Lists of hashes: preliminaries 
 
     sub printSep { print "=" x 60, "\n"; }
 
@@ -1102,7 +1102,7 @@ If you wanted to do the copy, you would just do this (in Python 2.4+):
             print("]")
         printSep()
 
-### Declaration of a list of hashes 
+#### Declaration of a list of hashes 
 
     @LoH = (
            {
@@ -1141,9 +1141,9 @@ If you wanted to do the copy, you would just do this (in Python 2.4+):
 
     printLoH ('initial value', LoH)
 
-### Generation of a list of hashes 
+#### Generation of a list of hashes 
 
-#### Reading a list of hashes from a file 
+##### Reading a list of hashes from a file 
 
 The format of the file is expected to be:
 
@@ -1174,7 +1174,7 @@ The format of the file is expected to be:
 
     printLoH ('after reading from file cooktest.4', LoH)
 
-#### Reading a list of hashes from a file without temporaries 
+##### Reading a list of hashes from a file without temporaries 
 
     my @LoH;
     open my $f, "cooktest.4" or die $!;
@@ -1201,9 +1201,9 @@ If you really want no temporaries at all, you could (but shouldn\'t) use the one
 
     printLoH ('direct read from file', LoH)
 
-#### Generation of a list of hashes from function calls 
+##### Generation of a list of hashes from function calls 
 
-##### Preliminaries 
+###### Preliminaries 
 
 For convenience, these functions and variables are global. getnextpairset returns the elements of the array \_getnextpairsetdata. I don\'t know why Tom chose to make this return a list in Perl, rather than a reference to a hash. Perhaps to keep the order. You can still initialize a hash with the result. In python, returning a dictionary is definitely the way to go.
 
@@ -1245,7 +1245,7 @@ For convenience, these functions and variables are global. getnextpairset return
 
 This would be much more elegant as a class, both in python and Perl. \[add a pointer to classes when we get there\]
 
-##### Generation 
+###### Generation 
 
 Call a function returning a list (in Perl) or a dictionary (in python). In Perl, the list is of the form `("lead","fred","daughter","pebbles")`{.backtick}; in python, the dictionary is of the form `{"lead" : "fred", "daughter" : "pebbles"}`{.backtick}.
 
@@ -1265,7 +1265,7 @@ Call a function returning a list (in Perl) or a dictionary (in python). In Perl,
 
     printLoH ('filled with getnextpairset', LoH)
 
-##### Generation without temporaries 
+###### Generation without temporaries 
 
     my @LoH;
     open my $f, "cooktest.4" or die $!;
@@ -1279,7 +1279,7 @@ Call a function returning a list (in Perl) or a dictionary (in python). In Perl,
 
     printLoH ('generated from function calls with no temps', LoH)
 
-### Adding a key/value pair to an element 
+#### Adding a key/value pair to an element 
 
     $LoH[0]{PET} = "dino";
     $LoH[2]{PET} = "santa's little helper";
@@ -1291,7 +1291,7 @@ Call a function returning a list (in Perl) or a dictionary (in python). In Perl,
 
     printLoH ('after addition of key/value pairs', LoH)
 
-### Accessing elements of a list of hashes 
+#### Accessing elements of a list of hashes 
 
     $LoH[0]{LEAD} = "fred";
     print $LoH[0]{LEAD}, "\n";
@@ -1309,9 +1309,9 @@ Call a function returning a list (in Perl) or a dictionary (in python). In Perl,
 
     printSep()
 
-### Printing a list of hashes 
+#### Printing a list of hashes 
 
-#### Simple print 
+##### Simple print 
 
     for my $href ( @LoH ) {
         print "{ ";
@@ -1331,7 +1331,7 @@ Call a function returning a list (in Perl) or a dictionary (in python). In Perl,
 
 Note the end=\"\" in the python segment \-- this means \"don\'t add a newline\".
 
-#### Print with indices 
+##### Print with indices 
 
     for my $i ( 0 .. $#LoH ) {
         print "$i is { ";
@@ -1351,7 +1351,7 @@ Note the end=\"\" in the python segment \-- this means \"don\'t add a newline\".
 
 Note the end=\"\"in the python segment \-- this means \"don\'t add a newline\". It does, however, add a space.
 
-#### Print whole thing one at a time 
+##### Print whole thing one at a time 
 
     for my $i ( 0 .. $#LoH ) {
         for my $role ( sort keys %{ $LoH[$i] } ) {
@@ -1365,7 +1365,7 @@ Note the end=\"\"in the python segment \-- this means \"don\'t add a newline\". 
         for role, val in items:
             print(f"elt {i} {role) is {val}")
 
-# Interface to the Tk GUI toolkit 
+## Interface to the Tk GUI toolkit 
 
 The Perl versions of this code have not been tested, as we don\'t currently have a working version of Perl and Tk.
 
@@ -1373,7 +1373,7 @@ The Perl versions of this code have not been tested, as we don\'t currently have
 
 [Perl/Tk Documentation](http://search.cpan.org/~srezic/Tk/)
 
-## Preliminaries 
+### Preliminaries 
 
 All the following code snippets will need these declarations first:
 
@@ -1382,7 +1382,7 @@ All the following code snippets will need these declarations first:
     from Tkinter import *
     import sys
 
-## Hello world label 
+### Hello world label 
 
     $top = MainWindow->new;
     $hello = $top->Button(

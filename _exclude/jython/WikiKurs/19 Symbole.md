@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)19(20)Symbole.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)18(20)Anh(c3a4)nge.html) Slide 18 of 27 [\>\>](./WikiKurs(2f)20(20)Dynamische(20)Inhalte.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Symbole, Smileys 
+## Symbole, Smileys 
 
 [MoinMoin](MoinMoin) unterstützt auch einige graphische Symbole, sowie die in E-Mail und Chat üblichen sog. *Smileys*:
 

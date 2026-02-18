@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Local Variables in Functions 
+## Local Variables in Functions 
 
 \"How do I use local variables in a function within a class? (I do not want to use self.x, as this makes the instance have variables. I want variables local to my function, that get destroyed at the end of it.) I can only think of using del at the end of the function, is there a better way?\"
 

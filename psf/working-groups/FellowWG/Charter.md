@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Fellow Work Group Charter 
+## PSF Fellow Work Group Charter 
 
-## Purpose & Common Goals 
+### Purpose & Common Goals 
 
 The purpose of this working group is to accept, review, discuss, and vote on new Fellow Member nominations.
 
-## Active Time 
+### Active Time 
 
 This workgroup will be active indefinitely until the PSF Board decides otherwise.
 
-## Core Values & Internal Government 
+### Core Values & Internal Government 
 
 The core values for this group are:
 
@@ -28,7 +28,7 @@ The core values for this group are:
 
 The workgroup adopts the PSF Code of Conduct ([https://www.python.org/psf/codeofconduct/](https://www.python.org/psf/codeofconduct/)). Any actions (found by a majority) made against the members in the Code of Conduct will result in the acting person being removed from the workgroup.
 
-## Internal Rules & Guidelines 
+### Internal Rules & Guidelines 
 
 - When a nomination is received, it will be posted on [https://wiki.python.org/moin/PythonSoftwareFoundation/FellowNominations](https://wiki.python.org/moin/PythonSoftwareFoundation/FellowNominations)
 
@@ -40,11 +40,11 @@ The workgroup adopts the PSF Code of Conduct ([https://www.python.org/psf/codeof
 
 - When adding new members to the working group, prospective members must send an email to [psf-fellow@python.org](mailto:psf-fellow@python.org) introducing themselves and they must be current PSF Fellow Members.
 
-## Decision Making Policy 
+### Decision Making Policy 
 
 Below is the policy that the PSF Fellow Work Group is currently voting on (August 11, 2017)
 
-### Criteria 
+#### Criteria 
 
 - For those who have served the Python community by creating and/or maintaining various creative contributions, the following statement should be true:
   - \[Nominated Person\] has served the Python community by making available code, tests, documentation, or design, either in a Python implementation or in a Python ecosystem project, that 1) shows technical excellence, 2) is an example of software engineering principles and best practices, and 3) has achieved widespread usage or acclaim.\"
@@ -62,7 +62,7 @@ Below is the policy that the PSF Fellow Work Group is currently voting on (Augus
 
 In all that this person does, \[Nominated Person\] is an example of what we aspire to be in the Python community.
 
-### Timeline for nominations 
+#### Timeline for nominations 
 
 Nominees we be reviewed and voted on 4 times throughout the year on a quarterly basis. Timeline is as follows:
 
@@ -82,7 +82,7 @@ Nominees we be reviewed and voted on 4 times throughout the year on a quarterly 
 
   - Chair/co-chair will initiate the process in October via PSF mailing lists & social media by doing a call for PSF Fellow nominees. The cut off for quarter four will be November 20. Nominees will be reviewed and considered by the work group from November 20th to December 20th. The new fellows will be announced before December 31.
 
-### Verification process 
+#### Verification process 
 
 Verification can be done through any of the following (or combination of):
 
@@ -95,19 +95,19 @@ Verification can be done through any of the following (or combination of):
 
 If it is someone we cannot find context on, we can ask the nominator to provide 3 references from within the community.
 
-## Communication Plan 
+### Communication Plan 
 
 The working group will communicate via mailing list ([psf-fellow@python.org](mailto:psf-fellow@python.org)) and via Slack (the-psf.slack.com#psf-fellow). If needed, conference calls or additional communication channels can be set up.
 
-## Budget 
+### Budget 
 
 No budget will be needed for this. Possibly in the future, this WG can address benefits of Fellow Membership beyond just recognition. At that time the WG will ask the PSF board for a budget.
 
-## Current PSF Fellow WG Budget 
+### Current PSF Fellow WG Budget 
 
 \$0
 
-## Participants 
+### Participants 
 
 - Kushal Das
 - Thomas Wouters

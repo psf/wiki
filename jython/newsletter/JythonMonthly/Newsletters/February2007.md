@@ -27,15 +27,15 @@ Please send email to:
 
 [jython-monthly@mchsi.com](mailto:jython-monthly@mchsi.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# News 
+## News 
 
 Welcome the most recent release of the Jython scripting language, Jython 2.2 Beta 1! This represents a major milestone in the life cycle of the Jython scripting language as this is the first release since the summer of 2005. The Jython developer and user community is extremely active right now and I predict that the gap between future releases will be much smaller.
 
 Thanks to the developers for working hard on this release! Now it is up to the user community to test and give feedback for Beta 1. [Download](http://sourceforge.net/project/downloading.php?groupname=jython&filename=jython_installer-2.2b1.jar&use_mirror=osdn) it now and get started!!
 
-# Articles 
+## Articles 
 
-## Adding JARs to sys.path During Runtime 
+### Adding JARs to sys.path During Runtime 
 
 *Submitted By: Steve Langer*
 
@@ -43,7 +43,7 @@ During Oct-Nov 2006 there was a thread in the jython-users group titled \"adding
 
 [Read Entire Article](http://wiki.python.org/jython/JythonMonthly/Articles/January2007/3)
 
-# Off The Lists 
+## Off The Lists 
 
 ***Question From Luca Cassioli:***
 
@@ -108,11 +108,11 @@ except java.lang.Exception, ex:
 
 - print \"Can\'t get terminal \" + ex.toString() System.exit(0)
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Tips and Tricks 
+## Tips and Tricks 
 
 [Python Cookbook: BaseHTTPServer with Socket Timeout](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/499376)
 
@@ -120,7 +120,7 @@ If you are interested in developing Jython, please take a look at the [current b
 
 [Python Cookbook: Another generator for an arbitrary number of \'for\' loops](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/502199)
 
-# Jython Blogs 
+## Jython Blogs 
 
 [Jython Roadmap \-- Frank Wierzbicki](http://fwierzbicki.blogspot.com/2007/02/jython-roadmap.html)
 
@@ -134,7 +134,7 @@ If you are interested in developing Jython, please take a look at the [current b
 
 [Jython 2.2 Hits Major Milestone \-- Push To Test](http://www.pushtotest.com/thecohenblog/jython22.html)
 
-# IDE 
+## IDE 
 
 **Pydev and Pydev Extensions 1.2.6 have been released**
 
@@ -144,7 +144,7 @@ Details on Pydev: [http://pydev.sf.net](http://pydev.sf.net)
 
 Details on its development: [http://pydev.blogspot.com](http://pydev.blogspot.com)
 
-# Discussions 
+## Discussions 
 
 [Jython & Alice](http://www.alice.org/community/showthread.php?t=612)
 
@@ -178,11 +178,11 @@ The serverless Messenger in java could be easily built in into many applications
 
 Does anyone agree on that potentials? kind regards tom
 
-# Interesting Facts 
+## Interesting Facts 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Useful Links 
+## Useful Links 
 
 [Jacl v2.5 Released](http://www-1.ibm.com/support/docview.wss?rs=180&uid=swg24012144)
 

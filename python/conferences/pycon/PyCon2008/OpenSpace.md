@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Proposed Open Space Talks - Use the bulletin board in the Atrium
+## Proposed Open Space Talks - Use the bulletin board in the Atrium
 
 **This page is no longer active. Please use the Open Space bulletin board at PyCon.**
 
@@ -17,7 +17,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 A [full list of sessions](OpenSpaceTalkTitles) held at PyCon 2008 is available.
 
 ::: 
-### Previous Contents
+#### Previous Contents
 
 Add your ideas here. Schedule \'em if you\'re sure, leave \'em unscheduled otherwise. We may have projectors for some rooms; this will be indicated once known.
 
@@ -29,7 +29,7 @@ Questions or comments, send a message to the openSpace coordinator - [pkropf+pyc
 :::
 
 ::: 
-### Open Space Rooms
+#### Open Space Rooms
 
 Here\'s a list of the open space rooms that are available at the conference along with their size and estimated seating capacity:
 
@@ -75,12 +75,12 @@ Here\'s a list of the open space rooms that are available at the conference alon
 :::
 
 :::::: 
-### Scheduled
+#### Scheduled
 
 Major events should be added to the [PyCon Overview of Events](http://us.pycon.org/2008/about/events/). If you don\'t have edit access, please inform \<pycon-organizers -at- python -dot- org\>.
 
 ::: 
-#### Friday March 14
+##### Friday March 14
 
 Kitty Hawk is not available during the day. OK in the evening.
 
@@ -97,7 +97,7 @@ Kitty Hawk is not available during the day. OK in the evening.
 :::
 
 ::: 
-#### Saturday March 15
+##### Saturday March 15
 
 - PyCon 2010 planning kick-off meeting (Midway, \~12:45pm-2:00pm \[bring your lunch\])
 - [web2py tutorial](http://mdp.cti.depaul.edu/examples/static/web2py_comics.pdf) (Love Int\'l A, 2:10pm to 3:30pm)
@@ -116,14 +116,14 @@ Kitty Hawk is not available during the day. OK in the evening.
 :::
 
 ::: 
-#### Sunday March 16
+##### Sunday March 16
 
 - PyCon Unwind (Templehof Int\'l, 7:00pm - 8:30pm)
 :::
 ::::::
 
 ::: 
-### Unscheduled
+#### Unscheduled
 
 - 
 

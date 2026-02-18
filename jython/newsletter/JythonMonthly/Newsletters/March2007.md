@@ -27,17 +27,17 @@ Please send email to:
 
 [jython-monthly@mchsi.com](mailto:jython-monthly@mchsi.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# News 
+## News 
 
 [JSR223 Engine updated](http://news.java-virtual-machine.net/news/13-february-2007-a-sundararajan-updated-jython-jsr-223-engine-with-jython-22b1.html)
 
-# Articles 
+## Articles 
 
 [Jython Beta with All Features of Python Version 2.2 Released](http://www.pythonthreads.com/index2.php?option=com_content&do_pdf=1&id=305)
 
 [Write Eclipse JUnit Tests in Jython](http://www.devx.com/Java/Article/26602/0/page/1)
 
-# Off The Lists 
+## Off The Lists 
 
 ***Question Submitted By Richard M.:***
 
@@ -57,17 +57,17 @@ Have you seen these?
 
 [http://www.jython.org/Project/userguide.html#accessing-java-from-jython](http://www.jython.org/Project/userguide.html#accessing-java-from-jython)
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Jython Blogs 
+## Jython Blogs 
 
 [Jython and JNDI](http://www.briggs.net.nz/log/2007/02/28/jython-and-jndi/)
 
 [Blogging Regarding Jython and Unicode Data](http://eternusuk.blogspot.com/2007_02_01_archive.html)
 
-# IDE 
+## IDE 
 
 [JAIDA and Jython](http://java.freehep.org/jaida/jython-jaida.html)
 
@@ -103,7 +103,7 @@ Details on its development: [http://pydev.blogspot.com](http://pydev.blogspot.co
 
 \* Fix: Package Explorer: some intercepts removed elements incorrectly, and ended up messing the navigator and search (which has \'null\' elements because of that)
 
-# Discussions 
+## Discussions 
 
 [Websphere Extended Repository Service & Jython Scripting](http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?message=13919392&cat=9&thread=151729&treeDisplayType=threadmode1&forum=778#13919392)
 
@@ -113,11 +113,11 @@ Details on its development: [http://pydev.blogspot.com](http://pydev.blogspot.co
 
 [Orlando JUG: Introducing Jython](http://www.orlandojug.org/)
 
-# Interesting Facts 
+## Interesting Facts 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Useful Links 
+## Useful Links 
 
 [Jacl v2.5 Released](http://www-1.ibm.com/support/docview.wss?rs=180&uid=swg24012144)
 

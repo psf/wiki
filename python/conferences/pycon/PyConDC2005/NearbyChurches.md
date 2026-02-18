@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Yes, [PyCon2005](./PyCon2005.html) falls during Holy Week. Fear not, there are some interesting-looking worship possibilities nearby. I\'m not a local, it\'s based totally on websurfing.
 
-# Map 
+## Map 
 
 [Yahoo! Map of nearby places of worship](http://maps.yahoo.com/maps_result?zoomin=yes&name=&ed=k6KNr.p_0TrXjG0p2sEfdNi11S2lZ3Y4lFsxuJcnSGrNTZp9Rz3YOz__fgJKem6TNGOioBY5upKN2ZmAoNH4prezJSl7TOR60zzCIL4SP6k4&state=DC&csz=Washington%2C+DC+20052-0001&ds=n&uzip=20052&mag=2&desc=&country=US&dma=511&cat=comm&resize=s&trf=0&rezoom=1&.intl=us&compass=&pan_x=0&pan_y=0&panable=1&BFKey=plw#mapcontent)
 
-# Their websites (by proximity to Cafritz) 
+## Their websites (by proximity to Cafritz) 
 
 [Hillel](http://www.gwhillel.org/site/PageServer?pagename=HomePage) (Jewish)
 
@@ -28,7 +28,7 @@ Yes, [PyCon2005](./PyCon2005.html) falls during Holy Week. Fear not, there are s
 
 [St. Matthew\'s](http://www.stmatthewscathedral.org/) (Catholic)
 
-# Wednesday worship 
+## Wednesday worship 
 
 6 AM: Mass at [St. Stephen\'s](http://www.parishes.org/stephenmartyr.html)
 
@@ -70,7 +70,7 @@ Yes, [PyCon2005](./PyCon2005.html) falls during Holy Week. Fear not, there are s
 
 8 PM: Tenebrae at [St. Paul\'s](http://www.stpauls-kst.com/)
 
-# Thursday worship 
+## Thursday worship 
 
 6 AM: Mass at [St. Stephen\'s](http://www.parishes.org/stephenmartyr.html)
 
@@ -112,7 +112,7 @@ Yes, [PyCon2005](./PyCon2005.html) falls during Holy Week. Fear not, there are s
 
 All Night: Vigil at [St. Paul\'s](http://www.stpauls-kst.com/)
 
-# Friday worship 
+## Friday worship 
 
 6 AM: Mass at [St. Stephen\'s](http://www.parishes.org/stephenmartyr.html)
 

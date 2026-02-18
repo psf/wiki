@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page will list speakers for the Lightning Talk session.
 
-# Session 1: Thursday 1pm, 90 minutes 
+## Session 1: Thursday 1pm, 90 minutes 
 
 - Grig Gheorghiu, [http://agiletesting.blogspot.com](http://agiletesting.blogspot.com), **Selenium and PyFIT/FitNesse demos**
 
@@ -36,7 +36,7 @@ This page will list speakers for the Lightning Talk session.
 
 - Armin Rigo, Holger Krekel: shpy, a multiuser/multiline interactive pygame-based python shell [source code](http://codespeak.net/svn/shpy/trunk/dist)
 
-# Session 2: Friday 1pm, 60 minutes 
+## Session 2: Friday 1pm, 60 minutes 
 
 - Ian Bicking, A 1-minute general-purpose metaclass (and a 4-minute explanation)
 
@@ -62,7 +62,7 @@ This page will list speakers for the Lightning Talk session.
 
 - Daniel Chudnov, [Python in the Canary Database and unalog](http://curtis.med.yale.edu/dchud/log/conferences/pycon-2005-lightning-talk)
 
-# Speakers without sessions 
+## Speakers without sessions 
 
 - *your name and title here (talk title)*
 

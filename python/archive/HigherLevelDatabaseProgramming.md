@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 There are several wrappers that provide improved or simplified interfaces to SQL databases. Some of these might be referred to as object relational mappers, or ORM in this list \-- these create Pythonic objects out of database rows. Others may only help generate SQL, or provide simple mapping support.
 
-# Object Relational Mappers (ORMs) 
+## Object Relational Mappers (ORMs) 
 
 - [Axiom](https://github.com/twisted/axiom/): MIT-licensed, SQLite-based
 
@@ -42,7 +42,7 @@ There are several wrappers that provide improved or simplified interfaces to SQL
 
 - [Storm](https://storm.canonical.com): Clean and powerful ORM by Canonical.
 
-# SQL Wrappers & Generators 
+## SQL Wrappers & Generators 
 
 - [db_row](http://opensource.theopalgroup.com/): SQL result wrapper
 
@@ -72,13 +72,13 @@ There are several wrappers that provide improved or simplified interfaces to SQL
 
 - [prototype SchemQL/Roe-like thing in Python](http://lists.canonical.org/pipermail/kragen-hacks/2004-April/000394.html) \-\-- Python objects representing relational algebra expressions, backed by lazy compilation to SQL and an iterable interface.
 
-# Relational Python 
+## Relational Python 
 
 - [Dee](http://www.quicksort.co.uk): A proposal to supersede SQL and the need for database sub-languages. Adds truly relational capabilities to Python (no wrappers, no mappers).
 
 See also [PersistenceSystems](http://www.thinkware.se/cgi-bin/thinki.cgi/PersistenceSystems "Thinki") and [ObjectOrientedDatabase](http://www.thinkware.se/cgi-bin/thinki.cgi/ObjectOrientedDatabase "Thinki")
 
-## Editorial Notes 
+### Editorial Notes 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new entries. When specifying release dates please use the format YYYY-MM-DD.
 

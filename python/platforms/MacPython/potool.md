@@ -6,14 +6,14 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# potool
+## potool
 
 Python scripts for reading/writing Mach-O headers.
 
-# status
+## status
 
 potool is at its second public release, 0.2
 
-# links
+## links
 
 [http://undefined.org/python/#potool](http://undefined.org/python/#potool)

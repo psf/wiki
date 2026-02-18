@@ -12,7 +12,7 @@ The PyDSTool software is \"research code\" in a Beta stage of development, and s
 
 You might like to submit feature requests, or you may also like to contribute to the code yourself. We are also interested to hear your opinions about the possibility of adding some of our classes to [SciPy](SciPy) (perhaps in modified form). Please contact us at the [SourceForge](http://sourceforge.net/forum/?group_id=140858) open discussion forum or via email.
 
-# Features implemented 
+## Features implemented 
 
 - Efficient and state-of-the-art ODE / DAE / discrete map simulation tools (using dynamically-linked and automatically generated C code, if external compiler available) (see [wiki page](http://www.cam.cornell.edu/~rclewley/cgi-bin/moin.cgi/Generators))
 
@@ -44,7 +44,7 @@ You might like to submit feature requests, or you may also like to contribute to
 
 - Many tutorial examples and documentation available online at the [wiki](http://pydstool.sourceforge.net)
 
-# User interface 
+## User interface 
 
 Users of PyDSTool need to be familiar with working in interactive, command-line environments such as UNIX and Matlab, including the writing of simple command scripts. There is presently no graphical interface for PyDSTool. Our emphasis is on the interactivity of a command-line and the rapid prototyping possibilities of script-based computing.
 
@@ -58,7 +58,7 @@ Users are provided with an interface for the specification of both simple and co
 
 A key aspect in the design of PyDSTool is the provision of adequate diagnostic information and querying utilities for data structures and computations. Users can expect helpful information regarding the status of their model development and computations beyond the guidance of the online documentation, through in-built querying commands and detailed error messages. The object-oriented nature of the software also provides inherent protection of the users' conceptualization of data-flow and control in their PyDSTool scripts.
 
-# Design philosophy 
+## Design philosophy 
 
 In our design we have emphasized modularized data structures and interface design that facilitates data-driven approaches to the modeling of physical processes, and we have built upon standard numerical, scientific and graphics libraries for Python (for instance, [SciPy](http://www.cam.cornell.edu/~rclewley/cgi-bin/moin.cgi/SciPy) and [Matplotlib](http://matplotlib.sourceforge.net)). These, in turn, make use of well-established and efficient legacy codes for numerical integration of ODEs, and for dealing with linear algebra, optimization, and root solving (for instance, the [LAPACK](http://netlib2.cs.utk.edu/lapack/) and [MINPACK](http://www.netlib.org/minpack/) Fortran libraries). These legacy codes are typically interfaced using [SWIG](http://www.swig.org). The low-level languages of these codes provide the computational speed that Python itself lacks, in the places for which computation is most intensive.
 

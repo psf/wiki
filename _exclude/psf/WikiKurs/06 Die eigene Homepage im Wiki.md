@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)06(20)Die(20)eigene(20)Homepage(20)im(20)Wiki.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)05(20)Benutzer(2d)Einstellungen.html) Slide 6 of 27 [\>\>](./WikiKurs(2f)07(20)Der(20)Text(2d)Editor.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Die eigene Wiki-Homepage 
+## Die eigene Wiki-Homepage 
 
 Nach Anmeldung erscheint im Navigationsbereich der eigene Name und das Wiki verlinkt diesen auf eine gleichnamige Seite im Wiki - Ihre persönliche Homepage!
 

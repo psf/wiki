@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Special Interest Groups 
+## Special Interest Groups 
 
 Many Python projects are organized around Special Interest Groups (SIGs). Each SIG tends to have a mailing list, and works on sub-projects related to Python. There are SIGs for database development, distribution and packaging, the email package, etc. Below are a list of SIGs along with links to their mailing list information and sub-pages used to coordinate development.
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 For much of the 1990s, the International Python Conference was held annually in the U.S, organized by a professional conference management firm (Foretec, a commercial subsidiary of nonprofit CNRI). The conferences were quite expensive yet reportedly lost money, so eventually Foretec stopped holding the conferences. The IPC conferences have been replaced by the volunteer-run [PyCon](../conferences/pycon/PyCon); the O\'Reilly Open Source Conference also has Python-related content. European conferences have formed, notably [EuroPython](../conferences/europython/EuroPython) and [PythonUK](./PythonUK.html).
 
-# Past conferences 
+## Past conferences 
 
 (Only the 6th through 10th were run by CNRI and/or Foretec.)
 

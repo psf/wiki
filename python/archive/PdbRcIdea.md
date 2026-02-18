@@ -10,11 +10,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-# Problem 
+## Problem 
 
 You\'d like to include Python scripts into my .pdbrc, but only pdb commands are allowed there.
 
-# Solution 
+## Solution 
 
 Use execfile() to run a file containing your Python code.
 

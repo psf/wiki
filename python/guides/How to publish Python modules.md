@@ -32,7 +32,7 @@ See also: Italian translation at [Codice](../archive/Codice), [FAQTs](http://www
 
 [CategoryFaq](CategoryFaq)
 
-# Discussion 
+## Discussion 
 
 Where is the [PyCode](./PyCode.html) site? Canceled? If so, it\'s a pitty. It was such a good idea to have a place to upload software.
 

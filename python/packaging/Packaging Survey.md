@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This survey will be put online in a [SurveyMonkey](./SurveyMonkey.html)-like system whenever it is ready\...
 
-# 1. Part 1, how do you work ? 
+## 1. Part 1, how do you work ? 
 
 - Who are you ? (one answer)
   1.  Professional developer using Python exclusively.
@@ -109,7 +109,7 @@ This survey will be put online in a [SurveyMonkey](./SurveyMonkey.html)-like sys
 - Where are you located ?
   - \<open question\>
 
-# 2. Part 2, What\'s missing ? What is wrong ? 
+## 2. Part 2, What\'s missing ? What is wrong ? 
 
 - What are in your opinion, the 5 most important problems (bad behaviors or missing features) in Distutils today ?
   - \<open question\>
@@ -120,7 +120,7 @@ This survey will be put online in a [SurveyMonkey](./SurveyMonkey.html)-like sys
 
 ------------------------------------------------------------------------
 
-# 3. Questions 
+## 3. Questions 
 
 1.  Regarding the questions that ask \"what are the 5 most important X\", is it possible for the survey to instead list a number of choices and let the person taking the survey rank them from most- to least-important?
     - You probably don\'t know all the possible answers. Ask the user \"What are they?\" and they will tell you. Ask the user \"Which of these\", and they tend to think only of the choices on your list.

@@ -10,9 +10,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)51(20)Applications.html) Slide 27 of 27 \>\> \>\|
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Structure in the wiki 
+## Structure in the wiki 
 
-## Hierarchy levels 
+### Hierarchy levels 
 
 Many conventional websites use very branched structures with many hierarchy levels.
 
@@ -24,7 +24,7 @@ In wikis linking is heavily used. A simpler structure is often used to simplify 
 
   ![(!)](/wiki/europython/img/idea.png "(!)") Sub pages are named as `MainPage/SubPage`{.backtick}
 
-## Conventions 
+### Conventions 
 
 A wiki gives much freedom to the users; there aren\'t input masks like in database applications, but you can, in principle, do whatever you want and do it however you want.
 

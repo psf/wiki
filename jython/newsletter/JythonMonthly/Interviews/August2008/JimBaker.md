@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Interview with Jim Baker 
+## Interview with Jim Baker 
 
 Welcome to the Jim Baker interview form for August 2008!
 
@@ -18,7 +18,7 @@ Josh Juneau
 
 [Gather Event Planning](http://www.gathereventplanning.com) [juneau001@gmail.com](mailto:juneau001@gmail.com)
 
-## Questions for Jim 
+### Questions for Jim 
 
 1\. Where do you see Jython going over the next two or three years? Things are really looking great right now, do you think it will continue to evolve into a language that stays more current with future Python releases?
 

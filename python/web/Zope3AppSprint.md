@@ -12,7 +12,7 @@ Last year, I participated in the Zope3 Development Sprint. While it was extremel
 
 This year, I\'d like to collaborate on building a new and cool application *with* Zope3. I don\'t intend this to be a Zope3 tutorial (though I expect most participants will learn a lot).
 
-# Participants 
+## Participants 
 
 - If you aren\'t planning to be available for all four days of the sprint, please note which days you will be around next to your name.
 
@@ -24,7 +24,7 @@ This year, I\'d like to collaborate on building a new and cool application *with
 
 If you don\'t sign up, you can still come and participate. The sign up is to give us an idea who will be there.
 
-# Goals 
+## Goals 
 
 Saturday, March 19
 
@@ -33,7 +33,7 @@ Saturday, March 19
 - Build a functional application that will showcase Zope3
 - Provide feedback on using Zope 3 to build apps
 
-# Ideas for what app to build 
+## Ideas for what app to build 
 
 Write your suggestions here, and add your name to vote on the ones you like.
 
@@ -79,7 +79,7 @@ Ideally, the app should be one we can credibly complete in four days time, with 
 
 - (add your suggestion here)
 
-# Pre-requisites? 
+## Pre-requisites? 
 
 Good question. I think some experience with Zope and Python would be a minimal reqirement, though we\'ll also have non-coding tasks like graphic design. Zope3 specific experience or having worked through the [Zope3 tutorial](http://www.zope.org/Wikis/DevSite/Projects/ComponentArchitecture/ProgrammerTutorial) would be ideal, but any familiarity with the [rest of the material](http://dev.zope.org/Wikis/DevSite/Projects/ComponentArchitecture/Zope3Book/Documentation) available would be welcome.
 

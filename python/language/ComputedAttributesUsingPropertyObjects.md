@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Computed Attributes, Using Property Objects 
+## Computed Attributes, Using Property Objects 
 
 John Posner
 
 This document describes computed attributes and introduces the easiest way to implement computed attributes in Python: using **property** objects.
 
-## Kinds of Attributes 
+### Kinds of Attributes 
 
 In Python, an object\'s contents are accessed as **attributes**, using dot-notation. Some attributes provide access to stored data: integers, strings, lists, user- or system-defined objects, etc:
 
@@ -39,7 +39,7 @@ The easiest way to implement a computed attribute is with an object of type **pr
 
 [py-props.png](attachments/ComputedAttributesUsingPropertyObjects/py-props.png)
 
-## Creating a Computed Attribute 
+### Creating a Computed Attribute 
 
 Here\'s a scenario that calls for a computed attribute that implements \"get the value\" and \"set the value\" operations \... To model your company\'s widgets, which come in a variety of colors, you use a class named `Widget`{.backtick}, with instance attribute `color`{.backtick}:
 
@@ -106,7 +106,7 @@ Some coding details:
 
 - When an assignment statement causes the property object to dispatch `set_color`{.backtick}, two arguments are passed to this function: the Widget instance, and the statement\'s right-hand-side value.
 
-## References 
+### References 
 
 We haven\'t finished the story on property objects \-- for example, we haven\'t discussed how to implement a computed attribute that handles the statement `del wgt.color`{.backtick}. But if you\'ve gotten this far, it probably makes sense to switch to the official **property** documentation:
 

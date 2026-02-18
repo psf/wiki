@@ -14,27 +14,27 @@ Mainly, we have PUG in these cities:
 
 - [Bandung](./BandungPUG.html)
 
-# History 
+## History 
 
-# Activity 
+## Activity 
 
-## 1. Online Activity 
+### 1. Online Activity 
 
-### 1.1. IRC 
+#### 1.1. IRC 
 
-### 1.2. Mailing List 
+#### 1.2. Mailing List 
 
-### 1.3. Planet 
+#### 1.3. Planet 
 
-## 2. Offline Activity 
+### 2. Offline Activity 
 
-## 3. Meetup 
+### 3. Meetup 
 
-## 4. Sprint 
+### 4. Sprint 
 
-# Articles and Books 
+## Articles and Books 
 
-## 1. Book Translation 
+### 1. Book Translation 
 
 ------------------------------------------------------------------------
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PygameOnCtypes 
+## PygameOnCtypes 
 
 **This project idea did in fact get picked up for the 2006 Summer of Code. Development of the project continues as the [Pyglet](http://code.google.com/p/pyglet/) library. See [http://www.pyglet.org](http://www.pyglet.org) for more.**
 

@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python and PSF Merchandise 
+## Python and PSF Merchandise 
 
 This page is intended to collect ideas about merchandise that the PSF can produce to give out at conferences, sell using an online shop or give to PSF members as yearly members giveaway.
 
-## Existing Merchandise 
+### Existing Merchandise 
 
-### Python Stickers 
+#### Python Stickers 
 
-#### Python logo on white background 
+##### Python logo on white background 
 
 ![Python logo on white background](attachments/Merchandise/Python-Sticker-White.png "Python logo on white background")\
 
@@ -24,7 +24,7 @@ PDF: [Python-Sticker-White.pdf](attachments/Merchandise/Python-Sticker-White.pdf
 
 Created by [MarcAndreLemburg](../people/MarcAndreLemburg) in 2013. Please contact if you need different formats.
 
-#### Python logo on dark blue background 
+##### Python logo on dark blue background 
 
 ![Python logo on dark blue background](attachments/Merchandise/Python-Sticker-Darkblue.png "Python logo on dark blue background")\
 
@@ -34,7 +34,7 @@ PDF: [Python-Sticker-Darkblue.pdf](attachments/Merchandise/Python-Sticker-Darkbl
 
 Created by [MarcAndreLemburg](../people/MarcAndreLemburg) in 2013. Please contact if you need different formats.
 
-#### PSF Associate Membership bookmark 
+##### PSF Associate Membership bookmark 
 
 ![PSF Associate Membership bookmark (front)](attachments/Merchandise/PSF-AM-Bookmark-front.png "PSF Associate Membership bookmark (front)")\
 ![PSF Associate Membership bookmark (back)](attachments/Merchandise/PSF-AM-Bookmark-back.png "PSF Associate Membership bookmark (back)")\
@@ -45,7 +45,7 @@ PDF: [PSF-AM-Bookmark.pdf](attachments/Merchandise/PSF-AM-Bookmark.pdf)
 
 Created by [MarcAndreLemburg](../people/MarcAndreLemburg) in 2013. Please contact if you need different formats.
 
-## Ideas for Python Merchandise 
+### Ideas for Python Merchandise 
 
 - Python t-shirts
 - Python caps
@@ -54,7 +54,7 @@ Created by [MarcAndreLemburg](../people/MarcAndreLemburg) in 2013. Please contac
 - Python USB sticks (possibly with Python material preloaded)
 - sets with Python flyers and stickers
 
-## Ideas for PSF Merchandise 
+### Ideas for PSF Merchandise 
 
 - PSF t-shirts
 - PSF caps
@@ -64,7 +64,7 @@ Created by [MarcAndreLemburg](../people/MarcAndreLemburg) in 2013. Please contac
 - PSF branded Raspberry Pis (just the Pis, with the branded OS image on the python.org website)
 - sets with PSF flyers and stickers
 
-## Ideas for Member Giveaways 
+### Ideas for Member Giveaways 
 
 All of the above, plus\...
 
@@ -76,11 +76,11 @@ All of the above, plus\...
 
 - sets with PSF/Python flyers and stickers
 
-## Producing merchandise 
+### Producing merchandise 
 
 Services and shops we could use for creating merchandise, grouped by market.
 
-### Europe 
+#### Europe 
 
 - [REMEMBER](http://www.remember.de/en/B-to-B/) - This shop specializes in high-quality giveaways. They also support creating custom designs.
 

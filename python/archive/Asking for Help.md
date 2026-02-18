@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help 
+## Asking for Help 
 
 The most efficient way of getting help is via the [various mailing lists and newsgroups](MailingListsAndNewsgroups), particularly [the comp.lang.python](CompLangPython) newsgroup. Also, you can ask your questions in the inofficial [Python Wiki](https://wikipython.org/).
 
@@ -16,7 +16,7 @@ For those of you willing to wait, and to add to the archive of problems (and sol
 
 The page will be automatically added to the [longer questions](./Asking(20)for(20)Help.html#Longer_Questions) section below.
 
-## Questions 
+### Questions 
 
 - ssl-1.14.tar.gz exists and supposedly works with Python 2.5x. Assuming I have Visual Studio .NET 2003 available on my box, how do I build the package for Windows. It currently complains about a series of openssl \*.h files that aren\'t available. I can drag in openssl for www.openssl.org, but which version, if that is applicable, and how do I connect the two either in a directory structure or appropriate configuration files?
 
@@ -40,7 +40,7 @@ The page will be automatically added to the [longer questions](./Asking(20)for(2
 
 - I am new at python, I have python 2.5 and every time I open the shell python resets my monitor to 800x600. How do I keep python from messing with my monitor settings? -Travis
 
-## Longer Questions 
+### Longer Questions 
 
 Pages containing longer questions should appear in this list:
 
@@ -96,7 +96,7 @@ Pages containing longer questions should appear in this list:
 
 These questions will be moved to the [answered longer questions section](./Asking(20)for(20)Help.html#Answered_Longer_Questions) below when they are answered (having been added to the [CategoryAskingForHelpAnswered](CategoryAskingForHelpAnswered) category).
 
-## Answered (fully or partially) 
+### Answered (fully or partially) 
 
 - [How do I write multi-line strings in doctest tests?](MultiLineStringsInDocTest)
 
@@ -144,7 +144,7 @@ These questions will be moved to the [answered longer questions section](./Askin
 - I\'m trying to build matplotlib-1.0.1 from the source, and I keep getting error: command gcc-4.2 failed with error status one. Any ideas?
   - You might have to give a few more details including the circumstances and exact error message. Feel free to create a page showing the details using the \"Add a page for a question\" form at the top of this Wiki page. Alternatively, you may get better support by contacting the matplotlib developers directly, probably using one of the mailing lists. See the [matplotlib](http://matplotlib.sourceforge.net/) site for details of the different help options (currently listed under the \"Need help?\" sidebar). \-- [PaulBoddie](../people/PaulBoddie) 2012-07-12 14:09:20
 
-## Answered Longer Questions 
+### Answered Longer Questions 
 
 Pages containing *answered* longer questions should appear in this list:
 

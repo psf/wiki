@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Project Funding Working Group 
+## Project Funding Working Group 
 
 The Project Funding Working Group is a volunteer [work group of the Python Software Foundation](https://www.python.org/psf/committees/#project-funding-work-group).
 
-## Purpose 
+### Purpose 
 
 This Working Group researches, and advises Python community volunteers on applying for external grants and similar funding to advance the mission of the PSF, which includes, but is not limited to, things such as advancing the Python core, Python-related infrastructure, key Python projects, and Python education and awareness. Read the [charter](https://wiki.python.org/psf/ProjectFundingWG/Charter) for more about the Work Group\'s purpose and goals.
 
-## Resources 
+### Resources 
 
 See [our public GitHub repository](https://github.com/psf/project-funding-wg/) for:
 
@@ -33,11 +33,11 @@ Coming soon:
 
   - Coordinating with the PSF, other WGs, and the Steering Council to decide priorities.)
 
-## Governance 
+### Governance 
 
 Decisions on what fundraising and projects/efforts to support, and whether to engage paid grantwriting or project management services, will be done using the voting procedures outlined in [the charter](https://wiki.python.org/psf/ProjectFundingWG/Charter).
 
-### Administration and Contact 
+#### Administration and Contact 
 
 - Eric Holscher (chair)
 
@@ -49,7 +49,7 @@ Decisions on what fundraising and projects/efforts to support, and whether to en
 
 - [project-funding-wg@python.org](mailto:project-funding-wg@python.org)
 
-### Members 
+#### Members 
 
 - Eric Holscher
 - Jacqueline Kazil
@@ -59,10 +59,10 @@ Decisions on what fundraising and projects/efforts to support, and whether to en
 - Dustin Ingram
 - Cristina Muñoz
 
-### Meetings 
+#### Meetings 
 
 As needed. At least every alternate month (six times per year).
 
-## Current Projects 
+### Current Projects 
 
 \[to be added\]

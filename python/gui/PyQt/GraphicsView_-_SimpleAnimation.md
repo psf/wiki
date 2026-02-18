@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Graphics View - Simple Animation 
+## Graphics View - Simple Animation 
 
 The example below presents how to use QGraphicsView along with QGraphicsItem, QGraphicsItemAnimation and QTimeLine to construct a very simple animation. If you have any questions please do not hesitate to ask me directly.
 

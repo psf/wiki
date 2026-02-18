@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# What is AppleScript? 
+## What is AppleScript? 
 
 AppleScript is a scripting language developed by Apple, included as standard in Mac OS (System 7 Pro and later) and Mac OS X. It has two important technical features:
 
@@ -14,11 +14,11 @@ AppleScript is a scripting language developed by Apple, included as standard in 
 
 - It is an [../OSA](OSA) language component, allowing client applications to load and run scripts via the language agnostic OSA API. Client applications can use the OSA API to implement features such as Folder Actions (System Events), Mail rules, iCal alarm scripts, OSA script editing (Script Editor, Script Debugger), etc.
 
-# Equivalent Python Features 
+## Equivalent Python Features 
 
 Python provides extensive third-party application scripting support and limited OSA language component support. It also supports AppleEvent handling and can load and use other OSA language components.
 
-## Application scripting 
+### Application scripting 
 
 Python has long supported sending AppleEvents via the high-level `aetools` and `gensuitemodule` modules in its standard library. However, these modules have always had a number of shortcomings and have grown increasingly troublesome in recent Mac OS X releases; in particular, they are completely broken on Intel-based Macs. As a result, these and other AE/OSA-related modules will be removed in a future Python release and their use should be avoided.
 
@@ -26,7 +26,7 @@ There is also a low-level extension, `Carbon.AE`, that can be used to construct 
 
 A modern replacement to `aetools` and `gensuitemodule`, the [../AppscriptModule](AppscriptModule), has been available since late 2003. (A second project, aeve, has since been discontinued.)
 
-## Python OSA language components 
+### Python OSA language components 
 
 There have been several attempts to develop a Python OSA language component, though to date none of them provide a complete replacement for AppleScript.
 
@@ -36,7 +36,7 @@ There have been several attempts to develop a Python OSA language component, tho
 
 - PythonOSA provides a working implementation of the core OSA interface, allowing OSA scripts written in Python to be loaded, stored, compiled and executed. More advanced OSA features, such as the ability to send and receive AppleEvents to and from the host process are not currently available.
 
-## Apple event handling 
+### Apple event handling 
 
 The Python standard library has long provided a basic AppleEvent handing framework, MiniAEFrame, but as with `aetools` and `gensuitemodule` this module is unsupported on Intel Macs and will be removed in future, and its use should be avoided.
 
@@ -48,7 +48,7 @@ There are two modern, high-level options for implementing AppleEvent handling in
 
 - PyObjC-based applications can leverage the [/AppKit](AppleScript/AppKit) framework\'s built-in Cocoa Scripting support to implement a full AppleEventObjectModel.
 
-## OSA API access 
+### OSA API access 
 
 There are currently two ways to access the OSA API in Python:
 
@@ -56,7 +56,7 @@ There are currently two ways to access the OSA API in Python:
 
 - PyObjC includes a wrapper for the (currently undocumented) `OSAKit` API on OS 10.4 and later.
 
-# See also 
+## See also 
 
 - [../aeve](aeve)
 

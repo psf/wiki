@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Grants Workgroup Charter 
+## PSF Grants Workgroup Charter 
 
-## Purpose & Common Goals 
+### Purpose & Common Goals 
 
 The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. Grants given out by the PSF or any PSF work group must fit within our non-profit mission. The PSF Board delegated authority to the Grants Work Group to review, approve, and deny grant funding proposals for Python conferences, training workshops, Meetups, development projects, and other related Python initiatives.
 
 The PSF Board delegated authority to the Grants Work Group to review, approve, and deny applications for the Community Partner Program. This program offers a non-monetary partnership offered to qualifying applicants to help support their Python events and initiatives by lending the PSF name and logo as a "Community Partner", as well as resharing eligible social media posts.
 
-## Guiding Principles 
+### Guiding Principles 
 
 The PSF Grants Program supports hundreds of Python-related projects, events, and initiatives globally. To facilitate a healthy grant program, the PSF Board has established guiding principles for the program overall, as well as for funding.
 
-### Program Guiding Principles 
+#### Program Guiding Principles 
 
 The guiding principles of the PSF Grants Program are:
 
@@ -28,7 +28,7 @@ The guiding principles of the PSF Grants Program are:
 - Transparent
 - Sustainable
 
-### Funding Guiding Principles 
+#### Funding Guiding Principles 
 
 The guiding principles behind the PSF Grants Program funding are:
 
@@ -39,11 +39,11 @@ The guiding principles behind the PSF Grants Program funding are:
 - Evaluate and fund in our areas of expertise
 - Ensure Python and Pythonistas are supported
 
-## Active Time 
+### Active Time 
 
 The Grants Work Group is active indefinitely and reports to the PSF Board of Directors.
 
-## Core Values & Internal Governance 
+### Core Values & Internal Governance 
 
 The core values of this group are:
 
@@ -55,7 +55,7 @@ The core values of this group are:
 
 The Grants Work Group is governed by the [PSF Code of Conduct](https://www.python.org/psf/codeofconduct/). Any actions made against the principles in the Code of Conduct will result in a report submitted to the PSF Code of Conduct Work Group. The Chair or Vice Chairs reserve the right to moderate Work Group members on the psf-grants mailing list.
 
-### Membership 
+#### Membership 
 
 - The Grants Work Group (GWG) Chair administers the GWG and is a member of the PSF staff. The Vice Chair and appointed Board Director help facilitate reviews, votes, and recommendations for the PSF Board to review. GWG membership is voluntary and individuals must be from the Python community.
 
@@ -68,9 +68,9 @@ The Grants Work Group is governed by the [PSF Code of Conduct](https://www.pytho
 
 - The GWG may request the opinion of unpaid volunteers or experts. If not included in the annual PSF budget, the GWG may request paid experts or consultants pending approval by the PSF Board or PSF Staff.
 
-## Grant Application Guidelines 
+### Grant Application Guidelines 
 
-### Grant Caps by Type 
+#### Grant Caps by Type 
 
 Each category of eligible grant type has a maximum amount that can be awarded, or a "cap".
 
@@ -88,7 +88,7 @@ Each category of eligible grant type has a maximum amount that can be awarded, o
 - Any organization, event, or individual organizing multiple activities will be granted a maximum of \$15,000 USD per year.
   - This does not include individuals who participate and submit applications on behalf of multiple organizing committees.
 
-### Application Criteria 
+#### Application Criteria 
 
 - All grant applications must include a Code of Conduct with a reporting method and an appointed Code of Conduct contact or team. The GWG cannot approve a grant request without a published Code of Conduct.
 - Grant request size guidelines
@@ -127,7 +127,7 @@ Each category of eligible grant type has a maximum amount that can be awarded, o
   - Unrelated to Python or the PSF's charitable mission
   - Other portions of the grant as determined by the GWG
 
-### Fast Track Grants 
+#### Fast Track Grants 
 
 To facilitate the timely review and processing of grants, some grant requests may be fast-tracked if the following criteria are met:
 
@@ -139,7 +139,7 @@ To facilitate the timely review and processing of grants, some grant requests ma
 
 If a grant application meets the above criteria, the GWG Chair sends a written resolution to the GWG for a vote. The GWG has one (1) week to submit objections to the resolution. If an objection is raised, the application is moved out of the fast-track process and back to the regular review process for discussion.
 
-## Grant Application Workflow 
+### Grant Application Workflow 
 
 - Grant applicants submit grant requests through the [PSF Grant Proposal Form](https://psfmember.org/grant-proposals/).
 
@@ -159,7 +159,7 @@ If a grant application meets the above criteria, the GWG Chair sends a written r
 
 - If the GWG is awaiting information for more than six (6) weeks, the GWG Chair will automatically close the grant request and notify the grant applicant of the status update.
 
-## Voting Rules 
+### Voting Rules 
 
 - A vote for any proposal will last for ten (10) days, or when all voting members have voted, whichever comes first.
 - For a proposal to pass, at least 30% of the voting GWG members must vote aye excluding abstentions. Votes that do not fall within these parameters lead to the grant being denied.
@@ -167,7 +167,7 @@ If a grant application meets the above criteria, the GWG Chair sends a written r
 - If the GWG vote is a deadlock, the grant doesn't fit the eligibility criteria in this policy, or there are not enough established criteria due to the nature of the request, the GWG may submit the grant to the PSF Board for review.
 - No comments are allowed in the voting thread after the vote has been started. A GWG member can request to pause the vote in the discussion thread if there is relevant new information the GWG needs to consider.
 
-## Community Partner Program 
+### Community Partner Program 
 
 The Community Partner Program process is designed to be lightweight for everyone involved---applicants, administrators, and the GWG---so the PSF can deliver the program's non-monetary yet meaningful support in a timely manner.
 
@@ -184,7 +184,7 @@ The general process is as follows:
 - If a consensus cannot be reached, the application goes to the PSF Board for review.
 - The decision is delivered to the applicant.
 
-### Promotional Support 
+#### Promotional Support 
 
 In addition to permission to use the PSF name and logo as a "Community Partner" for the event or initiative, the PSF will re-share eligible social media posts across its official social media accounts.These requests must be submitted to the [grants@python.org](mailto:grants@python.org) email address, and will be managed by the GWG Chair.
 
@@ -205,7 +205,7 @@ The PSF is unable to share any type of fundraising or revenue related posts. Due
 
 Social media posts should be suitable for a professional audience made up of people from many backgrounds and adhere to the PSF Code of Conduct.
 
-## Communication Plan 
+### Communication Plan 
 
 The GWG Chair maintains the GWG's emails in a PSF-managed mailing list: [psf-grants@python.org](mailto:psf-grants@python.org).
 
@@ -217,15 +217,15 @@ The voting method is electronic (including email or other methods as agreed to b
 
 The GWG Chair and/or PSF Staff, and any available GWG members hold monthly Office Hours on the PSF Discord for current or aspiring applicants and community members to make inquiries regarding the status of their applications, the scope of the program, or any other PSF grant-related questions.
 
-## Budget 
+### Budget 
 
 The annual budget is set by the PSF Board of Directors every year and is subject to change.
 
-## Contact Information 
+### Contact Information 
 
 Mailing list: [psf-grants@python.org](mailto:psf-grants@python.org)
 
-## List of Participants / Who we are 
+### List of Participants / Who we are 
 
 Chair: Marie Nordin (North America, non-voting)
 

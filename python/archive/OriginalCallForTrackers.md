@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Results 
+## Results 
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") **The infrastructure commitee made a recommendation on Oct 3rd, 2006. See [python-dev posting](http://mail.python.org/pipermail/python-dev/2006-October/069139.html) for more (selected: Jira & Roundup).**
 
@@ -14,7 +14,7 @@ Four trackers were set up by the deadline of August 7 2006; see below for the li
 
 Once a tracker has been selected, a new installation will be set up and the [SourceForge](../people/SourceForge) bug data will be converted once more. That conversion may be more carefully done than the conversion for the demo trackers.
 
-# Participating Trackers 
+## Participating Trackers 
 
 ::: {}
 +--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+:-----------------:+:--------------------------------------------------------------------------------:+
@@ -34,7 +34,7 @@ Once a tracker has been selected, a new installation will be set up and the [Sou
 
 To learn what the committee liked about various trackers participating, see [GoodTrackerFeatures](./GoodTrackerFeatures.html) (to be edited by committee members only!).
 
-# The Announcement 
+## The Announcement 
 
 The Python Software Foundation\'s Infrastructure committee has been charged with finding a new tracker system to be used by the Python development team as a replacement for [SourceForge](../people/SourceForge). The development team is currently unhappy with SF for several reasons which include:
 

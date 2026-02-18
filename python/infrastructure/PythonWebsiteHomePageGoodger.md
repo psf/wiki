@@ -6,10 +6,10 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# David Goodger\'s Python.org Home Page Candidate Plan
+## David Goodger\'s Python.org Home Page Candidate Plan
 
 ::: 
-### Home Page
+#### Home Page
 
 I think the home page should contain as little **static** text as possible, and should be as small as possible. The \"News and Announcements\" section should be visible without scrolling.
 
@@ -38,7 +38,7 @@ Right sidebar:
 :::
 
 ::: 
-### Navigation Menu
+#### Navigation Menu
 
 - \"FOUNDATION\" (was \"PSF\")
   - move higher up the menu, to the second item, between \"About\" & \"News\"
@@ -50,7 +50,7 @@ Right sidebar:
 :::
 
 ::: 
-### ABOUT section
+#### ABOUT section
 
 Change order:
 
@@ -63,7 +63,7 @@ Change order:
 :::
 
 ::: 
-### APPLICATIONS section
+#### APPLICATIONS section
 
 One item & page per major application area (i.e. \"Using Python For\...\" items from the home page)
 :::

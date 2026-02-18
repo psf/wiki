@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Installation
+## Installation
 
 ::: 
 Contents
@@ -18,10 +18,10 @@ Contents
 :::
 
 :::::: 
-### [Jython 2.5.2 and 2.2.x](#id1)
+#### [Jython 2.5.2 and 2.2.x](#id1)
 
 ::: 
-#### [Basic Install](#id2)
+##### [Basic Install](#id2)
 
 Jython 2.5.2 and 2.2.1 are distributed as executable jar file installers. After [downloading](DownloadInstructions) it, either double click the jython_installer-2.5.2.jar or run java with the -jar option
 
@@ -35,7 +35,7 @@ The installer will then walk through a similar set of steps in graphical or cons
 :::
 
 ::: 
-#### [Standalone mode](#id3)
+##### [Standalone mode](#id3)
 
 The standalone option does no caching and so avoids the startup overhead (most likely at the cost of some speed in calling Java classes, but I have not profiled it)
 
@@ -57,7 +57,7 @@ Or, add this file to the classpath of your application.
 :::
 
 ::: 
-#### [Installation options](#id4)
+##### [Installation options](#id4)
 
 You can get a list of installer options (to install Jython unattended, for example) by running:
 

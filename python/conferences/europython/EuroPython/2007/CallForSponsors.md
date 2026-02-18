@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007: Call for Sponsors 
+## EuroPython 2007: Call for Sponsors 
 
 **Note: if you change this, bear in mind that a working copy on the [EuroPython](..) site will also need updating.**
 
@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This year, [EuroPython](..) will take place from Monday 9th July to Wednesday 11th July in Vilnius, Lithuania. As the premier pan-European Python event, this is a great opportunity to reach dedicated users of Python in business and academia, as well as influential members of the Python community. Last year\'s conference was a great success, and we would like to offer you the chance to participate in this year\'s event as a sponsor or an exhibitor. With your support, your organisation can share in the success of [EuroPython](..) 2007: the sixth annual conference in the well established and highly regarded conference series for the European Python and Zope communities.
 
-## Exhibitors 
+### Exhibitors 
 
 As an exhibitor the following terms and conditions apply:
 
@@ -26,11 +26,11 @@ As an exhibitor the following terms and conditions apply:
 
 - Depending on availability, it may also be possible to rent your own seminar room for demonstrations, private seminars, job interviews etc. Please contact the organisers for details and offers.
 
-## Sponsor 
+### Sponsor 
 
 You can become a sponsor of the conference. The following options are available:
 
-### Gold sponsor - EUR 2000 
+#### Gold sponsor - EUR 2000 
 
 This gives you:
 
@@ -39,7 +39,7 @@ This gives you:
 - The opportunity to place a streamer in each conference room
 - A 15 minute talk before one of the keynotes
 
-### Sponsor - EUR 700 
+#### Sponsor - EUR 700 
 
 This gives you:
 
@@ -47,32 +47,32 @@ This gives you:
 - An ad in the conference programme
 - The opportunity to place a streamer in each conference room
 
-### Advertiser - EUR 100 
+#### Advertiser - EUR 100 
 
 This gives you:
 
 - Your name/link on the website
 - An ad in the conference programme
 
-### Organising Sponsor - At least 5 man days of work effort 
+#### Organising Sponsor - At least 5 man days of work effort 
 
 - Your name/link on the website
 - An ad in the conference programme
 - Double exhibition space for free
 
-### Special Sponsor - Negotiable 
+#### Special Sponsor - Negotiable 
 
 If you have an offer which is of mutual benefit, we are ready to hear it. Please contact the [EuroPython](..) organisers.
 
-## Other Arrangements 
+### Other Arrangements 
 
 If you want to put on a special event, please contact the [EuroPython](..) organisers.
 
-## Deadlines 
+### Deadlines 
 
 For planning purposes in connection with the programme, we need your decision to participate no later than the end of the working day on Friday 8th June (18:00 Central European Time). Participation after this date is still possible, but with reduced benefits for sponsors.
 
-## Contact 
+### Contact 
 
 The [EuroPython](..) organisers can be contacted via a general sponsorship mailing list at the following address: europython-sponsorship at python.org
 

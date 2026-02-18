@@ -28,11 +28,11 @@ See also: [DBusBindings](https://www.freedesktop.org/wiki/Software/DBusBindings/
 
 The `dbus-viewer`{.backtick} and `qdbusviewer`{.backtick} programs let you browse through the services and interfaces available on your system.
 
-# pydbus
+## pydbus
 
 For more information see [pydbus\'s Readme](https://github.com/LEW21/pydbus/blob/master/README.rst).
 
-## Introspection 
+### Introspection 
 
     from pydbus import SessionBus
     bus = SessionBus()
@@ -68,7 +68,7 @@ Output:
         </method>
      ...
 
-## Calling an interface method 
+### Calling an interface method 
 
 After executing the introspection example:
 
@@ -87,11 +87,11 @@ The following example makes your system hibernate:
     if power.CanHibernate():
         power.Hibernate()
 
-# dasbus
+## dasbus
 
 For more information see [dasbus\'s documentation](https://dasbus.readthedocs.io/).
 
-## Introspection of a remote object 
+### Introspection of a remote object 
 
 Introspection returns an XML string containing information about interfaces, methods, properties and signals of the remote object.
 
@@ -107,7 +107,7 @@ Introspection returns an XML string containing information about interfaces, met
     # Call the Introspect method of the remote object.
     print(remote_object.Introspect())
 
-## Accessing a remote property 
+### Accessing a remote property 
 
 The following example prints the current hostname.
 
@@ -121,7 +121,7 @@ The following example prints the current hostname.
 
     print(proxy.Hostname)
 
-## Calling a remote method 
+### Calling a remote method 
 
 The following example sends a notification to the notification server.
 
@@ -140,11 +140,11 @@ The following example sends a notification to the notification server.
 
     print("The notification {} was sent.".format(id))
 
-# dbus-next
+## dbus-next
 
 For more information see [dbus-next\'s documentation](https://python-dbus-next.readthedocs.io/).
 
-## The client interface 
+### The client interface 
 
 To use a service on the bus, the library constructs a proxy object you can use to call methods, get and set properties, and listen to signals.
 
@@ -192,7 +192,7 @@ This example connects to a media player and controls it with the MPRIS DBus inte
 :::
 ::::
 
-## The service interface 
+### The service interface 
 
 To define a service on the bus, use the [ServiceInterface](./ServiceInterface.html) class and decorate class methods to specify DBus methods, properties, and signals with their type signatures.
 
@@ -247,13 +247,13 @@ To define a service on the bus, use the [ServiceInterface](./ServiceInterface.ht
 :::
 ::::
 
-# python-sdbus
+## python-sdbus
 
 See [python-sdbus documentation for API reference and quickstart guides](https://python-sdbus.readthedocs.io/en/latest/index.html).
 
 Python-sdbus has a unified client and server classes where one class can be used both as a client proxy and as a server.
 
-## Interface class definition 
+### Interface class definition 
 
 :::: 
 ::: 
@@ -290,7 +290,7 @@ Python-sdbus has a unified client and server classes where one class can be used
 :::
 ::::
 
-## Server 
+### Server 
 
 :::: 
 ::: 
@@ -335,7 +335,7 @@ Python-sdbus has a unified client and server classes where one class can be used
 :::
 ::::
 
-## Client 
+### Client 
 
 :::: 
 ::: 

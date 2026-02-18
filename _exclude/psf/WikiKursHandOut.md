@@ -11,13 +11,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html?action=print&media=projection) [\^](WikiKurs) \|\< \<\< Slide 1 of 27 [\>\>](./WikiKurs(2f)02(20)Finden(20)von(20)Informationen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Was ist ein Wiki? 
+## Was ist ein Wiki? 
 
 Ein Wiki (auch WikiWiki oder WikiWikiWeb genannt) ist eine Sammlung von Webseiten, die nicht nur gelesen, sondern auch von den Benutzern direkt und einfach geändert werden können. *Wikiwiki* ist Hawaiisch und bedeutet „schnell".
 
 Das erste WikiWikiWeb wurde 1995 von Ward Cunningham entwickelt und in Betrieb genommen. Die Idee, dass Inhalte im WWW editierbar sein sollen, geht dabei bis auf die ursprünglichen Ideen des Erfinders des World Wide Web, Tim Berners-Lee zurück.
 
-## Der Wiki-Weg 
+### Der Wiki-Weg 
 
 - offen und kooperativ: oft darf jeder alles ändern
 
@@ -31,7 +31,7 @@ Das erste WikiWikiWeb wurde 1995 von Ward Cunningham entwickelt und in Betrieb g
 
 - flexibel: in einem Wiki lassen sich Informationen vieler Arten speichern, z.B. Schulungen, Folienvorträge und Brainstorming
 
-# Was ist MoinMoin? 
+## Was ist MoinMoin? 
 
 [MoinMoin](MoinMoin) ist eine Software, mit der man ein Wiki betreiben kann.
 
@@ -43,11 +43,11 @@ Sie ist unter GPL-Lizenz frei verfügbar und in der Programmiersprache Python im
   [Slideshow](./WikiKurs(2f)02(20)Finden(20)von(20)Informationen.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) Slide 2 of 27 [\>\>](./WikiKurs(2f)03(20)Auf(20)dem(20)Laufenden(20)bleiben.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Finden von Informationen 
+## Finden von Informationen 
 
 MoinMoin bietet viele Möglichkeiten, Informationen im Wiki zu finden:
 
-## Suchfunktion 
+### Suchfunktion 
 
 - **Suchfeld im Navigationsbereich der Seite**
 
@@ -64,7 +64,7 @@ MoinMoin bietet viele Möglichkeiten, Informationen im Wiki zu finden:
 
 Weitergehende Informationen finden sich auf der Hilfeseite [HilfeZumSuchen](HilfeZumSuchen).
 
-## Orientierung im Wiki 
+### Orientierung im Wiki 
 
 - [AktuelleÄnderungen](./Aktuelle(c384)nderungen.html): Die neuesten Änderungen
 
@@ -76,7 +76,7 @@ Weitergehende Informationen finden sich auf der Hilfeseite [HilfeZumSuchen](Hilf
   [Slideshow](./WikiKurs(2f)03(20)Auf(20)dem(20)Laufenden(20)bleiben.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)02(20)Finden(20)von(20)Informationen.html) Slide 3 of 27 [\>\>](./WikiKurs(2f)04(20)Anmelden(20)beim(20)Wiki.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Auf dem Laufenden bleiben 
+## Auf dem Laufenden bleiben 
 
 In einem Wiki kann sich in kurzer Zeit viel ändern - jeder kann ja jede Seite ändern, Seiten hinzufügen oder Seiten löschen.
 
@@ -98,7 +98,7 @@ Es wird dort zu jeder Änderung aufgelistet:
   [Slideshow](./WikiKurs(2f)04(20)Anmelden(20)beim(20)Wiki.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)03(20)Auf(20)dem(20)Laufenden(20)bleiben.html) Slide 4 of 27 [\>\>](./WikiKurs(2f)05(20)Benutzer(2d)Einstellungen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Anmelden beim Wiki 
+## Anmelden beim Wiki 
 
 Die Benutzung eines Wiki ist oft ohne Anmeldung möglich (dies hängt von den Sicherheitseinstellungen ab).
 
@@ -136,7 +136,7 @@ Damit wird das Benutzerkonto angelegt und man kann sich danach dann mit Name/Pas
   [Slideshow](./WikiKurs(2f)05(20)Benutzer(2d)Einstellungen.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)04(20)Anmelden(20)beim(20)Wiki.html) Slide 5 of 27 [\>\>](./WikiKurs(2f)06(20)Die(20)eigene(20)Homepage(20)im(20)Wiki.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Benutzer-Einstellungen 
+## Benutzer-Einstellungen 
 
 Nach dem Anlegen ihres Benutzerkontos und der Anmeldung können Sie Ihre Benutzereinstellungen anpassen. Klicken Sie hierzu auf [Einstellungen](./WikiKurs(2f)05(20)Benutzer(2d)Einstellungen.html?action=userprefs). (Klicken Sie auf den Link Einstellungen oben auf der Seite)
 
@@ -154,7 +154,7 @@ Danach unten auf **Speichern** klicken.
   [Slideshow](./WikiKurs(2f)06(20)Die(20)eigene(20)Homepage(20)im(20)Wiki.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)05(20)Benutzer(2d)Einstellungen.html) Slide 6 of 27 [\>\>](./WikiKurs(2f)07(20)Der(20)Text(2d)Editor.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Die eigene Wiki-Homepage 
+## Die eigene Wiki-Homepage 
 
 Nach Anmeldung erscheint im Navigationsbereich der eigene Name und das Wiki verlinkt diesen auf eine gleichnamige Seite im Wiki - Ihre persönliche Homepage!
 
@@ -170,7 +170,7 @@ Man kann dann einfach sinngemäß die Vorgabe abändern, einen optionalen Kommen
   [Slideshow](./WikiKurs(2f)07(20)Der(20)Text(2d)Editor.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)06(20)Die(20)eigene(20)Homepage(20)im(20)Wiki.html) Slide 7 of 27 [\>\>](./WikiKurs(2f)08(20)Tastenkombinationen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Der textbasierte Editor 
+## Der textbasierte Editor 
 
 Wir haben ihn soeben gerade beim Anlegen der eigenen Homepage bereits kennen gelernt: den text-basierten Editor von [MoinMoin](MoinMoin). Man kann ihn natürlich nicht nur dafür verwenden, sondern auch um beliebige andere Seiten im Wiki zu bearbeiten.
 
@@ -196,7 +196,7 @@ Weiteres siehe auf [HilfeZumEditieren](HilfeZumEditieren).
   [Slideshow](./WikiKurs(2f)08(20)Tastenkombinationen.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)07(20)Der(20)Text(2d)Editor.html) Slide 8 of 27 [\>\>](./WikiKurs(2f)10(20)Textgestaltung(20)mit(20)Wiki(2d)Markup.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Tastenkombinationen 
+## Tastenkombinationen 
 
 Im Editor funktionieren die üblichen Tastenkombinationen:
 
@@ -212,7 +212,7 @@ Im Editor funktionieren die üblichen Tastenkombinationen:
 
 - Strg-Y für *Wiederholen*
 
-# Maus 
+## Maus 
 
 Ebenso kann man natürlich mit der Maus selektieren und die entsprechenden Menüpunkte des Browsers verwenden.
 
@@ -224,11 +224,11 @@ Ebenso kann man natürlich mit der Maus selektieren und die entsprechenden Menü
   [Slideshow](./WikiKurs(2f)10(20)Textgestaltung(20)mit(20)Wiki(2d)Markup.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)08(20)Tastenkombinationen.html) Slide 9 of 27 [\>\>](./WikiKurs(2f)11(20)Abs(c3a4)tze.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Textgestaltung mit Wiki-Markup 
+## Textgestaltung mit Wiki-Markup 
 
 Wiki verwendet *nicht* einfach HTML (die normalerweise für Webseiten verwendete *HyperText Markup Language*), sondern eine eigene, vereinfachte **MoinMoin-Wiki Markup Language**, also einer eigenen Konvention für die Eingabe von Inhalten.
 
-## HTML 
+### HTML 
 
     <h1>Überschrift</h1>
     <p>
@@ -242,7 +242,7 @@ Wiki verwendet *nicht* einfach HTML (die normalerweise für Webseiten verwendete
     </ul>
     </p>
 
-## MoinMoin-Wiki 
+### MoinMoin-Wiki 
 
     = Überschrift =
     Dies ist ein Link zu meiner Homepage: VornameNachname
@@ -259,7 +259,7 @@ Wiki verwendet *nicht* einfach HTML (die normalerweise für Webseiten verwendete
   [Slideshow](./WikiKurs(2f)11(20)Abs(c3a4)tze.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)10(20)Textgestaltung(20)mit(20)Wiki(2d)Markup.html) Slide 10 of 27 [\>\>](./WikiKurs(2f)12(20c39c)berschriften.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Absätze 
+## Absätze 
 
 Die einfachste Art, Text in ein Wiki einzugeben, ist ähnlich wie in einer Textverarbeitung:
 
@@ -267,7 +267,7 @@ Man schreibt einfach drauf los. ![:)](/wiki/europython/img/smile.png ":)")
 
 Die einzige Besonderheit dabei ist, dass man für einen Absatz *zweimal* auf die Eingabetaste tippen muss:
 
-## Eingabe im Editor-Formular 
+### Eingabe im Editor-Formular 
 
     Erster Absatz.
     Immer noch erster Absatz.
@@ -276,7 +276,7 @@ Die einzige Besonderheit dabei ist, dass man für einen Absatz *zweimal* auf die
 
     Dritter Absatz.
 
-## Anzeige 
+### Anzeige 
 
 Erster Absatz. Immer noch erster Absatz.
 
@@ -284,15 +284,15 @@ Zweiter Absatz.
 
 Dritter Absatz.
 
-# Trennlinien 
+## Trennlinien 
 
-## Eingabe 
+### Eingabe 
 
     Erster Teil.
     ----
     Zweiter Teil.
 
-## Anzeige 
+### Anzeige 
 
 Erster Teil.
 
@@ -306,9 +306,9 @@ Zweiter Teil.
   [Slideshow](./WikiKurs(2f)12(20c39c)berschriften.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)11(20)Abs(c3a4)tze.html) Slide 11 of 27 [\>\>](./WikiKurs(2f)13(20)Listen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Überschriften 
+## Überschriften 
 
-## Eingabe 
+### Eingabe 
 
     = erste Überschriftsebene mit =-Zeichen =
     == zweite ==
@@ -316,15 +316,15 @@ Zweiter Teil.
     ==== vierte ====
     ... (bis zu 6 möglich)
 
-## Anzeige 
+### Anzeige 
 
-# erste Überschriftsebene mit =-Zeichen 
+## erste Überschriftsebene mit =-Zeichen 
 
-## zweite 
+### zweite 
 
-### dritte 
+#### dritte 
 
-#### vierte 
+##### vierte 
 
 \... (bis zu 6 möglich)
 
@@ -339,18 +339,18 @@ Zweiter Teil.
   [Slideshow](./WikiKurs(2f)13(20)Listen.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)12(20c39c)berschriften.html) Slide 12 of 27 [\>\>](./WikiKurs(2f)14(20)Text(2d)Stil.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Listen 
+## Listen 
 
-## Punktelisten 
+### Punktelisten 
 
-### Eingabe 
+#### Eingabe 
 
     Meine Haustiere:
      * Hund
      * Katze
       * Maus
 
-### Anzeige 
+#### Anzeige 
 
 Meine Haustiere:
 
@@ -358,16 +358,16 @@ Meine Haustiere:
 - Katze
   - Maus
 
-## Aufzählungen 
+### Aufzählungen 
 
-### Eingabe 
+#### Eingabe 
 
     Noch zu erledigen:
      1. Hund füttern
      1. Katze füttern
       1. Maus raus
 
-### Anzeige 
+#### Anzeige 
 
 Noch zu erledigen:
 
@@ -387,7 +387,7 @@ Es gibt noch weitere Listen, siehe [HilfeZuListen](HilfeZuListen).
   [Slideshow](./WikiKurs(2f)14(20)Text(2d)Stil.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)13(20)Listen.html) Slide 13 of 27 [\>\>](./WikiKurs(2f)15(20)Tabellen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Text-Stil 
+## Text-Stil 
 
 ::: {}
   ----------------------------- ---------------------------------
@@ -409,9 +409,9 @@ Es gibt noch weitere Listen, siehe [HilfeZuListen](HilfeZuListen).
   [Slideshow](./WikiKurs(2f)15(20)Tabellen.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)14(20)Text(2d)Stil.html) Slide 14 of 27 [\>\>](./WikiKurs(2f)16(20)Wiki(2d)interne(20)Links.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Tabellen 
+## Tabellen 
 
-## Einfachste Tabelle 
+### Einfachste Tabelle 
 
      || eins || zwei || drei ||
      || vier || fünf || sechs ||
@@ -423,7 +423,7 @@ Es gibt noch weitere Listen, siehe [HilfeZuListen](HilfeZuListen).
     ------ ------ -------
   :::
 
-## Allgemeines Tabellen-Layout 
+### Allgemeines Tabellen-Layout 
 
      ||||||<tablewidth="80%">'''Kopfzeile'''||
      ||Zelle 1||Zelle 2||Zelle 3||
@@ -442,7 +442,7 @@ Es gibt noch weitere Listen, siehe [HilfeZuListen](HilfeZuListen).
   +---------------------+-------------+-------------+
   :::
 
-## Zellenbreite 
+### Zellenbreite 
 
      || schmal ||<:99%> breit ||
 
@@ -452,7 +452,7 @@ Es gibt noch weitere Listen, siehe [HilfeZuListen](HilfeZuListen).
     -------- -------
   :::
 
-## Übergreifende Zeilen und Spalten 
+### Übergreifende Zeilen und Spalten 
 
      ||<|2> 2 Zeilen || Zeile 1 ||
      || Zeile 2 ||
@@ -468,7 +468,7 @@ Es gibt noch weitere Listen, siehe [HilfeZuListen](HilfeZuListen).
   +-------------------------------------+
   :::
 
-## Ausrichtung 
+### Ausrichtung 
 
      ||<(50%> links ||<^|3> oben ||<v|3> unten ||
      ||<:> mittig ||
@@ -484,7 +484,7 @@ Es gibt noch weitere Listen, siehe [HilfeZuListen](HilfeZuListen).
   +--------+------+-------+
   :::
 
-## Farben 
+### Farben 
 
      ||<#FF0000> rot ||<#00FF00> grün ||<#0000FF> blau ||
 
@@ -500,37 +500,37 @@ Es gibt noch weitere Listen, siehe [HilfeZuListen](HilfeZuListen).
   [Slideshow](./WikiKurs(2f)16(20)Wiki(2d)interne(20)Links.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)15(20)Tabellen.html) Slide 15 of 27 [\>\>](./WikiKurs(2f)17(20)Externe(20)Links.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Wiki-interne Links 
+## Wiki-interne Links 
 
 Eine der wichtigsten Funktionen im Wiki ist das Verlinken auf andere Wiki-Seiten - deshalb geht dies auch sehr einfach.
 
-## WikiNamen (\"CamelCase\") 
+### WikiNamen (\"CamelCase\") 
 
 Wenn man WorteZusammenschreibt wie z.B. bei VornameNachname oder [CamelCase](CamelCase) oder [MoinMoin](MoinMoin), so dass in einem Wort mindestens 2 Wechsel Großbuchstabe-Kleinbuchstabe(n) vorkommen, so verlinkt [MoinMoin](MoinMoin) dieses Wort automatisch zu der gleichnamigen Seite.
 
 Dies geht sehr einfach, es ist kein Wiki-Markup notwendig. Aber die ungewöhnliche Schreibweise ist nicht jedermanns Sache, daher gibt es eine weitere Alternative, die sog. \"free links\".
 
-### Eingabe 
+#### Eingabe 
 
     CamelCase !CamelCaseAberNichtVerlinkt
 
-### Anzeige 
+#### Anzeige 
 
 [CamelCase](CamelCase) CamelCaseAberNichtVerlinkt
 
-## Freie Links 
+### Freie Links 
 
 Möchte man Seiten verlinken, die nicht [CamelCase](CamelCase) sind oder wenn man einfach kein [CamelCase](CamelCase) mag, kann man wie folgt verlinken:
 
-### Eingabe 
+#### Eingabe 
 
     Ein [[freier Link]] und [[andere Seite|eine andere Seite]].
 
-### Anzeige 
+#### Anzeige 
 
 Ein [freier Link](./freier(20)Link.html) und [eine andere Seite](./andere(20)Seite.html).
 
-# Rückwärtsverfolgung von Links 
+## Rückwärtsverfolgung von Links 
 
 Wenn man auf den Seitennamen im Navigationsbereich klickt, sucht das Wiki nach Seiten, die auf diesen Seitennamen verlinken.
 
@@ -548,11 +548,11 @@ Man kann aber auf der Seite [ToDo](./ToDo.html) einfach auf den Seitennamen klic
   [Slideshow](./WikiKurs(2f)17(20)Externe(20)Links.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)16(20)Wiki(2d)interne(20)Links.html) Slide 16 of 27 [\>\>](./WikiKurs(2f)18(20)Anh(c3a4)nge.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Externe Links 
+## Externe Links 
 
 Man kann natürlich auch auf externe Inhalte verlinken (z.B in\'s Internet oder auf andere Intranet-Seiten).
 
-## Eingabe 
+### Eingabe 
 
     http://example.net/
 
@@ -562,7 +562,7 @@ Man kann natürlich auch auf externe Inhalte verlinken (z.B in\'s Internet oder 
 
     {{http://moinmoin.wikiwikiweb.de/wiki/common/moinmoin.png}}
 
-## Anzeige 
+### Anzeige 
 
 [http://example.net/](http://example.net/)
 
@@ -580,17 +580,17 @@ Man kann natürlich auch auf externe Inhalte verlinken (z.B in\'s Internet oder 
   [Slideshow](./WikiKurs(2f)18(20)Anh(c3a4)nge.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)17(20)Externe(20)Links.html) Slide 17 of 27 [\>\>](./WikiKurs(2f)19(20)Symbole.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Datei-Anhänge 
+## Datei-Anhänge 
 
 [MoinMoin](MoinMoin) bietet die Möglichkeit, Dateien direkt an eine Wikiseite \"anzuhängen\".
 
-## Eingabe 
+### Eingabe 
 
     [[attachment:brief.txt]]
 
     {{attachment:foto.jpg}}
 
-## Anzeige 
+### Anzeige 
 
 [brief.txt]( "Upload new attachment "brief.txt"")
 
@@ -612,7 +612,7 @@ Man kann dann einfach draufklicken und die Datei per Browser aus dem Dateisystem
   [Slideshow](./WikiKurs(2f)19(20)Symbole.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)18(20)Anh(c3a4)nge.html) Slide 18 of 27 [\>\>](./WikiKurs(2f)20(20)Dynamische(20)Inhalte.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Symbole, Smileys 
+## Symbole, Smileys 
 
 [MoinMoin](MoinMoin) unterstützt auch einige graphische Symbole, sowie die in E-Mail und Chat üblichen sog. *Smileys*:
 
@@ -635,19 +635,19 @@ Weitere siehe [HilfeZuSmileys](HilfeZuSmileys).
 
 ![(!)](/wiki/europython/img/idea.png "(!)") *Die folgenden vier Kapitel behandeln fortgeschrittene Details. Wenn Sie das nicht interessiert, können Sie sie auch einfach [überspringen](./WikiKurs(2f)30(20)Der(20)grafische(20)Editor.html).*
 
-# Dynamische Inhalte 
+## Dynamische Inhalte 
 
 [MoinMoin](MoinMoin) ist sehr modular aufgebaut und durch Plugins in seinen Funktionen erweiterbar. Makros, Parser, Aktionen usw. können entweder eingebaut, mitgeliefert oder als Plugin selbst installiert werden.
 
-## Makros 
+### Makros 
 
 Ein Makro wird als Wiki-Markup eingegeben und verarbeitet einige wenige Parameter und erzeugt daraus eine Ausgabe, die im Content-Bereich angezeigt wird.
 
-## Parser 
+### Parser 
 
 Ein Parser wird als Wiki-Markup eingegeben und verarbeitet einige wenige Parameter und einen i.d.R. mehrzeiligen Block von Textdaten und erzeugt daraus eine Ausgabe, die im Content-Bereich angezeigt wird.
 
-## Aktion 
+### Aktion 
 
 Eine Aktion wird meist aus dem Menü aufgerufen (oder durch ein Macro) und erzeugt eine komplette HTML-Seite selbst.
 :::
@@ -657,11 +657,11 @@ Eine Aktion wird meist aus dem Menü aufgerufen (oder durch ein Macro) und erzeu
   [Slideshow](./WikiKurs(2f)21(20)Makros.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)20(20)Dynamische(20)Inhalte.html) Slide 20 of 27 [\>\>](./WikiKurs(2f)22(20)Parser.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Makros 
+## Makros 
 
 Ein Makro wird durch \"`<<Makroname(Parameter)>>`{.backtick}\" aufgerufen. Parameter sind von Makro zu Makro unterschiedlich und können auch ganz wegfallen.
 
-## Eingabe 
+### Eingabe 
 
     <<TableOfContents>>
     ----
@@ -671,7 +671,7 @@ Ein Makro wird durch \"`<<Makroname(Parameter)>>`{.backtick}\" aufgerufen. Param
 
     Etwas Text mit einer Fußnote.<<FootNote(Hier eine Fußnote.)>>
 
-## Anzeige 
+### Anzeige 
 
 ------------------------------------------------------------------------
 
@@ -712,16 +712,16 @@ Etwas Text mit einer Fußnote.^[1](#WikiKurs.2F21_Makros.fnref-f7f23ae3742ff0bcc
   [Slideshow](./WikiKurs(2f)22(20)Parser.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)21(20)Makros.html) Slide 21 of 27 [\>\>](./WikiKurs(2f)23(20)Aktionen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Parser 
+## Parser 
 
-## Eingabe 
+### Eingabe 
 
      {{{#!highlight python
      def hallo(name):
          print "Hallo %s" % name
      }}}
 
-## Anzeige 
+### Anzeige 
 
 :::: 
 ::: 
@@ -738,7 +738,7 @@ Etwas Text mit einer Fußnote.^[1](#WikiKurs.2F21_Makros.fnref-f7f23ae3742ff0bcc
   [Slideshow](./WikiKurs(2f)23(20)Aktionen.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)22(20)Parser.html) Slide 22 of 27 [\>\>](./WikiKurs(2f)30(20)Der(20)grafische(20)Editor.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Aktionen 
+## Aktionen 
 
 Einige Beispiele eingebauter Aktionen:
 
@@ -756,7 +756,7 @@ Einige Beispiele eingebauter Aktionen:
   [Slideshow](./WikiKurs(2f)30(20)Der(20)grafische(20)Editor.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)23(20)Aktionen.html) Slide 23 of 27 [\>\>](./WikiKurs(2f)40(20)Anlegen(20)von(20)weiteren(20)Seiten.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Der grafische Editor 
+## Der grafische Editor 
 
 Alternativ zur Eingabe von Wiki-Markup per einfachem Text-Editor bietet [MoinMoin](MoinMoin) auch einen grafischen WYSIWYG-Editor an, der von der Oberfläche und Bedienung an normale Textverarbeitungen erinnert.
 
@@ -781,7 +781,7 @@ Nachteile grafischer Editor:
   [Slideshow](./WikiKurs(2f)40(20)Anlegen(20)von(20)weiteren(20)Seiten.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)30(20)Der(20)grafische(20)Editor.html) Slide 24 of 27 [\>\>](./WikiKurs(2f)50(20)Wiki(2d)Etikette.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Weitere Seiten anlegen 
+## Weitere Seiten anlegen 
 
 Neue Seiten legt man am Einfachsten und Besten so an:
 
@@ -808,7 +808,7 @@ Neue Seiten legt man am Einfachsten und Besten so an:
   [Slideshow](./WikiKurs(2f)50(20)Wiki(2d)Etikette.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)40(20)Anlegen(20)von(20)weiteren(20)Seiten.html) Slide 25 of 27 [\>\>](./WikiKurs(2f)51(20)Anwendungen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Wiki-Etikette 
+## Wiki-Etikette 
 
 Vor allem in öffentlichen Wikis, wo sehr viele Leute zusammenarbeiten (die sich auch oft nicht anderweitig kennen), sollte man immer von wohlwollendem Verhalten der Anderen ausgehen, solange nicht das Gegenteil erwiesen ist.
 
@@ -824,11 +824,11 @@ Die persönliche Homepage sollte i.d.R. als \"Eigentum\" des entsprechenden Benu
   [Slideshow](./WikiKurs(2f)51(20)Anwendungen.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)50(20)Wiki(2d)Etikette.html) Slide 26 of 27 [\>\>](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Anwendungen 
+## Anwendungen 
 
 Wiki ist dadurch, dass nur wenig Vorgaben gemacht werden und Freitext eingegeben werden kann, für sehr viele Anwendungen verwendbar. Man kann es für alles benutzen, was sich durch verlinkte Text-Seiten abbilden lässt.
 
-## Beispiele 
+### Beispiele 
 
 - persönliche Notizen (statt \"Zettelwirtschaft\")
 
@@ -854,9 +854,9 @@ Wiki ist dadurch, dass nur wenig Vorgaben gemacht werden und Freitext eingegeben
   [Slideshow](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)51(20)Anwendungen.html) Slide 27 of 27 \>\> \>\|
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Struktur im Wiki 
+## Struktur im Wiki 
 
-## Hierarchie-Ebenen 
+### Hierarchie-Ebenen 
 
 Viele konventionelle Webseiten verwenden weit verzweigte Baumstrukturen mit vielen Hierarchie-Ebenen.
 
@@ -868,7 +868,7 @@ Im Wiki wird sehr stark und gerne verlinkt. Der Einfachheit halber wird daher of
 
   ![(!)](/wiki/europython/img/idea.png "(!)") Unterseiten legt man einfach als `HauptSeite/UnterSeite`{.backtick} an.
 
-## Konventionen 
+### Konventionen 
 
 Wiki lässt den Benutzern viele Freiheiten - es gibt keine Eingabemasken wie bei Datenbankanwendungen, sondern man kann im Prinzip machen was man will und wie man es will.
 

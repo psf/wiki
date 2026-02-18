@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Wiki Attack January 2013 
+## Wiki Attack January 2013 
 
-## Summary 
+### Summary 
 
 The python.org wikis for Python, Jython and the Python Software Foundation (PSF) were subject to a security breach and later attack which caused all of the wiki data to be destroyed on January 5 2013.
 
@@ -24,7 +24,7 @@ Moving forward, we will no longer allow changing wiki pages without login and ha
 
 Please report any problems you find with the wiki to the [mailto:pydotorg-www@python.org](mailto:pydotorg-www@python.org) mailing list.
 
-## Attack Analysis 
+### Attack Analysis 
 
 In the week of January 14 2013, we ran a longer analysis of the attack on the wiki VM. This is a summary of the things we found.
 
@@ -48,7 +48,7 @@ Since the logs on the VM only go back 5 ![(!)](/wiki/europython/img/idea.png "(!
 
 It is likely that the passwords and user configuration details were inspected in the same way as was done for the Debian wiki.
 
-## Content Recovery 
+### Content Recovery 
 
 Since we were not in the comfortable position to use a backup for restoring the wiki content (our most recent backup dates back to June 24 2012), we tried to get as much information from archive.org, the Google cache and the Yahoo/Bing cache as possible.
 
@@ -64,7 +64,7 @@ Still, the restored files do contain pages that were not available in the archiv
 
 Additionally, none of the newer attachments to wiki pages could be restored.
 
-## Content Restoration 
+### Content Restoration 
 
 In the week of January 21, we then continued the work to prepare the archive downloads for reintegration into the wiki.
 
@@ -76,23 +76,23 @@ We then setup a new VM for the wiki and configured it to use the newly added pas
 
 Note that as part of the recovery process, some pages were changed from ReST markup to wiki markup. This is due to the fact that the restore process via the HTML archive dumps always creates wiki markup.
 
-## Wiki Cleanup 
+### Wiki Cleanup 
 
 After the recovery step, we ran a wiki cleanup. This means that \"empty\" and deleted pages were moved out of the way.
 
 We also changed the user preference settings from the old \"python\" theme to the current \"europython\" theme, which is also used for all new accounts.
 
-## Moving to HTTPS 
+### Moving to HTTPS 
 
 We have enabled HTTPS access to the wiki to further enhance security and avoid having to send clear text passwords over the network in order to log in to the wikis.
 
 If you have not been using HTTPS links to the wiki login page yet, please be advised that your password may have been sniffed on the network at e.g. a conference. It is best to [change it again](./WikiAttack2013.html?action=userprefs) and stop using HTTP links to the wiki login page.
 
-## Next Steps 
+### Next Steps 
 
 After the official moin 1.9.7 release, we will switch from the current moin checkout we\'re using to the official release.
 
-## Timeline 
+### Timeline 
 
 - 2012-07-24: Likely date of the original exploit installation
 
@@ -110,7 +110,7 @@ After the official moin 1.9.7 release, we will switch from the current moin chec
 
 - 2013-09-04: HTTPS configuration is now complete. Added HSTS headers to all outgoing requests.
 
-## Credits 
+### Credits 
 
 These people have put in significant work to get the wiki back online (in alphabetical order).
 

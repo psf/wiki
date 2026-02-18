@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Advocacy Kit for IT Departments 
+## Python Advocacy Kit for IT Departments 
 
 The intent of this page is to collect ideas on what should be included in such a kit. Elsewhere, we are soliciting flyers and whitepapers which when finished will be used to make up advocacy kits.
 

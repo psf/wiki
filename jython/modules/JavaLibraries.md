@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using Java Classes in Jython 
+## Using Java Classes in Jython 
 
 [DocumentationAndEducation](../getting-started/DocumentationAndEducation)
 
 ------------------------------------------------------------------------
 
-### Array 
+#### Array 
 
 Posted to the Jython-users mailing list by Alfonso Reyes on October 14, 2007\
 

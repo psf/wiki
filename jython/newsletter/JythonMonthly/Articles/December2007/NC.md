@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Better Living Through More Obvious Coding Practices 
+## Better Living Through More Obvious Coding Practices 
 
-## Flagging Records in Fixed-Length Data Columns 
+### Flagging Records in Fixed-Length Data Columns 
 
-#### Submitted By: Rob Andrews 
+##### Submitted By: Rob Andrews 
 
 Most of the day-to-day programming I see in the real world does not consist of 50,000-line applications. And even the larger applications consist of functions and smaller blocks of code that work together to produce the more sophisticated behavior of the larger application.
 
@@ -74,6 +74,6 @@ Over time, every programmer develops a unique style based on personal preference
 
 I believe doing so results in a considerably less stressful learning process. Programming may not always be pure fun, but we can make it much less unpleasant with good practices early on.
 
-##### About the Author 
+###### About the Author 
 
 Rob Andrews is a Programmer Analyst at [Sourcelink](http://www.sourcelink.com).

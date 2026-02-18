@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Subclassing Dictionaries 
+## Subclassing Dictionaries 
 
 The process differs by Python version.
 
-## Python-2.2 
+### Python-2.2 
 
 Derive from `dict`.
 
@@ -47,10 +47,10 @@ ex:
 
 The `__slots__` line indicates that Msg has no attributes of its own, preserving memory; see [UsingSlots](UsingSlots).
 
-## See Also 
+### See Also 
 
 [Python-2.2](../archive/Python-2.2), [SubclassingBuiltInTypes](../archive/SubclassingBuiltInTypes), [UsingSlots](UsingSlots)
 
-## Questions 
+### Questions 
 
 - Is this bad Python-2.2 code? Make improvements..! I *do* think it\'s worth showing how to use slots in the context of subclassing dict; In many cases, I think, people would want to do it. I *do* wonder if slots should be specified before or after the initializer- something to put on the [UsingSlots](UsingSlots) page. \-- [LionKimbro](LionKimbro) 2003-09-07 17:07:24 [lwickjr](../archive/lwickjr): Before, I think, collected with the other declaritives.

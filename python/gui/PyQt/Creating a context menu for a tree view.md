@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Creating a context menu for a tree view 
+## Creating a context menu for a tree view 
 
 On the `pyqt`{.backtick} channel on [freenode](http://www.freenode.net), `virousa`{.backtick} and `frankRojas`{.backtick} both asked for a way to create a menu for a tree view that showed different entries for items at different depths in the tree.
 

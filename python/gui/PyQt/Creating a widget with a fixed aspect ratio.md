@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Creating a widget with a fixed aspect ratio 
+## Creating a widget with a fixed aspect ratio 
 
 On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `magicblaze007`{.backtick} asked for an example of a custom widget with a fixed aspect ratio.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# \"Python 102\" - What to do after you\'ve learned the syntax. 
+## \"Python 102\" - What to do after you\'ve learned the syntax. 
 
 **NEW - Follow-up session will be held Sunday afternoon. Check the schedule for details.**
 

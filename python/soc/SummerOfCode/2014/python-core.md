@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Project ideas for Python Core in GSoC 2014 
+## Project ideas for Python Core in GSoC 2014 
 
 Students interested in \"Python Core\" projects will be working on the [CPython](http://en.wikipedia.org/wiki/CPython) Python language interpreter and related core packages.
 
-## Getting in touch with mentors 
+### Getting in touch with mentors 
 
 There are two important lists for students interested in Core Python development:
 
@@ -20,17 +20,17 @@ There are two important lists for students interested in Core Python development
 
 Students should subscribe to and read both lists, but should use the core-mentorship list to post questions and get started.
 
-## Getting Started 
+### Getting Started 
 
 In addition to the mailing lists, students interested in contributing to core Python should take a look at the [Developers guide](http://docs.python.org/devguide/)
 
 ------------------------------------------------------------------------
 
-## Projects 
+### Projects 
 
-### Email 
+#### Email 
 
-#### Possible email projects 
+##### Possible email projects 
 
 - 1.1 Add header-type-specific parsing for additional header types (Received, Message-Id, References) to the new 3.3 provisional policies.
 
@@ -38,16 +38,16 @@ In addition to the mailing lists, students interested in contributing to core Py
 
 - 1.3 Work on support for [RFC 6531](http://tools.ietf.org/html/rfc6531) in smtplib and/or smtpd.
 
-#### Email project mentors 
+##### Email project mentors 
 
 - R. David Murray
 - Antoine Pitrou
 
-### IDLE 
+#### IDLE 
 
 Don\'t spend your summer IDLE around the swimming pool spend your summer working on IDLE and make a difference. IDLE is Python\'s Integrated Development Environment (IDE) that is shipped with each Python release. Since IDLE ships with Python it is often the first IDE a new Python programmer uses. We want to make IDLE an awesome experience especially for people that are learning Python.
 
-#### Possible IDLE projects 
+##### Possible IDLE projects 
 
 - A unit test framework for Idle was created in the spring and summer of 2013. Some test modules created by 2013 GSOC students were created within the framework and are now part of Python\'s daily tests on multiple systems and versions. There is still much more to add. One priority project would be to add tests for existing tracker bug and enhancement issues. Another would be a non-buildbot human test to sequentially display every window and dialog to check that they do display without raising an exception and that they look \'correct\'.
 
@@ -63,7 +63,7 @@ Don\'t spend your summer IDLE around the swimming pool spend your summer working
 
 - Look at other Idle enhancement issues on the tracker. However, inquire first since not all ideas on the tracker will ever be accepted.
 
-#### IDLE project mentors 
+##### IDLE project mentors 
 
 - Terry Reedy
 - Tal Einat

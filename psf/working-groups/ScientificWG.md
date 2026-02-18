@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Scientific Python Working Group 
+## Scientific Python Working Group 
 
 *Note:* When creating new wiki pages related to this group, please use wiki subpages, e.g. BylawsWG/Charter.
 
-## Agenda 
+### Agenda 
 
 This working group shall draw on the expertise of both the PSF and NumFOCUS, and on the broader scientific Python community in general, to select the best use of its budgeted funds to advance the scope, breadth, and utility of Python for scientific work.  In essence, the purpose of the group is to grant funds allocated to it by the PSF towards conferences, user groups, educational, and development efforts.
 
-## Resources 
+### Resources 
 
 - As of 24Sep19, the Scientific WG has a yearly budget of \$30,000 USD
 
@@ -22,22 +22,22 @@ This working group shall draw on the expertise of both the PSF and NumFOCUS, and
 
 - [Scientific Python WG Charter](ScientificWG/Charter_v3) (updated 24Sep19)
 
-## Mailing List 
+### Mailing List 
 
 - [Scientific Python WG Mailing List](http://mail.python.org/mailman/listinfo/scientific)
 
   The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [DavidMertz](../people/DavidMertz) and [StefanVanDerWalt](../people/StefanVanDerWalt) are the list admins.
 
-## Discussions 
+### Discussions 
 
 Discussions will happen on the mailing list: [scientific@python.org](mailto:scientific@python.org).
 
-## Administration 
+### Administration 
 
 - David Mertz (co-chair)
 - Stefan van der Walt (co-chair)
 
-## Members (alphabetical by surname) 
+### Members (alphabetical by surname) 
 
 - Dana Bauer
 - Alexandre Fioravante de Siqueira
@@ -49,11 +49,11 @@ Discussions will happen on the mailing list: [scientific@python.org](mailto:scie
 - Anthony Scopatz
 - Carol Willing
 
-## Meetings 
+### Meetings 
 
 - TBA
 
-## Approved Grant Requests 
+### Approved Grant Requests 
 
 - (Approved 6/15/21) RESOLVED, that the Python Software Foundation Scientific Working Group grant 4000 USD to Layne Sadler to fund development work on the AIQC framework\'s support for time series preprocessing and analysis.
 
@@ -113,7 +113,7 @@ Discussions will happen on the mailing list: [scientific@python.org](mailto:scie
 
 - (Approved 8/20/15) RESOLVED, that the Python Software Foundation grant Brett Morris \$2,250 USD to travel to Google Summer of Code/PSF to present project \"astroplan\" at the .Astronomy conference in Sydney, Australia.
 
-## Budget 
+### Budget 
 
     | Date             | Description                                 | Debit | Credit |
     |------------------+---------------------------------------------+-------+--------|
@@ -133,7 +133,7 @@ Discussions will happen on the mailing list: [scientific@python.org](mailto:scie
     |------------------+---------------------------------------------+-------+--------|
     |                  | Total                                       |  2300 |        |
 
-## Budget History 
+### Budget History 
 
     | Date             | Description                   |    Debit |   Credit |
     |------------------+-------------------------------+----------+----------|

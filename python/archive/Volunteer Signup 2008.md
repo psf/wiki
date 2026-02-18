@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Archive of the volunteer sign-ups for 2008.
+## Archive of the volunteer sign-ups for 2008.
 
 Hello interested volunteer. Here\'s where you can find a role that fits your particular on-site volunteer talents. Volunteering at Pycon could possibly be the greatest thing you will ever do. Ever. To sign up, just edit this wiki page, including your name and email address in the spot you\'d like to volunteer for. In general, the things we\'re going to need people for are:
 
@@ -17,7 +17,7 @@ Hello interested volunteer. Here\'s where you can find a role that fits your par
 - Last minute helper mob
 
 ::: 
-### Registration Desk Volunteers
+#### Registration Desk Volunteers
 
 Volunteers are especially needed Thursday and Friday mornings, from 7:30am on. Even if you\'re attending a morning tutorial, you can help at the desk on Thursday morning. The registration desk is in the Atrium, beside the hotel pool.
 
@@ -44,7 +44,7 @@ Please include your **name**, your **email address**, and the **days and times y
 :::
 
 ::: 
-### Swag bag stuffers
+#### Swag bag stuffers
 
 **Update:** Bag stuffing is done. Thanks to everybody who helped!
 
@@ -69,7 +69,7 @@ Please include your **name**, your **email address**, and **when you plan to hel
 :::
 
 ::: 
-### Electrical cord tapers / untapers
+#### Electrical cord tapers / untapers
 
 **Update:** The team who are setting up A/V for us will be doing this for us too.
 
@@ -84,7 +84,7 @@ Please include your **name**, your **email address**, and **when you plan to hel
 :::
 
 ::: 
-### Last minute helper mob
+#### Last minute helper mob
 
 We\'ll probably need people here and there to help out, if we can call you or sms message you, that would be great. Sign up by following the [http://twitter.com/pyconvolunteers](http://twitter.com/pyconvolunteers) twitter channel. Calls for mob-like volunteer opportunities will go out as the need arises.
 

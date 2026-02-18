@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# General Information 
+## General Information 
 
 **Today** == Saturday, October 25, 2008
 
@@ -24,9 +24,9 @@ As they say: Your Mileage May Vary\... ![:)](/wiki/europython/img/smile.png ":)"
 
 -Larry Hale (pythonlarry ta gmail)
 
-# Software Used/Needed 
+## Software Used/Needed 
 
-## CygWin 
+### CygWin 
 
 version 2.573.2.3
 
@@ -45,7 +45,7 @@ May setup with all default settings, except ***MUST ADD***
   - make (3.81-2)
   - SWIG (1.3.36-1)
 
-## GnuWin32 - (Magic) \"File\" Utility 
+### GnuWin32 - (Magic) \"File\" Utility 
 
 version 4.26 (more recent than what was available via [CygWin](./CygWin.html) **Today**)
 
@@ -63,7 +63,7 @@ to simply
 
 **NOTE:** It\'s already set to install below \"Program Files\"
 
-## Python 
+### Python 
 
 version 2.5.2
 
@@ -73,7 +73,7 @@ Installed with all default settings EXCEPT install-to path
 
 - C:\\Program Files\\Python25
 
-## (Python) setuptools 
+### (Python) setuptools 
 
 version 0.6c9
 
@@ -89,7 +89,7 @@ and run
 
 Otherwise, if an installer is avail for your ver of Py, use it! ![:)](/wiki/europython/img/smile.png ":)")
 
-## python-magic
+### python-magic
 
 version \'0.1\' (c112ac064b7f) with/for SWIG
 
@@ -97,17 +97,17 @@ version \'0.1\' (c112ac064b7f) with/for SWIG
 
 **NOTE:** Adam (Hupp) doesn\'t have the SWIG version posted any longer; my copy isn\'t \"pristine\"; anybody have one lying around to send me? ![:)](/wiki/europython/img/smile.png ":)")
 
-# Configuration & Changes 
+## Configuration & Changes 
 
-## C:\\Program Files\\Python25\\Lib\\distutils 
+### C:\\Program Files\\Python25\\Lib\\distutils 
 
-### distutils.cfg
+#### distutils.cfg
 
 must have thiw file, with at least
 
 {{{\[build\] compiler = mingw32}}}
 
-### version.py
+#### version.py
 
 Due to newer [CygWin](./CygWin.html), change line 100 from
 
@@ -119,7 +119,7 @@ Due to newer [CygWin](./CygWin.html), change line 100 from
 
 }}}
 
-# Do The Installation Shuffle 
+## Do The Installation Shuffle 
 
 Go to where you\'ve put the python-magic source files, then:
 
@@ -127,9 +127,9 @@ Go to where you\'ve put the python-magic source files, then:
 
 python setup.py install}}}
 
-# Examples of Output You Might See 
+## Examples of Output You Might See 
 
-### No setuptools 
+#### No setuptools 
 
 {{{Traceback (most recent call last):
 
@@ -139,11 +139,11 @@ python setup.py install}}}
 
 [ImportError](./ImportError.html): No module named setuptools}}}
 
-### UNSUCCESSFUL build, due to no distutils.cfg compiler=mingw32 \"fix\" 
+#### UNSUCCESSFUL build, due to no distutils.cfg compiler=mingw32 \"fix\" 
 
 {{{running install running bdist_egg running egg_info creating magic.egg-info writing magic.egg-info\\PKG-INFO writing top-level names to magic.egg-info\\top_level.txt writing dependency_links to magic.egg-info\\dependency_links.txt writing manifest file \'magic.egg-info\\SOURCES.txt\' reading manifest file \'magic.egg-info\\SOURCES.txt\' writing manifest file \'magic.egg-info\\SOURCES.txt\' installing library code to build\\bdist.win32\\egg running install_lib running build_py copying magic.py -\> build\\lib.win32-2.5 copying cmagic.py -\> build\\lib.win32-2.5 running build_ext error: Python was built with Visual Studio 2003; extensions must be built with a compiler than can generate compatible binaries. Visual Studio 2003 was not found on this system. If you have Cygwin installed, you can try compiling with [MingW32](./MingW32.html), by passing \"-c mingw32\" to setup.py.}}}
 
-### UNSUCCESSFUL build, due to the new CygWin meets the OLD/default distutils\\version.py regex (line 100) 
+#### UNSUCCESSFUL build, due to the new CygWin meets the OLD/default distutils\\version.py regex (line 100) 
 
 {{{running install running bdist_egg running egg_info writing magic.egg-info\\PKG-INFO writing top-level names to magic.egg-info\\top_level.txt writing dependency_links to magic.egg-info\\dependency_links.txt reading manifest file \'magic.egg-info\\SOURCES.txt\' writing manifest file \'magic.egg-info\\SOURCES.txt\' installing library code to build\\bdist.win32\\egg running install_lib running build_py running build_ext Traceback (most recent call last):
 
@@ -172,7 +172,7 @@ etc., etc., etc. \...
 
 [ValueError](./ValueError.html): invalid version number \'2.18.50.20080625\'}}}
 
-### Successful Build 
+#### Successful Build 
 
 {{{running install running bdist_egg running egg_info writing magic.egg-info\\PKG-INFO writing top-level names to magic.egg-info\\top_level.txt writing dependency_links to magic.egg-info\\dependency_links.txt reading manifest file \'magic.egg-info\\SOURCES.txt\' writing manifest file \'magic.egg-info\\SOURCES.txt\' installing library code to build\\bdist.win32\\egg running install_lib running build_py running build_ext creating build\\bdist.win32 creating build\\bdist.win32\\egg copying build\\lib.win32-2.5\\cmagic.py -\> build\\bdist.win32\\egg copying build\\lib.win32-2.5\\magic.py -\> build\\bdist.win32\\egg copying build\\lib.win32-2.5\\\_cmagic.pyd -\> build\\bdist.win32\\egg byte-compiling build\\bdist.win32\\egg\\cmagic.py to cmagic.pyc byte-compiling build\\bdist.win32\\egg\\magic.py to magic.pyc creating stub loader for \_cmagic.pyd byte-compiling build\\bdist.win32\\egg\\\_cmagic.py to \_cmagic.pyc creating build\\bdist.win32\\egg\\EGG-INFO copying magic.egg-info\\PKG-INFO -\> build\\bdist.win32\\egg\\EGG-INFO copying magic.egg-info\\SOURCES.txt -\> build\\bdist.win32\\egg\\EGG-INFO copying magic.egg-info\\dependency_links.txt -\> build\\bdist.win32\\egg\\EGG-INFO copying magic.egg-info\\top_level.txt -\> build\\bdist.win32\\egg\\EGG-INFO writing build\\bdist.win32\\egg\\EGG-INFO\\native_libs.txt zip_safe flag not set; analyzing archive contents\... creating dist creating \'dist\\magic-0.1-py2.5-win32.egg\' and adding \'build\\bdist.win32\\egg\' to it removing \'build\\bdist.win32\\egg\' (and everything under it) Processing magic-0.1-py2.5-win32.egg Removing c:\\program files\\python25\\lib\\site-packages\\magic-0.1-py2.5-win32.egg Copying magic-0.1-py2.5-win32.egg to c:\\program files\\python25\\lib\\site-packages magic 0.1 is already the active version in easy-install.pth
 
@@ -180,11 +180,11 @@ Installed c:\\program files\\python25\\lib\\site-packages\\magic-0.1-py2.5-win32
 
 **NOTE:** Actually, this is what you\'ll see if you\'ve successfully RE-compiled\... but I digress\...
 
-# Usage Notes 
+## Usage Notes 
 
 {{{Python 2.5.2 (r252:60911, Feb 21 2008, 13:11:45) \[MSC v.1310 32 bit (Intel)\] on win32 Type \"help\", \"copyright\", \"credits\" or \"license\" for more information. \>\>\> import magic}}}
 
-## magic1.dll Not in Path 
+### magic1.dll Not in Path 
 
 FIRST: Windows msgbox with red-X icon and \[OK\] button:
 
@@ -200,15 +200,15 @@ THEN (back in interpreter): {{{Traceback (most recent call last):
 
 - **NOTE:** This is the same exact message (inside interpreter, NOT a Windows msgbox) that shows when I tried to use Py v2.6.
 
-## Successful Import/Use 
+### Successful Import/Use 
 
 {{{\>\>\> import magic \>\>\> test = magic.Magic() \>\>\> test.from_file( \'\\\\cygwin\\\\bin\\\\which.exe\' ) \'PE32 executable for MS Windows (console) Intel 80386 32-bit\'}}}
 
-## Magic (Compiled) Files Not in Path/Elsewhere 
+### Magic (Compiled) Files Not in Path/Elsewhere 
 
 {{{\>\>\> import magic \>\>\> test = magic.Magic( magic_file = \'C:\\\\magic\' ) \# NOTE: This is the full path+filename of the magic db file \>\>\> test.from_file( \'\\\\startrek.exe\' ) \'MS-DOS executable, MZ for MS-DOS\'}}}
 
-# File Location Information 
+## File Location Information 
 
 **DEFAULT/ASSUMED LOCATION FOR MAGIC DATABASE FILES IS** `C:\Program Files\File\share\file`
 

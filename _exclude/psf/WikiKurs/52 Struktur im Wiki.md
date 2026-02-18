@@ -10,9 +10,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)51(20)Anwendungen.html) Slide 27 of 27 \>\> \>\|
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Struktur im Wiki 
+## Struktur im Wiki 
 
-## Hierarchie-Ebenen 
+### Hierarchie-Ebenen 
 
 Viele konventionelle Webseiten verwenden weit verzweigte Baumstrukturen mit vielen Hierarchie-Ebenen.
 
@@ -24,7 +24,7 @@ Im Wiki wird sehr stark und gerne verlinkt. Der Einfachheit halber wird daher of
 
   ![(!)](/wiki/europython/img/idea.png "(!)") Unterseiten legt man einfach als `HauptSeite/UnterSeite`{.backtick} an.
 
-## Konventionen 
+### Konventionen 
 
 Wiki lässt den Benutzern viele Freiheiten - es gibt keine Eingabemasken wie bei Datenbankanwendungen, sondern man kann im Prinzip machen was man will und wie man es will.
 

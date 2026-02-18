@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Next IRC meeting 
+## Next IRC meeting 
 
 Tuesday, Nov. 1st
 
@@ -16,7 +16,7 @@ IRC server: irc.freenode.net
 
 IRC channel: #psf
 
-# Agenda 
+## Agenda 
 
 - Discussion of number of proposals received, and any resulting actions to take.
 - Tutorials: is the CFT OK? Take suggestions for people to contact.

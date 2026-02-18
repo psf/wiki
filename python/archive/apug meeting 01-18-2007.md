@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# APUG Meeting 01-18-2007 @ Enthought 
+## APUG Meeting 01-18-2007 @ Enthought 
 
 Wow, we had a bunch of people show up. Granted half of them were Enthought\'s minions, but we like them anyway. (Thanks for the pizza and room yall) The discussion focus mainly on Django, but there was also some talk around Python templating languages, ORMs and various JS toolkits.
 
 \
 
-## Presentation 
+### Presentation 
 
 Stephen discussed the simple eBusiness site that he recently put up using Django.
 
 \
 
-### Packages discussed 
+#### Packages discussed 
 
 [Django](http://www.djangoproject.com/) - The Web framework for perfectionists with deadlines
 
@@ -32,7 +32,7 @@ Stephen discussed the simple eBusiness site that he recently put up using Django
 
 \
 
-### Additional packages/sites mentioned 
+#### Additional packages/sites mentioned 
 
 [Genshi](http://genshi.edgewall.org/) - toolkit for stream-based generation of output for the web
 
@@ -40,7 +40,7 @@ Stephen discussed the simple eBusiness site that he recently put up using Django
 
 \
 
-## Add your name if you were there 
+### Add your name if you were there 
 
 (because I can\'t remember everybody)
 

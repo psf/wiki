@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Preparation and Tools 
+## Preparation and Tools 
 
 \* Checkout and build CPython:
 

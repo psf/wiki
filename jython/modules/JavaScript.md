@@ -9,7 +9,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 ![(!)](/wiki/modernized/img/idea.png "(!)") Print this page in PRINT mode (action=print) to get handouts.
 
 ::: 
-# Introduction 
+## Introduction 
 
 You can use all wiki markup for making your slides - just keep the following in mind:
 
@@ -27,7 +27,7 @@ You can use all wiki markup for making your slides - just keep the following in 
 :::
 
 ::: 
-# Creating the slides 
+## Creating the slides 
 
 Put a headline on top of your page (as you see above) because in DiaShow mode, the wiki page title won\'t be visible (as the whole wiki frame stuff won\'t be visible, only the page contents).
 

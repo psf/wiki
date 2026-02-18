@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Numeric and Scientific 
+## Numeric and Scientific 
 
 - [NumPy](NumPy) - [http://www.numpy.org/](http://www.numpy.org/) \-- Numerical Python adds a fast, compact, multidimensional array facility to Python. [NumPy](NumPy) is the successor to both Numeric and Numarray.
 
@@ -62,7 +62,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Quandl](./Quandl.html) - [https://www.quandl.com/tools/python](https://www.quandl.com/tools/python) \-- An API package to access [http://quandl.com](http://quandl.com) datasets, as well as upload data to Quandl.
 
-# Multi precision math 
+## Multi precision math 
 
 - [MultiprecisionSoftwareDirectory](./MultiprecisionSoftwareDirectory.html) ([http://crd.lbl.gov/\~dhbailey/mpdist/index.html](http://crd.lbl.gov/~dhbailey/mpdist/index.html)) - Python wrapping unknown
 
@@ -74,7 +74,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - clnum - [http://calcrpnpy.sourceforge.net/clnum.html](http://calcrpnpy.sourceforge.net/clnum.html) - Class Library For Numbers wrapping
 
-# The Grid 
+## The Grid 
 
 Grid is a type of parallel and distributed system that enables the sharing, selection, and aggregation of resources distributed across \"multiple\" administrative domains based on their (resources) availability, capability, performance, cost, and users\' quality-of-service requirements.
 
@@ -86,7 +86,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - [DIANE](https://twiki.cern.ch/twiki/bin/view/ArdaGrid/DIANE) - Python user-level middleware layer for Grids.
 
-# Geographic Information System (GIS), Mapping, Image Processing and Analysis 
+## Geographic Information System (GIS), Mapping, Image Processing and Analysis 
 
 - [Thuban](http://thuban.intevation.org/) is a Python Interactive Geographic Data Viewer with the following features:
 
@@ -98,7 +98,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - [sDNA](http://www.cardiff.ac.uk/sdna) is freeware spatial network analysis software developed by Cardiff university, and has a [Python API](http://www.cardiff.ac.uk/sdna/sdna-for-python-enthusiasts/).
 
-# Image analysis and visualization 
+## Image analysis and visualization 
 
 - Bokeh - [http://bokeh.pydata.org/](http://bokeh.pydata.org/) - is a Python interactive visualization library for large datasets that natively uses the latest web technologies.
 
@@ -124,7 +124,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - pyqtgraph - [http://luke.campagnola.me/code/pyqtgraph/](http://luke.campagnola.me/code/pyqtgraph/) - Pure-python graphics and GUI library for scientific/angineering applications based on [PyQt](../gui/PyQt) and numpy. This library provides fast plotting and image/video display, multidimensional image slicing, volumetric / isosurface rendering, interactive data manipulation tools, and a variety of Qt widgets including an editable property tree, visual programming flowchart, and gradient editor.
 
-# Life sciences 
+## Life sciences 
 
 - Biopython - [http://biopython.org/wiki/Main_Page](http://biopython.org/wiki/Main_Page) \-- a set of freely available tools for biological computation and bioinformatics. It includes [pycluster](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/cluster/software.htm#pycluster), a binding for the [Cluster](http://bonsai.ims.u-tokyo.ac.jp/~mdehoon/software/cluster/) software.
 
@@ -144,7 +144,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - [PyMol](./PyMol.html) - [http://www.pymol.org/](http://www.pymol.org/) \-- 3D molecular viewer, suitable (and widely used) for publications and presentations. Fully scriptable in Python.
 
-# Space Sciences 
+## Space Sciences 
 
 - [Astropy](http://astropy.org/) aims to develop a single core package for Astronomy in Python and foster interoperability between Python astronomy packages.
 
@@ -152,7 +152,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - [Spacepy](http://spacepy.lanl.gov/) is a set of Python-Based Tools for the Space Science Community.
 
-# Miscellaneous 
+## Miscellaneous 
 
 - [PyLink](./PyLink.html) is an open source Python module for interfacing with the [EyeLink](./EyeLink.html) eye tracking hardware. Find it at [PyLink](http://www.eyelinkinfo.com/mount_software.php)
 
@@ -168,7 +168,7 @@ Grid is a type of parallel and distributed system that enables the sharing, sele
 
 - [Backtesting.py](https://kernc.github.io/backtesting.py/) is a package for backtesting financial & trading strategies on historical OHLC(V) data.
 
-# Links 
+## Links 
 
 - [NumericAndScientific/Plotting](NumericAndScientific/Plotting) \--
 

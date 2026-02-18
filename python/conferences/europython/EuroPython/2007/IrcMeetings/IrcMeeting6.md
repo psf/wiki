@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #6 
+## IRC Meeting #6 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Monday 16th of April (2007-04-16) 18:00 CEST (17:00 BST, 16:00 UTC/GMT) in the #europython channel on freenode.net. *That\'s 5pm UK time, 6pm in most of Western Europe.* The suggested duration of the meeting is at most *one hour*.
 
-## Minutes 
+### Minutes 
 
 - Aiste will upload a hotel registration form for attendees into CPS.
 - People will collaborate on the mailing list or via program at europython.org on the missing theme descriptions.
@@ -28,7 +28,7 @@ The meeting will take place on Monday 16th of April (2007-04-16) 18:00 CEST (17:
 
   - Attendee materials/packages/bags could be produced, according to Aiste, but this is dependent on sponsorship demand and organiser interest: quotes for printing can only be sought if we know what we want to produce. Nicolas thought that some kind of programme might be useful.
 
-## Agenda 
+### Agenda 
 
 Suggestions:
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Extending Jython 
+## Extending Jython 
 
 [JythonFaq]()
 
 ------------------------------------------------------------------------
 
-## How do I create Java classes that emulate Jython Dictionaries and Sequences? 
+### How do I create Java classes that emulate Jython Dictionaries and Sequences? 
 
 In order to emulate Dictionaries and Sequences, first your Java class must \"extend\" the org.python.core.[PyObject](./PyObject.html) class. The following methods can then be defined on your class in order to emulate these basic Jython types:
 
@@ -32,7 +32,7 @@ Additionally, you might want to throw the org.python.core.Py.[KeyError](./KeyErr
 
 ------------------------------------------------------------------------
 
-## How do I emulate Jython object attribute access with a Java class? 
+### How do I emulate Jython object attribute access with a Java class? 
 
 You can develop your own Java class that emulates Jython objects by first extending the org.python.core.[PyObject](./PyObject.html) class. Then, implement the following methods on your Java class:
 
@@ -72,7 +72,7 @@ If you plan on storing functions as attributes of your Java object (so that you 
 
 ------------------------------------------------------------------------
 
-## How do I support \*args and \*\*kw in Java methods? 
+### How do I support \*args and \*\*kw in Java methods? 
 
 *(thanks to Finn Bock for the information)*
 

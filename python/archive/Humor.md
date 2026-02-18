@@ -38,7 +38,7 @@ Not so much a joke, but definitely a quirk known by the \"in\" crowd, The Zen of
     Namespaces are one honking great idea -- let's do more of those!
     >>> 
 
-# Media 
+## Media 
 
 there\'s the classic xkcd strip: [http://xkcd.com/353/](http://xkcd.com/353/)
 
@@ -46,7 +46,7 @@ More from xkcd:
 
 - [http://xkcd.com/413/](http://xkcd.com/413/)
 
-# General in-jokes 
+## General in-jokes 
 
 - The some-long-witty-comment-in-the-sign-off-ly-yours design pattern
 
@@ -59,13 +59,13 @@ More from xkcd:
     SyntaxError: not a chance
     >>>
 
-# Events 
+## Events 
 
-## The Parrot challenge (pie in the face at one pace) 
+### The Parrot challenge (pie in the face at one pace) 
 
 - [http://www.artima.com/forums/flat.jsp?forum=122&thread=27898](http://www.artima.com/forums/flat.jsp?forum=122&thread=27898)
 
-# See also 
+## See also 
 
 - [http://www.python.org/doc/humor/](http://www.python.org/doc/humor/)
 

@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Distutils Version comparison 
+## Distutils Version comparison 
 
-## Draft final proposal 
+### Draft final proposal 
 
 From Trent Mick,
 
@@ -41,9 +41,9 @@ There is also a `suggest_rational_version(s)`{.backtick} method that can be used
 
 Implementation : [verlib.py](attachments/Distutils(2f)VersionComparison/verlib.py)
 
-## Proposals 
+### Proposals 
 
-### Larry Hastings 
+#### Larry Hastings 
 
 Sorry for the crazy moon proposal here, but I have example code that I think even works. (Though I\'m not operating on enough sleep, so sorry \'cause I already know the code is crappy.) [lch.version.py](attachments/Distutils(2f)VersionComparison/lch.version.py)
 
@@ -61,7 +61,7 @@ I doubt y\'all will go for this. But I thought you should at least consider supp
 
 (Setuptools implements almost exactly what you\'ve described, except that it produces tuples that can be compared by the standard comparison operators; see pkg_resources.parse_version() \--PJE)
 
-#### Larry Hastings: Round 2\--Fight! 
+##### Larry Hastings: Round 2\--Fight! 
 
 You want strict? I can do *strict*. Peep dis, my homies. First we define a \"version number\".
 
@@ -134,7 +134,7 @@ When you compare two version tuples, for each sub-tuple:
 
 \@Larry: See \'Trent Mick\' section below for code that now does this (with the exception of allowing the \'\~\' and \'r\' aliases for \'dev\'). \--[TrentMick](./TrentMick.html)
 
-### Erik LaBianca 
+#### Erik LaBianca 
 
 Just throwing this out there since it\'s a little different from what was discussed earlier, but I think has some merit:
 
@@ -148,7 +148,7 @@ Pre-release versions are denoted by a version, followed by a string (I suggest \
 
 This obviously trades away the flexibility of roll-your-own naming entirely, but makes up for it by defining a standard that leaves enough flexibility to represent most cases easily. It is easy to parse and explain, extensible, and able to cover most use cases aside from that of \"backported bug fixes\". I believe that eliminating words will be a net positive because it eliminates any complaints along the lines of \"you included alpha, beta, and rc but where\'s pre-release or testing?!\".
 
-### Trent Mick 
+#### Trent Mick 
 
 **Code for the version format discussed at the second distutils open space (Sat evening): [verlib.py](attachments/Distutils(2f)VersionComparison/verlib.py)**
 
@@ -170,7 +170,7 @@ A link from [RubyGems](./RubyGems.html) that might be interesting:
 
 - Because [RubyGems](./RubyGems.html) provides support for version comparisons, we want to pick a policy that works well with the [RubyGems](./RubyGems.html) comparisons and gives the end user what they expect. We call such a policy "rational". Also, if we call non-working policies "irrational", then we apply a little bit of social engineering to gently prod offenders to conform.
 
-### Georg Brandl 
+#### Georg Brandl 
 
 I just spoke with Holger Krekel and we discussed an important point: when we reject a version number on upload, we should provide at least examples for valid version numbers, or even better, if the version can be automatically normalized like 0.5-alpha1 to 0.5a1, suggest that instead. Just saying \"it\'s irrational\" or pointing to the PEP (which will probably contain much more than version numbering specs) is not user-friendly.
 
@@ -178,7 +178,7 @@ Just nothing this here so that it doesn\'t get lost.
 
 \[I\'ve added that to my list. I already have some code for this when I was calculating some stats on the current pypi versions list. \--[TrentMick](./TrentMick.html)\]
 
-### Tom Crawley 
+#### Tom Crawley 
 
 The setuptools versioning scheme is described [here](http://peak.telecommunity.com/DevCenter/setuptools#specifying-your-project-s-version). It is pretty similiar to the schemes which have been proposed so far. The setuptools versioning scheme should meet most of our needs and has found wide acceptance in the community. Neither of the two current distuils versioning schemes are widely used. The setuptools versioning scheme is geared to the needs of developers who are the primary audience of distuils and provides a useful scheme for controlling software releases.
 
@@ -193,7 +193,7 @@ This would enable a version numbering scheme per packaging scheme and would also
 
 The idea put forward by Larry Hastings is an excellent method for converting pre-release and post release tags to a numeric based schema. It could be included as an example of tag scheme conversion from the setuptools versioning scheme to a completely numeric packaging scheme.
 
-### Dan Callahan 
+#### Dan Callahan 
 
 Rough sketch of an idea:
 
@@ -207,7 +207,7 @@ This simply and flexibly handles pre-release versioning. Post-releases are handl
 
 This is, in essence, the inverse of Loose Version in distutils \-- it handles pre-releases instead of post-releases, but still has room for \"non-standard\" annotations.
 
-### Matthias Klose 
+#### Matthias Klose 
 
 Pointing to the [version numbering scheme used by Debian](http://www.debian.org/doc/debian-policy/ch-controlfields.html#s-f-Version), which is in production use for many years. Pointing out some points:
 
@@ -229,7 +229,7 @@ Examples:
 
       3.1~~svn20090328 < 3.1~alpha1 < 3.1
 
-### Marc-Andre Lemburg 
+#### Marc-Andre Lemburg 
 
 The approach I\'d like to see is simple and avoids all complicated and error prone parsing of string versions:
 
@@ -250,7 +250,7 @@ Ideally, they should display the version string to the user and allow searches b
 
 \@Trent: Right, dependency definitions will need to use the tuple version, probably using a version matching function or instance, e.g. requires=[PythonPackage](./PythonPackage.html)(\'simplejson\', supported_versions=((3,0), (3,1))). Note that just specifying a minimum version is likely not going to provide a robust setup, e.g. \"simplejson \> 3.0.1\" would also match simplejson 4.0, but that may have a completely incompatible interface. \-- [MarcAndreLemburg](../../archive/MarcAndreLemburg)
 
-### Brian Sutherland 
+#### Brian Sutherland 
 
 This is more a statement of what we want/don\'t want than a specific implementation:
 
@@ -259,7 +259,7 @@ This is more a statement of what we want/don\'t want than a specific implementat
 - No special casing of certain words, i.e. \"pre\" or \"alpha\". i.e. A simple/reliable sorting that you can explain to people
 - A standard way to format the version number to fit on the filesystem
 
-### Toshio Kuratomi 
+#### Toshio Kuratomi 
 
 Something that could be important is specifying a meaning for the version numbers (especially the first three version numbers). Blessing something like Enthought\'s Versioning would have several advantages.
 
@@ -273,7 +273,7 @@ Something that could be important is specifying a meaning for the version number
 
 - If we ever get to the point where we use this consistently, we can write more intelligent import loaders that can use the MAJOR/MINOR version to load different versions automatically.
 
-### Kay Schluehr 
+#### Kay Schluehr 
 
 I basically like the initial versioning scheme proposed by Trent Mick and would just stick to it. However I wouldn\'t interpret too much into it. Version numbers are an incredibly poor way to express compatibility issues and they serve as a simplistic heuristics at best that is open to interpretation.
 

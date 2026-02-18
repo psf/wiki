@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Parallel Processing and Multiprocessing in Python 
+## Parallel Processing and Multiprocessing in Python 
 
 A number of Python-related libraries exist for the programming of solutions either employing multiple CPUs or multicore CPUs in a [symmetric multiprocessing (SMP)](http://en.wikipedia.org/wiki/Symmetric_multiprocessing) or shared memory environment, or potentially huge numbers of computers in a cluster or grid environment. This page seeks to provide references to the different libraries and solutions available.
 
-## Just In Time Compilation 
+### Just In Time Compilation 
 
 Some Python libraries allow compiling Python functions at run time, this is called Just In Time (JIT) compilation.
 
@@ -41,7 +41,7 @@ Some Python libraries allow compiling Python functions at run time, this is call
   - Thus, it allows converting Cython code to C code and compile it as a C python library that can be imported as a real python package
   - Cython also helps removing the GIL to parallelize code
 
-## Symmetric Multiprocessing 
+### Symmetric Multiprocessing 
 
 Some libraries, often to preserve some similarity with more familiar concurrency models (such as Python\'s threading API), employ parallel processing techniques which limit their relevance to SMP-based hardware, mostly due to the usage of process creation functions such as the UNIX fork system call. However, a technique called process migration may permit such libraries to be useful in certain kinds of computational clusters as well, notably [single-system image](http://en.wikipedia.org/wiki/Single-system_image) cluster solutions ([Kerrighed](http://kerrighed.org/), [OpenSSI](http://sourceforge.net/projects/ssic-linux), [OpenMosix](http://openmosix.sourceforge.net/) being examples).
 
@@ -82,7 +82,7 @@ Some libraries, often to preserve some similarity with more familiar concurrency
 
 Advantages of such approaches include convenient process creation and the ability to share resources. Indeed, the fork system call permits efficient sharing of common read-only data structures on modern UNIX-like operating systems.
 
-## Cluster Computing 
+### Cluster Computing 
 
 Unlike SMP architectures and especially in contrast to thread-based concurrency, cluster (and grid) architectures offer high scalability due to the relative absence of shared resources, although this can make the programming paradigms seem somewhat alien to uninitiated developers. In this domain, some overlap with other distributed computing technologies may be observed (see [DistributedProgramming](../packaging/DistributedProgramming) for more details).
 
@@ -178,7 +178,7 @@ Unlike SMP architectures and especially in contrast to thread-based concurrency,
 
 - [torcpy](https://github.com/IBM/torc_py) - a platform-agnostic adaptive load balancing library that orchestrates the scheduling of task parallelism on both shared and distributed memory platforms. It takes advantage of MPI and multithreading, supports parallel nested loops and map functions and task stealing at all levels of parallelism.
 
-## Cloud Computing 
+### Cloud Computing 
 
 Cloud computing is similar to cluster computing, except the developer\'s compute resources are owned and managed by a third party, the \"cloud provider\". By not having to purchase and set up hardware, the developer is able to run massively parallel workloads cheaper and easier.
 
@@ -192,7 +192,7 @@ Cloud computing is similar to cluster computing, except the developer\'s compute
 
 - [StarCluster](http://web.mit.edu/stardev/cluster) - is a cluster-computing toolkit for the [AWS cloud](http://aws.amazon.com/). [StarCluster](http://web.mit.edu/stardev/cluster) has been designed to simplify the process of building, configuring, and managing clusters of virtual machines on Amazon's EC2 cloud. It allows you to easily create one or more clusters, add/remove nodes to a running cluster, easily build new AMIs, easily create and format new EBS volumes, write plugins in python to customize cluster configuration, and much more. See [StarCluster\'s documentation](http://web.mit.edu/stardev/cluster/docs/latest) for more details.
 
-## Grid Computing 
+### Grid Computing 
 
 - [Ganga](http://ganga.web.cern.ch/ganga/) - an interface to the Grid that is being developed jointly by the ATLAS and LHCb experiments at CERN.
 
@@ -202,7 +202,7 @@ Cloud computing is similar to cluster computing, except the developer\'s compute
 
 - [pyGlobus](http://www.python.org/pypi/pyGlobus) - see the [Python Core](http://dev.globus.org/wiki/Python_Core) project for related software
 
-## Related Projects 
+### Related Projects 
 
 - [Hydra File System](http://content.cs.luc.edu/projects/comp412/hydrafs) - a distributed file system
 
@@ -210,11 +210,11 @@ Cloud computing is similar to cluster computing, except the developer\'s compute
 
 - [Tahoe: a secure, decentralized, fault-tolerant filesystem](http://allmydata.org/source/tahoe/trunk/docs/about.html)
 
-## Trove classifiers 
+### Trove classifiers 
 
 [Topic :: System :: Distributed Computing](http://pypi.python.org/pypi?:action=browse&show=all&c=450)
 
-## Editorial Notes 
+### Editorial Notes 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new frameworks or tools.
 

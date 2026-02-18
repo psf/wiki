@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #8 
+## IRC Meeting #8 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Monday 30th April (2007-04-30) 18:00 CEST (17:00 BST, 16:00 UTC/GMT) in the #europython channel on freenode.net. *That\'s 5pm UK time, 6pm in most of Western Europe.* The suggested duration of the meeting is at most *one hour*.
 
-## Minutes 
+### Minutes 
 
 - Keynotes
   - We agreed that Simon Willison would do one of the keynotes. David will contact him with the details. Laura will field questions about logistics (travel, accommodation, etc.) as necessary.
@@ -34,7 +34,7 @@ The meeting will take place on Monday 30th April (2007-04-30) 18:00 CEST (17:00 
 - Promotion
   - Additional Zope promotion is underway in order to get more submissions from that scene.
 
-## Agenda 
+### Agenda 
 
 Suggestions:
 
@@ -64,7 +64,7 @@ Suggestions:
 
   - Registration is supposed to open *very soon*, so some idea of fees needs to materialise quickly.
 
-## Notes 
+### Notes 
 
 The things that need to be decided are mostly to do with finance and, by extension, sponsorship. If there\'s a formula to use to decide how much sponsors will be charged and how much attendees will pay, we need to start assigning values to some of the variables as soon as possible.
 

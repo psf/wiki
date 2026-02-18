@@ -6,23 +6,23 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# BangPypers 
+## BangPypers 
 
 [![http://mail.python.org/mailman/listinfo/bangpypers](http://bangpypers.sourceforge.net/bpug.png "http://mail.python.org/mailman/listinfo/bangpypers")](http://mail.python.org/mailman/listinfo/bangpypers)
 
-# Website 
+## Website 
 
 [http://bangalore.python.org.in/](http://bangalore.python.org.in/)
 
-# Mailing List 
+## Mailing List 
 
 [http://mail.python.org/mailman/listinfo/bangpypers](http://mail.python.org/mailman/listinfo/bangpypers)
 
-# Meetup Page 
+## Meetup Page 
 
 [https://www.meetup.com/bangpypers](https://www.meetup.com/bangpypers)
 
-# Frequently Asked Questions 
+## Frequently Asked Questions 
 
 - [BangPypers/PythonEditors](../editors/BangPypers/PythonEditors)
 
@@ -30,7 +30,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [BangPypers/PresentationTopics](BangPypers/PresentationTopics)
 
-# PyCon India 
+## PyCon India 
 
 - [PyConIndiaSpeakerNotes](../conferences/pycon/PyConIndiaSpeakerNotes)
 
@@ -54,21 +54,21 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [PyConIndiaFlyer](../conferences/pycon/PyConIndiaFlyer)
 
-## Ideation 
+### Ideation 
 
 - [ProposalForPyConIndia](../archive/ProposalForPyConIndia)
 
-# Meetings 
+## Meetings 
 
-## IRC LOGS 
+### IRC LOGS 
 
 - [All IRC logs are available here](http://wiki.python.org/moin/BangPypers/IRCLogs)
 
-## Upcoming Meetings 
+### Upcoming Meetings 
 
 - [BangPypers/Meeting25July2009](BangPypers/Meeting25July2009)
 
-## Earlier Meetings 
+### Earlier Meetings 
 
 - [BangPypers/Meeting03May2009](BangPypers/Meeting03May2009)
 
@@ -86,7 +86,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [BangPypers/BoFatFossInBangalore](BangPypers/BoFatFossInBangalore) (what happend to this meeting ?)
 
-## Social 
+### Social 
 
 - [Facebook](https://www.facebook.com/bangpypers)
 

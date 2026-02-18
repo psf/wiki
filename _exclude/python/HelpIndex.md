@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Help Index 
+## Help Index 
 
 The following is a list of all available help pages. For a more in-depth index of help contents, please see [HelpContents](HelpContents).
 

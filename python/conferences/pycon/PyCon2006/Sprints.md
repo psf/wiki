@@ -14,41 +14,41 @@ To register a new sprint, just edit this page and add your sprint, listing yours
 
 If you have any questions about sprinting at [PyCon](../PyCon), please send email to the Sprint Coordinator, [David Goodger](mailto:goodger@python.org).
 
-# Logistics 
+## Logistics 
 
 - Rooms: To be decided. Time: Starting 8 am Monday (intro session from 3:30 pm Sunday) Date: Monday February 27 through Thursday March 2 inclusive. Cost to attend: Free! Bring: Your laptop and a wireless card. IRC: #pycon-sprints on irc.freenode.net, or as listed below
 
-# Preparations 
+## Preparations 
 
 Because the sprints are after the formal conference, all the sprint attendees will likely be present at the start of the sprints. Sprint coaches should plan for an introductory session on Sunday afternoon or Monday morning, where you can help attendees get started. This might involve helping them to get SVN or CVS installed, find the development tree, talk about the software\'s architecture, or planning what the four-day sprint will try to accomplish.
 
 If the introductory session is on Sunday, you should plan to begin around 3:30PM.
 
-## Free Wing IDE licenses 
+### Free Wing IDE licenses 
 
 For sprinters that would like a free license for Wing IDE Professional, please see Stephan Deibel or John Ehresman either at the sprint plenary Sunday 3:35 PM in Preston Trail or during the sprinting days.
 
-# Sprints 
+## Sprints 
 
-## Django 
+### Django 
 
 - Goal: Same thing we do every night, Pinky Coach: Jacob Kaplan-Moss
 
   Details: [/DjangoSprint](Sprints/DjangoSprint)
 
-## Zope 
+### Zope 
 
 - Goals: Integrate more of Zope 3 into Zope 2, improved through-the-web management, \... Coach: Jim Fulton (jim at zope.com)
 
   Details: [http://dev.zope.org/Zope3/PyCon2006Sprint](http://dev.zope.org/Zope3/PyCon2006Sprint) IRC: #zope3-dev
 
-## Stackless 
+### Stackless 
 
 - Goal: to port Stackless to Python 2.4.2 Coach: Christian Tismer
 
   Details: [/StacklessSprint](Sprints/StacklessSprint)
 
-## Docutils (reStructuredText) 
+### Docutils (reStructuredText) 
 
 - Goal: add functionality, fix bugs, and facilitate applications
 
@@ -56,25 +56,25 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
   Details: [/DocutilsSprint](Sprints/DocutilsSprint) IRC: #docutils
 
-## Python Core 
+### Python Core 
 
 - Goal: add functionality, fix bugs, and facilitate applications Coach: Brett Cannon
 
   Details: [/PythonCore](Sprints/PythonCore)
 
-## TurboGears 
+### TurboGears 
 
 - Goal: add functionality, resolve tricky bugs and facilitate applications Coach: Kevin Dangoor
 
   Details: [/TurboGearsSprint](Sprints/TurboGearsSprint)
 
-## PyPy 
+### PyPy 
 
 - Goal: work in any area of interest of [PyPy](../../../implementations/PyPy) Coach: Michael Hudson, Armin Rigo, Holger Krekel
 
   Details: [/PyPySprint](Sprints/PyPySprint)
 
-## Pydotorg rollout 
+### Pydotorg rollout 
 
 - Goal: Rest of content conversion for [http://beta.python.org](http://beta.python.org) and make it live on python.org on or before March 5th
 
@@ -82,7 +82,7 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
   Details: [/PydotorgSprint](Sprints/PydotorgSprint)
 
-## Conference software 
+### Conference software 
 
 - Goal: work on a unified conference software system for [PyCon](../PyCon)
 
@@ -90,7 +90,7 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
   Details: [/ConferenceSprint](Sprints/ConferenceSprint)
 
-## pymon and CoyMon 3 
+### pymon and CoyMon 3 
 
 - Goal: release pymon 0.3.4 (monitoring server written in Twisted), work on component parts of [CoyMon](./CoyMon.html) 3 including [PyFlowCatch](./PyFlowCatch.html) and PyRRD (where we\'re building a Twisted RRDTool server)
 
@@ -102,7 +102,7 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
   IRC: #adytum
 
-## Chandler 
+### Chandler 
 
 - Goal: work on any area of interest in Chandler
 
@@ -110,7 +110,7 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
   Details: [http://wiki.osafoundation.org/bin/view/Journal/PyCon2006](http://wiki.osafoundation.org/bin/view/Journal/PyCon2006) IRC: #chandler
 
-## vobject
+### vobject
 
 - Goal: add hCalendar, hCard, and xCalendar support to vobject
 
@@ -118,7 +118,7 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
   Details: [/VobjectSprint](Sprints/VobjectSprint)
 
-## MySQL 
+### MySQL 
 
 - Goal: Finish up MySQLdb-1.2.1 and ZMySQLDA-2.0.9
 
@@ -130,15 +130,15 @@ For sprinters that would like a free license for Wing IDE Professional, please s
 
   Cost to Attend: Sanity (optional)
 
-## Array Interface Sprint 
+### Array Interface Sprint 
 
 - Goal: Adding a [SciPy](SciPy) inspired Array Interface to the Python Core
 
   Details: [/ArrayInterfaceSprint](Sprints/ArrayInterfaceSprint)
 
-# Introduction 
+## Introduction 
 
-## What is a sprint? 
+### What is a sprint? 
 
 A sprint is a focused development session, in which developers pair in a room and focus on building a particular subsystem. A sprint is organized with a coach leading the session. The coach sets the agenda, tracks activities, and keeps the development moving. The developers often work in pairs using XP\'s pair programming approach.
 
@@ -146,7 +146,7 @@ The sprint approach works best when the first few hours are spent getting orient
 
 [ZopeMag\'s miniGuide to Zope Sprinting](http://www.zopemag.com/Guides/miniGuide_ZopeSprinting.html) is a good introductory article; just mentally remove every \"Zope\" from the article to make it generic.
 
-## Why sprint at PyCon? 
+### Why sprint at PyCon? 
 
 The sprints are intended to benefit various projects, and to encourage more people to take part in development. They will also be a good place to see [ExtremeProgramming](../../../people/ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced Python developers.
 
@@ -154,7 +154,7 @@ The sprints are intended to benefit various projects, and to encourage more peop
 
 If you wish to participate in a sprint, please contact the sprint organizers in advance, or add your name to the list of participants for a given sprint.
 
-## What equipment/supplies will sprints get? 
+### What equipment/supplies will sprints get? 
 
 [PyCon](../PyCon) will supply the following:
 
@@ -166,11 +166,11 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
 [PyCon](../PyCon) does *not* supply food for the sprint days. Participants will have to go to [PyCon2006/NearbyRestaurants](NearbyRestaurants), or have food delivered to the hotel.
 
-## Who makes this possible? 
+### Who makes this possible? 
 
 The [Python Software Foundation](http://www.python.org/psf) sponsors the sprints at [PyCon2006](). Please consider making a [donation](http://www.python.org/psf/donations.html) to support this vital community activity!
 
-## IRC 
+### IRC 
 
 If you cannot attend the sprints in person but would still like to follow the progress and/or participate, you can, via IRC (irc.freenode.net) or other means, as listed above. The #pycon-sprints channel can be used for general sprint-related traffic.
 

@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **Note:** This page does not accurately reflect the intention of the conference organisers. Please go to the [conference site](http://indico.cern.ch/conferenceProgram.py?confId=13919) for more accurate information.
 
-# Refereed Papers 
+## Refereed Papers 
 
 Ever since the International Python Conference (IPC) stopped running as a separate event, the Python world has lacked a properly prestigious peer-reviewed forum for presenting technical and scientific papers. This track aims to fill that gap.
 
@@ -18,19 +18,19 @@ You can read more about the process of submitting a paper to this track here.
 
 The track chairs are XX (in 2006 : Armin Rigo and Carl Friedrich Bolz).
 
-# Python in Science 
+## Python in Science 
 
 Talks with this theme will focus on the use of Python in science and industry, where tasks include modelling complex systems (thermics, fluid dynamics, mechanics, aeronautics, biology, chemistry, etc.), processing very large data sets and performing very CPU-intensive and long calculations efficiently. Speakers will present tool sets, frameworks and examples of successful applications based on Python and integrated with the other usual tools and applications used in the field.
 
 The track chair is XX (in 2006 : Nicolas Chauvat)
 
-# Python Language and Libraries 
+## Python Language and Libraries 
 
 A theme centred on \"Python the Language\" with all batteries included. Suitable for consideration within this theme are talks about the language, language evolution, patterns and idioms, implementations (CPython, [IronPython](../../../../implementations/IronPython), Jython, [PyPy](../../../../implementations/PyPy), CLPython, [ShedSkin](./ShedSkin.html), and especially any new ones presented for the first time) along with implementation issues and attempts to port Python implementations to new or novel devices. Talks about the standard library or interesting third-party libraries (and frameworks) are also welcome, unless the talks would fit better into one of the other themes.
 
 The track chair is XX (in 2006 : Samuele Pedroni)
 
-# Agile Development 
+## Agile Development 
 
 Agility in software development is a key issue for more and more software projects, both in the Free (and Open Source) Software domain and in the proprietary software domain. By \"agility\" we mean both:
 
@@ -45,13 +45,13 @@ Talks with this theme could target the following topics:
 
 The track chairs are XX (in 2006 : Holger Krekel, Beatrice Düring and Aiste Kesminaite)
 
-# Web Related Technologies 
+## Web Related Technologies 
 
 Python\'s role in implementing Web applications and solutions continues to evolve, revealing new success stories and a continuous stream of new tools and projects. As with last year\'s conference, talks traditionally part of the Zope track will take place alongside other Web-related talks as part of a wider Web technologies theme. Join us as we hear about success stories, new ideas about Web programming, and the potential for increased collaboration between projects in the Web domain.
 
 The track chairs are XX (in 2006 : Paul Everitt and Godefroid Chapelle)
 
-# Business and Applications 
+## Business and Applications 
 
 This is where [EuroPython](..) thinks outside our Python community - about the applications we have written for ordinary people and businesses, and about how we\'ve sold them to the outside world.
 
@@ -68,7 +68,7 @@ If you have any questions about how you can contribute to this track, please con
 
 The track chairs are XX ( in 2006: John Pinner and Harald Armin Massa)
 
-# Education and Teaching 
+## Education and Teaching 
 
 *The following is a modified version of the description from 2006.* \-- [DavidBoddie](../../../../people/DavidBoddie)
 
@@ -80,7 +80,7 @@ All people who are using Python in a teaching environment are welcome.
 
 The track chair is XX ([NicolasPettiaux](../../../../people/NicolasPettiaux) volunteers for 2007; in 2006 : Laura Creighton)
 
-# Games and Entertainment 
+## Games and Entertainment 
 
 Games have always provided a compelling motivation for people new to computing and computers to enter the field, often inspiring them to go on and design and implement new games and other forms of entertainment systems. Python provides such people, as well as experienced developers, with a platform to develop anything from simple puzzle games and \"retro\" arcade games through to three dimensional action games and massive multiplayer online gaming systems.
 
@@ -90,13 +90,13 @@ However, not all the tools that people use for writing games end up being used t
 
 The track chair is XX (in 2006 : Michael Sparks)
 
-# Misfits 
+## Misfits 
 
 So you don\'t think your talk fits into any of the existing tracks? Talk to me, and we will see what we can do. Many of the past years best talks (as evaluated by the attendees) first showed up as misfits, so do not feel shy, just mail me.
 
 The track chair is XX ( in 2006 : Laura Creighton)
 
-# Lightning Talks 
+## Lightning Talks 
 
 Lightning Talks are short (5 minutes) talks about any subject you fancy. This year we\'ll be having a session of Lightning Talks at the end of each day. Some relevance to Python or Zope or maybe just computers would be preferred, but is hardly essential! Many Lightning Talks will be arranged at the conference, but you can sign up for one in advance too.
 
@@ -104,7 +104,7 @@ Please note that giving a Lightning Talk does not qualify you for the reduced en
 
 The track chair is XX ( in 2006 : ? )
 
-# Social Skills 
+## Social Skills 
 
 *The following is a suggestion for a missing theme description.* \-- [DavidBoddie](../../../../people/DavidBoddie)
 

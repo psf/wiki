@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Membership Model Visualization 
+## Membership Model Visualization 
 
 The newly proposed PSF membership model is a great idea and the echo from the PSF members is overwhelmingly positive.
 

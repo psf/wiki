@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Possible Topics 
+## Possible Topics 
 
 - Implementing PEPs
   - PEP 328 absolute/relative import
@@ -43,7 +43,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - Implement final decision on outputting integers in different bases
 - rewrite setup.py
 
-# Attendees 
+## Attendees 
 
 - Brett Cannon
 - Thomas Wouters

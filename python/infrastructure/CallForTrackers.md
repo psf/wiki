@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# About 
+## About 
 
 Python Software Foundation\'s Infrastructure commitee put out a call for trackers (bug/request/issue/ticket trackers) in June 2006 in order to evaluate alternatives to [SourceForge](http://sourceforge.net/tracker/?group_id=5470) for use by the Python development team. A copy of that request can be found at [OriginalCallForTrackers](../archive/OriginalCallForTrackers).
 

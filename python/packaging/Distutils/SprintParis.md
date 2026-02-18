@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Distutils Sprint 27/30 january 2010 
+## Distutils Sprint 27/30 january 2010 
 
-## Participants 
+### Participants 
 
 - Add your name:
 - Tarek (28/30)
@@ -31,19 +31,19 @@ There is room for about 15 people.
 
 Hackers from montreal-python will be joining us on saturday (cf [http://montrealpython.org/2011/01/packaging-sprint-11/](http://montrealpython.org/2011/01/packaging-sprint-11/))
 
-## sprint goals 
+### sprint goals 
 
 - the install/remove scripts
 - polishing Distutils2 for the next alpha release (fixing bugs)
 - many other things...
 
-## requirement
+### requirement
 
 Tarek will do a rehearsal of his Pycon 2011 talk, as an introduction to packaging and Distutils2.
 
 The sprint is open to anyone, but there will be no introduction to Python, TDD or sprinting and we expect participants to know those.
 
-## Hosting 
+### Hosting 
 
 The sprint is hosted by [Logilab](http://logilab.org):
 
@@ -64,7 +64,7 @@ The office will be open:
 
 For additional information please [contact us](http://www.logilab.org/Card/ContactUs)
 
-## hotel
+### hotel
 
 People sprinting in our office usually use:
 

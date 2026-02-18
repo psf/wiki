@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# A Python Graph API? 
+## A Python Graph API? 
 
 This wiki page is a resource for some brainstorming around the possibility of a Python Graph API in the form of an informational PEP, similar to [PEP 249, the Python DB API](http://www.python.org/peps/pep-0249.html). The goal would be, in other words, to define how a graph (or various kinds of graphs) would be expected to behave (possibly from different perspectives) in order to increase interoperability among graph algorithms. [The numeric array interface](http://numeric.scipy.org/array_interface.shtml), recently developed by the Numeric Python community to increase interoperability between array-handling software, illustrates the general idea.
 
@@ -16,7 +16,7 @@ This is not about plotting; for a definition of the kind of graph we\'re talking
 
 If you have interest in this, please feel free to add your ideas here. If you\'d like to be named as a contributor in the case that some \"standard\" should emerge, please add your name to the list of contributors. (You might also want to create a user name and log in when doing changes, or possibly just state your name when you edit stuff, so one can see who did what.)
 
-## A simple use-case 
+### A simple use-case 
 
 Just to illustrate the point of this discussion, here is a simple example:
 
@@ -28,9 +28,9 @@ This ideal world scenario would only be possible, though, if some abstract graph
 
 Note that the goal is *not* to implement a specific graph representation or a set of graph algorithms. The goal is only to mediate between developers of the two.
 
-## Preliminary ideas 
+### Preliminary ideas 
 
-### General thoughts 
+#### General thoughts 
 
 Ideas so far include basing the API on the standard notion of using adjacency maps (such as dicts of neighbor lists), as described in [Guido\'s well-known essay](http://www.python.org/doc/essays/graphs.html) and used in [these examples by David Eppstein](http://www.ics.uci.edu/~eppstein/PADS), and using object adaptation (through the adapt() function, as described in [PEP 246](http://www.python.org/peps/pep-0246.html) and as used in [PyProtocols](http://peak.telecommunity.com/PyProtocols.html)) to allow access to graphs through various perspectives (such as adjacency maps, incidence maps, adjacency arrays, edge lists\...). This would also allow graphs implementations with completely different interfaces to be adapted to a standard interface, and thus be used by generic graph algorithms.
 
@@ -70,7 +70,7 @@ Bruno Preiss offers a very complete but somewhat unPythonic Graph type as part o
 
 One possible underlying technology for graphs would be adjacency matrices using [numarray](http://www.stsci.edu/resources/software_hardware/numarray). This approach would need to use sparse matrices to be practical for large graphs. The following library uses the numpy array and sparse scipy matrix for adjacency matrices: [Another Python Graph Library](http://sourceforge.net/projects/apythongraphlib/).
 
-### Add your ideas here (Go wild, folks\...) 
+#### Add your ideas here (Go wild, folks\...) 
 
 \- I think that the graph representation should be a redundant one, that allows the fast traversals, quick node, edge and neighbour lookups as well as fast iterations over all nodes or all edges. This will of course come at the expense of storage and/or graph initialization efficieny. For example in the python graph representation mentioned above (modeled after LEDA) the nodes and the edges are stored in a separate dictionaries. Each edge_id maps to a tuple of the head_id and the tail_id (the nodes) that form the edge. (Edge_ids are automatically created as they are added.) At the same time each node_id maps to a tuple of two lists corresponding to incoming and outgoing edges. *(Istvan)*
 
@@ -110,7 +110,7 @@ The nodes/edges could be arbitrary python objects. Besides just allowing python\
 
 The graph api should be graph-class agnositc. That is, it should not care if the graph is a connected, disconnected, directed, undirected, etc. It should only care about vertex and edge properties, other than adjacency, where a callback can be provided to account for the property\'s selection. I\'ll provide a proposal in the section below. *(jconnor)*
 
-### Specifics 
+#### Specifics 
 
 *Put potential specifics here, that is, what functionality an API must cover. For now, it is completely permissible to have mutually exclusive items here, as nothing is anywhere near fixed yet.*
 
@@ -239,7 +239,7 @@ I would leave it to the graph implementors to provide a set of comparison callab
 
 I believe that the majority of graph algorithms can be implemented with this interface. *(jconnor)*
 
-# Vertices and Edges as Separate Objects 
+## Vertices and Edges as Separate Objects 
 
 1\. I think a **Vertex** and an **Edge** as objects are meaninful and useful. One should be able to create v1=Vertex(1) and v2=Vertex(2) and then e12=Edge(v1,v2). Then do G.add_edge(e12), which should be no different than doing G.add_vertex(v1); G.add_vertex(v2); G.add_edge(e12). In this respect this is a departure from the NetworkX idea of using integers as nodes and 2-tuples of integers as edges, having the user map back and forth between nodes and data.
 
@@ -255,15 +255,15 @@ I believe that the majority of graph algorithms can be implemented with this int
 
 7\. In a graph implementation of mine, I also have the possibility to specify generic n-edges (edges involving 3 or more vertexes) and for reification (specifying additional information about an edge) *(Stefano Borini)*
 
-# Hypergraphs 
+## Hypergraphs 
 
 \- As far as hypergraphs are concerned, a hypergraph is equivalent to a bi-partite graph, with two different set of nodes. One represents the regular nodes, the other a set of edges (\<- these are not edges of the Graph itself, but separate Edge(s) created earlier. So it is probably not necessary to include a separate mechanism for hypergraphs. *(Nick V.)*
 
-# GraphABC 
+## GraphABC 
 
 Matteo Dell\'Amico wrote [GraphABC](http://www.linux.it/~della/GraphABC/), a proposal for a graph Abstract Base Class. Please comment!
 
-# Graph decoration 
+## Graph decoration 
 
 \- The graph in itself contains just topology, but it would be nice to add data containers associated to the graph, to describe vertexes, edges, n-edges and the graph itself. *(Stefano Borini)*
 
@@ -271,11 +271,11 @@ Matteo Dell\'Amico wrote [GraphABC](http://www.linux.it/~della/GraphABC/), a pro
 
 Although not directly related to the graph API, but a storage shelf for descripted graphs would be useful as well. *(Stefano Borini)*
 
-## The Principle of Least Surprise 
+### The Principle of Least Surprise 
 
 The API for sets (see [PEP 218](http://www.python.org/dev/peps/pep-0218/)) was initially designed by looking at the terminology used in two classic texts ([Aho, Hopcroft, and Ullman](http://www.amazon.com/Data-Structures-Algorithms-Alfred-Aho/dp/0201000237/) and [Sedgwick](http://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080/)). Since most programmers learn about graphs from books like that, how about picking a couple of current data structures textbooks and using their terms and (implicit) APIs as a starting point? It might also short circuit otherwise-interminable arguments\-\--we agree in advance that if most books do X, the API should do X. Alternatively, we could just do whatever Magnus does in [his new book](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/1430232374/).
 
-## Contributors 
+### Contributors 
 
 (*Add your name to this list if you contribute.*)
 

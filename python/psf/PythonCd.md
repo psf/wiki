@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Welcome to your Python CD! 
+## Welcome to your Python CD! 
 
 ::: {}
 +-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 +-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-# Contents of the Python CD 
+## Contents of the Python CD 
 
 - [PythonCdDocs](PythonCdDocs) - lots of documentation (read them ![;)](/wiki/europython/img/smile4.png ";)") )
 
@@ -30,7 +30,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [PythonCdContributors](PythonCdContributors) - hall of fame ![;)](/wiki/europython/img/smile4.png ";)")
 
-# Online ressources 
+## Online ressources 
 
 - [PythonCdDownload](PythonCdDownload) - how to get the PythonCd from the internet
 

@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #7 
+## IRC Meeting #7 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode at 19:00 CET on Friday 21st March.
 
-## Present 
+### Present 
 
 Laura, David, Paul, Lennart, John, Samuel, Marius, Jacob, Zeth, Christian.
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Talks/Themes
   - *We decided the basic ground rules for themes and the durations of talks in the last meeting.*
@@ -84,7 +84,7 @@ Laura, David, Paul, Lennart, John, Samuel, Marius, Jacob, Zeth, Christian.
   - Sprints
   - Keynotes
 
-## Actions 
+### Actions 
 
 - **John, Paul, Zeth:**
 

@@ -8,17 +8,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 #pragma section-numbers off
 
-# aeve
+## aeve
 
 aeve is a near-complete rewrite of the Apple Event support (gensuitemodule, etc.) for Python. It\'s extremely pythonic and easy to use, but it\'s chattier than doing it \"raw\" and currently does not support any kind of asynchronous mode. This is normally not an issue, but I\'m looking into adding that sort of stuff. The version posted below is a work in progress, your mileage may vary. I\'d like to hear from you if you do anything with it, especially if you have any contributions (bugfixes, example code, etc.), problems or suggestions. Note that it\'s only going to work in Python 2.3 or later.
 
-# status
+## status
 
 aeve is currently at its fourth public release, 0.0.3.
 
-# examples
+## examples
 
-## iChat + Jaguar Mail 
+### iChat + Jaguar Mail 
 
 :::: 
 ::: 
@@ -43,7 +43,7 @@ aeve is currently at its fourth public release, 0.0.3.
 :::
 ::::
 
-## iCal 
+### iCal 
 
 :::: 
 ::: 
@@ -67,11 +67,11 @@ aeve is currently at its fourth public release, 0.0.3.
 :::
 ::::
 
-# homepage
+## homepage
 
 [http://undefined.org/python/#aeve](http://undefined.org/python/#aeve)
 
-# known issues 
+## known issues 
 
 Not compatible with:
 
@@ -82,7 +82,7 @@ Hard to do:
 
 - the make command (with_properties, specifically)
 
-# see also 
+## see also 
 
 - [../AppleScript](AppleScript)
 

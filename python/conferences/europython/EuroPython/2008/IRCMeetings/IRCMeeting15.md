@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #15 
+## IRC Meeting #15 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode at 18:00 CEST on Thursday 12th June.
 
 Please look at the minutes from the last meeting for more background information: [../IRCMeeting14](IRCMeeting14)
 
-## Present 
+### Present 
 
 David, Jacob, John, Laura, Lennart, Samuele
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Registration/Budget - status
   - **158 delegates**
@@ -53,6 +53,6 @@ David, Jacob, John, Laura, Lennart, Samuele
 
 - food - any updates, costs, etc.
 
-## Actions 
+### Actions 
 
 - See the bold sections above\...

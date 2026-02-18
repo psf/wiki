@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Painting an overlay on an image 
+## Painting an overlay on an image 
 
 On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `hugo___`{.backtick} asked for a way to paint an overlay onto an image.
 

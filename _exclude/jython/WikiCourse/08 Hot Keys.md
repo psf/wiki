@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)08(20)Hot(20)Keys.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)07(20)The(20)text(20)editor.html) Slide 8 of 27 [\>\>](./WikiCourse(2f)10(20)Text(20)layout(20)with(20)wiki(20)markup.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Hot keys 
+## Hot keys 
 
 The usual hot keys work in the editor:
 
@@ -26,7 +26,7 @@ The usual hot keys work in the editor:
 
 - Ctrl + Y for *repeat* (available only in case of no other edits occur since last *undo*)
 
-# Mouse 
+## Mouse 
 
 Of course you can also select with the mouse and use your browser\'s editing features.
 

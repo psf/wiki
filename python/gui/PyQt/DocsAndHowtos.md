@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Links for PyQt4 
+## Links for PyQt4 
 
-## Documentation 
+### Documentation 
 
 - [PyQt4 documentation](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/) and [API Reference](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/classes.html)
 
@@ -18,13 +18,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [The independent Qt tutorial](http://www.digitalfanatics.org/projects/qt_tutorial/)
 
-## Howtos & Articles 
+### Howtos & Articles 
 
 - [A spatial file manager with PyQt, by well-known Roberto Alsina](http://lateral.netmanagers.com.ar/stories/29.html)
 
 - [Custom widgets using PyQt, by Roberto Alsina](http://lateral.netmanagers.com.ar/stories/27.html)
 
-### Configuring and Installing PyQt 
+#### Configuring and Installing PyQt 
 
 - [Mac OS X Installation Notes](Mac_OS_X_Installation_Notes)
 
@@ -32,15 +32,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [PyQt4 with PostgreSQL Installation Notes (Windows)](PyQt4_with_PostgreSQL_Installation_Notes_(Windows))
 
-### Deployment 
+#### Deployment 
 
 - [Deploying PyQt Applications](Deploying_PyQt_Applications)
 
 - [Modular PyQt deployment with PyInstaller](Modular_PyQt_deployment_with_PyInstaller) - how to distribute only the subset of [PyQt]() really needed by an application
 
-# Links for PyQt (for Qt 3) 
+## Links for PyQt (for Qt 3) 
 
-## Howtos & Articles 
+### Howtos & Articles 
 
 - [PyBrowser: A nicer QTextBrowser, by Roberto Alsina](http://www.pycs.net/lateral/stories/17.html) ([google cache](http://209.85.135.104/search?q=cache:EkZlbts0ma4J:lateral.netmanagers.com.ar/stories/17.html+PyBrowser:+A+nicer+QTextBrowser,+by+Roberto+Alsina&hl=de&ct=clnk&cd=1&gl=ch&client=firefox-a))
 

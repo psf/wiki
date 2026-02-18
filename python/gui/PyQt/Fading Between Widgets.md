@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Fading Between Widgets 
+## Fading Between Widgets 
 
 This example was written in response to a [message on the Python-list mailing list](http://www.riverbankcomputing.com/pipermail/pyqt/2009-August/024066.html). It shows how to implement a stacked widget that fades between widgets on different pages.
 

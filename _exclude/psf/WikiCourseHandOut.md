@@ -11,13 +11,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html?action=print&media=projection) [\^](WikiCourse) \|\< \<\< Slide 1 of 27 [\>\>](./WikiCourse(2f)02(20)Finding(20)information.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# What is a wiki? 
+## What is a wiki? 
 
 A wiki (also called WikiWiki or WikiWikiWeb) is a collection of websites, which not only can be read, but can also be edited by the users directly and simply. *wikiwiki* is Hawaiian and means \"fast\".
 
 The first WikiWikiWeb was developed and put into operation by Ward Cunningham in 1995. The idea of editable content in the World Wide Web dates from the original ideas of the inventor of the World Wide Web, Tim Berners-Lee.
 
-## The wiki-way 
+### The wiki-way 
 
 - open and cooperative: on many sites, everyone may change everything.
 
@@ -31,7 +31,7 @@ The first WikiWikiWeb was developed and put into operation by Ward Cunningham in
 
 - flexible: in a wiki you can save many kinds of information, e. g. training courses, transparency lectures and brainstorming.
 
-# What is MoinMoin? 
+## What is MoinMoin? 
 
 [MoinMoin](MoinMoin) is software to run a wiki.
 
@@ -43,11 +43,11 @@ It is available under the GPL and implemented in the programming language Python
   [Slideshow](./WikiCourse(2f)02(20)Finding(20)information.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) Slide 2 of 27 [\>\>](./WikiCourse(2f)03(20)Staying(20)up(20)to(20)date.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Finding information 
+## Finding information 
 
 MoinMoin has many ways to find information in the wiki:
 
-## Searching 
+### Searching 
 
 - **Search field in the navigation area on the top of the page**
 
@@ -64,7 +64,7 @@ MoinMoin has many ways to find information in the wiki:
 
 You can find further information on the help page [HelpOnSearching](HelpOnSearching).
 
-## Navigation in the wiki 
+### Navigation in the wiki 
 
 - [RecentChanges](RecentChanges): The latest changes made to the wiki.
 
@@ -76,7 +76,7 @@ You can find further information on the help page [HelpOnSearching](HelpOnSearch
   [Slideshow](./WikiCourse(2f)03(20)Staying(20)up(20)to(20)date.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)02(20)Finding(20)information.html) Slide 3 of 27 [\>\>](./WikiCourse(2f)04(20)Creating(20)a(20)wiki(20)account.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Staying up to date 
+## Staying up to date 
 
 In a wiki, lots of things can change in a short time, since anyone can edit, add, or remove pages at any time.
 
@@ -98,7 +98,7 @@ Listed for every change is:
   [Slideshow](./WikiCourse(2f)04(20)Creating(20)a(20)wiki(20)account.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)03(20)Staying(20)up(20)to(20)date.html) Slide 4 of 27 [\>\>](./WikiCourse(2f)05(20)User(20)preferences.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Creating a wiki account 
+## Creating a wiki account 
 
 Using a wiki is often possible without creating an account (this depends on the security preferences).
 
@@ -136,7 +136,7 @@ The account will be created and you can log in to the wiki using your user name 
   [Slideshow](./WikiCourse(2f)05(20)User(20)preferences.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)04(20)Creating(20)a(20)wiki(20)account.html) Slide 5 of 27 [\>\>](./WikiCourse(2f)06(20)Your(20)own(20)wiki(20)homepage.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# User preferences 
+## User preferences 
 
 After account creation and login, you can change your user preferences and [settings](./WikiCourse(2f)05(20)User(20)preferences.html?action=userprefs) (click on the link Settings at the top of the page).
 
@@ -154,7 +154,7 @@ Then click on the **Save** button at the bottom of the page.
   [Slideshow](./WikiCourse(2f)06(20)Your(20)own(20)wiki(20)homepage.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)05(20)User(20)preferences.html) Slide 6 of 27 [\>\>](./WikiCourse(2f)07(20)The(20)text(20)editor.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Your own wiki homepage 
+## Your own wiki homepage 
 
 After creating an account you can see your own name in the navigation area, which is linked to a page of the same title: your personal homepage!
 
@@ -170,7 +170,7 @@ You can change this template, give an optional comment, and then save the page b
   [Slideshow](./WikiCourse(2f)07(20)The(20)text(20)editor.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)06(20)Your(20)own(20)wiki(20)homepage.html) Slide 7 of 27 [\>\>](./WikiCourse(2f)08(20)Hot(20)Keys.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# The text editor 
+## The text editor 
 
 We just met it while creating your own homepage: the text-based editor of [MoinMoin](MoinMoin). You are, of course, not limited to only using it for that, because you can also use it to change any other page in the wiki.
 
@@ -196,7 +196,7 @@ Further information can be found at [HelpOnEditing](HelpOnEditing).
   [Slideshow](./WikiCourse(2f)08(20)Hot(20)Keys.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)07(20)The(20)text(20)editor.html) Slide 8 of 27 [\>\>](./WikiCourse(2f)10(20)Text(20)layout(20)with(20)wiki(20)markup.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Hot keys 
+## Hot keys 
 
 The usual hot keys work in the editor:
 
@@ -212,7 +212,7 @@ The usual hot keys work in the editor:
 
 - Ctrl + Y for *repeat* (available only in case of no other edits occur since last *undo*)
 
-# Mouse 
+## Mouse 
 
 Of course you can also select with the mouse and use your browser\'s editing features.
 
@@ -224,11 +224,11 @@ Of course you can also select with the mouse and use your browser\'s editing fea
   [Slideshow](./WikiCourse(2f)10(20)Text(20)layout(20)with(20)wiki(20)markup.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)08(20)Hot(20)Keys.html) Slide 9 of 27 [\>\>](./WikiCourse(2f)11(20)Paragraphs.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Text layout with wiki markup 
+## Text layout with wiki markup 
 
 [MoinMoin](MoinMoin) does *not* simply use HTML (the *HyperText Markup Language* usually used for websites), but its own, simplified **MoinMoin Wiki Markup Language**, [MoinMoin](MoinMoin)\'s convention for the input of content^[1](#WikiCourse.2F10_Text_layout_with_wiki_markup.fnref-a7f3cb2912f4b8b7a459cd862b9cb07cedbfb921)^.
 
-## HTML 
+### HTML 
 
     <h1>Headline</h1>
     <p>This is a link to my own homepage: <a href="/FirstnameLastname">FirstnameLastname</a></p>
@@ -239,7 +239,7 @@ Of course you can also select with the mouse and use your browser\'s editing fea
     </ul>
     </p>
 
-## MoinMoin wiki 
+### MoinMoin wiki 
 
     = Headline =
     This is a link to my own homepage: FirstnameLastname
@@ -258,7 +258,7 @@ Of course you can also select with the mouse and use your browser\'s editing fea
   [Slideshow](./WikiCourse(2f)11(20)Paragraphs.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)10(20)Text(20)layout(20)with(20)wiki(20)markup.html) Slide 10 of 27 [\>\>](./WikiCourse(2f)12(20)Headlines.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Paragraphs 
+## Paragraphs 
 
 The simplest way to enter text into a wiki is similar to doing so in a a word processor.
 
@@ -266,7 +266,7 @@ You just start writing. ![:)](/wiki/europython/img/smile.png ":)")
 
 The only anomaly is that you have to hit \"enter\" *twice* for a paragraph:
 
-## Input in the editor form 
+### Input in the editor form 
 
     First paragraph.
     Still first paragraph.
@@ -275,7 +275,7 @@ The only anomaly is that you have to hit \"enter\" *twice* for a paragraph:
 
     Third paragraph.
 
-## Display 
+### Display 
 
 First paragraph. Still first paragraph.
 
@@ -283,15 +283,15 @@ Second paragraph.
 
 Third paragraph.
 
-# Dividing rules 
+## Dividing rules 
 
-## Input 
+### Input 
 
     First part.
     ----
     Second part.
 
-## Display 
+### Display 
 
 First part.
 
@@ -305,22 +305,22 @@ Second part.
   [Slideshow](./WikiCourse(2f)12(20)Headlines.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)11(20)Paragraphs.html) Slide 11 of 27 [\>\>](./WikiCourse(2f)13(20)Lists.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Headlines 
+## Headlines 
 
-## Input 
+### Input 
 
     = First headline level with =-character =
     == Second ==
     === Third ===
     ... (up to "Fifth")
 
-## Display 
+### Display 
 
-# First headline level with =-character 
+## First headline level with =-character 
 
-## Second 
+### Second 
 
-### Third 
+#### Third 
 
 \... (up to \"Fifth\")
 
@@ -336,18 +336,18 @@ Second part.
   [Slideshow](./WikiCourse(2f)13(20)Lists.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)12(20)Headlines.html) Slide 12 of 27 [\>\>](./WikiCourse(2f)14(20)Text(20)styles.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Lists 
+## Lists 
 
-## Bulleted 
+### Bulleted 
 
-### Input 
+#### Input 
 
     My pets:
      * Dog
      * Cat
       * Mouse
 
-### Display 
+#### Display 
 
 My pets:
 
@@ -355,16 +355,16 @@ My pets:
 - Cat
   - Mouse
 
-## Numbered 
+### Numbered 
 
-### Input 
+#### Input 
 
     To do:
      1. Feed dog
      1. Feed cat
       1. Let out mouse
 
-### Display 
+#### Display 
 
 To do:
 
@@ -384,7 +384,7 @@ There are more examples of lists at [HelpOnLists](HelpOnLists).
   [Slideshow](./WikiCourse(2f)14(20)Text(20)styles.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)13(20)Lists.html) Slide 13 of 27 [\>\>](./WikiCourse(2f)15(20)Tables.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Text styles 
+## Text styles 
 
 ::: {}
   ------------------------------------- ---------------------------------
@@ -406,9 +406,9 @@ There are more examples of lists at [HelpOnLists](HelpOnLists).
   [Slideshow](./WikiCourse(2f)15(20)Tables.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)14(20)Text(20)styles.html) Slide 14 of 27 [\>\>](./WikiCourse(2f)16(20)Wiki(20)internal(20)links.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Tables 
+## Tables 
 
-## Simplest table 
+### Simplest table 
 
      || one || two || three ||
      || four || five || six ||
@@ -420,7 +420,7 @@ There are more examples of lists at [HelpOnLists](HelpOnLists).
     ------ ------ -------
   :::
 
-## General table layout 
+### General table layout 
 
      ||||||<tablewidth="80%">'''Headline'''||
      ||Cell 1||Cell 2||Cell 3||
@@ -439,7 +439,7 @@ There are more examples of lists at [HelpOnLists](HelpOnLists).
   +-----------+--------+--------+
   :::
 
-## Cell width 
+### Cell width 
 
      || Narrow ||<:99%> Broad ||
 
@@ -449,7 +449,7 @@ There are more examples of lists at [HelpOnLists](HelpOnLists).
     -------- -------
   :::
 
-## Spanning rows and columns 
+### Spanning rows and columns 
 
      ||<|2> 2 lines || line 1 ||
      || line 2 ||
@@ -465,7 +465,7 @@ There are more examples of lists at [HelpOnLists](HelpOnLists).
   +-----------------------------+
   :::
 
-## Alignment 
+### Alignment 
 
      ||<(50%> left ||<^|3> up ||<v|3> down ||
      ||<:> mid ||
@@ -481,7 +481,7 @@ There are more examples of lists at [HelpOnLists](HelpOnLists).
   +-------+----+------+
   :::
 
-## Colors 
+### Colors 
 
      ||<#FF0000> red ||<#00FF00> green ||<#0000FF> blue ||
 
@@ -497,37 +497,37 @@ There are more examples of lists at [HelpOnLists](HelpOnLists).
   [Slideshow](./WikiCourse(2f)16(20)Wiki(20)internal(20)links.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)15(20)Tables.html) Slide 15 of 27 [\>\>](./WikiCourse(2f)17(20)External(20)links.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Wiki internal links 
+## Wiki internal links 
 
 One of the most important features of the wiki is the internal linking to other wiki pages, therefore it is quite simple.
 
-## WikiNames (\"CamelCase\") 
+### WikiNames (\"CamelCase\") 
 
 If you WriteWordsTogether like FistnameLastname or [CamelCase](CamelCase) or [MoinMoin](MoinMoin), so that there are at least two changes between capital letters and lower case letters, [MoinMoin](MoinMoin) will automatically link this word to the page of the same name.
 
 This is quite simple, because wiki markup isn\'t necessary. But the unusual syntax isn\'t everyone\'s cup of tea, so there is one more alternative, the so-called \"free link\".
 
-### Input 
+#### Input 
 
     CamelCase !CamelCaseButNotLinked
 
-### Display 
+#### Display 
 
 [CamelCase](CamelCase) CamelCaseButNotLinked
 
-## Free links 
+### Free links 
 
 If you want to link pages, which aren\'t in [CamelCase](CamelCase) or if you just don\'t like [CamelCase](CamelCase), you can also link this way:
 
-### Input 
+#### Input 
 
     A [[free link]] and [[other page|another page]].
 
-### Display 
+#### Display 
 
 A [free link](./free(20)link.html) and [another page](./other(20)page.html).
 
-# Tracing backwards from links 
+## Tracing backwards from links 
 
 If you click on the page name in the navigation area, the wiki looks for pages which link to this page name.
 
@@ -545,11 +545,11 @@ This can be used for so-called wiki badges. You just write somewhere:
   [Slideshow](./WikiCourse(2f)17(20)External(20)links.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)16(20)Wiki(20)internal(20)links.html) Slide 16 of 27 [\>\>](./WikiCourse(2f)18(20)Attachments.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# External links 
+## External links 
 
 You can, of course, also link to external content on the internet.
 
-## Input 
+### Input 
 
     http://example.net/
 
@@ -559,7 +559,7 @@ You can, of course, also link to external content on the internet.
 
     {{http://static.moinmo.in/logos/moinmoin.png}}
 
-## Display 
+### Display 
 
 [http://example.net/](http://example.net/)
 
@@ -577,17 +577,17 @@ You can, of course, also link to external content on the internet.
   [Slideshow](./WikiCourse(2f)18(20)Attachments.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)17(20)External(20)links.html) Slide 17 of 27 [\>\>](./WikiCourse(2f)19(20)Symbols.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Attachments 
+## Attachments 
 
 With [MoinMoin](MoinMoin) you can directly append files to a wiki page.
 
-## Input 
+### Input 
 
     [[attachment:letter.txt]]
 
     {{attachment:foto.jpg}}
 
-## Display 
+### Display 
 
 [letter.txt](attachments/WikiCourse(2f)18(20)Attachments/letter.txt)
 
@@ -611,7 +611,7 @@ Further informations on [HelpOnActions/AttachFile](./HelpOnActions(2f)AttachFile
   [Slideshow](./WikiCourse(2f)19(20)Symbols.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)18(20)Attachments.html) Slide 18 of 27 [\>\>](./WikiCourse(2f)20(20)Dynamic(20)content.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Symbols 
+## Symbols 
 
 [MoinMoin](MoinMoin) also supports some graphical symbols, like the so called *smileys* that frequently appear in e-mails and chats:
 
@@ -641,19 +641,19 @@ For more see [HelpOnSmileys](HelpOnSmileys).
 
 ![(!)](/wiki/europython/img/idea.png "(!)") *The following four chapters are about advanced details. If you don\'t care about this, you can just [skip](./WikiCourse(2f)30(20)The(20)graphical(20)editor.html) them.*
 
-# Dynamic content 
+## Dynamic content 
 
 [MoinMoin](MoinMoin) is built in a quite modular way, so its functions are expandable by using plug-ins. Macros, parsers, actions, etc. can either be built-in, included, or installed as a plug-in.
 
-## Macros 
+### Macros 
 
 A macro is entered as wiki markup and it processes a few parameters to generate an output, which is displayed in the content area.
 
-## Parsers 
+### Parsers 
 
 A parser is entered as wiki markup and it processes a few parameters and a multiline block of text data to generate an output, which is displayed in the content area.
 
-## Actions 
+### Actions 
 
 An action is mostly called using the menu (or a macro) and generates a complete HTML page on its own.
 :::
@@ -663,11 +663,11 @@ An action is mostly called using the menu (or a macro) and generates a complete 
   [Slideshow](./WikiCourse(2f)21(20)Macros.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)20(20)Dynamic(20)content.html) Slide 20 of 27 [\>\>](./WikiCourse(2f)22(20)Parsers.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Macros 
+## Macros 
 
 A macro is called using \"`<<macroname(parameter)>>`{.backtick}\". Parameters vary from macro to macro and are sometimes not used.
 
-## Input 
+### Input 
 
     <<TableOfContents>>
     ----
@@ -677,7 +677,7 @@ A macro is called using \"`<<macroname(parameter)>>`{.backtick}\". Parameters va
     ----
     A certain moment - world wide: <<DateTime(2006-01-26T23:03:25Z)>>
 
-## Display 
+### Display 
 
 ------------------------------------------------------------------------
 
@@ -718,16 +718,16 @@ A certain moment - world wide: 2006-01-26 23:03:25
   [Slideshow](./WikiCourse(2f)22(20)Parsers.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)21(20)Macros.html) Slide 21 of 27 [\>\>](./WikiCourse(2f)23(20)Actions.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Parsers 
+## Parsers 
 
-## Input 
+### Input 
 
      {{{#!highlight python
      def hello(name):
          print "Hello %s" % name
      }}}
 
-## Display 
+### Display 
 
 :::: 
 ::: 
@@ -744,7 +744,7 @@ A certain moment - world wide: 2006-01-26 23:03:25
   [Slideshow](./WikiCourse(2f)23(20)Actions.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)22(20)Parsers.html) Slide 22 of 27 [\>\>](./WikiCourse(2f)30(20)The(20)graphical(20)editor.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Actions 
+## Actions 
 
 Some examples of built-in actions:
 
@@ -762,7 +762,7 @@ Some examples of built-in actions:
   [Slideshow](./WikiCourse(2f)30(20)The(20)graphical(20)editor.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)23(20)Actions.html) Slide 23 of 27 [\>\>](./WikiCourse(2f)40(20)Creating(20)more(20)pages.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# The graphical editor 
+## The graphical editor 
 
 As an alternative to the input of wiki markup using the simple text editor, [MoinMoin](MoinMoin) also offers a graphical WYSIWYG (what you see is what you get) editor, which is similar to usual word processing.
 
@@ -787,7 +787,7 @@ Disadvantages of the GUI editor are that it:
   [Slideshow](./WikiCourse(2f)40(20)Creating(20)more(20)pages.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)30(20)The(20)graphical(20)editor.html) Slide 24 of 27 [\>\>](./WikiCourse(2f)50(20)Wiki(20)etiquette.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Creating more pages 
+## Creating more pages 
 
 The easiest and best way to create more pages is to:
 
@@ -814,7 +814,7 @@ The easiest and best way to create more pages is to:
   [Slideshow](./WikiCourse(2f)50(20)Wiki(20)etiquette.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)40(20)Creating(20)more(20)pages.html) Slide 25 of 27 [\>\>](./WikiCourse(2f)51(20)Applications.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Wiki etiquette 
+## Wiki etiquette 
 
 It is important that in public wikis, where many people work together (that often don\'t know each other), you always act benevolently to others, as long as no one has acted in the opposite way to you.
 
@@ -830,11 +830,11 @@ The personal homepage should normally be considered as \"property\" of the parti
   [Slideshow](./WikiCourse(2f)51(20)Applications.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)50(20)Wiki(20)etiquette.html) Slide 26 of 27 [\>\>](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Applications 
+## Applications 
 
 A wiki is usable for number of applications. There are few requirements to use it and the content can be anything. You can use it for everything that can be displayed by linked text pages.
 
-## Examples 
+### Examples 
 
 - personal notes (instead of wasting paper)
 - conference protocols
@@ -852,9 +852,9 @@ A wiki is usable for number of applications. There are few requirements to use i
   [Slideshow](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)51(20)Applications.html) Slide 27 of 27 \>\> \>\|
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Structure in the wiki 
+## Structure in the wiki 
 
-## Hierarchy levels 
+### Hierarchy levels 
 
 Many conventional websites use very branched structures with many hierarchy levels.
 
@@ -866,7 +866,7 @@ In wikis linking is heavily used. A simpler structure is often used to simplify 
 
   ![(!)](/wiki/europython/img/idea.png "(!)") Sub pages are named as `MainPage/SubPage`{.backtick}
 
-## Conventions 
+### Conventions 
 
 A wiki gives much freedom to the users; there aren\'t input masks like in database applications, but you can, in principle, do whatever you want and do it however you want.
 

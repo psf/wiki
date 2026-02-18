@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Development of python.org Website to promote and inform about python 
+## Development of python.org Website to promote and inform about python 
 
 **Note:** This proposal was funded and completed. See [PythonWebsite](../infrastructure/PythonWebsite) for information on ongoing content and tool development for the python.org website.
 
@@ -77,7 +77,7 @@ Managing Director
 
 ------------------------------------------------------------------------
 
-# APPENDIX - Details of YAML page generation 
+## APPENDIX - Details of YAML page generation 
 
 The following is a draft example of how the YAML template data files would look. The example is based on the home page of the site and is consequently more complex than typical pages would be. This does demonstrate the flexibility of the proposed system however.
 

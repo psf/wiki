@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Category: Asking for Help 
+## Category: Asking for Help 
 
 This is the category for pages created as questions for the [Asking for Help](./Asking(20)for(20)Help.html) page. Pages in this category should appear automatically in the list of questions.
 
-## Pages in this category 
+### Pages in this category 
 
 ::: searchresults
 1.  [Asking for Help/\'break\' outside loop](./Asking(20)for(20)Help(2f27)break(2720)outside(20)loop.html?highlight=%28%5CbCategoryAskingForHelp%5Cb%29)

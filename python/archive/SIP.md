@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# SIP 
+## SIP 
 
 SIP is a tool for quickly writing Python modules that interface with C++ and C libraries. Its home page is at [http://riverbankcomputing.co.uk/software/sip/intro](http://riverbankcomputing.co.uk/software/sip/intro). It was written by Phil Thompson who is still actively maintaining it.
 
@@ -20,7 +20,7 @@ For earlier versions of SIP, a simple wrapper written in C++ was usually necessa
 
 ------------------------------------------------------------------------
 
-## More Details 
+### More Details 
 
 SIP is really the combination of four components.
 
@@ -47,13 +47,13 @@ sip has changed from version to version. I\'m using python 2.2 and sip 3.0pre7. 
 
 ------------------------------------------------------------------------
 
-## ViM Syntax Script 
+### ViM Syntax Script 
 
 Jonathan Gardner has written an incomplete sip syntax script. You can use it when you are writing a sip script with the ViM editor.
 
 [http://vim.sourceforge.net/scripts/script.php?script_id=659](http://vim.sourceforge.net/scripts/script.php?script_id=659)
 
-## Tutorials & additional docs staff 
+### Tutorials & additional docs staff 
 
 Googling the web on SIP tutorials brought up
 

@@ -23,9 +23,9 @@ Please send email to:
 
 [jython-monthly@mchsi.com](mailto:jython-monthly@mchsi.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# Articles 
+## Articles 
 
-## Accessing Jython from Java Without Using Jythonc 
+### Accessing Jython from Java Without Using Jythonc 
 
 [http://wiki.python.org/jython/JythonMonthly/Articles/September2006/1](http://wiki.python.org/jython/JythonMonthly/Articles/September2006/1)
 
@@ -161,7 +161,7 @@ This technique is powerful because it allows an application to use code which ca
 
 Next time you plan to create a Java application that contains some Jython code, give this technique a try\...
 
-## Closures in Jython - Simple Example 
+### Closures in Jython - Simple Example 
 
 [http://wiki.python.org/jython/JythonMonthly/Articles/September2006/2](http://wiki.python.org/jython/JythonMonthly/Articles/September2006/2)
 
@@ -205,7 +205,7 @@ Of course, you can format the output to suit the needs of your application. As o
 
 Now, hopefully you can appreciate the beauty of closures a bit more!
 
-# Off The Lists 
+## Off The Lists 
 
 **Charlie Groves on the Possible Future of Jythonc:**
 
@@ -224,29 +224,29 @@ I was wondering if there was a way I could inspect the arguments of a member fun
      for a in obj.methodName.argslist:
         print a.data
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Who\'s Using Jython? 
+## Who\'s Using Jython? 
 
 [Open-source reunion organizer Gather uses a Jython installer](http://gather.sourceforge.net)
 
 [Open Jump - An open source GIS software written in Java](http://openjump.org/wiki/show/HomePage)
 
-# Jython Blogs 
+## Jython Blogs 
 
 Jython Operator Overloading - [http://pauloherrera.wordpress.com/2006/08/24/operator-overloading-in-java-using-jython/](http://pauloherrera.wordpress.com/2006/08/24/operator-overloading-in-java-using-jython/)
 
 Java isn\'t just Python without the cool language features - [http://rollerweblogger.org/roller/entry/java_isn_t_just_python](http://rollerweblogger.org/roller/entry/java_isn_t_just_python)
 
-# Interesting Facts 
+## Interesting Facts 
 
 New Benchmark Suite Offering Jython Benchmarks (inteprets a the pybench Python benchmark) - [http://www.dacapobench.org/](http://www.dacapobench.org/)
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Useful Links 
+## Useful Links 
 
 ::: {}
   ----------------------------------------------------------------

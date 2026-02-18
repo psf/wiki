@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Coordination pages 
+## Coordination pages 
 
 for the Python Documentation Team (see also [DocTools](../people/DocTools)).
 
@@ -16,6 +16,6 @@ for the Python Documentation Team (see also [DocTools](../people/DocTools)).
 
 - [/Committers](DocsCoordination/Committers) \-- who can commit changes to SVN
 
-### Archive 
+#### Archive 
 
 - [/Welcome](DocsCoordination/Welcome) \-- welcome email with first steps, useful info has been merged to separate Wiki pages

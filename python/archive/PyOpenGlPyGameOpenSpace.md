@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyOpenGL / PyGame OpenSpace 
+## PyOpenGL / PyGame OpenSpace 
 
-## Organizer 
+### Organizer 
 
 Mike Fletcher, PyOpenGL maintainer
 
-## Attendees 
+### Attendees 
 
 Tim Sharpe, Jeff Epler, Chris Hagner, Thomas Shaw, Robert Ippolito, Shawn Wheatley, Michael Cornelius
 
-## Notes 
+### Notes 
 
 The initial attendees were mostly there as \"listeners\". They were interested in [PyGame](../multimedia/PyGame) and PyOpenGL, but didn\'t have a lot of experience. Bob Ippolito was roped into talking to us. He has used [PyGame](../multimedia/PyGame) as the framework for simulations \-- not for gaming.
 
@@ -28,7 +28,7 @@ Chris Hagner has also played around with [PyGame](../multimedia/PyGame), and tol
 
 Mike Fletcher detached from the Business Forum at this point and joined us to lead a discussion of PyOpenGL. (Thank goodness. We were beginning to spiral out of control.) From that discussion came the following:
 
-### How to improve PyOpenGL 
+#### How to improve PyOpenGL 
 
 - Support modern OpenGL features.
 - Change (fix) distribution mechanism. Ship the output of SWIG.

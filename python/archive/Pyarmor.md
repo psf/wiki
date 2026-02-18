@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Pyarmor 
+## Pyarmor 
 
 Pyarmor is a command line tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. It protects Python scripts by the following ways:
 
@@ -42,7 +42,7 @@ Look at what happened after `foo.py`{.backtick} is obfuscated by Pyarmor. Here a
 
 All the other extra files called `Runtime Files`{.backtick}, which are required to run or import obfuscated scripts. So long as runtime files are in any Python path, obfuscated script `dist/foo.py`{.backtick} can be used as normal Python script. That is to say, `the original python scripts can be replaced with obfuscated scripts seamlessly.`{.backtick}
 
-## Obfuscate Scripts 
+### Obfuscate Scripts 
 
 How to obfuscate python scripts by Pyarmor?
 
@@ -106,7 +106,7 @@ The obfuscated script is a normal Python script, it looks like this
 :::
 ::::
 
-## Run Obfuscated Scripts 
+### Run Obfuscated Scripts 
 
 What happens to run obfuscated script `dist/foo.py`{.backtick} by Python Interpreter?
 
@@ -208,7 +208,7 @@ After that, in the runtime of this python process
               Py_RETURN_NONE;
           }
 
-## Usage 
+### Usage 
 
 Install
 
@@ -233,7 +233,7 @@ Bind obfuscated scripts to fixed machine and expire it on some day. By default t
         cd dist
         python queens.py
 
-## Support Platforms 
+### Support Platforms 
 
 - Python 2.5, 2.6, 2.7 and Python3
 - win32, win_amd64, linux_i386, linux_x86_64, macosx_intel
@@ -241,7 +241,7 @@ Bind obfuscated scripts to fixed machine and expire it on some day. By default t
 
 Besides, pyarmor works well with [py2exe](./py2exe.html) and [PyInstaller](../people/PyInstaller). Here are some [examples](https://github.com/dashingsoft/pyarmor/blob/master/src/examples/README.md).
 
-## Other Links 
+### Other Links 
 
 - [Homepage](http://pyarmor.dashingsoft.com)
 

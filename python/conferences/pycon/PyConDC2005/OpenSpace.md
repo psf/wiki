@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [CategoryPyCon2005](CategoryPyCon2005)
 
-## Friday, 10:30 
+### Friday, 10:30 
 
 (Opposite \"Sequential Code in an Event-Driven World\", \"How to Build an Air-Traffic Control System\", and \"Acceptance of XML in the Python Community\")
 
@@ -30,7 +30,7 @@ Bring your Python questions or library/package questions and we\'ll answer them 
 
 (310 Back)
 
-## Friday, 11:00 
+### Friday, 11:00 
 
 (Opposite \"Python for Series 60 Phones\", \"[PyLucene](../../../people/PyLucene): Pulling Java Lucene into Python\", and \"Yarn: Working with Messages in Diverse Formats and Protocols\")
 
@@ -42,7 +42,7 @@ Bring your Python questions or library/package questions and we\'ll answer them 
 
 ------------------------------------------------------------------------
 
-## Friday, 11:30 
+### Friday, 11:30 
 
 (Opposite \"Improving Python\'s Memory Allocator\", \"Advanced Server-Side Programming in Jython\", and \"Documentation Costs Avoided Using Python and Other Open Standards\")
 
@@ -66,7 +66,7 @@ Discussion of future plans for python.org changes
 
 ------------------------------------------------------------------------
 
-## Friday, 1:00 
+### Friday, 1:00 
 
 (Opposite \"Happy Hooking: Designing Software for Extensibility and Customization\", \"Fast Networking with Python\", and Lightning Talks)
 
@@ -80,7 +80,7 @@ How to get Python more widely accepted. What\'s missing? Timeseries database?
 
 ------------------------------------------------------------------------
 
-## Friday, 1:30 
+### Friday, 1:30 
 
 (Opposite \"Envisage - An Extensible Application Framework\", \"Streaming Python\", and Lightning Talks)
 
@@ -94,7 +94,7 @@ Are you using Python to leverage GIS applications? Any work or interest in Open 
 
 ------------------------------------------------------------------------
 
-## Friday, 2:30 
+### Friday, 2:30 
 
 (Opposite \"pyblosxom: A Microkernel Approach to Blogging\", \"The Personal Internet Endpoint: Twisted and Peer-to-Peer\", and \"Conference Feedback: What Worked and What Didn\'t\"
 
@@ -108,9 +108,9 @@ Building the Money module specification.
 
 ------------------------------------------------------------------------
 
-# Past OpenSpaces (with links:) 
+## Past OpenSpaces (with links:) 
 
-## Thursday 11:00 
+### Thursday 11:00 
 
 (Opposite \"An Introduction to Building Chandler Parcels\" and \"Studying African Lions\")
 
@@ -142,7 +142,7 @@ AVAILABLE (307 Back)
 
 ------------------------------------------------------------------------
 
-## Thursday 11:30 
+### Thursday 11:30 
 
 (Opposite \"Cross-Platform Desktop Applications\" and \"Profiling and Visualizing\")
 
@@ -170,7 +170,7 @@ AVAILABLE (307 Back)
 
 ------------------------------------------------------------------------
 
-## Thursday, 12:00 
+### Thursday, 12:00 
 
 (Opposite \"Keep it simple with [PythonCard](./PythonCard.html)\" and \"The Roundup Issue Tracker\")
 
@@ -208,7 +208,7 @@ Mainly about [PyGro](./PyGro.html) SQL development + insfljkelkj plus general di
 
 ------------------------------------------------------------------------
 
-## Thursday, 1:30 
+### Thursday, 1:30 
 
 (Opposite \"Database Applications with Schevo\" and \"Breaking the Rules of Commercial Software Development\")
 
@@ -230,7 +230,7 @@ I show a simple set of classes that allow different Python programs to send to e
 
 ------------------------------------------------------------------------
 
-## Thursday, 2:00 
+### Thursday, 2:00 
 
 (Opposite \"Dabo\" and \"The Complete File System\")
 
@@ -254,7 +254,7 @@ See notes at [PythonAsaFirstLanguage](../../../archive/PythonAsaFirstLanguage)
 
 ------------------------------------------------------------------------
 
-## Thursday, 2:30 
+### Thursday, 2:30 
 
 (Opposite \"Durus: A Persistence System\" and \"How to Insure Your Book Collection\")
 
@@ -268,7 +268,7 @@ Discuss interaction of [CanDo](../../../people/CanDo) competency tracker with [S
 
 ------------------------------------------------------------------------
 
-## Thursday, 3:30 
+### Thursday, 3:30 
 
 (Opposite \"Black Magic\" and \"[PyChinko](./PyChinko.html)\")
 
@@ -290,7 +290,7 @@ Talk about [PyPy](../../../implementations/PyPy), [IronPython](../../../implemen
 
 ------------------------------------------------------------------------
 
-## Thursday, 4:00 
+### Thursday, 4:00 
 
 (Opposite \"Descriptors\", \"Rule-Driven Software\", and \"Indexing the US Patent Database\")
 
@@ -304,7 +304,7 @@ More on [PythonCard](./PythonCard.html) that couldn\'t be covered in 12:00 sessi
 
 ------------------------------------------------------------------------
 
-## Thursday, 4:30 
+### Thursday, 4:30 
 
 **Key-Signing**
 
@@ -316,7 +316,7 @@ GPG Key Signing Session
 
 ------------------------------------------------------------------------
 
-## Wednesday, 12:00 
+### Wednesday, 12:00 
 
 **Hypertoons with VPython**
 

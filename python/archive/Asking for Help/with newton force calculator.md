@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: with newton force calculator 
+## Asking for Help: with newton force calculator 
 
-## Verables: 
+### Verables: 
 
 :::: 
 ::: 
@@ -32,7 +32,7 @@ obj = 3D object
 :::
 ::::
 
-## get values from main app: 
+### get values from main app: 
 
 :::: 
 ::: 
@@ -50,13 +50,13 @@ Obj_thruster.N.X = 400 MTons
 :::
 ::::
 
-## calculate acceleration: 
+### calculate acceleration: 
 
-### Need help finding code to go here 
+#### Need help finding code to go here 
 
 the calculator gives me
 
-## out put to main app: 
+### out put to main app: 
 
 :::: 
 ::: 

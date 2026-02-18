@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Pages Related to the Planning & Organization of PyCon 
+## Pages Related to the Planning & Organization of PyCon 
 
 ::: searchresults
 1.  [Attendee Notes](./Attendee(20)Notes.html?highlight=%28CategoryPyConPlanning%29)

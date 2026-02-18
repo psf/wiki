@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Web based Client/Server 
+## Web based Client/Server 
 
 *Just a rough sketch*
 
@@ -20,7 +20,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-# Client/Server Application Infrastructure 
+## Client/Server Application Infrastructure 
 
 - [CorbaPython](../networking/CorbaPython)
 

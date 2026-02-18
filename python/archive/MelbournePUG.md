@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# The Melbourne Python Users Group 
+## The Melbourne Python Users Group 
 
 The Melbourne Python Users Group normally meets on every first Monday of the month (except January).
 
@@ -14,11 +14,11 @@ The Melbourne Python Users Group meetings are organised by the community itself.
 
 If you would like to give a talk at an upcoming event, please email [ed@pythoncharmers.com](mailto:ed@pythoncharmers.com) or the mailing list!
 
-## Next Meeting 
+### Next Meeting 
 
 **Monday 2020-03-02, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Duy Trinh: Visualization of weather and cancer data sets**
 
@@ -42,7 +42,7 @@ Linear regression is the simplest and most foundational machine learning techniq
 
 We hope to see you there! :-D
 
-## Mailing List 
+### Mailing List 
 
 We also communicate about the meetings and about anything Python via our [mailing list](http://mail.python.org/mailman/listinfo/melbourne-pug).
 
@@ -53,11 +53,11 @@ We have a policy about job offers on the mailing list:
 - As long as it\'s a Python-related job offer by the hiring company and not by an intermediary recruiter, you can just send it to the mailing list.
 - If it\'s not Python-related, or the poster of the job ad is a recruiter who won\'t mention the company that will be doing the hiring, please just use Seek or Monster, and don\'t write to the mailing list.
 
-## Code of conduct 
+### Code of conduct 
 
 Though we are not affiliated with Linux Australia or Pycon AU, we\'ve chosen to follow their [Code of Conduct](https://github.com/linuxaustralia/constitution_and_policies/blob/master/code_of_conduct.md) for our meetings. Not because we\'ve ever had any problem in the past, but so that we know what to do if any problem should arise in the future.
 
-## Meeting topics 
+### Meeting topics 
 
 If you\'re not sure on a topic, or don\'t want to give a presentation, perhaps you could give us an idea of topics or areas that you would like to hear about - that way we can encourage people who have that particular area of expertise, but who might be wavering. Some topics that have been suggested are:
 
@@ -83,11 +83,11 @@ If you\'re not sure on a topic, or don\'t want to give a presentation, perhaps y
 
 - \... if you are interested in a particular topic, add it here!
 
-## Previous Meetings & Topics 
+### Previous Meetings & Topics 
 
 **Monday 2020-02-03, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. David Andersson: Recent developments in OpenAlchemy**
 
@@ -101,7 +101,7 @@ We'll put this to the test in creating a new API in the best traditions of the d
 
 **Monday 2019-12-02, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Luke Clarke: Automating WordPress audit with Python**
 
@@ -113,7 +113,7 @@ Ed will give a brief introduction to Bayesian machine learning and a first look 
 
 **Monday 2019-11-04, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. David Andersson: Reduce API Code Duplication with OpenAPI and SQLAlchemy**
 
@@ -125,7 +125,7 @@ Python 3.8 was released on 2019-10-14. We will be discussing what the major chan
 
 **Monday 2019-10-07, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Juan Nunez-Iglesias: napari: a fast, n-dimensional image viewer in Python** (\~25 minutes)
 
@@ -141,7 +141,7 @@ We'll also be taking a look at the community's approach to finding the way forwa
 
 **Monday 2019-09-02, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Michael Milewski: Next-level test driven development with TCR** (\~15-20 minutes)
 
@@ -153,7 +153,7 @@ Genevieve Buckley is a scientific programmer who loves working in Python. She ju
 
 **Monday 2019-08-05, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Bradley van Ree: Integrating Excel and Python**
 
@@ -167,7 +167,7 @@ A first look at what the Julia language offers, from a long-time Python user.
 
 **Monday 2019-06-03, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Slava Razbash: How to foretell with Python and AutoML**
 
@@ -181,7 +181,7 @@ In this presentation, Dilan is going to show you how to use the Gspresd Python p
 
 **Monday 2019-05-06, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Ben Dechrai: \"Let\'s connect our front door to the internet! What could possibly go wrong?\"**
 
@@ -197,7 +197,7 @@ In this talk, Ned will describe a toolchain containing the packages pyenv, pip-t
 
 **Monday 2019-04-01, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Zaar Hai: Packaging Python apps for Docker (part 2)**
 
@@ -213,7 +213,7 @@ Python and its ecosystem of packages have been improving steadily for decade and
 
 **Monday 2019-03-04, 5:45pm for 6:00pm**. Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Michael Milewski: VI everywhere \-- what\'s your superpower**
 
@@ -227,7 +227,7 @@ Abstract: \"Once you learn VI bindings, they will be stuck with you for life \--
 
 **Monday 2019-02-11, 5:45pm for 6:00pm**. **New venue!** Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Zaar Hai: Packaging Python apps for Docker (part 1)**
 
@@ -241,7 +241,7 @@ Zaar will describe lessons he\'s learned with building Docker images for Python,
 
 **Monday 2018-12-17, 5:45pm for 6:00pm**. **New venue!** Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Henry Walshaw: Python in QGIS**
 
@@ -253,7 +253,7 @@ Python Charmers has recently formed a partnership with Girls in Tech to deliver 
 
 **Thursday 2018-11-15, 5:45pm for 6:00pm**. **New venue!** Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Janis Lesinskis: CPython internals** (\~30 minutes)
 
@@ -265,7 +265,7 @@ Nathan will talk about AI/ML and walk through a cool platform called cloud ML en
 
 **Monday 2018-10-01, 5:45pm for 6:00pm**. **New venue!** Level 2, 17 Hardware Lane, Melbourne CBD
 
-### Talks: 
+#### Talks: 
 
 **1. Ned Letcher: Creating interactive dashboards with Plotly Dash** (\~30 minutes)
 
@@ -287,7 +287,7 @@ Sam will talk about the use of type annotations at VFX company Luma Pictures for
 
 **Monday 2018-09-03, 5:45pm for 6:00pm**, at Outcome-Hub Co-Working Space, Suite 1, 121 Cardigan Street Carlton
 
-### Talks: 
+#### Talks: 
 
 **1. Peter Degorski: Weather, Energy, and Python** (\~30 minutes)
 
@@ -299,7 +299,7 @@ Following on from Peter\'s talk, Ed will give an overview of the why and how of 
 
 **Monday 2018-08-06, 5:45pm for 6:00pm**, at Outcome-Hub Co-Working Space, Suite 1, 121 Cardigan Street Carlton
 
-### Talks: 
+#### Talks: 
 
 **1. Damien George, Nick Moore, Matt Trentini: A Taste of MicroPython** (\~30 minutes)
 
@@ -315,7 +315,7 @@ Pipenv is now the recommended tool for application dependency management. Rory w
 
 **Monday 2018-07-02, 5:45pm for 6:00pm**, at Outcome-Hub Co-Working Space, Suite 1, 121 Cardigan Street Carlton
 
-### Talks: 
+#### Talks: 
 
 **1. Rory Hart: Just enough OpenID Connect** (\~25 minutes) - rescheduled from June
 
@@ -333,7 +333,7 @@ and the design decisions behind Pandas 2.
 
 **Monday 2018-06-04, 5:45pm for 6:00pm**, at Outcome-Hub Co-Working Space, Suite 1, 121 Cardigan Street Carlton
 
-### Talks: 
+#### Talks: 
 
 **1. Ruslan Dautov: [JupyterHub](./JupyterHub.html) and Apache Spark in the data center** (\~20 minutes)
 
@@ -347,7 +347,7 @@ Michael has founded or worked for around a dozen e-commerce and logistics compan
 
 **Monday 2018-05-07, 5:45pm for 6:00pm**, at Outcome-Hub Co-Working Space, Suite 1, 121 Cardigan Street Carlton
 
-### Talks: 
+#### Talks: 
 
 **1. Graeme Cross: From \"Glue it\" to \"Ship it\"** (\~25 minutes)
 
@@ -367,7 +367,7 @@ Ed will give a brief run-down of new developments in the Python ecosystem in r
 
 **Monday 2018-03-05, 5:45pm for 6:00pm**, at Outcome-Hub Co-Working Space, Suite 1, 121 Cardigan Street Carlton
 
-### Talks: 
+#### Talks: 
 
 **1. Fred Rotbart: Hierarchical Temporal Memory in Python: part 2** (30-45 minutes)
 
@@ -391,7 +391,7 @@ AlphaZero is a major recent advance in self-play-based reinforcement learning fr
 
 **Monday 2018-02-05, 5:45pm for 6:00pm**, at Outcome-Hub Co-Working Space, Suite 1, 121 Cardigan Street Carlton
 
-### Talks: 
+#### Talks: 
 
 **1. Fred Rotbart: Hierarchical Temporal Memory in Python** (25-30 minutes)
 
@@ -409,7 +409,7 @@ AlphaZero is a major recent advance in self-play-based reinforcement learning fr
 
 We hope to see you there! :-D
 
-### Talks: 
+#### Talks: 
 
 **1. Javier Candeira: Batavia: A Python VM implementation in [JavaScript](./JavaScript.html)** (25-30 minutes)
 
@@ -419,7 +419,7 @@ We hope to see you there! :-D
 
 **Monday 2017-11-06, 5:45pm for 6:00pm**, at Outcome-Hub Co-Working Space, Suite 1, 121 Cardigan Street Carlton
 
-### Talks: 
+#### Talks: 
 
 **1. Robert Lechte: \"Your database migrations are bad.\"** (25-30 minutes)
 

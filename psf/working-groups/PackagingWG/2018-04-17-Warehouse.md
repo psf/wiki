@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Warehouse core developers\' weekly meeting 
+## Warehouse core developers\' weekly meeting 
 
 Tuesday, 17 April 2018 \-- postponed from Monday, April 16th because of launch hiccups
 
-## Present 
+### Present 
 
 - Nicole
 - Mark
@@ -20,11 +20,11 @@ Tuesday, 17 April 2018 \-- postponed from Monday, April 16th because of launch h
 
 absent: Laura, Donald
 
-## Blockers 
+### Blockers 
 
 [https://github.com/pypa/warehouse/milestone/7](https://github.com/pypa/warehouse/milestone/7) is the 3 issues between us and legacy PyPI shutdown. No blockers outside of that, and (per Ernest) waiting for JFrog to [figure their stuff out](https://github.com/pypa/warehouse/issues/3275).
 
-## Availability between now and May 9th 
+### Availability between now and May 9th 
 
 - Sumana is trying to reduce PyPI time to ramp up on another client
 
@@ -36,7 +36,7 @@ absent: Laura, Donald
 
 TODO: After call: Mark & Sumana to work on spreadsheet
 
-## Future grants/fellowships \-- heads-up 
+### Future grants/fellowships \-- heads-up 
 
 Current grant proposals:
 
@@ -54,13 +54,13 @@ Future possibilities:
 
 - [https://www.mozilla.org/en-US/grants/](https://www.mozilla.org/en-US/grants/) asking Mozilla for non-MOSS grants - Sumana TODO
 
-## Talking publicly about money 
+### Talking publicly about money 
 
 May Sumana publicly talk about the project wrapup (basically, mid-May) & what we could do with more money?
 
 RESOLVED: Sumana to work on this today TODO
 
-## PRs to review 
+### PRs to review 
 
 - Trove classifier tree [https://github.com/pypa/warehouse/pull/3273](https://github.com/pypa/warehouse/pull/3273*)
 
@@ -70,7 +70,7 @@ RESOLVED: Sumana to work on this today TODO
 
 Resolution: Nicole to look at all these, this week ![:)](/wiki/europython/img/smile.png ":)") TODO
 
-## Bug triage 
+### Bug triage 
 
 [https://github.com/pypa/warehouse/issues/3463](https://github.com/pypa/warehouse/issues/3463) give user option to see more search results in pagination
 
@@ -104,11 +104,11 @@ Resolution: Nicole to look at all these, this week ![:)](/wiki/europython/img/sm
 - Resolution: TODO DI to comment on issue
   - seems like an underlying issue with one of our dependencies
 
-## Encourage volunteers 
+### Encourage volunteers 
 
 Users who have made PRs we\'ve merged since \~November. Whom should we particularly ask to step up & remember to ping on open issues? \[conversation continuing elsewhere\]
 
-## TODOs 
+### TODOs 
 
 - All of us: reply to Mark\'s email re: answering OTF\'s questions
 - Sumana:

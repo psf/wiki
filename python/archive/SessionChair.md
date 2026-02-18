@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Session Chair Signup 
+## Session Chair Signup 
 
 Session chairs are responsible for introducing the speaker, and keeping the speaker to their time limit. It\'s a fun job. If you\'re going to be in the room for the talks anyway, you might as well sign up for the chair position. You should sign up for a block starting from a break to the next break. Please, come before the session starts and get to know the speakers! If you can say something really brief and entertaining about each of the (3) speakers in your block please do so. Some speakers may not want to promote themselves, but the Chair can edify them. Being a chair is about as difficult as being a herd bull. He does not do much for very long but if he does it right he is 1/2 of the final product. But if the chair is impotent there will still be a final product, unlike an impotent herd bull who will ruin the whole herd. This chair job is easy but it is more than just reading the name of the speaker and the topic. Some speakers need adapters for video, audio, or even electricity. I even helped one who only had a flash disk and had to borrow a laptop. Usually there is water for the speaker. The Chair needs to point out things to new speakers and make them feel at ease. If you do not know all of the above, sign up for anything except the first session, read the directions, and watch experienced Chairs before your sessions.
 

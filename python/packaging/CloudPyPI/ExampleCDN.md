@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Cloud PyPI \-- Example CDN 
+## Cloud PyPI \-- Example CDN 
 
 In order to test drive a PyPI CDN, we\'ve setup an example CDN on Amazon Cloudfront for pypi.python.org.
 
 - [https://d1t66zoqn9vlte.cloudfront.net/simple/](https://d1t66zoqn9vlte.cloudfront.net/simple/)
 
-## Settings 
+### Settings 
 
 These are the settings:
 
@@ -34,7 +34,7 @@ The TTL is set to a low value for testing purposes. For a deployment, the value 
 
 *Note:* Without cache headers in the PyPI response (it currently doesn\'t send cache headers), the default TTL for the cache retention is 24h, according to the Amazon documentation.
 
-## Example fetching the /simple/ index 
+### Example fetching the /simple/ index 
 
 First request:
 
@@ -63,7 +63,7 @@ Second request:
     Via: 1.0 3dee24f419c49cc32df542a9410fda87.cloudfront.net (CloudFront)
     X-Cache: Hit from cloudfront
 
-## Issues found in the experiment 
+### Issues found in the experiment 
 
 - The URL is not easy to remember
 

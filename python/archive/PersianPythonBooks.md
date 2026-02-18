@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# منابع آنلاین آموزش پایتون 
+## منابع آنلاین آموزش پایتون 
 
-## پایتون به پارسی (Python in Persian) 
+### پایتون به پارسی (Python in Persian) 
 
 \"Python in Persian\" is an open-source online book that offers a comprehensive tutorial on the Python programming language in the Persian. This repository is designed to be a valuable resource for Persian-speaking individuals who want to learn and enhance their Python programming skills. (2015 - Present)
 
@@ -28,7 +28,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - حمایت مالی: [صفحه حمایت مالی کتاب](https://pythonpersian.com/support.html)
 
-## تفکر پایتونی 
+### تفکر پایتونی 
 
 **آموزش آنلاین، آزاد و متن‌باز زبان برنامه‌نویسی پایتون**
 
@@ -48,9 +48,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-# منابع چاپی و فیزیکی آموزش پایتون 
+## منابع چاپی و فیزیکی آموزش پایتون 
 
-## آموزش برنامه نویسی در آرک جی‌آی‌اس با پایتون 
+### آموزش برنامه نویسی در آرک جی‌آی‌اس با پایتون 
 
 - نویسنده: اریک پیمپلر
 
@@ -64,7 +64,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش برنامه نویسی در Arc GIS با پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AF%D8%B1-Arc-GIS-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/19085)
 
-## آموزش پروژه محور پایتون، بازی سازی، بصری سازی، برنامه های تحت وب 
+### آموزش پروژه محور پایتون، بازی سازی، بصری سازی، برنامه های تحت وب 
 
 - نویسنده: حمید کریمخانی زند و طاهره نیری فرد
 
@@ -76,7 +76,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش پروژه محور پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%85%D8%AD%D9%88%D8%B1-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/66046)
 
-## آموزش جامع برنامه‌ نویسی پایتون 
+### آموزش جامع برنامه‌ نویسی پایتون 
 
 - نویسنده: مسعود نظری، اشکان طالبی
 
@@ -88,7 +88,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش جامع برنامه‌ نویسی Python](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-Python/book/70631)
 
-## آموزش جامع پایتون همراه با تمرین‌های کاربردی 
+### آموزش جامع پایتون همراه با تمرین‌های کاربردی 
 
 - نویسنده: علی هندی ورکانه
 
@@ -98,7 +98,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش جامع پایتون همراه با تمرین‌های کاربردی](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D8%AA%D9%85%D8%B1%DB%8C%D9%86-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C/book/61256)
 
-## آموزش صفر تا صد زبان برنامه نویسی پایتون: به همراه مثال‌های متعدد و توضیح خط به خط کدها 
+### آموزش صفر تا صد زبان برنامه نویسی پایتون: به همراه مثال‌های متعدد و توضیح خط به خط کدها 
 
 - نویسنده: مسعود نظری، اشکان طالبی
 
@@ -110,7 +110,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش صفر تا صد زبان برنامه نویسی پایتون: به همراه مثال‌های متعدد و توضیح خط به خط کدها](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%85%D8%B9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-Python/book/70631)
 
-## آموزش کاربردی برنامه نویسی به زبان پایتون 
+### آموزش کاربردی برنامه نویسی به زبان پایتون 
 
 - نویسنده: علیرضا عظیم زاده میلانی
 
@@ -122,7 +122,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش کاربردی برنامه نویسی به زبان Python](http://www.pendarepars.com/book/كتاب-فارسي-پايتون-python-برنامه-نويسي/)
 
-## آموزش کاربردی جنگو 
+### آموزش کاربردی جنگو 
 
 - نویسنده: علیرضا عظیم زاده میلانی
 
@@ -140,7 +140,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫فصل یکم کتاب :[https://www.pendarepars.com/book/pdf/4258](https://www.pendarepars.com/book/pdf/4258)
 
-## آموزش گام‌به‌گام برنامه‌نویسی پایتون 
+### آموزش گام‌به‌گام برنامه‌نویسی پایتون 
 
 - نویسنده: جواد وحیدی، رمضان عباس نژادورزی
 
@@ -152,7 +152,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش گام‌به‌گام برنامه‌نویسی پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%A7%D9%85-%D8%A8%D9%87-%DA%AF%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/29984)
 
-## آموزش گام‌ به‌ گام برنامه نویسی پیشرفته با پایتون 
+### آموزش گام‌ به‌ گام برنامه نویسی پیشرفته با پایتون 
 
 - نویسنده: رمضان عباس نژادورزی
 
@@ -164,7 +164,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش گام‌ به‌ گام برنامه نویسی پیشرفته با پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%A7%D9%85-%D8%A8%D9%87-%DA%AF%D8%A7%D9%85-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/41074)
 
-## آموزش گام‌به‌گام جنگو (مرجع کامل): طراحی وب سایت با پایتون 
+### آموزش گام‌به‌گام جنگو (مرجع کامل): طراحی وب سایت با پایتون 
 
 - ننویسنده: نایجل جورج
 
@@ -178,7 +178,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[آموزش گام به گام جنگو (مرجع کامل): طراحی وب سایت با پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%A7%D9%85-%D8%A8%D9%87-%DA%AF%D8%A7%D9%85-%D8%AC%D9%86%DA%AF%D9%88-%D9%85%D8%B1%D8%AC%D8%B9-%DA%A9%D8%A7%D9%85%D9%84/book/74516)
 
-## برنامه نویسی پایتون برای کودکان و نوجوانان به زبان ساده 
+### برنامه نویسی پایتون برای کودکان و نوجوانان به زبان ساده 
 
 - نویسنده: علیرضا اسمعیلی، یوسف عباس نژادورزی
 
@@ -190,7 +190,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[برنامه نویسی پایتون برای کودکان و نوجوانان به زبان ساده)](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86-%D9%88-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87/book/49031)
 
-## برنامه‌ نویسی به زبان پایتون از پایه تا پیشرفته 
+### برنامه‌ نویسی به زبان پایتون از پایه تا پیشرفته 
 
 - نویسنده: حمیدرضا طالبی
 
@@ -202,7 +202,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[برنامه‌ نویسی به زبان Python از پایه تا پیشرفته](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-Python-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D8%A7-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87/book/70544)
 
-## پایتون به زبان ساده 
+### پایتون به زبان ساده 
 
 - نویسنده: یونس ابراهیمی
 
@@ -214,7 +214,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[برنامه‌ نویسی به زبان ساده](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87/book/36572)
 
-## برنامه نویسی شی گرا با پایتون به زبان ساده 
+### برنامه نویسی شی گرا با پایتون به زبان ساده 
 
 - نویسنده: جواد وحیدی، رمضان عباس نژادورزی، مجید رهی
 
@@ -226,7 +226,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[برنامه نویسی شی گرا با پایتون به زبان ساده](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%B4%DB%8C-%DA%AF%D8%B1%D8%A7-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87/book/76318)
 
-## بینایی رایانه توسط اوپن‌سی‌وی با پایتون 
+### بینایی رایانه توسط اوپن‌سی‌وی با پایتون 
 
 - نویسنده: جوزف هاوس
 
@@ -240,7 +240,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[بینایی رایانه توسط OpenCv با پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87-%D8%AA%D9%88%D8%B3%D8%B7-OpenCv-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/69361)
 
-## پردازش سیگنال دیجیتال با برنامه‌ نویسی پایتون 
+### پردازش سیگنال دیجیتال با برنامه‌ نویسی پایتون 
 
 - نویسنده: موریس شاربیت
 
@@ -254,7 +254,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[پردازش سیگنال دیجیتال با برنامه‌ نویسی پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84-%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84-%D8%A8%D8%A7-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/69363)
 
-## ترفندها و تکنیک‌های برنامه نویسی پایتون 
+### ترفندها و تکنیک‌های برنامه نویسی پایتون 
 
 - نویسنده: رمضان عباس نژادورزی
 
@@ -266,7 +266,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[ترفندها و تکنیک‌های برنامه نویسی پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AA%D8%B1%D9%81%D9%86%D8%AF%D9%87%D8%A7-%D9%88-%D8%AA%DA%A9%D9%86%DB%8C%DA%A9-%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/74632)
 
-## حل مسائل پایتون (حل ۱۰۰۰ برنامه - مرجع کامل) 
+### حل مسائل پایتون (حل ۱۰۰۰ برنامه - مرجع کامل) 
 
 - نویسنده: رمضان عباس نژادورزی، محمد نادعلی زاده چاری، یوسف عباس نژادورزی
 
@@ -278,7 +278,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[حل مسائل پایتون (حل 1000 برنامه - مرجع کامل)](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AD%D9%84-%D9%85%D8%B3%D8%A7%D8%A6%D9%84-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%AD%D9%84-1000-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%85%D8%B1%D8%AC%D8%B9-%DA%A9%D8%A7%D9%85%D9%84/book/32670)
 
-## دوره مقدماتی آموزش پایتون 
+### دوره مقدماتی آموزش پایتون 
 
 - نویسنده: جان مولر
 
@@ -292,7 +292,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[دوره مقدماتی آموزش پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AF%D9%88%D8%B1%D9%87-%D9%85%D9%82%D8%AF%D9%85%D8%A7%D8%AA%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/40899)
 
-## راهنمای کاربردی پایتون برای علم داده ‏ها 
+### راهنمای کاربردی پایتون برای علم داده ‏ها 
 
 - نویسنده: علیرضا افضل آقایی نائینی، کورش پرند
 
@@ -304,7 +304,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[راهنمای کاربردی پایتون برای علم داده ‏ها](https://arvannashr.ir/product/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B9%D9%84%D9%85-%D8%AF%D8%A7%D8%AF%D9%87/)
 
-## ساختمان داده‌ها با پایتون 
+### ساختمان داده‌ها با پایتون 
 
 - نویسنده: رمضان عباس نژادورزی، جواد وحیدی
 
@@ -316,7 +316,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[ساختمان داده‌ها با پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/37721)
 
-## سوالات چهار گزینه‌ای پایتون (۱۲۰۰ تست و پاسخ تشریحی آن‌ها) 
+### سوالات چهار گزینه‌ای پایتون (۱۲۰۰ تست و پاسخ تشریحی آن‌ها) 
 
 - نویسنده: یوسف عباس نژادورزی، علی رضا علی زاده حاجی
 
@@ -328,7 +328,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[سوالات چهار گزینه‌ای پایتون (1200 تست و پاسخ تشریحی آن‌ها)](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/37721)
 
-## طراحی رابط کاربری با PyQt در پایتون 
+### طراحی رابط کاربری با PyQt در پایتون 
 
 - نویسنده: رمضان عباس نژادورزی، نوراله کریم تبار احمدچالی
 
@@ -340,7 +340,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[طراحی رابط کاربری با PyQt در پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-%D8%A8%D8%A7-PyQt-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/39900)
 
-## کارگاه آموزشی پایتون 
+### کارگاه آموزشی پایتون 
 
 - نویسنده: حمیدرضا قنبری، علیرضا غفوری تتماج
 
@@ -352,7 +352,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[کارگاه آموزشی پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/68975)
 
-## کراس برای شبکه‌های عصبی 
+### کراس برای شبکه‌های عصبی 
 
 - نویسنده: جیمز مک کافری
 
@@ -366,7 +366,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[کراس (Keras) برای شبکه‌های عصبی](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%DA%A9%D8%B1%D8%A7%D8%B3-Keras-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%B5%D8%A8%DB%8C/book/70360)
 
-## مرجع کامل برنامه ‌نویسی پایتون 
+### مرجع کامل برنامه ‌نویسی پایتون 
 
 - نویسنده: رمضان عباس نژادورزی، نوراله کریم تبار احمدچالی
 
@@ -378,7 +378,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[مرجع کامل برنامه ‌نویسی پایتون](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1%D8%AC%D8%B9-%DA%A9%D8%A7%D9%85%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86/book/46481)
 
-## هر آنچه از پایتون باید بدانید 
+### هر آنچه از پایتون باید بدانید 
 
 - نویسنده: حسین سیدی
 
@@ -390,7 +390,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - ‫لینک کتاب (خرید) :[‌هر آنچه از پایتون باید بدانید](https://www.ketabrah.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D9%87%D8%B1-%D8%A2%D9%86%DA%86%D9%87-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%AF%D8%A7%D9%86%DB%8C%D8%AF/book/69047)
 
-## یادگیری عمیق با پایتون 
+### یادگیری عمیق با پایتون 
 
 - نویسنده: فرانسوا شوله
 

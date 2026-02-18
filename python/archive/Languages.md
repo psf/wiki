@@ -28,7 +28,7 @@ Where these pages really need help:
 3.  some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
 :::
 
-# Languages 
+## Languages 
 
 - [AfrikaansLanguage](../i18n/AfrikaansLanguage) **Afrikaans**
 

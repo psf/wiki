@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Roadmap for pip resolver and UX work in 2020 
+## Roadmap for pip resolver and UX work in 2020 
 
 Thanks to [the Chan Zuckerberg Initiative](https://chanzuckerberg.com/eoss/proposals/improving-user-experience-and-debuggability-of-pip-for-all-python-users/) and [Mozilla\'s Open Source Support program](https://pyfound.blogspot.com/2019/12/moss-czi-support-pip.html), the [PackagingWG](../working-groups/PackagingWG) is receiving funding to [finish pip\'s dependency resolver](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip) and [improve pip\'s user experience](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Improve_pip_user_experience).
 
-## Key people 
+### Key people 
 
 Contractors working on this project will be
 
@@ -20,7 +20,7 @@ Contractors working on this project will be
 
 - [Project manager: Sumana Harihareswara of Changeset Consulting](https://changeset.nyc/)
 
-## Work summary 
+### Work summary 
 
 We\'ve finished a next-generation rewrite of the dependency resolver within pip, Python\'s package download and installation tool. The project ran into massive technical debt, but the refactoring is nearly finished and functionality is in pip 20.3 now. [Many improvements and installation and dependency issues for Python users, conda/Anaconda, and other platforms are blocked awaiting this feature.](https://wiki.python.org/psf/Fundable%20Packaging%20Improvements#Finish_dependency_resolver_for_pip)
 
@@ -36,17 +36,17 @@ Finally, one contract developer is maintaining the pip repository by triaging bu
 
 Throughout, a project manager is finding and communicating with stakeholders and testers, and with the funders.
 
-## Detailed work plan 
+### Detailed work plan 
 
 *Exists in other documents, such as [https://pyfound.blogspot.com/2019/11/seeking-developers-for-paid-contract.html](https://pyfound.blogspot.com/2019/11/seeking-developers-for-paid-contract.html) and [https://github.com/pypa/pip/milestone/38](https://github.com/pypa/pip/milestone/38) .*
 
-### Phase I (Foundational work, early 2020) 
+#### Phase I (Foundational work, early 2020) 
 
-#### Developers\' onboarding and initial work 
+##### Developers\' onboarding and initial work 
 
 See [RFP](https://github.com/python/request-for/blob/master/2020-pip/RFP.md).
 
-#### UX onboarding and initial work 
+##### UX onboarding and initial work 
 
 - Read, view, and process the voluminous existing information on pip user confusion (such as the \"Improve UX\" milestone [https://github.com/pypa/pip/milestone/10](https://github.com/pypa/pip/milestone/10), \"Print Better Error Messages\" milestone [https://github.com/pypa/pip/milestone/25](https://github.com/pypa/pip/milestone/25), Stack Overflow questions about pip, and unofficial blog posts and articles such as \"The Python Packaging Ecosystem\" [https://www.curiousefficiency.org/posts/2016/09/python-packaging-ecosystem.html](https://www.curiousefficiency.org/posts/2016/09/python-packaging-ecosystem.html))
 
@@ -54,25 +54,25 @@ See [RFP](https://github.com/python/request-for/blob/master/2020-pip/RFP.md).
 
 - Develop user journey maps & workflows
 
-### Phase II (Resolver work, \~March-June 2020) 
+#### Phase II (Resolver work, \~March-June 2020) 
 
-#### Developers 
+##### Developers 
 
 See [RFP](https://github.com/python/request-for/blob/master/2020-pip/RFP.md).
 
-#### UX 
+##### UX 
 
 - Working with maintainers to write documentation and help messages, and to design resolver user experience
 
-### Phase III (Maintenance and Sustainability work, June-December 2020) 
+#### Phase III (Maintenance and Sustainability work, June-December 2020) 
 
-#### Developer 
+##### Developer 
 
 - Keep up with the pip code and issue review queue for 10 hours per week, thus releasing a key bottleneck and enabling existing maintainers to make progress on key architectural features
 - Help new contributors develop into continuing contributors
 - Help existing contributors grow into co-maintainers
 
-#### UX 
+##### UX 
 
 - Interview users, run tests, and writeup (covering resolver and expanding research scope). These will be organized similarly to the research in the first phase, but will measure user experience improvements from the new resolver, and will allow the researcher to expand their research. Scope to, for instance, issues involving conda, virtualenvs, and other package managers. Outcomes: greater user understandings, as above, and assessment of the UX improvements in the new resolver.
 

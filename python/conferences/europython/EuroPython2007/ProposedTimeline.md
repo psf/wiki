@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007 Proposed Timeline 
+## EuroPython 2007 Proposed Timeline 
 
 The actual proposed timeline has been [decided upon](http://codespeak.net/svn/user/mwh/ep2007/meeting-notes-2007-03-08.html) as follows:
 
@@ -28,7 +28,7 @@ The actual proposed timeline has been [decided upon](http://codespeak.net/svn/us
 
 ------------------------------------------------------------------------
 
-## Previous Observations and Speculation 
+### Previous Observations and Speculation 
 
 *What follows is just some notes about previous/other conferences and timelines.*
 
@@ -70,7 +70,7 @@ This is a big contrast to the original [IRC meeting](http://mail.python.org/pipe
 
 Given the [panic](http://mail.python.org/pipermail/europython/2006-May/005764.html) in May 2006 about the conference status, it might be best to not let the timeline slip much later than that of 2006.
 
-## Comparisons 
+### Comparisons 
 
 It\'s always fun to compare things! Comparing the above with [PyCon 2007](http://us.pycon.org/TX2007/EventCalendar):
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Apache License, Version 2.0 
+## Apache License, Version 2.0 
 
 Apache License Version 2.0, January 2004 [http://www.apache.org/licenses/](http://www.apache.org/licenses/)
 

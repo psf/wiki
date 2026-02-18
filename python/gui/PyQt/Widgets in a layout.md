@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Widgets in a layout 
+## Widgets in a layout 
 
 This page contains the source code shown in the [Creating widgets and a layout](http://www.youtube.com/watch?v=YbqwW3p7tSA) video on YouTube.
 

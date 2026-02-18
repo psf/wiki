@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyCon DC 2004 For Cheap 
+## PyCon DC 2004 For Cheap 
 
 See also [PyConAccommodation](./PyConAccommodation.html).
 
-### Register Early 
+#### Register Early 
 
 Early Bird deadline extended! The \$175 US Early Bird Registration deadline has been extended to Feb 22, 2004.
 
 After the deadline, it is still cheaper to register in advance (\$250 US until March 17th) than at the door.
 
-### Save On Meals 
+#### Save On Meals 
 
 The conference serves a continental breakfast from 8-9 every morning.
 
@@ -26,7 +26,7 @@ The conference serves a lunch too.
 
 \-- is breakfast definite? I thought there was only lunch at the con. - [PaulWinkler](../../../people/PaulWinkler) \-- Yep, breakfast is definite. Danishes, bagels, and juice, perhaps even fruit. \-- [MichaelChermside](../../../people/MichaelChermside)
 
-### Hotels 
+#### Hotels 
 
 If you\'re looking to keep hotel prices low, you can stay at a hotel out in the burbs and take advantage of the [metro system](http://www.wmata.com/metrorail/default.cfm).
 
@@ -40,7 +40,7 @@ Jan31 update: Hotwire.com shows a 2.5/5.0 star unnamed hotel for \$62 USD per ni
 
 March 3 update: Prices are going up. Best values I\'ve found so far this evening is (via hotwire) a \$95US/night place in Arlington, and \$82US/night in the \"South of Mall\" district, which I gather is right downtown somewhere, though the description of the neighborhood seems to be \"most people don\'t go there\". Via Travelocity the BW Key Bridge is \$108.02USD/night. Best expedia can do is \$117.87CDN (\$88US)/night, but it seems to be quite a ways away (5 miles from downtown).
 
-### Hostels 
+#### Hostels 
 
 (For the budget-conscious, who know they aren\'t going to be spending much time in their hotel anyway.)
 
@@ -48,7 +48,7 @@ Beds at the [Washington International Student Center](http://www.washingtondchos
 
 (Update) As of a Thursday the 4th of March, the hostel still had some room left for the 23rd through 27th.
 
-### Flights 
+#### Flights 
 
 [National Airport (DCA)](http://www.mwaa.com/national/index.htm) is on the metro system but is usually the most expensive.
 
@@ -58,7 +58,7 @@ Beds at the [Washington International Student Center](http://www.washingtondchos
 
 Getting to the DC Metro System from BWI: You can take the Marc train[http://www.bwiairport.com/4grndtrn/in_mrct.shtml](http://www.bwiairport.com/4grndtrn/in_mrct.shtml) from BWI to Union Station to catch the metro or you can take the Metro Express Bus [http://www.bwiairport.com/4grndtrn/in_mb.shtml](http://www.bwiairport.com/4grndtrn/in_mb.shtml) which will take you to the Greenbelt metro station.
 
-### Other Transportation 
+#### Other Transportation 
 
 The conference is close to Metro (subway). If you\'re taking the train, [Union Station](http://www.unionstationdc.com/) is on the metro system. Amtrak stops there. Union Station is a quick train ride from the conference site, much easier than the airports. Amtrak is often similar price to flying, but depending on the length of the trip, can be much easier and more pleasant.
 
@@ -66,26 +66,26 @@ Consider 1-day or 7-day [Metrorail Passes](http://www.wmata.com/riding/passes.cf
 
 Visit the [Metrorail Stations](http://www.wmata.com/metrorail/stations.cfm) page and click on your starting station (e.g., Vienna / GMU) to calculate fares and determine whether or not a pass is worthwhile.
 
-### Parking 
+#### Parking 
 
 See [http://cafritz.gwu.edu/cafritz.php?id=1929&site=cafritz](http://cafritz.gwu.edu/cafritz.php?id=1929&site=cafritz) - a full day of parking is \$13. This is downtown DC, you won\'t easily find a better deal. Street parking is all metered with a 2 hour limit. When the garage is full, there\'s another one one block to the west with similar rates. \*Don\'t park illegally\* - DC police \*will\* ticket or tow you. The no-parking signs are very confusing but worth careful reading. Also avoid the faculty parking lots.
 
-## Sharing Advertisements 
+### Sharing Advertisements 
 
-### Transportation 
+#### Transportation 
 
-#### Canada 
+##### Canada 
 
 - Toronto - See the [PyConBusFromToronto](../PyConBusFromToronto) for info on a free ride to D.C. (it\'s not really a bus, it\'s a minivan that seats 7) \-- Shane [McChesney](./McChesney.html) \<shane at nooro.com\>
 
-#### Virginia 
+##### Virginia 
 
 - Blacksburg - I\'m planning to leave Friday, March 19th, and return some (as yet unspecified) time between
   - Saturday, March 17th and Monday, March 29th (I\'m flexible). This isn\'t yet a hard and fast offer for a ride,
 
     but a gauging of interest \-- Tripp Lilley \<tripp-pyconride2004 at perspex.com\>
 
-### Shared Accommodation 
+#### Shared Accommodation 
 
 - [PyConBusFromToronto](../PyConBusFromToronto) passengers will no doubt pair up for accomodations to save on hotel costs\... if there\'s an odd number, someone will need a partner, so if you\'re interested in splitting a room, note it here.
 

@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PySerial 
+## PySerial 
 
 [PySerial](http://www.python.org/pypi/pyserial) is a library which provides support for serial connections (\"RS-232\") over a variety of different devices: old-style serial ports, Bluetooth dongles, infra-red ports, and so on. It also supports remote serial ports via RFC 2217 (since V2.5).
 
-## Projects using PySerial 
+### Projects using PySerial 
 
 - [BitPim](http://bitpim.sourceforge.net/) - crossplatform application to view and manipulate data on CDMA phones from LG, Samsung, Sanyo and other manufacturers.
 
@@ -22,11 +22,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Twisted](http://twistedmatrix.com/trac/) - Uses pySerial to provide an asynchronous serial port transport which can be used like any other stream-oriented transport (eg TCP, SSL).
 
-## Alternatives 
+### Alternatives 
 
 Bluetooth connections can also be handled using the socket module, provided that support for Bluetooth is present in the underlying operating system and has been compiled into the Python distribution being used.
 
-## Project Home Page 
+### Project Home Page 
 
 [PySerial Sourceforge Homepage](http://pyserial.sourceforge.net/)
 

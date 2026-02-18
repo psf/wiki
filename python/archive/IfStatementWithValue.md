@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# The Problem 
+## The Problem 
 
 Python is sorely missing an if statement that:
 
@@ -24,7 +24,7 @@ This is extremely useful in programming and helps avoid copy and paste assignmen
     else:
        x=cos(sin(x))
 
-# Accepted Solution 
+## Accepted Solution 
 
 This is now part of Python 2.5:
 
@@ -34,6 +34,6 @@ which would convert the above snippet to:
 
     x = sin(cos(x)) if test else cos(sin(x))
 
-# Discussion 
+## Discussion 
 
 Please see [http://python.org/peps/pep-0308.html](http://python.org/peps/pep-0308.html) and google for discussions about the ternary operator (if you haven\'t yet).

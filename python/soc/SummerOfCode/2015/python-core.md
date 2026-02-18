@@ -6,23 +6,23 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# CPython 
+## CPython 
 
 CPython is the default, most widely used implementation of the Python programming language. It is mostly written in C, most of the modules are written in Python itself. In case you want to make the changes which will be used by all the Python programmers worldwide, this is the project to work for.
 
-## Contacting CPython developers 
+### Contacting CPython developers 
 
 One can contact the core developers over IRC or using mailing lists. #python-dev (on freenode) is the channel for core developers, [the core mentorship mailing list](https://mail.python.org/mailman/listinfo/core-mentorship) is the place to an email discussion. Remember that the developers are may not be in your timezone, so it might take time to get a reply from anyone.
 
-## Getting Started 
+### Getting Started 
 
 The best place to get started is the [devguide](https://docs.python.org/devguide/index.html). You will find all the instructions required to build your own CPython. Before contacting the mentors, it is better you start solving few [bugs](http://bugs.python.org/) first.
 
-# Ideas 
+## Ideas 
 
 We\'re still waiting to find out which mentors are available for Core Python/CPython projects. In the meantime, you can discuss ideas on [the core mentorship mailing list](https://mail.python.org/mailman/listinfo/core-mentorship).
 
-## 1. bugs.python.org improvements 
+### 1. bugs.python.org improvements 
 
 - **Project description**: The goal of this project is to improve the [bug tracker used by CPython](https://bugs.python.org/).
 
@@ -34,7 +34,7 @@ We\'re still waiting to find out which mentors are available for Core Python/CPy
 
 - **Potential mentors**: Ezio Melotti.
 
-### Project Details 
+#### Project Details 
 
 There are several different tasks that can be tackled.
 
@@ -60,7 +60,7 @@ There are several different tasks that can be tackled.
 
 Students can select a substantial subset of these tasks for their proposal. The actual tasks and the order can be discussed with the mentor.
 
-## 2. Add a REST API to Roundup 
+### 2. Add a REST API to Roundup 
 
 - **Project description**: The goal of this project is to add a REST API to Roundup
 
@@ -72,7 +72,7 @@ Students can select a substantial subset of these tasks for their proposal. The 
 
 - **Potential mentors**: Hieu Nguyen.
 
-### Project Details 
+#### Project Details 
 
 For this project the student will design and develop a REST API for bugs.python.org. Even though this project is initially aimed to bugs.python.org, the plan is to eventually contribute the code upstream. This is what the student is expect to do during the project:
 
@@ -86,7 +86,7 @@ For this project the student will design and develop a REST API for bugs.python.
 
 5.  when stable, contribute it upstream (could happen after GSoC)
 
-## 3. Use more unittest features in regrtest 
+### 3. Use more unittest features in regrtest 
 
 - **Project description**: The goal of this project is to improve the CPython test suite by using more unittest features.
 

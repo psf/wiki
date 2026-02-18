@@ -6,23 +6,23 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Embedding Jython 
+## Embedding Jython 
 
 [JythonFaq]()
 
 ------------------------------------------------------------------------
 
-## How can I use jython classes from my java application? 
+### How can I use jython classes from my java application? 
 
 There are several ways to do that. The best way depends on the needs of your application.
 
-### Using PythonInterpreter in Factories to instantiate python classes 
+#### Using PythonInterpreter in Factories to instantiate python classes 
 
 - [Simple and Efficient Jython Object Factories](http://wiki.python.org/jython/JythonMonthly/Articles/October2006/3) from [CharlieGroves](../../people/CharlieGroves)
 
 - [Object Factories](http://www.jython.org/jythonbook/en/1.0/JythonAndJavaIntegration.html#using-jython-within-java-applications) from Jython Book v1.0
 
-### Using jythonc (deprecated) 
+#### Using jythonc (deprecated) 
 
 Compile the python class into a real java class using the jythonc command. This real java can be used and instances can be created from your application.
 
@@ -119,7 +119,7 @@ When running this little application, the jython.jar runtime must be available o
 
 ------------------------------------------------------------------------
 
-## My modules can not be found when imported from an embedded application 
+### My modules can not be found when imported from an embedded application 
 
 The default value for sys.path in an embedded application depend on several things:
 
@@ -144,6 +144,6 @@ The value for python.path must follow the operating system conventions for the P
 
 ------------------------------------------------------------------------
 
-## Library types and functions can\'t be found by my embedded application 
+### Library types and functions can\'t be found by my embedded application 
 
 When you run the jython installer, one of the choices is to install as a callable JAR. Use that selection to create a standalone JAR which can be used to embed. The jython.jar in the standard install isn\'t complete to be used as a standalone JAR (despite the fact that they have the same name).

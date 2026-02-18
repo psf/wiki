@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the 2010 PSF Board of Directors
+## Candidates for the 2010 PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning in February 2010. Their self-written summaries follow.
 
@@ -39,7 +39,7 @@ Links
 :::
 
 ::: 
-### [Raymond Hettinger](#id1)
+#### [Raymond Hettinger](#id1)
 
 Incumbent PSF board member. Director of Technology at SauceLabs. Certified Public Accountant. Ten year contributor to the Python core (itertools, sets, collections module, etc).
 
@@ -47,7 +47,7 @@ Recurring speaker at Python and OSS conferences including PyArgentia, Pycon Ital
 :::
 
 ::: 
-### [Jesse Noller](#id2)
+#### [Jesse Noller](#id2)
 
 Jesse is a prominent member of the Python community. His accomplishments include:
 
@@ -58,7 +58,7 @@ Jesse is a prominent member of the Python community. His accomplishments include
 :::
 
 ::: 
-### [David Mertz](#id3)
+#### [David Mertz](#id3)
 
 I have served on the PSF board for one year, and would enjoy the opportunity to continue doing so. Beginning prior to membership on the board, and on a continuing basis, I serve on the PSF Trademarks Committee, currently as its vice-chair. During this last year, I successfully proposed the adoption of a diversity statement by the board, following on work by the Diversity Committee. I also drafted and proposed the striated sponsor membership levels now in effect.
 
@@ -68,7 +68,7 @@ I am the author of Addison Wesley\'s *Text Processing in Python*, of the IBM dev
 :::
 
 ::: 
-### [Jeff Rush](#id4)
+#### [Jeff Rush](#id4)
 
 Incumbent board member. I\'ve been a consultant since 1984 and first got involved with Python in 1997 by porting it to OS/2 (with patches into the Python core) and then for a number of years produced RPMs for Python that were picked up by Red Hat. I\'ve worked with Python, Zope and Twisted ever since.
 
@@ -78,7 +78,7 @@ I\'ve presented about Python at the Vancouver Python Workship (2004), PyCon (200
 :::
 
 ::: 
-### [Tim Peters](#id5)
+#### [Tim Peters](#id5)
 
 Your longest-standing Board member remains ever ready to mentor the young, or to chide them, depending on which medications he forgets to take from day to day.
 
@@ -86,7 +86,7 @@ Your longest-standing Board member remains ever ready to mentor the young, or to
 :::
 
 ::: 
-### [Allison Randal](#id6)
+#### [Allison Randal](#id6)
 
 Steve Holden asked me to submit a nomination. I\'m the lead developer of Pynie, an implementation of Python 3 on the Parrot VM, as well as architect of Parrot (yes, the VM is named after a Monty Python sketch, you see, it all started with this April Fool\'s joke\...). I\'m not a PSF member yet, but hope to join in the future. I\'m currently studying at the University of Bristol in the UK, where I\'m subversively working for student rights to do assignments in Python.
 
@@ -96,13 +96,13 @@ I might be best described as a fresh perspective and a voice of experience in th
 :::
 
 ::: 
-### [James Tauber](#id7)
+#### [James Tauber](#id7)
 
 Incumbent board member. Have been doing Python for 12 years and open source for 17 years. CEO of Eldarion. Lead developer of Pinax and Django core developer. Chair of the PSF Trademarks Committee. GSoC PSF mentor 2005-2007 and PSF administrator 2007-2008. Frequent conference speaker.
 :::
 
 ::: 
-### [Steve Holden](#id8)
+#### [Steve Holden](#id8)
 
 In my first interview with Guido van Rossum, when I asked him about the Foundation he said he felt it needed \"adult supervision.\" That it should look to me to provide such supervision is a true measure of the paucity of talent this august body possesses.
 
@@ -125,7 +125,7 @@ If this describes you then read [http://pyfound.blogspot.com/2006/12/call-for-no
 :::
 
 ::: 
-### [Marc-André Lemburg](#id9)
+#### [Marc-André Lemburg](#id9)
 
 Steve Holden kindly asked me to step up as PSF board member candidate for this years election.
 
@@ -148,7 +148,7 @@ Thanks.
 :::
 
 ::: 
-### [Greg Stein](#id10)
+#### [Greg Stein](#id10)
 
 Incorporator of the Python Software Foundation, and Prior Director.
 
@@ -160,7 +160,7 @@ I believe my experiences at the ASF can contribute to the continuation and evolu
 :::
 
 ::: 
-### [Gloria Willadsen](#id11)
+#### [Gloria Willadsen](#id11)
 
 Steve Holden requested that I submit myself for consideration.
 
@@ -176,13 +176,13 @@ I have served on the board of a small company back in 2000, that I and several c
 :::
 
 ::: 
-### [Martin v. Löwis](#id12)
+#### [Martin v. Löwis](#id12)
 
 In the last year, I had been focusing on infrastructure issues (hardware upgrades, PyPI, bug tracker, XS4ALL liaison). In the coming year, I\'d like to continue that as the PSF infrastructure committee chair (taking over that role from Brett Cannon). I also remain interested in international diversity (even though non-U.S. board members will probably remain a minority in the next year, as well).
 :::
 
 ::: 
-### [Douglas Napoleone](#id13)
+#### [Douglas Napoleone](#id13)
 
 Steve Holden requested that I submit myself for consideration.
 

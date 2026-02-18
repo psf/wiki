@@ -59,7 +59,7 @@ The benefit of using DocXMLRPCServer is that it automatically creates documentat
 
 Writing a client to call the wait function is left as an exercise for the reader. ![:)](/wiki/europython/img/smile.png ":)")
 
-## Resources 
+### Resources 
 
 - [XmlRpc](../networking/XmlRpc) \-- general information on XML-RPC
 
@@ -77,10 +77,10 @@ Also:
 
 - [AutoXmlRpcServer](AutoXmlRpcServer) \-- automatically serve modules in local directory with DocXmlRpcServer
 
-## Notes 
+### Notes 
 
 This page was based on [SeaPig:DocXMLRPCServer,](http://www.seapig.org/DocXMLRPCServer) with [BrianDorsey](../people/BrianDorsey)\'s permission.
 
-# Discussion 
+## Discussion 
 
 (none yet!)

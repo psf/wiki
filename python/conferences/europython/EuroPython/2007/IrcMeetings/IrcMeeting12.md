@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #12 
+## IRC Meeting #12 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Monday 28th May (2007-05-28) 18:00 CEST (17:00 BST, 16:00 UTC/GMT) in the #europython channel on freenode.net. *That\'s 5pm UK time, 6pm in most of Western Europe.* The suggested duration of the meeting is at most *one hour*.
 
-## Minutes 
+### Minutes 
 
 - Bea discussed the idea of inviting people to enhance the open space experience at the conference, as suggested [in a message to the europython mailing list](http://mail.python.org/pipermail/europython/2007-May/006403.html).
 
@@ -30,7 +30,7 @@ The meeting will take place on Monday 28th May (2007-05-28) 18:00 CEST (17:00 BS
 
 - Next week\'s meeting will focus on the programme, but may also cover any other issues that arise. Information about any meetings that take place will be posted to [the mailing list](http://mail.python.org/mailman/listinfo/europython).
 
-## Agenda 
+### Agenda 
 
 - Registration
   - Status of the [WorldPay](./WorldPay.html) application process.
@@ -39,6 +39,6 @@ The meeting will take place on Monday 28th May (2007-05-28) 18:00 CEST (17:00 BS
 - Status of potential sponsors.
 - Status of conference programmes, badges, T-shirts, conference dinner information.
 
-## Notes 
+### Notes 
 
 See [the calendar](http://www.europython.org/sections/calendar) to get an idea of where we should be at this point in time.

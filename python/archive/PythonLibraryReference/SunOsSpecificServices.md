@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# Sun OS Specific Services 
+## Sun OS Specific Services 
 
 21.1 sunaudiodev \-- Access to Sun audio hardware
 
@@ -22,7 +22,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 21.2 SUNAUDIODEV \-- Constants used with sunaudiodev
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

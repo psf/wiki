@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Vaults of Parnassus 
+## Vaults of Parnassus 
 
 Quite a while ago the \"Vaults of Parnassus\" was a portal serving as a general storehouse of Python goodies. It was found here:
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Flask 
+## Flask 
 
 Flask is a microframework for Python based on [Werkzeug](./Werkzeug.html) and using [Jinja2](./Jinja2.html) for templating.
 

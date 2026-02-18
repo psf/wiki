@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Wiki Name 
+## Wiki Name 
 
 A WikiName is a word that contains a group of words with spaces removed (and with starting letters of the words capitalized), e.g. [SystemInfo](SystemInfo). WikiNames automatically become hyperlinks to the WikiName\'s page. Uppercase and lowercase letters are determined by the configuration of the wiki software. The default configuration should work for UTF-8 characters (digits are treated as lowercase characters).
 

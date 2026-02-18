@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Create a new package in python called pypi 
+## Create a new package in python called pypi 
 
 - PEP: XXX
 - Title: Create a new package in python called pypi
@@ -15,11 +15,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - Status: Draft
 - Python-Version: 2.6
 
-## Abstract 
+### Abstract 
 
 This PEP describes how the commands that are used to register and upload a package to PyPI can be extracted from distutils and put in a new independant package in Python called pypi, that would also describe the PyPI protocol.
 
-## Motivation 
+### Motivation 
 
 distutils is responsible for too many things, and the register and upload commands are completely standalone. In other words they can be extracted from distutils and placed into a new package that would also describe the protocol used by the PyPI server.
 
@@ -36,11 +36,11 @@ Let\'s improve all of this by:
 
 The last point would let anyone implement this protocol for the client-side or the server-side, by using this package as a base.
 
-## Improving password handling 
+### Improving password handling 
 
 Currently, the password and the user are in clear text in .pypirc. This is a bit insecure. Let\'s make it an optional and if not provided let the user type it at the prompt when needed.
 
-## Improving metadata controls 
+### Improving metadata controls 
 
 When a package is uploaded at PyPI, there are several things that can be done on the client-side in order to control it.
 
@@ -56,7 +56,7 @@ A new variable in .pypirc can be added in order to block a registration or an up
 
 From there, the command line utility will be able to decide if it should continue or not. The problem with the reST control is that it would require docutils.
 
-## Providing a command line utility, independantly from setup.py 
+### Providing a command line utility, independantly from setup.py 
 
 Let\'s drop the setup.py command line to register and upload a package. The new pypi package can handle this as long as the package is pointed. A high-level script can be provided in the Scripts/ folder of Python, and a developer can use it to control, register or upload a package. And also to browse PyPI.
 
@@ -95,11 +95,11 @@ The pypi command could also let you browse PyPI, like the Yolk project does (see
 
 Browsing capabilities using PyPI XML-RPC features : XXX TBD
 
-## Clearly describe the PyPI protocol 
+### Clearly describe the PyPI protocol 
 
 XXX TBD : describe the methods inmplemented in the [CheeseShop](../people/CheeseShop)
 
-## How ? 
+### How ? 
 
 A first refactoring was made a few months ago to allow users to handle several PyPI logins and servers in .pypirc ([http://bugs.python.org/issue1858](http://bugs.python.org/issue1858)) and the code responsible for .pypirc managment and for handling the registering and the upload were isolated.
 

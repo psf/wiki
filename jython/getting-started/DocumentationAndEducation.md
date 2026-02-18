@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Jython Documentation and Learning 
+## Jython Documentation and Learning 
 
 This section is devoted to all things related to documentation, learning, examples and links to online resources. These are living documents so if you have anything related this section you would like to contribute please do so.
 

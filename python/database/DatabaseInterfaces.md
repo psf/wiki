@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page lists database interfaces available for Python. It may also help in finding a suitable database engine for you to use in your Python database applications.
 
-# Generic Database Interfaces and APIs 
+## Generic Database Interfaces and APIs 
 
 - The Python standard for database interfaces is the [Python DB-API (PEP 249)](http://www.python.org/dev/peps/pep-0249/) Most Python database interfaces adhere to this standard.
 
@@ -18,19 +18,19 @@ This page lists database interfaces available for Python. It may also help in fi
 
 - See also [DbApiModuleComparison](DbApiModuleComparison)
 
-## ODBC Support 
+### ODBC Support 
 
 - See [ODBC](../archive/ODBC)
 
-## ADO Support 
+### ADO Support 
 
 - See [ADO](ADO)
 
-# Database Interfaces for Relational Database Systems 
+## Database Interfaces for Relational Database Systems 
 
 Database systems employing a relational model, with support for SQL.
 
-## General Purpose Database Systems 
+### General Purpose Database Systems 
 
 - IBM [DB2](../archive/DB2)
 
@@ -58,7 +58,7 @@ Database systems employing a relational model, with support for SQL.
 
 (To add new entries, please choose [DatabaseTemplate](DatabaseTemplate) when creating the page.)
 
-## Data Warehouse Database Systems 
+### Data Warehouse Database Systems 
 
 - [Teradata](../archive/Teradata)
 
@@ -66,7 +66,7 @@ Database systems employing a relational model, with support for SQL.
 
 (To add new entries, please choose [DatabaseTemplate](DatabaseTemplate) when creating the page.)
 
-## Database Systems for Embedding Into Applications 
+### Database Systems for Embedding Into Applications 
 
 The following database systems are more oriented towards embedded applications:
 
@@ -80,9 +80,9 @@ The following database systems are more oriented towards embedded applications:
 
 (To add new entries, please choose [DatabaseTemplate](DatabaseTemplate) when creating the page.)
 
-# Non-Relational Databases 
+## Non-Relational Databases 
 
-## Record-based Databases 
+### Record-based Databases 
 
 Databases working on flat files or fixed records.
 
@@ -102,19 +102,19 @@ Databases working on flat files or fixed records.
 
 (To add new entries, please choose [DatabaseTemplate](DatabaseTemplate) when creating the page.)
 
-## XML Databases 
+### XML Databases 
 
 - 4Suite server
 
 - Oracle/Sleepycat DB XML ([howto](http://jimmyg.org/blog/2008/oracle-db-xml-was-sleepycat.html))
 
-## Graph Databases 
+### Graph Databases 
 
 - [Neo4j](./Neo4j.html)
 
 (To add new entries, please choose [DatabaseTemplate](DatabaseTemplate) when creating the page.)
 
-# Native Python Databases 
+## Native Python Databases 
 
 - [buzhug](../archive/buzhug)
 

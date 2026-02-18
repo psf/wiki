@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Lightning Talks 
+## Lightning Talks 
 
 A lightning talk is a short presentation of your choosing, no longer than five minutes. There is no approval process to give a lightning talk; speakers simply sign up here or at [PyOhio](../PyOhio). The idea is borrowed from [PyCon](../../pycon/PyCon), where they are enormously popular.
 
@@ -16,7 +16,7 @@ Anybody can give a lightning talk. You can give a lightning talk on the same top
 
 To reserve a Lightning Talks slot, just edit this page (look for the word-balloon icon at the upper right) and add your name and topic.
 
-## Lightning Talk speakers for PyOhio 
+### Lightning Talk speakers for PyOhio 
 
 1\. Catherine Devlin: cmd and cmd2. [http://catherine.devlin.googlepages.com/cmd2.html](http://catherine.devlin.googlepages.com/cmd2.html)
 

@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Leo 
+## Leo 
 
 *the **L**eonine **E**ditor with **O**utlines - [http://leoeditor.com/](http://leoeditor.com/)*
 
-## Overview 
+### Overview 
 
 Leo is a power tool for people who want to organize, study and work with data, especially complex data like computer programs, books, web sites and data bases. Superficially, Leo may look like other outlining programs, code folding editors or class browsers, but it most certainly is not.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Matplotlib Sprint 
+## Matplotlib Sprint 
 
 We\'ll be doing a sprint starting around 10AM on matplotlib. There aren\'t a fixed set of topics yet, but please joing a discussion on matplotlib-users or matplotlib-devel if you have some specific ideas, or just add it to the wiki.
 

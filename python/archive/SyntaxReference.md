@@ -8,14 +8,14 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\'s syntax at a glance, showing first the markup verbatim and then how it is rendered by the wiki engine. Additionally, you\'ll find links to the relative help pages. Please note that some of the features depend on your configuration.
 
-# Table of Contents 
+## Table of Contents 
 
     '''Contents''' (up to the 2nd level)
     <<TableOfContents(2)>>
 
 **Contents** (up to the 2nd level)
 
-# Headings 
+## Headings 
 
 ***see:** [HelpOnHeadlines](HelpOnHeadlines)*
 
@@ -25,17 +25,17 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
     ==== heading 4th level ====
     ===== heading 5th level =====
 
-# heading 1st level 
+## heading 1st level 
 
-## heading 2nd level 
+### heading 2nd level 
 
-### heading 3rd level 
+#### heading 3rd level 
 
-#### heading 4th level 
+##### heading 4th level 
 
-##### heading 5th level 
+###### heading 5th level 
 
-# Text Formatting 
+## Text Formatting 
 
 ***see:** [HelpOnFormatting](HelpOnFormatting)*
 
@@ -73,11 +73,11 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
 
 - [strike through]
 
-# Hyperlinks 
+## Hyperlinks 
 
 ***see:** [HelpOnLinking](HelpOnLinking)*
 
-## Internal Links 
+### Internal Links 
 
      * FrontPage
      * [[FrontPage]]
@@ -113,7 +113,7 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
 
 - [filename.txt]( "Upload new attachment "filename.txt"")
 
-## External Links 
+### External Links 
 
      * http://moinmo.in/
      * [[http://moinmo.in/]]
@@ -146,7 +146,7 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
 
 - [user@example.com](mailto:user@example.com)
 
-## Avoid or Limit Automatic Linking 
+### Avoid or Limit Automatic Linking 
 
      * Wiki''''''Name
      * Wiki``Name
@@ -170,11 +170,11 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
 
 - [http://www.example.com/](http://www.example.com/)notlinked
 
-# Drawings 
+## Drawings 
 
 - [![myexample.tdraw](./SyntaxReference.html?action=AttachFile&do=box&target=myexample.tdraw&member=drawing.png "myexample.tdraw")](attachments/SyntaxReference/myexample.tdraw)
 
-# Blockquotes and Indentations 
+## Blockquotes and Indentations 
 
      indented text
       text indented to the 2nd level
@@ -182,11 +182,11 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
 - indented text
   - text indented to the 2nd level
 
-# Lists 
+## Lists 
 
 ***see:** [HelpOnLists](HelpOnLists)*
 
-## Unordered Lists 
+### Unordered Lists 
 
      * item 1
 
@@ -209,9 +209,9 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
   - item 4.1
     - item 4.1.1 (bulletless)
 
-## Ordered Lists 
+### Ordered Lists 
 
-### with Numbers 
+#### with Numbers 
 
      1. item 1
        1. item 1.1
@@ -223,7 +223,7 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
     2.  item 1.2
 2.  item 2
 
-### with Roman Numbers 
+#### with Roman Numbers 
 
      I. item 1
        i. item 1.1
@@ -235,7 +235,7 @@ I.  item 1
     ii. item 1.2
 II. item 2
 
-### with Letters 
+#### with Letters 
 
      A. item A
        a. item A. a)
@@ -247,7 +247,7 @@ A.  item A
     b.  item A. b)
 B.  item B
 
-## Definition Lists 
+### Definition Lists 
 
      term:: definition
      object::
@@ -265,7 +265,7 @@ object
 
 :   description 2
 
-# Horizontal Rules 
+## Horizontal Rules 
 
 ***see:** [HelpOnRules](HelpOnRules)*
 
@@ -291,11 +291,11 @@ object
 
 ------------------------------------------------------------------------
 
-# Tables 
+## Tables 
 
 ***see:** [HelpOnTables](HelpOnTables)*
 
-## Tables 
+### Tables 
 
     ||'''A'''||'''B'''||'''C'''||
     ||1      ||2      ||3      ||
@@ -307,7 +307,7 @@ object
   ------- ------- -------
 :::
 
-## Cell Width 
+### Cell Width 
 
     ||minimal width ||<99%>maximal width ||
 
@@ -317,7 +317,7 @@ object
   --------------- ---------------
 :::
 
-## Spanning Rows and Columns 
+### Spanning Rows and Columns 
 
     ||<|2> cell spanning 2 rows ||cell in the 2nd column ||
     ||cell in the 2nd column of the 2nd row ||
@@ -336,7 +336,7 @@ object
 +--------------------------------------------------------------+
 :::
 
-## Alignment of Cell Contents 
+### Alignment of Cell Contents 
 
     ||<^|3> top (combined) ||<:99%> center (combined) ||<v|3> bottom (combined) ||
     ||<)> right ||
@@ -352,7 +352,7 @@ object
 +----------------+-------------------+-------------------+
 :::
 
-## Coloured Table Cells 
+### Coloured Table Cells 
 
     ||<#0000FF> blue ||<#00FF00> green    ||<#FF0000> red    ||
     ||<#00FFFF> cyan ||<#FF00FF> magenta  ||<#FFFF00> yellow ||
@@ -364,7 +364,7 @@ object
   ------ --------- --------
 :::
 
-## HTML-like Options for Tables 
+### HTML-like Options for Tables 
 
     ||A ||<rowspan="2"> like <|2> ||
     ||<bgcolor="#00FF00"> like <#00FF00> ||
@@ -380,9 +380,9 @@ object
 +---------------------------------+
 :::
 
-# Macros and Variables 
+## Macros and Variables 
 
-## Macros 
+### Macros 
 
 ***see:** [HelpOnMacros](HelpOnMacros)*
 
@@ -396,7 +396,7 @@ object
 
 - `<<MailTo(user AT example DOT com)>>`{.backtick} obfuscates the email address `user@example.com`{.backtick} to users not logged in
 
-## Variables 
+### Variables 
 
 ***see:** [HelpOnVariables](HelpOnVariables)*
 
@@ -404,7 +404,7 @@ object
 
 - `@`{.backtick}`TIME`{.backtick}`@`{.backtick} inserts date and time of modification
 
-# Smileys and Icons 
+## Smileys and Icons 
 
 ***see:** [HelpOnSmileys](HelpOnSmileys)*
 
@@ -424,11 +424,11 @@ object
 :::
 ::::
 
-# Parsers 
+## Parsers 
 
 ***see:** [HelpOnParsers](HelpOnParsers)*
 
-## Verbatim Display 
+### Verbatim Display 
 
     {{{
     def hello():
@@ -438,7 +438,7 @@ object
     def hello():
         print "Hello World!"
 
-## Syntax Highlighting 
+### Syntax Highlighting 
 
     {{{#!python
     def hello():
@@ -454,7 +454,7 @@ object
 :::
 ::::
 
-## Using the wiki parser with css classes 
+### Using the wiki parser with css classes 
 
     {{{#!wiki red/solid
     This is wiki markup in a '''div''' with __css__ `class="red solid"`.
@@ -464,7 +464,7 @@ object
 This is wiki markup in a **div** with [css] `class="red solid"`{.backtick}.
 :::
 
-# Admonitions 
+## Admonitions 
 
 ***see:** [HelpOnAdmonitions](HelpOnAdmonitions)*
 
@@ -480,7 +480,7 @@ This is wiki markup in a **div** with [css] `class="red solid"`{.backtick}.
 Admonitions should be used with care. A page riddled with admonitions will look restless and will be harder to follow then a page where admonitions are used sparingly.
 :::
 
-# Comments 
+## Comments 
 
 ***see:** [HelpOnComments](HelpOnComments)*
 

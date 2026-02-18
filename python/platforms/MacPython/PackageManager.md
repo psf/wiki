@@ -32,11 +32,11 @@ but it seems that there should be an easier way.
 
 Make sure to check out [PackageManagerRepository](./PackageManagerRepository.html), there are alternate databases that have a wealth of additional packages.
 
-# How do I get it? 
+## How do I get it? 
 
 [PackageManager](./PackageManager.html) comes with a full [MacPython]() distribution. For OS X 10.3 users, get the [MacPythonPantherAddons](./MacPythonPantherAddons.html).
 
-# Related Links 
+## Related Links 
 
 - [/PackageManagerRepository](./MacPython(2f)PackageManager(2f)PackageManagerRepository.html)
 

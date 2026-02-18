@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Introduction 
+## Introduction 
 
 The list is ordered with a preference to number of downloads per month, followed by the number of subscribers to the project mailing list.
 
@@ -20,7 +20,7 @@ Download figures will vary for a project as new releases are made. Perhaps the d
 The download figures were last updated in March 2004.
 :::
 
-## Additional notes 
+### Additional notes 
 
 - Mac OS X includes Python - Jaguar used Python 2.2.0, Panther uses Python 2.3.0
 
@@ -30,7 +30,7 @@ The download figures were last updated in March 2004.
 
 - [AppsWithPythonScripting](../libraries/AppsWithPythonScripting)
 
-# Most Popular Python Projects 
+## Most Popular Python Projects 
 
 [BitTorrent](http://bitconjurer.org/BitTorrent/)
 
@@ -178,7 +178,7 @@ The download figures were last updated in March 2004.
 - downloads: 2-3K/month
 - mailing lists subscribers: 400+
 
-## Python downloads for comparison 
+### Python downloads for comparison 
 
 These are the download figures for the latest release version of Python from python.org from the previous month. These figures do not include earlier versions of Python or downloads from mirror sites or other distributions.
 

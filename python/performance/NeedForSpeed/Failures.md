@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Things that we tried but decided were not good ideas. 
+## Things that we tried but decided were not good ideas. 
 
 **Using more aggressive calling conventions/inlining in ceval**
 

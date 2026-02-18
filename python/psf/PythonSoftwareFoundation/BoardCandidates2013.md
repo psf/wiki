@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the 2013 PSF Board of Directors
+## Candidates for the 2013 PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning in March 2013. Their self-written summaries follow.
 
@@ -49,7 +49,7 @@ Links
 \...Candidate entries go here\...
 
 ::: 
-### [Marc-Andre Lemburg](#id2)
+#### [Marc-Andre Lemburg](#id2)
 
 *2012 Board Member.*
 
@@ -80,7 +80,7 @@ I\'d like to continue with this work as director and look forward to another yea
 ------------------------------------------------------------------------
 
 ::: 
-### [Jesse Noller](#id3)
+#### [Jesse Noller](#id3)
 
 *Current 2012/13 Board Member.*
 
@@ -121,7 +121,7 @@ I would be honored to continue to serve on the board and working to make a more 
 ------------------------------------------------------------------------
 
 ::: 
-### [David Mertz](#id4)
+#### [David Mertz](#id4)
 
 *Current 2012/13 Board Member.*
 
@@ -142,7 +142,7 @@ I have served on the PSF board for four years, would like to continue to do so, 
 ------------------------------------------------------------------------
 
 ::: 
-### [Jessica McKellar](#id5)
+#### [Jessica McKellar](#id5)
 
 *Current board member*
 
@@ -173,7 +173,7 @@ Next year, I\'d like to:
 ------------------------------------------------------------------------
 
 ::: 
-### [Lynn Root](#id6)
+#### [Lynn Root](#id6)
 
 *New board member*
 
@@ -205,7 +205,7 @@ What I wish to continue:
 ------------------------------------------------------------------------
 
 ::: 
-### [Naomi Ceder](#id7)
+#### [Naomi Ceder](#id7)
 
 *New Board Member.*
 
@@ -234,7 +234,7 @@ My goal as a board member would be to do all that I can to help the PSF achieve 
 ------------------------------------------------------------------------
 
 ::: 
-### [Brett Cannon](#id8)
+#### [Brett Cannon](#id8)
 
 *New Board Member (sort of).*
 
@@ -253,7 +253,7 @@ Point 2 is in reaction to sometimes abhorrent exchanges that have occurred on ps
 ------------------------------------------------------------------------
 
 ::: 
-### [Tarek Ziadé](#id9)
+#### [Tarek Ziadé](#id9)
 
 *New Board Member*
 
@@ -268,7 +268,7 @@ I want to be a board member to do the following:
 ------------------------------------------------------------------------
 
 ::: 
-### [Brian Curtin](#id10)
+#### [Brian Curtin](#id10)
 
 *Current Board Member*
 
@@ -294,7 +294,7 @@ I was honored to have been elected in 2012, and would be honored to serve again 
 ------------------------------------------------------------------------
 
 ::: 
-### [Noah Kantrowitz](#id11)
+#### [Noah Kantrowitz](#id11)
 
 *New board member*
 
@@ -314,7 +314,7 @@ Over the next year I would like to:
 :::
 
 ::: 
-### [Tim Peters](#id12)
+#### [Tim Peters](#id12)
 
 *2012 Board Member*
 
@@ -324,7 +324,7 @@ I\'ve been on the PSF Board from its inception, the sole surviving member of the
 ------------------------------------------------------------------------
 
 ::: 
-### [Paul Everitt](#id13)
+#### [Paul Everitt](#id13)
 
 *Newish Board Member*
 
@@ -343,7 +343,7 @@ I want to serve on the PSF board for personal reasons: I miss all my old friends
 ------------------------------------------------------------------------
 
 ::: 
-### [Alex Gaynor](#id14)
+#### [Alex Gaynor](#id14)
 
 *New board member*
 
@@ -366,7 +366,7 @@ My goals as a board member would be:
 ------------------------------------------------------------------------
 
 ::: 
-### [Frank Wiles](#id15)
+#### [Frank Wiles](#id15)
 
 *New Board Member.*
 
@@ -387,7 +387,7 @@ Other Python related community contributions:
 ------------------------------------------------------------------------
 
 ::: 
-### [Van Lindberg](#id16)
+#### [Van Lindberg](#id16)
 
 *Current Board Member.*
 
@@ -415,7 +415,7 @@ I would be honored to continue to serve on the board.
 ------------------------------------------------------------------------
 
 ::: 
-### [Doug Napoleone](#id17)
+#### [Doug Napoleone](#id17)
 
 *Current Board Member.*
 

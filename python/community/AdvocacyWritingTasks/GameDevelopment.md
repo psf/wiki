@@ -6,6 +6,6 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Outline for: \"Game Development with Python\" 
+## Outline for: \"Game Development with Python\" 
 
 - ???

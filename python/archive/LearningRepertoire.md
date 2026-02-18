@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Repertoire of Building Blocks for Learning Programming 
+## Repertoire of Building Blocks for Learning Programming 
 
 Here are collected raw materials for new programmers to be able to quickly do something with Python, the building blocks with which to construct their solution. Their success is built on three things - the language, the library of modules and access to data elements, as needed.
 

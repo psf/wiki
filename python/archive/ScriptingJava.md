@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Tools for scripting Java using Python 
+## Tools for scripting Java using Python 
 
 This page lists tools for Java/Python interoperatbility.
 
@@ -18,7 +18,7 @@ The purpose of this page is to provide:
 
 ------------------------------------------------------------------------
 
-## Active Projects 
+### Active Projects 
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ The purpose of this page is to provide:
 
 ------------------------------------------------------------------------
 
-## Discontinued Projects 
+### Discontinued Projects 
 
 ------------------------------------------------------------------------
 

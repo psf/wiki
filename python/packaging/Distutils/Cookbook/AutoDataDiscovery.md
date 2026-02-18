@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Problem 
+## Problem 
 
 Distutils requires that you manually specify each directory and data-file to be included in the distribution. For packages with large and deep sub-package hierarchies it can be a pain to keep this list in sync with the code, particularly as forgetting an entry is not noticable until a user happens to report that a resource is missing.
 
-# Solution 
+## Solution 
 
 Use an automatic scanning mechanism to generate the data_files parameter for setup:
 
@@ -57,7 +57,7 @@ and pass the result to setup:
 
 You can see a real-world usage example in the [PyTable setup script](http://cvs.sourceforge.net/viewcvs.py/pytable/table/setup.py?view=markup)
 
-# Discussion 
+## Discussion 
 
 Again, there should be some way to do this with a distutils template processing call or something, but this direct processing approach works well enough. This approach is very similar to [DistutilsAutoPackageDiscovery](./DistutilsAutoPackageDiscovery.html).
 

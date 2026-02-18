@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sign Up for a Sprint!
+## Sign Up for a Sprint!
 
 Are you interested in sprinting in this project? Great!
 

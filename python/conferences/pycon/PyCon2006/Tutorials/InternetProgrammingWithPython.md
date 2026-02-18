@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Internet Programming with Python 
+## Internet Programming with Python 
 
-### Audience/Who Should Attend 
+#### Audience/Who Should Attend 
 
 Developers familiar with Python who are interested in exploring client-server socket programming, Internet client development, and CGI programming.
 
-### Description 
+#### Description 
 
 Python is an interpreted, cross-platform, object-oriented programming language that is popular for a wide range of applications, one of which is Internet programming. This tutorial introduces current Python programmers to three distinct areas of Internet programming, each in self-contained one-hour lectures:
 

@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Logos 
+## Python Logos 
 
 *Note:* This page is readable without login and provides additional variants to the ones on the [logo page](https://www.python.org/community/logos/) on python.org.
 
-## Master Python Logo 
+### Master Python Logo 
 
 These are the versions which Tim Parkin designed and used as basis for the other variants.
 
@@ -25,7 +25,7 @@ These are the versions which Tim Parkin designed and used as basis for the other
 
     \- [python-logo-inkscape.svg](attachments/Python(20)Logos/python-logo-inkscape.svg) (Inkscape specific SVG)
 
-## IP Rights 
+### IP Rights 
 
 The Python logo was designed by Tim Parkin.
 

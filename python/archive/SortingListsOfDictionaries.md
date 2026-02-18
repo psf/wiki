@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sorting Lists of Dictionaries 
+## Sorting Lists of Dictionaries 
 
 Frequently you want to sort a list of dictionaries, based on some particular key.
 
@@ -71,6 +71,6 @@ Column names preceded by \'-\' are sorted in descending order:
 
     >>> result = multikeysort(undecorated, ['-key1', '-key2', '-key3'])
 
-## See Also 
+### See Also 
 
 - [HowTo/Sorting](../guides/HowTo/Sorting)

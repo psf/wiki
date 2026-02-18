@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Distinguishing between click and double click 
+## Distinguishing between click and double click 
 
 In a [PyQt QCalendarWidget events question](http://mail.python.org/pipermail/python-list/2012-July/626779.html) thread on the python-list mailing list, *tinnews* asked for a way to distinguish between single and double clicks on a calendar widget. This problem is more generally handled for a widget using timers in the following code:
 

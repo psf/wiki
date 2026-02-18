@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# reStructuredText (reST) 
+## reStructuredText (reST) 
 
 reStructuredText is a complete rewrite of [StructuredText](../language/StructuredText) by David Goodger.
 
@@ -30,7 +30,7 @@ More information:
 
 ![{i}](/wiki/europython/img/icon-info.png "{i}") [MoinMoin](MoinMoin) contains an (incomplete) bridge to the docutils\'s parser, you can try this by using \"#format rst\" as the first line of a wiki page. See [RestSample](http://moinmo.in/RestSample "MoinMoin") for an example. This of course only works when you use the current CVS version, and when docutils is installed.
 
-## Reading reST, Writing HTML 
+### Reading reST, Writing HTML 
 
 There\'s surprisingly little on the web and in the documentation about reading reST, and writing HTML.
 
@@ -38,7 +38,7 @@ There\'s documentation on how to read reST, and output an entire HTML document. 
 
 Here are two approaches that have been found.
 
-### The \"Official\" Way 
+#### The \"Official\" Way 
 
 There is no \"official\" way, but here\'s a method that works with the reST system.
 
@@ -106,7 +106,7 @@ If you want everything wrapped in a div tag, (perhaps to, say, delineate a \"com
 
 These techniques were culled from [an ASPN article,](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/193890) and connected comments.
 
-### The \"Easy\" Way 
+#### The \"Easy\" Way 
 
 [IanBicking](../people/IanBicking) has contributed this code, which reads a source text (in reST), and writes HTML:
 
@@ -123,7 +123,7 @@ These techniques were culled from [an ASPN article,](http://aspn.activestate.com
 
 \"It may feel wrong, but it works, and works reliably.\"
 
-### The \"Cool\" Way 
+#### The \"Cool\" Way 
 
 \"This sure is a lot cooler and generates a nice and more kosher html fragment from the \'official\' reST-to-html fragment example above.\"-[MaxPa](../people/MaxPa)
 
@@ -141,11 +141,11 @@ These techniques were culled from [an ASPN article,](http://aspn.activestate.com
 :::
 ::::
 
-### See Also: 
+#### See Also: 
 
 [PyTextile](../people/PyTextile) is a similar, but different, text-to-html converter. It was originally intended for HTML fragments, unlike reStructuredText.
 
-## Discussion 
+### Discussion 
 
 I\'ve been having problems getting reST to work from a blog script I\'ve written. It seems that there\'s a part in Publisher where I\'m triggering an exception, and then Publisher calls *exit,* so I can\'t see what\'s wrong.
 

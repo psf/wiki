@@ -11,7 +11,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 PyGSL reference manual: [http://pygsl.sourceforge.net/reference/pygsl/index.html](http://pygsl.sourceforge.net/reference/pygsl/index.html)
 
 ::: 
-# Introduction 
+## Introduction 
 
 You can use all wiki markup for making your slides - just keep the following in mind:
 
@@ -29,7 +29,7 @@ You can use all wiki markup for making your slides - just keep the following in 
 :::
 
 ::: 
-# Creating the slides 
+## Creating the slides 
 
 Put a headline on top of your page (as you see above) because in DiaShow mode, the wiki page title won\'t be visible (as the whole wiki frame stuff won\'t be visible, only the page contents).
 

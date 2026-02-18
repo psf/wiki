@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2018 
+## EuroPython 2018 
 
 EuroPython 2018 will take place from July 23 - 29, in Edinburgh, UK.
 
@@ -20,32 +20,32 @@ See the official site for more details:
 
 If you want to add information to this page and find that it is immutable, please sign up to the wiki and see the [FrontPage](../../people/FrontPage) for details on how to get editing permissions.
 
-## Discussion 
+### Discussion 
 
 Please join the [EuroPython](EuroPython) Mailing List to discuss conference topics:
 
 - [EuroPython Mailing List](https://mail.python.org/mailman/listinfo/europython)
 
-## Sprints 
+### Sprints 
 
 Please add sprint proposals to the following page:
 
 - [/Sprints](EuroPython2018/Sprints) - [EuroPython](EuroPython) 2018 sprints
 
-## Traveling 
+### Traveling 
 
 - \...
 
-## Sightseeing in Edinburgh 
+### Sightseeing in Edinburgh 
 
 - \...
 
-## Check out what\'s going on in Edinburgh 
+### Check out what\'s going on in Edinburgh 
 
 To find what you like in Edinburgh (Theater, Music, Culture, People, Restaurants, \...)
 
 - \...
 
-## Special events during the conference 
+### Special events during the conference 
 
 - \...

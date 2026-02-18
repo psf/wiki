@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Making the Python Email package fully functional on Python3
+## Making the Python Email package fully functional on Python3
 
 Based on discussions on the [Email-SIG](http://wiki.python.org/moin/Email%20SIG) [mailing list](http://mail.python.org/mailman/listinfo/email-sig), I put together a [proposal](http://www.bitdance.com/test/projects/email6/psfproposal/) for re-engineering the standard library email package\'s API and internals so that it can correctly handle Python3\'s careful separation between bytes and strings. The first two months of this proposal were [funded](http://www.python.org/psf/records/board/minutes/2009-12-14/#funding-for-python-3-email-module) by the PSF. Completing the project will require additional contributions, and one form those contributions could take would be an application from a GSoC student to work on the project.
 

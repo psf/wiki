@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Singleton 
+## Singleton 
 
 See also [http://c2.com/cgi/wiki?PythonSingleton](http://c2.com/cgi/wiki?PythonSingleton) and [http://www.python.org/workshops/1997-10/proceedings/savikko.html](http://www.python.org/workshops/1997-10/proceedings/savikko.html)
 
-### classmethod
+#### classmethod
 
 ------------------------------------------------------------------------
 

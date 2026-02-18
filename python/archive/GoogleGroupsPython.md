@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Posting from Google Groups 
+## Posting from Google Groups 
 
 Many people find reading the comp.lang.python newsgroup / python-list mailing list on [Google Groups](https://groups.google.com/forum/#!forum/comp.lang.python) to be simple and convenient. It is also possible to post messages to the list from there. But please be aware that your message will be read by many people using mail or Usenet clients, not Google Groups. Posts from Google Groups have some problems that may make your post difficult or annoying to read by these other list participants, and all would appreciate it if you would fix them before clicking the Post button.
 
@@ -58,7 +58,7 @@ Many people find reading the comp.lang.python newsgroup / python-list mailing li
 
 - Remove (trim) context that is not relevant to your reply.
 
-# Automatic correction 
+## Automatic correction 
 
 ::: caution
 This section is as yet experimental
@@ -76,7 +76,7 @@ Please note that
 - No experience with macs so far or other browsers
 - Assumes a python executable is available
 
-## Instructions 
+### Instructions 
 
 1\. Install the firefox plugin [Its all text](https://addons.mozilla.org/en-US/firefox/addon/its-all-text/)
 
@@ -147,7 +147,7 @@ Please note that
 
 3\. In firefox go to the tools → addons → extensions → Its all text preferences and set the editor to `~/clean-gg.py` (expanding \~ to your actual home directory)
 
-## Usage 
+### Usage 
 
 After the above, in firefox, when editing a text box in google groups a small edit button should appear at bottom right of text box.
 
@@ -168,7 +168,7 @@ In short you need do 2 clicks more than what you would otherwise do.
 
 For fresh posts (not replys) you dont need the first click as there is nothing to clean up.
 
-## Windows 
+### Windows 
 
 ::: caution
 Not really tested on windows

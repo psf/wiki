@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Web Accessibility 
+## Web Accessibility 
 
-## General Links 
+### General Links 
 
 - [Good introduction from Wikipedia](http://en.wikipedia.org/wiki/Web_accessibility)
 
@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [US Section 508](http://www.section508.gov/)
 
-## Specifications 
+### Specifications 
 
 - [WCAG 1.0 Spec](http://www.w3.org/TR/WCAG10/)
 

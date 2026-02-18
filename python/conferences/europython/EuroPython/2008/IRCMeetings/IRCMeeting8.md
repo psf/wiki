@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #8 
+## IRC Meeting #8 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode at 19:00 CET on Friday 28th March.
 
 Please look at the minutes from the last meeting for more background information: /IRCMeeting7
 
-## Present 
+### Present 
 
 Laura, David, Paul, Giovanni, Dinu, Stephan, Marius, John, Harald
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Talks/Themes
   - Dinu had posted to the europython-improve mailing list about badges.
@@ -87,6 +87,6 @@ Laura, David, Paul, Giovanni, Dinu, Stephan, Marius, John, Harald
   - Sprints
   - Keynotes
 
-## Actions 
+### Actions 
 
 - See the bold sections above\...

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page attempts to collect information and links pertaining to the practice of AI and Machine Learning in python.
 
-# General AI 
+## General AI 
 
 - **[AIMA](http://code.google.com/p/aima-python/)** - Python implementation of algorithms from Russell and Norvig\'s \'Artificial Intelligence: A Modern Approach\'
 
@@ -18,7 +18,7 @@ This page attempts to collect information and links pertaining to the practice o
 
 - **[EasyAI](http://zulko.github.io/easyAI)** - Simple Python engine for two-players games with AI (Negamax, transposition tables, game solving).
 
-# Machine Learning 
+## Machine Learning 
 
 - **[GraphLab Create](https://dato.com/learn/userguide/)** - An end-to-end Machine Learning platform with a Python front-end and C++ core. It allows you to do data engineering, build ML models, and deploy them. Key design principles: out-of-core computation, fast and robust learning algorithms, easy-to-use Python API, and fast deployment of arbitrary Python objects.
 
@@ -52,7 +52,7 @@ This page attempts to collect information and links pertaining to the practice o
 
 - **[Yalign](https://github.com/machinalis/yalign)** - Yalign is a friendly tool for extracting parallel sentences from comparable corpora..
 
-# Natural Language & Text Processing 
+## Natural Language & Text Processing 
 
 - **[NLTK](http://www.nltk.org/)** - Open source Python modules, linguistic data and documentation for research and development in natural language processing and text analytics, with distributions for Windows, Mac OSX and Linux.
 
@@ -60,7 +60,7 @@ This page attempts to collect information and links pertaining to the practice o
 
 - **[Quepy](https://github.com/machinalis/quepy)** - A python framework to transform natural language questions to queries in a database query language.
 
-# Neural Networks 
+## Neural Networks 
 
 - **[neurolab](http://code.google.com/p/neurolab/)** - Neurolab is a simple and powerful Neural Network Library for Python. Contains based neural networks, train algorithms and flexible framework to create and explore other networks. It has the following features: pure python + numpy; API like Neural Network Toolbox (NNT) from MATLAB; interface to use train algorithms from scipy.optimize; flexible network configurations and learning algorithms; and a variety of supported types of Artificial Neural Network and learning algorithms.
 

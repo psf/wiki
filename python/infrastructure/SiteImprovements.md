@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# pydotorg Improvement Ideas 
+## pydotorg Improvement Ideas 
 
 This page collects suggestions for improving the [PythonWebsite](PythonWebsite), this wiki and related tools.
 
@@ -30,7 +30,7 @@ Development workflow
 
 Please choose the correct list, and try not to cross-post.
 
-## A bigger picture 
+### A bigger picture 
 
 Improving a web site is a process of enhancing user experience so that information is found faster and easier. Major things that need improvement can be obvious to many people, but they may seem like tasks of epic proportions, too big for an individual to consider tackling on their own. For example, implementing single sign-on for all Python services, OpenID support, an online editor for docs - these are all non-trivial tasks that require knowledge of the existing site architecture and access to the site code and supporting tools. There are also features that matter to everyone personally, and these are not obvious for everyone else: an automatic subscription to Wiki pages upon editing, various design improvements.
 
@@ -38,7 +38,7 @@ But the process of improvement has to solicit feedback in order to capture ideas
 
 A lot of information causes frustration: that\'s why people prefer Twitter to Blogger. Too much \"[inventory](../archive/Inventory)\" in the room makes it hard to navigate and notice things that are needed. The process of cleanup should involve throwing unused stuff away, leaving relevant and updated information in place. Naturally, the Wiki has accumulated lots of arguably unused and dated pages, but various python.org pages are affected as well. Too much information reduces the \"fun factor\": a separate status page will help people see what\'s going on and let them have more fun by focusing their work and enabling them to work together with others.
 
-## Miscellaneous 
+### Miscellaneous 
 
 - (done) Fix [webmaster@python.org](mailto:webmaster@python.org) response bug (per [7929](http://bugs.python.org/issue7929 "Issue"))
 
@@ -50,7 +50,7 @@ A lot of information causes frustration: that\'s why people prefer Twitter to Bl
 
     - Now [on GitHub](https://github.com/python/pythondotorg/issues) \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:39:43
 
-## Web Site 
+### Web Site 
 
 Note: we should probably review these, see which ones are still problems and file them [on GitHub](https://github.com/python/pythondotorg/issues), and then remove this section. \-- [SumanaHarihareswara](../people/SumanaHarihareswara) 2019-08-23 10:39:43
 
@@ -82,7 +82,7 @@ Note: we should probably review these, see which ones are still problems and fil
   ---------------- --------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------- --------------- ---------------------------------------------
 :::
 
-## Wiki Content 
+### Wiki Content 
 
 If you find stale pages, please add here, this might be useful work for volunteers
 
@@ -107,7 +107,7 @@ If you find stale pages, please add here, this might be useful work for voluntee
 
 - Rationalize the natural language coverage (merging the \"new\" language pages with the old ones)
 
-## Wiki Theme 
+### Wiki Theme 
 
 - Upgrade the Python theme to the one used by [the EuroPython Wiki site](http://wiki.europython.eu/) ![(./)](/wiki/europython/img/checkmark.png "(./)") Added to [InterWikiMap](../archive/InterWikiMap) as `Issue`{.backtick}. For example: [7942](http://bugs.python.org/issue7942 "Issue") in the tracker. \-- [PaulBoddie](../people/PaulBoddie) 2010-03-15 15:32:26
 
@@ -153,7 +153,7 @@ If you find stale pages, please add here, this might be useful work for voluntee
 
       - I think the \"python\" theme is unmaintained. There was a suggestion that the new default theme, also known as \"europython\", be renamed to \"python\" and thus appear for everyone who has chosen \"python\" as their theme, but that could be confusing for people. \-- [PaulBoddie](../people/PaulBoddie) 2011-03-25 23:01:36
 
-## Broken Links 
+### Broken Links 
 
 - Link for homepage and download on [http://pypi.python.org/pypi?%3Aaction=search&term=scapy&submit=search](http://pypi.python.org/pypi?:action=search&term=scapy&submit=search)
 
@@ -161,7 +161,7 @@ If you find stale pages, please add here, this might be useful work for voluntee
 
   - Download: [http://www.secdev.org/projects/scapy/files/scapy-latest.tar.gz](http://www.secdev.org/projects/scapy/files/scapy-latest.tar.gz)
 
-## Core Developer Web Resources 
+### Core Developer Web Resources 
 
 The [Core Development Helper Tools](../archive/CoreDevHelperTools) page discusses enhancements for version control and bug tracking, particularly with regard to integration.
 

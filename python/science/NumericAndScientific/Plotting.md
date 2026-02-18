@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Graphical Representations of Data 
+## Graphical Representations of Data 
 
 Over the years many different plotting modules and packages have been developed for Python. For most of that time there was no clear favorite package, but recently matplotlib has become the most widely used. Nevertheless, many of the others are still available and may suit your tastes or needs better. Some of these are interfaces to existing plotting libraries while others are Python-centered new implementations.
 
-## Image Processing and Analysis 
+### Image Processing and Analysis 
 
 - The [PIL Toolkit](http://www.pythonware.com/downloads.htm#pil) provides a very powerful set of tools for manipulating images. [Documentation](http://www.pythonware.com/library/pil/handbook/index.htm)
 
 - [PyQtGraph](http://www.pyqtgraph.org) is a pure-python graphics library built on [PyQt4](../../gui/PyQt4) and numpy. It is intended for use in mathematics / scientific / engineering applications. The library provides widgets and graphicsItems for displaying / analyzing live image data (including 16-bit) as well as translate/scale/rotatable region-of-interest widgets for interactively slicing numpy arrays. The library is very fast due to its heavy leverage of numpy and Qt\'s graphicsView framework.
 
-## Plotting Tools 
+### Plotting Tools 
 
 - [Matplotlib](http://matplotlib.sourceforge.net) is an Open Source plotting library designed to support interactive and publication quality plotting with a syntax familiar to Matlab users. Its interactive mode supports multiple windowing toolkits (currently: GTK, Tkinter, Qt, and wxWindows) as well as multiple noninteractive backends (PDF, postscript, SVG, antigrain geometry, and Cairo). Plots can be embedded within GUI applications or for non-interactive uses without any available display in batch mode. Matplotlib provides both a Matlab-like functional interface as well as an object oriented interface. [IPython](http://ipython.scipy.org) has a \"pylab\" mode which is specifically designed for interactive plotting with matplotlib.
 
@@ -94,7 +94,7 @@ Over the years many different plotting modules and packages have been developed 
 
 - [cartesius](http://tkrajina.github.com/cartesius/) is a small library for 2d coordinate system images.
 
-## Also of Note 
+### Also of Note 
 
 - There is an interface to the OpenGL library called [PyOpenGL](http://starship.python.net/~da/PyOpenGL/) that can be used to write sophisticated visualization tools from scratch.
 

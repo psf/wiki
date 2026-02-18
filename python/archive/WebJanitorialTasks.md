@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page lists web-related Python tasks that people can work on.
 
-# 1. Issues for Python system administration 
+## 1. Issues for Python system administration 
 
 1.  Consistent place for keeping source
 2.  Storing passwords (e.g. Mailman admin password,
 3.  Version-controlling configuration files (would be nice to get e-mail notifications)
 
-# 2. Content to move into the Wiki 
+## 2. Content to move into the Wiki 
 
 Jobs?
 
@@ -26,7 +26,7 @@ SIG pages?
 
 Topic guides
 
-# 3. Janitorial tasks 
+## 3. Janitorial tasks 
 
 Translate HTML pages into ReST
 

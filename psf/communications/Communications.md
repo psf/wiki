@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Communications Reports
+## Communications Reports
 
 This section holds the status reports of the Communications team.
 

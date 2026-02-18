@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Twisted Examples 
+## Python Twisted Examples 
 
 *For current and complete Twisted documentation, please refer to [http://twistedmatrix.com/trac/wiki/Documentation](http://twistedmatrix.com/trac/wiki/Documentation)*
 
@@ -34,7 +34,7 @@ If your OpenSSL ore kerberos header files are not in /usr/include, you may need 
 
 - Verify that all the package are installed correctly by **import**ing **pyOpenSSL-0.7, twisted, Crypto** from a python shell and we are ready to go.
 
-## Simple HTTP Proxy Server (proxy.py) 
+### Simple HTTP Proxy Server (proxy.py) 
 
     from twisted.web import proxy, http
     from twisted.internet import reactor

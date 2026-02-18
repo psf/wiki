@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Software Foundation License Version 2 Revised 
+## Python Software Foundation License Version 2 Revised 
 
 This is the current draft revision 0.1 of the Revised Python Software Foundation License Version 2, after incorporating feedback from some lawyers. It may be used as the basis for Version 3 in the future ([PythonSoftwareFoundationLicenseV2Easy](PythonSoftwareFoundationLicenseV2Easy) is the official Version 2 PSF License):
 

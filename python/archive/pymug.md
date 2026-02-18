@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-## Python Mauritius User-Group 
+### Python Mauritius User-Group 
 
 Email: [arj.python@gmail.com](mailto:arj.python@gmail.com) changing mail soon
 
@@ -16,13 +16,13 @@ Mailing list: [https://mail.python.org/mailman3/lists/pymug.python.org/](https:/
 
 - Mail to [pymug@python.org](mailto:pymug@python.org) after signup to send messages
 
-# About 
+## About 
 
 \- We organise enriching meetups at least one per month.
 
 \- We provide workshops from time to time
 
-# Events 
+## Events 
 
 April 21, 11:00 AM - Meetup - See events page for location
 

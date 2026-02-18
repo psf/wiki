@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython Conference Software Requirements 
+## EuroPython Conference Software Requirements 
 
 This page is derived from [PyConPlanning/SoftwareRequirements](../../pycon/PyConPlanning/SoftwareRequirements) but focuses on things that have proven more relevant to [EuroPython](). The requirements here do not directly address general conference Web site issues, such as [http://www.europython.org/](http://www.europython.org/) which focuses on the publishing of general information about the conference.
 
 ------------------------------------------------------------------------
 
-## Existing Software 
+### Existing Software 
 
 There are a few solutions people are using for conference management, including the following:
 
@@ -26,7 +26,7 @@ There are a few solutions people are using for conference management, including 
 
 ------------------------------------------------------------------------
 
-## Essentials 
+### Essentials 
 
 These are things which have been central to the organisation of [EuroPython]() and which have already been managed using conference software:
 
@@ -35,14 +35,14 @@ These are things which have been central to the organisation of [EuroPython]() a
 - Paper/talk submissions
 - Scheduling
 
-## Extras 
+### Extras 
 
 These are things which could have been managed using conference software or which could have been made easier using such software:
 
 - Feedback
 - Sponsor management
 
-## Luxuries 
+### Luxuries 
 
 These are things which people seem to find interesting but which haven\'t been the focus of the [EuroPython]() organisers:
 
@@ -50,7 +50,7 @@ These are things which people seem to find interesting but which haven\'t been t
 
 ------------------------------------------------------------------------
 
-## Account Management 
+### Account Management 
 
 It is not generally a good idea to allow unauthenticated users to register for a conference - this tends to attract speculative registrations from people who seem not to be serious about attending. However, a few use-cases need to be supported for people logging in to\...
 
@@ -62,7 +62,7 @@ It is not generally a good idea to allow unauthenticated users to register for a
 
 One limitation of the Indico instance hosted at CERN was the insistence that registrants must have their own account. Creative workarounds include using distinct e-mail aliases belonging to one person.
 
-## Registration 
+### Registration 
 
 This combines some of the [PyCon](../../pycon/PyCon) requirements for \"users\" with more general requirements:
 
@@ -100,7 +100,7 @@ This combines some of the [PyCon](../../pycon/PyCon) requirements for \"users\" 
 - Optional donations and/or extra items
 - Support editing and cancellation of registrations by both users (for their own registrations) and by administrators
 
-## Paper/Talk Submissions 
+### Paper/Talk Submissions 
 
 See \"Account Management\" for some relevant criteria.
 
@@ -122,7 +122,7 @@ See \"Account Management\" for some relevant criteria.
 
 - Export conference materials for proceedings
 
-## Scheduling 
+### Scheduling 
 
 - Produce online schedules with talk information, track/theme membership for each room
 - Produce printable schedules for the entire conference, and for individual rooms for a given day
@@ -130,7 +130,7 @@ See \"Account Management\" for some relevant criteria.
 - It can be nice to be able to edit the schedule interactively
 - Room management: desirable to be able to switch or rename rooms globally
 
-## Sponsors 
+### Sponsors 
 
 - Sponsors can fill in a form with contact information that gets stored in a list and also e-mailed to the sponsorship coordinator
 - Support the following information:
@@ -142,7 +142,7 @@ See \"Account Management\" for some relevant criteria.
   - Banner received (Y/N)
   - Comments on where the banner should be displayed
 
-## Feedback 
+### Feedback 
 
 - Forms for the entire conference, and for specific talks and tutorials (but not sprints since they\'re separate things)
 - Report: feedback summary for the conference, summaries for individual talks
@@ -150,7 +150,7 @@ See \"Account Management\" for some relevant criteria.
 
 ------------------------------------------------------------------------
 
-## Experiences with Indico 
+### Experiences with Indico 
 
 [Indico](http://cdsware.cern.ch/indico/) has been used to manage [EuroPython]() 2007. Here\'s how it fares in the above criteria:
 

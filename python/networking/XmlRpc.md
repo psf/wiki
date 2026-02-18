@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# XML-RPC 
+## XML-RPC 
 
 XML-RPC is a neat way to send messages across the Internet.
 
@@ -14,7 +14,7 @@ The neat thing about XML-RPC is that it transports *native data structures*- you
 
 You can [read more about it over on C2,](http://c2.com/cgi/wiki?XmlRpc "Wiki") or on [the XML-RPC home page.](http://www.xmlrpc.com/)
 
-## Sample Code 
+### Sample Code 
 
 :::: 
 ::: 
@@ -33,7 +33,7 @@ You can [read more about it over on C2,](http://c2.com/cgi/wiki?XmlRpc "Wiki") o
 
 This code calls the [PythonInfo](../archive/PythonInfo) wiki, and receives the [TitleIndex](TitleIndex) as a list.
 
-## Message Format 
+### Message Format 
 
 If you can communicate strings, you can do XML-RPC. You could even do it by e-mail!
 
@@ -105,7 +105,7 @@ That is, the first item is the arguments tuple, and the second item is the name 
 
 The capabilities are described under \"Convenience Functions\" in [the xmlrpclib documentation.](http://docs.python.org/lib/module-xmlrpclib.html)
 
-## See Also 
+### See Also 
 
 - [official xmlrpclib example](http://docs.python.org/lib/xmlrpc-client-example.html)
 

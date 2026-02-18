@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Writers and Technical Editors 
+## Python Writers and Technical Editors 
 
 The purpose of this list is to serve as a contact point for those who need something written, and therefore the distinction between professional writers looking for big projects like books and those who want small freelance projects on the side.
 
 If you write in languages other than english, please indicate this in your entry. We certainly need writers in other languages.
 
-## Mailing List 
+### Mailing List 
 
 The [http://mail.python.org/mailman/listinfo/python-authors%20python-authors](http://mail.python.org/mailman/listinfo/python-authors%20python-authors) mailing list is available for communicating with authors, editors, and reviewers
 
-## Big-Project Writers (for-hire) 
+### Big-Project Writers (for-hire) 
 
 - [CameronLaird](../people/CameronLaird) has published dozens of articles and book chapters on Python (and hundreds more on other computing topics), and served as technical editor for several books, including **Python and Tkinter Programming** and **Core Python Programming**.
 
@@ -42,7 +42,7 @@ The [http://mail.python.org/mailman/listinfo/python-authors%20python-authors](ht
 
 - Bhaskar Chaudhary, author of [Tkinter GUI Application Development Hotshot](http://www.packtpub.com/tkinter-gui-application-development-hotshot/book) is a professional programmer and information architect. He has almost 9 years of consulting, contracting, and educating experience in the field of software development. He has worked with a large set of programming languages on various platforms over the years.
 
-## Small-Project Writers (for-hire or volunteer) 
+### Small-Project Writers (for-hire or volunteer) 
 
 - [Ivan Idris](http://ivanidris.net/wordpress/) - Author of [NumPy 1.5 Beginner\'s Guide](http://www.packtpub.com/numpy-1-5-using-real-world-examples-beginners-guide/book), blogger and available for small writing projects. His main professional interests are Business Intelligence, Big Data and Cloud Computing. Ivan Idris enjoys writing clean testable code and interesting technical articles.
 
@@ -72,7 +72,7 @@ The [http://mail.python.org/mailman/listinfo/python-authors%20python-authors](ht
 
 - [Chetan Giridhar](http://technobeans.com/) is a technical reviewer of [Python Testing Cookbook](http://www.packtpub.com/python-testing-cookbook/book) and is currently writing a book on [Design Patterns in Python](http://technobeans.com/books/). He has developed [Tools and Libraries](http://http://cjgiridhar.users.sourceforge.net/) in Python that are useful for Python developers. Chetan has provided training in \'Python Programming\' at corporate level and in research institutes including [Indian Institute of Astrophyiscs](http://www.iiap.res.in/). He can be reached at [cjgiridhar@gmail.com](mailto:cjgiridhar@gmail.com)
 
-## Technical Editors (for-hire) 
+### Technical Editors (for-hire) 
 
 - Wesley Chun (see above) is also available as a tech editor. He has reviewed for Prentice Hall, Addison Wesley Longman, and Benjamin Cummings.
 

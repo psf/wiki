@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Audio in Python 
+## Audio in Python 
 
 This page tries to provide a starting point for those who want to work with audio in combination with Python.
 
@@ -14,7 +14,7 @@ If you are creating a game, most of what you are looking for may already be incl
 
 If you are looking for podcasts related to Python, go to the [PythonAudioMaterial](../archive/PythonAudioMaterial) page.
 
-## Built in modules 
+### Built in modules 
 
 The [Multimedia Services](http://docs.python.org/3/library/mm.html) allow for some basic audio functionality in Python. It consists of the following modules:
 
@@ -33,13 +33,13 @@ The [Multimedia Services](http://docs.python.org/3/library/mm.html) allow for so
   ------------------------------------------------------------------------- -------------------------------------------------------------------------------
 :::
 
-## Beyond the default modules 
+### Beyond the default modules 
 
 Alternatively, you might want to learn about audio programming in Python. There is a veritable forest of stuff out there, but here are some good starting points.
 
 For a complete overview have a look at [PythonInMusic](PythonInMusic).
 
-### Platform independent 
+#### Platform independent 
 
 ::: {}
   -------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -56,7 +56,7 @@ For a complete overview have a look at [PythonInMusic](PythonInMusic).
   -------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-### Platform dependent 
+#### Platform dependent 
 
 [http://gstreamer.freedesktop.org/modules/gst-python.html](http://gstreamer.freedesktop.org/modules/gst-python.html)
 
@@ -64,7 +64,7 @@ For a complete overview have a look at [PythonInMusic](PythonInMusic).
 
 [http://pypi.python.org/pypi/audiosocket/](http://pypi.python.org/pypi/audiosocket/) - pure Python solution to play audio on Windows
 
-### Modules relying on closed source 
+#### Modules relying on closed source 
 
 [pysonic](http://pysonic.sourceforge.net/) - A wrapper around the [FMOD](http://www.fmod.org)-library offering plenty of options including 3D sound and effects. FMOD is a popular closed, but free for own use, that is used in many commercial game titles.
 

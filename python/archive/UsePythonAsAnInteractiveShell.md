@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The idea: using the Python interpreter as an [InteractiveShell](./InteractiveShell.html).
 
-# Command execution 
+## Command execution 
 
 Use short method names:
 
@@ -63,7 +63,7 @@ There is a project that attempts to acheive this. Quasi ([http://quasi-shell.sou
 
   - \--[lwickjr](lwickjr)
 
-# Path manipulation 
+## Path manipulation 
 
 The os.path module provides a good set of functions for path manipulation, but you might also want to split the path at the root:
 
@@ -82,11 +82,11 @@ The os.path module provides a good set of functions for path manipulation, but y
 :::
 ::::
 
-# awk comparables 
+## awk comparables 
 
 Simply use the re module. It\'s a fuller set of regular expressions. Create a wrapper function for a utility for this if you want call it inlinegrep.
 
-# Limitations 
+## Limitations 
 
 The killall function was rejected by the [BDFL](BDFL). As far as I can see from the previous version of this page, Guido rejected it because it isn\'t in POSIX. I couldn\'t find any references on this in the mailing list archives. Anyone?
 

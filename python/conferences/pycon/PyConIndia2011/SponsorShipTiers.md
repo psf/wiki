@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PYCON-INDIA 2011 SPONSORSHIP TIERS 
+## PYCON-INDIA 2011 SPONSORSHIP TIERS 
 
 The Indian Python Software Society(IPSS) and the [PyCon](../PyCon)-India organizing committee are happy to announce the third [PyCon](../PyCon) India. The conference will be held around September 2011 in Pune. The exact dates and venue are yet to be confirmed.
 
 Your sponsorship helps keep [PyCon](../PyCon)-India affordable and accessible to the widest possible audience. The conference is the largest Python Software developers conference in India.
 
-## ABOUT IPSS 
+### ABOUT IPSS 
 
 IPSS is a non-profit organization established in 2010, to promote the use of Python programming language and conducting the annual conference.
 
@@ -20,9 +20,9 @@ IPSS is a non-profit organization established in 2010, to promote the use of Pyt
 
 The tiers and benefits are listed below. For more details, please contact: \* Name: Noufal Ibrahim \* Email: [contact@in.pycon.org](mailto:contact@in.pycon.org) \* Phone: +919880240460
 
-## TIERS AND BENEFITS 
+### TIERS AND BENEFITS 
 
-### Platinum 
+#### Platinum 
 
 • Amount : 300,000 INR • One slot
 
@@ -40,7 +40,7 @@ The tiers and benefits are listed below. For more details, please contact: \* Na
 
 • Prominent stall
 
-### Gold 
+#### Gold 
 
 • Amount : 100,000 INR
 
@@ -56,7 +56,7 @@ The tiers and benefits are listed below. For more details, please contact: \* Na
 
 • Contact information of delegates (unless they\'ve opted out).
 
-### Silver 
+#### Silver 
 
 • Amount : 50,000
 
@@ -70,7 +70,7 @@ The tiers and benefits are listed below. For more details, please contact: \* Na
 
 • Name in brochure
 
-### Item sponsors 
+#### Item sponsors 
 
 • If you\'re able to sponsor items which are useful for the conference like wifi, food etc., we\'re open to negotiations. Please get in touch with us.
 

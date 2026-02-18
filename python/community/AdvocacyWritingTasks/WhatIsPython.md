@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Outline for: \"What is Python\"
+## Outline for: \"What is Python\"
 
 ::: 
 Abstract
@@ -19,7 +19,7 @@ Include names/logos of your more mainstream companies that are using Python, but
 :::
 
 ::: 
-### Benefits
+#### Benefits
 
 > - readable
 > - very high-level expressibility

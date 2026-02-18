@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Sponsor Working Group Charter 
+## PSF Sponsor Working Group Charter 
 
 *Note:* This page is readable without login.
 
-## Purpose & Common Goals 
+### Purpose & Common Goals 
 
 This working group shall review PSF Sponsorship applications. The goal of this working group is to determine if the company applying is in good standing and that their product/services follow the PSF Code of Conduct.
 
-## Active Time 
+### Active Time 
 
 This working group shall stay in existence indefinitely.
 
-## Core Values & Internal Governance 
+### Core Values & Internal Governance 
 
 - Respect
 - Support
@@ -28,7 +28,7 @@ This working group shall stay in existence indefinitely.
 
 The workgroup adopts the PSF Code of Conduct ([https://www.python.org/psf/codeofconduct/](https://www.python.org/psf/codeofconduct/)). Any actions (found by a majority) made against the principles in the Code of Conduct will result in the acting person being removed from the workgroup.
 
-## Rules & Decision Making Procedures 
+### Rules & Decision Making Procedures 
 
 - The sponsor workgroup will not take longer than 2 weeks to discuss and vote on sponsorship applications.
 
@@ -38,11 +38,11 @@ The workgroup adopts the PSF Code of Conduct ([https://www.python.org/psf/codeof
 
 - The PSF secretary will add the approved resolutions to the minutes of the PSF Board Meeting.
 
-### Approval guidelines 
+#### Approval guidelines 
 
 - The WG will use the code of conduct ([https://www.python.org/psf/codeofconduct/](https://www.python.org/psf/codeofconduct/)) as a guideline for reviewing sponsorship applications.
 
-### Sponsorship guidelines 
+#### Sponsorship guidelines 
 
 Companies, divisions, groups, and organizations of various sizes can benefit from PSF sponsorship.
 
@@ -56,15 +56,15 @@ Companies, divisions, groups, and organizations of various sizes can benefit fro
 - Copper: \$2,000/year
 - Iron: \$500/year
 
-### Communication Plan 
+#### Communication Plan 
 
 The bulk of communication among the working group shall be over the mailing list [sponsors@python.org](mailto:sponsors@python.org).  As needed, we may use other communication means such as phone calls or IRC/Slack.
 
-## Administration 
+### Administration 
 
 - Betsy Waliszewski (chair)
 
-## Members 
+### Members 
 
 - Ewa Jodlowska
 - Raghav Hanumantharau
@@ -75,17 +75,17 @@ The bulk of communication among the working group shall be over the mailing list
 - Deborah Harris
 - Eugene Kim
 
-## Adding New Members 
+### Adding New Members 
 
 - When adding new members to the working group, prospective members must send an email to [sponsors-wg@python.org](mailto:sponsors-wg@python.org) introducing themselves along with a description of why they want to be a member and what they bring to the process. Approval of new members will be decided using the voting procedures detailed below.
 
 - Voting in new members: A vote for any proposal will last for 5 days, or when all voting members have voted, whichever comes first. For a proposal to be successful it must have at least two aye\'s, more aye\'s than abstain\'s, and no nay\'s. Voting should generally be done using the mailing list, but may be done in any venue given agreement of all voting members.
 
-## Support Requirements 
+### Support Requirements 
 
 - Mailman list - [sponsors@python.org](mailto:sponsors@python.org)
 
-## Working Documents 
+### Working Documents 
 
 - Ideas for Sponsorship Benefits: [https://docs.google.com/document/d/1neuNXU005FLyggElPQeJmH7yZkDZt3k2S6iqSaBTrNk/edit#](https://docs.google.com/document/d/1neuNXU005FLyggElPQeJmH7yZkDZt3k2S6iqSaBTrNk/edit#)
 

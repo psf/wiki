@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-## Time & Space Complexity Reference 
+### Time & Space Complexity Reference 
 
 There is an open source project that acts as comprehensive cross reference for time and space complexity for Python and the standard library. It was partially inspired by this wiki page.
 
 [Python Time & Space Complexity Reference](https://pythoncomplexity.com/)
 
-## Time Complexity 
+### Time Complexity 
 
 This page documents the time-complexity (aka \"Big O\" or \"Big Oh\") of various operations in current CPython. Other Python implementations (or older or still-under development versions of CPython) may have slightly different performance characteristics. However, it is generally safe to assume that they are not slower by more than a factor of O(log n).
 
 Generally, \'n\' is the number of elements currently in the container. \'k\' is either the value of a parameter or the number of elements in the parameter.
 
-# list
+## list
 
 The Average Case assumes parameters generated uniformly at random.
 
@@ -48,7 +48,7 @@ Internally, a list is represented as an array; the largest costs come from growi
   --------------------------------------------------------------------------------- ------------------ ------------------------------------------------------------------------------------
 :::
 
-# collections.deque
+## collections.deque
 
 A deque (double-ended queue) is represented internally as a doubly linked list. (Well, a list of arrays rather than objects, for greater efficiency.) Both ends are accessible, but even looking at the middle is slow, and adding to or removing from the middle is slower still.
 
@@ -68,7 +68,7 @@ A deque (double-ended queue) is represented internally as a doubly linked list. 
   --------------- ------------------ --------------------------
 :::
 
-# set
+## set
 
 See dict \-- the implementation is intentionally very similar.
 
@@ -90,7 +90,7 @@ See dict \-- the implementation is intentionally very similar.
 
 - To perform set operations like s-t, both s and t need to be sets. However you can do the method equivalents even if t is any iterable, for example s.difference(l), where l is a list.
 
-# dict
+## dict
 
 The Average Case times listed for dict objects assume that the hash function for the objects is sufficiently robust to make collisions uncommon. The Average Case assumes the keys used in parameters are selected uniformly at random from the set of all keys.
 
@@ -108,7 +108,7 @@ Note that there is a fast-path for dicts that (in practice) only deal with str k
   ---------------- ------------------ --------------------------
 :::
 
-# Notes 
+## Notes 
 
 \[1\] = These operations rely on the \"Amortized\" part of \"Amortized Worst Case\". Individual actions may take surprisingly long, depending on the history of the container.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Keeping Lists in Dictionaries 
+## Keeping Lists in Dictionaries 
 
 Here\'s a cute technique I saw, for keeping lists inside dictionaries.
 

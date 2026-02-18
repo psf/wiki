@@ -19,17 +19,17 @@ There are usually a few core developers around at any time. Here are the nicknam
 - merwok --- Éric Araujo --- American East Coast timezone
 - 
 
-# Participating at Your User Group 
+## Participating at Your User Group 
 
 The Montréal-Python user group will meet up in person to participate in the bug day. Some Python user groups will meet up in person during the weekend.
 
 Is your local user group participating?
 
-# Participating Online 
+## Participating Online 
 
 Participants will meet in the #python-dev IRC channel on irc.freenode.net. To learn more about IRC and to find links to IRC clients for various platforms, see [http://www.irchelp.org](http://www.irchelp.org/).
 
-# Finding Bugs 
+## Finding Bugs 
 
 Using [the bug tracker](http://bugs.python.org/), you can perform various searches to look for candidate issues:
 
@@ -39,7 +39,7 @@ Using [the bug tracker](http://bugs.python.org/), you can perform various search
 
 - [Random issue](http://bugs.python.org/issue?@action=random) (you can use the link in the left sidebar of the bug tracker to go through random issues until you find one that you like
 
-# Procedures 
+## Procedures 
 
 The goal of the bug day is to process bug reports in [the Python bug tracker](http://bugs.python.org/), trying to fix and close issues.
 
@@ -63,11 +63,11 @@ What to do:
 
 - Feature requests should be classified as type \'feature request\' in the bug tracker.
 
-# Questions? 
+## Questions? 
 
 If you have questions about the bug day, please add them to this section.
 
-# Previous bug days 
+## Previous bug days 
 
 ::: {}
   ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -88,7 +88,7 @@ If you have questions about the bug day, please add them to this section.
   ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# Preparatory Tasks 
+## Preparatory Tasks 
 
 - Need to set up log of python-dev channel
 - Send announcements (python-announce, python-dev, PSF weblog, personal web log. python-list?)

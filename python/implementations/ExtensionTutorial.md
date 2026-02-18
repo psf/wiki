@@ -6,18 +6,18 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Creating a Python Extension Module from Scratch 
+## Creating a Python Extension Module from Scratch 
 
 This guide will take you through the process of creating a Python extension module. It is assumed that you have a recent Python version (2.4 or later) and setuptools installed.
 
 We\'ll be creating a project called \'examp\' (short for \'example\'.)
 
-### Step 1: Create the project directory 
+#### Step 1: Create the project directory 
 
     > mkdir examp
     > cd examp
 
-### Step 2: Create the setup.py script 
+#### Step 2: Create the setup.py script 
 
 In the directory you just created, make a new file, setup.py containing the following:
 
@@ -49,7 +49,7 @@ In the directory you just created, make a new file, setup.py containing the foll
 
 The `setup.py` file tells Python how to compile, test, and install your extension module.
 
-### Step 3: Create the module source file 
+#### Step 3: Create the module source file 
 
 This will be located in the location specified in the `setup.py` script given above; in this example, the location is `examp/src/examp.c`. This file will contain the following:
 
@@ -70,14 +70,14 @@ This will be located in the location specified in the `setup.py` script given ab
 
 As you can see, this is a pretty minimal extension module - it does nothing but establish that there is, in fact, a module. We\'ll add more to this later, but for now, let\'s just see if we can get it to compile and run.
 
-### Step 4: Create the unit test module 
+#### Step 4: Create the unit test module 
 
 Create an empty [init.py] file in examp/test.
 
     > mkdir test
     > touch test/__init__.py
 
-### Step 5: Create the unit test source file 
+#### Step 5: Create the unit test source file 
 
 This will be located in `examp/test/examp_unittest.py`. This file will contain the following.
 
@@ -110,7 +110,7 @@ At this point, your directory structure should look like this:
         __init__.py
         examp_unittest.py
 
-### Step 6: Build and test the module 
+#### Step 6: Build and test the module 
 
     > python setup.py test
 

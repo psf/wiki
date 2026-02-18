@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Birds of a Feather Sessions
+## Birds of a Feather Sessions
 
 Projects and groups are encouraged to hold meetings, dinners and other activities at PyCon.
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Bienvenue sur le wiki de Jython 
+## Bienvenue sur le wiki de Jython 
 
 Ce wiki n\'a pas (pas encore ?) été traduit en français.
 
 Pour ouvrir la page d\'accueil en anglais, cliquez ici : **[FrontPage](FrontPage)**
 
-# Wiki de Jython 
+## Wiki de Jython 
 
 Ce wiki est le site officiel de Jython.
 
@@ -28,7 +28,7 @@ Poins de départ intéressants :
 
 - [ExplorerCeWiki](./ExplorerCeWiki.html) : divers moyens d\'explorer ce site
 
-## Comment utiliser ce site 
+### Comment utiliser ce site 
 
 Un Wiki est un site collaboratif, n\'importe qui peut contribuer et partager ses connaissances :
 

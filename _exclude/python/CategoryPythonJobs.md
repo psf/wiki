@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 A category page to hold pages which are related to Python Jobs.
 
-# Pages Related to Python Jobs 
+## Pages Related to Python Jobs 
 
 ::: searchresults
 1.  [**CategoryPythonJobs**](./CategoryPythonJobs.html?highlight=%28CategoryPythonJobs%29)

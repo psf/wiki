@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: Why when I read a text file python reads it as \"\<built-in method read of \_io.TextIOWrapper object at 0x02954558\>\" and how do I stop this? 
+## Asking for Help: Why when I read a text file python reads it as \"\<built-in method read of \_io.TextIOWrapper object at 0x02954558\>\" and how do I stop this? 
 
 I am writing a program that uses text files to store user information like their name and password. I am using this information to check login info against the info they have provided. This never worked so I decided to do a simple open files program to find the problem.
 

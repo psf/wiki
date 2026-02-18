@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #3 
+## IRC Meeting #3 
 
 [Meeting minutes](http://codespeak.net/svn/user/mwh/ep2007/meeting-notes-2007-03-21.html)
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Wednesday 21st of March (2007-03-21) 18:00 CET (17:00 UTC/GMT) in the #europython channel on freenode.net.
 
-## Agenda 
+### Agenda 
 
 No agenda has been published yet. The following points are likely to be covered:
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# General Tips 
+## General Tips 
 
 Try some or all:
 
@@ -20,9 +20,9 @@ Try some or all:
 
 - Ask the good people at `#macpython`{.backtick} in `irc.freenode.org`{.backtick}
 
-# Recipes 
+## Recipes 
 
-## Getting file and folder information 
+### Getting file and folder information 
 
 You want to know the file type or creator of a file.
 
@@ -42,7 +42,7 @@ Here is another simpler way (from [MacPython]() IDE):
     >>> MacOS.GetCreatorAndType('Todo')
     ('Hdra', '****')
 
-# Carbon Reference 
+## Carbon Reference 
 
 Python 2.3 Carbon Modules:
 

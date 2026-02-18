@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Web Servers and Python 
+## Web Servers and Python 
 
 Python-based Web servers have been available in the standard library for many years (see the BaseHTTPServer, SimpleHTTPServer and CGIHTTPServer modules). To address various issues of scalability, robustness and convenience with such existing servers, other server frameworks and solutions have been developed since that time.
 
-## Web Servers written in Python 
+### Web Servers written in Python 
 
 - [Chaussette](https://pypi.python.org/pypi/chaussette/) - A web server capable of running using multiple different underlying http engines
 
@@ -28,7 +28,7 @@ Python-based Web servers have been available in the standard library for many ye
 
 - [Waitress](https://pypi.org/project/waitress/) - A WSGI server that runs on Windows and UNIX under [PyPy](../implementations/PyPy), CPython 2.X and CPython 3.X.
 
-## Web Servers embedding Python 
+### Web Servers embedding Python 
 
 In addition to the above, some non-Python-based Web servers support Python-based applications by embedding the Python virtual machine for improved performance:
 
@@ -44,7 +44,7 @@ In addition to the above, some non-Python-based Web servers support Python-based
 
 - [PyWX](../archive/PyWX) embeds Python in AOLServer
 
-## Standard Library Technologies 
+### Standard Library Technologies 
 
 - [BaseHTTPServer](../archive/BaseHttpServer) (along with successors such as [DocXmlRpcServer](../archive/DocXmlRpcServer)) can be considered as the original Python Web framework, but it really just provides the ability to process HTTP requests and to generate responses using a relatively primitive API. Some [WebFrameworks](../web/WebFrameworks) use it as the basis for serving content, however.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Docs committers 
+## Docs committers 
 
 This page lists all team members having commit access to doctools and the Doc tree and can be sent patches.
 

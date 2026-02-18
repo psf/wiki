@@ -15,7 +15,7 @@ I\'ll box up a bunch of my games and Fedex them to myself at the hotel. However,
 - What games would you like to see?
 - What games can you bring?
 
-# Games 
+## Games 
 
 - Carcassonne, of course! (+ River, Inns&Cathedrals expansion for up to 6 players)
 
@@ -51,7 +51,7 @@ I\'ll box up a bunch of my games and Fedex them to myself at the hotel. However,
 
 The emphasis is on multiplayer games that can handle four or six people. I don\'t think two-player games are very practical for me to bring, because I\'d have to bring so many of them; hopefully local attendees can bring chess, go, checkers, etc.
 
-# Attendees 
+## Attendees 
 
 - [AndrewKuchling](../../../people/AndrewKuchling)
 
@@ -73,7 +73,7 @@ The emphasis is on multiplayer games that can handle four or six people. I don\'
 
 - Peter Wang
 
-# Comments 
+## Comments 
 
 *Damn, and here I was leaning towards going to [EuroPython](../../europython/EuroPython) next year, and you go and introduce board games into the mix \-- [RichardJones](../../../people/RichardJones)*
 

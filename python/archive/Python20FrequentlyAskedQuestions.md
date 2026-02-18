@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This is a copy of the historical Python 2.0 FAQ page. For a more recent version, see [PythonQuestions](PythonQuestions). \--[FredrikLundh](../people/FredrikLundh)
 
-# Python 2.0 FAQ 
+## Python 2.0 FAQ 
 
 Add your questions here and I\'ll do my best to answer them.
 
@@ -16,11 +16,11 @@ See also [CriticalPatches](./CriticalPatches.html) and [MiscPatches](./MiscPatch
 
 ------------------------------------------------------------------------
 
-## Win 95 Installation 
+### Win 95 Installation 
 
 **Q** I run a Windows 95 200 mhz Compaq computer, when I tried to install Python 2.0, the installation program consistently crashes/freezes at 52% of the process. Can you give me any suggestions?
 
-## C to Python API 
+### C to Python API 
 
 **Q** What are the differences between C to Python API from version 1.5.2 of Python
 
@@ -28,7 +28,7 @@ See also [CriticalPatches](./CriticalPatches.html) and [MiscPatches](./MiscPatch
 
 ------------------------------------------------------------------------
 
-## Floating Point 
+### Floating Point 
 
 **Q.** Floating point is broken! For example:
 
@@ -51,7 +51,7 @@ You can use str() or print to get the old, rounded output:
 
 ------------------------------------------------------------------------
 
-## LONG_BIT Error 
+### LONG_BIT Error 
 
 **Q.** I get an error in pyport.h: `LONG_BIT definition appears wrong for platform (bad gcc config?).` When I remove the `#error` directive it builds fine.
 
@@ -61,7 +61,7 @@ I used the up2date command to install the new glibc.
 
 ------------------------------------------------------------------------
 
-## pyexpat Module 
+### pyexpat Module 
 
 **Q.** I just downloaded version 2.0. When I try to run the test_sax.py module it complains that it can\'t find the driver pyexpat.py. I looked in the distribution and it doesn\'t seem to be there? I\'m running on Solaris 2.7. Thank You.
 
@@ -73,7 +73,7 @@ I used the up2date command to install the new glibc.
 
 ------------------------------------------------------------------------
 
-## Where\'s IDLE? 
+### Where\'s IDLE? 
 
 **Q.** I just downloaded version 2.0 (BeOpen-Python-2.0-1.i386.rpm) and there is no trace of IDLE in there; an \"`rpm -qpl BeOpen-Python-2.0-1.i386.rpm | grep -i idle`\" comes up empty. [http://www.python.org/idle/](http://www.python.org/idle/) claims that IDLE 0.6 is distributed as part of Python 2.0. Checking further, I see that IDLE is included in [ftp://ftp.python.org/pub/python/src/python-2.0c1.tar.gz](ftp://ftp.python.org/pub/python/src/python-2.0c1.tar.gz) in the tools directory. Is this an oversight? Is there a way to install IDLE without unpacking the source tarball? ([bob@drzyzgula.org](mailto:bob@drzyzgula.org))
 
@@ -83,7 +83,7 @@ I used the up2date command to install the new glibc.
 
 ------------------------------------------------------------------------
 
-## \"make test\" reports failures 
+### \"make test\" reports failures 
 
 **Q.** I just downloaded and built version 2.0 under BSDI 4.0.1 with the \"\--with-threads=no\" option and the patch to Objects/Objects/fileobject.c for the TELL64 problem. Then I ran \"make test\" and got
 
@@ -127,7 +127,7 @@ I hope this is of interest. ([gdinwiddie@min.net](mailto:gdinwiddie@min.net))
 
 ------------------------------------------------------------------------
 
-## Documentation in Windows Helpfile Format 
+### Documentation in Windows Helpfile Format 
 
 **Q.** Where do I get the documentation for Python 2.0 in the CHM (Compiled HTML) format?
 
@@ -137,7 +137,7 @@ I hope this is of interest. ([gdinwiddie@min.net](mailto:gdinwiddie@min.net))
 
 ------------------------------------------------------------------------
 
-## Where\'s the IDE for Python? 
+### Where\'s the IDE for Python? 
 
 **Q.** I just downloaded version 2.0. I\'m new to Python and would like to start in an integrated development environment. Can somebody please point to such a tool.
 
@@ -153,7 +153,7 @@ Update: see [http://www-106.ibm.com/developerworks/linux/library/l-pide/](http:/
 
 ------------------------------------------------------------------------
 
-## libreadline.so.3
+### libreadline.so.3
 
 **Q.** I just downloaded the version 2.0. rpm. I have an unsatisfied libreadline.so.3. What now?
 
@@ -161,7 +161,7 @@ Update: see [http://www-106.ibm.com/developerworks/linux/library/l-pide/](http:/
 
 ------------------------------------------------------------------------
 
-## Windows 2K 
+### Windows 2K 
 
 **Q.** I just tried installing version 2.0 on Win2K, it seemed to work ok, but none of the registry entries were made, but they did appear in the install file. Any suggestions?
 
@@ -169,7 +169,7 @@ Update: see [http://www-106.ibm.com/developerworks/linux/library/l-pide/](http:/
 
 ------------------------------------------------------------------------
 
-## RedHat 7.0 
+### RedHat 7.0 
 
 **Q.** When I make Python 2.0 on [RedHat](../people/RedHat) 7.0 (gcc-2.96-54, glibc-2.2-5), I get lots of compilation errors in Modules/bsddbmodule.c . What should I do?
 
@@ -181,7 +181,7 @@ Update: see [http://www-106.ibm.com/developerworks/linux/library/l-pide/](http:/
 
 ------------------------------------------------------------------------
 
-## Extensions using C++ compiled on Solaris with G++ 
+### Extensions using C++ compiled on Solaris with G++ 
 
 **Q.** Linker errors when building extensions that use C++ on Solaris.
 

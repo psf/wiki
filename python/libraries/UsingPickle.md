@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using Pickle 
+## Using Pickle 
 
 - [Official Pickle Use Documentation](http://docs.python.org/library/pickle.html#data-stream-format)
 
 - [Official Pickle Module Documentation](https://docs.python.org/3/library/pickle.html#module-pickle)
 
-## Pickle Example 
+### Pickle Example 
 
 :::: 
 ::: 
@@ -41,13 +41,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 For more examples and API details, see the [official Pickle use documentation.](http://docs.python.org/library/pickle.html)
 
-## Flying Pickle Alert! 
+### Flying Pickle Alert! 
 
 Pickle files can be hacked. If you receive a raw pickle file over the network, *don\'t trust it!* It could have malicious code in it, that would run arbitrary python when you try to de-pickle it.
 
 However, if you are doing your own pickle writing and reading, you\'re safe. (Provided no one else has access to the pickle file, of course.)
 
-## What can you Pickle? 
+### What can you Pickle? 
 
 Generally you can pickle any object if you can pickle every attribute of that object. Classes, functions, and methods cannot be pickled \-- if you pickle an object, the object\'s class is not pickled, just a string that identifies what class it belongs to. This works fine for most pickles (but note the discussion about long-term storage of pickles).
 
@@ -57,11 +57,11 @@ With pickle protocol v2, you are able to pickle open file objects. This will cha
 
 See [the pickle documentation](https://docs.python.org/3/library/pickle.html#data-stream-format) for more recent protocols (up to v5 as of Python 3.8).
 
-## Contributors 
+### Contributors 
 
 [LionKimbro](../people/LionKimbro), [IanBicking](../people/IanBicking), [lwickjr](../archive/lwickjr)
 
-## Discussion 
+### Discussion 
 
 Pickles can cause problems if you save a pickle, then update your code and read the pickle in. Attribute added to your `__init__` may not be present in the unpickled object; also, if pickle can\'t find your class and module (e.g., if you renamed the module) you will get errors. However you can handle renaming modules and classes as described in [UsingPickle/RenamingModules](UsingPickle/RenamingModules)
 

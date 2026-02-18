@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [PyLint](http://www.logilab.org/projects/pylint) is a [static source analysis](../archive/static source analysis) tool, available within such development tools [as PyDev](http://pydev.sourceforge.net/pylint.html), for instance.
 
-# Availability 
+## Availability 
 
 \* Currently runs on Python 2.4 and up
 

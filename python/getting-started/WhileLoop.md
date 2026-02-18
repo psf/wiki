@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# While loops 
+## While loops 
 
-## Usage in Python 
+### Usage in Python 
 
 - When do I use them?
 

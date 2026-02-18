@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Tasks 
+## Tasks 
 
 for the documentation team
 
-## Coding tasks 
+### Coding tasks 
 
 for those who want to develop the toolset
 
@@ -24,7 +24,7 @@ for those who want to develop the toolset
 
   Note that the web application does use [JavaScript](./JavaScript.html) in some places, but only for better usability (hopefully). Users without [JavaScript](./JavaScript.html) may not lose any functionality. (This should be confirmed every now and then.)
 
-### The TODO file 
+#### The TODO file 
 
 The `doctools/TODO`{.backtick} file lists some things that should be done. At the moment, these are:
 
@@ -48,7 +48,7 @@ The `doctools/TODO`{.backtick} file lists some things that should be done. At th
 
 - add search via Xapian? optionally have a contents tree view in the sidebar (AJAX based)?
 
-## Content tasks 
+### Content tasks 
 
 **Roundup bugs**
 

@@ -16,23 +16,23 @@ If you would like to begin a new PSF Workgroup, follow these steps:
 4. Send the charter to the PSF Board and let them know of any resources you are requesting for your group\
 5. Send monthly reports of your progress to [psf@python.org](mailto:psf@python.org) or to [psf-staff@python.org](mailto:psf-staff@python.org)
 
-# Example PSF Workgroup Page 
+## Example PSF Workgroup Page 
 
 *Note:* When creating new wiki pages related to this group, please use wiki subpages, e.g. ExampleWG/Charter.
 
-## Agenda 
+### Agenda 
 
 Short summary of what the WG is about.
 
-## Mailing List 
+### Mailing List 
 
 - [PSF Example WG Mailing List](http://mail.python.org/mailman/listinfo/psf-example-wg) (naming scheme to be used: psf-example-wg) The ML archives are set to private for the time being. Subscriptions must be approved by the admins. X and Y are the list admins.
 
-## Resources 
+### Resources 
 
 List resources useful for the WG.
 
-## Administration 
+### Administration 
 
 - Chair: X
 

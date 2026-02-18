@@ -27,7 +27,7 @@ Please send email to:
 
 [juneau001@gmail.com](mailto:juneau001@gmail.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# News 
+## News 
 
 Jython 2.2.1 - rc2 was released this past week. There are many bug fixes in this release, and you should download and take a look!
 
@@ -35,9 +35,9 @@ Jython 2.2.1 - rc2 was released this past week. There are many bug fixes in this
 
 [Download](http://sourceforge.net/project/showfiles.php?group_id=12867)
 
-# Articles 
+## Articles 
 
-## Distributing Jython Scripts 
+### Distributing Jython Scripts 
 
 *Submitted By: Greg Moore*
 
@@ -45,7 +45,7 @@ There are several ways to accomplish this, but the following text will only cove
 
 [Read Entire Article](http://wiki.python.org/jython/JythonFaq/DistributingJythonScripts)
 
-## Parsing and Writing RSS Using Jython and Rome 
+### Parsing and Writing RSS Using Jython and Rome 
 
 *Submitted By: Josh Juneau*
 
@@ -55,7 +55,7 @@ Since I am particularly fond of translating Java to Jython code, I\'ve taken sim
 
 [Read Entire Article](http://wiki.python.org/jython/JythonMonthly/Articles/October2007/1)
 
-## Newbie Notes 
+### Newbie Notes 
 
 *Submitted By: Rob Andrews*
 
@@ -63,11 +63,11 @@ The first of the Newbie Notes articles uses a common task to illustrate a few ba
 
 [Read Entire Article](http://wiki.python.org/jython/JythonMonthly/Articles/October2007/NC)
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Jython Blogs 
+## Jython Blogs 
 
 [Jython 2.2 Is Released \-- Frank Wierzbicki](http://fwierzbicki.blogspot.com/2007/08/jython-22-released-woohoo.html)
 
@@ -79,23 +79,23 @@ If you are interested in developing Jython, please take a look at the [current b
 
 [Jython, Scripting for the Java Language](http://weblogs.java.net/blog/lucastorri/archive/2007/09/jython_scriptin.html)
 
-## Online Jython Discussions 
+### Online Jython Discussions 
 
 [Serverside 2.2 Discussion](http://www.theserverside.com/news/thread.tss?thread_id=46661)
 
 [- Jython on Oracle JVM](http://forums.oracle.com/forums/thread.jspa?messageID=2012159&tstart=0)
 
-# IDE 
+## IDE 
 
 **[PyDev](./PyDev.html) 1.3.9 Is Available**
 
 [Download](http://pydev.sourceforge.net/download.html)
 
-# Interesting Facts 
+## Interesting Facts 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Useful Links 
+## Useful Links 
 
 ::: {}
   ----------------------------------------------------------------

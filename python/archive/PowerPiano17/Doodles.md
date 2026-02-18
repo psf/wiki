@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Sometimes, it doesn\'t hurt to play around with programming languages. Python is probably the easiest and most enjoyable language to play around with, so I decided to create this section devoted to playing. Feel free to write a program, edit an existing one, delete an existing one, etc. It\'s like having an open source python-only playground! Attachments are available for these little code \"doodles,\" but please don\'t forget to update the attachments page if you make any changes here.
 
-# Doodle #1 
+## Doodle #1 
 
 {{{#A doodle that tells the user what version of Windows they are using, the version, CSD level, and processor configuration. It gives the #win32_ver function of the platform module a nice output engine.
 

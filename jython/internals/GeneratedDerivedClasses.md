@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Generating the \*Derived classes 
+## Generating the \*Derived classes 
 
 These are notes on the use of `gderived.py`, a tool you need when implementing new types in Jython.
 
-## Background 
+### Background 
 
 Many of the Java classes that implement Python types have a counterpart class with the same name but with \"Derived\" appended. For example `PyString`{.backtick} is paired with `PyStringDerived`{.backtick}, `PyType`{.backtick} with `PyTypeDerived`{.backtick}, and so on. The `*Derived`{.backtick} classes are each a sub-class of their corresponding principal class. They come into play when you create a sub-class (in Python) and override (in Python) one or more methods whose base definition is exposed from the Java implementation. They ensure that this overriding (Python) method is the version invoked, even when the call is from Java.
 
@@ -22,15 +22,15 @@ The `*Derived`{.backtick} counterpart of each principal class is generated using
 
 One of the imported modules is `gexposed.py`. This used to have a function in its own right, but it is superseded by the exposer (`org.python.expose.generate.Exposer`) and the corresponding Ant task. If you use the new exposer, even if you prohibit sub-classing with `@ExposedType(isBaseType=false)`, it will generate a reference to the sort of class `gderived.py` creates. The modern exposer is described in the article [PythonTypesInJava](PythonTypesInJava).
 
-#### Author\'s note: 
+##### Author\'s note: 
 
 At the time of starting these notes, there is no user guide to `gderived.py` and what it achieves. These notes stem from use of the tool and a certain amount of reverse-engineering. Please improve on them by correcting misunderstandings and omissions.
 
 The work was done on a Windows 7 system, using Python 2.7 (without trying later versions, because of the vintage of the code). The choice of OS shows sometimes in the direction of slashes in pathnames, but that shouldn\'t confuse anyone. Although the motivation was to add a serious Python type (`bytearray`) to Jython, illustrations will be drawn from a facetiously-named type (`piranha`), with a Java implementation in `src/org/python/ethel/the/frog/Piranha.java`.
 
-## gderived.py as a Command 
+### gderived.py as a Command 
 
-### The 2-argument Forms 
+#### The 2-argument Forms 
 
 The most transparent form of the command is:
 
@@ -46,7 +46,7 @@ And last but not least, **the class file that implements your type**. The input 
 
 The **\--lazy** option causes `gderived.py` only to generate the output file if the input file is newer.
 
-### The 1-argument and 0-argument Forms 
+#### The 1-argument and 0-argument Forms 
 
 A second form of the command is:
 
@@ -63,9 +63,9 @@ In effect, this file allows `gderived.py` to look up the second argument given t
 
 Finally, the \<derived-spec\> argument is optional. In the zero-argument form, `gderived.py` will process all of the entries in `src/templates/mappings`. It is essentially this form, with the \--lazy option, that implements the `template` Ant target in `build.xml`.
 
-## The Specification file \<name\>.derived 
+### The Specification file \<name\>.derived 
 
-### Available Directives 
+#### Available Directives 
 
 base_class
 
@@ -108,13 +108,13 @@ no_toString: \[true\|false\]
 rest:
 :   The rest of the file is Java code to insert (pretty much verbatim) into the derived class. Use this to provide your own custom overriding methods.
 
-### Related Templates in gderived-defs 
+#### Related Templates in gderived-defs 
 
-## Examples of Use 
+### Examples of Use 
 
-### Minimal Case 
+#### Minimal Case 
 
-#### Input Piranha.java 
+##### Input Piranha.java 
 
 Here is an example of a type defined in Java for access as a built-in in Jython. For information on the annotations and structure see [PythonTypesInJava](PythonTypesInJava).
 
@@ -149,11 +149,11 @@ Here is an example of a type defined in Java for access as a built-in in Jython.
 :::
 ::::
 
-#### Specification piranha.derived 
+##### Specification piranha.derived 
 
     base_class: Piranha
 
-#### Output PiranhaDerived.java 
+##### Output PiranhaDerived.java 
 
 The command
 
@@ -201,10 +201,10 @@ issued with current directory `src/templates` produces
 :::
 ::::
 
-### Additional Features 
+#### Additional Features 
 
-#### Input Piranha.java 
+##### Input Piranha.java 
 
-#### Specification piranha.derived 
+##### Specification piranha.derived 
 
-#### Output PiranhaDerived.java 
+##### Output PiranhaDerived.java 

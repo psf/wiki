@@ -10,13 +10,13 @@ This pre-PEP proposes enhancing the buffer protocol in Python 3000 to implement 
 
 This Wiki will serve as a place to develop the PEP until it is assigned a number and committed to the Python development tree.
 
-# Abstract 
+## Abstract 
 
 This PEP proposes re-designing the buffer API (PyBufferProcs function pointers) to improve the way Python allows memory sharing in Python 3.0
 
 In particular, it is proposed that the multiple-segment and character buffer portions of the buffer API are eliminated and additional function pointers are provided to allow sharing any multi-dimensional nature of the memory and what data-format the memory contains.
 
-# Rationale 
+## Rationale 
 
 The buffer protocol allows different Python types to exchange a pointer to a sequence of internal buffers. This functionality is **extremely** useful for sharing large segments of memory between different high-level objects, but it\'s too limited and has issues.
 
@@ -30,7 +30,7 @@ The buffer protocol allows different Python types to exchange a pointer to a seq
 
 5.  There is no shape information provided for the memory. But, several array-like Python types could make use of a standard way to describe the shape-interpretation of the memory (!wxPython, GTK, pyQT, CVXOPT, PyVox, Audio and Video Libraries, ctypes, NumPy)
 
-# General Proposal 
+## General Proposal 
 
 1.  Get rid of the char-buffer and multiple-segment sections of the buffer-protocol.
 2.  Unify the read/write versions of getting the buffer.
@@ -38,7 +38,7 @@ The buffer protocol allows different Python types to exchange a pointer to a seq
 4.  Add a new function to allow the protocol to describe what is in memory (unifying what is currently done now in struct and array)
 5.  Add a new function to allow the protocol to share shape information
 
-# Specification 
+## Specification 
 
 Change the [PyBufferProcs](./PyBufferProcs.html) structure to
 
@@ -79,7 +79,7 @@ Some C-API calls should also be made available:
 
 - PyObject\_[GetBufferShape](./GetBufferShape.html)()
 
-# Additions to the struct string-syntax 
+## Additions to the struct string-syntax 
 
 ::: {}
   --------------------- ---------------------------------------------------------------
@@ -110,7 +110,7 @@ It would be nice if there were functions in ctypes to create a ctypes object fro
 
 Perhaps, the struct module should be incorporated into the ctypes module which would also grow a C-API.
 
-# Code to be affected 
+## Code to be affected 
 
 - buffer object
 - bytes object
@@ -121,7 +121,7 @@ Perhaps, the struct module should be incorporated into the ctypes module which w
 
 anything else using the buffer API
 
-# Issues 
+## Issues 
 
 The proposed locking mechanism relies entirely on the objects implementing the buffer interface to do their own thing. Ideally an object that implements the buffer interface should keep at least a number indicating how many releases are extant.
 

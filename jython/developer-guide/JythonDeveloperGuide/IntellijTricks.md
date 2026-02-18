@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Intellij IDEA Tricks 
+## Intellij IDEA Tricks 
 
 This page describes useful tricks for Intellij IDEA users. If you haven\'t created an Intellij project for Jython yet, see [JythonDeveloperGuide/IntellijNotes](IntellijNotes).
 
-## Eclipse Code Formatter 
+### Eclipse Code Formatter 
 
 Configuring the [CodingStandards](../CodingStandards) by hand is an annoying task. Fortunately there is a plugin to import Eclipse code formatting rules into Intellij IDEA: Eclipse Code Formatter. It is available in the plugin repository.
 
@@ -18,7 +18,7 @@ The Eclipse Code Styles file is attached to the [CodingStandards](../CodingStand
 
 Eclipse Code Formatter can be configured under *Settings* (shortcut: ctrl + alt + s) \--\> *Eclipse Code Formatter*
 
-## Running Jython and JUnit tests inside IDEA 
+### Running Jython and JUnit tests inside IDEA 
 
 General *Run/Debug Configurations* settings:
 
@@ -31,7 +31,7 @@ General *Run/Debug Configurations* settings:
   --------------------- ---------------------------------------------------------------------------------------------------------------------
 :::
 
-### Jython 
+#### Jython 
 
 Configuration Type: **Application**
 
@@ -45,7 +45,7 @@ Additional parameters:
   ------------------------------ ----------------------------------------------------------
 :::
 
-#### Example: Regression Tests 
+##### Example: Regression Tests 
 
 Running the regression tests in IDEA is interesting for at least two reasons:
 
@@ -56,7 +56,7 @@ Running the regression tests in IDEA is interesting for at least two reasons:
 
 See *regrtest.py* for detailed information about additional program arguments.
 
-### JUnit tests 
+#### JUnit tests 
 
 Configuration Type: **JUnit**
 
@@ -70,6 +70,6 @@ Additional parameters:
   ------------------------------ ----------------------------------------------------------
 :::
 
-#### Example: \_ioTest 
+##### Example: \_ioTest 
 
 ![JythonJUnitConfiguration.jpg](attachments/JythonDeveloperGuide(2f)IntellijTricks/JythonJUnitConfiguration.jpg "JythonJUnitConfiguration.jpg")

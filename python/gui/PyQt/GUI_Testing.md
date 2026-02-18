@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# GUI Testing 
+## GUI Testing 
 
 The following list is a collection of resources that may be useful to people who want to test their PyQt user interfaces:
 
@@ -20,7 +20,7 @@ The following list is a collection of resources that may be useful to people who
 
 The [Unit Testing](Unit_Testing) page deals with more general unit testing issues.
 
-## Historical 
+### Historical 
 
 The following possibilities seem to be outdated (i.e., using old Python/PyQt versions, having broken weblinks or unmaintained libraries where the last release is more than five years ago). They are kept here for historical purpose and in the hope that one day some of these projects will be revived.
 

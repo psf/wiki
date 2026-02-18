@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Suggested Projects for Learning Python 
+## Suggested Projects for Learning Python 
 
 Programming for many is a means not an end. Here are collected possible projects for those new to programming, with some indicator of difficulty, and for which it is known that the building blocks exist in the [LearningRepertoire](../people/LearningRepertoire). These should be concrete problems, not abstract ones.
 

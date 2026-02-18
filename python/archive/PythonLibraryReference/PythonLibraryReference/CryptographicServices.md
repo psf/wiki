@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# Cryptographic Services 
+## Cryptographic Services 
 
 15.1 hmac \-- Keyed-Hashing for Message Authentication
 
@@ -26,7 +26,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 15.5 rotor \-- Enigma-like encryption and decryption
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

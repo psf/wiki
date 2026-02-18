@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Project ideas for Python Core in GSoC 2012 
+## Project ideas for Python Core in GSoC 2012 
 
 1\. Implement [PEP 3154](http://www.python.org/dev/peps/pep-3154/)
 

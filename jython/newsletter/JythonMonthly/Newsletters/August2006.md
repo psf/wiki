@@ -23,9 +23,9 @@ Please send email to:
 
 [jython-monthly@mchsi.com](mailto:jython-monthly@mchsi.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# Articles 
+## Articles 
 
-## Add Logging to Jython Using Log4J 
+### Add Logging to Jython Using Log4J 
 
 [http://wiki.python.org/jython/JythonMonthly/Articles/August2006/1](http://wiki.python.org/jython/JythonMonthly/Articles/August2006/1)
 
@@ -33,7 +33,7 @@ Please send email to:
 
 Are you still using the Jython *print* command to show your errors? How about in a production environment, are you using any formal logging? If not, you should be doing so\...and the Apache log4j API makes it easy to do so. Many Java developers have grown to love the log4j API and it is utilized throughout much of the community. That is great news for Jython developers since we\'ve got direct access to Java libraries!
 
-### Setting Up Your Environment 
+#### Setting Up Your Environment 
 
 The most difficult part about using log4j with Jython is the setup. You must ensure that the log4j.jar archive resides somewhere within your Jython PATH (usually this entails setting the CLASSPATH to include necessary files in Windows environment). You then set up a properties file for use with log4j. Within the properties file, you can include appender information, where logs should reside, and much more.
 
@@ -59,7 +59,7 @@ Example properties file:
 
 You are now ready to use log4j in your Jython application. As you can see, if you\'ve ever used log4j with Java, it is pretty much the same.
 
-### Using log4j in a Jython Application 
+#### Using log4j in a Jython Application 
 
 Once again, using log4j within a Jython application is very similar to it\'s usage in the Java world.
 
@@ -84,7 +84,7 @@ Lastly, use log4j:
 
 Your logging will now take place within the file you specified in the properties file for *log4j.appender.R.File*.
 
-### Using log4j in Jython Scripts 
+#### Using log4j in Jython Scripts 
 
 Many may ask, why in the world would you be interested in logging information about your scripts? Most of the time a script is executed interactively via the command line. However, there are plenty of instances where it makes sense to have the system invoke a script for you. As you probably know, this technique is used quite often within an environment to run nightly tasks, or even daily tasks which are automatically invoked on a scheduled basis. For these cases, it can be extremely useful to log errors or information using log4j. Some may even wish to create a separate automated task to email these log files after the tasks complete.
 
@@ -95,21 +95,21 @@ The overall implementation is the same as above, the most important thing to rem
      PropertyConfigurator.configure("C:\path_to_properties\log4j.properties")
      logger.info("Test the logging")
 
-### Future Possibilities 
+#### Future Possibilities 
 
 Log4J is nice, but there are other logging frameworks which could be extremely useful in Jython as well. As a matter of fact, there is a new logging \"anti-framework\" which is called [SimpleLog](./SimpleLog.html) 2.0 and it looks helpful. I haven\'t yet reviewed [SimpleLog](./SimpleLog.html) 2.0, but I plan to do so in the near future!
 
 Check it out at: [https://simple-log.dev.java.net/](https://simple-log.dev.java.net/)
 
-# Tips and Tricks 
+## Tips and Tricks 
 
-## Create a Jython Time Profiler 
+### Create a Jython Time Profiler 
 
 A module that helps to inject time profiling code in other modules to measure actual execution times of blocks of code. This has been tested and verified with Jython!
 
 [Python Cookbook Recipe](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/496938)
 
-# BECOME THE FIRST JYTHON DEVELOPER ON SUN GRID AND WIN YOUR SHARE OF \$50,000 IN PRIZES! 
+## BECOME THE FIRST JYTHON DEVELOPER ON SUN GRID AND WIN YOUR SHARE OF \$50,000 IN PRIZES! 
 
 - ![](https://coolapps.developer.network.com/banner.JPG "https://coolapps.developer.network.com/banner.JPG")
 
@@ -117,7 +117,7 @@ Test your skills with the Coolaps Developer Challenge: There are two ways to com
 
 Learn more about the Coolapps Developer Challenge: [https://coolapps.developer.network.com/](https://coolapps.developer.network.com/)
 
-# Off The Lists 
+## Off The Lists 
 
 Question: *I would like to know what you think is the best way to recognize - right at the beginning of a script -, whether the code is run by Jython or pure Python interpreter, because I will get [ImportError](./ImportError.html) when Python sees the \"import java\" lines etc. (also if the script is part of a package and another module is imported)*
 
@@ -143,19 +143,19 @@ Pydev and Pydev Extensions 1.2.2 have been released
 
 Details on Pydev Extensions: [http://www.fabioz.com/pydev](http://www.fabioz.com/pydev) Details on Pydev: [http://pydev.sf.net](http://pydev.sf.net) Details on its development: [http://pydev.blogspot.com](http://pydev.blogspot.com)
 
-# Mentionable Books 
+## Mentionable Books 
 
 Check out this new book by *Kuassi Mensah* entitled [Oracle Database Programming Using Java and Web Services](http://www.amazon.com/gp/product/1555583296/102-2444634-2799355?redirect=true). It includes some experimental examples of running Jython in the database using Java runtime.
 
 Check out this blog for more details: [Kuassi Mensah Blog](http://db360.blogspot.com/2006/08/oracle-database-programming-using-java_01.html)
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
 [Oldie but goodie for those interested in helping to develop Jython](http://www.informit.com/articles/article.asp?p=26127&rl=1)
 
-# Who\'s Using Jython? 
+## Who\'s Using Jython? 
 
 [ActiveGrid chooses Jython to bring LAMP closer to Java](http://www.pythonthreads.com/news/latest/activegrid-chooses-jython-to-bring-lamp-development-closer-to-java..html)
 
@@ -163,7 +163,7 @@ If you are interested in developing Jython, please take a look at the [current b
 
 [Grinder - Java Load Testing Framework](http://grinder.sourceforge.net/index.html)
 
-# IDE Information 
+## IDE Information 
 
 [JyConsole](http://sourceforge.net/projects/jyconsole)
 
@@ -173,7 +173,7 @@ How To Get Cluster Name via Jython in wsadmin?
 
 [http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?forum=266&thread=123951&cat=9](http://www-128.ibm.com/developerworks/forums/dw_thread.jsp?forum=266&thread=123951&cat=9)
 
-# Jython Blogs 
+## Jython Blogs 
 
 Jython Considered Dangerous? - [http://dev2dev.bea.com/blog/simonvc/archive/2006/07/jython_consider.html](http://dev2dev.bea.com/blog/simonvc/archive/2006/07/jython_consider.html)
 
@@ -181,11 +181,11 @@ Scripting Oracle with Jython - [http://prpi.blogspot.com/2006/05/scripting-oracl
 
 Jython, Swing & Curry - [http://www.smallshire.org.uk/sufficientlysmall/2005/12/03/jython-swing-curry/](http://www.smallshire.org.uk/sufficientlysmall/2005/12/03/jython-swing-curry/)
 
-# Interesting Facts 
+## Interesting Facts 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Useful Links 
+## Useful Links 
 
 ::: {}
   ----------------------------------------------------------------------------------------------------------------------------------

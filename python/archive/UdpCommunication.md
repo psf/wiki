@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# UDP Communication 
+## UDP Communication 
 
 See also [SoapOverUdp](./SoapOverUdp.html), [TcpCommunication](TcpCommunication)
 
-## Sending 
+### Sending 
 
 Here\'s simple code to post a note by UDP in Python 3:
 
@@ -34,7 +34,7 @@ Here\'s simple code to post a note by UDP in Python 3:
 :::
 ::::
 
-## Receiving 
+### Receiving 
 
 Here\'s simple code to receive UDP messages in Python 3:
 
@@ -57,13 +57,13 @@ Here\'s simple code to receive UDP messages in Python 3:
 :::
 ::::
 
-## Using UDP for e.g. File Transfers 
+### Using UDP for e.g. File Transfers 
 
 If considering extending this example for e.g. file transfers, keep in mind that UDP is not reliable. So you\'ll have to handle packets getting lost and packets arriving out of order. In effect, to get something reliable you\'ll need to implement something similar to TCP on top of UDP, and you might want to consider using TCP instead.
 
 That being said, sometimes you *need* to use UDP, e.g. for [UDP hole punching](http://en.wikipedia.org/wiki/UDP_hole_punching). In that case, consider [TFTP](http://en.wikipedia.org/wiki/TFTP) [for python](https://www.google.com/search?q=python+tftp) or [UDT](http://udt.sourceforge.net/) [for python](https://www.google.com/search?q=python+udt)
 
-## Multicasting? 
+### Multicasting? 
 
 The *official* example of multicast can be found at /usr/share/doc/python2.3/examples/Demo/sockets/mcast.py (at least on Debian Sarge, after `apt-get install python-examples`{.backtick}). It worked on my machine, but I have yet to try it running on different machines. \-- \-- 200.138.245.121 2006-08-09 03:20:30
 

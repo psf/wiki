@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Reading selections from a selection model 
+## Reading selections from a selection model 
 
 On the `#pyqt`{.backtick} channel on freenode, `GHellings`{.backtick} asked for a way to get all selected items in a QListWidget.
 

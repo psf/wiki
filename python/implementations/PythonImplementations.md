@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Implementations 
+## Python Implementations 
 
 An \"implementation\" of Python should be taken to mean a program or environment which provides support for the execution of programs written in the Python language, as represented by the [CPython](CPython) reference implementation.
 
 There have been and are several distinct software packages providing what we all recognize as Python, although some of those are more like distributions or variants of some existing implementation than a completely new implementation of the language.
 
-## CPython Variants 
+### CPython Variants 
 
 These are implementations based on the [CPython](CPython) runtime core (the de-facto reference Python implementation), but with extended behaviour or features in some aspects.
 
@@ -40,7 +40,7 @@ These are implementations based on the [CPython](CPython) runtime core (the de-f
 
 - [RegCPython](https://github.com/zq1997/RegCPython) - a fork of CPython with a register-based bytecode interpreter
 
-### Reduced Python Variants 
+#### Reduced Python Variants 
 
 These provide a subset of the full language + standard library, for use in embedded scenarios (see also the [EmbeddedPython](../people/EmbeddedPython) topic)
 
@@ -50,13 +50,13 @@ These provide a subset of the full language + standard library, for use in embed
 
 Also look at the sections on Python compilers and extensions below, some of which would qualify as CPython variants.
 
-## Other Implementations 
+### Other Implementations 
 
 These are re-implementations of the Python language that do not depend on (or necessarily interact with) the [CPython](CPython) runtime core. Many of them reuse (a large part of) the standard library implementation.
 
 Note that most of these projects have not yet achieved language compliance. However, many of these have goals and features or run in certain environments that make them interesting in their own regard. The only implementations that are known to be compatible with a given version of the language are [IronPython](IronPython), [Jython](../archive/Jython) and [PyPy](PyPy).
 
-### Working Implementations 
+#### Working Implementations 
 
 The following implementations may be not comprehensive or even complete, but at the very least can be said to be working in that you can run typical programs with them already:
 
@@ -90,7 +90,7 @@ The following implementations may be not comprehensive or even complete, but at 
 
 - [Transcrypt](http://www.transcrypt.org/) - Python 3.6 to [JavaScript](./JavaScript.html) precompiler with lean and fast generated code, sourcemaps, built-in minification, optional static type-checking, JSX support
 
-### Tentative Implementations 
+#### Tentative Implementations 
 
 The following implementations are apparent works in progress; they may not be able to run typical programs:
 
@@ -114,13 +114,13 @@ The following implementations are apparent works in progress; they may not be ab
 
 - [pocketpy](https://github.com/blueloveTH/pocketpy) - pocketpy is a lightweight (\~10000 LOC) Python interpreter for game scripting
 
-## Extensions 
+### Extensions 
 
 These are typically part of CPython (or some other implementation) but change the implementation\'s behaviour:
 
 - [Psyco](http://psyco.sf.net) - a just-in-time specialising compiler for CPython, abandoned, works only for CPython 2.6.
 
-## Compilers 
+### Compilers 
 
 These compilers usually implement something close to Python, although some compilers may impose restrictions that alter the nature of the language:
 
@@ -144,7 +144,7 @@ These compilers usually implement something close to Python, although some compi
 
 - [VOC](https://pybee.org/project/projects/bridges/voc/) - A transpiler that converts Python bytecode into Java bytecode.
 
-## Numerical Accelerators 
+### Numerical Accelerators 
 
 - [Numba](http://numba.pydata.org) - [NumPy](../science/NumPy)-aware optimizing runtime compiler for Python
 
@@ -154,7 +154,7 @@ These compilers usually implement something close to Python, although some compi
 
 - [Parakeet](http://https://github.com/iskandr/parakeet) - runtime compiler for a numerical subset of Python
 
-## Similar but Distinct Languages 
+### Similar but Distinct Languages 
 
 These languages don\'t attempt to be directly compatible even with a subset of Python, choosing to provide their own set of features:
 
@@ -194,13 +194,13 @@ Comparisons:
 
 - Some [Genie code samples](http://code.valaide.org/category/tags/genie) indicating the differences between that language and other Python variants
 
-## Topic Guides 
+### Topic Guides 
 
 - [EmbeddedPython](../people/EmbeddedPython)
 
 - [PythonDistributions](../archive/PythonDistributions)
 
-## (Fun) Python Preprocessors 
+### (Fun) Python Preprocessors 
 
 There are even some tongue-in-cheek dialects of Python which you might find fun.
 
@@ -208,7 +208,7 @@ There are even some tongue-in-cheek dialects of Python which you might find fun.
 
 - [LOLPython](http://www.dalkescientific.com/writings/diary/archive/2007/06/01/lolpython.html)
 
-## Academic Projects 
+### Academic Projects 
 
 Python implementations and compilers have been the topic of various papers and theses. Those that have not apparently been developed further are listed here:
 

@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Universal Libraries and Extensions for OS X 10.4+ 
+## Universal Libraries and Extensions for OS X 10.4+ 
 
-## Introduction and Background 
+### Introduction and Background 
 
 Recent versions of Xcode for Mac OS X 10.4 Tiger introduced the ability to create multi-architecture (PowerPC and x86) executables and libraries, known as *Universal* binaries. Most UNIX libraries' build configurations have not adapted their build \'recipes\' to utilize this capability, so they produce only the approriate binary for the platform on which they were compiled, resulting in slower or no execution on the other platform. This is certainly true of PIL, the Python Imaging Library, as of version 1.1.5. While each build \'recipe\' differs depending upon the tools used by its maker and the libraries it is dependent upon, here are some instructions for builidng a Universal PIL and associated libraries, and a few tips on getting \'off-the-shelf\' UNIX libraries to compile as Universal libraries.
 
@@ -22,7 +22,7 @@ Recent versions of Xcode for Mac OS X 10.4 Tiger introduced the ability to creat
 
 [http://pythonmac.org/packages/py25-fat/index.html](http://pythonmac.org/packages/py25-fat/index.html)
 
-## PIL (Python Imaging Library) Example 
+### PIL (Python Imaging Library) Example 
 
 To build a Universal PIL, we must first build Universal versions of its dependent libraries:
 
@@ -31,7 +31,7 @@ To build a Universal PIL, we must first build Universal versions of its dependen
 - zlib\*
   - *\*Since Apple includes zlib with OS X 10.4, we only have to make Universal binaries for freetype2 and jpeg-6b.*
 
-### Notes and Assumptions 
+#### Notes and Assumptions 
 
 1.  The source code versions here are valid at the time of writing but will inevitably become out of date. If we are lucky, newer versions will detect OS X and build Universal versions for us. If not, you\'ll have to adjust the instructions accordingly.
 2.  I assume you are famliar with operating the UNIX shell on OS X and with the typical UNIX install \'recipe\':
@@ -39,7 +39,7 @@ To build a Universal PIL, we must first build Universal versions of its dependen
 3.  I allow the libraries to be installed on my system in the default locations rather than just a temporary build directory because this recipe is about making a working installation and not about building the components to create a package.
 4.  We really don\'t need to make Universal binaries jsut to install on a single paltform, but I am providing this to show the diffrerent techniques I have stumbled upon to coax UNIX libraries to compile \'universally\'
 
-### Universal freetype2 
+#### Universal freetype2 
 
 1.  first get the source and put it a working directory you choose: [http://easynews.dl.sourceforge.net/sourceforge/freetype/freetype-2.1.10.tar.gz](http://easynews.dl.sourceforge.net/sourceforge/freetype/freetype-2.1.10.tar.gz)
 
@@ -61,7 +61,7 @@ To build a Universal PIL, we must first build Universal versions of its dependen
 
 10. return to the original directory: *popd*
 
-### Universal jpeg-6b 
+#### Universal jpeg-6b 
 
 1.  first get the source and put it a working directory you choose: [http://www.ijg.org/files/jpegsrc.v6b.tar.gz](http://www.ijg.org/files/jpegsrc.v6b.tar.gz)
 
@@ -83,7 +83,7 @@ To build a Universal PIL, we must first build Universal versions of its dependen
 
 10. return to the original directory: *popd*
 
-### Universal PIL 
+#### Universal PIL 
 
 1.  first get the source and put it a working directory you choose: [http://effbot.org/downloads/Imaging-1.1.5.tar.gz](http://effbot.org/downloads/Imaging-1.1.5.tar.gz) -o Imaging-1.1.5.tar.gz
 
@@ -105,7 +105,7 @@ To build a Universal PIL, we must first build Universal versions of its dependen
 
 10. We are done. return to the starting point *pushd* and we should have a working installation of PIL.
 
-### A few More 
+#### A few More 
 
 \"It just goes to show you\--there\'s always *something*\"
 

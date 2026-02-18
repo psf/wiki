@@ -16,7 +16,7 @@ The Metro station closest to [PyCon](../PyCon) is Foggy Bottom; walk up to Eye S
 
 If you\'re trying to use a store locator, the Cafritz Center\'s Zip code is 20052.
 
-# In the building 
+## In the building 
 
 See this [page](http://www.campuslifestyles.net/en-US/eCampus1/GWUDining/Locations/J-Street.htm) for more information.
 
@@ -39,7 +39,7 @@ In the basement:
 
 - District Market: grocery store with sandwiches, fruit, etc.
 
-# Across the street 
+## Across the street 
 
 If you leave the building by the main entrance, you\'ll see a large Tower Records across the street. This is actually part of a small mall (called \"2000 Pennsylvania\") which has a number of additional choices.
 
@@ -51,7 +51,7 @@ If you leave the building by the main entrance, you\'ll see a large Tower Record
 - La Prima \-- carry-out sandwiches, bagels, baked treats
 - Vaccaro\'s Italian Pastry \-- pastries and coffee
 
-# Nearby 
+## Nearby 
 
 There are many restaurants in the blocks surrounding the conference center. They\'re almost all located to the north of [PyCon](../PyCon); southwards the area is mostly university buildings or residences.
 
@@ -99,9 +99,9 @@ There are also restaurants on K Street. They tend to be pricier, so you may pref
 
 Vegetarians can consult the [Washington DC section on VegGuide.org](http://www.vegguide.org/location/view.mhtml?location_id=96&new_query=1).
 
-# Other nearby resources 
+## Other nearby resources 
 
-## Drugstores 
+### Drugstores 
 
 The District Market store located in the basement carries some toiletries and over-the-counter medications.
 
@@ -109,7 +109,7 @@ There is a CVS drugstore at 1901 Pennsylvania (corner of 19th and Penn), and ano
 
 *If you find any others that are closer, please record them here.*
 
-## Bookstores 
+### Bookstores 
 
 [Reiter\'s](http://www.reiters.com/) is the largest technical and scientific bookstore in the DC area, and is definitely worth a visit; they also carry legal and professional titles. It\'s a few blocks to the north of [PyCon](../PyCon), at 2021 K Street.
 
@@ -119,7 +119,7 @@ There is a Borders at 600 14th Street, and a three-floor Barnes&Noble in Georget
 
 If you prefer to spend your money at independent booksellers, there are a number of smaller independent bookstores located in Georgetown, such as Bridge Street Books at 2814 Pennsylvania. Consult [Evelyn Leeper\'s bookstore list](http://www.geocities.com/Athens/4824/na-dc.htm#georgetown) for a complete list. (And don\'t forget the museum gift shops, too; Shakespeare lovers \*will\* want to go visit the Folger, for example.)
 
-## Copying Services 
+### Copying Services 
 
 There is a Fedex/Kinko\'s in the basement of the Cafritz Center.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Core Jython / Python Examples 
+## Core Jython / Python Examples 
 
 [DocumentationAndEducation](../getting-started/DocumentationAndEducation)
 
@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Examples related to core Jython / Python will be here. Intended for those new to Python / Jython
 
-## Print 
+### Print 
 
 Print Hello world
 
@@ -27,7 +27,7 @@ Print Hello world
 :::
 ::::
 
-## JArray 
+### JArray 
 
 I was curious on how to work with jarray and move the arrays between classes after being filled with values and operated. I think this example explains some of the basics. Of course, there are more pythonic ways to do this. Cheers! Alfonso Reyes
 
@@ -73,7 +73,7 @@ I was curious on how to work with jarray and move the arrays between classes aft
 :::
 ::::
 
-## Multidimensional 2-D String Array 
+### Multidimensional 2-D String Array 
 
 In case you need 2-D string arrays this example may help you to start. Cheers! Alfonso Reyes, Houston-Texas
 
@@ -111,7 +111,7 @@ In case you need 2-D string arrays this example may help you to start. Cheers! A
 :::
 ::::
 
-## Finding methods in a python script 
+### Finding methods in a python script 
 
 Posted on the Jython list March 18, 2008:
 

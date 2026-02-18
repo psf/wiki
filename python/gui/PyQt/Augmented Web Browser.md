@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Augmented Web Browser 
+## Augmented Web Browser 
 
 The [augmented.py](attachments/PyQt(2f)Augmented(20)Web(20)Browser/augmented.py) example was written for [PyCon](../../conferences/pycon/PyCon) Tre ([PyCon](../../conferences/pycon/PyCon) Italia 2009) in Firenze.
 

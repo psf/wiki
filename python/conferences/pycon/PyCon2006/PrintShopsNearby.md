@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - This is not an exhaustive list. If these shops don\'t suit you, post a note on the [PyCon](../PyCon) mailing list and I will get others added. I looked for 5 Print Shops that were close to the Marriot Quorum, where [PyCon](../PyCon) 2006 is being held.
 
-# Overall notes 
+## Overall notes 
 
 - All the printers can create collated sets of handouts on normal american sized papers. That means 8.5 x 11, 8.5 x 14 and 11 x 17. I\'ll comment about other sizes available. All printers listed can take paper copies to be duplicated, but I expect people will want to submit electronic copies to be duplicated. Every printer expresses a strong preference for PDF files as the format to receive. I\'ll comment about other formats that are accepted.
 - I asked them all about delivery times for what I thought was a normal job. The normal job is a printout to be used for tutorials and would be 50 copies of 40 to 100 pages each. Bigger jobs may take longer, so ask if time is important.
 - I think any of these shops should be fine, but I do have editorial comments on a couple. They are listed in the order I visited them, so don\'t read anything into the ordering.
 
-## The Master\'s Press 
+### The Master\'s Press 
 
 - Address:14550 Midway Rd; Dallas, TX
 
@@ -40,7 +40,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - This would be my first choice of these shops. I would expect a decent, but not the best price. They seemed very professional and I looked at a few works in progress that looked first class.
 
-## FedEx Kinko 
+### FedEx Kinko 
 
 - Address:4568 Belt Line Rd; Addison, TX
 
@@ -70,7 +70,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - \$.065 per page for black and white 8.5 x 11 copies in quantity 2000
 
-## Kwik Copy 
+### Kwik Copy 
 
 - M-F 8:30 AM - 6 PM
 
@@ -90,7 +90,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Takes payment by amex/MC/visa/discover/diners club
 
-## The Print Place 
+### The Print Place 
 
 - M-F 7:30AM - 6PM, Sat 10AM - 4 PM
 
@@ -110,7 +110,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Email details of your job to get a quote. If you have a file to be printed that is more than a couple of megabytes, you will need to upload it to the website at theprintplace.com
 
-## Office Depot 
+### Office Depot 
 
 - Address:4949 Belt Line Rd; Address:Dallas, TX
 
@@ -130,7 +130,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 And here is another list from someone else, from Google maps and run it through an XSL transform.
 
-## Sir Speedy 
+### Sir Speedy 
 
 - Address:15323 Midway Rd
 
@@ -140,7 +140,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://www.sirspeedy.com/](http://www.sirspeedy.com/)
 
-## Office Machines Inc 
+### Office Machines Inc 
 
 - Address:15906 Midway Rd
 
@@ -150,7 +150,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://national.citysearch.com/profile/9504051/addison_tx/office_machines_incorporated.html](http://national.citysearch.com/profile/9504051/addison_tx/office_machines_incorporated.html)
 
-## A Best Toner Service 
+### A Best Toner Service 
 
 - Address:4651 Westgrove Dr
 
@@ -160,7 +160,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://dallas.citysearch.com/profile/37173299/](http://dallas.citysearch.com/profile/37173299/)
 
-## Kwik Printing 
+### Kwik Printing 
 
 - Address:16246 Midway Rd
 
@@ -170,7 +170,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://news.dallaschamber.org/e_article000048568.cfm](http://news.dallaschamber.org/e_article000048568.cfm)
 
-## Document Imaging Group 
+### Document Imaging Group 
 
 - Address:4951 Airport Pkwy \# 710
 
@@ -180,7 +180,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL:
 
-## Kinko\'s 
+### Kinko\'s 
 
 - Address:7927 Forest LN
 
@@ -190,7 +190,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL:
 
-## 1Stop CD DVD Duplication Replication Carrollton TX 
+### 1Stop CD DVD Duplication Replication Carrollton TX 
 
 - Address:3361 Boyington Dr #160
 
@@ -200,7 +200,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://www.onestopmediashop.com/cd-dvd-duplication-replication-carrolton.html](http://www.onestopmediashop.com/cd-dvd-duplication-replication-carrolton.html)
 
-## V P Imaging 
+### V P Imaging 
 
 - Address:14881 Quorum Dr \# 900
 
@@ -210,7 +210,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://www.hellodallas.com/YP/c_PHOTOCOPYINGDUPLICATINGSE.Cfm](http://www.hellodallas.com/YP/c_PHOTOCOPYINGDUPLICATINGSE.Cfm)
 
-## Spinner the Printer 
+### Spinner the Printer 
 
 - Address:3335 Keller Springs Rd \# 100
 
@@ -220,7 +220,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://goliath.ecnext.com/coms2/product-compint-0000548501-page.html](http://goliath.ecnext.com/coms2/product-compint-0000548501-page.html)
 
-## Bent Tree Printing 
+### Bent Tree Printing 
 
 - Address:4601 Langland Rd \# 103
 
@@ -230,7 +230,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://www.btprinting.com/](http://www.btprinting.com/)
 
-## Lawton Reprographic Ctr Inc 
+### Lawton Reprographic Ctr Inc 
 
 - Address:14109 Inwood Rd \# 100
 
@@ -240,7 +240,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://lawtonrepro.com/neworder.asp](http://lawtonrepro.com/neworder.asp)
 
-## Eagle Postal Centers 
+### Eagle Postal Centers 
 
 - Address:15111 Preston Rd \# 107
 
@@ -250,7 +250,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://www.thecityofdallas.com/notary-public/](http://www.thecityofdallas.com/notary-public/)
 
-## Allegra Print &amp; Imaging 
+### Allegra Print &amp; Imaging 
 
 - Address:14131 Midway Rd \# 119
 
@@ -260,7 +260,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://www.imageco.com/business_links/dallas.htm](http://www.imageco.com/business_links/dallas.htm)
 
-## Ups Store the: Dallas 
+### Ups Store the: Dallas 
 
 - Address:14902 Preston Rd \# 404
 
@@ -270,7 +270,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://www.theupsstore.com/](http://www.theupsstore.com/)
 
-## Mail Boxes Etc: Dallas 
+### Mail Boxes Etc: Dallas 
 
 - Address:14902 Preston Rd
 
@@ -280,7 +280,7 @@ And here is another list from someone else, from Google maps and run it through 
 
 - URL: [http://www.imageco.com/business_links/dallas.htm](http://www.imageco.com/business_links/dallas.htm)
 
-## Einstein Printing 
+### Einstein Printing 
 
 - Address:13615 Welch Rd \# 102
 

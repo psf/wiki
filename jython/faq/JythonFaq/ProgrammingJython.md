@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Programming Jython 
+## Programming Jython 
 
 [JythonFaq]()
 
 ------------------------------------------------------------------------
 
-## Why can\'t I multiply inherit from two or more Java classes? 
+### Why can\'t I multiply inherit from two or more Java classes? 
 
 In earlier versions of JPython, you actually could. This was deliberately disabled in 1.1 for a variety of good reasons. For one, multiply inheriting from two Java classes breaks the single inheritance contract that is assumed when developing Java classes.
 
@@ -20,7 +20,7 @@ Note that you can still multiply inherit from any number of Python classes, and 
 
 ------------------------------------------------------------------------
 
-## I\'m trying to execute a \'protected\' or \'private\' Java Instance Method or attribute in a Java package. How can I get access? 
+### I\'m trying to execute a \'protected\' or \'private\' Java Instance Method or attribute in a Java package. How can I get access? 
 
 By default, as in Java, these methods are protected from external access, but there may be reasons, such as test scaffolding scripts, that this feature is not wanted. In the \[jython home\]/registry file:
 
@@ -30,7 +30,7 @@ By default, as in Java, these methods are protected from external access, but th
 
 ------------------------------------------------------------------------
 
-## How can I access Java protected (static) members from a Jython subclass? 
+### How can I access Java protected (static) members from a Jython subclass? 
 
 The short answer: you can\'t. At least not without setting the registry option python.security.respectJavaAccessibility to false.
 
@@ -56,7 +56,7 @@ Such a call does not originate from the subclass, but from internal reflection c
 
 ------------------------------------------------------------------------
 
-## How can I use a Java null value in Jython? 
+### How can I use a Java null value in Jython? 
 
 A Java null is turned into a Python None value.
 
@@ -72,7 +72,7 @@ A Java null is turned into a Python None value.
 
 ------------------------------------------------------------------------
 
-## Where\'s the -O switch? 
+### Where\'s the -O switch? 
 
 Jython does not have a -O command-line switch.
 
@@ -80,7 +80,7 @@ Assigning [debug]=0 has been used to get -O behavior from things like \"assert\"
 
 ------------------------------------------------------------------------
 
-## When I write to a file, it\'s empty. Why? 
+### When I write to a file, it\'s empty. Why? 
 
 You need to close the file (or flush the buffer). You can ensure this happens by using finally or the with statement:
 
@@ -97,13 +97,13 @@ You need to close the file (or flush the buffer). You can ensure this happens by
 
 ------------------------------------------------------------------------
 
-## The Jython\'s os module is missing some functions, why? 
+### The Jython\'s os module is missing some functions, why? 
 
 For Posix and Windows, Jython implements most of the os module seen in CPython (excluding most notably fork). Under certain sandbox settings, it\'s not possible to run the necessary Java Native Runtime code for this (using JNI), so instead a pure Java version is substituted. This is also what is available when running under other OS\'s, such as zOS.
 
 ------------------------------------------------------------------------
 
-## How can I manipulate a java.util.Date object in Jython? 
+### How can I manipulate a java.util.Date object in Jython? 
 
 `java.util.Date.getTime()` gives the milliseconds since the epoch while Jython (just like CPython) gives seconds since the epoch. So you need to divide the values given from `java.util.Date` by 1000.
 
@@ -123,7 +123,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-## jythonc
+### jythonc
 
 jythonc is no longer available as of 2.5.
 
@@ -131,7 +131,7 @@ for more info on jythonc see [http://www.jython.org/Project/jythonc.html](http:/
 
 ------------------------------------------------------------------------
 
-## How can catch a Java exception thrown from within Jython? 
+### How can catch a Java exception thrown from within Jython? 
 
 How do I distinguish between different Java exceptions thrown from within jython if the `interp.exec`{.backtick} method only throws a `PyException`{.backtick} ?
 

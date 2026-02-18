@@ -14,7 +14,7 @@ Note: an update of the port, which features a single codebase for 2.x and 3.x, a
 
 For general tips on porting to Python 3, see [PortingPythonToPy3k](PortingPythonToPy3k) (ideally, much of the non-Django-specific information from the porting Django page should be included on the general porting page).
 
-# Porting Strategy 
+## Porting Strategy 
 
 This port attempts to maintain compatibility with older Python versions from a single code base; the goal is to support all versions that Django supports, plus 3.1.
 
@@ -24,11 +24,11 @@ This approach mostly works, and has the following flaws:
 
 - conversion is rather slow (takes 6min on my machine)
 
-# Changes 
+## Changes 
 
 The changes can be roughly grouped into the following categories
 
-## Naming Changes 
+### Naming Changes 
 
 A number of modules that django uses have been removed, or renamed:
 
@@ -44,7 +44,7 @@ In addition, a few functions and attributes got renamed:
 
 - to test whether something is a function, don\'t look at `func_code`{.backtick} anymore; use `__code__`{.backtick} instead.
 
-## Bytes vs. Strings 
+### Bytes vs. Strings 
 
 Python 3 separates byte strings and character strings clearly, and defines that string literals are character strings, unless prefixed as bytes. Character strings are always represented as sequence of Unicode characters.
 
@@ -77,7 +77,7 @@ To fix these problems, I made the following changes:
 
 - urllib.quote currently doesn\'t work on bytes; I think it should. To work around, I convert the argument into a Unicode string.
 
-## New-style classes 
+### New-style classes 
 
 - Django uses types.[ClassType](./ClassType.html) to create new classes at run-time. Change that to use type in 3.x, through a test for sys.version_info.
 
@@ -89,7 +89,7 @@ To fix these problems, I made the following changes:
 
 - [cmp] cannot be used anymore for comparison; classes need to implement [lt], etc.
 
-## Other changes 
+### Other changes 
 
 - the hex codec does not exist anymore, use binhex.unhexlify
 
@@ -97,7 +97,7 @@ To fix these problems, I made the following changes:
 
 - In [AdminLogNode](./AdminLogNode.html), limit shows up as a string, not as an int, and slice() will complain. I\'m not sure why that works in 2.x.
 
-# Open Issues 
+## Open Issues 
 
 - I have worked with sqlite3 and psycopg2 only; all the other databases have not been tested.
 
@@ -107,6 +107,6 @@ To fix these problems, I made the following changes:
 
 - \... (many more things; this just barely works)
 
-#### Tags 
+##### Tags 
 
 Python 3k. Python 3.0. Python 3000. Py3K. Django.

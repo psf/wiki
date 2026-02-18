@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 \[Hint: The idea is to create pages for the stuff, not just link it.\]
 
-# C/C++ 
+## C/C++ 
 
 There a various tools which make it easier to bridge the gap between Python and C/C++:
 
@@ -30,7 +30,7 @@ There a various tools which make it easier to bridge the gap between Python and 
 
 - [CFFI](http://cffi.readthedocs.org/) - interact with almost any C code from Python, based on C-like declarations that you can often copy-paste from header files or documentation.
 
-### 0.1. C/C++ Binding Generators 
+#### 0.1. C/C++ Binding Generators 
 
 Tools to make C/C++ functions/methods accessible from Python by generating binding (Python extension or module) from header files.
 
@@ -74,17 +74,17 @@ Tools to make C/C++ functions/methods accessible from Python by generating bindi
 
 - [AppsWithPythonScripting](../libraries/AppsWithPythonScripting)
 
-# Delphi 
+## Delphi 
 
 - [Python4Delphi](Python4Delphi) - Python for Delphi is a set of free components that wrap up the Python Dll into Delphi. ([https://github.com/pyscripter/python4delphi](https://github.com/pyscripter/python4delphi))
 
-# Fortran 
+## Fortran 
 
 - [F2PY](F2PY) - Fortran to Python Interface Generator ([http://cens.ioc.ee/projects/f2py2e/](http://cens.ioc.ee/projects/f2py2e/))
 
 - [PyFort](./PyFort.html) - The Python-Fortran connection tool ([http://pyfortran.sourceforge.net/](http://pyfortran.sourceforge.net/))
 
-# Lisp 
+## Lisp 
 
 - [CLPython](CLPython) - Python implemented in Common Lisp
 
@@ -92,7 +92,7 @@ Tools to make C/C++ functions/methods accessible from Python by generating bindi
 
 - [Pymacs](http://pymacs.progiciels-bpi.ca/) - integration of Python with Emacs Lisp
 
-# Prolog 
+## Prolog 
 
 - [PyLog](../people/PyLog) (actually two *different* products)
 
@@ -106,7 +106,7 @@ Tools to make C/C++ functions/methods accessible from Python by generating bindi
 
 See also [http://www.google.com/search?hl=en&lr=&ie=ISO-8859-1&q=Python+prolog](http://www.google.com/search?hl=en&lr=&ie=ISO-8859-1&q=Python+prolog)
 
-# Java 
+## Java 
 
 - [Jython](Jython) - Python implemented in Java
 
@@ -124,7 +124,7 @@ See also [http://www.google.com/search?hl=en&lr=&ie=ISO-8859-1&q=Python+prolog](
 
 - [p2j](https://github.com/chrishumphreys/p2j) - Converts Python code to Java. No longer developed.
 
-# C#/.NET 
+## C#/.NET 
 
 - [ActiveState](https://www.activestate.com/company/press/press-releases/activestate-supports-microsoft-net-framework/) supports Python .NET.
 
@@ -132,7 +132,7 @@ See also [http://www.google.com/search?hl=en&lr=&ie=ISO-8859-1&q=Python+prolog](
 
 - [IronPython](https://ironpython.net) is an implementation of Python for .net, which allows you to import .net class libraries seamlessly in Python.
 
-# Perl 
+## Perl 
 
 See [http://www.faqts.com/knowledge_base/view.phtml/aid/17202/fid/1102](http://www.faqts.com/knowledge_base/view.phtml/aid/17202/fid/1102)
 
@@ -144,23 +144,23 @@ See [http://www.faqts.com/knowledge_base/view.phtml/aid/17202/fid/1102](http://w
 
 For converting/porting Perl code to Python the tool \'Bridgekeeper\' [http://www.crazy-compilers.com/bridgekeeper/](http://www.crazy-compilers.com/bridgekeeper/) may be handy.
 
-# PHP 
+## PHP 
 
 - PiP (Python in PHP) [http://www.csh.rit.edu/\~jon/projects/pip/](http://www.csh.rit.edu/~jon/projects/pip/)
 
 - PHP \"Serialize\" in Python [http://hurring.com/scott/code/python/serialize/](http://hurring.com/scott/code/python/serialize/) (broken link; see the [Web Archive Wayback Machine](http://web.archive.org/web/20110807032037/http://hurring.com/scott/code/python/serialize/) for the latest working version)
 
-# R 
+## R 
 
 - RPy [http://rpy.sourceforge.net](http://rpy.sourceforge.net/)
 
 - RSPython [http://www.omegahat.net/RSPython](http://www.omegahat.net/RSPython)
 
-# Objective-C 
+## Objective-C 
 
 - [http://pyobjc.sourceforge.net/](http://pyobjc.sourceforge.net/)
 
-# Tcl 
+## Tcl 
 
 - [elmer](elmer) - compile and run python code from Tcl, as if it was written in Tcl
 
@@ -168,7 +168,7 @@ For converting/porting Perl code to Python the tool \'Bridgekeeper\' [http://www
 
 - [Tcl and other languages](http://wiki.tcl.tk/1324) - Tcl\'s equivalent of this page.
 
-# Lua 
+## Lua 
 
 - [LunaticPython](http://labix.org/lunatic-python) - a two-way bridge between Python and Lua.
 
@@ -176,17 +176,17 @@ For converting/porting Perl code to Python the tool \'Bridgekeeper\' [http://www
 
 - [Lux](http://www.equi4.com/lux/) - a mutant Lua emphasizing interoperation with Python, Perl, etc.
 
-# OCaml 
+## OCaml 
 
 - [Pycaml](http://pycaml.sourceforge.net/) - write Python extension modules in OCaml (instead of C), and use Python code and native libraries from OCaml programs.
 
-# Eiffel and Haskell 
+## Eiffel and Haskell 
 
 - Eiffel/Haskell [http://epolyglot.sourceforge.net/](http://epolyglot.sourceforge.net/) (last updated 2001)
 
 - [PythonVsHaskell](PythonVsHaskell) has a section \"Using both Python & Haskell with ctypes\".
 
-# Other (applications) 
+## Other (applications) 
 
 - [LotusNotes](./LotusNotes.html) [http://www.dominopower.com/issuesprint/issue200008/command.html](http://www.dominopower.com/issuesprint/issue200008/command.html)
 
@@ -198,12 +198,12 @@ For converting/porting Perl code to Python the tool \'Bridgekeeper\' [http://www
 
 to name a few. There are much [more\...](http://www.google.com/search?q=Python+binding&hl=en)
 
-# Other (standards and protocols) 
+## Other (standards and protocols) 
 
 - XMLRPC and SOAP
 
 - Yaml: [http://www.yaml.org](http://www.yaml.org/)
 
-# See also 
+## See also 
 
 Thinki: [UsingPythonWithOtherLanguages](http://web.archive.org/web/20071108024137/http://www.thinkware.se/cgi-bin/thinki.cgi/UsingPythonWithOtherLanguages)

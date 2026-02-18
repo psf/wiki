@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyTextile 
+## PyTextile 
 
 [PyTextile](http://pypi.python.org/pypi/textile) is a *very* easy to use text-to-HTML converter.
 
@@ -33,7 +33,7 @@ to *this:*
      
             <p>Link to <a href="http://slashdot.org/">Slashdot</a></p>
 
-## Using PyTextile 
+### Using PyTextile 
 
 First, [download the latest PyTextile.](http://pypi.python.org/pypi/textile)
 
@@ -65,16 +65,16 @@ Type:
 
 You\'ll see beautiful HTML on the other side, ready for inclusion in a web page. ![:)](/wiki/europython/img/smile.png ":)")
 
-### Options 
+#### Options 
 
 PyTextile takes 3 optional arguments:
 
     def textile(self, text, rel=None, head_offset=0, html_type='xhtml', sanitize=False):
 
-## See Also: 
+### See Also: 
 
 [reStructuredText](../archive/reStructuredText) as a markup format to convert text to HTML.
 
-# Discussion 
+## Discussion 
 
 (none yet!)

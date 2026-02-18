@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Microsoft Access mdb and accdb Database 
+## Microsoft Access mdb and accdb Database 
 
 URL
 
@@ -18,20 +18,20 @@ Licence
 Platforms
 :   Windows
 
-## Pros 
+### Pros 
 
 - Widely used by end users.
 - It comes with the GUI tools,and very user friendly.
 
-## Cons 
+### Cons 
 
 - Windows only.
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### PyPyODBC （Pure Python) 
+#### PyPyODBC （Pure Python) 
 
 URL
 
@@ -50,7 +50,7 @@ PyPyODBC is a pure Python script module providing ODBC interfacing functions, it
 
 However, ***on Windows Platform***, PyPyODBC also provides a set of methods bringing [PyPyODBC\'s extra support for Access on Windows Platform](https://code.google.com/p/pypyodbc/wiki/pypyodbc_for_access_mdb_file)
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -69,7 +69,7 @@ On Windows, you can use mxODBC with the ODBC driver that comes with MS Access, o
 
 On Unix platforms, you can use one of the ODBC drivers available from commercial ODBC vendors. If you only need to query data from MS Access files, you can also have a look at the very limited ODBC driver that comes with the [MDBTools](http://mdbtools.sourceforge.net/). This works reasonably well to extract data from the MS Access files.
 
-### mxODBC Connect 
+#### mxODBC Connect 
 
 URL
 

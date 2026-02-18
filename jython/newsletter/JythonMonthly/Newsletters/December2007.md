@@ -17,15 +17,15 @@ There are a few good articles included in this month\'s newsletter. Rob Andrews 
 
 I hope that everyone enjoys the holiday season and takes some time to relax with their loved ones. Seasons greetings to everyone!
 
-# Articles 
+## Articles 
 
-## Scripting for the Java Platform 
+### Scripting for the Java Platform 
 
 *By: Gregor Roth*
 
 [Read Article](http://www.javaworld.com/javaworld/jw-11-2007/jw-11-jsr223.html)
 
-## Newbie Corner 
+### Newbie Corner 
 
 *By: Rob Andrews*
 
@@ -37,7 +37,7 @@ The following is a very simple example of a common task. Each line in the file \
 
 [Read Entire Article](http://wiki.python.org/jython/JythonMonthly/Articles/December2007/NC)
 
-## Using JavaFX in Jython Applications 
+### Using JavaFX in Jython Applications 
 
 *By: Josh Juneau*
 
@@ -45,21 +45,21 @@ Have you heard about JavaFX script yet? Of course you have, it is one of the hot
 
 [Read Entire Article](http://wiki.python.org/jython/JythonMonthly/Articles/December2007/2)
 
-## Python Mini Learning Guide 
+### Python Mini Learning Guide 
 
 [Read the Guide](http://tssblog.blogs.techtarget.com/2007/11/15/python-mini-learning-guide/)
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Tips and Tricks 
+## Tips and Tricks 
 
 [Jython on Mac OSX Tip: Using JDK 6 with Jython](http://wiki.python.org/jython/JythonMonthly/Articles/December2007/1)
 
 [Find more great tips at the Python Cookbook!](http://aspn.activestate.com/ASPN/Cookbook/Python)
 
-# Interesting Facts 
+## Interesting Facts 
 
 The first Christmas was celebrated on December 25, AD 336 in Rome.
 

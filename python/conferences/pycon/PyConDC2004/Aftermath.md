@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 See also [PyConPostMortem](../PyConPostMortem).
 
-# Words 
+## Words 
 
 - [Feedster summary](http://now.feedster.com/pycon) of [PyCon](../PyCon)-related weblog entries.
 
@@ -18,7 +18,7 @@ See also [PyConPostMortem](../PyConPostMortem).
 
 - [PyCon2004Successes](./PyCon2004Successes.html) \-\-- records things that got done at [PyCon](../PyCon). Please add your accomplishments to this page.
 
-# Pictures 
+## Pictures 
 
 - [Pictures from PyCon 2004 on PythonPhotos.org](http://pythonphotos.org/archive/searchresults?1=on&5=PyCon%202004)
 

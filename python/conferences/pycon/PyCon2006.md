@@ -14,7 +14,7 @@ The venue will be the Dallas-Addison Marriott Quorum ([reserve a room](http://ww
 
 The Marriott Quorum hotel is located on the north side of Dallas, in the suburban [Town of Addison](http://www.addisontexas.net/).
 
-# Dates and times 
+## Dates and times 
 
 The conference schedule is:
 
@@ -29,7 +29,7 @@ The conference schedule is:
 
 - [Schedule of talks](http://www.python.org/pycon/2006/schedule)
 
-# Activities 
+## Activities 
 
 - [/Talks](PyCon2006/Talks) \-- Scheduled formal presentations.
 
@@ -45,7 +45,7 @@ The conference schedule is:
 
 - [Open Space](http://us.pycon.org/TX2006/OpenSpace) \-- Plan your own sessions
 
-# Local Information 
+## Local Information 
 
 - [/NearbyRestaurants](PyCon2006/NearbyRestaurants)
 
@@ -55,7 +55,7 @@ The conference schedule is:
 
 - [Wikitravel page for Addison](http://wikitravel.org/en/Addison)
 
-# Suggestions, Ideas 
+## Suggestions, Ideas 
 
 What would you like to see at [PyCon](PyCon) 2006? Please edit these wiki pages, adding your suggestions and ideas.
 
@@ -75,7 +75,7 @@ There is a page of suggestions for speakers at [PyCon2006/SpeakerNotes](PyCon200
 
 Want to help? Take a look at [PyCon2006/VolunteerTasks](PyCon2006/VolunteerTasks) for ways you can help.
 
-# For Organizers 
+## For Organizers 
 
 Planning-related pages belong to the [CategoryPyConPlanning](CategoryPyConPlanning) category.
 

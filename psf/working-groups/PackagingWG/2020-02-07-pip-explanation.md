@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 \[Bernard and Pradyun spoke on Feb 6 and Feb 7 to give Bernard an understanding of pip\'s architecture.\]
 
-# Feb 6th 
+## Feb 6th 
 
 Pradyun/Bernard discussion, 6 Feb 2020
 
@@ -67,7 +67,7 @@ How possible is it for us to map all the pip command journeys\' flows? Essential
 
 Look at how long this is: [https://pip.pypa.io/en/stable/reference/pip_install/](https://pip.pypa.io/en/stable/reference/pip_install/) (complexity in pip\'s options)
 
-# Feb 7th 
+## Feb 7th 
 
 Pradyun / Bernard discussion 7 Feb 2020
 
@@ -149,7 +149,7 @@ Optimistic outcome: Maintainer guidance on identifying areas where we might have
 
 *verbosity / output + failure visibility* Broader than error messages. is this in/out of scope?
 
-## USER STORY 
+### USER STORY 
 
 As a user I want to know whats make the display less mysterious
 
@@ -175,7 +175,7 @@ Cascading tasks
 
 - have helpers in the code there is a lot of output - do we want to show \*everything\*?
 
-## Experiment 
+### Experiment 
 
 experiment: take a package with lots of dependencies
 
@@ -196,7 +196,7 @@ Are there \"defined\" steps in the complication?
   - repeat
 - then finally install
 
-## The resolver 
+### The resolver 
 
 *resolver* this resolves what to download, build, this gives us a state and how to get there.
 

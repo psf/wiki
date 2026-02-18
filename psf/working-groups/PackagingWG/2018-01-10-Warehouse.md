@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Maintainer MVP Milestone discussion 
+## Maintainer MVP Milestone discussion 
 
 Sync-up and discussion of due date January 10, 2018
 
@@ -20,7 +20,7 @@ Present:
 - Donald Stufft
 - Mark Mangoba
 
-## Current work 
+### Current work 
 
 What are you working on? Any blockers?
 
@@ -32,7 +32,7 @@ What are you working on? Any blockers?
 
 - Donald: Discussing PR feedback 
 
-## Maintainer MVP milestone work remaining 
+### Maintainer MVP milestone work remaining 
 
 Schedule and decide tentative deadline for [first milestone](https://github.com/pypa/warehouse/milestone/8)
 
@@ -59,11 +59,11 @@ Schedule and decide tentative deadline for [first milestone](https://github.com/
 
   - Nicole: view for logged in users to view detail of a release (this view can be empty, for now Nicole just needs a URL so she can build a static form / tables, etc.; Dustin is working on this)
 
-## Statements/News 
+### Statements/News 
 
 - Ernest: I have Warehouse Logo stickers arriving today. Need your mailing addresses :-p
 
-## Questions 
+### Questions 
 
 Ernest: Have we gotten an idea where we are at with \$ burn and time remaining for participants?
 

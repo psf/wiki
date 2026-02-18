@@ -19,15 +19,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
     Created: 18-May-2001
     Post-History: Never
 
-# Abstract 
+## Abstract 
 
 - Python has had a solid Database API for SQL databases since 1996 \[1\]. This revision introduces iterator support and attempts to fix known issues with the interface. This version provides a module to be integrated into the core Python distribution, which provides the interface to 3rd party RDBMS drivers. This module can use DB API 1.0 and 2.0 compliant modules as the drivers, although it it expected that these drivers will be updated to support this API more fully.
 
-# Copyright 
+## Copyright 
 
 - This document has been placed in the public domain, except for those sections attributed to other sources.
 
-# Specification 
+## Specification 
 
 - Use of this wrapper requires a DB API v2.0 compliant driver to be installed in sys.path. The wrapper may support DB API v1.0 drivers (to be determined). == Module Interface (sql.py) ==
 
@@ -176,15 +176,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - A common test suite will be part of the implementation, to allow driver authors and driver evaluators to test and excercise the systems. Two possbilities to start with are the test suites in psycopg by Federico Di Gregorio and mxODBC by eGenix.com Software. Example DDL for various systems will need to be provided.
 
-# Rationale 
+## Rationale 
 
 - The module is called sql.py, to avoid any ambiguity with non-realational or non-SQL compliant database interfaces. This also nicely limits the scope of the project. Other suggestions are \'sqlutil\' and \'rdbms\', since \'sql\' may refer to the language itself. Previous versions of the DB API have been intentially kept lean to make it simpler to develop and maintain drivers, as a richer feature set could be implemented by a higher level wrapper and maintained in a single place rather than in every API compliant driver. As this revision provides a single place to maintain code, these features can now be provided without placing a burden to the driver authors. Existing DB API 1.0 and 2.0 drivers can be used to power the backend of this module. This means that there will be a full compliment of drivers available from day 1 of this modules release without placing a burden on driver developers and maintainers. The core of the API is identical to the Python Database API v2.0 (PEP-249). This API is already familiar to Python programers and is a proven solid foundation. Python previously defined a common relational database API that was implemented by all drivers, and application programmers accessed the drivers directly. This caused the following issues:
   - It was difficult to write code that connected to multiple database vendor\'s databases. Each seperate driver used defined its own heirarchy of exceptions that needed to be handled, their own datetime class and their own set of datatype constants. Platform independant code could not be written simply, due to the differing paramater styles used by bind variables. This also caused problems with publishing example code and tutorials. The API remained minimal, as any new features would need to be implemented by all driver maintainers. The DB-SIG felt most feature suggestions would be better implemented by higher level wrappers, such as that defined by this PEP.
 
-# Language Comparison 
+## Language Comparison 
 
 - The design proposed in this PEP is the same as that used by Java, where a relational database API is shipped as part of the core language, but requires the installation of 3rd party drivers to be used. Perl has a similar arrangement of API and driver separation. Perl does not ship with PerlDBI or drivers as part of the core language, but it is well documented and trivial to add using the CPAN tools. PHP has a seperate API for each database vendor, although work is underway (completed?) to define a common abstraction layer similar to Java, Perl and Python. All of the drivers ship as part of the core language.
 
-# References 
+## References 
 
 - \[1\] PEPs: [0248](http://www.python.org/dev/peps/pep-0248 "PEP") and [0249](http://www.python.org/dev/peps/pep-0249 "PEP")

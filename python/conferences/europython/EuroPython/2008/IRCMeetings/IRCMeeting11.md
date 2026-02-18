@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #11 
+## IRC Meeting #11 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode at 18:00 CEST on Thursday 1st May.
 
 Please look at the minutes from the last meeting for more background information: [../IRCMeeting10](IRCMeeting10)
 
-## Present 
+### Present 
 
 Aiste, David, Paul
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Registration/Budget
   - *Laura* to indicate any change in the status of payment systems, WorldPay, and so on. *Laura couldn\'t make it to the last meeting, but based on previous reports, PayPal and \"pay later\" via bank transfer (and cash at the door) were assumed.* **Current indications suggest that PayPal and \"pay later\" will remain as the only options, with PayPal support being finalised.**
@@ -43,6 +43,6 @@ Aiste, David, Paul
 - Feedback/Surveys
   - Progress on the processing of last year\'s surveys
 
-## Actions 
+### Actions 
 
 - See the bold sections above\...

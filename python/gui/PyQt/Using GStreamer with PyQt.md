@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using GStreamer with PyQt 
+## Using GStreamer with PyQt 
 
 This example code was posted to the [PyQt mailing list](http://www.riverbankcomputing.com/mailman/listinfo/pyqt) in [a message](http://www.riverbankcomputing.com/pipermail/pyqt/2009-September/024240.html) by Baz Walter.
 

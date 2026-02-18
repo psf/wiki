@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Description 
+## Description 
 
 This page grew out of a frequently asked question on [CompLangPython](CompLangPython):
 
@@ -16,7 +16,7 @@ While the answer is unambiguously **Yes!**, it\'s a little bit trickier than tha
 
 LOC(Lines Of Code)s are counted by [CLOC](http://cloc.sourceforge.net/). Only Python codes are included. Docstrings are counted as comments. Large projects are arbitrarily defined as more than 100,000 lines.
 
-# New List 
+## New List 
 
 ::: {}
   --------------------------------- --------- ------------------------------------ -----------------------------------------------------------------------------------------------------------------------
@@ -28,13 +28,13 @@ LOC(Lines Of Code)s are counted by [CLOC](http://cloc.sourceforge.net/). Only Py
   --------------------------------- --------- ------------------------------------ -----------------------------------------------------------------------------------------------------------------------
 :::
 
-# Old 
+## Old 
 
 We decided to use [pycount](http://www.python.net/crew/gherman/pycount.html) to size the programs, and arbitrarily declared that any program of more than 10,000 lines was \"large\".
 
 The following list is the result of that effort. Please feel free to add YOUR project as well!
 
-# List 
+## List 
 
 ::: {}
   ----------------------------- ------------------------------------------------ ------------ --------------------------------------------------- --------------

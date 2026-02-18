@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Unified Modeling Language 
+## Unified Modeling Language 
 
 (Give general background on [UML](http://www.uml.org/).)
 
@@ -22,7 +22,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - sparxsystems?
 
-## Disambiguation 
+### Disambiguation 
 
 UML also stands for\...
 

@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Authorization 
+## Authorization 
 
 - Authorization is a Python wrapper for Apple\'s Authorization API. Basically, it allows you to spawn arbitrary processes as root after successfully authenticating as an administrator. This is useful for installers, twiddling kernel settings (via sysctl or the like), etc.
 
-# status
+## status
 
 Authorization is currently at its first public release, 0.1.
 
-# examples
+## examples
 
 :::: 
 ::: 
@@ -49,7 +49,7 @@ Authorization is currently at its first public release, 0.1.
 :::
 ::::
 
-## Leopard 
+### Leopard 
 
 This will not compile directly on Leopard. You will need to change line 14 of Authorization.pxi from \"raise\" to \"raise \_err\".
 
@@ -85,4 +85,4 @@ The following shows a concrete example for using this with Leopard.
     # should give:
     # I'm root!
 
-# homepage
+## homepage

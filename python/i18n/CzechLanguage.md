@@ -28,7 +28,7 @@ Where these pages really need help:
 
 3\) some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
 
-# Czech Python User Group 
+## Czech Python User Group 
 
 [![http://www.py.cz](http://www.py.cz/logo.jpg "http://www.py.cz")](http://www.py.cz) [![http://en.wikipedia.org/wiki/Czech_Republic](http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/100px-Flag_of_the_Czech_Republic.svg.png "http://en.wikipedia.org/wiki/Czech_Republic")](http://en.wikipedia.org/wiki/Czech_Republic)
 
@@ -38,7 +38,7 @@ Czech tutorials: [http://www.py.cz/TutorialyLiteratura](http://www.py.cz/Tutoria
 
 Czech Wikipedia: [http://cs.wikipedia.org/wiki/Python](http://cs.wikipedia.org/wiki/Python)
 
-### Blogs 
+#### Blogs 
 
 - [series of jython blogs](http://www.java.cz/article/jython-13)
 

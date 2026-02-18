@@ -10,7 +10,7 @@ This page records triage of patches made by the community. Please don\'t add any
 
 (hint: you can link to items with `SF:Number`{.backtick}.)
 
-# Clear Accept 
+## Clear Accept 
 
 List of patches that should be accepted.
 
@@ -24,7 +24,7 @@ List of patches that should be accepted.
 
 - [1676135](http://bugs.python.org/issue1676135 "SF") (Jason Orendorff)
 
-# Clear Reject 
+## Clear Reject 
 
 List of patches that should be rejected.
 
@@ -46,16 +46,16 @@ List of patches that should be rejected.
 
 - [1652328](http://bugs.python.org/issue1652328 "SF") (Jason Orendorff)
 
-# Needs PEP 
+## Needs PEP 
 
 List of patches that cannot go in without a PEP being approved first
 
-# Conflict 
+## Conflict 
 
 List of patches with conflicting reviews (some speaking for, some against)
 
 - [1678339](http://bugs.python.org/issue1678339 "SF") JimJJewett recommends rejection, because the \"failing\" behavior is intentional. I put it under conflict because the test is arguably consistent with the docs, so Georg (after Paul Hankin\'s review) added it to outstanding bugs. (I agree that there is a bug, but feel the bug is in the doco.)
 
-# Being Worked 
+## Being Worked 
 
 List of patches which are not ready yet, but may become so \-- the person who put them here should move them to another status if they go more than a month or so without progress. And no, this doesn\'t really keep them out of sight for committers yet, but it may eventually move them the never-touched-again patches to reject.

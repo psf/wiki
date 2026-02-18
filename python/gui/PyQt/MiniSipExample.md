@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# SIP: Generate Bindings for a class derived from Qt 
+## SIP: Generate Bindings for a class derived from Qt 
 
 This example shows how to use [SIP](http://www.riverbankcomputing.co.uk/sip/index.php) for generating bindings to Qt c++ modules. The Example shown in the sip-documentation is not complete and perhaps we can prevent you to waste hours of time to get things run.
 
-## Before You Begin 
+### Before You Begin 
 
 1.  Install [Qt4](http://www.trolltech.com)
 
@@ -18,7 +18,7 @@ This example shows how to use [SIP](http://www.riverbankcomputing.co.uk/sip/inde
 
 3.  Build and install [PyQt](http://www.riverbankcomputing.com/software/pyqt/intro)
 
-## Qt Fragment 
+### Qt Fragment 
 
 We define a silly class derived from QString.\
 
@@ -58,7 +58,7 @@ Now We call qmake for qt4 to generate the makefile, then make to build the examp
 `$ qmake`{.backtick}\
 `$ sudo make`{.backtick}
 
-## Telling SIP what to do 
+### Telling SIP what to do 
 
 We need two files.\
 
@@ -138,7 +138,7 @@ We build the Python-Modul and install it
 `$ make`{.backtick}\
 `$ sudo make install`{.backtick}
 
-## Simple Python Example 
+### Simple Python Example 
 
 Now you can use the class inside the python interpreter:
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python needs speakers! 
+## Python needs speakers! 
 
 Organizers of Python user groups and regional conferences need help finding speakers to pull together great events and grow the Python community. Help them find you!
 
@@ -20,7 +20,7 @@ If you\'re willing and able to speak on Python topics, please add yourself to th
 
 Please put your information all on one line (even if it\'s a long line) - that helps people cut/paste it into spreadsheets and e-mails.
 
-## Speakers 
+### Speakers 
 
 - [CatherineDevlin](../people/CatherineDevlin): Dayton, OH. Available within Ohio and adjacent states. Topics: Python introduction; Python + databases
 
@@ -78,7 +78,7 @@ Please put your information all on one line (even if it\'s a long line) - that h
 
 - Lorena Mesa: Chicago, Illinois, USA; data science, machine learning, ethics in technology, responsible technology, Python in education. Tambien ella habla en espanol. Check out lorenamesa.com for more information! Twitter: \@loooorenanicole.
 
-## See Also 
+### See Also 
 
 - [geekspeakr](http://www.geekspeakr.com/)
 

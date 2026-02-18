@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sprint on Turbogears and Pylons
+## Sprint on Turbogears and Pylons
 
 Are you interested in sprinting on this project? Great!
 
@@ -17,7 +17,7 @@ If you\'re not sure which project to join, you can register in the [generic spri
 See you at PyCon!
 
 ::: 
-### Project info
+#### Project info
 
 Project URL: [www.turbogears.org](http://www.turbogears.org/)
 
@@ -29,7 +29,7 @@ Sprint Wiki Page: [Sprint Organization](http://docs.turbogears.org/SprintOrganiz
 :::
 
 ::: 
-### Sprinters
+#### Sprinters
 
 - Ben Bangert (ben \-- groovie.org)
 - Mark Ramm (mark dot ramm \-- gmail dot com)

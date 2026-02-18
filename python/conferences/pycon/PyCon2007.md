@@ -14,7 +14,7 @@ The main conference web site was [http://us.pycon.org/TX2007/](http://us.pycon.o
 
 The venue was the Dallas-Addison Marriott Quorum ([reserve a room](http://us.pycon.org/Addison/Hotels) / [Hotel\'s Website](http://marriott.com/property/propertypage/DALQC) / [Map to Hotel](http://maps.yahoo.com/maps_result?addr=14901+Dallas+Parkway&csz=Dallas%2C+Texas+75254&country=us))
 
-# Dates and times 
+## Dates and times 
 
 The conference schedule was:
 

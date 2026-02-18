@@ -6,29 +6,29 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Django Meeting NL 
+## Django Meeting NL 
 
 Moved, go to [http://www.meetup.com/dutch-django-assocation/](http://www.meetup.com/dutch-django-assocation/)
 
 This Python wiki doesn\'t really work anymore, so we (and the Dutch python meetings) advertise all meetings on [http://www.meetup.com/dutch-django-assocation/](http://www.meetup.com/dutch-django-assocation/) now.
 
-# Old content 
+## Old content 
 
 Django meeting is a Dutch meeting for Python/Django users, intended for both professionals and hobbyists alike. Our aim is to support interaction between all Dutch Django users and to be a platform for information exchange.
 
 For the regular Dutch python meetings, see [http://wiki.python.org/moin/PUN](http://wiki.python.org/moin/PUN)
 
-# Language 
+## Language 
 
 To improve accessibility for speakers of all foreign languages, meetings will be held in English. It is possible for an occasional presentation to be in Dutch.
 
 Als je een presentatie in het Nederlands wilt geven, ben je net zo welkom! De meeste toehoorders zullen Nederlands verstaan.
 
-# Komende bijeenkomsten 
+## Komende bijeenkomsten 
 
 - Wednesday 4 July 2012, Amsterdam, Python-web meetup (formerly: Django Meeting) @ [ABC tree house](http://www.treehouse.abc.nl/index.php?page=location). See [Agenda](DjangoMeetingNL/DM/ABC120704)
 
-# Vorige bijeenkomsten en verslagen 
+## Vorige bijeenkomsten en verslagen 
 
 - ![(./)](/wiki/europython/img/checkmark.png "(./)") **Done**: Wednesday 18 April 2012, Amsterdam, Django Meeting @ [ABC tree house](http://www.treehouse.abc.nl/index.php?page=location). See [Agenda](DjangoMeetingNL/DM/ABC120418)
 

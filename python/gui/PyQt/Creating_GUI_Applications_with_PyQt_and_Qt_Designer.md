@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Creating GUI Applications with PyQt and Qt Designer 
+## Creating GUI Applications with PyQt and Qt Designer 
 
 This presentation was given as a scheduled talk at PyCon UK 2007. The material presented covered the following subjects:
 
@@ -16,7 +16,7 @@ This presentation was given as a scheduled talk at PyCon UK 2007. The material p
 
 - Creating custom widgets with [PyQt4](../PyQt4) for use in Qt Designer
 
-## Materials 
+### Materials 
 
 The following materials are available:
 
@@ -24,7 +24,7 @@ The following materials are available:
 
 - [Example code](http://www.boddie.org.uk/david/Projects/Python/Qt/Software/PyCon_UK_2007_PyQt_and_Qt_Designer.zip) used in the talk
 
-## Examples 
+### Examples 
 
 Three examples are provided:
 

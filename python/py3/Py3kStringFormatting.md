@@ -6,14 +6,14 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# String formatting methods in Python 3000, based on PEP 3101
+## String formatting methods in Python 3000, based on PEP 3101
 
   --------- ------------------
   Author:   Andrea Bucciotti
   --------- ------------------
 
 ::: 
-### Current formatting methods
+#### Current formatting methods
 
 Python 3.0 currently provides two methods of string interpolation:
 
@@ -26,7 +26,7 @@ On the other hand the string.Template module is felt that serves a distinct need
 :::
 
 ::: 
-### Get started: the new method, format!
+#### Get started: the new method, format!
 
 The built-in string class (and also the Unicode class in 2.6) will gain a new method, \'format\', which takes an arbitrary number of positional and keyword arguments.
 
@@ -60,7 +60,7 @@ The element within the braces is called a \'field\'. Fields consist of a \'field
 :::
 
 ::: 
-### Simple and Compound field names
+#### Simple and Compound field names
 
 A simple field name is a valid base-10 integer, or a valid Python identifier.
 
@@ -96,7 +96,7 @@ Because keys are not quote-delimited, it is not possible to specify arbitrary di
 :::
 
 ::: 
-### Format Specification
+#### Format Specification
 
 If an object does not define its own format specifiers, a standard set of format specifiers is used.
 
@@ -270,7 +270,7 @@ If an object does not define its own format specifiers, a standard set of format
 :::
 
 ::: 
-### Explicit Conversion Flag
+#### Explicit Conversion Flag
 
 The explicit conversion flag is used to transform the format field value before it is formatted. Currently, two explicit conversion flags are recognized:
 
@@ -287,7 +287,7 @@ These flags are placed before the format specifier:
 :::
 
 ::: 
-### Customize the format method
+#### Customize the format method
 
 The new, global built-in function \'format\' simply calls this special method:
 
@@ -302,7 +302,7 @@ Any class can override the `__format__` method to provide custom formatting for 
 :::
 
 ::: 
-### A final Example
+#### A final Example
 
 Now, how do we stitch all this stuff toghether?
 

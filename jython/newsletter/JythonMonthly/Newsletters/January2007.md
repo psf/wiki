@@ -29,9 +29,9 @@ Please send email to:
 
 [jython-monthly@mchsi.com](mailto:jython-monthly@mchsi.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# Articles 
+## Articles 
 
-## Adding JARS to sys.path During Runtime 
+### Adding JARS to sys.path During Runtime 
 
 *Submitted by: Steve Langer*
 
@@ -39,7 +39,7 @@ During Oct-Nov 2006 there was a thread in the jython-users group titled \"adding
 
 [Read Entire Article](http://wiki.python.org/jython/JythonMonthly/Articles/January2007/3)
 
-## Web Application Development Using web.py and Jython 
+### Web Application Development Using web.py and Jython 
 
 *Submitted by: Colin*
 
@@ -47,7 +47,7 @@ Given the recent discusion on the Jython-dev list of getting popular CPython app
 
 [Read entire article](http://wiki.python.org/jython/JythonMonthly/Articles/January2007/1)
 
-## Proof of Concept: Using Jython with the JOGL API 
+### Proof of Concept: Using Jython with the JOGL API 
 
 *Submitted by: Josh Juneau*
 
@@ -55,7 +55,7 @@ My everyday job consists of Java and/or PL/SQL programming and database developm
 
 [Read entire article](http://wiki.python.org/jython/JythonMonthly/Articles/January2007/2)
 
-# Off The Lists 
+## Off The Lists 
 
 *Question from \"Divya\":*
 
@@ -89,11 +89,11 @@ have you tried the reload function yet?
 
 {{{import Thing Thing.doSomething() #change Thing.py src reload(Thing) Thing.doSomething() }}}
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Tips and Tricks 
+## Tips and Tricks 
 
 [Python Cookbook: Reload Classes Dynamically](http://aspn.activestate.com:80/ASPN/Cookbook/Python/Recipe/499295)
 
@@ -101,17 +101,17 @@ If you are interested in developing Jython, please take a look at the [current b
 
 [Python Cookbook: Calculate hamming distance between two strings](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/499304)
 
-# Noteworthy Book Releases 
+## Noteworthy Book Releases 
 
 [Python Phrasebook](http://www.techbookreport.com/tbr0278.html)
 
-# Jython Blogs 
+## Jython Blogs 
 
 [Great Jython blogs from Paul Drummond](http://gushieblog.blogspot.com:80/)
 
 [CherryPy + Jython + modjy + JBoss = true](http://henkenotes.blogspot.com/2006/12/cherrypy-jython-modjy-jboss-true.html)
 
-# Discussions 
+## Discussions 
 
 *Discussion Submitted by Thomas Muller*
 
@@ -139,11 +139,11 @@ The serverless Messenger in java could be easily built in into many applications
 
 Does anyone agree on that potentials? kind regards tom
 
-# Interesting Facts 
+## Interesting Facts 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Useful Links 
+## Useful Links 
 
 ::: {}
   ----------------------------------------------------------------

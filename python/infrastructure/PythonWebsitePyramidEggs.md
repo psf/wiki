@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Egg Install Guide 
+## Egg Install Guide 
 
 I\'ve found that the simplest way is by using Philip Eby\'s easy_install
 
@@ -22,7 +22,7 @@ That gets your setuptools and easy_install going
 
 and you should be done\...
 
-# Further Eggs\'perimentation 
+## Further Eggs\'perimentation 
 
 If you want to try installing everything from eggs, you\'ll have a few problems - I hope these can get sorted as they could make installing and dependencies etc,. a painless process I\'m looking forward to when I can do \'easy_install pyramid\' and all dependencies follow ![:-)](/wiki/europython/img/smile.png ":-)") .. I think docutils should work but I\'ve not built a roman egg for it yet. Twisted 2 and Zope Interfaces definitely don\'t work so you\'ll have to build those from source. Pyramid also doesn\'t work as it requires a script (which eggs will support soon I believe).
 

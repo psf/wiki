@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# String Formatting 
+## String Formatting 
 
 The [section of the manual on String Formatting Operations](http://docs.python.org/lib/typesseq-strings.html) is hidden in the section on [Sequence types.](http://docs.python.org/lib/typesseq.html)
 
 Tutorial on the new string formatting method `format()`{.backtick} in Python 3.0: [Py3kStringFormatting](../py3/Py3kStringFormatting)
 
-## Direct Variable Reference 
+### Direct Variable Reference 
 
 A common trick you can use when writing strings is to refer directly to variables.
 
@@ -33,7 +33,7 @@ A common trick you can use when writing strings is to refer directly to variable
 
 If you want to refer to global variables, you can replace `vars()` with `globals()`.
 
-## Printing Percentages 
+### Printing Percentages 
 
 :::: 
 ::: 
@@ -45,7 +45,7 @@ If you want to refer to global variables, you can replace `vars()` with `globals
 :::
 ::::
 
-## Print strings without newlines and spaces 
+### Print strings without newlines and spaces 
 
 You may find it tricky to print out a feed of numbers (as output from within a loop) on one line, without being separated by a space. An example could be output such as
 
@@ -78,11 +78,11 @@ but a space will get inserted between successive prints. One way to get around t
 
 which will work properly.
 
-## See Also 
+### See Also 
 
 [EscapingHtml](EscapingHtml), [WorkingWithTime](../archive/WorkingWithTime)
 
-# Discussion 
+## Discussion 
 
 You can also print a backspace (`'\b'`{.backtick}) to swallow the extra space. eg:
 
@@ -98,7 +98,7 @@ You can also print a backspace (`'\b'`{.backtick}) to swallow the extra space. e
 
 Unfortunately, this produces a mess if output is being directed to a file; it\'s best to avoid printing the space if you don\'t want it.
 
-## Variable name substitution using format and eval 
+### Variable name substitution using format and eval 
 
 I want to print out all member of `sys`{.backtick}, then what I need is
 

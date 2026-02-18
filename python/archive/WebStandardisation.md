@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Web Standardisation for Python 
+## Web Standardisation for Python 
 
 Traditionally, Python Web technology support entered the standard library through a process of gradual aggregation (see the cgi, httplib and urllib modules). However, various discussion groups, mailing lists and independent endeavours have sought to establish more usable standard APIs and modules over the years.
 
-## Standardisation Attempts and Proposals 
+### Standardisation Attempts and Proposals 
 
 - [WebStack](WebStack) presents a common request, response and session API for numerous servers and environments.
 
@@ -20,13 +20,13 @@ Traditionally, Python Web technology support entered the standard library throug
 
 - [httpy - a sane and robust Python HTTP server and library](http://www.zetadev.com/software/httpy/)
 
-## Resources 
+### Resources 
 
 - [The old but still useful Web Programming topic guide](http://www.python.org/topics/web/) - this should have been the focus for presenting the state of the art; the [WebProgramming](../web/WebProgramming) section now fulfils that role.
 
 - [Web SIG](http://www.python.org/sigs/web-sig/) (the Python Web Special Interest Group) along with a mailing list for discussion of community standards. Some initial ideas for the Web SIG are described on the [WebSIGTasks](../archive/WebSIGTasks) page.
 
-## Commentaries 
+### Commentaries 
 
 Despite rumours in the summer of 2006 that the [BDFL](../archive/BDFL) had endorsed one particular [Web framework](../web/WebFrameworks), the official position on community standardisation after clarifications were made presumably remains as summarised in the following quote:
 

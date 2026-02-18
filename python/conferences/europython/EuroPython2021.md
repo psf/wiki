@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2021 
+## EuroPython 2021 
 
 EuroPython 2021 will take place from July 26 - August 1, online.
 
@@ -22,13 +22,13 @@ Follow our blog for updates and more details:
 
 If you want to add information to this page and find that it is immutable, please sign up to the wiki and see the [FrontPage](../../people/FrontPage) for details on how to get editing permissions.
 
-## Discussion 
+### Discussion 
 
 Please join the [EuroPython](EuroPython) Mailing List to discuss conference topics:
 
 - [EuroPython Mailing List](https://mail.python.org/mailman/listinfo/europython)
 
-## Sprints 
+### Sprints 
 
 Please add sprint proposals to the following page:
 

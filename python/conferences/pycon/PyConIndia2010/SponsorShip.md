@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Possible Sponsors 
+## Possible Sponsors 
 
 This is a list of sponsors whom we can meet. A good starting point is [BangPypers/PythonCompaniesInIndia](../../../community/BangPypers/PythonCompaniesInIndia). This is of course predicated on the venue.
 
@@ -28,9 +28,9 @@ This is a list of sponsors whom we can meet. A good starting point is [BangPyper
 
 Possible cold calls to all the sponsors at The US, APAC and Euro [PyCon](../PyCon) sites?
 
-# Sponsorship Tiers 
+## Sponsorship Tiers 
 
-## Platinum (1L and above) 
+### Platinum (1L and above) 
 
 - Name on Banner
 - Name on site
@@ -39,30 +39,30 @@ Possible cold calls to all the sponsors at The US, APAC and Euro [PyCon](../PyCo
 - Name on Swag bag
 - Prominent stall
 
-## Gold (50k - 1L) 
+### Gold (50k - 1L) 
 
 - Name on banner
 - Name on site
 - Name in brochure
 - Contact information of delegates (unless they\'ve opted out).
 
-## Silver (25k - 50k) 
+### Silver (25k - 50k) 
 
 - Name on banner
 - Name on site
 - Name in brochure
 
-## Category specific 
+### Category specific 
 
-### Wifi 
+#### Wifi 
 
-### A/V 
+#### A/V 
 
-### Media (books etc.) 
+#### Media (books etc.) 
 
 ------------------------------------------------------------------------
 
-## Sponsor Application and Contract 
+### Sponsor Application and Contract 
 
 Please write clearly in blue or black ink. Please print your organization name and information exactly as it should appear on all promotional and marketing materials for the event.
 

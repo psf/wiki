@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007: Call for Sponsors 
+## EuroPython 2007: Call for Sponsors 
 
 This year, [EuroPython](..) will take place from Monday 9th July to Wednesday 11th July in Vilnius, Lithuania. As the premier pan-European Python event, this is a great opportunity to reach dedicated users of Python in business and academia, as well as influential members of the Python community. Last year\'s conference was a great success, and we would like to offer you the chance to participate in this year\'s event as a sponsor or an exhibitor. With your support, your organisation can share in the success of [EuroPython](..) 2007: the sixth annual conference in the well established and highly regarded conference series for the European Python and Zope communities.
 
-## Sponsor Opportunities 
+### Sponsor Opportunities 
 
 Details of sponsor opportunities can be found on the [EuroPython](..) site at the following location:
 

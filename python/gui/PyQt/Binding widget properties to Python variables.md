@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Binding widget properties to Python variables 
+## Binding widget properties to Python variables 
 
 On the Freenode `#pyqt`{.backtick} channel, \'xh\' asked if there was a way to bind widget properties to Python variables.
 

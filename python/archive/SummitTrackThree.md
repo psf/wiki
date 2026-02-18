@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Motivating people to start and keep learning Python 
+## Motivating people to start and keep learning Python 
 
-## Session Prompt 
+### Session Prompt 
 
 Earlier in the summit, it was mentioned that they could always divide their students up in to 20% who will succeed if you don\'t get in their way, 20% who will fail no matter what, and 60% who will either fail or succeed depending on your efforts. The top 20% are folks who are so passionate about their area of interest that they can jump over any hurdles in their way. These are your hackers and makers, who will probably succeed no matter what.
 
@@ -20,7 +20,7 @@ How can these folks be brought to the point that they can transform their initia
 
 Is this just a question of confidence building and mentorship? What strategies can be used to keep this set of folks engaged? Does anybody have success stories to share?
 
-## Transcribed suggestions from awesome table discussions 
+### Transcribed suggestions from awesome table discussions 
 
 Keep it fun. People who are having fun are always more engaged.
 

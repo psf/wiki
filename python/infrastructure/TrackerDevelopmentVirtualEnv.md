@@ -10,9 +10,9 @@ This page is derived from [TrackerDevelopment](TrackerDevelopment).
 
 Not only does this cover installing under a virtualenv, but it also covers installing Rietveld. That part is not entirely finished, however.
 
-# Before You Get Started 
+## Before You Get Started 
 
-## Prerequisites 
+### Prerequisites 
 
 1.  Python 2.7 (or 3?)
 2.  pip (under same Python)
@@ -23,13 +23,13 @@ Not only does this cover installing under a virtualenv, but it also covers insta
 7.  patch
 8.  virtualenvwrapper (pip install virtualenvwrapper)
 
-## Will be Installed 
+### Will be Installed 
 
 1.  psycopg2
 2.  beautifulsoup
 3.  m2crypto
 
-## Environment Variables 
+### Environment Variables 
 
 Set them however you like!
 
@@ -39,15 +39,15 @@ Set them however you like!
     export TRACKER_HOST=localhost
     export TRACKER_PORT=9999
 
-## virtualenvwrapper Initial Setup 
+### virtualenvwrapper Initial Setup 
 
     echo "export WORKON_HOME=$WORKON_HOME" >> ~/.bashrc
     mkdir -p $WORKON_HOME
     source `which virtualenvwrapper.sh`
 
-# The Main Course 
+## The Main Course 
 
-## Initial Preparation 
+### Initial Preparation 
 
     mkvirtualenv tracker  # leaves you in the virtual environment
     pip install psycopg2
@@ -59,7 +59,7 @@ Set them however you like!
     ./fedora_setup.sh install
     echo 'export PGDATA=$VIRTUAL_ENV/pg_data' >> $VIRTUAL_ENV/bin/postactivate
 
-## Set Up Postgresql 
+### Set Up Postgresql 
 
     workon tracker
     mkdir $PGDATA
@@ -69,7 +69,7 @@ Set them however you like!
     psql -c 'create user roundup' postgresql
     psql -c 'alter user roundup with createdb' postgresql
 
-## Install Roundup 
+### Install Roundup 
 
     workon tracker
     cd $PROJECT_DIR
@@ -77,7 +77,7 @@ Set them however you like!
     cd tracker/roundup-src
     python setup.py install
 
-## Configure the Python-Dev Instance 
+### Configure the Python-Dev Instance 
 
     workon tracker
     cd $PROJECT_DIR/tracker/instances/python-dev
@@ -89,7 +89,7 @@ Set them however you like!
     sed -i 's/\(def init(db):.*\)$/\1\n    return/' detectors/rietveldreactor.py
     $VIRTUAL_ENV/bin/roundup-admin -i `pwd` init
 
-## Fire It Up 
+### Fire It Up 
 
     workon tracker
     cd $PROJECT_DIR/tracker/instances/python-dev
@@ -100,7 +100,7 @@ Set them however you like!
     echo '"alias admin-roundup=$VIRTUAL_ENV/bin/roundup-admin -i $RU_INSTANCE"' >> $VIRTUAL_ENV/bin/postactivate
     start-roundup # and point your browser to localhost:9999
 
-## Install Rietveld 
+### Install Rietveld 
 
 This part isn\'t working all the way, and is likely incorrect/missing pieces.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# MacPython addons for 10.3 
+## MacPython addons for 10.3 
 
 [http://homepages.cwi.nl/\~jack/macpython/download.html](http://homepages.cwi.nl/~jack/macpython/download.html)
 

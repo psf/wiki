@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This used to be my homepage content, but my homepage isn\'t working ![:(](/wiki/modernized/img/sad.png ":(")
 
-# Wiki Tips 
+## Wiki Tips 
 
-## Misc 
+### Misc 
 
 Make a page public read, [MoinPagesEditorGroup](MoinPagesEditorGroup) write, put this comment at the top of your page:
 
@@ -89,7 +89,7 @@ If your doing lots of anchors on the same page, you may want to consider using t
 
     [[BR]]
 
-## Deleting wiki pages 
+### Deleting wiki pages 
 
 These are the directions I use for deleting pages on an intranet moinmoin wiki I administer. These directions assume you have a login on the host machine, allowing you to temporarily turn on a flag in a config file that let\'s you delete a page and then turn it off (making it safe since it\'s only temporarily enabled). I\'ve tried to adapt them for this (jython) wiki.
 

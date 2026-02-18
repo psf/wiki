@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Installation and Setup 
+## Installation and Setup 
 
 [JythonFaq]()
 
-## Command-line support in Jython? 
+### Command-line support in Jython? 
 
 Jython 2.5 and 2.7 fully support command-line history using JLine, although there are circumstances in which JLine cannot be loaded. (This is currently the case on cygwin for Jython 2.7.0.)
 
@@ -18,7 +18,7 @@ Jython 2.7 also supports tab completion.
 
 ------------------------------------------------------------------------
 
-## Why do I get the error, \"can\'t create package cache dir, \'/cachedir/packages\'\" 
+### Why do I get the error, \"can\'t create package cache dir, \'/cachedir/packages\'\" 
 
 An essential optimization in Jython is the caching of Java package information. The caching requires \'/cachedir/packages/\' in the python.home directory. It is often the case on \*nix that users lack sufficient priveledges to create or write to this directory.
 
@@ -28,7 +28,7 @@ If you are using Windows, the solution is even easier. The value you have set fo
 
 ------------------------------------------------------------------------
 
-## Where\'s the registry file 
+### Where\'s the registry file 
 
 Jython\'s installation includes a file called \"registry\" that you will find in the root directory of the Jython installation (e.g. /usr/local/jython or c:\\jython).
 
@@ -48,7 +48,7 @@ If you run into complaints about create \".jython\", don\'t worry- Jython can:
 
 ------------------------------------------------------------------------
 
-## GUI-less installer? 
+### GUI-less installer? 
 
 Run
 
@@ -58,7 +58,7 @@ for full help, including text console and command line installation.
 
 ------------------------------------------------------------------------
 
-## Jython cannot find your Java class, even though it exists in the CLASSPATH. 
+### Jython cannot find your Java class, even though it exists in the CLASSPATH. 
 
 Jython cannot find your Java class, even though it exists in the class path. This shows up as \"[ImportError](./ImportError.html): cannot import name xxx\" or \"[AttributeError](./AttributeError.html): java package xxx\' has no attribute \'yyy\'\"
 

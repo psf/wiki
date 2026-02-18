@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Jython User Guide
+## Jython User Guide
 
 ::: 
 Table of Contents
@@ -65,12 +65,12 @@ Table of Contents
 :::
 
 ::::: 
-### [Intro](#id3)
+#### [Intro](#id3)
 
 For a look at the Jython internal API see the generated [JavaDoc documentation](http://www.jython.org/docs/javadoc/index.html)
 
 ::: 
-#### [General Python Documentation](#id4)
+##### [General Python Documentation](#id4)
 
 Since Jython is an implementation of Python for the JVM, most of the standard Python documentation applies. Look in the following places for general information:
 
@@ -80,7 +80,7 @@ Since Jython is an implementation of Python for the JVM, most of the standard Py
 :::
 
 ::: 
-#### [Other Useful Links](#id5)
+##### [Other Useful Links](#id5)
 
 - Jython and CPython are two different implementations of the same language. There are naturally some differences between the two implementations, sometimes reflecting undefined aspects of the Python language, sometimes reflecting quirks of the independent implementations.
 - The [Jython FAQ](http://www.jython.org/Project/userfaq.html) may already contain the answer to your question.
@@ -90,7 +90,7 @@ Since Jython is an implementation of Python for the JVM, most of the standard Py
 :::::
 
 ::::: 
-### [Invoking the Jython Interpreter](#id6)
+#### [Invoking the Jython Interpreter](#id6)
 
 Jython is invoked using the \"jython\" script, a short script that invokes your local JVM, sets the Java property install.path to an appropriate value, and then runs the Java classfile org.python.util.jython.
 
@@ -120,7 +120,7 @@ args
   ------------------------------- --------------------------------------
 
 :::: 
-#### [Making Jython Scripts Executable](#id7)
+##### [Making Jython Scripts Executable](#id7)
 
 To make a jython \".py\" file executable on a Unix system:
 
@@ -139,7 +139,7 @@ Note
 :::::
 
 ::::: 
-### [The Jython Registry](#id8)
+#### [The Jython Registry](#id8)
 
 Because there is no good platform-independent equivalent of the Windows Registry or Unix environment variables, Java has its own environment variable namespace. Jython aquires its namespace from the following sources (later sources override defaults found in earlier places):
 
@@ -149,7 +149,7 @@ Because there is no good platform-independent equivalent of the Windows Registry
 - Jython properties specified on the command line as options to the jython class. See the -D option to the interpreter.
 
 ::: 
-#### [Registry Properties](#id9)
+##### [Registry Properties](#id9)
 
 The following properties are recognized by Jython. There may be others that aren\'t documented here; consult the comments in registry file for details.
 
@@ -182,7 +182,7 @@ python.console.readlinelib
 :::
 
 ::: 
-#### [Finding the Registry File](#id10)
+##### [Finding the Registry File](#id10)
 
 To find the Jython registry file and set the Python values for sys.prefix, you must first locate a root directory.
 
@@ -195,7 +195,7 @@ Once the root directory is found, sys.prefix and sys.exec_prefix are set to this
 :::::
 
 ::::::::::: 
-### [Interaction with Java Packages](#id11)
+#### [Interaction with Java Packages](#id11)
 
 Most Jython applications will want to use the vast array of Java packages available. The following documentation helps you work with Java packages.
 
@@ -207,7 +207,7 @@ Most Jython applications will want to use the vast array of Java packages availa
 - Reloading java classes.
 
 ::: 
-#### [Accessing Java from Jython](#id12)
+##### [Accessing Java from Jython](#id12)
 
 One of the goals of Jython is to make it as simple as possible to use existing Java libraries from Python. Example
 
@@ -232,13 +232,13 @@ The following example of an interactive session with Jython shows how a user cou
 :::
 
 ::: 
-#### [More Details](#id13)
+##### [More Details](#id13)
 
 Hopefully, this example should make it clear that there are very few differences between using Java packages and using Python packages when working under Jython. There are a few things to keep in mind.
 :::
 
 ::: 
-#### [Importing](#id14)
+##### [Importing](#id14)
 
     Jython 2.0 on java1.2.1
     Type "copyright", "credits" or "license" for more information.
@@ -251,13 +251,13 @@ Hopefully, this example should make it clear that there are very few differences
 :::
 
 ::: 
-#### [Creating Class Instances](#id15)
+##### [Creating Class Instances](#id15)
 
 You can create an instance of a Java class exactly the way you would create an instance of a Python class. You must \"call\" the class with a set of arguments that is appropriate for one of the Java class\'s constructors. See the section below for more details on what constitutes appropriate arguments.
 :::
 
 ::: 
-#### [Calling Java Methods and Functions](#id16)
+##### [Calling Java Methods and Functions](#id16)
 
 Java classes have both static and instance methods this makes them behave much like a cross between a Python module and class. As a user, you should rarely need to be concerned with this difference.
 
@@ -313,7 +313,7 @@ Returned values from a Java method are also possibly coerced back to an object t
 :::
 
 :::: 
-#### [Overloaded Java Method Signatures](#id17)
+##### [Overloaded Java Method Signatures](#id17)
 
 Java methods are allowed to be overloaded for different signatures (types and number of arguments). When different versions of the method differ in the number of arguments that they expect, the appropriate method can be easily determined from the number of arguments passed to the method.
 
@@ -336,7 +336,7 @@ Look into IronPython\'s solution to this for ideas.
 ::::
 
 ::: 
-#### [Naming Conflicts with Python Keywords](#id18)
+##### [Naming Conflicts with Python Keywords](#id18)
 
 Because Java has a different set of keywords than Python, there are many Java classes that have method and function names that conflict with Python\'s keyword set. Where the intent can be unambiguously determined, no identifier mangling is necessary, such as when keywords are used as attributes on objects. Thus you can naturally write:
 
@@ -351,10 +351,10 @@ In the rare case where the conflict can\'t be resolved due to Python\'s grammar,
 :::::::::::
 
 ::::::: 
-### [JavaBean Properties](#id19)
+#### [JavaBean Properties](#id19)
 
 ::: 
-#### [Properties](#id20)
+##### [Properties](#id20)
 
 Jython uses JavaBean properties to make it easier to interact with most Java classes. These properties can be used as normal object attributes, and can also be specified to the class constructor as keyword arguments (this idea is stolen from TkInter where it seems to work extremely well).
 
@@ -376,7 +376,7 @@ b = awt.Button(enabled=0)
 :::
 
 ::: 
-#### [Tuples](#id21)
+##### [Tuples](#id21)
 
 If the value of a property is specified as a tuple, then the property will be created by applying the constructor for the type of the property to the tuple. This is particularly handy for specifying sizes:
 
@@ -390,7 +390,7 @@ will set the background color of the frame to yellow.
 :::
 
 ::: 
-#### [Event Properties](#id22)
+##### [Event Properties](#id22)
 
 In standard Java, the event handlers for a widget are specified by passing in an instance of a class that implements the appropriate interface. This is the only reasonable approach to take in a language that doesn\'t have first-class functions. In Jython, for every event listener supported by a class, there will be a property added to the class for each method supplied by the event listener class. These properties can be set to give a function to be called when the appropriate event occurs.
 
@@ -412,7 +412,7 @@ This can be written in a more Pythonesque (and compact) style by using event pro
 :::
 
 ::: 
-#### [Methods, Properties and Event Properties](#id23)
+##### [Methods, Properties and Event Properties](#id23)
 
 Jython have only one namespace for these three class attributes. Java can be seen as having a unique namespace for each of the three types. As a consequense, there can be conflicts between methods, properties and event properties. These conflicts are resolved so that:
 
@@ -423,7 +423,7 @@ This means that a method will override a field with the same name. Some carefull
 :::::::
 
 ::: 
-### [Java Arrays](#id24)
+#### [Java Arrays](#id24)
 
 Java Arrays in Jython - JArray Many Java methods require Java array objects as arguments. The way that these arguments are used means that they must correspond to fixed-length, mutable sequences, sometimes of primitive data types. The PyArray class is added to support these Java arrays and instances of this class will be automatically returned from any Java method call that produces an array. In addition, the \"jarray\" module is provided to allow users of Jython to create these arrays themselves, primarily for the purpose of passing them to a Java method.
 
@@ -476,10 +476,10 @@ You can use array to create multidimensional arrays from nested lists. The secon
 :::
 
 ::::::::: 
-### [Subclassing Java Classes in Jython](#id25)
+#### [Subclassing Java Classes in Jython](#id25)
 
 ::: 
-#### [A Short Example](#id26)
+##### [A Short Example](#id26)
 
 The example below should both demonstrate how this subclassing is performed and why it is useful. At first glance, the code looks exactly like subclassing any other Python class. The key difference in this example is that awt.event.ActionListener is a Java class, not a Python one. In the 4th line from the end, \"b.addListener(SpamListener())\", a Java method is being called that requires an instance of the Java class ActionListener. By providing a Python subclass of this Java class, everybody is happy.
 
@@ -501,7 +501,7 @@ Note: This example can be accomplished much more elegantly by using JavaBeans pr
 :::
 
 ::: 
-#### [Calling Methods in Your Superclass](#id27)
+##### [Calling Methods in Your Superclass](#id27)
 
 In Python, if I want to call the foo method in my superclass, I use the form:
 
@@ -511,7 +511,7 @@ This works with the majority of methods, but protected methods cannot be called 
 :::
 
 ::: 
-#### [Example](#id28)
+##### [Example](#id28)
 
 The following example shows how the java.io.InputStream class can be effectively subclassed. What makes this class difficult is that the read method is overloaded for three different method signatures:
 
@@ -539,7 +539,7 @@ The first one of these methods must be overridden in a subclass. The other two v
 :::
 
 ::: 
-#### [Example Continued](#id29)
+##### [Example Continued](#id29)
 
 To continue the example above, this new instance of java.io.InputStream can be passed to any Java method that expects an InputStream as shown below:
 
@@ -553,7 +553,7 @@ To continue the example above, this new instance of java.io.InputStream can be p
 :::
 
 ::: 
-#### [Invoking Your Superclass\'s Constructor](#id30)
+##### [Invoking Your Superclass\'s Constructor](#id30)
 
 You can explictly invoke your superclass\'s constructor using the standard Python syntax of explictly calling the \"\_\_init\_\_\" method on the superclass and passing in \"self\" as the first argument. If you wish to call your superclass\'s constructor, you must do so within your own \"\_\_init\_\_\" method. When your \"\_\_init\_\_\" method finishes, if your Java superclasses have not yet been explicitly initialized, their empty constructors will be called at this point.
 
@@ -561,7 +561,7 @@ It\'s important to realize that your superclass is not initialized until you eit
 :::
 
 ::: 
-#### [Example](#id31)
+##### [Example](#id31)
 
     from java.util import Random
 
@@ -586,7 +586,7 @@ This example shows how the superclass\'s constructor can be effectively called i
 :::::::::
 
 ::: 
-### [Embedding Jython](#id32)
+#### [Embedding Jython](#id32)
 
 There are two options for embedding Jython in a Java application. You can make a real Java class out of a Python class, and then call it from your Java code, as previously described, or you can use the PythonInterpreter object
 
@@ -631,7 +631,7 @@ The java code required to execute the python program:
 :::
 
 ::::::::::: 
-### [Java Reload (experimental) simple Support - JReload](#id33)
+#### [Java Reload (experimental) simple Support - JReload](#id33)
 
 Introduction and usage, plus some notes on java classes unloading and internalTablesImpl option
 
@@ -667,7 +667,7 @@ The current version of \"jreload\" (jreload.\_\_version\_\_==\'0.3\') does not s
 :::
 
 ::::: 
-#### [Example](#id34)
+##### [Example](#id34)
 
 The following example should help make things clearer: (its files should be present in the jython Demo dir) \# Demo/jreload/example.jar contains example.Version (source) and example.PrintVer (source) \# Demo/jreload/\_xample contains a slightly modified version of example.Version (source)
 
@@ -722,7 +722,7 @@ Like for python classes and python reload, old versions are kept around, if ther
 :::::
 
 ::: 
-#### [Java Classes Unloading](#id35)
+##### [Java Classes Unloading](#id35)
 
 One would expect that no longer referenced java classes would be unloaded, but the situation is not that simple.
 
@@ -746,7 +746,7 @@ internalTablesImpl = soft \--Sets implementation using soft-refs. Table entries 
 :::
 
 :::: 
-#### [Java 1.1](#id36)
+##### [Java 1.1](#id36)
 
 To be honest the unloading support that jython can offer under java 1.1 (given the absence of weak/soft-refs) is error-prone and anything serious would require \"too much\" caution, but this should not be a real issue. Support is offered only for \"jreload\" needs, in these forms:
 
@@ -764,7 +764,7 @@ these idioms work also with the standard internal tables implementation under ja
 ::::
 
 ::: 
-#### [JReload Example Source Files](#id37)
+##### [JReload Example Source Files](#id37)
 
 Jar example.Version
 
@@ -817,7 +817,7 @@ New example.Version
 :::::::::::
 
 ::::::::::::::::::: 
-### [Database connectivity in Jython](#id38)
+#### [Database connectivity in Jython](#id38)
 
 The zxJDBC package provides a nearly 100% Python DB API 2.0 compliant interface for database connectivity in Jython. It is implemented entirely in Java and makes use of the JDBC API. This means any database capable of being accessed through JDBC, either directly or using the JDBC-ODBC bridge, can be manipulated using zxJDBC. Getting a Connection
 
@@ -836,7 +836,7 @@ The most common way to establish a connection is through a Driver. Simply supply
     >>>
 
 ::: 
-#### [Using a DataSource (or ConnectionPooledDataSource)](#id39)
+##### [Using a DataSource (or ConnectionPooledDataSource)](#id39)
 
 The only required argument is the fully-qualified classname of the DataSource, all keywords will use JavaBeans reflection to set properties on the DataSource.
 
@@ -855,7 +855,7 @@ The only required argument is the fully-qualified classname of the DataSource, a
 :::
 
 ::: 
-#### [Using a JNDI lookup](#id40)
+##### [Using a JNDI lookup](#id40)
 
 It is possible for zxJDBC to use a Connection found through a JNDI lookup. This is particularly useful in an application server (such as when using PyServlet). The bound object can be either a String, Connection, DataSource or ConnectionPooledDataSource. The lookup will figure out the instance type and access the Connection accordingly,
 
@@ -873,7 +873,7 @@ This example uses the simple Sun FileSystem JNDI reference implementation. Pleas
 :::
 
 :::::: 
-#### [Getting a Cursor](#id41)
+##### [Getting a Cursor](#id41)
 
 In order execute any operation, a cursor is required from the connection. There are two different kinds of cursors: static and dynamic.
 
@@ -910,7 +910,7 @@ The name of the stored procedure can either be a string or tuple. This is NOT po
 :::
 
 ::: 
-##### [SQL Server](#id42)
+###### [SQL Server](#id42)
 
 ``` doctest-block
 
@@ -939,7 +939,7 @@ The name of the stored procedure can either be a string or tuple. This is NOT po
 :::
 
 ::: 
-##### [Oracle](#id43)
+###### [Oracle](#id43)
 
 ``` doctest-block
 
@@ -983,12 +983,12 @@ Standard extensions to the Python DB API
 ::::::
 
 :::::::: 
-#### [Datatype mapping callbacks through DataHandler](#id44)
+##### [Datatype mapping callbacks through DataHandler](#id44)
 
 The DataHandler interface has three methods for handling type mappings. They are called at two different times, one when fetching and the other when binding objects for use in a prepared statement. I have chosen this architecture for type binding because I noticed a number of discrepancies in how different JDBC drivers handled database types, in particular the additional types available in later JDBC versions.
 
 ::: 
-##### [life cycle](#id45)
+###### [life cycle](#id45)
 
 public void preExecute(Statement stmt) throws SQLException;
 :   A callback prior to each execution of the statement. If the statement is a PreparedStatement (created when parameters are sent to the execute method), all the parameters will have been set.
@@ -998,7 +998,7 @@ public void postExecute(Statement stmt) throws SQLException;
 :::
 
 ::: 
-##### [developer support](#id46)
+###### [developer support](#id46)
 
 public String getMetaDataName(String name);
 :   A callback for determining the proper case of a name used in a DatabaseMetaData method, such as getTables(). This is particularly useful for Oracle which expects all names to be upper case.
@@ -1008,7 +1008,7 @@ public PyObject getRowId(Statement stmt) throws SQLException;
 :::
 
 ::: 
-##### [binding prepared statements](#id47)
+###### [binding prepared statements](#id47)
 
 public Object getJDBCObject(PyObject object, int type);
 :   This method is called when a PreparedStatement is created through use of the execute method. When the parameters are being bound to the statement, the DataHandler gets a callback to map the type. This is only called if type bindings are present.
@@ -1018,14 +1018,14 @@ public Object getJDBCObject(PyObject object);
 :::
 
 ::: 
-##### [building results](#id48)
+###### [building results](#id48)
 
 public PyObject getPyObject(ResultSet set, int col, int type);
 :   This method is called upon fetching data from the database. Given the JDBC type, return the appropriate PyObject subclass from the Java object at column col in the ResultSet set.
 :::
 
 ::: 
-##### [callable statement support](#id49)
+###### [callable statement support](#id49)
 
     public PyObject getPyObject(CallableStatement stmt, int col, int type)
     throws SQLException;
@@ -1089,13 +1089,13 @@ You can also implement the DataHandler from within Jython as in this simple exam
 ::::::::
 
 ::: 
-#### [dbexts](#id50)
+##### [dbexts](#id50)
 
 dbexts is a wrapper around DB API 2.0 compliant database modules. It currently supports zxJDBC and mxODBC but could easily be modified to support others. It allows developers to write scripts without knowledge of the implementation language of Python (either C or Java). It also greatly eases the burden of database coding as much of the functionality of the Python API is exposed through easier to use methods.
 :::
 
 ::: 
-#### [Configuration file](#id51)
+##### [Configuration file](#id51)
 
 dbexts needs a configuration file in order to create a connection. The configuration file has the following format:
 
@@ -1107,7 +1107,7 @@ dbexts needs a configuration file in order to create a connection. The configura
 :::
 
 ::: 
-#### [API](#id52)
+##### [API](#id52)
 
 dbexts will default to looking for a file named \'dbexts.ini\' in the same directory as dbexts.py but can optionally be passed a filename to the cfg attribute.
 
@@ -1185,7 +1185,7 @@ display(self)
 :::
 
 ::: 
-#### [Example session](#id53)
+##### [Example session](#id53)
 
     Jython 2.1b1 on java1.4.0-beta3 (JIT: null)
     Type "copyright", "credits" or "license" for more information.

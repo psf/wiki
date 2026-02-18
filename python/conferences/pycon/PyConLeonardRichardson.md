@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Synopsis 
+## Synopsis 
 
 Oftentimes, a very small or very new web application will keep all of its configuration settings inside the code itself (hopefully as variable settings in some obvious place). To change the configuration, a user must become a developer of the application. For example:
 
@@ -32,7 +32,7 @@ The easiest and best way to take this next step is to use a configuration framew
 
 The purpose of my talk is to get more of the world\'s configuration data out of configuration files and into configuration frameworks with Web interfaces. Configuration frameworks are easier to use, can enforce configuration semantics, and don\'t require shell access to the hosting machine. The framework I describe is also useful for doing a user preferences engine.
 
-# Manifest 
+## Manifest 
 
 My presentation comes with all sorts of goodies:
 
@@ -53,13 +53,13 @@ My presentation comes with all sorts of goodies:
 
 - An implementation of a simple portal program, which uses I Want Options both to provide an interface to user preferences and an interface to site options. You can [download this example](http://www.crummy.com/devel/PyCon2003/examples.tar.gz) in the same tarball as the other examples.
 
-# About Me 
+## About Me 
 
 Hello! I\'m Leonard. This was my first conference talk. If you\'re interested in me personally, you can visit [my homepage](http://www.crummy.com/).
 
 The code in this talk is almost all code I wrote for [NewsBruiser](http://newsbruiser.tigris.org/), a weblogging application which you might be interested in independently of the subject of this talk.
 
-# Work Log 
+## Work Log 
 
 04/02: The slides are up. I think I\'m done with this page.
 

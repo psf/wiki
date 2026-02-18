@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Summer of Code programs help students get stipends to work on open source projects during summer time.
 
-# Current programs 
+## Current programs 
 
 **We no longer use this wiki for GSoC coordination. Please use the new website at [http://python-gsoc.org/](http://python-gsoc.org/)**
 
-# Archive of previous years 
+## Archive of previous years 
 
 - [SummerOfCode/2005](SummerOfCode/2005)
 

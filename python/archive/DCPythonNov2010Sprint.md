@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# DCPython Meetup Sprint Plan (Nov 2010)
+## DCPython Meetup Sprint Plan (Nov 2010)
 
 This is the project planning page for the [Python Beginner\'s Open Source Sprint](http://meetup.zpugdc.org/calendar/15036971/), organized by the [DCPython Meetup](http://meetup.zpugdc.org/) (primarily Alex Clark).
 
@@ -15,12 +15,12 @@ There are a lot of people planning to attend, so a little advance planning is wo
 This is organized with a section for each \"larger\" project. If you\'re interested in a project listed here, add your name and any emphasis you\'d like to bring to the sprint. If you want to work on a project not listed already, add it!
 
 ::::: 
-### Beginners
+#### Beginners
 
 Everyone attending the sprint that has never sprinted before, add your name under \"Developers\". If you plan to be available to help these folks, add your name and add (helper) afterward.
 
 ::: 
-#### Developers
+##### Developers
 
 - [Alex Clark](../people/AlexClark) (helper)
 - [Fred Drake](../people/FredDrake) (helper)
@@ -39,7 +39,7 @@ Everyone attending the sprint that has never sprinted before, add your name unde
 :::
 
 ::: 
-#### Tasks
+##### Tasks
 
 - Pick a project
 - Get your laptop setup for development
@@ -48,19 +48,19 @@ Everyone attending the sprint that has never sprinted before, add your name unde
 :::::
 
 ::::: 
-### Python core
+#### Python core
 
 The interpreter and standard library.
 
 ::: 
-#### Developers
+##### Developers
 
 - [Eric Smith](./EricSmith.html)
 - [Fred Drake](../people/FredDrake)
 :::
 
 ::: 
-#### Tasks
+##### Tasks
 
 - [PEP-382](http://www.python.org/dev/peps/pep-0382/), namespace packages
 - Add [alternate float format specifiers](http://bugs.python.org/issue7094) (and Decimal, if time)
@@ -71,14 +71,14 @@ The interpreter and standard library.
 :::::
 
 ::::: 
-### distutils2 (d2)
+#### distutils2 (d2)
 
 The next generation of Python packaging. You\'ll need [Mercurial (hg)](http://mercurial.selenic.com/) for revision control, and several versions of Python. See [http://bitbucket.org/fdrake/d2dev/src/tip/README.txt](http://bitbucket.org/fdrake/d2dev/src/tip/README.txt) for detailed preparation instructions.
 
 For this, it\'s important to use \"clean\" Pythons; you don\'t want to have any extras installed in your site-python directory.
 
 ::: 
-#### Developers
+##### Developers
 
 - [Fred Drake](../people/FredDrake)
 - [Alex Clark](../people/AlexClark)
@@ -86,7 +86,7 @@ For this, it\'s important to use \"clean\" Pythons; you don\'t want to have any 
 :::
 
 ::: 
-#### Tasks
+##### Tasks
 
 - Remove fancygetopt; move to a clean application of optparse.
 - the command line tool is now in run.py, with new options, and pass it to dist+fancygetopt to call the old system so what could be done is to list:
@@ -99,16 +99,16 @@ For this, it\'s important to use \"clean\" Pythons; you don\'t want to have any 
 :::::
 
 ::: 
-### Zope Toolkit (ZTK)
+#### Zope Toolkit (ZTK)
 :::
 
 ::::: 
-### Django
+#### Django
 
 Look at fixing some long-standing and reasonably trivial documentation issues. Shared exploration of the code base. Help 1.3 get out the door.
 
 ::: 
-#### Developers
+##### Developers
 
 - [Steve Holden](../people/SteveHolden) but not on my own! ;-)
 - [Steve Waterbury](../people/StephenWaterbury) but this is not a Steves-only project! ;-)
@@ -118,7 +118,7 @@ Look at fixing some long-standing and reasonably trivial documentation issues. S
 :::
 
 ::: 
-#### Tasks
+##### Tasks
 
 - [http://code.djangoproject.com/ticket/4027](http://code.djangoproject.com/ticket/4027)
 - [http://code.djangoproject.com/ticket/3529](http://code.djangoproject.com/ticket/3529)
@@ -129,18 +129,18 @@ Possibly consider whether context objects might benefit from the use of structur
 :::::
 
 ::::: 
-### Plone
+#### Plone
 
 Python-based, open-source CMS
 
 ::: 
-#### Developers
+##### Developers
 
 - [Alex Clark](../people/AlexClark)
 :::
 
 ::: 
-#### Tasks
+##### Tasks
 
 - PloneSoftwareCenter add-on ([http://plone.org/products/plonesoftwarecenter](http://plone.org/products/plonesoftwarecenter)) development
   - Fix bugs: [http://dev.plone.org/plone.org/search?q=psc&noquickjump=1&ticket=on](http://dev.plone.org/plone.org/search?q=psc&noquickjump=1&ticket=on)
@@ -149,36 +149,36 @@ Python-based, open-source CMS
 :::::
 
 ::::: 
-### Parse2Plone
+#### Parse2Plone
 
 Utility app for importing static website content into Plone
 
 ::: 
-#### Developers
+##### Developers
 
 - [Alex Clark](../people/AlexClark)
 :::
 
 ::: 
-#### Tasks
+##### Tasks
 
 - Improve test coverage from 50% to 100% for parse2plone (you\'ll need a github account for this, so you can fork: [https://github.com/collective/parse2plone](https://github.com/collective/parse2plone) and send me pull requests.)
 :::
 :::::
 
 ::::: 
-### zc.buildout
+#### zc.buildout
 
 A tool for creating repeatable environments
 
 ::: 
-#### Developers
+##### Developers
 
 - [Alex Clark](../people/AlexClark)
 :::
 
 ::: 
-#### Tasks
+##### Tasks
 
 - Fix bugs: [https://bugs.launchpad.net/zc.buildout](https://bugs.launchpad.net/zc.buildout)
 :::
@@ -187,12 +187,12 @@ A tool for creating repeatable environments
 ::::::::: 
 []
 
-### DCPython Meetup Sprint Wrap Up
+#### DCPython Meetup Sprint Wrap Up
 
 Here is a wrap-up of what was accomplished at the sprint.
 
 ::: 
-#### Distutils2 (d2)
+##### Distutils2 (d2)
 
 - People
   - **Fred Drake**
@@ -210,7 +210,7 @@ Here is a wrap-up of what was accomplished at the sprint.
 :::
 
 ::: 
-#### Buildout
+##### Buildout
 
 - People
   - **Jim Fulton**
@@ -223,7 +223,7 @@ Here is a wrap-up of what was accomplished at the sprint.
 :::
 
 ::: 
-#### Beginners
+##### Beginners
 
 - People
 
@@ -243,7 +243,7 @@ Here is a wrap-up of what was accomplished at the sprint.
 :::
 
 ::: 
-#### Python Core
+##### Python Core
 
 - People
 
@@ -267,7 +267,7 @@ Here is a wrap-up of what was accomplished at the sprint.
 :::
 
 ::: 
-#### Django
+##### Django
 
 - People
   - **Steve Holden**
@@ -277,7 +277,7 @@ Here is a wrap-up of what was accomplished at the sprint.
 :::
 
 ::: 
-#### GeoDjango
+##### GeoDjango
 
 - People:
   - Eric Palakovich Carr

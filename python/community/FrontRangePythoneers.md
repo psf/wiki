@@ -12,21 +12,21 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 +-----------------------------------------------------------------------+
 :::
 
-# About Us 
+## About Us 
 
 [Front Range Pythoneers](http://wiki.python.org/moin/FrontRangePythoneers) are an active Python users group meeting in Boulder and Denver, Colorado, USA.
 
-# Activities 
+## Activities 
 
 We meet every third Wednesday of the month to learn from talks about Python topics, to swap stories and coding tips, and to enjoy food and drink. But we don\'t just talk about Python, we live it: on the first Saturday of most months, we get together for a code sprint. Front Range Pythoneers are proud to have contributed as a group to [TurboGears2](./TurboGears2.html), Jython, Django, and IPython.
 
 Join us! Whether you\'re just learning Python or have already memorized the output of \"import this\", you\'ll find something worthwhile.
 
-# The Mailing List and Wiki 
+## The Mailing List and Wiki 
 
 Please join our [mailing list](http://lists.community.tummy.com/mailman/listinfo/frpythoneers) and check [this page](http://wiki.python.org/moin/FrontRangePythoneers) at the Python Wiki for more information about [Front Range Pythoneers](http://wiki.python.org/moin/FrontRangePythoneers).
 
-# Meetings and Sprints 
+## Meetings and Sprints 
 
 We just happen to have the friendliest bunch of Python people coming to our meetings. So why not come too?
 
@@ -38,57 +38,57 @@ We just happen to have the friendliest bunch of Python people coming to our meet
 
 - [Meetup.com](http://www.meetup.com/frpythoneers/) is a great way to keep abreast of Front Range Pythoneers\' activities.
 
-# Future Events 
+## Future Events 
 
-# Previous Events 
+## Previous Events 
 
-## Unconference: November 13, 2010 
+### Unconference: November 13, 2010 
 
 Details are [here](FrontRangePythoneersUc10).
 
 An unconference is a conference that is organized and run by the participants. The more you put into it, the more you\'ll get out of it. For more information about unconferences, click here [http://en.wikipedia.org/wiki/Unconference](http://en.wikipedia.org/wiki/Unconference)
 
-## Meeting: Sept 29, 2010, 6 PM - 8 PM 
+### Meeting: Sept 29, 2010, 6 PM - 8 PM 
 
 Message Passing Concurrency with Python and ZeroMQ
 
-## Meeting: August 25, 2010, 6 PM - 8 PM 
+### Meeting: August 25, 2010, 6 PM - 8 PM 
 
 Applications in Parallel Computing with iPython
 
-## Meeting: July 25, 2010, 6 PM - 8 PM 
+### Meeting: July 25, 2010, 6 PM - 8 PM 
 
 MongoDB
 
-## Unconference: October 10, 2009 
+### Unconference: October 10, 2009 
 
 We\'re going to try something new: an unconference. Conference Saturday October 10th, followed by code sprints Sunday October 11. Details are [here](FrontRangePythoneersUc09).
 
 An unconference is a conference that is organized and run by the participants. The more you put into it, the more you\'ll get out of it. For more information about unconferences, click here [http://en.wikipedia.org/wiki/Unconference](http://en.wikipedia.org/wiki/Unconference)
 
-## Meeting: April 8, 2009, 6 PM - 8 PM 
+### Meeting: April 8, 2009, 6 PM - 8 PM 
 
 We\'ll meet in Boulder, one week earlier than usual. Maciej Fijalkowski will discuss his [PyPy](../implementations/PyPy) work, and we\'ll hear a recap of [PyCon](../conferences/pycon/PyCon) 2009.
 
-## Meeting: March 18, 2009, 6 PM - 8 PM 
+### Meeting: March 18, 2009, 6 PM - 8 PM 
 
 We had free-range conversation, food, and drink. Folks from tuggl.com were there looking to hire Django people, and we talked a lot about the state of iPhone and Android development.
 
-## Meeting: February 18, 2009, 6 PM - 8 PM 
+### Meeting: February 18, 2009, 6 PM - 8 PM 
 
 We met at Wynkoop\'s in Denver and had \"Python Q&A Night.\"
 
-## Meeting: January 21, 2009, 6 PM - 8 PM 
+### Meeting: January 21, 2009, 6 PM - 8 PM 
 
 Neal [McBurnett](./McBurnett.html) described auditing Boulder County election results using Python and Django.
 
-## More 
+### More 
 
 See our [archive page](./FrontRangePythoneersArchive(2f).html) for details of older events.
 
-# Guide to Front Range Pythoneering 
+## Guide to Front Range Pythoneering 
 
-## People 
+### People 
 
 - [Julie Johnson](https://www.youtube.com/user/fireboxtraining), CEO of [Firebox Training](http://www.fireboxtraining.com) based in Golden, CO has written several Python training courses.
 
@@ -146,7 +146,7 @@ See our [archive page](./FrontRangePythoneersArchive(2f).html) for details of ol
 
 Please help expand this local guide! (Also feel free to remove yourself from this list, if that makes sense personally.)
 
-## Groups 
+### Groups 
 
 There are some other great groups in the area that we interact with on a periodic basis. Shared membership helps here!
 
@@ -164,11 +164,11 @@ There are some other great groups in the area that we interact with on a periodi
 
 Please add your favorite group here if it seems relevant to local Pythoneering.
 
-# Projects 
+## Projects 
 
 We (collectively) are the maintainers of Django\'s Oracle support. Ian Kelly is the driving force of this support.
 
-# Acknowledgments 
+## Acknowledgments 
 
 Thanks to [tummy.com, ltd.](http://tummy.com) and their principals, [SeanReifschneider](../people/SeanReifschneider) and Evelyn Mitchell, for generously hosting our web site and mailing list.
 

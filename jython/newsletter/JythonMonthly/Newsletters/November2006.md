@@ -25,9 +25,9 @@ Please send email to:
 
 [jython-monthly@mchsi.com](mailto:jython-monthly@mchsi.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# Articles 
+## Articles 
 
-## Extending Jython Drag N Drop Example 
+### Extending Jython Drag N Drop Example 
 
 *Submitted By: Colin*
 
@@ -35,7 +35,7 @@ This is a Jython translation of Sun\'s Java example of how extend drag and drop 
 
 [Read Complete Article](http://wiki.python.org/jython/JythonMonthly/Articles/November2006/1)
 
-## Jython and SOAP Example 
+### Jython and SOAP Example 
 
 *Submitted By: Claude Falbriard*
 
@@ -43,9 +43,9 @@ I´ve integrated the APACHE SOAP package which provides a simple client for SOAP
 
 [Read Complete Article](http://wiki.python.org/jython/JythonMonthly/Articles/November2006/2)
 
-# Special Last Minute Off The Lists! 
+## Special Last Minute Off The Lists! 
 
-## Sun Extends a Helping Hand for Jython 
+### Sun Extends a Helping Hand for Jython 
 
 *Posted By: Charles Oliver Nutter of Sun*
 
@@ -69,11 +69,11 @@ Please feel free to respond publicly or privately. I know we can get Jython goin
 
 *If interested in responding, please post to [jython-dev@lists.sourceforge.net](mailto:jython-dev@lists.sourceforge.net)*
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# IDE Information 
+## IDE Information 
 
 [JyConsole 1.3 Released](http://freshmeat.net/projects/jyconsole/?branch_id=62133&release_id=238776)
 
@@ -85,13 +85,13 @@ Early release of the Pydev package explorer View. Features already implemented:
 
 - Common resource actions (delete, copy, rename, team\...) Shows the Source folder with a different icon Linking mode enabled Shows the outline for a python file Opening an item in the outline opens the correct place in the correspondent file NOTE: The package explorer is still in a beta state
 
-# Who\'s Using Jython? 
+## Who\'s Using Jython? 
 
 [Marathon 1.0](http://www.infoq.com/news/jalian-marathon-1-0)
 
 [Tivoli Application Dependancy Software](http://www.gulfsoft.com/modules.php?op=modload&name=News&file=article&sid=323&mode=thread&order=0&thold=0)
 
-# Jython Blogs 
+## Jython Blogs 
 
 [Multicore processors or how to choose a programming language for the next 5 years](http://achimr.spaces.live.com/Blog/cns!7F4D1D66B60229E6!123.entry)
 
@@ -99,15 +99,15 @@ Early release of the Pydev package explorer View. Features already implemented:
 
 [Using Jython to Call Java](http://sujitpal.blogspot.com/2006/10/using-jython-to-call-java.html)
 
-# Discussions 
+## Discussions 
 
 [Jython and toString()](http://coding.derkeiler.com/Archive/Python/comp.lang.python/2006-10/msg03204.html)
 
-# Interesting Facts 
+## Interesting Facts 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Useful Links 
+## Useful Links 
 
 ::: {}
   ----------------------------------------------------------------

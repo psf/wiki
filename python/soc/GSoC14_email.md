@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Ideas for a RFC 6532 API 
+## Ideas for a RFC 6532 API 
 
-## Policy 
+### Policy 
 
 - \- the internal charset has to be changeable (or at least a USASCII/UTF8 switch is needed)
 
-## Header 
+### Header 
 
-### \_header_value_parser 
+#### \_header_value_parser 
 
 - \- use settings from policy in \_fold
 
-## Steps 
+### Steps 
 
 1.  change the Header class in header.py to make the default charset changeable (add \'\_internal_charset\' property)
 

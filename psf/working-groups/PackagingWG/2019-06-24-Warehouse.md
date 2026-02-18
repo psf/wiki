@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# API key design - design decisions 
+## API key design - design decisions 
 
 Monday, June 24th
 

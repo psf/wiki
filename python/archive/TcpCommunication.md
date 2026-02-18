@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# TCP Communication 
+## TCP Communication 
 
 See also: [UdpCommunication](UdpCommunication)
 
-## Client 
+### Client 
 
 Here\'s simple code to send and receive data by TCP in Python:
 
@@ -38,7 +38,7 @@ Here\'s simple code to send and receive data by TCP in Python:
 :::
 ::::
 
-## Server 
+### Server 
 
 Here\'s simple code to serve TCP in Python:
 
@@ -70,7 +70,7 @@ Here\'s simple code to serve TCP in Python:
 :::
 ::::
 
-## Links 
+### Links 
 
 - [socket](http://www.python.org/doc/current/lib/module-socket.html) \-- builtin Python module
 
@@ -78,6 +78,6 @@ Here\'s simple code to serve TCP in Python:
 
 - [Introduction to TCP Sockets](http://woozle.org/~neale/papers/sockets.html) \-- uses Python to explain. Note: substitute socket.AF_INET where socket.PF_INET is mentioned.
 
-# Discussion 
+## Discussion 
 
 - (none yet!)

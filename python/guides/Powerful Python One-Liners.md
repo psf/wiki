@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Powerful Python One-Liners 
+## Powerful Python One-Liners 
 
 This page is devoted to short programs that can perform powerful operations called *Python One-Liners*.
 
@@ -20,7 +20,7 @@ Of course, there is debate on whether one-liners are even *Pythonic*. As a rule 
 
 So, use your one-liner superpower wisely!
 
-## Free Python One-Liners Learning Resources 
+### Free Python One-Liners Learning Resources 
 
 - [Free \'\'Python One-Liners\'\' videos & book resources](https://pythononeliners.com/)
 
@@ -36,7 +36,7 @@ So, use your one-liner superpower wisely!
 
 - [Github \'\'\'Python One-Liners\'\'\'](https://github.com/finxter/PythonOneLiners/) - Share your own one-liners with the community
 
-## Overview: 10 one-liners that fit into a tweet 
+### Overview: 10 one-liners that fit into a tweet 
 
 I visited this page oftentimes and I loved studying the one-liners presented above. Thanks for creating this awesome resource, JAM, and RJW! ![:)](/wiki/europython/img/smile.png ":)")
 
@@ -80,7 +80,7 @@ After putting a lot of effort into searching the web for inspiration, I created 
 :::
 ::::
 
-## Find All Indices of an Element in a List 
+### Find All Indices of an Element in a List 
 
 Say, you want to do the same as the list.index(element) method but return all indices of the element in the list rather than only a single one.
 
@@ -102,7 +102,7 @@ In this one-liner, you're looking for element \'Alice\' in the list lst = \[1, 2
 :::
 ::::
 
-## echo unicode character: 
+### echo unicode character: 
 
 :::: 
 ::: 
@@ -114,7 +114,7 @@ python -c "print unichr(234)"
 
 This script echos \"ê\"
 
-### Reimplementing cut 
+#### Reimplementing cut 
 
 Print every line from an input file but remove the first two fields.
 
@@ -126,7 +126,7 @@ python -c "import sys;[sys.stdout.write(' '.join(line.split(' ')[2:])) for line 
 :::
 ::::
 
-### Decode a base64 encoded file 
+#### Decode a base64 encoded file 
 
 :::: 
 ::: 
@@ -136,7 +136,7 @@ import base64, sys; base64.decode(open(sys.argv[1], "rb"), open(sys.argv[2], "wb
 :::
 ::::
 
-### Editing a list of files in place 
+#### Editing a list of files in place 
 
 I came up with this one-liner in response to an [article](http://linuxgazette.net/issue96/orr.html) that said it couldn\'t be done as a one-liner in Python.
 
@@ -154,7 +154,7 @@ import sys,os,re,fileinput;a=[i[2] for i in os.walk('.') if i[2]] [0];[sys.stdou
 
 Clearer is: `import os.path; a=[f for f in os.listdir('.') if not os.path.isdir(f)]`
 
-### Set of all subsets 
+#### Set of all subsets 
 
 - Function that returns the set of all subsets of its argument
 
@@ -187,7 +187,7 @@ f = lambda l: reduce(lambda z, x: z + [y + [x] for y in z], l, [[]])
 :::
 ::::
 
-### Terabyte to Bytes 
+#### Terabyte to Bytes 
 
 Want to know many bytes a terabyte is? If you know further abbreviations, you can extend the list.
 
@@ -199,7 +199,7 @@ import pprint;pprint.pprint(zip(('Byte', 'KByte', 'MByte', 'GByte', 'TByte'), (1
 :::
 ::::
 
-### Largest 8-Bytes Number 
+#### Largest 8-Bytes Number 
 
 And what\'s the largest number that can be represented by 8 Bytes?
 
@@ -213,7 +213,7 @@ print '\n'.join("%i Byte = %i Bit = largest number: %i" % (j, j*8, 256**j-1) for
 
 Cute, isn\'t it?
 
-## Display List of all users on Unix-like systems 
+### Display List of all users on Unix-like systems 
 
 :::: 
 ::: 
@@ -223,7 +223,7 @@ print '\n'.join(line.split(":",1)[0] for line in open("/etc/passwd"))
 :::
 ::::
 
-## CSV file to json 
+### CSV file to json 
 
 :::: 
 ::: 
@@ -233,7 +233,7 @@ python -c "import csv,json;print json.dumps(list(csv.reader(open('csv_file.csv')
 :::
 ::::
 
-## Compress CSS file 
+### Compress CSS file 
 
 :::: 
 ::: 
@@ -243,7 +243,7 @@ python -c 'import re,sys;print re.sub("\s*([{};,:])\s*", "\\1", re.sub("/\*.*?\*
 :::
 ::::
 
-## Decode string written in Hex 
+### Decode string written in Hex 
 
 :::: 
 ::: 
@@ -253,7 +253,7 @@ python -c "print ''.join(chr(int(''.join(i), 16)) for i in zip(*[iter('474e55277
 :::
 ::::
 
-## Retrieve content text from HTTP data 
+### Retrieve content text from HTTP data 
 
 :::: 
 ::: 
@@ -263,7 +263,7 @@ python -c "import sys; print sys.stdin.read().replace('\r','').split('\n\n',2)[1
 :::
 ::::
 
-## Broadcast magic packet to power on wakeonlan enabled computer 
+### Broadcast magic packet to power on wakeonlan enabled computer 
 
 Small [Wikipedia Python script](https://en.wikipedia.org/wiki/Wake-on-LAN#Creating_and_sending_the_magic_packet) squeezed out to 166 characters length one-liner:
 
@@ -287,7 +287,7 @@ python -c "import socket as S;s=S.socket(2,2);s.setsockopt(1,6,1);s.sendto(b'\xf
 
 Replace mac address \\x84\\x47\\x09\\x0b\\x7f\\xfd with mac address of computer that should be powered on.
 
-## Prints file extension 
+### Prints file extension 
 
 :::: 
 ::: 
@@ -297,7 +297,7 @@ print '~/python/one-liners.py'.split('.')[-1]
 :::
 ::::
 
-## Escapes content from stdin 
+### Escapes content from stdin 
 
 This can be used to convert a string into a \"url safe\" string
 
@@ -309,7 +309,7 @@ python -c "import urllib, sys ; print urllib.quote_plus(sys.stdin.read())";
 :::
 ::::
 
-## Reverse lines in stdin 
+### Reverse lines in stdin 
 
 :::: 
 ::: 
@@ -319,7 +319,7 @@ python -c "import sys; print '\n'.join(reversed(sys.stdin.read().split('\n')))"
 :::
 ::::
 
-## Print top 10 lines of stdin 
+### Print top 10 lines of stdin 
 
 :::: 
 ::: 
@@ -329,7 +329,7 @@ python -c "import sys; sys.stdout.write(''.join(sys.stdin.readlines()[:10]))" < 
 :::
 ::::
 
-## Apply regular expression to lines from stdin 
+### Apply regular expression to lines from stdin 
 
 :::: 
 ::: 
@@ -339,7 +339,7 @@ python -c "import sys; sys.stdout.write(''.join(sys.stdin.readlines()[:10]))" < 
 :::
 ::::
 
-## Modify lines from stdin using map 
+### Modify lines from stdin using map 
 
 :::: 
 ::: 
@@ -349,7 +349,7 @@ python -c "import sys; tmp = lambda x: sys.stdout.write(x.split()[0]+'\t'+str(in
 :::
 ::::
 
-### Cramming Python into Makefiles 
+#### Cramming Python into Makefiles 
 
 A related issue is embedding Python into a Makefile. I had a really long script that I was trying to cram into a makefile so I automated the process:
 
@@ -381,7 +381,7 @@ A related issue is embedding Python into a Makefile. I had a really long script 
 
 This script generates a \"one-liner\" from make\'s point of view.
 
-## Sony\'s Open Source command-line tool for performing python one-liners using unix-like pipes 
+### Sony\'s Open Source command-line tool for performing python one-liners using unix-like pipes 
 
 They call it \"The Pyed Piper\" or pyp. It\'s pretty similar to the -c way of executing python, but it imports common modules and has its own preset variable that help with splitting/joining, line counter, etc. You use pipes to pass information forward instead of nested parentheses, and then use your normal python string and list methods. Here is an example from the homepage:
 
@@ -401,7 +401,7 @@ This uses pyp\'s built-in string and list variables (p and pp), as well as the v
 
 [http://code.google.com/p/pyp/](http://code.google.com/p/pyp/) [http://opensource.imageworks.com/?p=pyp](http://opensource.imageworks.com/?p=pyp)
 
-## Contributed Code 
+### Contributed Code 
 
 - [JAM/Code/PlatformFinder](../people/JAM/Code/PlatformFinder) - This program tells you what platform you are using.
 

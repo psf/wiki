@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Projects 
+## Python Projects 
 
 As a programming language, Python is the foundation of many software projects producing things like applications, libraries, modules and packages. Since so many projects exist, it can be difficult to find one which is concentrating on a particular topic of interest, but there are several starting points:
 
@@ -28,7 +28,7 @@ As a programming language, Python is the foundation of many software projects pr
 
 - [PyDoc.net](http://pydoc.net/) provides package and source code navigation with advanced search features.
 
-## Code Fragments 
+### Code Fragments 
 
 Useful code does not always exist in the context of a project - smaller fragments may be published in various places:
 
@@ -36,7 +36,7 @@ Useful code does not always exist in the context of a project - smaller fragment
 
 - [The Python Cookbook](http://aspn.activestate.com/ASPN/Python/Cookbook/) - a site with pieces of code, rated and commented
 
-## Ideas for New Projects 
+### Ideas for New Projects 
 
 Sometimes there is no project addressing a certain need, or perhaps a project has been started and requires help to reach its objectives.
 
@@ -44,7 +44,7 @@ Sometimes there is no project addressing a certain need, or perhaps a project ha
 
 - [Python Practice Projects](http://pythonpracticeprojects.com) - Collection of larger project ideas with references to get you started.
 
-## Statistics on Projects 
+### Statistics on Projects 
 
 For those who like statistics, some resources exist cataloguing the size and popularity of some Python projects:
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Where can I find a tiny python installation (under 2 MB) for an embedded linux system? 
+## Where can I find a tiny python installation (under 2 MB) for an embedded linux system? 
 
 The [Embedded Python](../../people/EmbeddedPython) page has details of Python runtimes which work in embedded environments. To reach 2MB you may need to work on reducing the footprint of such installations even further, however.
 

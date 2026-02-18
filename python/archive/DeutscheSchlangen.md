@@ -10,7 +10,7 @@ Deutschsprachige Information um Python
 
 - *German Python information*
 
-# Das Web 
+## Das Web 
 
 - [Python-de](http://starship.python.net/mailman/listinfo/python-de/) - Die deutsche Python Mailingliste
 
@@ -28,11 +28,11 @@ Deutschsprachige Information um Python
 
 - [Das deutsche Python-Forum](http://www.python-forum.de/)
 
-# IRC 
+## IRC 
 
 - Server irc.freenode.net, Channel #python.de
 
-# Dokumentation 
+## Dokumentation 
 
 - [deutschsprachige Pythonlinks @ python.org](http://www.python.org/doc/NonEnglish.html#german)
 
@@ -50,7 +50,7 @@ Deutschsprachige Information um Python
 
 - [Beschränkung aufs Wesentliche](http://www.heise.de/ix/artikel/1999/11/184/) - Wie Python arbeitet (Artikel in iX 1999)
 
-# Berühmte Python-Projekte 
+## Berühmte Python-Projekte 
 
 - [MoinMoin](MoinMoin)
 

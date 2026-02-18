@@ -6,33 +6,33 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Sponsor Working Group 
+## PSF Sponsor Working Group 
 
-## Agenda 
+### Agenda 
 
 This working group will review PSF sponsorship applications and determine if they qualify to be a PSF Sponsor.
 
-## Resources 
+### Resources 
 
 - No financial resources needed at the moment
 
 - [Sponsor WG Charter](SponsorWG/Charter)
 
-## Mailing List 
+### Mailing List 
 
 - [Sponsors WG Mailing List](https://mail.python.org/mailman/listinfo/sponsors)
 
   The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](../people/EwaJodlowska) is the list admin.
 
-## Discussions 
+### Discussions 
 
 Discussions will happen on the mailing list.
 
-## Administration 
+### Administration 
 
 - Betsy Waliszewski
 
-## Members 
+### Members 
 
 - Ewa Jodlowska
 - Raghav Hanumantharau
@@ -42,11 +42,11 @@ Discussions will happen on the mailing list.
 - Deborah Harris
 - Eugene Kim
 
-## Meetings 
+### Meetings 
 
 - As needed
 
-## Approved/Denied Sponsorship Requests 
+### Approved/Denied Sponsorship Requests 
 
 - Approved
   - 1Korting.com, since September 2016, represented by Coen Janssen

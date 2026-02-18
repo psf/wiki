@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Client-Side Web Programming 
+## Client-Side Web Programming 
 
-## Libraries 
+### Libraries 
 
 - [µTidylib](http://utidylib.berlios.de/) and [mxTidy](http://www.egenix.com/files/python/mxTidy.html) \-- Python interfaces to [html tidy](http://tidy.sourceforge.net/) library to clean up HTML documents.
 
@@ -26,7 +26,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [libxml2dom](http://www.python.org/pypi/libxml2dom) can parse HTML by employing libxml2\'s liberal HTML parser.
 
-## Resources 
+### Resources 
 
 - [Grab a document from the web](http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/52199) - from the Python Cookbook
 

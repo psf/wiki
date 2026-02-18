@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Here\'s how to find all the modules in some directory, and import them.
 
-## Finding Modules in a Directory 
+### Finding Modules in a Directory 
 
 Is there a better way than just listing the contents of the directory, and taking those tiles that end with \".pyc\" or \".py\"..?
 
@@ -40,7 +40,7 @@ But perhaps there isn\'t.
 :::
 ::::
 
-## Importing the Modules 
+### Importing the Modules 
 
 How do you import a module, once you have it\'s name?
 
@@ -61,7 +61,7 @@ With the [ImpModule](../people/ImpModule)! It dynamically loads named modules.
 :::
 ::::
 
-## Finding the Things Inside a Module 
+### Finding the Things Inside a Module 
 
 Once you have your module, you can look inside it, with `.__dict__`.
 
@@ -73,7 +73,7 @@ Once you have your module, you can look inside it, with `.__dict__`.
 :::
 ::::
 
-## Finding Functions Within a Module 
+### Finding Functions Within a Module 
 
 We just look for dictionary values that are of type `types.FunctionType`.
 
@@ -90,11 +90,11 @@ We just look for dictionary values that are of type `types.FunctionType`.
 :::
 ::::
 
-## See Also 
+### See Also 
 
 The [DocXmlRpcServer](DocXmlRpcServer) page includes code demonstrating the use of these techniques.
 
-# Discussion 
+## Discussion 
 
 I got this error when executing find_modules() in a package directory. That is the directory contained an ` __init.py__` file:
 

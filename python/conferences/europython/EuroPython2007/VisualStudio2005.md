@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Visual Studio 2005 Sprint 
+## Visual Studio 2005 Sprint 
 
-## This sprint has been canceled due to lack of interest 
+### This sprint has been canceled due to lack of interest 
 
 ------------------------------------------------------------------------
 
-### This is a sprint suggestion to work on making Visual Studio 2005 a fully supported build platform for python 2.5 and 2.6 
+#### This is a sprint suggestion to work on making Visual Studio 2005 a fully supported build platform for python 2.5 and 2.6 
 
 - Where: Vilnius, Lithuania
 

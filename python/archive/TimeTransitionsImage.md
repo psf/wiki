@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Time Module Transitions image 
+## Time Module Transitions image 
 
 These are `.png` and `.svg` versions of an image, diagramming the functions for getting the time, and converting between times, in the Python time module. (See [WorkingWithTime](WorkingWithTime).)
 

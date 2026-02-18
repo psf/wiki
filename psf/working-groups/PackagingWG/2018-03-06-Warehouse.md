@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Warehouse Sync-up Meeting 
+## Warehouse Sync-up Meeting 
 
 Tuesday, March 6th
 
-## Present 
+### Present 
 
 - Mark
 - Nicole
@@ -19,7 +19,7 @@ Tuesday, March 6th
 - Sumana
 - (partially) Donald
 
-## Just finished/working on/blockers/announcements/vacations 
+### Just finished/working on/blockers/announcements/vacations 
 
 Mark
 
@@ -72,7 +72,7 @@ Laura (absent, sick)
 
 - PR re avatar/name display
 
-## Grant money update & burn rate 
+### Grant money update & burn rate 
 
 \~2 months left?
 
@@ -91,7 +91,7 @@ What can we get done by the end of April?
 
 When will we hear back on Open Tech Fund grant? - March 9
 
-## PyCon sprint planning 
+### PyCon sprint planning 
 
 Sumana, Dustin, and (partially) Ernest to be there, but Nicole won\'t
 
@@ -111,7 +111,7 @@ Should we estimate what it will cost for us to be \"working\" at the sprints?
 
 - Should we apply for a sprint grant? (Do sprint grants even exist?)
 
-## Milestone update (infra and features) 
+### Milestone update (infra and features) 
 
 Milestone 3 (publicizing the beta): [https://github.com/pypa/warehouse/milestone/10](https://github.com/pypa/warehouse/milestone/10) and Milestone 4 (redirect & launch): [https://github.com/pypa/warehouse/milestone/1](https://github.com/pypa/warehouse/milestone/1)
 
@@ -121,7 +121,7 @@ Milestone 3 (publicizing the beta): [https://github.com/pypa/warehouse/milestone
 
 - Sumana to look through this & recategorize stuff that can wait
 
-## Ask Donald for 
+### Ask Donald for 
 
 - review [https://github.com/pypa/warehouse-camo/pull/1](https://github.com/pypa/warehouse-camo/pull/1) Switch to fork with content length redirect
 
@@ -131,7 +131,7 @@ Milestone 3 (publicizing the beta): [https://github.com/pypa/warehouse/milestone
 
 heads-up, Thursdays and Fridays are now his packaging days, rather than Tuesdays and Wednesdays
 
-## Bug triage 
+### Bug triage 
 
 Anything from [https://github.com/pypa/warehouse/issues/2976](https://github.com/pypa/warehouse/issues/2976) or [https://github.com/pypa/warehouse/issues/2982](https://github.com/pypa/warehouse/issues/2982) for spam cleanup , like bulk delete from a supplied package name list, that we need to plan around?
 
@@ -161,7 +161,7 @@ Move Conveyor back to using test.pypi.org [https://github.com/pypa/warehouse/iss
 - Dustin can do this if he can get access to the conveyor heroku app
 - should deploy to cabotage on Thursday
 
-## TODOs 
+### TODOs 
 
 - Donald to do stuff in \"ask Donald for\" section, and to check with Trevor about credits and marketing
 - Mark to follow up on 541, Ernest conversation re: infra, Open Tech Fund grant, other grant opportunities

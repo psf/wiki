@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #3 
+## IRC Meeting #3 
 
-## Time/Location 
+### Time/Location 
 
 The meeting took place on Thursday 14th February 2008 at 1900 CET in the #europython channel on freenode.
 
-## Minutes 
+### Minutes 
 
 - Web site
   - [New logos for EuroPython shall be submitted in the following two weeks.](http://mg.pov.lt/europython-irclog/%23europython.2008-02-14.log.html#t2008-02-14T20:07:29) [Paul will send out a mail about the proposed logos.](http://mg.pov.lt/europython-irclog/%23europython.2008-02-14.log.html#t2008-02-14T20:36:24) **A message has been posted to the mailing lists.**

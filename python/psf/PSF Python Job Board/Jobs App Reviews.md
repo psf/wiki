@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Jobs App Reviews 
+## Jobs App Reviews 
 
 Please post your jobs app review here. We will then use them as basis for the job app design and user stories.
 
-## Review 1 
+### Review 1 
 
 From an initial scan of the newjobs URL, I generated these issues:
 
@@ -28,7 +28,7 @@ From an initial scan of the newjobs URL, I generated these issues:
 
 7\. The \"agency\" checkbox should be a property of the company info. Either a company hires its own workforce directly, or is an agency hiring on behalf of other companies. I\'ve yet to see an agency advertising for Python programmers to fill its own needs.
 
-## Run-though of the job submission process by GilesThomas 
+### Run-though of the job submission process by GilesThomas 
 
 - Went to jobs site.
 
@@ -90,7 +90,7 @@ From an initial scan of the newjobs URL, I generated these issues:
 
 - Marked as \"removed\" in database
 
-## Suggested review workflow 
+### Suggested review workflow 
 
 1\. Submit an example job via [http://www.python.org/newjobs/create/](http://www.python.org/newjobs/create/); use your email address as submitter address so that you can check the emails being sent by the system
 

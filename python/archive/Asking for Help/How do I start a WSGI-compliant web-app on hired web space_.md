@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help/How do I start a WSGI-compliant web-app on hired web space? 
+## Asking for Help/How do I start a WSGI-compliant web-app on hired web space? 
 
 I have some web space to play with, and I want to use it to teach myself python programming for the web. The Python docs ([http://docs.python.org/howto/webservers.html](http://docs.python.org/howto/webservers.html)) say I should write a WSGI compliant app, but every piece of documentation I read about WSGI or one of the frameworks, suggests running a new process on some port number to act as a web server. This obviously isn\'t possible on the web space I rent. They have an apache installation, and I need to co-operate with it. If someone could point me in the direction of some documentation that will help me make a start, or show me how a WSGI-compliant \'Hello World\' application can be built on a machine I don\'t own, or even tell me which (well documented) framework doesn\'t require owning the machine, I would be very grateful.
 

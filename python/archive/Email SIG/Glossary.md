@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Glossary of Terms-of-Art for the Email Package
+## Glossary of Terms-of-Art for the Email Package
 
 This page is an attempt to standardize on the language we use to describe concepts relevant to the email module. It also mentions some terms that are deprecated as incorrect or ambiguous, and why.
 

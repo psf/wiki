@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Getting the version numbers of Qt, SIP and PyQt 
+## Getting the version numbers of Qt, SIP and PyQt 
 
 When you report a bug in PyQt you need to supply information about the configuration you are using, including the versions of the Qt library, SIP and [PyQt]() modules. The following code should help.
 

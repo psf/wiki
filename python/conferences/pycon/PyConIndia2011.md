@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyCON India 2011 
+## PyCON India 2011 
 
 This is a top level namespace for organizing [PyCon](PyCon) India 2011. Please link to all important pages here.
 
@@ -26,13 +26,13 @@ This is a top level namespace for organizing [PyCon](PyCon) India 2011. Please l
 
 - [Artwork](./PyConIndia2011(2f)Artwork.html)
 
-## Public pages 
+### Public pages 
 
 Pages which we will show to various people
 
 - [Sponsorship Tiers](PyConIndia2011/SponsorShipTiers)
 
-## More Pages 
+### More Pages 
 
 - [PyConIndiaTShirt](PyConIndiaTShirt)
 
@@ -52,8 +52,8 @@ Pages which we will show to various people
 
 - [PyConIndiaFlyer](PyConIndiaFlyer)
 
-## Website 
+### Website 
 
 [http://in.pycon.org/2011/](http://in.pycon.org/2011/)
 
-## Non active pages 
+### Non active pages 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# log4j Example 
+## log4j Example 
 
 [OtherExamples](OtherExamples)
 
@@ -22,7 +22,7 @@ This example require several things.
 
 This was tested with Jython 2.2 and Java JVM 1.5 and 1.4.2
 
-#### log4j Example 
+##### log4j Example 
 
 - This is a simple example to show how easy it is to use log4j in your own scripts. The source is well documented but if you have any questions or want to more info use your favorite search engine and type in log4j.
 
@@ -71,7 +71,7 @@ This was tested with Jython 2.2 and Java JVM 1.5 and 1.4.2
 :::
 ::::
 
-#### log4j.properties
+##### log4j.properties
 
 - This file is required by the code above. it need to be in the same directory as the example however It can be anywhere as log as you provide a full path to the file. it configures how log4j operates. If it is not found it defaults to a default logging level. Since this is for example purposes the file below is larger then really needed.
 
@@ -106,7 +106,7 @@ This was tested with Jython 2.2 and Java JVM 1.5 and 1.4.2
     #above plus filename, linenumber, Class Name, method name
     #log4j.appender.LOGFILE.layout.ConversionPattern=%d{yyyy-MM-dd HH:mm:ss},%p,%c,%F,%L,%C{1},%M %m%n
 
-#### Example xml file 
+##### Example xml file 
 
 - This is here for completeness. Any text file could be use with the example above by changing the \'open\' line
 

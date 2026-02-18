@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007: Registration is Open! 
+## EuroPython 2007: Registration is Open! 
 
 Registration is now open for [EuroPython](..) 2007: the European Python and Zope Conference, taking place this year in Vilnius, Lithuania from Monday 9th July to Wednesday 11th July.
 

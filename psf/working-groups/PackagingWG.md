@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Packaging Working Group 
+## Packaging Working Group 
 
 The Packaging Working Group is a volunteer [work group of the Python Software Foundation](https://www.python.org/psf/committees/#packaging-work-group).
 
-## Agenda 
+### Agenda 
 
 The purpose of this working group is to support the larger efforts of improving and maintaining the packaging ecosystem in Python through fundraising (including [a sponsorship program](https://pyfound.blogspot.com/2020/04/sponsoring-python-packaging.html)) and disbursement of raised funds. It largely focuses on efforts such as PyPI, pip, packaging.python.org, setuptools, and cross-project efforts.
 
-## Resources 
+### Resources 
 
 - Discussion: Slack and mailing list. The archives are set to private since there is voting.
 
@@ -22,11 +22,11 @@ The purpose of this working group is to support the larger efforts of improving 
 
 - Project ideas: [Fundable packaging improvements](https://github.com/psf/fundable-packaging-improvements/)
 
-## Governance 
+### Governance 
 
 Decisions on what fundraising and projects/efforts to support will be done by a simple majority and in the case of a tie, will escalate to the PSF Board. See [the PSF Packaging WG Charter](PackagingWG/Charter).
 
-### Administration and Contact 
+#### Administration and Contact 
 
 - Donald Stufft \<[donald@python.org](mailto:donald@python.org)\> (chair)
 
@@ -38,7 +38,7 @@ Decisions on what fundraising and projects/efforts to support will be done by a 
 
 To contact the Packaging WG, email \<[packaging-wg@python.org](mailto:packaging-wg@python.org)\>.
 
-### Members 
+#### Members 
 
 - Alyssa Coghlan
 - Ee Durbin
@@ -48,21 +48,21 @@ To contact the Packaging WG, email \<[packaging-wg@python.org](mailto:packaging-
 - Jannis Leidel
 - (others will be added as they accept their invitation to the WG)
 
-### Meetings 
+#### Meetings 
 
 As needed.
 
-## Current Projects 
+### Current Projects 
 
-### Fundraising 
+#### Fundraising 
 
 The Packaging Working Group is seeking [sponsorships](https://pyfound.blogspot.com/2020/04/sponsoring-python-packaging.html) and grants to raise funds for [fundable packaging improvements](https://github.com/psf/fundable-packaging-improvements).
 
-### Sprints 
+#### Sprints 
 
 We run [PackagingSprints](../packaging/PackagingSprints) at conventions and as standalone events. We\'re open to companies and organizations hosting sprints and work weeks to help us move packaging forward; get in contact with a Working Group member.
 
-### PyPI Malware Reporting and Response project 
+#### PyPI Malware Reporting and Response project 
 
 The PSF has received funding from the Center for Security and Emerging Technology (CSET) to develop and improve the infrastructure for malware reporting and response on PyPI.
 
@@ -92,9 +92,9 @@ Meetings and status updates:
   --------------------------------------------------------------------------------------------------------------------------------------------------- ----------------- ---------------
 :::
 
-## Past projects 
+### Past projects 
 
-### PyPI Organization Account 
+#### PyPI Organization Account 
 
 The Python Software Foundation, with the Packaging WG\'s approval, funded a project to deploy organization account features in PyPI.
 
@@ -176,7 +176,7 @@ Meetings and status updates:
   ---------------------------------------------------------------------------------------------------------------------------------------- ----------------- ----------------
 :::
 
-### Warehouse: Facebook gift 
+#### Warehouse: Facebook gift 
 
 The Packaging Working Group applied for and is receiving a gift from Facebook to implement & deploy security features for Warehouse (PyPI\'s codebase).
 
@@ -212,7 +212,7 @@ Meetings and status updates:
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------- ----------------------
 :::
 
-### Dependency resolver and user experience improvements for pip 
+#### Dependency resolver and user experience improvements for pip 
 
 The Packaging Working Group applied for and is receiving funding to work in 2020 on the design, implementation, and rollout of [pip\'s next-generation dependency resolver](https://github.com/psf/fundable-packaging-improvements/blob/master/FUNDABLES.md#finish-dependency-resolver-for-pip). The donors funding this work are the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/eoss/proposals/improving-user-experience-and-debuggability-of-pip-for-all-python-users/) (USD\$200,000) and [Mozilla Open Source Support](https://www.mozilla.org/en-US/moss/) (USD\$207,000).
 
@@ -339,7 +339,7 @@ Meetings and status updates:
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------- ----------------------
 :::
 
-### Warehouse: OTF grant 
+#### Warehouse: OTF grant 
 
 The Packaging Working Group applied for and [received a performance-based contract (like a grant) from the Open Technology Fund](https://www.opentech.fund/results/supported-projects/pypi-improvements/) to implement & deploy security, localization, and accessibility improvements for Warehouse (PyPI\'s codebase).
 
@@ -400,7 +400,7 @@ Meetings and status updates from the OTF grant-funded project:
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------- ---------------------
 :::
 
-### Warehouse rollout 
+#### Warehouse rollout 
 
 The Packaging Working Group supported the implementation & deployment of Warehouse (PyPI 2.0) to replace the legacy code base that powered [legacy PyPI](https://github.com/pypa/pypi-legacy). [Announced on PSF blog in January 2016](https://pyfound.blogspot.com/2016/01/welcome-to-warehouse.html); see its history in [this April 2018 LWN article](https://lwn.net/Articles/751458/).
 

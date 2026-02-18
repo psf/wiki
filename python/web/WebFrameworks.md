@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# 1. Web Frameworks for Python 
+## 1. Web Frameworks for Python 
 
 A Web framework is a collection of packages or modules which allow developers to write Web applications (see [WebApplications](../people/WebApplications)) or services without having to handle such low-level details as protocols, sockets or process/thread management.
 
@@ -18,7 +18,7 @@ Generally, frameworks provide support for a number of activities such as interpr
 
 Many frameworks now provide an element of customization in their support for the above activities and abstractions, utilizing [components](../people/WebComponents) in that they provide abstractions only for certain specific things. As a result, it can be possible for you to build your own full-stack framework almost entirely from existing components.
 
-## 1.1. Popular Full-Stack Frameworks 
+### 1.1. Popular Full-Stack Frameworks 
 
 A web application may use a combination of a base HTTP application server, a storage mechanism such as a database, a template engine, a request dispatcher, an authentication module and an AJAX toolkit. These can be individual components or be provided together in a high-level framework.
 
@@ -37,7 +37,7 @@ These are the most popular high-level frameworks. Many of them include component
 
 See below for some other arguably less popular full-stack frameworks!
 
-## 1.2. Other Full-Stack Frameworks 
+### 1.2. Other Full-Stack Frameworks 
 
 These frameworks also provide most, if not all of the technology stack. However, they are regarded as not being as popular as the frameworks listed above.
 
@@ -100,7 +100,7 @@ These frameworks also provide most, if not all of the technology stack. However,
 
 - [Werkzeug](https://palletsprojects.com/p/werkzeug/) (3.1.3 Released 2024-11-08) is Unicode-aware, includes a powerful debugger, full featured request and response objects, HTTP utilities to handle entity tags, cache control headers, HTTP dates, cookie handling, file uploads, a powerful URL routing system and a bunch of community contributed addon modules.
 
-## 1.3. Popular Non Full-Stack Frameworks 
+### 1.3. Popular Non Full-Stack Frameworks 
 
 These projects provide the base \"application server\", either running as its own independent process, upon Apache or in other environments. On many of these you can then introduce your own choice of templating engines and other components to run on top, although some may provide technologies for parts of the technology stack.
 
@@ -119,7 +119,7 @@ These projects provide the base \"application server\", either running as its ow
   -------------------------------------------------------- -------------------------------------------------------- ---------------- -------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-## 1.4. Other Non Full-Stack Frameworks 
+### 1.4. Other Non Full-Stack Frameworks 
 
 - [Albatross](Albatross) (1.42 Released 2011-04-27) a small and flexible Python toolkit for developing highly stateful Web applications; deploys to CGI, FastCGI, and [ModPython](../people/ModPython) servers.
 
@@ -165,7 +165,7 @@ These projects provide the base \"application server\", either running as its ow
 
 - [WSGIServlets](https://pypi.python.org/pypi/WSGIServlets) (1.0.1 Released 2011-11-09) - lightweight, object-oriented framework that doesn\'t get in your way. Intuitive class hierarchy makes coding WSGI applications, middleware or full-blown CMS and frameworks a simple task by providing developers a rich set of tools out-of-the-box. A link to a live tutorial (written with WSGIServlets) is available on the project\'s homepage. The tutorial is also included in the distribution along with a complete API reference manual.
 
-## 1.5. Discontinued/Inactive Frameworks 
+### 1.5. Discontinued/Inactive Frameworks 
 
 The following frameworks are either discontinued, in that their developers may have stated that they no longer maintain the code, or appear to be inactively developed or maintained, in that the Web site for the project has remained unchanged for an extended period of time.
 
@@ -223,25 +223,25 @@ The following frameworks are either discontinued, in that their developers may h
 
 - [WHIFF](http://whiff.sourceforge.net/) (1.1 Released 2013-07-09) WHIFF is a collection of support services for WSGI/Python web applications which allows applications to be composed by \"dropping\" dynamic pages into container directories. It automatically includes support for advanced features such as AJAX, jQueryUI widgets, Flash based charts and more. Extensive documentation and tutorial essays.
 
-## 1.6. Books and Articles 
+### 1.6. Books and Articles 
 
 - Steve Holden wrote a book on [Python Web Programming](http://pydish.holdenweb.com/pwp/). The book from John Goerzen, [Foundations of Python Network Programming](http://www.apress.com/book/bookDisplay.html?bID=363), can also be useful. O\'Reilly\'s [Programming Python 3rd Edition](http://www.oreilly.com/catalog/python3/) has 500 pages on Internet programming, including 250 on Web scripting. Finally, check out the Web Programming chapter in [Core Python Programming](http://corepython.com) by Wesley Chun \-- there is also a small section elsewhere on Web APIs.
 
 - The [Zope 3 Quick Start Guide](http://benjiyork.com/quick_start) gives a short introduction to Zope 3.
 
-## 1.7. Content Management Systems 
+### 1.7. Content Management Systems 
 
 Content management systems (CMS) often allow you to build applications like functionality upon them and typically provide many of the facilities seen in full-stack frameworks. See [ContentManagementSystems](../archive/ContentManagementSystems) for more details.
 
-## 1.8. Web Components 
+### 1.8. Web Components 
 
 Some frameworks promote interoperable components for things like templating/output and authentication/authorization, and so you might see users of different frameworks actually using the same component or library. See [WebComponents](../people/WebComponents) for details of such components.
 
-## 1.9. Web Client Frameworks 
+### 1.9. Web Client Frameworks 
 
 In contrast to server-oriented frameworks which may offer AJAX (asynchronous [JavaScript](./JavaScript.html) and XML) support by serving pre-packaged (inflexible and highly specific but otherwise very useful) [JavaScript](./JavaScript.html) components, and offering server-side support for requests made by such [JavaScript](./JavaScript.html) components, Web client frameworks take more direct advantage of the dynamic capabilities of browser engines. Ways in which the full potential of browser engines can be realized are, for example, by compiling Python code into [JavaScript](./JavaScript.html) or by embedding a Python interpreter into the Web browser itself. In some cases, Web browser engines can be run within separate customized applications rather than in a \"web browser\" per se. See [Web Browser Programming](../archive/WebBrowserProgramming) for details.
 
-## 1.10. See Also 
+### 1.10. See Also 
 
 More information on python web frameworks can be found here:
 
@@ -259,7 +259,7 @@ Other related wiki pages:
 
 - [Templating in Python](../archive/Templating)
 
-## 1.11. Editorial Note 
+### 1.11. Editorial Note 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new solutions. When specifying release dates please use the format YYYY-MM-DD.
 

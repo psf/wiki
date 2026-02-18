@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: Why does IDLE refuse to start on Windows? 
+## Asking for Help: Why does IDLE refuse to start on Windows? 
 
 Bonjour,
 

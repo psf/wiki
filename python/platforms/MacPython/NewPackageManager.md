@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Notes about what we need to do 
+## Notes about what we need to do 
 
 Also see: [http://www.python.org/cgi-bin/moinmoin/DistUtils20](http://www.python.org/cgi-bin/moinmoin/DistUtils20)
 
-## Extending PEP-241 ( http://www.python.org/peps/pep-0241.html ) 
+### Extending PEP-241 ( http://www.python.org/peps/pep-0241.html ) 
 
 As per Sarwat\'s suggestion for canonical version numbers, we do have somewhat of a solution that I was unaware of: the [StrictVersion](http://epydoc.sourceforge.net/stdlib/public/distutils.version.StrictVersion-class.html) and [LooseVersion](http://epydoc.sourceforge.net/stdlib/public/distutils.version.LooseVersion-class.html) classes in [distutils.version](http://epydoc.sourceforge.net/stdlib/public/distutils.version-module.html). [LooseVersion](http://epydoc.sourceforge.net/stdlib/public/distutils.version.LooseVersion-class.html) will pretty much allow us to compare arbitrary 1.0a2 vs 1.0b2 version numbers reliably. If they don\'t compare reliably or can not be parsed by [LooseVersion](http://epydoc.sourceforge.net/stdlib/public/distutils.version.LooseVersion-class.html), the package author is not following spec and should be smacked around ![:)](/wiki/europython/img/smile.png ":)")
 
@@ -28,11 +28,11 @@ I believe this will be sufficient. However it may be nice to be able to specify 
 
 One thing, related to Package-Name, is that we should completely deprecate the practice where you can install a whole bunch of python modules flat in site-packages. If you have more than one file that belongs in site-packages, it should go in a separate folder and be referenced by a pth file. There should be a 1:1 relationship between the number of modules+packages in your site-packages, and the number of modules+packages that you installed.
 
-## Discussion of PEP-243 ( http://www.python.org/peps/pep-0243.html ) 
+### Discussion of PEP-243 ( http://www.python.org/peps/pep-0243.html ) 
 
 PEP-243 proposes a central module repository system for source modules. We should say that the [PackMan](./PackMan.html) system will supplant this because (a) it could take advantage of a central module repository if available and (b) it\'s easier these days to host open source projects anyways (a la sourceforge). Speaking of sourceforge, we should have special integration for sourceforge downloads in [PackMan](./PackMan.html) (let the user choose a preferred mirror, display to the use who is sponsoring their download). It\'s possible that the scapegoat may choose to come to an arrangement with the package maintainers such that package maintainers will host the scapegoat-built binary packages on their site to make it more economical for scapegoats.
 
-## Embrace and Extend PEP-262 ( http://www.python.org/peps/pep-0262.html ) 
+### Embrace and Extend PEP-262 ( http://www.python.org/peps/pep-0262.html ) 
 
 PEP-262 is the holy grail for [PackMan](./PackMan.html), it allows us to develop a sane way to do package management, especially uninstallation.
 
@@ -40,7 +40,7 @@ For our platform, PEP-262 has one inherent deficiency: INSTALLDB (the location f
 
 I think that we can deprecate the REQUIRES and PROVIDES files by adding Depends, Package-Name, and Recommends to PKG-INFO. I don\'t think that the \"PROVIDES\" file makes a whole lot of sense, unless the strings used in provides means it corresponds to a definitive module interface. There is not currently any sort of registry or PEP for this kind of thing, so it\'s probably not at all useful. Since we have upgraded PEP-241, we should also upgrade the Package class in PEP-262 to include the new metadata.
 
-# Notes for NewPackageManager 
+## Notes for NewPackageManager 
 
 - Read \"[Package Manager idea, adding URL scheme](http://mail.python.org/pipermail/pythonmac-sig/2003-October/thread.html#8891)\" thread on pythonmac-sig very carefully
 
@@ -72,7 +72,7 @@ I think that we can deprecate the REQUIRES and PROVIDES files by adding Depends,
 
 - Don\'t use .plist as the file suffix, that makes it impossible to bind an application to package manager databases
 
-# Notes for NewPackageManager GUI 
+## Notes for NewPackageManager GUI 
 
 - Needs to be a lot smarter, less clutter, more organization (think trees, don\'t differentiate between binary/source installs, filter out packages the user has acceptable versions of, etc.)
 
@@ -102,7 +102,7 @@ I think that we can deprecate the REQUIRES and PROVIDES files by adding Depends,
 
 - Search field
 
-# Bug and Feature Requests 
+## Bug and Feature Requests 
 
 The current PM has faulty scrolling\-\--if a pimp site has a package list that is longer than the viewing area, one cannot scroll to see the extra content (well, you *can* scroll, but the window pops right back to the top). Packages are accessible via the arrow keys, but the faulty scrolling is clearly a bug. Make sure the new manager gets tested on a site with a *long* list of packages.
 

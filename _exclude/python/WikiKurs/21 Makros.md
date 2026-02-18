@@ -10,11 +10,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)21(20)Makros.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)20(20)Dynamische(20)Inhalte.html) Slide 20 of 27 [\>\>](./WikiKurs(2f)22(20)Parser.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Makros 
+## Makros 
 
 Ein Makro wird durch \"`<<Makroname(Parameter)>>`{.backtick}\" aufgerufen. Parameter sind von Makro zu Makro unterschiedlich und können auch ganz wegfallen.
 
-## Eingabe 
+### Eingabe 
 
     <<TableOfContents>>
     ----
@@ -24,7 +24,7 @@ Ein Makro wird durch \"`<<Makroname(Parameter)>>`{.backtick}\" aufgerufen. Param
 
     Etwas Text mit einer Fußnote.<<FootNote(Hier eine Fußnote.)>>
 
-## Anzeige 
+### Anzeige 
 
 ------------------------------------------------------------------------
 

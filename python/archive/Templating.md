@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Templating in Python 
+## Templating in Python 
 
 Templating, and in particular web templating is a way to represent data in different forms. These forms often (but not always) intended to be readable, even attractive, to a human audience. Frequently, templating solutions involve a document (the template) and data. Template usually looks much like the final output, with placeholders instead of actual data (or example data in simplified form), bears common style and visual elements. Data which is presented using that template may be also separated in two parts - data required to be rendered, and data required for template itself (navigation elements if it is a site, button names if it is some UI). Combining template+data produces the final output which is usually (but not always) a web page of some kind.
 
-## Templating Engines 
+### Templating Engines 
 
 There are many, many different HTML/XML templating packages and modules for Python that provide different feature sets and syntaxes. These libraries usually assume that you know how to write HTML or XML.
 
 The number of templating engines is so great because the mechanisms involved are pretty easy to write in Python, at least for a fairly basic template engine; [this recipe from the Python Cookbook](http://code.activestate.com/recipes/52305/) shows how easy it is.
 
-### Engines using Value Substitution 
+#### Engines using Value Substitution 
 
 The simplest form of templating engine is that which merely substitutes values into a template in order to produce the final output. They sometimes provide tags for if statements or loops, but they are crude.
 
@@ -28,7 +28,7 @@ The simplest form of templating engine is that which merely substitutes values i
 
 - [ctemplate-python](https://github.com/mll/ctemplate-python) - fast templating with simple if/loop logic based on [libCtemplate](http://libctemplate.sourceforge.net)
 
-### Engines Mixing Logic into Templates 
+#### Engines Mixing Logic into Templates 
 
 A popular approach with templating engines is to embed logic or control-flow statements into the templates themselves in a way that can make the the final output appear rather different from the original template. For example:
 
@@ -120,7 +120,7 @@ The introduction of such logic may also cause problems for some XML-based tools.
 
   - [Blazingly Fast](http://mindref.blogspot.com/2012/07/python-fastest-template.html): Maximum rendering performance: ultimate speed and context preprocessor features.
 
-### Engines with Annotated Templates 
+#### Engines with Annotated Templates 
 
 The following engines feature template documents whose sections are marked using special attributes (or, less frequently, special elements or tags). For example:
 
@@ -171,7 +171,7 @@ In other systems, the annotations are actually evaluated in order to produce rep
 
 - [CherryTemplate](http://sourceforge.net/projects/cherrypy/) - is a Pythonic HTTP toolkit.
 
-## HTML Shorthand Processors 
+### HTML Shorthand Processors 
 
 The libraries in this section implement simpler markup languages that can be automatically converted to HTML. This lets you avoid having to write HTML by hand.
 
@@ -189,7 +189,7 @@ The libraries in this section implement simpler markup languages that can be aut
 
 - [Creole](http://code.google.com/p/python-creole/) (creole to html and html to creole)
 
-## Template engines implemented as Internal DSL\'s 
+### Template engines implemented as Internal DSL\'s 
 
 These engines are implemented as an internal DSL, that is, they don\'t process text into markup, rather they represent the final document as actual Python code and data structures. See: [An overview of the benefits of this internal DSL approach vs external template languages](http://bitbucket.org/tavisrudd/throw-out-your-templates/src/tip/throw_out_your_templates.py)
 
@@ -199,7 +199,7 @@ These engines are implemented as an internal DSL, that is, they don\'t process t
 
 - [Dirty](http://dirty.googlecode.com/)
 
-## HTML Generation Packages 
+### HTML Generation Packages 
 
 **Many of these links are dead. Perhaps someone more knowledgeable might want to fix or prune them.**
 
@@ -227,13 +227,13 @@ These packages are not really templating systems in that they do not typically e
 
 - [Yattag](http://www.yattag.org/) Provides a readable way to write HTML or XML within Python using indented blocks instead of \<tag\>\...\</tag\> constructs.
 
-## Static Website Generators 
+### Static Website Generators 
 
 Static website generators are more than templating engines in that they create *the whole site structure*, not just individual files. While templating is an important part of their function, determining the site structure and *incorporating structural information* in the output (for example to automatically generate navigational elements) is what really makes a static website generator a useful tool.
 
 See [StaticSiteGenerator](StaticSiteGenerator) for the list.
 
-## Java Templating Engines 
+### Java Templating Engines 
 
 The following templating engines are accessible or usable via Jython:
 
@@ -245,7 +245,7 @@ The following templating engines are accessible or usable via Jython:
 
 - [WebMacro](http://www.webmacro.org/)
 
-## CPython-accessible C Templating Engines 
+### CPython-accessible C Templating Engines 
 
 - [ClearSilver](../people/ClearSilver) - HTML generation, uses HDF as input format
 

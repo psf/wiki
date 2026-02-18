@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Pycon India 2009 
+## Pycon India 2009 
 
 [Pycon-India 2009](http://in.pycon.org) is a community conference by the Python developer community. A purely volunteer effort, it is being hosted for the first time in India, and will attract some of the best Python hackers in India.
 
 [Pycon India 2009](http://in.pycon.org/2009) will be held in Bangalore, India, between Saturday,26th September2009 and Sunday 27th September 2009.
 
-# Why Sponsor Pycon-India? 
+## Why Sponsor Pycon-India? 
 
 We expect between 150-200 delegates at the Conference. The delegates are a mix of students, developers and individuals with strong interest in Python programming language. As well as being fun, enjoyable and informative, the conference will provide an excellent opportunity to network with others in the Python community.
 
@@ -30,7 +30,7 @@ Sponsors will:
 
 - join the India Python community
 
-# What Sponsors Get? 
+## What Sponsors Get? 
 
 All sponsors will be:
 

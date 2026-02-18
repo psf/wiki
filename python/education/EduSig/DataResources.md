@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Relevant, Reusable Data for Education Exercises 
+## Relevant, Reusable Data for Education Exercises 
 
 On this page is cataloged common data that may be useful to educators in constructing meaningful exercises. Often educators short on time use abstract data that lacks meaning to the student, or that requires the student to track down and extract his own data.
 
@@ -95,7 +95,7 @@ Contributions are welcome but content listed here must be distributable under an
 
 **Question**
 
-## SQLite3 Data 
+### SQLite3 Data 
 
 Would it be OK to provide sqlite3 Databases?
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Networked Data 
+## Networked Data 
 
 I\'ve created something that fits the pattern of \"Networked Data\" which seems to be *the way* right now.
 
@@ -64,6 +64,6 @@ For more on this particular work, see:
 
 - [CommunityWiki:nLSD](http://communitywiki.org/nLSD)
 
-# Discussion 
+## Discussion 
 
 - (none yet!)

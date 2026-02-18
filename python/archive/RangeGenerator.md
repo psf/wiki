@@ -16,7 +16,7 @@ The author doesn\'t have the time/energy to write/push a [PEP](PEP) for the [Pyt
 
 [lwickjr](../archive/lwickjr): Neither do I. Anyone else?
 
-# Test Suite 
+## Test Suite 
 
 Here is the test:
 
@@ -42,7 +42,7 @@ Here is the test:
     if __name__ == '__main__':
         unittest.main()
 
-# implementation
+## implementation
 
     """generator for a range of integers that matches the output
     of an iterator over the list range(...)
@@ -90,7 +90,7 @@ Here is the test:
         counter = count(*counter_args)
         return takewhile(predicate, counter)
 
-# Alternate Implementation 
+## Alternate Implementation 
 
 Perhaps a simple implementation can be constructed using \*count\* and \*islice\* from intertools?. \-- Anon
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This is a list of all the accomplishments from the [PyCon](../conferences/pycon/PyCon) 2008 Sprints.
 
-# 03/17/2008 
+## 03/17/2008 
 
 - Bitten continuous build tool now supports figleaf for code coverage
 
@@ -24,7 +24,7 @@ This is a list of all the accomplishments from the [PyCon](../conferences/pycon/
 
 - Preliminary support for Pylons in DBMechanic
 
-# 03/18/2008 
+## 03/18/2008 
 
 - Zope Interfaces now running on Jython
 
@@ -50,7 +50,7 @@ This is a list of all the accomplishments from the [PyCon](../conferences/pycon/
 
 - Made [TurboGears](../web/TurboGears) testutil.DBTest work with SQLAlchemy (lmacken)
 
-# 03/19/2008 
+## 03/19/2008 
 
 - [TracForge](./TracForge.html) now support basic web-based project creation.
 
@@ -68,7 +68,7 @@ This is a list of all the accomplishments from the [PyCon](../conferences/pycon/
 
 - Fixed a bug that would cause smtplib SSL readlines to hang on EOF.
 
-# 03/20/2008 
+## 03/20/2008 
 
 - Display code coverage in Trac browser for Bitten builds
 
@@ -80,11 +80,11 @@ This is a list of all the accomplishments from the [PyCon](../conferences/pycon/
 
 - Python: [Experimental Bazaar branches](http://www.python.org/dev/bazaar/) set up.
 
-# finished 03/22/2008 
+## finished 03/22/2008 
 
 - Patch submitted for pydoc to display \'inherited\' documentation.
 
-# Jython 
+## Jython 
 
 From [Frank Wierzbicki](http://fwierzbicki.blogspot.com/2008/03/pycon-2008-and-jython.html):
 
@@ -102,7 +102,7 @@ From [Frank Wierzbicki](http://fwierzbicki.blogspot.com/2008/03/pycon-2008-and-j
 
 - Work on 2.5 new style class exceptions
 
-# SchoolTool Sprint 
+## SchoolTool Sprint 
 
 - Removed breadcrumbs.
 
@@ -130,7 +130,7 @@ From [Frank Wierzbicki](http://fwierzbicki.blogspot.com/2008/03/pycon-2008-and-j
 
 - Improved [SchoolTool](../people/SchoolTool) resource booking view (Andrew).
 
-# Orbited Sprint 
+## Orbited Sprint 
 
 - Pylons demo fixed and updated to orbited 0.3.2, thanks to Wes Devauld
 - New modpython tutorial, thanks to Roy Han

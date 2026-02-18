@@ -10,9 +10,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)15(20)Tables.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)14(20)Text(20)styles.html) Slide 14 of 27 [\>\>](./WikiCourse(2f)16(20)Wiki(20)internal(20)links.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Tables 
+## Tables 
 
-## Simplest table 
+### Simplest table 
 
      || one || two || three ||
      || four || five || six ||
@@ -24,7 +24,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
     ------ ------ -------
   :::
 
-## General table layout 
+### General table layout 
 
      ||||||<tablewidth="80%">'''Headline'''||
      ||Cell 1||Cell 2||Cell 3||
@@ -43,7 +43,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   +-----------+--------+--------+
   :::
 
-## Cell width 
+### Cell width 
 
      || Narrow ||<:99%> Broad ||
 
@@ -53,7 +53,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
     -------- -------
   :::
 
-## Spanning rows and columns 
+### Spanning rows and columns 
 
      ||<|2> 2 lines || line 1 ||
      || line 2 ||
@@ -69,7 +69,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   +-----------------------------+
   :::
 
-## Alignment 
+### Alignment 
 
      ||<(50%> left ||<^|3> up ||<v|3> down ||
      ||<:> mid ||
@@ -85,7 +85,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   +-------+----+------+
   :::
 
-## Colors 
+### Colors 
 
      ||<#FF0000> red ||<#00FF00> green ||<#0000FF> blue ||
 

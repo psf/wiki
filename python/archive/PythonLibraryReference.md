@@ -34,7 +34,7 @@ December 19, 2003
 
 [Front Matter](./PythonLibraryReference(2f)FrontMatter.html)
 
-# Table Of Contents 
+## Table Of Contents 
 
 1\. [Introduction](./PythonLibraryReference(2f)Introduction.html)
 
@@ -92,7 +92,7 @@ C. [History And License](PythonLibraryReference/HistoryAndLicense)
 
 [About This Document](./PythonLibraryReference(2f)AboutThisDocument.html) \...
 
-## Comments 
+### Comments 
 
 Another set of annotatable documentation is at [http://pydoc.amk.ca/frame.html](http://pydoc.amk.ca/frame.html) .
 

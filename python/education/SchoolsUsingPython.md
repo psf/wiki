@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Schools using Python 
+## Schools using Python 
 
 Note that in order to edit text on this wiki page you will need to be registered with and logged into the wiki. See the [FrontPage](../people/FrontPage) for more info. If you are unable to edit this page, feel free to send the info you wanted to add to [altis@semi-retired.com](mailto:altis@semi-retired.com) .
 
-# Introduction 
+## Introduction 
 
 This is a listing of schools that are using Python in their curriculum.
 
 I would like to confirm each of the schools below by linking to a specific web page with a course listing and/or the professor(s) teaching classes that involve the use of Python. Each listing should be expanded with a description of how Python is being used. \-- [KevinAltis](../people/KevinAltis)
 
-# High Schools 
+## High Schools 
 
 - Duchesne Academy of the Sacred Heart - Houston, TX
 
@@ -29,14 +29,14 @@ I would like to confirm each of the schools below by linking to a specific web p
 
 - Zanneio Experimental Junior High School - Piraeus, Greece, [http://gym-peir-zanneio.att.sch.gr/](http://gym-peir-zanneio.att.sch.gr/), (Computer Science Instructor : [Euripides Vrachnos](http://evripides.mysch.gr))
 
-# Colleges and Universities 
+## Colleges and Universities 
 
-## Argentina 
+### Argentina 
 
 - Universidad Tecnológica Nacional - Facultad Regional Córdoba
   - Python is used in Algoritmos y Estructuras de Datos course at Departamento Ingeniería en Sistemas de Información (since 2015)
 
-## Australia 
+### Australia 
 
 - University of New South Wales
   - Computer science taught/teaches course(s) with Python (as of about 2001)
@@ -45,7 +45,7 @@ I would like to confirm each of the schools below by linking to a specific web p
 - University of Queensland
   - [CSSE1001 Introduction to Software Engineering I](http://www.itee.uq.edu.au/~csse1001/)
 
-## Bangladesh 
+### Bangladesh 
 
 - Varendra University
   - Python is used in Structured Programming Language Lab (CSE 124) and Object Oriented Programming Lab (CSE 134) courses at Computer Science and Engineering Department .
@@ -54,14 +54,14 @@ I would like to confirm each of the schools below by linking to a specific web p
 
   - Panda3D is being used by 12 semester students for gaming projects .
 
-## Bosnia and Herzegovina 
+### Bosnia and Herzegovina 
 
 - University of Banja Luka
   - Python is used in Introduction to CS1 and Introduction to CS2 courses at Department of Mathematics and Informatics
 
   - Information about courses (in Cyrillic): [Syllabus for Introduction to CS1](http://matinf.pmfbl.org/media/uploads/filebrowser/uur1bl11.pdf) [Syllabus for Introduction to CS2](http://matinf.pmfbl.org/media/uploads/filebrowser/uur2bl11.pdf)
 
-## Canada 
+### Canada 
 
 - University of Toronto
   - The CS department has introduced [Computer Science for the Sciences](http://www.artsandscience.utoronto.ca/ofr/calendar/crs_csc.htm#CSC120H1), an introductory course aimed at (mainly) life sciences students.
@@ -94,21 +94,21 @@ I would like to confirm each of the schools below by linking to a specific web p
 
 - [McMaster](./McMaster.html) University
 
-## China 
+### China 
 
 - Zhejiang University
   - Python is selected as the programming language for project of Digital Asset Management course 2011.
 
   - Course Information: [Digital Asset Management 2011](http://www.cad.zju.edu.cn/home/zhx/DAM/2011/doku.php)
 
-## Finland 
+### Finland 
 
 - University of Helsinki
   - Programming in Python, voluntary intermediate level course.
 
   - [http://www.cs.helsinki.fi/u/jttoivon/python-09/](http://www.cs.helsinki.fi/u/jttoivon/python-09/)
 
-## France 
+### France 
 
 - Université Bordeaux 1
   - Python is used as a first language for the Science & Technology licence
@@ -136,7 +136,7 @@ I would like to confirm each of the schools below by linking to a specific web p
 
   - [http://www.masterif.dauphine.fr/](http://www.masterif.dauphine.fr/)
 
-## India 
+### India 
 
 - Baderia Global Institute of Engineering and Management, Jabalpur, Madhya Pradesh
   - Python is used in B.Tech AIML, Data Science and IoT IInd Year as 1st programming language and in B.Tech CSE in III Year.
@@ -151,19 +151,19 @@ I would like to confirm each of the schools below by linking to a specific web p
 
   - Class X book: [https://www.itschool.gov.in/pdf/Std_X/ICT/xEnglish.pdf](https://www.itschool.gov.in/pdf/Std_X/ICT/xEnglish.pdf) (Chapter 4)
 
-## Italy 
+### Italy 
 
 - IS Carlo Anti, Villafranca di Verona
   - High school classes of the Liceo Scientifico opzione Scienze Applicate
 
-## Portugal 
+### Portugal 
 
 - University of Évora
   - Python is used in an Introduction to Programming course
   - The book adopted for the course is the Downey book: How to Think Like a Computer Scientist: Learning with Python
   - The main objective for the course is to help students to understand the basics of programming, thus using Python as a tool to accomplish this goal.
 
-## Singapore 
+### Singapore 
 
 - Republic Polytechnic
   - Python is used as the main language for teaching introductory programming in a problem-based
@@ -171,7 +171,7 @@ I would like to confirm each of the schools below by linking to a specific web p
 
   - [http://www.rp.sg/courses/ict/it/course_structure.asp](http://www.rp.sg/courses/ict/it/course_structure.asp)
 
-## Spain 
+### Spain 
 
 - Universitat Politècnica de Catalunya (UPC). Polytechnical University of Catalonia.
   - EPSE Manresa. Python is used as the main language for teaching introductory programming in a first
@@ -187,7 +187,7 @@ I would like to confirm each of the schools below by linking to a specific web p
 
   - [http://moodle.cpilosenlaces.com](http://moodle.cpilosenlaces.com/)
 
-## United Kingdom 
+### United Kingdom 
 
 - University of Oxford
   - Department of Physics (need to confirm)
@@ -202,9 +202,9 @@ I would like to confirm each of the schools below by linking to a specific web p
 
 - Bangor University [http://www.bangor.ac.uk/cs/listcourses.php.en?view=course&prospectustype=undergraduate&courseid=420&subjectarea=4](http://www.bangor.ac.uk/cs/listcourses.php.en?view=course&prospectustype=undergraduate&courseid=420&subjectarea=4)
 
-## United States 
+### United States 
 
-### California 
+#### California 
 
 - University of California, Irvine
   - [http://www.eng.uci.edu/catalogue/?page=engr_9](http://www.eng.uci.edu/catalogue/?page=engr_9)
@@ -214,66 +214,66 @@ I would like to confirm each of the schools below by linking to a specific web p
 - University of California Santa Cruz Extension in Sunnyvale CA
 - Chapman University, Orange
 
-### Colorado 
+#### Colorado 
 
 - Colorado School of Mines
 - University of Northern Colorado
 
-### Connecticut 
+#### Connecticut 
 
 - Wesleyan University
 
-### Florida 
+#### Florida 
 
 - University of Florida
 - Florida Community College at Jacksonville
 
-### Georgia 
+#### Georgia 
 
 - Georgia Tech
   - [Introduction to Media Computation](http://coweb.cc.gatech.edu/cs1315)
 
-### Idaho 
+#### Idaho 
 
 - Lewis & Clark State College
 
-### Iowa 
+#### Iowa 
 
 - University of Iowa
 - Wartburg College
   - Zelle\'s school
 - Luther College
 
-### Kentucky 
+#### Kentucky 
 
 - Morehead State University
 
-### Massachusetts 
+#### Massachusetts 
 
 - Hampshire College
 - Wheaton College
   - Python is one of the languages used in COMP 131: Computing for Poets
 
-### Michigan 
+#### Michigan 
 
 - Western Michigan University
 - Kalamazoo College
 - Wayne State University, Detroit (since 2010)
 - Michigan State University, E. Lansing
 
-### Minnesota 
+#### Minnesota 
 
 - Minnesota State at Bemidji
 
-### Mississippi 
+#### Mississippi 
 
 - Mississippi College
 
-### Missouri 
+#### Missouri 
 
 - Southeast Missouri State
 
-### New York 
+#### New York 
 
 - Binghamton University
   - CS110 Computer Programming and Applications: Introduction to programming for students without any programming experience. Python is used in this course using John Zelle\'s book. Course homepage: [http://bingweb.binghamton.edu/\~cs110/](http://bingweb.binghamton.edu/~cs110/)
@@ -284,14 +284,14 @@ I would like to confirm each of the schools below by linking to a specific web p
 - New York University Polytechnic School of Engineering
   - Python (2.7) is taught in [CS1114](http://cis.poly.edu/cs1114/cs1114.html) \"Introduction to Procedural Problem Solving\"/\"Intro to Programming & Problem Solving\", the introductory programming course for majors in CS, CompE, EE/CS, Urban Sustainability, and Physics & Mathematics (combined major).
 
-### North Carolina 
+#### North Carolina 
 
 - Brunswick Community College, Supply NC
 - North Carolina State University
   - The Physics department uses it for teaching Physics for Engineers and Scientists I and II (PY 205, PY 208, more info at courses.ncsu.edu)
   - VPython is used for labs and web-based assignments. Students simulate different scenarios by writing code to create them based on the formulas used in lecture.
 
-### Ohio 
+#### Ohio 
 
 - Capital University
   - Python is used in the traditional CS1 course using John Zelle\'s book
@@ -300,11 +300,11 @@ I would like to confirm each of the schools below by linking to a specific web p
   - contact person: David Reed (dreed (at) capital.edu)
 - Kent State
 
-### Oregon 
+#### Oregon 
 
 - Mt Hood Community College
 
-### Pennsylvania 
+#### Pennsylvania 
 
 - Bryn Mawr College
 
@@ -314,22 +314,22 @@ I would like to confirm each of the schools below by linking to a specific web p
 
   - In some advanced courses as well
 
-### Utah 
+#### Utah 
 
 - Brigham Young University
   - CS 100 (Not required for CS majors)
 
-### Virginia 
+#### Virginia 
 
 - Radford University
 - Washington and Lee University
   - CS1 and CS2 using Lambert's CS1/CS2 book
 
-### Washington 
+#### Washington 
 
 - University of Washington, Tacoma
 
-# need to confirm 
+## need to confirm 
 
 - North Carolina State University
 
@@ -345,11 +345,11 @@ I would like to confirm each of the schools below by linking to a specific web p
 
 - University of Istanbul ([http://www.linuxfocus.org/Francais/October1998/article67.html](http://www.linuxfocus.org/Francais/October1998/article67.html))
 
-# Non-Profits 
+## Non-Profits 
 
 - [The Software Literacy Foundation](http://SoftwareLiteracyFoundation.org)
 
-# Books 
+## Books 
 
 - [Python Programming: An Introduction to Computer Science](http://www.fbeedle.com/99-6.html) by John Zelle. Also see John Zelle\'s [Teaching with Python](http://mcsp.wartburg.edu/zelle/python/).
 
@@ -368,11 +368,11 @@ I would like to confirm each of the schools below by linking to a specific web p
 
 - Also see [PythonBooks](../books/PythonBooks)
 
-# Other Materials 
+## Other Materials 
 
 - [Introducing Python](http://www.python.org/other/python.mov) (Quicktime video, 14 minutes long, 68MB)
 
-# Related Pages 
+## Related Pages 
 
 - [PythonInScience](http://www.thinkware.se/cgi-bin/thinki.cgi/PythonInScience "Thinki")
 

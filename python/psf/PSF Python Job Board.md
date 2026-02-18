@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Python Job Board 
+## PSF Python Job Board 
 
 This page describes the PSF Python Job Board which is run by volunteers to provide the Python community with an important resource to find jobs where they can use Python.
 
-## Job board process 
+### Job board process 
 
 Job submissions are entered into a web form, the form creates a database record which is then used for review. After approval the Django site will then list the submissions automatically.
 
@@ -31,7 +31,7 @@ Remarks:
 - Submissions which have problems could also be refined directly in the system by the submitters, provided they created it while being logged in. The review page doesn\'t show this status, though, so it\'s probably better to go with the rejection procedures for the time being.
 - Reviews by multiple persons would need to be coordinated, since the system does not provide this functionality. For the time being, it\'s better to have one person do the review.
 
-## Project organization 
+### Project organization 
 
 The job board team has decreased a lot due to the long project run time. We will launch with a small team of reviewers:
 
@@ -43,7 +43,7 @@ Issues we find are posted to the [python.org site\'s issue tracker](https://gith
 
 The job board team itself will not focus on the development anymore for the time being.
 
-## Mailing list 
+### Mailing list 
 
 The volunteers use a mailing list to coordinate:
 
@@ -59,7 +59,7 @@ Here\'s the mailing list archive:
 
 - [Python Jobs List Archive](https://mail.python.org/mailman/private/jobs/) (requires login)
 
-## Relaunch Project 
+### Relaunch Project 
 
 In the years before the relaunch, the jobs board was run by single volunteers. Since the load had increased a lo and the last volunteer, Chris Withers, had left the project, the PSF wanted to replace the jobs board with a team of volunteers using a database driven integrated jobs app.
 
@@ -67,9 +67,9 @@ From 2014 to 2015, a team of volunteers worked to relaunch the job board using a
 
 The relaunch project page is still available: [/Relaunch Project](PSF Python Job Board/Relaunch Project)
 
-## Resources 
+### Resources 
 
-### Production 
+#### Production 
 
 *Note: The jobs app used to run under the temporary URL /newjobs/ during development. This has now been changed back to /jobs/.*
 
@@ -77,7 +77,7 @@ The relaunch project page is still available: [/Relaunch Project](PSF Python Job
 
 - [Job board review panel](http://www.python.org/jobs/review/) This allows reviewing new job postings.
 
-### Staging 
+#### Staging 
 
 *Note: The jobs app used to run under the temporary URL /newjobs/ during development. This has now been changed back to /jobs/.*
 
@@ -87,13 +87,13 @@ The staging system can be used to check new developments.
 
 - [Staging system job board review panel](http://staging.python.org/jobs/review/) on the staging site.
 
-### Web site administration 
+#### Web site administration 
 
 - [Django admin interface of the python.org site](https://www.python.org/admin/)
 
 - [New site\'s issue trackers](https://github.com/python/pythondotorg/issues) If you find problems with the job app, please open tickets on this tracker.
 
-### Web site code base 
+#### Web site code base 
 
 - [Github repository of the new site](https://github.com/python/pythondotorg) (includes the jobs app)
 

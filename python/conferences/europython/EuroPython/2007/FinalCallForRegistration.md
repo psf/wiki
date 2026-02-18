@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007 - final week of online registration! 
+## EuroPython 2007 - final week of online registration! 
 
 The final week of [EuroPython](..) online registration is here, with registration via the conference Web site ending on Monday 2nd July. [EuroPython](..) 2007 will take place in Vilnius, Lithuania on Monday 9th, Tuesday 10th and Wednesday 11th July.
 

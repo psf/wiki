@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Wiki Sandkasten 
+## Wiki Sandkasten 
 
 **Hier kann nach Lust und Laune experimentiert werden - nach den vier Strichen.**
 
@@ -16,7 +16,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-## Textauszeichnung 
+### Textauszeichnung 
 
 *kursiv* **fett** `Festbreitenschriftschrift`
 
@@ -58,31 +58,31 @@ so funktioniert grösser [oder kleiner]
 :::
 ::::
 
-## Verlinken 
+### Verlinken 
 
-### Wiki 
+#### Wiki 
 
 [HilfeZumEditieren](HilfeZumEditieren) [InterWiki](http://moinmoin.wikiwikiweb.de/InterWiki "MoinMoin")
 
-### Richtung Internet 
+#### Richtung Internet 
 
 [http://moinmo.in/](http://moinmo.in/) [Python](http://www.python.org/)
 
-### E-Mail 
+#### E-Mail 
 
 [nutzer@example.com](mailto:nutzer@example.com) `<nutzer AT example DOT com>`
 
-### Verweise auf Anker 
+#### Verweise auf Anker 
 
 - [#ankername1](WikiSandkasten#ankername1)
 
 - [Anker mit Beschreibung (für den Abschnitt über Textauszeichnung)](WikiSandkasten#Textauszeichnung)
 
-### Bilder 
+#### Bilder 
 
 ![](http://c2.com/sig/wiki.gif "http://c2.com/sig/wiki.gif")
 
-## Smileys 
+### Smileys 
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") Achtung
 
@@ -102,7 +102,7 @@ so funktioniert grösser [oder kleiner]
 :::
 ::::
 
-## Listen 
+### Listen 
 
 - erstens
   1.  verschachtelt und numeriert
@@ -122,7 +122,7 @@ Blockquote:
   - zweitens
     - drittens
 
-## Tabellen 
+### Tabellen 
 
 ::: {}
   ------------------------------------------------------------------------------------------------------------------------ ---------- ---------- ---------- ----------
@@ -131,28 +131,28 @@ Blockquote:
   ------------------------------------------------------------------------------------------------------------------------ ---------- ---------- ---------- ----------
 :::
 
-## Glossar 
+### Glossar 
 
 Begriff
 :   Definition
 
-## Bilder 
+### Bilder 
 
 ![dateianhang.png](attachments/WikiSandkasten/dateianhang.png "dateianhang.png")
 
-## Zeichnungen 
+### Zeichnungen 
 
 \... sind direkt editierbar.
 
 [![test.tdraw](./WikiSandkasten.html?action=AttachFile&do=box&target=test.tdraw&member=drawing.png "test.tdraw")](attachments/WikiSandkasten/test.tdraw) [![anywikitest.adraw](./WikiSandkasten.html?action=AttachFile&do=box&target=anywikitest.adraw&member=drawing.png "anywikitest.adraw")](attachments/WikiSandkasten/anywikitest.adraw)
 
-# Überschrift 1 
+## Überschrift 1 
 
-## Überschrift 2 
+### Überschrift 2 
 
-### Überschrift 3 
+#### Überschrift 3 
 
-#### Überschrift 4 
+##### Überschrift 4 
 
 ------------------------------------------------------------------------
 

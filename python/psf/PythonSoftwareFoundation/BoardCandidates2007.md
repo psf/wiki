@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the PSF Board of Directors
+## Candidates for the PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning 23 February 2007. Their self-written summaries follow.
 
@@ -36,7 +36,7 @@ Links
 :::
 
 ::: 
-### [David Turvene](#id1)
+#### [David Turvene](#id1)
 
 The obvious questions are:
 
@@ -65,7 +65,7 @@ The obvious questions are:
 :::
 
 ::: 
-### [Andy Todd](#id2)
+#### [Andy Todd](#id2)
 
 I have been programming in Python for six years. I currently serve as the administrator of the Python database special interest group (db-sig). I write a blog at [http://halfcooked.com/blog](http://halfcooked.com/blog) where Python is one of the main topics of discussion. I have presented papers at the UK Python Conference in 2003 and the Open Source Developers Conference in 2005 and 2006.
 
@@ -73,7 +73,7 @@ I would like to serve on the board of the Python Software Foundation to give a l
 :::
 
 ::: 
-### [James Tauber](#id3)
+#### [James Tauber](#id3)
 
 - open source developer since 1993
 - Python developer since 1998
@@ -86,7 +86,7 @@ I would like to serve on the board of the Python Software Foundation to give a l
 :::
 
 ::: 
-### [Mark Summerfield](#id4)
+#### [Mark Summerfield](#id4)
 
 I am an independent trainer, consultant, and technical editor and writer, specializing in C++, Qt, and Python. I write the tools to support my everyday work in Python (and PyQt), and consider Python to be the most productive and enjoyable language I have ever used.
 
@@ -98,13 +98,13 @@ I think that I would be useful to the PSF and am open-minded about how I contrib
 :::
 
 ::: 
-### [Tim Peters](#id5)
+#### [Tim Peters](#id5)
 
 A vote for me is a vote for the status quo :-) \-- I\'ve been doing Python since 1991, and have served on the PSF Board since its start. I\'d like to continue, if only to provide historical perspective and to represent developers\' views. No grand visions here, just a wish to continue steady (albeit snail-like) spare-time progress.
 :::
 
 ::: 
-### [Martin von Löwis](#id6)
+#### [Martin von Löwis](#id6)
 
 I have been contributing to Python for a decade now; for the last few years, I also contributed to organizing activities in the Python community:
 
@@ -117,7 +117,7 @@ If I get re-elected to the board, I would like to concentrate on the licensing i
 :::
 
 ::: 
-### [Andrew Kuchling](#id7)
+#### [Andrew Kuchling](#id7)
 
 I have been participating in the Python community since 1994, when I picked up the language for a class project and ended up giving a short talk at the Third Python Workshop the following year. For the past two years, I\'ve been co-chairing the PyCon organizing committee.
 
@@ -132,7 +132,7 @@ This year\'s PyCon will be my last; the conference will be taken over by a new c
 :::
 
 ::: 
-### [Steve Holden](#id8)
+#### [Steve Holden](#id8)
 
 I\'ve had an interest in object-oriented programming since 1973, and have been a Python user since version 1.5. Python seemed such a natural way to express OO designs that I adopted it enthusiastically, and eventually wrote \"Python Web Programming\".
 
@@ -142,7 +142,7 @@ As the Board grows it would be nice to take an ambassadorial role and help to ex
 :::
 
 ::: 
-### [David Goodger](#id9)
+#### [David Goodger](#id9)
 
 I first learned Python in 1998 and immediately became an enthusiastic Pythonista. The Python community has become very important to me. That\'s why I became a PEP editor and started helping out with the web site. I was elected as a member of the PSF in 2003, began helping out with PyCon in 2004, then got involved with the Board of Directors, first as Assistant Secretary in 2005 and as a Director and Secretary in 2006.
 
@@ -174,7 +174,7 @@ As a Director, these are some of the things I would like to accomplish and see a
 :::
 
 ::: 
-### [Stephan Deibel](#id10)
+#### [Stephan Deibel](#id10)
 
 A little about me:
 
@@ -242,7 +242,7 @@ I live in Cambridge NY, a rural town in upstate NY where \"pie ala mode\" was in
 :::
 
 ::: 
-### [Brett Cannon](#id11)
+#### [Brett Cannon](#id11)
 
 I was elected to the PSF membership during the first PyCon in 2003. Shortly after that I become a committer on Python itself. Over the years I have made various contributions to the Python community, the largest of which was writing the python-dev Summaries for over two and a half years.
 
@@ -250,7 +250,7 @@ At PyCon 2006 I joined the PSF board. I was also elected chairman of the Infrast
 :::
 
 ::: 
-### [David Ascher](#id12)
+#### [David Ascher](#id12)
 
 My, people write a lot about themselves here. All right, for those who don\'t know me, I\'m a father of two, with an interest in baking the perfect lemon tart and on a quest for the best French baguette in Vancouver. More relevant perhaps:
 

@@ -34,7 +34,7 @@ The following birds-of-a-feather sessions are planned for [PyCon2006]():
 
 Schedule information will be added to this page before the conference begins.
 
-# PSF Grants 
+## PSF Grants 
 
 Find out about the three projects the PSF has funded, and learn how to apply.
 
@@ -44,7 +44,7 @@ Find out about the three projects the PSF has funded, and learn how to apply.
   - The PSF\'s decision process
   - Tips on what the PSF is looking for
 
-# Google\'s Summer of Code 
+## Google\'s Summer of Code 
 
 Google\'s Summer of Code initiative, which funded students to work on free software, attracted a lot of attention in 2005. The PSF selected 19 Python-related projects for funding. Come to this panel to find out how things went and how to get involved next year.
 
@@ -53,7 +53,7 @@ Google\'s Summer of Code initiative, which funded students to work on free softw
 - How to help next year?
 - How to apply next year?
 
-# Python AST BOF 
+## Python AST BOF 
 
 The Python bytecode compiler will sport a new abstract syntax in Python 2.5. The AST will provide an interface between the interpreter and Python programs, which can inspect or modify the AST. The purpose of the BOF is to discuss uses of the AST and to define APIs for sharing the AST between Python and C.
 

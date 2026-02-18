@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Why? 
+## Why? 
 
 **Note:** Much of this has been done. See [PythonWebsite](../infrastructure/PythonWebsite) for ongoing work on content and tools for the python.org website.
 
@@ -14,7 +14,7 @@ During [PyCon](../conferences/pycon/PyCon) 2003 the need to make changes to pyth
 
 The overhaul is taking place in (at least) two phases, as detailed below. The phases are not set in stone, items can and should be moved around as necessary.
 
-## Phase 1 
+### Phase 1 
 
 Primary goal is to quickly improve the site\'s basic usability:
 
@@ -24,7 +24,7 @@ Primary goal is to quickly improve the site\'s basic usability:
 - Fix the egregiously bad/outdated parts (the FAQ) (done)
 - Simplified search on front page (done)
 
-## Phase 2 
+### Phase 2 
 
 Currently, it is largely unknown what will happen during this phase but here are some possibilities:
 
@@ -32,7 +32,7 @@ Currently, it is largely unknown what will happen during this phase but here are
 - Content management to reduce the load on the webmasters. (Site mirroring needs to be seriously considered.)
 - User comments for documentation.
 
-# Home Page Mockups 
+## Home Page Mockups 
 
 - Mockups from Pollenation [A web design & development company from Yorkshire, the spiritual home of \'Monty Python\', allegedly](http://pollenation.net)
 
@@ -81,7 +81,7 @@ Currently, it is largely unknown what will happen during this phase but here are
 
   - [Walters converted from source](http://styx.livinglogic.de/~walter/www.python.org-converted/)
 
-# Home Page must haves 
+## Home Page must haves 
 
 Feel free to expand this, I just want to get down my priorities. Based on the stats, feedback at OSCON, and my own usage of python.org. The home page has a few very clear usage scenarios.
 
@@ -91,7 +91,7 @@ Feel free to expand this, I just want to get down my priorities. Based on the st
 - Related to documentation is the need to search the current documentation and/or site
 - Then there are a whole host of other things to do
 
-# Other home pages for consideration 
+## Other home pages for consideration 
 
 - [http://www.perl.org/](http://www.perl.org/)
 
@@ -103,21 +103,21 @@ Feel free to expand this, I just want to get down my priorities. Based on the st
 
 - [http://www.apache.org/](http://www.apache.org/)
 
-# Mailing List 
+## Mailing List 
 
 - [http://mail.python.org/mailman/listinfo/pydotorg-redesign](http://mail.python.org/mailman/listinfo/pydotorg-redesign)
 
-# IRC session 
+## IRC session 
 
 An IRC session took place between 18:00 and 17:30. Logs available here :[html formatted](http://www.pollenation.net/assets/public/pydotorg-redesign/irclog210703.html) [raw](http://www.pollenation.net/assets/public/pydotorg-redesign/irclog210703.txt) In attendence were Kevin Altis, Tim Parkin, Matt Goodall, and Fred Drake.
 
 Latest IRC Session jun 2004 [psfprc](http://www.pollenation.net/assets/public/pydotorg-redesign/FreeNode-psfprc.log)
 
-# Python logo images 
+## Python logo images 
 
 - [All images](http://pythoncard.sourceforge.net/images/just_python.png)
 
-# Other tasks 
+## Other tasks 
 
 - Getting rid of PSA stuff and moving still-valid info to other parts of the site.
   - (Done \-- see [http://www.python.org/community/](http://www.python.org/community/) . Must now update links.\]
@@ -132,7 +132,7 @@ Latest IRC Session jun 2004 [psfprc](http://www.pollenation.net/assets/public/py
 
 - Implement a well-formedness checker for [HT2HTML](http://ht2html.sourceforge.net/), to help support well-formed XHTML on the site (Fred Drake volunteers). A simple version of this now exists and can be accessed via **make wfcheck** in a pydotorg checkout, but the output isn\'t as helpful as it could be. Most pages don\'t pass the check.
 
-# Comments 
+## Comments 
 
 How about simply upgrading the python.org wiki and making more use of it?
 

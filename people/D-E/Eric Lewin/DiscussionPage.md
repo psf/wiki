@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Discussion page, welcome 
+## Discussion page, welcome 
 
 *If you want to drop me a message, edit this page, and put it just below this short intro message (therefore, messages in reverse time order). Don\'t forget to sign and date it \-- Merci beaucoup pour votre intérêt !*
 
 ------------------------------------------------------------------------
 
-### Just an exemple 
+#### Just an exemple 
 
 Welcome ! and blablabla\... ![:-)](/wiki/europython/img/smile.png ":-)")
 

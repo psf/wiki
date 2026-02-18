@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the 2012 PSF Board of Directors
+## Candidates for the 2012 PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning in March 2012. Their self-written summaries follow.
 
@@ -40,7 +40,7 @@ Links
 :::
 
 ::: 
-### [Steve Holden](#id4)
+#### [Steve Holden](#id4)
 
 *2011 Board Member.*
 
@@ -48,7 +48,7 @@ I have been a board member since 2004, and the board has elected me as chairman 
 :::
 
 ::: 
-### [Van Lindberg](#id5)
+#### [Van Lindberg](#id5)
 
 *New Board Member.*
 
@@ -56,7 +56,7 @@ I have been a board member since 2004, and the board has elected me as chairman 
 :::
 
 ::: 
-### [Tim Peters](#id6)
+#### [Tim Peters](#id6)
 
 *2011 Board Member.*
 
@@ -64,7 +64,7 @@ I\'m again running under the banner of the venerable Institutional Memory Party 
 :::
 
 ::: 
-### [Marc-Andre Lemburg](#id7)
+#### [Marc-Andre Lemburg](#id7)
 
 *2011 Board Member.*
 
@@ -106,7 +106,7 @@ I\'d like to continue with the work started in 2010 and look forward to another 
 :::
 
 ::: 
-### [Martin v. Löwis](#id8)
+#### [Martin v. Löwis](#id8)
 
 *2011 Board Member*
 
@@ -114,7 +114,7 @@ I will continue to work on PSF infrastructure issues, and represent the views of
 :::
 
 ::: 
-### [Jessica McKellar](#id9)
+#### [Jessica McKellar](#id9)
 
 *New Board Member.*
 
@@ -140,7 +140,7 @@ She is a maintainer for the [Twisted](http://twistedmatrix.com) and [OpenHatch](
 :::
 
 ::: 
-### [Jesse Noller](#id10)
+#### [Jesse Noller](#id10)
 
 *2011 Board Member.*
 
@@ -153,7 +153,7 @@ She is a maintainer for the [Twisted](http://twistedmatrix.com) and [OpenHatch](
 :::
 
 ::: 
-### [David Mertz](#id11)
+#### [David Mertz](#id11)
 
 *2011 Board Member.*
 
@@ -169,7 +169,7 @@ She is a maintainer for the [Twisted](http://twistedmatrix.com) and [OpenHatch](
 :::
 
 ::: 
-### [Daniel Greenfeld](#id12)
+#### [Daniel Greenfeld](#id12)
 
 *New Board Member.*
 
@@ -197,7 +197,7 @@ Perhaps the greatest compliment I can give to Danny is this: we don\'t always ag
 ------------------------------------------------------------------------
 
 ::: 
-### [Andrew Kuchling](#id13)
+#### [Andrew Kuchling](#id13)
 
 *New Board Member.*
 
@@ -209,7 +209,7 @@ I\'m very pleased with the PSF\'s increased activity level for the past two year
 ------------------------------------------------------------------------
 
 ::: 
-### [Doug Napoleone](#id14)
+#### [Doug Napoleone](#id14)
 
 *2011 Board Member.*
 
@@ -224,7 +224,7 @@ I am very pleased with the more active role the Board and the PSF in general has
 ------------------------------------------------------------------------
 
 ::: 
-### [Brian Curtin](#id15)
+#### [Brian Curtin](#id15)
 
 *New Board Member*
 

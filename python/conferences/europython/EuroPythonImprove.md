@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython Improvements 
+## EuroPython Improvements 
 
 This page is a collection of links to pages about improving the [EuroPython](EuroPython) conference, notably how it is organised as well as the general experience.
 

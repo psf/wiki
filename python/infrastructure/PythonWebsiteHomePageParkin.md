@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Home Page 
+## Home Page 
 
 Left sidebar:
 
@@ -36,7 +36,7 @@ Secondary Pages (ABOUT section?)
 - Books
 - Packages? (could be imported from a publicly editable wiki page)
 
-# Attachments 
+## Attachments 
 
 - [http://psf.pollenation.net/cgi-bin/trac.cgi/attachment/wiki/HomePage/tparkin/python-hompage-ideas-export.png](http://psf.pollenation.net/cgi-bin/trac.cgi/attachment/wiki/HomePage/tparkin/python-hompage-ideas-export.png)
 

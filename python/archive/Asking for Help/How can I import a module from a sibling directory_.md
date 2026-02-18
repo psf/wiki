@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: How can I import a module from a sibling directory? 
+## Asking for Help: How can I import a module from a sibling directory? 
 
 I am new to Python from Java background, I have following structure
 

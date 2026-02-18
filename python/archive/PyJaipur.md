@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyJaipur 
+## PyJaipur 
 
 PyJaipur is a local user group for Jaipur, India people. PyJaipur was founded by Shivank Gautam and Pratul Kumar and they conducted their first Monthly Meetup on June-17 2018. We mostly include students and professionals who love to code in Python. We believe in endorsing Python and OSS/FOSS. Below is the list of some notable contributors to the community.
 

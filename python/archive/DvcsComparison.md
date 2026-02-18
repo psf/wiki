@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Terminology 
+## Terminology 
 
 Agreeing on a common terminology is surprisingly difficult, primarily because each VCS uses these terms when describing subtly different tasks, objects, and concepts. Where possible, we try to provide a generic definition of the concepts, but you should consult the individual system\'s glossaries for details. Here are some basic references for terminology, from some of the standard web-based references on each VCS. You can also refer to glossaries for each DVCS:
 
@@ -62,7 +62,7 @@ rebase
 
 - To \"detach\" a branch, and move it to a new branch point; move commits to the beginning of a branch instead of where they happened in time.
 
-# Typical Workflow 
+## Typical Workflow 
 
 At the moment, the typical workflow for a Python core developer is:
 
@@ -80,7 +80,7 @@ A DVCS would lead to a workflow more like this:
 
 While there are more possible steps, the workflow is much more independent of the master repository than is currently possible. By being able to commit locally at the speed of your disk, a core developer is able to do atomic commits much more frequently, minimizing having commits that do multiple things to the code. Also by using a branch, the changes are isolated (if desired) from other changes being made by other developers. Because branches are cheap, it is easy to create and maintain many smaller branches that address one specific issue, e.g. one bug or one new feature. More sophisticated features of DVCSs allow the developer to more easily track long running development branches as the official mainline progresses.
 
-# Contenders 
+## Contenders 
 
 ::: {}
   ------------------------------------------------------- ------------ --------- ----------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
@@ -93,11 +93,11 @@ While there are more possible steps, the workflow is much more independent of th
 
 This PEP does not consider darcs, arch, or monotone. The main problem with these DVCSs is that they are simply not popular enough to bother supporting when they do not provide some very compelling features that the other DVCSs provide. Arch and darcs also have significant performance problems which seem unlikely to be addressed in the near future.
 
-# Interoperability 
+## Interoperability 
 
 For those who have already decided which DVCSs they want to use, and are willing to maintain local mirrors themselves, all three DVCSs support interchange via the git \"fast-import\" changeset format. git does so natively, of course, and native support for Bazaar is under active development, and getting good early reviews as of mid-February 2009. Mercurial has idiosyncratic support for importing via its \*hg convert\* command, and [third-party fast-import support](http://repo.or.cz/r/fast-export.git/.git/description) is available for exporting. Also, the [Tailor](http://progetti.arstecnica.it/tailor/) tool supports automatic maintenance of mirrors based on an official repository in any of the candidate formats with a local mirror in any format.
 
-# Usage Scenarios 
+## Usage Scenarios 
 
 Probably the best way to help decide on whether/which DVCS should replace Subversion is to see what it takes to perform some real-world usage scenarios that developers (core and non-core) have to work with. Each usage scenario outlines what it is, a bullet list of what the basic steps are (which can vary slightly per VCS), and how to perform the usage scenario in the various VCSs (including Subversion).
 
@@ -108,7 +108,7 @@ Each VCS had a single author in charge of writing implementations for each scena
 - hg: Alexandre
 - git: Stephen
 
-## Initial Setup 
+### Initial Setup 
 
 Some DVCSs have some perks if you do some initial setup upfront. This section covers what can be done before any of the usage scenarios are run in order to take better advantage of the tools.
 
@@ -118,11 +118,11 @@ All of the DVCSs will query the system to get some approximation to this informa
 
 Some VCSs support end-of-line (EOL) conversions on checkout/checkin.
 
-### svn
+#### svn
 
 None required, but it is recommended you follow the `guidelines <http://www.python.org/dev/faq/#what-configuration-settings-should-i-use>`{.backtick}\_ in the dev FAQ.
 
-### bzr
+#### bzr
 
 No setup is required, but for much quicker and space-efficient local branching, you should create a shared repository to hold all your Python branches. A shared repository is really just a parent directory containing a .bzr directory. When bzr commits a revision, it searches from the local directory on up the file system for a .bzr directory to hold the revision. By sharing revisions across multiple branches, you cut down on the amount of disk space used. Do this:
 
@@ -140,7 +140,7 @@ At a minimum, I would set up your email address:
 
 As with hg and git below, there are ways to set your email address (or really, just about any parameter) on a per-repository basis. You do this with settings in your \$HOME/.bazaar/locations.conf file, which has an ini-style format as does the other DVCSs. See the Bazaar documentation for details, which mostly aren\'t relevant for this discussion.
 
-### hg
+#### hg
 
 Minimally, you should set your user name. To do so, create the file .hgrc in your home directory and add the following:
 
@@ -154,7 +154,7 @@ If you are using Windows and your tools do not support Unix-style newlines, you 
 
 These options can also be set locally to a given repository by customizing \<repo\>/.hg/hgrc, instead of \~/.hgrc.
 
-### git
+#### git
 
 None needed. However, git supports a number of features that can smooth your work, with a little preparation. git supports setting defaults at the workspace, user, and system levels. The system level is out of scope of this PEP. The user configuration file is \$HOME/.gitconfig on Unix-like systems, and the workspace configuration file is \$REPOSITORY/.git/config.
 
@@ -189,7 +189,7 @@ Although the repository will usually contain a .gitignore file specifying file n
 
 If you use multiple branches, as with the other VCSes, you can save a lot of space by putting all objects in a common object store. This also can save download time, if the origins of the branches were in different repositories, because objects are shared across branches in your repository even if they were not present in the upstream repositories. git is very space- and time-efficient and applies a number of optimizations automatically, so this configuration is optional. (Examples are omitted.)
 
-## One-Off Checkout 
+### One-Off Checkout 
 
 As a non-core developer, I want to create and publish a one-off patch that fixes a bug, so that a core developer can review it for inclusion in the mainline.
 
@@ -199,7 +199,7 @@ As a non-core developer, I want to create and publish a one-off patch that fixes
 - Receive reviewer comments and address the issues.
 - Generate a second patch for the core developer to commit.
 
-### svn
+#### svn
 
       svn checkout http://svn.python.org/projects/python/trunk
       cd trunk
@@ -217,7 +217,7 @@ As a non-core developer, I want to create and publish a one-off patch that fixes
       svn diff >> patch-2.diff
       # Upload patch-2 to bugs.python.org
 
-### bzr
+#### bzr
 
       bzr branch http://code.python.org/python/trunk
       cd trunk
@@ -233,7 +233,7 @@ As a non-core developer, I want to create and publish a one-off patch that fixes
 
 The bundle file is like a super-patch. It can be read by patch(1) but it contains additional metadata so that it can be fed to bzr merge to produce a fully usable branch completely with history. See `Patch Review`{.backtick}\_ section below.
 
-### hg
+#### hg
 
       hg clone http://code.python.org/hg/trunk
       cd trunk
@@ -249,7 +249,7 @@ The bundle file is like a super-patch. It can be read by patch(1) but it contain
 
 While hg outgoing does not have the flag for it, most Mercurial commands support git\'s extended patch format through a \--git command. This can be set in one\'s .hgrc file so that all commands that generate a patch use the extended format.
 
-### git
+#### git
 
 The patches could be created with git diff master \> stuff-i-did.patch, too, but git format-patch \| git am knows some tricks (empty files, renames, etc) that ordinary patch can\'t handle. git grabs \"Stuff I did\" out of the the commit message to create the file name 0001-Stuff-I-did.patch. See Patch Review below for a description of the git-format-patch format.
 
@@ -269,21 +269,21 @@ The patches could be created with git diff master \> stuff-i-did.patch, too, but
       git format-patch stuff-v1
       # Upload 0001-Address-reviewer-comments.patch to bugs.python.org.
 
-## Backing Out Changes 
+### Backing Out Changes 
 
 As a core developer, I want to undo a change that was not ready for inclusion in the mainline.
 
 - Back out the unwanted change.
 - Push patch to server.
 
-### svn
+#### svn
 
       # Assume the change to revert is in revision 40
       svn merge -c -40 .
       # Resolve conflicts, if any.
       svn commit -m "Reverted revision 40"
 
-### bzr
+#### bzr
 
       # Assume the change to revert is in revision 40
       bzr merge -r 40..39
@@ -292,7 +292,7 @@ As a core developer, I want to undo a change that was not ready for inclusion in
 
 Note that if the change you want revert is the last one that was made, you can just use bzr uncommit.
 
-### hg
+#### hg
 
       # Assume the change to revert is in revision 9150dd9c6d30
       hg backout --merge -r 9150dd9c6d30
@@ -302,7 +302,7 @@ Note that if the change you want revert is the last one that was made, you can j
 
 Note, you can use \"hg rollback\" and \"hg strip\" to revert changes you committed in your local repository, but did not yet push to other repositories.
 
-### git
+#### git
 
       # Assume the change to revert is the grandfather of a revision tagged "newhotness".
       git revert newhotness~2
@@ -311,7 +311,7 @@ Note, you can use \"hg rollback\" and \"hg strip\" to revert changes you committ
       git commit -m "Reverted changeset 9150dd9c6d30."
       git push
 
-## Patch Review 
+### Patch Review 
 
 As a core developer, I want to review patches submitted by other people, so that I can make sure that only approved changes are added to Python.
 
@@ -322,7 +322,7 @@ Core developers have to review patches as submitted by other people. This requir
 - Push patch to server.
 - Delete now-useless branch.
 
-### svn
+#### svn
 
 Subversion does not exactly fit into this development style very well as there are no such thing as a \"branch\" as has been defined in this PEP. Instead a developer either needs to create another checkout for testing a patch or create a branch on the server. Up to this point, core developers have not taken the \"branch on the server\" approach to dealing with individual patches. For this scenario the assumption will be the developer creates a local checkout of the trunk to work with.
 
@@ -336,7 +336,7 @@ Subversion does not exactly fit into this development style very well as there a
 
 Another option is to only have a single checkout running at any one time and use svn diff along with svn revert -R to store away independent changes you may have made.
 
-### bzr
+#### bzr
 
         bzr branch trunk issueNNNN
         # Download `patch` bundle from Roundup
@@ -355,7 +355,7 @@ Alternatively, since you\'re probably going to commit these changes to the trunk
         bzr commit -m'Patch NNNN by So N. So' --fixes python:NNNN
         rm -rf ../issueNNNN
 
-### hg
+#### hg
 
         hg clone trunk issue0000
         cd issue0000
@@ -367,7 +367,7 @@ Alternatively, since you\'re probably going to commit these changes to the trunk
         # Review patch.
         hg push ssh://alexandre@code.python.org/hg/trunk/
 
-### git
+#### git
 
 We assume a patch created by git-format-patch. This is a Unix mbox file containing one or more patches, each formatted as an RFC 2822 message. git-am interprets each message as a commit as follows. The author of the patch is taken from the From: header, the date from the Date header. The commit log is created by concatenating the content of the subject line, a blank line, and the message body up to the start of the patch.::
 
@@ -384,13 +384,13 @@ We assume a patch created by git-format-patch. This is a Unix mbox file containi
         git merge patch-review
         git push
 
-## Backport 
+### Backport 
 
 As a core developer, I want to apply a patch to 2.6, 2.7, 3.0, and 3.1 so that I can fix a problem in all three versions.
 
 Thanks to always having the cutting-edge and the latest release version under development, Python currently has four branches being worked on simultaneously. That makes it important for a change to propagate easily through various branches.
 
-### svn
+#### svn
 
 Because of Python\'s use of svnmerge, changes start with the trunk (2.7) and then get merged to the release version of 2.6. To get the change into the 3.x series, the change is merged into 3.1, fixed up, and then merged into 3.0 (2.7 -\> 2.6; 2.7 -\> 3.1 -\> 3.0).
 
@@ -410,7 +410,7 @@ This is in contrast to a port-forward strategy where the patch would have been a
         svnmerge merge -r 0002
         svn commit -F svnmerge-commit-message.txt  # revision 0003.
 
-### bzr
+#### bzr
 
 Bazaar is pretty straightforward here, since it supports cherry picking revisions manually. In the example below, we could have given a revision id instead of a revision number, but that\'s usually not necessary. Martin Pool suggests \"We\'d generally recommend doing the fix first in the oldest supported branch, and then merging it forward to the later releases.\"::
 
@@ -427,7 +427,7 @@ Bazaar is pretty straightforward here, since it supports cherry picking revision
         bzr commit -m 'Forward port patch NNNN'
         bzr push bzr+ssh://me@code.python.org/py3k
 
-### hg
+#### hg
 
 Mercurial, like other DVCS, does not well support the current workflow used by Python core developers to backport patches. Right now, bug fixes are first applied to the development mainline (i.e., trunk), then back-ported to the maintenance branches and forward-ported, as necessary, to the py3k branch. This workflow requires the ability to cherry-pick individual changes. Mercurial\'s transplant extension provides this ability. Here is an example of the scenario using this workflow::
 
@@ -465,7 +465,7 @@ Alternatively to the traditional workflow, we could avoid transplanting changese
 
 Although this approach makes the history non-linear and slightly more difficult to follow, it encourages fixing bugs across all supported releases. Furthermore, it scales better when there is many changes to backport, because we do not need to seek the specific revision IDs to merge.
 
-### git
+#### git
 
 In git I would have a workspace which contains all of the relevant master repository branches. git cherry-pick doesn\'t work across repositories; you need to have the branches in the same repository.
 
@@ -499,7 +499,7 @@ If you are regularly merging (rather than cherry-picking) from a given branch, t
         # Propagate the merge and the prohibition to the public repository.
         git push
 
-## Coordinated Development of a New Feature 
+### Coordinated Development of a New Feature 
 
 Sometimes core developers end up working on a major feature with several developers. As a core developer, I want to be able to publish feature branches to a common public location so that I can collaborate with other developers.
 
@@ -512,7 +512,7 @@ For non-core developers, there are various more-or-less public-access repository
 - Pull from trunk.
 - Push merge to trunk.
 
-### svn
+#### svn
 
         # Create branch.
         svn copy svn+ssh://pythondev@svn.python.org/python/trunk svn+ssh://pythondev@svn.python.org/python/branches/NewHotness
@@ -526,19 +526,19 @@ For non-core developers, there are various more-or-less public-access repository
         svnmerge merge
         svn commit -F svnmerge-commit-message.txt
 
-### bzr
+#### bzr
 
         XXX To be done by Brett as a test of knowledge and online documentation/community.
 
-### hg
+#### hg
 
         XXX To be done by Brett as a test of knowledge and online documentation/community.
 
-### git
+#### git
 
         XXX To be done by Brett as a test of knowledge and online documentation/community.
 
-## Separation of Issue Dependencies 
+### Separation of Issue Dependencies 
 
 Sometimes, while working on an issue, it becomes apparent that the problem being worked on is actually a compound issue of various smaller issues. Being able to take the current work and then begin working on a separate issue is very helpful to separate out issues into individual units of work instead of compounding them into a single, large unit.
 
@@ -551,7 +551,7 @@ Sometimes, while working on an issue, it becomes apparent that the problem being
 - Commit branch A.
 - Clean up.
 
-### svn
+#### svn
 
 To make up for svn\'s lack of cheap branching, it has a changelist option to associate a file with a single changelist. This is not as powerful as being able to associate at the commit level. There is also no way to express dependencies between changelists.
 
@@ -569,7 +569,7 @@ To make up for svn\'s lack of cheap branching, it has a changelist option to ass
         cd ..
         rm -rf issue0000
 
-### bzr
+#### bzr
 
 Here\'s an approach that uses bzr shelf (now a standard part of bzr) to squirrel away some changes temporarily while you take a detour to fix the socket bugs.
 
@@ -618,7 +618,7 @@ For bonus points, let\'s say someone else fixes the socket module in exactly the
         bzr commit -m 'Merge trunk'
         # Now our top-thread has an up-to-date trunk and just the urllib fix.
 
-### hg
+#### hg
 
 One approach is to use the shelve extension; this extension is not included with Mercurial, but it is easy to install. With shelve, you can select changes to put temporarily aside.
 
@@ -640,7 +640,7 @@ One approach is to use the shelve extension; this extension is not included with
 
 Several other way to approach this scenario with Mercurial. Alexander Solovyov presented a few [alternative approaches](http://selenic.com/pipermail/mercurial/2009-January/023710.html) on Mercurial\'s mailing list.
 
-### git
+#### git
 
         cd trunk
         # Edit some code in urllib.
@@ -672,25 +672,25 @@ Suppose we\'re not so lucky:
 
 Like Bazaar and Mercurial, git has extensions to manage stacks of patches. You can use the original Quilt by Andrew Morton, or there is [StGit](./StGit.html) (\"stacked git\") which integrates patch-tracking for large sets of patches into the VCS in a way similar to Mercurial Queues or Bazaar looms.
 
-## Doing a Python Release 
+### Doing a Python Release 
 
 How does PEP 101 change when using a DVCS?
 
-### bzr
+#### bzr
 
 It will change, but not substantially so. When doing the maintenance branch, we\'ll just push to the new location instead of doing an svn cp. Tags are totally different, since in svn they are directory copies, but in bzr (and I\'m guessing hg), they are just symbolic names for revisions on a particular branch. The release.py script will have to change to use bzr commands instead. It\'s possible that because DVCS (in particular, bzr) does cherry picking and merging well enough that we\'ll be able to create the maint branches sooner. It would be a useful exercise to try to do a release off the bzr/hg mirrors.
 
-### hg
+#### hg
 
 Clearly, details specific to Subversion in PEP 101 and in the release script will need to be updated. In particular, release tagging and maintenance branches creation process will have to be modified to use Mercurial\'s features; this will simplify and streamline certain aspects of the release process. For example, tagging and re-tagging a release will become a trivial operation since a tag, in Mercurial, is simply a symbolic name for a given revision.
 
-### git
+#### git
 
 It will change, but not substantially so. When doing the maintenance branch, we\'ll just git push to the new location instead of doing an svn cp. Tags are totally different, since in svn they are directory copies, but in git they are just symbolic names for revisions, as are branches. (The difference between a tag and a branch is that tags refer to a particular commit, and will never change unless you use git tag -f to force them to move. The checked-out branch, on the other hand, is automatically updated by git commit.) The release.py script will have to change to use git commands instead. With git I would create a (local) maintenance branch as soon as the release engineer is chosen. Then I\'d \"git pull\" until I didn\'t like a patch, when it would be \"git pull; git revert ugly-patch\", until it started to look like the sensible thing is to fork off, and start doing \"git cherry-pick\" on the good patches.
 
-# Platform/Tool Support 
+## Platform/Tool Support 
 
-## Operating Systems 
+### Operating Systems 
 
 ::: {}
   ------ ----------------------------------------- -------------------------------------------------------------------------------- -------------------------------
@@ -705,7 +705,7 @@ As the above table shows, all three DVCSs are available on all three major OS pl
 
 Bazaar and Mercurial also has the benefit of being available in pure Python with optional extensions available for performance.
 
-## CRLF -\> LF Support 
+### CRLF -\> LF Support 
 
 bzr
 
@@ -719,7 +719,7 @@ git
 
 - I can\'t say from personal experience, but it looks like there\'s pretty good support via the core.autocrlf and core.safecrlf configuration attributes.
 
-## Case-insensitive filesystem support 
+### Case-insensitive filesystem support 
 
 bzr
 
@@ -735,7 +735,7 @@ git
 
 - Since OS X preserves case, you can do case changes there too. git does not have a problem with renames in either direction. However, case-insensitive filesystem support is usually taken to mean complaining about collisions on case-sensitive files systems. git does not do that.
 
-## Tools 
+### Tools 
 
 In terms of code review tools such as [Review Board](http://www.review-board.org/) and [Rietveld](http://code.google.com/p/rietveld/), the former supports all three while the latter supports hg and git but not bzr. Bazaar does not yet have an online review board, but it has several ways to manage email based reviews and trunk merging. There\'s [Bundle Buggy](http://code.aaronbentley.com/bundlebuggy/), [Patch Queue Manager](http://bazaar-vcs.org/PatchQueueManager) (PQM), and [Launchpad\'s code reviews](https://launchpad.net/+tour/code-review).
 
@@ -743,7 +743,7 @@ All three have some web site online that provides basic hosting support for peop
 
 All three also [appear to be supported by Buildbot](http://buildbot.net/repos/release/docs/buildbot.html#How-Different-VC-Systems-Specify-Sources).
 
-# Usage On Top Of Subversion 
+## Usage On Top Of Subversion 
 
 ::: {}
   ------ --------------------------------------------------------------------------------------------------------
@@ -756,7 +756,7 @@ All three also [appear to be supported by Buildbot](http://buildbot.net/repos/re
 
 All three DVCSs have svn support, although git is the only one to come with that support out-of-the-box.
 
-# Server Support 
+## Server Support 
 
 ::: {}
   ------ ------------------------------------------------------------------------------------
@@ -769,31 +769,31 @@ All three DVCSs have svn support, although git is the only one to come with that
 
 All three DVCSs support various hooks on the client and server side for e.g. pre/post-commit verifications.
 
-# Development 
+## Development 
 
 All three projects are under active development. Git seems to be on a monthly release schedule. Bazaar is on a time-released monthly schedule. Mercurial is on a 3-month, timed release schedule.
 
-# Special Features 
+## Special Features 
 
-## bzr
+### bzr
 
 Martin Pool adds: \"bzr has a stable Python scripting interface, with a distinction between public and private interfaces and a deprecation window for APIs that are changing. Some plugins are listed in [https://edge.launchpad.net/bazaar](https://edge.launchpad.net/bazaar) and [http://bazaar-vcs.org/Documentation](http://bazaar-vcs.org/Documentation)\".
 
-## hg
+### hg
 
 Alexander Solovyov comments:
 
 - Mercurial has easy to use extensive API with hooks for main events and ability to extend commands. Also there is the mq (mercurial queues) extension, distributed with Mercurial, which simplifies work with patches.
 
-## git
+### git
 
 git has a cvsserver mode, ie, you can check out a tree from git using CVS. You can even commit to the tree, but features like merging are absent, and branches are handled as CVS modules, which is likely to shock a veteran CVS user.
 
-# Tests/Impressions 
+## Tests/Impressions 
 
 As I (Brett Cannon) am left with the task of of making the final decision of which/any DVCS to go with and not my co-authors, I felt it only fair to write down what tests I ran and my impressions as I evaluate the various tools so as to be as transparent as possible.
 
-## Barrier to Entry 
+### Barrier to Entry 
 
 The amount of time and effort it takes to get a checkout of Python\'s repository is critical. If the difficulty or time is too great then a person wishing to contribute to Python may very well give up. That cannot be allowed to happen.
 
@@ -811,7 +811,7 @@ I measured the checking out of the 2.x trunk as if I was a non-core developer. T
 
 When comparing these numbers to svn, it is important to realize that it is not a 1:1 comparison. Svn does not pull down the entire revision history like all of the DVCSs do. That means svn can perform an initial checkout much faster than the DVCS purely based on the fact that it has less information to download for the network.
 
-## Performance of basic information functionality 
+### Performance of basic information functionality 
 
 To see how the tools did for performing a command that required querying the history, the log for the README file was timed.
 
@@ -821,7 +821,7 @@ To see how the tools did for performing a command that required querying the his
 
 One thing of note during this test was that git took longer than the other three tools to figure out how to get the log without it using a pager. While the pager use is a nice touch in general, not having it automatically turn on took some time (turns out the main git command has a \--no-pager flag to disable use of the pager).
 
-## Figuring out what command to use from built-in help 
+### Figuring out what command to use from built-in help 
 
 I ended up trying to find out what the command was to see what URL the repository was cloned from. To do this I used nothing more than the help provided by the tool itself or its man pages.
 
@@ -831,7 +831,7 @@ Git was the second easiest. The command git help didn\'t show much and did not h
 
 For hg, I never found the information I wanted on my own. It turns out I wanted hg paths, but that was not obvious from the description of \"show definition of symbolic path names\" as printed by hg help (it should be noted that reporting this in the PEP did lead to the Mercurial developers to clarify the wording to make the use of the hg paths command clearer).
 
-## Updating a checkout 
+### Updating a checkout 
 
 To see how long it takes to update an outdated repository I timed both updating a repository 700 commits behind and 50 commits behind (three weeks stale and 1 week stale, respectively).
 

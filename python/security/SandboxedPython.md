@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sandboxed Python 
+## Sandboxed Python 
 
 See also: [How can I run an untrusted Python script safely (i.e. Sandbox)](./Asking(20)for(20)Help(2f)How(20)can(20)I(20)run(20)an(20)untrusted(20)Python(20)script(20)safely(2028)i(2e)e(2e20)Sandbox(29).html) (from the [Asking for Help](../archive/Asking for Help) page), [Security](Security).
 
@@ -20,33 +20,33 @@ You could do all *sorts* of cool things with a sandboxed Python:
 
 - You could make a distributed code system, where not just resources, but functionality as well, can distribute safely over multiple computers.
 
-## Technical Mechanisms 
+### Technical Mechanisms 
 
 A \"Sandboxed Python\" would let you permit or forbid modules, limit execution slices, permit or deny network traffic, constrain filesystem access to a particular directory (floated as \"/\"), and so on. It is also referred to as [RestrictedExecution](http://docs.python.org/lib/restricted.html), a topic brought up by Mitch Kapor at [PyCon](../conferences/pycon/PyCon) and noted on his [blog](http://blogs.osafoundation.org/mitch/000559.html#000559).
 
 Related topics include capabilities as mentioned in [PythonThreeDotOh](../archive/PythonThreeDotOh), specifically [this message on \"capability-mediated modules\"](http://mail.python.org/pipermail/python-dev/2003-March/034149.html). Some work has been done to support capabilities in languages with similar heritage to Python, notably [CaPerl](http://caperl.links.org/).
 
-## Implementation/Realisation Strategies 
+### Implementation/Realisation Strategies 
 
 Some of these strategies were suggested in the discussion below.
 
-### Use Another Runtime 
+#### Use Another Runtime 
 
 [PyPy](../implementations/PyPy) has support for creating a sandboxed Python interpreter. The Java and CLR/.NET runtimes support restricted execution, and these can be utilised through the Jython and [IronPython](../implementations/IronPython) variants of Python (as well as by other languages, obviously).
 
-### Use Operating System Support 
+#### Use Operating System Support 
 
 Some operating systems support various levels of sandboxing, with the most extreme form being that of virtualisation or emulation. Yet UNIX-oriented operating systems also provide more lightweight mechanisms for restricting process behaviour such as chroot \"jails\", mandatory access controls, resource limits, and so on.
 
-### Modify the CPython Runtime 
+#### Modify the CPython Runtime 
 
 Whilst suggestions about removing functionality from CPython have been generally rejected either as being too simplistic and naive with regard to the possibilities to subvert Python\'s introspection mechanisms, or too restrictive with regard to support for commonly used modules or language features, it is at least reasonable to entertain the notion that a version of CPython linked to special system libraries and built without the more \"powerful\" or \"unsafe\" extensions (see [Plash\'s sandboxing and libc call modifications](http://plash.beasts.org/environment.html#table-glibc-calls) for one approach) would not have the ability to perform arbitrary operations on the filesystem or network. Indeed, this is the basis on which operating systems are hosted within each other using various virtualisation technologies.
 
-### Use a Sandbox as an Accessory 
+#### Use a Sandbox as an Accessory 
 
 In some cases, the functionality of untrusted code may be strictly defined. For example, mobile agent systems may, for the agents themselves, permit only a highly restricted style of program, or may only permit a very limited style of interaction with other components. One solution which can be considered within this particular domain is Zope\'s [RestrictedPython](http://svn.zope.org/RestrictedPython/) - restricted subset of Python - although that solution focuses on reducing the level of expression in the language subset employed.
 
-## History 
+### History 
 
 Prior to Python 2.3, there were two modules, rexec and Bastion which were attempted to provide a sandboxed environment. Unfortunately there were known bugs and work-arounds in these modules, and the introduction of new-style classes in Python 2.3 simply made matters worse. Rather than provide a false sense of security, the modules were removed in Python 2.3.
 
@@ -54,7 +54,7 @@ There are a number of people who are interested in creating a new sandboxing sys
 
 ------------------------------------------------------------------------
 
-## Reactions 
+### Reactions 
 
 For my part, I think this is something that the PSF should fund development on so that it happens sooner rather than later. There are enough interested parties, that lends itself to getting government or other grant funding. \-- [KevinAltis](../people/KevinAltis)
 

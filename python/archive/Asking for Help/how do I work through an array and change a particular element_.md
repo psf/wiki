@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# I want to change an element in an array during a loop: 
+## I want to change an element in an array during a loop: 
 
      lines=open("/etc/fstab","r").readlines()
      for line in lines:

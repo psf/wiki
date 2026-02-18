@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sorting numbers in columns 
+## Sorting numbers in columns 
 
 On the [PyQt mailing list](TheMailingList), Bernard Van Der Stichele asked if it was possible to sort a column of numbers in a QTableWidget by their real numeric values instead of treating them as strings.
 

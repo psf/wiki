@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Lightning Talks 
+## Lightning Talks 
 
 A lightning talk is a short presentation of your choosing, no longer than five minutes. There is no approval process to give a lightning talk; speakers simply sign up here or at [PyOhio](). The idea is borrowed from [PyCon](../../pycon/PyCon), where they are enormously popular.
 

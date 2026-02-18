@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Vi Improved 
+## Vi Improved 
 
 VI Improved (Vim) is an improved version of the editor \"vi\", one of the standard text editors on UNIX systems. It has all the features you\'ll ever need from an editor, and probably three times that many more that you\'ll never use ![;-)](/wiki/europython/img/smile4.png ";-)") The newer versions also include a \'vimdiff\' mode that you can use to diff and merge file(s). Oh, I didn\'t mention it\'s also scriptable in Python, and there\'s a graphical version: GVIM. Get it from [http://www.vim.org/](http://www.vim.org/).
 
@@ -16,7 +16,7 @@ You can download many scripts from [http://www.vim.org/](http://www.vim.org/) an
 
 Vim 7.0 (released mid-2006) includes the Intellisense-like omni-completion for several languages. Here is the latest version of [pythoncomplete](http://www.vim.org/scripts/script.php?script_id=1542).
 
-## Configuring Vim 
+### Configuring Vim 
 
 You can automatically enable syntax coloring and automatic indentation for Python code by adding the following lines to your \~/.vimrc file:
 
@@ -25,7 +25,7 @@ You can automatically enable syntax coloring and automatic indentation for Pytho
 
 The following sections correspond to the guidelines from the [HowToEditPythonCode](../guides/HowToEditPythonCode) page.
 
-### Indentation 
+#### Indentation 
 
 A useful addition to Python source files is this comment:
 
@@ -52,7 +52,7 @@ If you want to do this automatically for all files identified as Python, add the
     set shiftwidth=4
     set softtabstop=4
 
-### Syntax Highlighting 
+#### Syntax Highlighting 
 
 You may be lucky enough to have syntax highlighting already switched on in your version of Vim. If not, edit a `vimrc`{.backtick} file (either `/etc/vimrc`{.backtick} or, preferably,`.vimrc`{.backtick} in your home directory) and add the following:
 
@@ -62,7 +62,7 @@ If you use a dark background, this command may help adjust the default colours f
 
     set background=dark
 
-### Alternative 
+#### Alternative 
 
 Some find that the methods described above do not work. An alternative method is adding\...
 
@@ -74,7 +74,7 @@ Some find that the methods described above do not work. An alternative method is
 
 \...to your `~/.vimrc`{.backtick} file. The first rule sets tab stops to [eight characters wide](http://docs.python.org/reference/lexical_analysis.html#indentation). The second converts tabs to white space. The third makes the Tab key indent by four spaces. `set shiftwidth`{.backtick} sets the width for autoindents. Finally, the last rule allows auto-indenting depending on file type. With this method, tab settings do not need to be set in your python file and the `# vim: ...`{.backtick} line in the template below is not needed.
 
-### A Simple Template 
+#### A Simple Template 
 
 You could copy the following simple template and save it to a file somewhere. Then, when you need to make a new source file, just copy it to the intended location with a name of your choice.
 
@@ -87,18 +87,18 @@ You could copy the following simple template and save it to a file somewhere. Th
 Python source code - replace this with a description of the code and write the code below this text.
 """
 
-# vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
+## vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
 ```
 :::
 ::::
 
 This contains useful UNIX-related information on the first line, and a docstring which can be used to describe what your program or module is about. As noted above, to work this requires modeline support to be enabled.
 
-### Scripting Vim with Python 
+#### Scripting Vim with Python 
 
 There is a presentation given by Sean Reifschneider about scripting Vim with Python: [Vim and Python: Two Great Tastes that Taste Great Together](http://www.tummy.com/Community/Presentations/) If you want to access the visual selection from Vim in Python read [http://www.tummy.com/journals/entries/jafo_20070301_035949](http://www.tummy.com/journals/entries/jafo_20070301_035949)
 
-### Links 
+#### Links 
 
 - Python-mode for Vim: [Screencast](http://www.youtube.com/watch?v=67OZNp9Z0CQ&feature=share)
 

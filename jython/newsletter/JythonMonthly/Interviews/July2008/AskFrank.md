@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Ask Frank! 
+## Ask Frank! 
 
 Welcome to the Ask Frank question form for July 2008!
 
@@ -18,7 +18,7 @@ Josh Juneau
 
 [Gather Event Planning](http://www.gathereventplanning.com) [juneau001@gmail.com](mailto:juneau001@gmail.com)
 
-## Questions for Frank 
+### Questions for Frank 
 
 I\'ll start it off with the question we all want to ask:
 

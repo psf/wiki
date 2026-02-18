@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)50(20)Wiki(2d)Etikette.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)40(20)Anlegen(20)von(20)weiteren(20)Seiten.html) Slide 25 of 27 [\>\>](./WikiKurs(2f)51(20)Anwendungen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Wiki-Etikette 
+## Wiki-Etikette 
 
 Vor allem in öffentlichen Wikis, wo sehr viele Leute zusammenarbeiten (die sich auch oft nicht anderweitig kennen), sollte man immer von wohlwollendem Verhalten der Anderen ausgehen, solange nicht das Gegenteil erwiesen ist.
 

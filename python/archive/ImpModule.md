@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The **imp module** lets you load a module at run-time, knowing just the name of the module.
 
-## Playing with imp Module 
+### Playing with imp Module 
 
 Make a file \"eraseme.py\":
 
@@ -79,12 +79,12 @@ Note that, you don\'t have to play by the rules. If you wanted to, you could hav
 
 \...even though the file\'s *real* name is \"eggs.py\".
 
-## See Also 
+### See Also 
 
 - [ModulesAsPlugins](../archive/ModulesAsPlugins)
 
 - [Python documentation for imp module](http://docs.python.org/lib/module-imp.html)
 
-# Discussion 
+## Discussion 
 
 - (none yet!)

@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This list was originally from the [WebProgramming](../web/WebProgramming) page. It is no longer maintained.
 
-# Original Classification 
+## Original Classification 
 
-### Common Frameworks and APIs 
+#### Common Frameworks and APIs 
 
 - [WebStack](../people/WebStack)
 
-### Multi Protocol Server 
+#### Multi Protocol Server 
 
 - [TwistedMatrix](../web/TwistedMatrix)
 
@@ -26,7 +26,7 @@ This list was originally from the [WebProgramming](../web/WebProgramming) page. 
 
 - [4Suite](../libraries/4Suite)
 
-### HTTP Server and CGI 
+#### HTTP Server and CGI 
 
 - [BaseHttpServer](BaseHttpServer)
 
@@ -66,7 +66,7 @@ This list was originally from the [WebProgramming](../web/WebProgramming) page. 
 
 - [Webware](./Webware.html)
 
-### Content Management Frameworks 
+#### Content Management Frameworks 
 
 - [Apollo](http://halfdans.net/index.py/apollo?c=show)
 
@@ -74,7 +74,7 @@ This list was originally from the [WebProgramming](../web/WebProgramming) page. 
 
 - [QPS](http://ppa.sourceforge.net/#qps)
 
-### Templating Systems 
+#### Templating Systems 
 
 - [AsciiDoc](http://www.methods.co.nz/asciidoc/)
 
@@ -140,6 +140,6 @@ This list was originally from the [WebProgramming](../web/WebProgramming) page. 
 
 - [PyEmb](http://www.chrisarndt.de/en/software/python/index.html#PyEmb) Embed Python code into any kind of text. Can be used as preprocessor or a CGI script for serving template files.
 
-### Web services 
+#### Web services 
 
 - [Python Web Services](http://pywebsvcs.sf.net) a [SourceForge](../people/SourceForge) \"meta-project\" for Python web services programming

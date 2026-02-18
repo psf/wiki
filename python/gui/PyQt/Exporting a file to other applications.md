@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Exporting a file to other applications 
+## Exporting a file to other applications 
 
 On the [mailing list](TheMailingList), Hugo Léveillé asked how to drag data from an application into another that accepts a file drop.
 

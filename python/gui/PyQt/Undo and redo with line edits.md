@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Undo and redo with line edits 
+## Undo and redo with line edits 
 
 On `comp.lang.python`{.backtick}, Zabin asked for some help with undo/redo and a form interface.
 

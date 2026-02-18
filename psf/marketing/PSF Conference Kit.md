@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Conference Kit 
+## PSF Conference Kit 
 
-## Regional Conference Kits 
+### Regional Conference Kits 
 
 The PSF has several large conference kits which can be used to present the PSF at local conferences to easily setup a professional PSF booth.
 
@@ -24,7 +24,7 @@ The kits are made available in these regions (see below for more details):
 
 Creating the kits was a joined effort by Armin Stross-Radschinski and Marc-Andre Lemburg in 2012. Please contact [MarcAndreLemburg](../people/MarcAndreLemburg) for questions regarding the kits.
 
-### Conference Kit for Europe 
+#### Conference Kit for Europe 
 
 Contact for the kit: Stephane Wirtel \< [stephane@wirtel.be](mailto:stephane@wirtel.be) \>
 
@@ -38,7 +38,7 @@ Past events:
 
 - FOSDEM 2018 in Brussels, Belgium
 
-#### 2012-2017 
+##### 2012-2017 
 
 Contact for the kit: [MarcAndreLemburg](../people/MarcAndreLemburg) \< [mal@egenix.com](mailto:mal@egenix.com) \>
 
@@ -122,7 +122,7 @@ Shipping Log:
 
 - 2012-07: Took the kit to [EuroPython](./EuroPython.html) 2012 by plane
 
-### Conference Kit for North America 
+#### Conference Kit for North America 
 
 Betsy and Ewa have PSF branded table clothes and pop ups.
 
@@ -150,7 +150,7 @@ Log:
 
 - after [PyCon](./PyCon.html) 2015, the kit was sent to Ewa in Chicago, IL
 
-### Conference Kit for South America 
+#### Conference Kit for South America 
 
 Current location of the kit: Mário Sérgio \< [sergio.mario_q@hotmail.com](mailto:sergio.mario_q@hotmail.com) \>
 
@@ -179,7 +179,7 @@ Log:
 - 2012-11-09: Kit arrived in Buenos Aires, Argentina
 - 2012-11-19: Kit leaved Buenos Aires, Andrea Gavana is taking it to Brazil
 
-### Conference Kit for East Asia 
+#### Conference Kit for East Asia 
 
 Contact for the kit: Younggun Kim \< [iam@younggun.kim](mailto:iam@younggun.kim) \>
 
@@ -223,7 +223,7 @@ Past events:
 
 - [PyCon](./PyCon.html) APAC/Korea 2016 - Seoul, Korea
 
-### Conference Kit for Africa 
+#### Conference Kit for Africa 
 
 Current location of the kit (kit will be available in August 2017): Marlene Mhangami \< [mmhangami@zimbopy.com](mailto:mmhangami@zimbopy.com) \>
 
@@ -235,7 +235,7 @@ Next events:
 
 - [PyCon](./PyCon.html) ZA 2017
 
-### Kit contents 
+#### Kit contents 
 
 Each kit contains:
 
@@ -247,11 +247,11 @@ Each kit contains:
 
 The kits are packaged in a black sports trolley bag with measurements roughly 100x40x40cm. Each kit weighs about 17kg, which leaves room for extra marketing material up to the usual 20kg limit for baggage on a plane.
 
-### Ordering more large conference kits 
+#### Ordering more large conference kits 
 
 The kits were ordered from the German vendor [Flyeralarm](http://flyeralarm.de) using the PDF [Large-PSF-Display-Flyeralarm.pdf](attachments/PSF(20)Conference(20)Kit/Large-PSF-Display-Flyeralarm.pdf) for the display and the PDF [PSF-Round-Table-Cloth-Flyeralarm.pdf](attachments/PSF(20)Conference(20)Kit/PSF-Round-Table-Cloth-Flyeralarm.pdf) for the cocktail table slip covers.
 
-### Setup instructions for the kit 
+#### Setup instructions for the kit 
 
 Please follow these instructions when setting up or taking down the kit:
 
@@ -263,7 +263,7 @@ When preparing the kit for travel or shipping, please make sure that the origina
 
 If something does get damaged, please inform [MarcAndreLemburg](../people/MarcAndreLemburg). It may be possible to send replacement material.
 
-## Carry-on Kits 
+### Carry-on Kits 
 
 The regional kits are not always easy to ship to conferences and since we only have one such kit per region, scheduling shipments, etc. may also result in problems getting the kit to the conferences on time.
 
@@ -275,7 +275,7 @@ To test drive the setup, we\'ve created one such kit for [PyCon](./PyCon.html) Z
 
 The kits were created by Marc-Andre Lemburg based on the design of the larger display. Please contact [MarcAndreLemburg](../people/MarcAndreLemburg) for questions regarding the kits. They cost around EUR 65-70 each.
 
-### Available Carry-on Kits 
+#### Available Carry-on Kits 
 
 The following members have carry-on kits:
 
@@ -289,17 +289,17 @@ The following members have carry-on kits:
 
     \- 2015-01-08: I\'ve ordered two kids for use at PythonFOSDEM (which Stéphane organizes) and will leave the kits with him to use at [PyCon](./PyCon.html) FR and (the new) [PyCon](./PyCon.html) Belgium.
 
-### Ordering more carry-on kits 
+#### Ordering more carry-on kits 
 
 The kits were ordered from the German vendor [Flyeralarm](http://flyeralarm.de) using the PDF [PSF-L-Display-Flyeralarm.pdf](attachments/PSF(20)Conference(20)Kit/PSF-L-Display-Flyeralarm.pdf).
 
-## Using the kits 
+### Using the kits 
 
 Here\'s the EU kit in action at [EuroPython](./EuroPython.html) 2012:
 
 ![width=200](attachments/PSF(20)Conference(20)Kit/pic2.jpg "width=200")
 
-## Marketing material and swag for the conference kits 
+### Marketing material and swag for the conference kits 
 
 If you would like stickers for the kit event, please contact [betsy@python.org](mailto:betsy@python.org) and she will order them to be shipped to you from Sticker Mule.
 
@@ -313,21 +313,21 @@ Available marketing material:
 
 Link to dropbox: [https://www.dropbox.com/work/PSF%20Event%20Materials](https://www.dropbox.com/work/PSF%20Event%20Materials)
 
-## Common questions asked at the booth 
+### Common questions asked at the booth 
 
 TBD
 
-## Getting the kits through customs 
+### Getting the kits through customs 
 
 In most cases, there are no duties to pay, so customs is usually not much of a problem. If not, customs may ask you for a Customs Tariffs Number (CN number) or Harmonized System (HS) number for each of the goods.
 
 These are the numbers I found that match the things in the regional kit (there are certainly other classifications possible as well, but I\'m no expert on those):
 
-### Stickers and flyers 
+#### Stickers and flyers 
 
 - 4911.10.90 - Trade advertising material, commercial catalogs and the like / Other
 
-### Display 
+#### Display 
 
 If focus is placed on the printed display cloth:
 
@@ -337,11 +337,11 @@ If focus is placed on the aluminum display frame:
 
 - 5407.54 - Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading / Printed
 
-### Table cloth 
+#### Table cloth 
 
 - 5407.54 - Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading / Printed
 
-### Customs duties and VAT 
+#### Customs duties and VAT 
 
 Customs duties are usually between 0-8% of the customs value. The latter can be estimated and since all of the kits are used materials, should sum up to around USD 300-500.
 

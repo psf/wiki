@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# 99 Concurrent Bottles of Beer
+## 99 Concurrent Bottles of Beer
 
     99 bottles of beer on the wall, 99 bottles of beer.
     Take one down, pass it around,
@@ -20,7 +20,7 @@ These example are interesting, in that they provide an idea of clarity, how much
 
 Include a brief description if you add to this page. Please make sure your source is well commented - concurrency is hard!
 
-## The Problem 
+### The Problem 
 
 Implement
 
@@ -29,15 +29,15 @@ Implement
 
 in concurrent Python. On unix, you can send syslog messages via `logger`{.backtick}; filenames may vary.
 
-## Errata 
+### Errata 
 
 Solutions using readline() will exhibit bugs if less than a full line is flushed to disk. If your input file is syslog, this shouldn\'t be a problem however.
 
 Glyph makes the very valid point that these examples are in fact serial programs (ie, they don\'t do more than one thing at a time). A better example would be following multiple files simultaneously.
 
-## Solutions 
+### Solutions 
 
-### Generator 
+#### Generator 
 
 Generators implement a \"pull-style\" approach to concurrency.
 
@@ -77,7 +77,7 @@ Generators implement a \"pull-style\" approach to concurrency.
 :::
 ::::
 
-### Coroutines 
+#### Coroutines 
 
 The inversion of the generator example above, coroutines use a \"push-style\" approach to concurrency:
 
@@ -130,7 +130,7 @@ The inversion of the generator example above, coroutines use a \"push-style\" ap
 :::
 ::::
 
-### Greenlets 
+#### Greenlets 
 
 Greenlets are similar to coroutines.
 
@@ -182,7 +182,7 @@ Greenlets are similar to coroutines.
 :::
 ::::
 
-### Gevent 
+#### Gevent 
 
 [Gevent](http://www.gevent.org) builds user-level threads on top of greenlets.
 
@@ -232,7 +232,7 @@ Greenlets are similar to coroutines.
 :::
 ::::
 
-### Kamaelia 
+#### Kamaelia 
 
 :::: 
 ::: 
@@ -293,7 +293,7 @@ Greenlets are similar to coroutines.
 :::
 ::::
 
-### Twisted 
+#### Twisted 
 
 :::: 
 ::: 
@@ -350,7 +350,7 @@ Greenlets are similar to coroutines.
 :::
 ::::
 
-### Fibra 
+#### Fibra 
 
 :::: 
 ::: 
@@ -385,7 +385,7 @@ Greenlets are similar to coroutines.
 :::
 ::::
 
-### Stackless 
+#### Stackless 
 
 :::: 
 ::: 
@@ -428,7 +428,7 @@ Greenlets are similar to coroutines.
 :::
 ::::
 
-### circuits
+#### circuits
 
 :::: 
 ::: 
@@ -458,7 +458,7 @@ Greenlets are similar to coroutines.
 :::
 ::::
 
-### pprocess
+#### pprocess
 
 This example needs pprocess 0.5. The activity functions are similar to the generator (and other) solutions, and the differences lie in the use of the `multigrep`{.backtick} function, which is invoked to provide `grep`{.backtick} functionality for each pattern in a separate process, and in the way the `multigrep`{.backtick} function itself follows several files using the `multifollow`{.backtick} callable (the `follow`{.backtick} function invoked in a separate process). A channel is used in the `follow`{.backtick} function to communicate new lines which are then consumed via a queue in the `grep`{.backtick} function, which in turn communicates matching lines via a channel which are then consumed by the `printer`{.backtick} function.
 
@@ -516,7 +516,7 @@ This example needs pprocess 0.5. The activity functions are similar to the gener
 :::
 ::::
 
-### pypes
+#### pypes
 
 Here is a simple example based on the pypes framework. It should look similar to the Stackless example above. Pypes abstracts away the semantics of tasklets and channels and provides a model for looser coupling. This makes connecting components at runtime easier which is necessary since at the point in which the component is created, it has no idea what other components it might be interacting with.
 

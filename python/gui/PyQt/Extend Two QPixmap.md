@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Extend Two QPixmap 
+## Extend Two QPixmap 
 
 On the `#pyqt`{.backtick} channel on freenode, iTayb asked if it was possible to merge two QPixmaps into a one QPixmap, side by side. rowinggolfer has answered him:
 

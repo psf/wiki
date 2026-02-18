@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Microsoft SQL Server 
+## Microsoft SQL Server 
 
 URL
 
@@ -18,21 +18,21 @@ licence
 platforms
 :   Windows 2000 and later
 
-## Pros 
+### Pros 
 
 - SQL Server is a robust and fully-featured database, and it performs very well. Moreover, I have not had any problems using this database with Python.
 - The SQL Server Express versions are free to download, use and can even be redistributed with products.
 
-## Cons 
+### Cons 
 
 - Windows only.
 - SQL Server comes in various flavours. The latest free version has a 10GB database size limit. It comes with the GUI tools and Reporting Services. The standard and other versions include many extra features.
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### adodbapi
+#### adodbapi
 
 URL
 
@@ -48,7 +48,7 @@ licence
 platforms
 :   Windows only
 
-### pymssql
+#### pymssql
 
 URL
 
@@ -60,7 +60,7 @@ licence
 platforms
 :   Windows and Unix
 
-### mssql
+#### mssql
 
 URL
 
@@ -72,7 +72,7 @@ licence
 platforms
 :   Windows
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -91,7 +91,7 @@ mxODBC requires an ODBC driver to talk to SQL Server. On Windows, you can use th
 
 mxODBC comes with full support for stored procedures, multiple result sets, Unicode, a common interface on all platforms and [many other useful features](http://www.egenix.com/products/python/mxODBC/#Features).
 
-### pyodbc
+#### pyodbc
 
 URL
 
@@ -112,7 +112,7 @@ Precompiled binaries are available for Windows. RedHat Enterprise Linux, Centos,
 
 Supports ANSI and Unicode data and SQL statements and includes an extensive set of unit tests for SQL Server. pyODBC require ODBC driver to work correctly with SQL Server. You may [download latest SQL Server ODBC driver](https://www.devart.com/odbc/sqlserver/download.html) and use it freely. Or you may choose Microsoft ODBC driver for that needs which is posted above in mxODBC driver description.
 
-### pypyodbc （Pure Python) 
+#### pypyodbc （Pure Python) 
 
 URL
 
@@ -141,7 +141,7 @@ Simple - the whole module is implemented in a single python script with less tha
 
 Built-in Access MDB file creation and compression functions on Windows.
 
-### ODBC 
+#### ODBC 
 
 It is possible to connect to an SQL Server database using ODBC, either the mxODBC driver or the one included with Win32all. However, this is not recommended - adodbapi is a better solution, in part because it supports unicode.
 

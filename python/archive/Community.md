@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Participating in the Community 
+## Participating in the Community 
 
 It has been said that part of Python\'s success is due, at least in part, to the friendly community surrounding the language in general and resources like the [newsgroups and mailing lists](MailingListsAndNewsgroups) in particular.
 

@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Mac OS X Installation Notes 
+## Mac OS X Installation Notes 
 
 This page contains a list of problems that people have encountered with Python and [PyQt]() on Mac OS X.
 
-## Fatal Python error: Interpreter not initialized (version mismatch?) 
+### Fatal Python error: Interpreter not initialized (version mismatch?) 
 
 [Kevin Cureton writes](http://mats.imk.fraunhofer.de/pipermail/pykde/2006-July/013722.html):
 

@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# Structured Markup Processing Tools 
+## Structured Markup Processing Tools 
 
 13.1 HTMLParser \-- Simple HTML and XHTML parser
 
@@ -60,7 +60,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 13.13.1 XML Namespaces
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

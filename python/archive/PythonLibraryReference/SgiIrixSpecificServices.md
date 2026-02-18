@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# SGI Irix Specific Services 
+## SGI Irix Specific Services 
 
 20.1 al \-- Audio functions on the SGI
 
@@ -46,7 +46,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 20.12 jpeg \-- Read and write JPEG files
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

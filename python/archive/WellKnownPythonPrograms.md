@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Well-known Python Programs 
+## Well-known Python Programs 
 
 Some well-known programs that are written, partially or completely, in Python:
 
-## Web and Internet Applications 
+### Web and Internet Applications 
 
 See also the [Web Applications](../people/WebApplications) page.
 
@@ -26,7 +26,7 @@ See also the [Web Applications](../people/WebApplications) page.
 
 - [Zope](http://www.zope.org)
 
-### Powered by Python 
+#### Powered by Python 
 
 Some high-profile Web sites are implemented in Python, according to various reports:
 
@@ -40,7 +40,7 @@ Some high-profile Web sites are implemented in Python, according to various repo
 
 - [Yelp](http://www.yelp.com/)
 
-## Version Control 
+### Version Control 
 
 - [Mercurial](http://www.selenic.com/mercurial/)
 
@@ -52,7 +52,7 @@ Some high-profile Web sites are implemented in Python, according to various repo
 
 - Two bug trackers: [Trac](http://trac.edgewall.org/) and [Roundup](http://roundup.sourceforge.net/)
 
-## Historical Python Applications 
+### Historical Python Applications 
 
 Historically (these have all been rewritten at some point after acquisition):
 

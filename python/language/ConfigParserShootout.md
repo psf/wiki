@@ -20,17 +20,17 @@ This page serves as a place to record alternatives, and discuss (in a semi-perma
 
 See the \"Status of Shootout\" section (from about 2006) for a summary of the major period of discussion which lasted on the order of a year.
 
-# Goals 
+## Goals 
 
 Discussion of people\'s goals for revising [ConfigParser](ConfigParser) have been broken out to the page [ConfigParserGoals](ConfigParserGoals): what is [ConfigParser](ConfigParser) really for?
 
 Also note that there has been some confusion between \"In memory storage of configuration data\" and \"Simple persistent storage of configuration data\". Part of the problem is that almost every configuration storage system (including [ConfigParser](ConfigParser), optparse, and getopt) comes with its own in-memory API. There should be some uniform means of accessing data from configuration files and command line options parsed via optparse or getopt, including the ability to override options in configuration files with command line options. Ideally, the programmer API should not normally care whether an option was set in the configuration or the command line.
 
-# Implementations 
+## Implementations 
 
 Please list interesting implementations of config parsers here.
 
-## ConfigObj 4 
+### ConfigObj 4 
 
 [ConfigObj - A simple to use config file parser](http://www.voidspace.org.uk/python/configobj.html)
 
@@ -65,7 +65,7 @@ The type specification is kept in a separate schema (which has a simple key = ch
 
 This means a [ConfigObj](../people/ConfigObj) is an abstraction of \*config data\* - not just the config file, at no cost to the \*user\*. The validation system is simple and extendable.
 
-## M. Chermside\'s candidate 
+### M. Chermside\'s candidate 
 
 [code](http://www.mcherm.com/publish/2004-10-17/config.py) and [test cases](http://www.mcherm.com/publish/2004-10-17/configTest.py). Currently allows files in either str or unicode, with sensible defaults. Allows dictionary or dotted-name access (though dotted-name can fail in some cases). Allows subsections of arbitrary length. For example,
 
@@ -84,7 +84,7 @@ but also
 
 Note that keys and values are always strings or unicode \-- no autoconversion to other types. Note that this focuses on storage and API \-- reading and writing is left out at the moment, and might reasonably be in a separate module for each format supported.
 
-## INITools 
+### INITools 
 
 [INITools](http://pythonpaste.org/initools/) is factored into a parser that conforms to the [ConfigParser](ConfigParser) sense of what an INI file is (`initools.iniparser`), and a couple of implementations based on that. One of those implementations is `initools.configparser`, which is compatible with the standard library [ConfigParser](ConfigParser).
 
@@ -102,7 +102,7 @@ It includes several features that can normally be built on to [ConfigParser](Con
 
 Because it preserves all the information from the file you could write a view on top of this structure, to present any reasonable API \-- the [ConfigParser](ConfigParser) API is awkward, but given a few additions it is at least a reasonably complete description.
 
-## Skip\'s Idea 
+### Skip\'s Idea 
 
 In my use of INI files I\'ve always been annoyed that I couldn\'t nest sections to an arbitrary depth and had to resort to baroque XML APIs to accomplish that sort of task. I also figured a structure defined by indentation would be a good way to go, though YAML always seemed too complex. I worked up a little [config file parser](https://github.com/smontanaro/python-bits/blob/master/cfgparse.py) that reads and writes files like
 
@@ -119,7 +119,7 @@ In my use of INI files I\'ve always been annoyed that I couldn\'t nest sections 
            item3 = item 3
     very last = 7
 
-## Dan Gass\' 
+### Dan Gass\' 
 
 I\'ve just released a new configuration parser ([http://cfgparse.sourceforge.net/](http://cfgparse.sourceforge.net/)). It has many of the features outlined as desireable:
 
@@ -150,7 +150,7 @@ I figure I will make an announcement after any dust settles from this posting. B
 
 Enjoy, Dan Gass \-- [dan.gass@gmail.com](mailto:dan.gass@gmail.com)
 
-## Vinay Sajip\'s implementation 
+### Vinay Sajip\'s implementation 
 
 The [config](http://www.red-dove.com/python_config.html) module allows a hierarchical configuration scheme with support for mappings and sequences, cross-references between one part of the configuration and another, the ability to flexibly access real Python objects without full-blown eval(), an include facility, simple expression evaluation and the ability to change, save, cascade and merge configurations. It has been developed on python 2.3 but should work on version 2.2 or greater.
 
@@ -204,7 +204,7 @@ My reasons for not using Python itself for the syntax and parser are:
 
 If someone could show me a way to meet the above desires whilst using Python syntax and parser, I\'ll gladly revisit the issue. \-- [VinaySajip](../people/VinaySajip)
 
-## cfgparse
+### cfgparse
 
 [cfgparse](http://www.cs.wisc.edu/~param/software/cfgparse/) - cfgparse is a Python module that provides mechanisms for managing configuration information. It is backward compatible with [ConfigParser](ConfigParser), in addition to having the following features:
 
@@ -216,19 +216,19 @@ If someone could show me a way to meet the above desires whilst using Python syn
 
 - Extensible: It is possible to add other configuration formats, and to convert between different formats (as long as the data models are compatible).
 
-## ZConfig 
+### ZConfig 
 
 [ZConfig](http://www.zope.org/Members/fdrake/zconfig/) - This Python package is a bit larger than some of the others, but provides for schema-based development of configuration structures. The schema language uses XML, but the configuration language is more like Apache\'s. Sections are typed and completely nestable. The basic implementation does have some limitations that are tedious to work around if you run into them. One that can bite quickly is that names in the configuration language are case-insensitive by default; for versions before 2.3.1 this was terribly difficult to work around without copying lots of code, and even with 2.3.1 it takes more than it should.
 
-## tconfpy
+### tconfpy
 
 OK, I\'ll Toss My Hat Into The Ring. I just found this discussion tonight for the first time. A fascinating topic and one very much dear to my heart. So much so that, ahem, uh, \... [http://www.tundraware.com/Software/tconfpy](http://www.tundraware.com/Software/tconfpy)
 
-## configparse
+### configparse
 
 [configparse](http://www.gustaebel.de/lars/configparse/) is an extension that is built on top of the command line parsing library optparse. It provides the same interface and is intended to be uses as a drop-in-replacement for optparse. configparse is very limited in its abilities, there\'s no support for sections, recursiveness or sophisticated value checking etc. Its advantage is that it takes only a few modifications to existing code to add simple support for config files which can be quite handy sometimes.
 
-## plistlib
+### plistlib
 
 [plistlib](http://svn.red-bean.com/pyobjc/branches/branch_1_0/pyobjc/MPCompat/plistlib.py) plistlib is a small module for generating and parsing Mac OS X .plist files. It supports:
 
@@ -239,7 +239,7 @@ OK, I\'ll Toss My Hat Into The Ring. I just found this discussion tonight for th
 
 As the default config format on OS X, plist files are already used by hundreds of apps. Though popular on the Mac, the format can be used from any platform or language since it\'s a [subset of XML](http://developer.apple.com/documentation/MacOSX/Conceptual/BPRuntimeConfig/Articles/ConfigFiles.html). Graphical editors are available from Apple as part of its free developer tools, as well as from [third party developers](http://homepage.mac.com/bwebster/plisteditpro.html)
 
-## PyOptionTree 
+### PyOptionTree 
 
 [PyOptionTree](http://pyoptiontree.sourceforge.net) is a hierarchical parameter parser that I wrote with the goal being to allow the user to both specify parameters \*and\* modify, control, structure, copy, and record them in a efficient and intuitive way. I\'ve been using and refining it for over a year, and it has many of the options that people seem to find desirable, plus a few more, so I thought it\'d be worthwhile to post here. If people have any comments, please let me know.
 
@@ -287,11 +287,11 @@ On the programmer\'s end, each of the braches behaves like a full tree, e.g.:
     def runTest(ot):
         print 'Current Action: ', ot("name")
 
-## configparser2
+### configparser2
 
 A slightly cleaned up version of the original [ConfigParser](ConfigParser) [here](http://code.google.com/p/configparser2/source/browse/trunk/configparser.py?spec=svn2&r=2).
 
-# Features 
+## Features 
 
 This is a list of features that should be taken into account. Certainly not all these features are required; maybe some aren\'t even desired.
 
@@ -329,7 +329,7 @@ To be more explicit, it should work well with at least optparse (Optik), .ini fi
 - Backward compatible; at least to Python 2.2, best if portable to Python 2.1.
 - Implements a true parser that can be subclassed and specialized. If it only has a method that parses the config file into a dictionary, then any attempts to extend or specialize the parser won\'t have access to line information. The parser need not be a high-profile part of the module, so long as it is available.
 
-# Discussion 
+## Discussion 
 
 Discuss. Please sign your name.
 
@@ -339,7 +339,7 @@ Three features I want in a config parser are 1) keyed settings 2) pulling in set
 
 I think it is reasonable to ask the setting code to create the object (possibly by running a random string); the config system just needs to accept objects that have already been made. A round-trip is useful, but I\'m not sure source code is the best way to do that; editing will probably require an external tool anyhow. Maybe just use pickle to save arbitrary objects? (And avoid storing them \*within\* the config, as much as possible.) \-- Jim J Jewett
 
-## ConfigParser, optparse Marriage 
+### ConfigParser, optparse Marriage 
 
 A marriage of the two would make a lot of sense to me. My thought is for the user (script) to instantiate a parser and add options to it much like optparse does today. When the parser processes the command line args (or args passed to it) it should also look at the configuration file (possibly using the long setting name) for the option settings. Its first priority would be command line args.
 
@@ -466,7 +466,7 @@ The part that isn't addressed here that bothers me yet is how to weave in the ab
 
   Well, I do have this concern - not so much for a security hole in the sense of bad guys in black hats, but the possibility of end users editing configuration files with executable code isn\'t in my view a recipe for robust software which behaves predictably. I don\'t fancy those support headaches , thanks. \-- [VinaySajip](../people/VinaySajip)
 
-## Extension to configuration editing 
+### Extension to configuration editing 
 
 The configuration parsers mentioned so far may handle textual configuration files and maybe extensions into options parsing, but there is a need sometimes to graphically change options . Maybe an amalgamation of the above ideas with the traits package of scipy [http://old.scipy.org/site_content/traits](http://old.scipy.org/site_content/traits) would allow options to be set in all three places - command line, GUI and options file.
 
@@ -474,7 +474,7 @@ The configuration parsers mentioned so far may handle textual configuration file
 
 My implementation ([http://cfgparse.sourceforge.net/](http://cfgparse.sourceforge.net/)) could be useful for implementing a GUI option editor by using the round trip capability. I\'m sure some of the other parsers would as well. A GUI editor seems so application specific that I don\'t think we would want a GUI editor built into the standard library. \-- [dan.gass@gmail.com](mailto:dan.gass@gmail.com)
 
-## Status of Shootout 
+### Status of Shootout 
 
 So where are we? The wiki hasn\'t seen much activity since January of 2005. Are any of these on track for 2.5? As strictly a user, most of these seem over-engineered for the standard library (to me anyway). `cfgparse`{.backtick} (dan gass) seemed the most approachable to me. XML, or some new configuration \'language\' in the file is way too much. Keeping to a similar (or even matching) API to optparse is important to me. But where are we? \-- [HunterMatthews](./HunterMatthews.html) (showing up as 82 in the edit log)
 

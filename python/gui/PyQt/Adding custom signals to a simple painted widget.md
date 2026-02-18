@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Adding custom signals to a simple painted widget 
+## Adding custom signals to a simple painted widget 
 
 On the `#pyqt`{.backtick} channel on [freenode](http://freenode.net), `magicblaze007`{.backtick} asked for an example that showed how to declare and use custom signals.
 

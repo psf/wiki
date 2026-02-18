@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Selecting a region of a widget 
+## Selecting a region of a widget 
 
 On [TheMailingList](TheMailingList), Brickle Macho asked for some advice on writing a widget that allows part of the image it is displaying to be selected.
 

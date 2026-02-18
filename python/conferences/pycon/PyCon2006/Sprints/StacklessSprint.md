@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# About
+## About
 
 The primary goal of the sprint is to port Stackless to the latest version of Python, which at this time is 2.4.2. This involves bringing the Stackless CVS up to date with all the changes made to Python since version 2.3.3 in order to maintain the history of stackless changes made.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyCon 2008
+## PyCon 2008
 
 PyCon 2008 Will be held in Chicago at the [Crowne Plaza Chicago O\'Hare hotel](http://www.crowneplazaohare.com/):
 
@@ -37,7 +37,7 @@ March 17-20 (Monday-Thursday) Sprints
 :::
 
 ::: 
-### PyCon 2008 Wiki Pages
+#### PyCon 2008 Wiki Pages
 
 - [Sprint Accomplishments](../../sprints/Sprint Accomplishments)
 - [Attendee Notes](../../people/Attendee Notes) (addenda to [http://us.pycon.org/2008/about/notes/](http://us.pycon.org/2008/about/notes/))

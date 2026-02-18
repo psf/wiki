@@ -6,10 +6,10 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python as a Glue Language
+## Python as a Glue Language
 
 ::: 
-### Introduction
+#### Introduction
 
 The Python® language interpreter can be used as a glue language to connect software components. Components can then be manipulated by Python scripts and combined in new ways.
 
@@ -23,13 +23,13 @@ What can you do with scripting access to an existing system?
 :::
 
 ::: 
-### C/C++ Systems
+#### C/C++ Systems
 
 The most widely used Python interpreter is the C implementation available from [http://www.python.org/](http://www.python.org/) and included in Mac OS X® and many Linux distributions. A Microsoft Windows® version is available from [http://www.python.org/](http://www.python.org/). There are a variety of tools to interface between Python and C code.
 :::
 
 ::: 
-### ctypes
+#### ctypes
 
 The ctypes package is a foreign-function interface included with Python 2.5 and later versions that can load shared libraries (.dylib files on MacOS X, .so files on Linux, DLLs on Windows) and call arbitrary library functions.
 
@@ -56,7 +56,7 @@ For more information about ctypes, refer to the ctypes section in the Python doc
 :::
 
 ::: 
-### Pyrex
+#### Pyrex
 
 Pyrex ([http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/](http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/)) is a compiler that translates a Python-like language into C code for an extension module.
 
@@ -97,7 +97,7 @@ The following example is taken from the Pyrex wrapper for libxel ([https://gna.o
 :::
 
 ::: 
-### SWIG for C/C++ libraries across languages
+#### SWIG for C/C++ libraries across languages
 
 SWIG, the Simple Wrapper Interface Generator ([http://www.swig.org/](http://www.swig.org/)), parses C/C++ header files and custom interface descriptions, generating C code for an extension wrapping the C functions and data types. SWIG can use the same input to generate wrappers for several different language environments; supported languages other than Python include Perl, Tcl, Ruby, PHP, Java, and Common Lisp.
 
@@ -137,7 +137,7 @@ The following partial examples were taken from the SWIG bindings for the Subvers
 :::
 
 ::: 
-### Boost.Python for C++ libraries
+#### Boost.Python for C++ libraries
 
 Boost.Python ([http://www.boost.org/libs/python/doc/](http://www.boost.org/libs/python/doc/)) is a framework for wrapping C++ classes and functions as Python extensions without requiring any modifications to the original C++ code or headers.
 
@@ -179,7 +179,7 @@ This wrapper can be compiled using the Boost tools to produce a shared library t
 :::
 
 ::: 
-### SIP for C++ libraries
+#### SIP for C++ libraries
 
 SIP ([http://www.riverbankcomputing.co.uk/sip/](http://www.riverbankcomputing.co.uk/sip/)) parses interface specifications to create Python bindings for C and C++ libraries. Originally written for wrapping the Qt® libraries from Trolltech®, SIP is now used for other projects as well.
 
@@ -203,7 +203,7 @@ The following SIP example wraps a C++ class called `Word`, making the class cons
 :::
 
 ::: 
-### Python\'s C API
+#### Python\'s C API
 
 The Python interpreter has a documented C API for writing extension modules. Writing simple wrappers atop a C library is a straightforward task
 
@@ -230,7 +230,7 @@ The following example from Python\'s source code wraps the `is_term_resized()` f
 :::
 
 ::: 
-### Embedding Python
+#### Embedding Python
 
 The most common approach for integrating Python into a system is to write extension modules that can then be used by Python scripts. In this approach, the Python interpreter is the top-level component, the one that controls the overall logic of the application.
 
@@ -310,7 +310,7 @@ The following example is taken from the \"Extending and Embedding the Python Int
 :::
 
 ::: 
-### Jython for Java Components
+#### Jython for Java Components
 
 For systems written in Java蒂, Jython ([http://www.jython.org/](http://www.jython.org/)) is an implementation of Python written in pure Java that provides automatic access to Java classes from both scripts and an interactive prompt.
 
@@ -348,7 +348,7 @@ The following small script demonstrates using Swing from Jython, and is taken fr
 :::
 
 ::: 
-### IronPython for CLR Components
+#### IronPython for CLR Components
 
 IronPython, an implementation of Python written in C#, provides automatic access to CLR/.NET assemblies. IronPython runs on both Microsoft® .NET and on Novell® Mono. The IronPython web site is at [http://www.codeplex.com/Wiki/View.aspx?ProjectName=IronPython](http://www.codeplex.com/Wiki/View.aspx?ProjectName=IronPython).
 
@@ -395,7 +395,7 @@ The following small script demonstrates using the Windows Forms API from IronPyt
 :::
 
 ::: 
-### Legal
+#### Legal
 
 Python is a registered trademark of the Python Software Foundation.
 

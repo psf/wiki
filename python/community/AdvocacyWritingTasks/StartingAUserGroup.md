@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Starting and Running a Successful Python User Group
+## Starting and Running a Successful Python User Group
 
 ::: 
 Abstract
@@ -15,11 +15,11 @@ Discuss the resources available to user groups, such as mailing lists hosts, fre
 :::
 
 ::: 
-### Finding a Meeting Place
+#### Finding a Meeting Place
 :::
 
 ::: 
-### Spreading the Word
+#### Spreading the Word
 
 > - example flyers and places to post them
 > - where to announce
@@ -28,7 +28,7 @@ Discuss the resources available to user groups, such as mailing lists hosts, fre
 :::
 
 ::: 
-### Establishing Services Online
+#### Establishing Services Online
 
 > - mailing list
 > - wiki
@@ -36,7 +36,7 @@ Discuss the resources available to user groups, such as mailing lists hosts, fre
 :::
 
 ::: 
-### What To Do At Your Meetings
+#### What To Do At Your Meetings
 
 > - arranging speakers
 > - starting group projects
@@ -45,7 +45,7 @@ Discuss the resources available to user groups, such as mailing lists hosts, fre
 :::
 
 ::: 
-### Making Your Group Succeed
+#### Making Your Group Succeed
 
 > - what makes a usergroup succeed
 > - what makes a usergroup fail

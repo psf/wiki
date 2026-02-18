@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Pages Related to PyCon 
+## Pages Related to PyCon 
 
-## Generated Page List 
+### Generated Page List 
 
 This list is uses a simple Wiki search to find pages related to [PyCon](PyCon).
 

@@ -14,7 +14,7 @@ Hier kann nach Lust und Laune experimentiert werden - nach den vier Strichen (Qu
 
 ------------------------------------------------------------------------
 
-# Formatierung 
+## Formatierung 
 
 *kursiv* **fett** `Schreibmaschinenschrift`
 
@@ -39,21 +39,21 @@ Mischen von *kursiv* und **fett**:
   ------------------------------------------------------------------------------------------------------------------------ ---------- ---------- ---------- ----------
 :::
 
-# Verlinken 
+## Verlinken 
 
-## Wiki 
+### Wiki 
 
 [HilfeZumEditieren](HilfeZumEditieren) [InterWiki](http://moinmo.in/InterWiki "MoinMoin")
 
-## Richtung Internet 
+### Richtung Internet 
 
 [http://purl.net/wiki/moin/](http://purl.net/wiki/moin/) [Python](http://www.python.org/)
 
-## email
+### email
 
 [name@the.inter.net](mailto:name@the.inter.net)
 
-# Listen 
+## Listen 
 
 - erstens
   1.  verschachtelt und numeriert
@@ -70,13 +70,13 @@ Mischen von *kursiv* und **fett**:
 
     erstens erstens erstens
 
-# InterWiki 
+## InterWiki 
 
 [AFAIK](http://sunir.org/apps/meta.pl?wiki=JargonFile&redirect=AFAIK "JargonFile")
 
 [readlink](http://www.FreeBSD.org/cgi/man.cgi?apropos=1&query=readlink "FreeBSDman")
 
-# Zeichnungen 
+## Zeichnungen 
 
 [![\[ATTACH\]](/wiki/europython/img/attach.png "[ATTACH]")]( "Create new drawing "meinezeichnung.tdraw (opens in new window)"")
 

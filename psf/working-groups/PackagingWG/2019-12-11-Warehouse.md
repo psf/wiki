@@ -6,22 +6,22 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyPI Project Kickoff - 2019 Q4 RFP Milestone 2 - Automated Detection of Malicious Uploads 
+## PyPI Project Kickoff - 2019 Q4 RFP Milestone 2 - Automated Detection of Malicious Uploads 
 
-## Attendees 
+### Attendees 
 
 - Ernest W. Durbin III - PSF
 - Cristina Muñoz - Independent Contractor
 - William Woodruff - Trail of Bits
 - Mike Myers - Trail of Bits
 
-## Introductions 
+### Introductions 
 
 - Ernest: PSF Dir of Infra. Overseeing project, available for review, design discusisons, and project onboarding.
 - Cristina: Contractor - Proposed for Milestone 2. Will be working on implementation of Milestone 2
 - Trail of Bits: William - Security Engineer at ToB, will be working on design and review of Milestone 2 work. Mike - engineering practice manager, point of contact for administrative concerns.
 
-## Logistics and Communications 
+### Logistics and Communications 
 
 - [GitHub](./GitHub.html): [https://github.com/pypa/warehouse](https://github.com/pypa/warehouse) - Code Review, Design discussion, and Project tracking
 
@@ -31,7 +31,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Meetings: Scheduled as needed, or monthly.
 
-## Project Timeline and Availability 
+### Project Timeline and Availability 
 
 Known unavailability:
 
@@ -43,7 +43,7 @@ Known unavailability:
 
 - Cristina: Generally around ![:)](/wiki/europython/img/smile.png ":)")
 
-## Next Steps 
+### Next Steps 
 
 - Project on-boarding: Will should be up to speed, Cristina can work with Ernest as needed.
 

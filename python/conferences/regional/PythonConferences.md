@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Conferences 
+## Python Conferences 
 
 The Python community tends to organize regional events around the world. Established events such as [PyCon](../pycon/PyCon) US and [EuroPython](../europython/EuroPython) have since been joined by other regional conferences, and Python often features prominently in various open source conferences.
 
@@ -18,9 +18,9 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 *Please keep these lists mostly sorted alphabetically. It is fine to place the most prominent and largest events at the top of the respective listings.*
 
-## Regional Python Conferences 
+### Regional Python Conferences 
 
-### Africa 
+#### Africa 
 
 - [PyCon Africa](https://africa.pycon.org/) (Africa)
 
@@ -50,7 +50,7 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 - [DjangoCon Africa](https://djangocon.africa) (Africa) - focuses on the Django web framework
 
-### Americas 
+#### Americas 
 
 - [PyCon US](https://us.pycon.org) (US and Canada) - largest international Python event; also see the wiki page: [PyCon](../pycon/PyCon) US
 
@@ -98,7 +98,7 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 - [Wagtail Space US](https://us.wagtail.space/) (USA) - focuses on the Wagtail CMS, which is written in Python
 
-### Asia 
+#### Asia 
 
 - [PyCon APAC or Asia Pacific](https://pycon.asia/) (Asia Pacific) - also see the wiki page: [PyConAPAC](../pycon/PyConAPAC)
 
@@ -144,13 +144,13 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 - [SciPy India](https://scipy.in) (India)
 
-### Australasia 
+#### Australasia 
 
 - [Kiwi PyCon](https://kiwipycon.nz/) (New Zealand)
 
 - [PyCon Australia](https://pycon.org.au/) (Australia)
 
-### Europe 
+#### Europe 
 
 - [EuroPython](https://www.europython.eu/) (Europe) - largest European event; also see the wiki page: [EuroPython](../europython/EuroPython)
 
@@ -220,21 +220,21 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 - [Wagtail Space NL](https://nl.wagtail.space/) (The Netherlands) - focuses on the Wagtail CMS, which is written in Python
 
-### Online 
+#### Online 
 
 - [XtremePython](https://xtremepython.dev) (Online)
 
-## Topic Conferences 
+### Topic Conferences 
 
 *Regularly happening larger topic events should also be listed in the above regional sections.*
 
-### AI & Data Science 
+#### AI & Data Science 
 
 Focus on using Python for AI and data science.
 
 - [PyData](https://pydata.org) - lists many events around the world
 
-### Django 
+#### Django 
 
 Focus on the [Django web framework](https://www.djangoproject.com/).
 
@@ -248,7 +248,7 @@ Focus on the [Django web framework](https://www.djangoproject.com/).
 
 - [DjangoGirls](https://djangogirls.org/en/) (world-wide) - [DjangoGirls](./DjangoGirls.html) regularly organize smaller educational events for learning Django
 
-### Education & Outreach 
+#### Education & Outreach 
 
 Events focusing on Python education and outreach.
 
@@ -258,7 +258,7 @@ Events focusing on Python education and outreach.
 
 - [PyLadiesCon](https://conference.pyladies.com/) (online) - [PyLadies](./PyLadies.html) conference
 
-### Web Frameworks 
+#### Web Frameworks 
 
 Focus on the [Plone web framework](https://plone.org/):
 
@@ -272,7 +272,7 @@ Focus on the [Wagtail CMS](https://wagtail.org/):
 
 - [Wagtail Space NL](https://nl.wagtail.space/) (The Netherlands)
 
-### Science 
+#### Science 
 
 Focus on using Python in science.
 
@@ -286,7 +286,7 @@ Focus on using Python in science.
 
 - [PyHEP](https://hepsoftwarefoundation.org/workinggroups/pyhep.html) (world-wide, online) - focus on particle physics
 
-## Python at Open Source Conferences 
+### Python at Open Source Conferences 
 
 Python has often been featured in the following conference series and events:
 

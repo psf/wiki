@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Adding a background image to an MDI area 
+## Adding a background image to an MDI area 
 
 On [TheMailingList](TheMailingList), Sarah Mount asked [whether it was possible to display a non-tiled image](http://www.riverbankcomputing.com/pipermail/pyqt/2011-April/029653.html) in the background of an MDI area widget.
 

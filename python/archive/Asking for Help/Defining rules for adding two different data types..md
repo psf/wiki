@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: Defining rules for adding two different data types 
+## Asking for Help: Defining rules for adding two different data types 
 
 I\'m a beginner with Python and am trying to create a Complex number class. The problem I am having is as follows, if z is a complex number (or other special type) how can I find 1+z? I am able to handle z+1, but it would be much nicer to have the operation be commutative. Whenever I attempt to compute 1+z I receive a [TypeError](../../people/TypeError).
 
@@ -18,7 +18,7 @@ You do know that Python has a complex number type? For example:
 ::: 
 ``` 
 1 + 1j
-# gives (1+1j) - a complex number
+## gives (1+1j) - a complex number
 ```
 :::
 ::::

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Animated items using delegates 
+## Animated items using delegates 
 
 A nasty hack involving a custom delegate, timer events and a signal to inform a view that it needs to repaint itself. It is just a proof of concept.
 

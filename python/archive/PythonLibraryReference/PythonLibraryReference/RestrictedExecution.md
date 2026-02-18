@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# RestrictedExecution 
+## RestrictedExecution 
 
 17.1 rexec \-- Restricted execution framework
 
@@ -22,7 +22,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 17.2 Bastion \-- Restricting access to objects
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

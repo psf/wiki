@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse.html?action=print&media=projection)   [Start](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html)
   --------------------------------------------------------------------------------------------------------------------------------------------
 
-# MoinMoin Wiki - an introduction 
+## MoinMoin Wiki - an introduction 
 
 This lecture is for making the first steps easier for wiki beginners.
 
@@ -18,7 +18,7 @@ It is being developed by the [MoinMoin](MoinMoin) community and is available und
 
 ![(!)](/wiki/europython/img/idea.png "(!)") Please incorporate changes, updates and corrections on the [MoinMaster Wiki](http://master.moinmo.in/ "MoinMaster").
 
-## Content 
+### Content 
 
 - [/01 What is a MoinMoin wiki?](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html)
 

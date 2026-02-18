@@ -27,15 +27,15 @@ Please send email to:
 
 [jython-monthly@mchsi.com](mailto:jython-monthly@mchsi.com) or [jython-users@lists.sourceforge.net](mailto:jython-users@lists.sourceforge.net) for discussion.
 
-# Presentations 
+## Presentations 
 
 [Dynamic Scripting on Java](http://downloads.pushtotest.com/presentations/2007_TSSJS_Scripting.pdf)
 
-# Articles 
+## Articles 
 
 **There were no article submissions this month**
 
-# Off The Lists 
+## Off The Lists 
 
 ***Question:***
 
@@ -75,15 +75,15 @@ def redirect():
 
 System.out.println(\"test before redirect\"); redirect() System.out.println(\"test after redirect\");
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Jython Blogs 
+## Jython Blogs 
 
 [Standalone Jython Import](http://stevegilham.blogspot.com/2007/03/standalone-jython-importerror-no-module.html#links)
 
-# IDE 
+## IDE 
 
 [JythonConsole](./JythonConsole.html) 0.0.4 Released - [http://code.google.com/p/jythonconsole/](http://code.google.com/p/jythonconsole/)
 
@@ -103,11 +103,11 @@ Release Highlights in Pydev:
 
 \* Mylar integration: the pydev package explorer now supports mylar (packaged as a separate feature: org.python.pydev.mylar.feature ) \* Code-completion: comment completion is now the same as string completion \* Debug: Breakpoints can be set in external files \* Debug: Breakpoint annotations now show in external files \* Package Explorer: filter for import nodes created \* Fix: Package Explorer Actions: Open action does not expand children when opening python file \* Fix: Project Explorer (WTP) integration: does not conflict with elements from other plugins anymore (such as java projects) \* Fix: halt in new project wizard: when creating a new project from the pydev wizard it was halting in some platforms \* Fix: \${string_prompt} in run config: now only evaluated on the actual run \* Fix: Code-Completion: jython shell was not handling java.lang.[NoClassDefFoundError](../../../about/NoClassDefFoundError) correctly
 
-# Interesting Facts 
+## Interesting Facts 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Useful Links 
+## Useful Links 
 
 [Jacl v2.5 Released](http://www-1.ibm.com/support/docview.wss?rs=180&uid=swg24012144)
 

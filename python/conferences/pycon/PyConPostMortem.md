@@ -12,7 +12,7 @@ A postmortem IRC session was held at 1PM EST, Friday April 2nd. **irc.freenode.n
 
 Please record \"concrete successes\" in [PyCon2004Successes](./PyCon2004Successes.html). Start another page for \"concrete failures\" if needed? \-- specifically not just negative feedback, but things that absolutely didn\'t work out.
 
-# Statistics 
+## Statistics 
 
 Pre-registered numbers: 340 attendees.
 
@@ -22,7 +22,7 @@ Pre-registered numbers: 340 attendees.
 
 Total Paid Registrants: 364 -(Trevor and Neal verified stat)
 
-# Ideas for next time 
+## Ideas for next time 
 
 - When registering users, get permission to send them status e-mail (or to put them on a mailing list), and offer them a check box giving permission to add their name to a public list of delegates (to avoid privacy issues).
 
@@ -84,7 +84,7 @@ Total Paid Registrants: 364 -(Trevor and Neal verified stat)
 
 - ALL talk slides need to be posted ahead of time and that link needs to be documented at the beginning of each talk
 
-# Tasks for next time 
+## Tasks for next time 
 
 - Steve will chair one more conference; we need to arrange the succession for
 
@@ -96,7 +96,7 @@ Total Paid Registrants: 364 -(Trevor and Neal verified stat)
 
 - Design daily feedback forms for web input and fast analysis to allow day-by-day scheduling responses, repeats of talks many people missed, etc.
 
-# Responsibilities for Future Years 
+## Responsibilities for Future Years 
 
 This is just a draft of things that have been identified so far, and is not cast in stone. Feel free to add other suggestions.
 

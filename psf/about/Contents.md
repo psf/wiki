@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Software Foundation (PSF) Wiki
+## Python Software Foundation (PSF) Wiki
 
 **Please note:** The wiki pages in this wiki default to *world readable*. Unlike in previous years, the wiki is no longer private. You do need to be in the [MembersGroup](MembersGroup) to make changes. For this, you will need to create an account in this wiki (click on \"Login\" on the left). Please contact the staff for details ([psf-staff@python.org](mailto:psf-staff@python.org)).
 
@@ -34,7 +34,7 @@ Contents
 :::
 
 ::: 
-### [Board of Directors & Officers](#id1)
+#### [Board of Directors & Officers](#id1)
 
 - [Board](Board) pages (private pages for the Board of Directors only)
 - [Role of the Secretary](Secretary)
@@ -50,7 +50,7 @@ Contents
 :::
 
 ::: 
-### [Members](#id2)
+#### [Members](#id2)
 
 (these page are for members only)
 
@@ -67,7 +67,7 @@ Contents
 :::
 
 ::: 
-### [New Membership Model (2013)](#id3)
+#### [New Membership Model (2013)](#id3)
 
 - [The New PSF Membership Model](../governance/NewMembershipModel)
 - [Membership Model Visualization](../governance/MembershipModelVisualization)
@@ -76,7 +76,7 @@ Contents
 :::
 
 ::: 
-### [PSF Working Groups](#id4)
+#### [PSF Working Groups](#id4)
 
 - [Example PSF Workgroup Page](Example PSF Workgroup Page) (includes info on how to begin a workgroup)
 - [Example PSF Workgroup Charter](Example PSF Workgroup Charter)
@@ -101,7 +101,7 @@ Contents
 :::
 
 ::: 
-### [Staffing](#id5)
+#### [Staffing](#id5)
 
 - [Current PSF Staff and future staff goals](./Current(20)PSF(20)Staff(20)and(20)future(20)staff(20)goals.html) (May 2016)
 - [Conference Coordinator 2009](./Conference(20)Coordinator(20)2009.html) (out of date and not in use)
@@ -110,14 +110,14 @@ Contents
 :::
 
 ::: 
-### [PSF Projects](#id6)
+#### [PSF Projects](#id6)
 
 - [PSF Project Summaries](http://wiki.python.org/moin/PythonSoftwareFoundation) (public)
 - (private pages can be added here)
 :::
 
 ::: 
-### [Certification Program](#id7)
+#### [Certification Program](#id7)
 
 This section is from 2008 and is not something that evolved into a PSF project.
 
@@ -127,7 +127,7 @@ This section is from 2008 and is not something that evolved into a PSF project.
 :::
 
 ::: 
-### [Fellow / Nominated Member Nominations](#id8)
+#### [Fellow / Nominated Member Nominations](#id8)
 
 - [Current Nominations](./Current(20)Nominations.html) (nominations for PSF Fellow membership)
 - [Nominations March 2013](./Nominations(20)March(20)2013.html) (for March 2013 members\' meeting)
@@ -141,21 +141,21 @@ This section is from 2008 and is not something that evolved into a PSF project.
 :::
 
 ::: 
-### [Trademarks](#id9)
+#### [Trademarks](#id9)
 
 - [Trademarks Committee](TrademarksCommittee)
 - [PyPI Logo Proposal](ProposedLogoForPyPI)
 :::
 
 ::: 
-### [Planning](#id10)
+#### [Planning](#id10)
 
 - [Budget Planning](BudgetPlanning)
 - [Strategic Planning](StrategicPlanning)
 :::
 
 ::: 
-### [Communications](#id11)
+#### [Communications](#id11)
 
 - [Communications Status Reports](../communications/Communications) (historical information & no longer in use)
 - [Communication Chair Processes](../communications/CommunicationChairProcesses)
@@ -163,14 +163,14 @@ This section is from 2008 and is not something that evolved into a PSF project.
 :::
 
 ::: 
-### [Community](#id12)
+#### [Community](#id12)
 
 - [Community Relations](../communications/Community Relations)
 - [Community Conference Reports](../communications/Community Conference Reports)
 :::
 
 ::: 
-### [Marketing](#id13)
+#### [Marketing](#id13)
 
 - [PSF Press Kit](../marketing/PSF Press Kit) (logos, descriptions, pointers)
 - [PSF Logos](../marketing/PSF Logos) (official versions of the PSF logos)
@@ -184,7 +184,7 @@ This section is from 2008 and is not something that evolved into a PSF project.
 :::
 
 ::: 
-### [Intellectual Property](#id14)
+#### [Intellectual Property](#id14)
 
 - [PSF Domains](./PSF(20)Domains.html)
 - [PSF SSL Certificates](./PSF(20)SSL(20)Certificates.html)
@@ -192,7 +192,7 @@ This section is from 2008 and is not something that evolved into a PSF project.
 :::
 
 ::: 
-### [Howtos](#id15)
+#### [Howtos](#id15)
 
 - [Preparing the Board Meeting Minutes](./howto(2f)Board_Minutes.html)
 - [Info for new PSF members](../governance/Info for new PSF members)
@@ -201,7 +201,7 @@ This section is from 2008 and is not something that evolved into a PSF project.
 :::
 
 ::: 
-### [General](#id16)
+#### [General](#id16)
 
 - [WikiInstructions](WikiInstructions): how to use this wiki
 - [RecentChanges](RecentChanges): see where people are currently working
@@ -212,7 +212,7 @@ This section is from 2008 and is not something that evolved into a PSF project.
 :::
 
 ::: 
-### [Access Control](#id17)
+#### [Access Control](#id17)
 
 This page and many of the pages linked to from this page, are editable by all members and readable world-wide (per default wiki settings).
 
@@ -222,7 +222,7 @@ To make them readable only by members, use the following ACL definition:
 :::
 
 ::: 
-### [Administrative](#id18)
+#### [Administrative](#id18)
 
 - [MembersGroup](MembersGroup)
 - [AdminGroup](AdminGroup)

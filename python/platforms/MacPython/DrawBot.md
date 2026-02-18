@@ -13,11 +13,11 @@ Currently developed by [JustVanRossum](../../archive/JustVanRossum).
 [BobIppolito](../../people/BobIppolito) and [BrendanHall](./BrendanHall.html) are hacking on a DrawBot based project that includes dynamic GUI generation (using [GNUStep Renaissance](http://www.gnustep.it/Renaissance/)) and more, it will probably end up being a fork as the plans are to become a tool for designing, not so much for teaching. You can download the prototype, which includes a self-contained application and the source from the links section. Here\'s a screenshot:\
 ![](http://undefined.org/python/DrawBotWithMoreWidgets.png "http://undefined.org/python/DrawBotWithMoreWidgets.png")
 
-# status
+## status
 
 DrawBot was first unleashed on September 29, 2003.
 
-# links
+## links
 
 [http://drawbot.com](http://drawbot.com)
 

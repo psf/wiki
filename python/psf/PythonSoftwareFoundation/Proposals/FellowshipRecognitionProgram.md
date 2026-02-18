@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Fellow Recognition Program 
+## PSF Fellow Recognition Program 
 
 **Proposal editor:** Alyssa Coghlan
 
@@ -20,6 +20,6 @@ All PSF Members are now able to submit new PSF Fellow nominations, as described 
 
 The current list of fellows can be seen at [https://www.python.org/psf/members/#fellows](https://www.python.org/psf/members/#fellows), while previously submitted nominations can be seen at [https://wiki.python.org/moin/PythonSoftwareFoundation/FellowNominations](https://wiki.python.org/moin/PythonSoftwareFoundation/FellowNominations)
 
-## Historical proposal 
+### Historical proposal 
 
 To see the original proposal that was posted here, refer to [https://wiki.python.org/moin/PythonSoftwareFoundation/Proposals/FellowshipRecognitionProgram?action=recall&rev=7](https://wiki.python.org/moin/PythonSoftwareFoundation/Proposals/FellowshipRecognitionProgram?action=recall&rev=7)

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Firebird 
+## Firebird 
 
 URL
 
@@ -18,7 +18,7 @@ licence
 platforms
 :   Unix, Win 32/x64, Mac OS X
 
-## Pros 
+### Pros 
 
 - Powerful and stable cross-platform database
 
@@ -28,9 +28,9 @@ platforms
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-#### Python 2.x-3.x Driver (Official Stable) 
+##### Python 2.x-3.x Driver (Official Stable) 
 
 Pure python ctypes based driver (fbclient library is required) is located in svn repository (All official driver development is done in this repository) In addition to feature set of the standard Python DB API, fdb also exposes nearly the entire native client API of the database engine, including two-phase commit, server-side events, and an administrative API.
 
@@ -55,7 +55,7 @@ Python versions
 
 It was tested with cpython
 
-#### Pure Python 3.x Driver 
+##### Pure Python 3.x Driver 
 
 New pure python 3.x driver (no C compiler needed or fbclient library) development is located on github repository
 

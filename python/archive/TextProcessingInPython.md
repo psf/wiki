@@ -18,19 +18,19 @@ Buy the dead-trees version at:
 
 A review by Danny Yee at: [http://dannyreviews.com/h/Text_Python.html](http://dannyreviews.com/h/Text_Python.html)
 
-# Notes 
+## Notes 
 
 I\'m uploading some notes I kept from section 1.1, on his combinatorial [HigherOrderFunction](./HigherOrderFunction.html)s, in the thought that someone might gain some use or insight out of it. \-- [LionKimbro](../people/LionKimbro)
 
-## Chapter 1, Section 1 
+### Chapter 1, Section 1 
 
-### Combinatorial.py 
+#### Combinatorial.py 
 
 ![mertz_chof.png](attachments/TextProcessingInPython/mertz_chof.png "mertz_chof.png")
 
 [mertz_chof.svg](attachments/TextProcessingInPython/mertz_chof.svg)
 
-### Question 3 
+#### Question 3 
 
 I took a particular interest in question 3. Question 3 asks: \"Why is ident() important?\"
 

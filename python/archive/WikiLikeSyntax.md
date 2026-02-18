@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Here\'s a way to make wiki-like syntaxes in Python.
 
-# Lines as Tokens 
+## Lines as Tokens 
 
 Usually, you tokenize input word-by-word.
 
 For a wiki-like syntax, it can be easier to go *line by line.*
 
-## Data Flow 
+### Data Flow 
 
 We start with:
 
@@ -60,7 +60,7 @@ We start with:
     <p>This is an example.</p>
     <p>We want to demonstrate how you take text with multple lines, and turn it into one paragraph.</p>
 
-## Spec out Types of Lines 
+### Spec out Types of Lines 
 
 Our first task is to spec out the types of lines that exist.
 
@@ -99,7 +99,7 @@ Here are our [RegularExpression](../people/RegularExpression)s:
 
 This is good to start with. You can add more types now, if you want, though!
 
-## Tokenize a Line 
+### Tokenize a Line 
 
 Now, we\'ll teach Python how to tokenize a line.
 
@@ -130,7 +130,7 @@ Okay! We can tokenize a line.
 
 Next up, read all the lines in a string.
 
-## Tokenize All Lines 
+### Tokenize All Lines 
 
 :::: 
 ::: 
@@ -146,9 +146,9 @@ Well, that about wraps that one up.
 
 Of course, you\'re going to have to get some text on your own. Not my concern.
 
-# Isolating Paragraphs 
+## Isolating Paragraphs 
 
-## Lines and Paragraphs 
+### Lines and Paragraphs 
 
 We\'ve done all the tokenizing. Now comes the trickier part.
 
@@ -166,7 +166,7 @@ But we can\'t just be naive, and just work on blank lines; Because, there are he
 
 What we\'re going to do is: Whever text lines follow one another in series- roll that whole thing up into one big paragraph.
 
-## Turn Text into Paragraphs 
+### Turn Text into Paragraphs 
 
 There are probably better ways to do this. Please adjust this text here, if you know one. But, this is how I did it.
 
@@ -204,7 +204,7 @@ There!
 
 Now you have all your texts together!
 
-## Throw Out the Blanks 
+### Throw Out the Blanks 
 
 Now that we\'ve grouped our text, we can huck our blank lines! They\'ve served their purpose.
 
@@ -216,7 +216,7 @@ Now that we\'ve grouped our text, we can huck our blank lines! They\'ve served t
 :::
 ::::
 
-# Render HTML 
+## Render HTML 
 
 Now we can output some nice HTML. ![:)](/wiki/europython/img/smile.png ":)")
 
@@ -240,7 +240,7 @@ Now we can output some nice HTML. ![:)](/wiki/europython/img/smile.png ":)")
 :::
 ::::
 
-## Celebrate 
+### Celebrate 
 
 Ta-da! That\'s basically it!
 
@@ -248,15 +248,15 @@ Ta-da! That\'s basically it!
 
 So, there\'s some things you might want to do.
 
-# Extensions and Alternatives 
+## Extensions and Alternatives 
 
-## Escape for HTML 
+### Escape for HTML 
 
 You might want to escape \< and \> and \" to \< and \> and \" before you output your paragraph text.
 
 There\'s a page on this wiki about how to do it; The mis-named [EscapingHtml](../people/EscapingHtml), or something like that.
 
-## Italics, Bold, Links 
+### Italics, Bold, Links 
 
 Regexes, my friend, regexes.
 
@@ -312,7 +312,7 @@ Use it with this:
 :::
 ::::
 
-## Link Patterns 
+### Link Patterns 
 
 Link patterns are easier than bold or italic.
 
@@ -356,7 +356,7 @@ That let\'s you write stuff like:
 
     [[http://freshmeat.net/] Fresh Meat:] Don't worry- it's work safe.
 
-## Regions 
+### Regions 
 
 By \"regions,\" I mean things like:
 
@@ -375,11 +375,11 @@ Hint: Make your tokens of the form: (token_type, token_groups, start_pos, end_po
 
 Another alternative is to, in your token, keep track of the original line. Then perform a grouping action, like we did when we grouped text lines into paragraphs. Only here, you\'ll ignore whatever type it thought the token was originally, when you come across the region.
 
-# See Also 
+## See Also 
 
 - [TextFilter](http://c2.com/cgi/wiki?TextFilter "Wiki") \-- inventory of text filters like this
 
-# Discussion 
+## Discussion 
 
 This is how I figured out how to do these things. If you know of better ways, please- by all means, list them here, point to them, or- probably best, just edit this text in-place. ![:)](/wiki/europython/img/smile.png ":)")
 

@@ -6,21 +6,21 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #13 
+## IRC Meeting #13 
 
 (Actually, this is more like meeting #14 or #15, but we kept the agenda from meeting #12 for two or three weeks.)
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode at 18:00 CEST on Thursday 29th May.
 
 Please look at the minutes from the last meeting for more background information: [../IRCMeeting12](IRCMeeting12)
 
-## Present 
+### Present 
 
 Laura, Stephan, Jacob, John, Aiste, David, Harald
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Registration/Budget - status as early registration end approaches
   - **We\'re close to the early bird deadline, so we need to remind people to register.**
@@ -68,6 +68,6 @@ Laura, Stephan, Jacob, John, Aiste, David, Harald
 
   - **Food for sprints will be ordered after the conference starts.**
 
-## Actions 
+### Actions 
 
 - See the bold sections above\...

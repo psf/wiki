@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PostgreSQL 
+## PostgreSQL 
 
 URL
 
@@ -19,7 +19,7 @@ platforms
 
 :   Unix, win32 ([NT-based Microsoft operating system](http://www.postgresql.org/docs/faqs.FAQ_MINGW.html))
 
-## Pros 
+### Pros 
 
 From the [features page](http://www.postgresql.org/about/):
 
@@ -38,13 +38,13 @@ From the [features page](http://www.postgresql.org/about/):
 - Serializable transaction isolation
 - Multi-Version Concurrency Control (MVCC) for highly scalable concurrent applications
 
-## Cons 
+### Cons 
 
 - \[To be written\]
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### psycopg2
+#### psycopg2
 
 URL
 
@@ -66,7 +66,7 @@ Psycopg is the most popular PostgreSQL adapter for the Python programming langua
 
 Extended documentation available on [http://initd.org/psycopg/docs/](http://initd.org/psycopg/docs/)
 
-### PyGreSQL 
+#### PyGreSQL 
 
 URL
 
@@ -84,7 +84,7 @@ Python versions
 Maintenance
 :   Last version released is 5.0 (2016-03-20)
 
-### pyPgSQL 
+#### pyPgSQL 
 
 URL
 
@@ -102,13 +102,13 @@ Python versions
 Maintenance
 :   Active, sporatic (as of 10/2003)
 
-#### Extensions to DB API 
+##### Extensions to DB API 
 
 - The fetch methods on cursors return an instances of [PgResultSet](./PgResultSet.html), which you can use to access rows by index (like in DB-API), dictionary-like or with attributes. This feature can be turned off for a slight performance boost.
 
 - Support for PostgreSQL notifications in the low-level API.
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -127,7 +127,7 @@ mxODBC is compatible with the [PostgreSQL ODBC driver](http://www.postgresql.org
 
 Note that you have to enable the advanced option \"Use bytea for lo\" in case you want to work with BLOBs.
 
-### pyodbc
+#### pyodbc
 
 URL
 
@@ -146,7 +146,7 @@ Actively maintained Open Source project.
 
 Precompiled binaries are available for Windows. RedHat Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
 
-### py-postgresql
+#### py-postgresql
 
 URL
 
@@ -164,13 +164,13 @@ Python version
 Maintenance
 :   Active development
 
-#### Comments 
+##### Comments 
 
 Python 3 port of pg_proboscis and friends. Pure Python with C optimizations. Prepared statement driven APIs, PG-API.(DB-API is there as well).
 
 Written with efficiency and flexibility in mind. Data is streamed in when requested to do so, and always is streamed in under DB-API.
 
-### txpostgres
+#### txpostgres
 
 URL
 
@@ -188,7 +188,7 @@ Uses psycopg2, which exposes the async interfaces of the native PostgreSQL libra
 
 Can be used as a drop-in replacement for Twisted\'s adbapi module when working with PostgreSQL. The only part that does not provide 100% compatibility is connection pooling, although pooling provided by txpostgres is very similar to the one Twisted adbapi offers.
 
-### pg8000
+#### pg8000
 
 URL
 
@@ -205,7 +205,7 @@ Python version
 
 pg8000 is somewhat distinctive in that it is written entirely in Python.
 
-### PyPyODBC (Pure Python ODBC) 
+#### PyPyODBC (Pure Python ODBC) 
 
 URL
 
@@ -226,7 +226,7 @@ Almost totally same usage as pyodbc ( can be seen as a re-implementation of pyod
 
 Simple - the whole module is implemented in a single python script with less than 3000 lines.
 
-### mxODBC Connect 
+#### mxODBC Connect 
 
 URL
 
@@ -247,7 +247,7 @@ mxODBC Connect supports asynchronous query execution via the popular [gevent pac
 
 mxODBC Connect Server is compatible with the [PostgreSQL ODBC drivers](http://www.postgresql.org/ftp/odbc/versions/).
 
-### Other Python Interfaces for PostgreSQL 
+#### Other Python Interfaces for PostgreSQL 
 
 These entries still need to be updated to the standard format (see above):
 
@@ -267,7 +267,7 @@ These entries still need to be updated to the standard format (see above):
 
 ------------------------------------------------------------------------
 
-## Supported Python Applications 
+### Supported Python Applications 
 
 - [Zope](../web/Zope)
 

@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-# کتاب فارسی: آموزشی کاربردی جنگو 
+## کتاب فارسی: آموزشی کاربردی جنگو 
 
 - Author: Alireza Azimzadeh Milani
 
@@ -24,7 +24,7 @@ More Info: [https://www.pendarepars.com/book/pdf/4258](https://www.pendarepars.c
 
 ------------------------------------------------------------------------
 
-## Web Development with Django Cookbook - Second Edition 
+### Web Development with Django Cookbook - Second Edition 
 
 - Aidas Bendoraitis
 
@@ -36,7 +36,7 @@ More Info: [https://www.packtpub.com/web-development/web-development-django-cook
 
 ------------------------------------------------------------------------
 
-## Two Scoops of Django: Best Practices for Django 1.6 
+### Two Scoops of Django: Best Practices for Django 1.6 
 
 - Daniel Greenfeld, Audrey Roy
 
@@ -48,7 +48,7 @@ More Info: [http://twoscoopspress.com/products/two-scoops-of-django-1-6](http://
 
 ------------------------------------------------------------------------
 
-## Pro Django, 2nd Edition 
+### Pro Django, 2nd Edition 
 
 - Marty Alchin
 
@@ -58,7 +58,7 @@ Summary: Examines in great detail the complex problems that Python and Django we
 
 ------------------------------------------------------------------------
 
-## The Pylons Book: The Definitive Guide to Pylons 
+### The Pylons Book: The Definitive Guide to Pylons 
 
 - James Gardner
 
@@ -68,7 +68,7 @@ Online (GNU FDL) version at [http://pylonsbook.com/](http://pylonsbook.com/)
 
 ------------------------------------------------------------------------
 
-## Python Web Development with Django 
+### Python Web Development with Django 
 
 - Jeff Forcier, Paul Bissex, and Wesley Chun
 
@@ -80,7 +80,7 @@ More Info: [http://withdjango.com/](http://withdjango.com/)
 
 ------------------------------------------------------------------------
 
-## The Definitive Guide to Django: Web Development Done Right 
+### The Definitive Guide to Django: Web Development Done Right 
 
 - Adrian Holovaty, Jacob Kaplan-Moss
 
@@ -90,7 +90,7 @@ Online version at [http://www.djangobook.com/](http://www.djangobook.com/).
 
 ------------------------------------------------------------------------
 
-## CherryPy Essentials: Rapid Python Web Application Development 
+### CherryPy Essentials: Rapid Python Web Application Development 
 
 - Sylvain Hellegouarch
 
@@ -102,7 +102,7 @@ More info: [http://www.packtpub.com/book/CherryPy](http://www.packtpub.com/book/
 
 ------------------------------------------------------------------------
 
-## Rapid Web Applications with TurboGears 
+### Rapid Web Applications with TurboGears 
 
 - Mark Ramm, Kevin Dangoor, Gigi Sayfan
 
@@ -116,7 +116,7 @@ This book will help experienced Web developers get productive with [TurboGears](
 
 ------------------------------------------------------------------------
 
-## Python Web Programming 
+### Python Web Programming 
 
 - Steve Holden
 
@@ -126,7 +126,7 @@ Aimed primarily at experienced programmers who have used other languages, it pro
 
 ------------------------------------------------------------------------
 
-## Web Programming in Python: Techniques for Integrating Linux, Apache and MySQL 
+### Web Programming in Python: Techniques for Integrating Linux, Apache and MySQL 
 
 - George K. Thiruvathukal, Thomas W. Christopher, John P. Shafaee
 

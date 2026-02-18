@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyConIndia 2010 Sponsorship Prospectus 
+## PyConIndia 2010 Sponsorship Prospectus 
 
 The Indian Python Software Society(IPSS) and the [PyCon](../PyCon) India organizing committee are happy to announce the second [PyCon](../PyCon) India. The conference will be held at MSRIT, Bangalore on 25th and 26th September 2010.
 
@@ -22,9 +22,9 @@ The tiers and benefits are listed below. For more details, please contact
 
 - Phone: +919880240460
 
-# Sponsorship Tiers 
+## Sponsorship Tiers 
 
-## Platinum (1L) 
+### Platinum (1L) 
 
 - Name on Banner
 - Name on site
@@ -33,14 +33,14 @@ The tiers and benefits are listed below. For more details, please contact
 - Name on Swag bag
 - Prominent stall
 
-## Gold (50k) 
+### Gold (50k) 
 
 - Name on banner
 - Name on site
 - Name in brochure
 - Contact information of delegates (unless they\'ve opted out).
 
-## Silver (25k) 
+### Silver (25k) 
 
 - Name on banner
 - Name on site

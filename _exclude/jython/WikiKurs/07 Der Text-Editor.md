@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)07(20)Der(20)Text(2d)Editor.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)06(20)Die(20)eigene(20)Homepage(20)im(20)Wiki.html) Slide 7 of 27 [\>\>](./WikiKurs(2f)08(20)Tastenkombinationen.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Der textbasierte Editor 
+## Der textbasierte Editor 
 
 Wir haben ihn soeben gerade beim Anlegen der eigenen Homepage bereits kennen gelernt: den text-basierten Editor von [MoinMoin](MoinMoin). Man kann ihn natürlich nicht nur dafür verwenden, sondern auch um beliebige andere Seiten im Wiki zu bearbeiten.
 

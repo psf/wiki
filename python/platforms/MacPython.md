@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Documentation 
+## Documentation 
 
 ------------------------------------------------------------------------
 
@@ -26,13 +26,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [/Leopard](MacPython/Leopard) (Mac OS X 10.5.x)
 
-# Community 
+## Community 
 
 ------------------------------------------------------------------------
 
 There\'s a new IRC chat room ( #macpython on irc.freenode.net ) for development of/with MacPython. see the [MacPythonChannel](./MacPythonChannel.html) page for more information.
 
-# Interesting Projects 
+## Interesting Projects 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ MacPython projects (that have additional information available on this wiki):
 
 - [/AppscriptModule](MacPython/AppscriptModule)
 
-# People 
+## People 
 
 ------------------------------------------------------------------------
 

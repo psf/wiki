@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Methods of specifying Jython settings 
+## Methods of specifying Jython settings 
 
 - `preProperties`{.backtick}, typically Java system properties specified with `-D`{.backtick} **before** class/jar specification on Java command line
 
@@ -20,7 +20,7 @@ The runtime registry (`PySystemState.registry`{.backtick} from Java, or `sys.reg
 
 Other command-line arguments are written directly into Options static variables without going through the properties system; the overlapping properties are `python.divisionWarning`{.backtick}, `python.options.Qnew`{.backtick} and `python.verbose`{.backtick}. In these overlapping cases, the above three sources always take precedence over the command-line equivalents. (This precedence should likely be reversed.)
 
-## Documentation 
+### Documentation 
 
 - The options whose destinations are static variables in the `Options`{.backtick} class are well-documented [there](https://jython.svn.sourceforge.net/svnroot/jython/branches/asm/src/org/python/core/Options.java).
 

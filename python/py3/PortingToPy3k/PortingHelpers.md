@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Porting Helpers 
+## Porting Helpers 
 
 There are quite a few people who are interested in running their application/workflow using python3. In order to do that they need to port the stack of libraries underneath their application to use python3. This page is to start collecting and organizing these people so they don\'t duplicate work when porting libraries to python3, figure out how to get the changes merged upstream, figure out what libraries are important to port, and other sorts of coordination.
 
 We\'ve just started on this but as we get more feedback of what people want to work on what tools would help them do their job we\'ll update the page.
 
-## Knowledge we need 
+### Knowledge we need 
 
 - Lists of dependencies between python modules. Modules that are at the base of a lot of important dependency trees are more in need of a port.
   - Possibility \-- Linux distributions have extensive dependency information between packages. We should be able to run a script against the repository metadata on several Linux distributions to get an idea about this.
@@ -38,4 +38,4 @@ We\'ve just started on this but as we get more feedback of what people want to w
   - Has upstream been asked if they\'ll accept python3 patches?
   - Has upstream professed interest in either a combined source or a separate source?
 
-## Tools we need/could use 
+### Tools we need/could use 

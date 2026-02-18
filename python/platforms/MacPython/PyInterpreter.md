@@ -10,24 +10,24 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [PyInterpreter](PyInterpreter) will only work in [MacPython]() 2.3 or later with [/PyObjC](./MacPython(2f)PyInterpreter(2f)PyObjC.html) 1.0 or later, and will not be ported or tested on anything older than that.
 
-# Status 
+## Status 
 
 [PyInterpreter](PyInterpreter) 0.3 ([download](http://undefined.org/python/PyInterpreter-0.3.tgz)) was released on 10/28/2003. The latest version is in [/PyObjC](./MacPython(2f)PyInterpreter(2f)PyObjC.html) svn.
 
-# Screenshots 
+## Screenshots 
 
 ![](http://undefined.org/python/PyInterpreter_0.png "http://undefined.org/python/PyInterpreter_0.png")
 
-# Homepage 
+## Homepage 
 
 Just here, for now
 
-# Credits 
+## Credits 
 
 [BobIppolito](../../people/BobIppolito) - Developer\
 [JustVanRossum](../../archive/JustVanRossum) - Insight, ideas, testing
 
-# Suggestions 
+## Suggestions 
 
 *From [JustVanRossum](../../archive/JustVanRossum):*
 

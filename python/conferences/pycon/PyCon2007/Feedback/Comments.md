@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Other comments 
+## Other comments 
 
-## How can we improve PyCon next year? 
+### How can we improve PyCon next year? 
 
 Have lightning talk speakers sign up for lightning talks in advance, and have people vote on the lightning talks on the first day or so, so it gets a little more condensed? OTOH that kinda defeats the purpose of lightning talks. Just an idea.
 
@@ -228,7 +228,7 @@ The [WiFi](./WiFi.html) was good - but not 100%. Some talks I just couldn\'t get
 
 Make it cheaper. More lightning talks. Encourage REAL pair programming in the sprints. The sprints were silent coding for most of the people.
 
-## Other comments? 
+### Other comments? 
 
 The conference this year seemed to be the smoothest run [PyCon](../../PyCon) yet. Kudos to all the organizers who put in all the hard work to make it look so easy.
 

@@ -16,11 +16,11 @@ Present \[Nicole unavailable\]:
 - Dustin
 - Mark
 
-# News 
+## News 
 
 Beta released [https://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html](https://pyfound.blogspot.com/2018/03/warehouse-all-new-pypi-is-now-in-beta.html)
 
-# Blocked on anything? Announcements? 
+## Blocked on anything? Announcements? 
 
 Laura:
 
@@ -64,7 +64,7 @@ Mark:
 
 - Needs licenses and binaries for [HashiCorp](./HashiCorp.html) from Ernest (not high priority)
 
-# Followup 
+## Followup 
 
 - When can we announce \[infra\] credits? - PSF drafting a letter to \[other\] contact - that they will be getting PSF infra
 
@@ -72,7 +72,7 @@ Mark:
 
 - Mark: Facebook & NLNet grants: see above
 
-# Bug triage 
+## Bug triage 
 
 User support ticket system [https://github.com/pypa/warehouse/issues/3231](https://github.com/pypa/warehouse/issues/3231)
 
@@ -86,11 +86,11 @@ User support ticket system [https://github.com/pypa/warehouse/issues/3231](https
 
 - Resolution: revisit in 2 weeks when team is reassembled, see who has time to investigate
 
-# Need from Donald 
+## Need from Donald 
 
 - transparent \[sponsor\] logo (sponsor really, Ernest can email our contact)
 
-# TODO 
+## TODO 
 
 - Ernest & Dustin - project end dates based on updated fund allocation
 

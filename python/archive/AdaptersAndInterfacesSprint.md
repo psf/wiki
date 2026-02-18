@@ -22,11 +22,11 @@ The products of the sprint will be examples, use cases and prose to add to the l
 
 This Sprint will be held Tuesday, and will begin at about 10 am
 
-# Prerequisites 
+## Prerequisites 
 
 Please read the PEPs. Other than that, interest in participation is enough.
 
-# Participants 
+## Participants 
 
 If you plan to participate, please put your name below: If you don\'t sign up, you can still come and participate. The sign up is to give me an idea who will be there. (If no one at all signs up, however, I will assume there is no interest).
 
@@ -35,6 +35,6 @@ If you plan to participate, please put your name below: If you don\'t sign up, y
 - Bruce Campbell
 - Your name here
 
-# Comments 
+## Comments 
 
 Feel free to add comments to this page.

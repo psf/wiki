@@ -6,18 +6,18 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Simple Networking For Pygame 
+## Simple Networking For Pygame 
 
 Write a simple network library which integrates with the pygame event queue.
 
-## Basic requirements: 
+### Basic requirements: 
 
 - Seamless reconnection
 - Support TCP and UDP
 - use select based non blocking IO
 - network library is iterated manually (so we use our own event loops)
 
-## Potential API: 
+### Potential API: 
 
 - connect(uri, onConnection, onLostConnection)
 - send(conn, data)
@@ -25,11 +25,11 @@ Write a simple network library which integrates with the pygame event queue.
 - listen(uri, onConnection, onLostConnection)
 - poll()
 
-## Things not to worry about: 
+### Things not to worry about: 
 
 - Object serialization
 
-## NOTES, api part 2? 
+### NOTES, api part 2? 
 
 I think I like the url idea. We could not worry about connections at all by using urls. Optional carring about connections could be implmented.
 
@@ -55,7 +55,7 @@ The event queue api could event be used for some of it.
                    # we write the incomming text to our chat window.
                    chatwindow.write_text(e.peer, e.data)
 
-## COMMENT 
+### COMMENT 
 
 The pygame queue integrated networking library is a great idea.
 
@@ -69,7 +69,7 @@ Creating and maintaining connections would make the library more generally usefu
 
 dkeeney
 
-## Proposal 
+### Proposal 
 
 I\'m interested in taking on this project, and I\'ve started to write up my ideas on my website. Please take a look and let me know what you think.
 

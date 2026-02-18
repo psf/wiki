@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007 Public Relations 
+## EuroPython 2007 Public Relations 
 
 Some promotional resources:
 
-## Announcement Channels 
+### Announcement Channels 
 
 It\'s useful to look at the [PyCon2007/Feedback](../../../pycon/PyCon2007/Feedback) page to see which channels are most influential. Here are some suggestions:
 

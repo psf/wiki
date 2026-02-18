@@ -10,7 +10,7 @@ The Beginning Programmers Workshop will be held as a Birds-of-a-Feather (BoF) se
 
 The idea is simply to bring new programmers, and programmers new to Python, together with experienced ones to take their first steps in Python in an environment with plenty of help to get them over the hump.
 
-# Project suggestions for attendees 
+## Project suggestions for attendees 
 
 \"Consider working in pairs for a better programming and learning experience!\"
 

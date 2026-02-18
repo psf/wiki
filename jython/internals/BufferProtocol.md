@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Buffer Protocol 
+## Buffer Protocol 
 
 This page proposes (now begins to document) a design for a Jython equivalent to the CPython buffer protocol. A good place to start is this [worked example (pdf)](attachments/BufferProtocol/buffer_api_model.pdf "worked example (pdf)") that motivated the current design.
 
-## What is the Buffer API? 
+### What is the Buffer API? 
 
 The Jython Buffer API is an interface you can use in Java when accessing or implementing certain built-in types, or your own. It is the basis of the type `memoryview`{.backtick} with which it shares many features.
 
@@ -18,7 +18,7 @@ In CPython, certain objects are based on an underlying memory array or buffer. T
 
 The capability is just as useful in Jython, and has been implemented for version 2.7.
 
-## Accessing an Object that has the Buffer API 
+### Accessing an Object that has the Buffer API 
 
 Objects flag their willingness to provide a buffer by implementing the following interface:
 
@@ -160,7 +160,7 @@ Notice that an object that implements `PyBuffer`{.backtick} must itself implemen
 
 Note that `PyBuffer`{.backtick} extends the `AutoCloseable`{.backtick} interface, so that you can use the try-with-resources construct to manage buffer lifetime. (This was added shortly after Java 7 became the minimum platform.)
 
-## Adding the Buffer API to an Object 
+### Adding the Buffer API to an Object 
 
 The core package org.python.core only defines the interfaces. Several `PyBuffer`{.backtick} implementations that could be exported by object implementations are provided in `org.python.core.buffer`{.backtick}. The place to start is with one of these basic types:
 
@@ -175,9 +175,9 @@ The core package org.python.core only defines the interfaces. Several `PyBuffer`
 
 These could all be extended or for a more sophisticated behaviour, consider extending `BaseBuffer`{.backtick}.
 
-## Converting from CPython 
+### Converting from CPython 
 
-### Similarities with CPython 
+#### Similarities with CPython 
 
 - The navigational arrays (`shape`{.backtick}, `strides`{.backtick}, `suboffsets`{.backtick}) and `format`{.backtick}, `unitsize`{.backtick} are present with the same meanings.
 
@@ -185,7 +185,7 @@ These could all be extended or for a more sophisticated behaviour, consider exte
 
 - The discipline of matching `get`{.backtick} and `release`{.backtick} applies also in Jython.
 
-### Differences from CPython 
+#### Differences from CPython 
 
 - `PyBuffer`{.backtick} is a Java interface: quantities that were struct members become `getXXX()`{.backtick} methods.
 

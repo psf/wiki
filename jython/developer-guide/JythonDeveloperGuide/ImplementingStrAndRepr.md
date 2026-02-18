@@ -6,12 +6,12 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Implementing `__str__` and `__repr__`
+## Implementing `__str__` and `__repr__`
 
 When coding a subclass of PyObject, it is somewhat tricky to get a correct implementation of `__repr__` and `__str__` which works through the exposed methods and the related builtins, while also supporting derived types. Here are some quick guidelines to help with this problem.
 
 ::: 
-### Same implementation for `__repr__` and `__str__`
+#### Same implementation for `__repr__` and `__str__`
 
 > 1.  Write the exposed method:
 >
@@ -31,7 +31,7 @@ When coding a subclass of PyObject, it is somewhat tricky to get a correct imple
 :::
 
 ::: 
-### Different implementations for `__str__` and `__repr__`
+#### Different implementations for `__str__` and `__repr__`
 
 > 1.  Write the exposed `__str__` and call it from the overriden `__str__`:
 >
@@ -68,7 +68,7 @@ When coding a subclass of PyObject, it is somewhat tricky to get a correct imple
 :::
 
 ::: 
-### Only implement `__str__`
+#### Only implement `__str__`
 
 Follow the step 1 of the previous recipe. Optionally you can also follow the step 3 if you want to map `toString()` to `__str__()` .
 :::

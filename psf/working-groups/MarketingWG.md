@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Marketing Working Group 
+## PSF Marketing Working Group 
 
 *Note:* When creating new wiki pages related to this group, please use wiki subpages, e.g. MarketingWG/Charter.
 
-## Agenda 
+### Agenda 
 
 The marketing workgroup will strive to:
 
@@ -23,47 +23,47 @@ The marketing workgroup will strive to:
 - Curate a regularly updated set of Python success stories on python.org
 - \... more \...
 
-## Resources 
+### Resources 
 
 - [https://docs.google.com/document/d/1xuoF1o-JKbG8Gj81dcv9wiIfvczXqApm10JDdDvdTxw/edit](https://docs.google.com/document/d/1xuoF1o-JKbG8Gj81dcv9wiIfvczXqApm10JDdDvdTxw/edit)
 
 - [PSF Marketing WG Charter](MarketingWG/Charter)
 
-### Logos and images 
+#### Logos and images 
 
 - [PSF Logos](../marketing/PSF Logos) (official versions of the PSF logos; viewable without login)
 
-### PSF Sponsor Badges 
+#### PSF Sponsor Badges 
 
 - [https://www.dropbox.com/work/Sponsor%20badges](https://www.dropbox.com/work/Sponsor%20badges)
 
-### Marketing Material 
+#### Marketing Material 
 
 - [PSF Python Brochure](../marketing/PSF Python Brochure)
 
 - [Ideas for creating Marketing Material](./Board(2f)marketing(2d)material.html)
 
-### Marketing Support Material 
+#### Marketing Support Material 
 
 - [PSF Conference Kit](../marketing/PSF Conference Kit)
 
-### Merchandise 
+#### Merchandise 
 
 - [Merchandise](../marketing/Merchandise)
 
-### Marketing Strategies 
+#### Marketing Strategies 
 
 - [Ideas on how to market the PSF](./Board(2f)marketing(2d)psf.html) - ideas on how to improve the PSF marketing in order to increase revenue
 
-### Projects 
+#### Projects 
 
 - [Changes to sponsorship levels - 2016](MarketingWG/SponsorshipLevels2016)
 
-## Mailing List 
+### Mailing List 
 
 - [PSF Marketing WG Mailing List](http://mail.python.org/mailman/listinfo/psf-marketing-wg) The ML archives are public. Betsy Waliszewski and Marc-Andre Lemburg are the list admins.
 
-## Administration 
+### Administration 
 
 Chair:
 
@@ -94,6 +94,6 @@ Non-voting members
 
 - John [DeRosa](./DeRosa.html)
 
-## Meetings 
+### Meetings 
 
 - None.

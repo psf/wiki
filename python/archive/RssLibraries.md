@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python RSS Code 
+## Python RSS Code 
 
 Articles:
 
@@ -24,7 +24,7 @@ Libraries:
 
 - [PyRSS2Gen](http://www.dalkescientific.com/Python/PyRSS2Gen.html) - produces RSS 2.0
 
-## Feed Parser 
+### Feed Parser 
 
 Feed Parser is an awesome RSS reader. It is now hosted on Google Code & Sourceforge - [Universal Feed Parser on Google Code](http://code.google.com/p/feedparser/) ([Project Page on SourceForge](http://sourceforge.net/projects/feedparser/)).
 
@@ -78,7 +78,7 @@ For each item in `feed["items"]`, we have:
   -------------------------- -----------------------------------------------
 :::
 
-## Aggregating Feeds with Feed Parser 
+### Aggregating Feeds with Feed Parser 
 
 If you\'re pulling down a lot of feeds, and aggregating them:
 
@@ -124,17 +124,17 @@ Now that you have your feeds, extract all the entries.
 
 Congratulations! You\'ve aggregated a bunch of changes!
 
-## Contributors 
+### Contributors 
 
 [LionKimbro](LionKimbro)
 
-## Links 
+### Links 
 
 - [RawDog](http://offog.org/code/rawdog.html) is an RSS aggregator written in Python & using [Feed Parser](http://diveintomark.org/projects/feed_parser/)
 
 - [Feedjack](http://www.feedjack.org/) Planet like Feed aggregator using Universal Feed Parser and the django webframework
 
-## Discussion 
+### Discussion 
 
 Getting the \"author\"/\"contributor\" out of most [ModWiki](./ModWiki.html) RSS feeds with the feedparser module is a bit confusing as of now. Right now (feedparser 3.3), it goes into the \"rdf_value\" attribute of the entry.
 

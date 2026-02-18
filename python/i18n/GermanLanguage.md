@@ -12,7 +12,7 @@ About this Language Page: ISO 639-1 Code: de
 
 ------------------------------------------------------------------------
 
-# Deutsche Python Informationen 
+## Deutsche Python Informationen 
 
 [1SEP09 Ideally, all the language pages should be like the Polish or Turkish pages - all native language, only the necessary English.]
 
@@ -34,7 +34,7 @@ About this Language Page: ISO 639-1 Code: de
 
 [1SEP09 checked remaining links - all up and good]
 
-## Community (Wikis, Mailinglisten, Newsgroups etc.) 
+### Community (Wikis, Mailinglisten, Newsgroups etc.) 
 
 [\* [Deutsches Python-Wiki](http://wiki.python-forum.de/) \--\> tot, siehe [https://www.python-forum.de/viewtopic.php?t=36326](https://www.python-forum.de/viewtopic.php?t=36326)]
 
@@ -48,11 +48,11 @@ About this Language Page: ISO 639-1 Code: de
 
 - [Wikipedia-Eintrag zu Python](https://de.wikipedia.org/wiki/Python_(Programmiersprache))
 
-## Allgemeine Links 
+### Allgemeine Links 
 
 - [Pythonmania](http://www.pythonmania.de/), ein deutschsprachiger Blog mit Artikeln und How-Tos, vom Autor des Schockwellenreiters. *Letzter Post von 2009.*
 
-## Tutorials/Einsteigerhilfen 
+### Tutorials/Einsteigerhilfen 
 
 - [Pythonspot](https://pythonspot.com/de/python-lernen/) Brief Python tutorial in German
 
@@ -76,7 +76,7 @@ About this Language Page: ISO 639-1 Code: de
 
 - [Python-Tutorial](http://www.python-kurs.eu): Ein umfangreiches Python-Tutorial unter dem Namen \"Python-Kurs\". Neben einer allgemeinen Einführung finden sich hier auch viele Themen für Fortgeschrittene. Dabei handelt es sich um die deutsche Version von [Python-Course](http://www.python-course.eu)
 
-## Artikel & Präsentationen 
+### Artikel & Präsentationen 
 
 [\* [Perl und Python - Zwei Skriptsprachen im Vergleich](http://www.sschwarzer.net/python/perlpy_index.html) ist ein Vergleich von Perl und Python von Stefan Schwarzer. \--\> nicht mehr online]
 
@@ -90,7 +90,7 @@ About this Language Page: ISO 639-1 Code: de
 
 - [Handy Programmierung mit Python](http://www.slideshare.net/onyame/handyprogrammierung-mit-python)
 
-## Video-Tutorials 
+### Video-Tutorials 
 
 - [Programmieren Lernen: Pythom Tutorial](https://www.youtube.com/playlist?list=PL_tdPUem3eE_k40i65IdRPWrAZxoHcN4o) Reihe von 37 (Stand der letzten Seitenaktualisierung) Videos zwischen 10 und 40 Minuten, die verschiedene Aspekte von Python für Einsteiger erläutern.
 
@@ -98,7 +98,7 @@ About this Language Page: ISO 639-1 Code: de
 
 - [A beautiful Code in Python](https://www.youtube.com/playlist?list=PLhC_4AWNg9rnM_qAPyUU4Wo1kJoOAMC6_) ist eine Reihe von derzeit 49 Videos, die themenorientiert die Lösung bestimmter Probleme und Aufgaben in Python beschreiben. Länge zwischen 7 und 150 Minuten.
 
-## Videos zu Python 
+### Videos zu Python 
 
 - [PyCon DE YouTube Channel](https://www.youtube.com/user/PyConDE)
 
@@ -106,7 +106,7 @@ About this Language Page: ISO 639-1 Code: de
 
 - [Videos von Vorträgen](http://www.egenix.com/library/pyddf/videos.html) des [Python Meeting Düsseldorf](http://pyddf.de/), die ein recht breites Spektrum an Themen rund um Python abdecken. Die Liste endet 2016, neuere Videos finden sich im [YouTube Channel](https://www.youtube.com/pyddf/).
 
-## Bücher 
+### Bücher 
 
 - [Routineaufgaben mit Python automatisieren](https://dpunkt.de/produkt/routineaufgaben-mit-python-automatisieren-2/) Die deutsche Übersetzung () des Buches \"Automate the Boring Stuff with Python\" von Al Schweigart in der 2. Auflage (jetzt für Python 3) ist eine Python-Einführung am Beispiel von alltäglichen Aufgaben eines Computernutzers. Al Schweigart stellt die [englische Originalausgabe](https://automatetheboringstuff.com/) kostenlos zum online-Lesen zur Verfügung. [dpunkt.verlag](https://dpunkt.de/).
 
@@ -132,13 +132,13 @@ About this Language Page: ISO 639-1 Code: de
 
 - [Hitchhiker's Guide für Python](https://oreilly.de/produkt/hitchhikers-guide-fuer-python/) Kenneth Reitz und Tanya Schlusser befasst sich mit Python Best Practices. [O\'Reilly Germany](http://www.oreilly.de/).
 
-### Buchrezensionen 
+#### Buchrezensionen 
 
 - [Buchrezensionen](http://wiki.pythonde.pysv.org/pycologne/Rezensionen) der [pyCologne User Group](http://wiki.pythonde.pysv.org/pycologne/)
 
 - [Buchvorstellung \"Python Cookbook, 3rd Edition\", Charlie Clark](http://www.youtube.com/watch?v=6pryEma7Ams) als Video
 
-## Blogs 
+### Blogs 
 
 - [geospatial problem with code](http://www.tutorials.de/forum/archiv/348600-quiz-10-onlyfoo-python.html) - programming contest?
 

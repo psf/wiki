@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# DC-Area Python BarCamp 
+## DC-Area Python BarCamp 
 
-## Goals 
+### Goals 
 
 - 2-day event, held on a weekend in October or November 2008.
 
@@ -26,14 +26,14 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - If the venue doesn\'t have restaurants nearby, we\'ll need to provide food.
 
-## Space requirements 
+### Space requirements 
 
 - At least two rooms on Saturday (talks in one room, sprints in the other).
 - Tables that can seat at least 6 people (so, assuming 50-60 people, that\'s 8-10 tables)
 
 We\'ll bring in easels w/ whiteboards or paper pads, or those static-clinging sheets for the wall.
 
-## Talk ideas 
+### Talk ideas 
 
 Talks on the first day should be a mix of offered and invited, going from more introductory talks early on to more advanced and specialized talks later. Possible ideas:
 
@@ -42,7 +42,7 @@ Talks on the first day should be a mix of offered and invited, going from more i
 - An OLPC talk
 - Other ideas?
 
-## Possible venues 
+### Possible venues 
 
 DC:
 
@@ -74,7 +74,7 @@ Baltimore:
 
 - JHU CS dept.
 
-## Current tasks 
+### Current tasks 
 
 E-mail possible CS department contacts
 
@@ -92,7 +92,7 @@ Research hotel prices in the fall: Baltimore vs. DC; is one city much cheaper?
 
 What to do about wireless, which is critical? Bring it in? Rely on the venue\'s wireless? What if it fails, which would cripple us?
 
-## Budget notes 
+### Budget notes 
 
 Assuming 50 attendees, and assuming we get food (which is looking unlikely):
 

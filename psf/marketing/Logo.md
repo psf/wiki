@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Logo Suggestions
+## PSF Logo Suggestions
 
 **Note:** This page describes older suggestions for a PSF logo. The official versions are listed on the [PSF Logos](PSF Logos) page.
 
@@ -24,12 +24,12 @@ Contents
 :::
 
 :::::::: 
-### [2008-09-02 (D. Goodger)](#id3)
+#### [2008-09-02 (D. Goodger)](#id3)
 
 Off and on over the past few months I have been playing with layouts and typefaces for a PSF logo. I took my ideas and ran them by my father, who is an experienced graphic artist (now retired) with many logo designs under his belt. His advice was to keep it clean, keep it simple. That\'s one thing the Python logo graphic already is, and something we shouldn\'t mess with.
 
 ::: 
-#### [Typeface](#id4)
+##### [Typeface](#id4)
 
 The image files all have a suffix, -F or -B, depending on the typeface (font) being used. -F is for Flux Regular, which is the typeface used by the word \"python\" in the standard Python logo. Flux Regular has nice curves that go well with the blue&yellow graphic (undoubtedly they were chosen/designed to match), but I find its uppercase/capital letters unattractive, so I only used lowercase. -B is for Blair Medium, a simple sans-serif typeface that gives a feeling of solidity appropriate to a Foundation.
 
@@ -48,12 +48,12 @@ Note that there is letterspacing/kerning work still to be done on the text. E.g.
 :::
 
 :::::: 
-#### [Layouts](#id5)
+##### [Layouts](#id5)
 
 There are several different layouts presented. We don\'t have to decide on one particular layout, because different layouts are useful in different situations. We should decide on the typeface to use though.
 
 ::: 
-##### [Horizontal](#id6)
+###### [Horizontal](#id6)
 
 The horizontal layouts could be used for letterhead and banners. There are 1 and 2 line variations, just to show how we can mix it up. The graphic is in the middle to break up the text; my earlier set of candidates had it at far left, but that left an unbalanced whole.
 
@@ -75,7 +75,7 @@ PSF-horizontal-2lines-B.png:
 :::
 
 ::: 
-##### [Vertical](#id7)
+###### [Vertical](#id7)
 
 The vertical layouts show how the PSF logo could be used in more square situations, like on business cards. The -vertical-F logo puts the graphic between \"python\" and \"software foundation\", which looks nice, but that doesn\'t work so well for the -B variations.
 
@@ -97,7 +97,7 @@ PSF-vertical-initials-B.png:
 :::
 
 ::: 
-##### [Stacked & Side-By-Side](#id8)
+###### [Stacked & Side-By-Side](#id8)
 
 The stacked and side-by-side layouts are more horizontal, and could be used for web badges, banners, and general situations.
 
@@ -135,7 +135,7 @@ PSF-side-titlecase-B.png:
 ::::::::
 
 ::: 
-### [2008-04-30](#id9)
+#### [2008-04-30](#id9)
 
 The following logo candidates were posted to the PSF-members mailing list. Identical text was used for a fair comparison. See the list archives for the discussion.
 
@@ -157,7 +157,7 @@ psf-DJG.png:
 :::
 
 ::: 
-### [2011-02-03](#id10)
+#### [2011-02-03](#id10)
 
 From Steve Hawkes via John Pinner:
 

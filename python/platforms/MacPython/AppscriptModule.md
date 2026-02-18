@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# What is Appscript? 
+## What is Appscript? 
 
 Appscript is a high-level, user-friendly [MacPython]()-to-Apple Event Manager bridge that allows you to control scriptable Mac OS X applications using ordinary Python scripts. Appscript makes [MacPython]() a serious alternative to Apple\'s own [../AppleScript](AppleScript) language for automating your Mac.
 
@@ -36,7 +36,7 @@ See:
 
 - [http://appscript.sourceforge.net/](http://appscript.sourceforge.net/)
 
-# Application scripting notes 
+## Application scripting notes 
 
 Pages containing additional information on scripting individual applications:
 

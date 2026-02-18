@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python CD Packages 
+## Python CD Packages 
 
 Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 [PythonCdRawPackageList](PythonCdRawPackageList) has a complete raw list of installed debian packages.
 
-## IDEs (Integrated Development Environments) 
+### IDEs (Integrated Development Environments) 
 
 - [eric](../archive/eric)3 - a very nice and powerful GUI IDE
 
@@ -22,7 +22,7 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 - [IPython](../archive/IPython) - an extended interactive Python command interpreter
 
-## GUI Builders 
+### GUI Builders 
 
 - [BoaConstructor](../people/BoaConstructor)
 
@@ -30,7 +30,7 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 - ? [WxGlade](../people/WxGlade)
 
-## GUI Toolkit bindings 
+### GUI Toolkit bindings 
 
 - [PyGtk](../people/PyGtk)
 
@@ -38,7 +38,7 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 - [WxPython](../gui/WxPython)
 
-## Graphics libs 
+### Graphics libs 
 
 - [PIL](PIL)
 
@@ -46,7 +46,7 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 - PyOpenGL
 
-## Web/HTML/XML stuff 
+### Web/HTML/XML stuff 
 
 - [MoinMoin](MoinMoin) wiki - you are using it right now
 
@@ -56,13 +56,13 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 - PyXML, libxml2 and other XML packages
 
-## Scientific 
+### Scientific 
 
 - python-numeric and python-numarray - math extensions
 
 - python-pyx - module for generating [PostScript](../people/PostScript) graphics, plotting
 
-## Database 
+### Database 
 
 - [Gadfly](http://gadfly.sourceforge.net/)
 
@@ -72,7 +72,7 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 - python-pygresql - [PostgreSQL](../database/PostgreSQL) module
 
-## Misc 
+### Misc 
 
 - [PyChecker](../people/PyChecker) - checks your source code for common errors
 

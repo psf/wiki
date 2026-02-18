@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Profiling Python Programs 
+## Profiling Python Programs 
 
 See [PythonDebuggingTools#Profilers](PythonDebuggingTools#Profilers) for a list of profilers
 
-## Scalene 
+### Scalene 
 
 The [Scalene profiler](https://github.com/emeryberger/scalene) is both easy to use and provides a number of advantages over the profilers bundled with Python:
 

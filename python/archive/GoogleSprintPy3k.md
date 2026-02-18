@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python 3000 Goals for the Google Sprint 
+## Python 3000 Goals for the Google Sprint 
 
-## The sprint is over 
+### The sprint is over 
 
 Thanks to all who participated! Here\'s my blog with the report: [http://www.artima.com/weblogs/viewpost.jsp?thread=173453](http://www.artima.com/weblogs/viewpost.jsp?thread=173453)
 
 Below is the list of Py3k tasks we worked on (or wanted to work on) at the [GoogleSprint](../people/GoogleSprint).
 
-## Suggested Tasks 
+### Suggested Tasks 
 
 (We didn\'t get to these.)
 
@@ -28,7 +28,7 @@ Below is the list of Py3k tasks we worked on (or wanted to work on) at the [Goog
 
 - See PEP [3100](http://www.python.org/dev/peps/pep-3100 "PEP") for more ideas
 
-## Claimed Tasks 
+### Claimed Tasks 
 
 - [Py3kConversionTools](../py3/Py3kConversionTools): Work on tool to help convert (flag keywords like with/as, removed functions/methods: apply/{}.iter\*/{}.has_key/etc) (Jeremy Hylton)
 
@@ -44,7 +44,7 @@ Below is the list of Py3k tasks we worked on (or wanted to work on) at the [Goog
 
 - Remove basestring.find and basestring.rfind, per [PEP 3100](http://www.python.org/dev/peps/pep-3100/) (done, Hasan \-- needs to be reviewed and checked in)
 
-## Finished Tasks 
+### Finished Tasks 
 
 - Make zip() an iterator (like itertools.izip()) (done; Guido) (Brian too!)
 

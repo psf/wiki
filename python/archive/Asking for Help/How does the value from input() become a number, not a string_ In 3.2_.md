@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: How does the value from input() become a number, not a string? In 3.2? 
+## Asking for Help: How does the value from input() become a number, not a string? In 3.2? 
 
 At least in general for Python 2, not specifically about 3.2 where `input`{.backtick} is presumably the equivalent of `raw_input`{.backtick} in Python 2, the input is evaluated using the mechanism Python employs to evaluate expressions, so what happens is rather similar to what you would see at Python\'s interactive prompt except that only *expressions* are allowed, not *statements*.
 

@@ -10,7 +10,7 @@ The Python development team recently switched from using CVS hosted at [SourceFo
 
 (Most of the initial content came from a python-dev post by Tim Peters.)
 
-# Update vs. Status 
+## Update vs. Status 
 
 CVS uses `update` for all sorts of things. SVN has different commands for several of the use cases CVS\'s update conflates:
 
@@ -26,11 +26,11 @@ CVS uses `update` for all sorts of things. SVN has different commands for severa
 
   this reverts **all** changes made in revision NEW, no matter how many files were involved.
 
-# Checkins 
+## Checkins 
 
 Revision numbers apply to the entire repository, not just to single files. Every checkin conceptually creates a new version of the entire repository, uniquely identified by its revision number. This is very powerful, but subtle, and CVS has nothing like it. A glimpse of its power was given just above, talking about the ease of reverting an entire checkin in one easy gulp.
 
-# Branching 
+## Branching 
 
 You\'re working on a trunk sandbox and discover it\'s going to take longer than you hoped. Now you wish you had created a branch. This is actually dead easy: create a new branch of the trunk. `svn switch` your sandbox to that new branch; this leaves your local change alone, which is key. `svn commit` \-- you\'re done! There\'s now a branch on the server matching your fiddled local state.
 
@@ -41,7 +41,7 @@ You\'re working on a trunk sandbox and discover it\'s going to take longer than 
 
 Making a branch or tag goes very fast under SVN. Because branches and tags are just conventionally-named directories, you can delete them (like any other directory) when you\'re done with them. These conspire to make simple applications of branches much more pleasant than under CVS.
 
-# File Modes 
+## File Modes 
 
 CVS uses text mode for files by default. SVN uses binary mode. The latter is safer, but creates endless low-level snags for x-platform development. I encourage Python developers to include this gibberish in their SVN config file:
 

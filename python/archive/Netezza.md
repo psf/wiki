@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IBM Netezza 
+## IBM Netezza 
 
-## General Information 
+### General Information 
 
 URL
 
@@ -20,19 +20,19 @@ licence
 platforms
 :   only available as appliances
 
-## Pros 
+### Pros 
 
 - Big Data compatible
 - Data Warehouse
 - Integrated into data analytics suite
 
-## Cons 
+### Cons 
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -53,7 +53,7 @@ mxODBC comes with full support for stored procedures, multiple result sets, Unic
 
 mxODBC has been successfully tested with the Netezza ODBC drivers.
 
-### mxODBC Connect 
+#### mxODBC Connect 
 
 URL
 
@@ -74,12 +74,12 @@ mxODBC Connect supports asynchronous query execution via the popular [gevent pac
 
 mxODBC Connect Server is compatible with the Netezza ODBC drivers.
 
-## Other Drivers 
+### Other Drivers 
 
 - N/A
 
 ------------------------------------------------------------------------
 
-## Supported Python Applications 
+### Supported Python Applications 
 
 - N/A

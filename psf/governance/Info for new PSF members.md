@@ -6,12 +6,12 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Info for new PSF Members
+## Info for new PSF Members
 
 (This page is deliberately made available to the public since it provides information which may be useful to prospective members in deciding whether or not to accept a nomination for membership)
 
 ::: 
-### PSF Members (Nominated & Sponsor)
+#### PSF Members (Nominated & Sponsor)
 
 New PSF members need to know about the following:
 
@@ -33,7 +33,7 @@ The existing members that nominated new members for PSF membership (or the board
 :::
 
 ::: 
-### Workgroup Pages/Sites
+#### Workgroup Pages/Sites
 
 The list of currently active committees is at [http://www.python.org/psf/committees/](http://www.python.org/psf/committees/) and below:
 
@@ -47,7 +47,7 @@ The list of currently active committees is at [http://www.python.org/psf/committ
 :::
 
 ::: 
-### Board Members (Directors) & Officers
+#### Board Members (Directors) & Officers
 
 New Board members (Directors) and Officers should:
 

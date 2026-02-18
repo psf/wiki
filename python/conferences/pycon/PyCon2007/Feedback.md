@@ -12,17 +12,17 @@ Numbers in parentheses are the counts of how many times an item was mentioned.
 
 See [/Comments](Feedback/Comments) for the essay-type comments from the feedback forms.
 
-# Overall ratings 
+## Overall ratings 
 
-## Is this your first PyCon? 
+### Is this your first PyCon? 
 
 Yes 56% (84) No 44% (66)
 
-## What days did you attend PyCon? 
+### What days did you attend PyCon? 
 
 Friday 96.6% (143) Saturday 96.6% (143) Sunday 91.9% (136) Tutorials 31.1% (46) Sprints 20.9% (31)
 
-## How did you hear about PyCon? 
+### How did you hear about PyCon? 
 
     (11) python.org
     ( 9) Mailing list
@@ -115,7 +115,7 @@ Friday 96.6% (143) Saturday 96.6% (143) Sunday 91.9% (136) Tutorials 31.1% (46) 
     ( 1) Ages ago... forget.
     ( 1) A few weeks before PyCon 2006
 
-## Please rate \... 
+### Please rate \... 
 
             very low        low     high    very high       N/A     Response Average
     your overall satisfaction with PyCon 2007 in general    
@@ -131,7 +131,7 @@ Friday 96.6% (143) Saturday 96.6% (143) Sunday 91.9% (136) Tutorials 31.1% (46) 
     your likelihood of attending next year  
             1% (2)  8% (12) 40% (59)        51% (76)        0% (0)  3.40
 
-## Would you prefer a conference that took place 
+### Would you prefer a conference that took place 
 
 Only on weekdays 19.4% (27)
 
@@ -139,9 +139,9 @@ Includes one weekend day (starts on Sunday or ends on Saturday) 20.9% (29)
 
 Includes two weekend days 59.7% (83)
 
-# Talks 
+## Talks 
 
-## What were your favorite talks? 
+### What were your favorite talks? 
 
     (77) Keynote: Ivan Krstic
     (66) Keynote: Robert M. Lefkowitz
@@ -227,7 +227,7 @@ Includes two weekend days 59.7% (83)
     ( 1) BOFs
     ( 1) - The two open space presentations given by Enthought  - Japan usergroup lightening talk  - Another lightning talk that same period on human user interface development (or something).  The funny AE web development.
 
-## What 5 topics should have been covered at PyCon? 
+### What 5 topics should have been covered at PyCon? 
 
     (12) Twisted
     ( 4) Testing
@@ -401,9 +401,9 @@ Includes two weekend days 59.7% (83)
     ( 1) Advanced topics
     ( 1) Advanced eggs
 
-# Accommodations 
+## Accommodations 
 
-## Where did you stay? 
+### Where did you stay? 
 
 Hotel 81.1% (120)
 
@@ -424,7 +424,7 @@ Other:
     5.      hotel other than the host hotel
     6.      In-laws
 
-## What is your maximum per-person nightly room budget for accommodations? 
+### What is your maximum per-person nightly room budget for accommodations? 
 
 \$75 or less 16% (23)
 
@@ -438,7 +438,7 @@ Other:
 
 More than \$200 4.9% (7)
 
-## How are you paying for your PyCon trip? 
+### How are you paying for your PyCon trip? 
 
 100% self-funded 35.1% (52)
 
@@ -459,9 +459,9 @@ If shared, how?
     9.      I pay expenses and for the conference, company pays for airfare and hotel
     10.     I am my employer
 
-# Location 
+## Location 
 
-## If PyCon were not to be in Dallas,TX or Chicago, IL, what 3 cities/regions would you prefer? 
+### If PyCon were not to be in Dallas,TX or Chicago, IL, what 3 cities/regions would you prefer? 
 
     (27) Boston MA
     (26) Washington DC
@@ -578,15 +578,15 @@ If shared, how?
     ( 1) Arizona
     ( 1) Anywhere with int'l airport
 
-# Tutorials 
+## Tutorials 
 
-## Would you be interested in attending half-day (3-hour) tutorials next year? 
+### Would you be interested in attending half-day (3-hour) tutorials next year? 
 
 Yes 56.4% (79)
 
 No 43.6% (61)
 
-## If yes, please list 3 tutorial subjects you would like to attend. 
+### If yes, please list 3 tutorial subjects you would like to attend. 
 
     ( 8) twisted
     ( 6) Django

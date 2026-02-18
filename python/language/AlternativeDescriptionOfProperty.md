@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Alternative Description of Property 
+## Alternative Description of Property 
 
 John Posner
 
 Following is a revision of the official documentation for **property**, which can be found at [http://docs.python.org/library/functions.html#property](http://docs.python.org/library/functions.html#property). For an introduction to Python\'s property feature, see [ComputedAttributesUsingPropertyObjects](ComputedAttributesUsingPropertyObjects).
 
-## property(\[getfn\[, setfn\[, delfn\[, docstr\]\]\]\]) 
+### property(\[getfn\[, setfn\[, delfn\[, docstr\]\]\]\]) 
 
 **property** is a built-in data type, used to implement managed (computed) attributes. You assign the property object created by the call `property(optional-args)`{.backtick} to a class attribute of a new-style class (a class that inherits from **object**). When the attribute is accessed through an instance of the class, it dispatches functions that implement the managed-attribute operations.
 

@@ -25,9 +25,9 @@ Josh Juneau
 
 [juneau001@gmail.com](mailto:juneau001@gmail.com)
 
-# Articles 
+## Articles 
 
-## Newbie Notes 
+### Newbie Notes 
 
 *Submitted By: Rob Andrews*
 
@@ -39,7 +39,7 @@ This month, I set out to balance the scales a bit, introducing the import of Jav
 
 [Read Entire Article](http://wiki.python.org/jython/JythonMonthly/Articles/November2007/NC)
 
-# Jython Blogs 
+## Jython Blogs 
 
 [Frank Wierzbicki on Jython 2.2.1](http://fwierzbicki.blogspot.com/2007/10/jython-221-released.html)
 
@@ -47,29 +47,29 @@ This month, I set out to balance the scales a bit, introducing the import of Jav
 
 [Annotated Scala, Groovy, JRuby, Rhino, Jython \...](http://blogs.sun.com/sandoz/entry/annotated_scala_groovy_jruby_rhino)
 
-# Interested in Developing Jython? 
+## Interested in Developing Jython? 
 
 If you are interested in developing Jython, please take a look at the [current bug listing](http://sourceforge.net/tracker/?func=browse&group_id=12867&atid=112867) and submit patches for items which you can repair.
 
-# Online Discussions 
+## Online Discussions 
 
 [HTML Parser for Jython](http://www.thescripts.com/forum/thread724546.html)
 
-# IDE 
+## IDE 
 
 [Pydev 1.3.10 Released](http://pydev.sf.net/)
 
 Symlinks supported in the system pythonpath configuration. Egg/zip files are now supported. The creation of a project in a non-default location is now allowed within the workspace JDT used to get completions from jars (but referencing other java projects is still not supported). Configuration of pythonpath allows multiple selection for removal. Configuration of pythonpath allows multiple jars/zips to be added at once. When configuring the pythonpath, the paths are sorted for selection. The file extensions that pydev recognizes for python can now be customized. Patch by Carl Robinson: Code-folding for elements such as for, try, while, etc. Removed the go to next/previous problem annotation (Eclipse 3.3 already provides a default implementation for it).
 
-# Interesting Facts 
+## Interesting Facts 
 
 Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/jython.do](http://www.itjobswatch.co.uk/jobs/uk/jython.do)
 
-# Projects Utilizing Jython 
+## Projects Utilizing Jython 
 
 [Guess - Graph Exploration System](http://graphexploration.cond.org/)
 
-# Useful Links 
+## Useful Links 
 
 ::: {}
   ----------------------------------------------------------------

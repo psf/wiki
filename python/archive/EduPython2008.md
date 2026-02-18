@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python in Education (& vice versa) 
+## Python in Education (& vice versa) 
 
-## Meeting 
+### Meeting 
 
 Saturday - When and where are we meeting for dinner? 6:30 ballroom- Ordering Pizza.
 
@@ -22,7 +22,7 @@ Please add any possible discussion topics and any possible conficts below.
 - Do we need (or even want) a version of Scratch implemented in Python?
 - Python in CS1 or CS0.5 or CS0
 
-## Dinner 
+### Dinner 
 
 One topic of the meeting Friday might be options for a dinner on Saturday.
 
@@ -33,7 +33,7 @@ Dinner options:
 - River North (blue line to clark/lake then a couple blocks north)
 - If anyone is interested, I can host a visit/tour and/or meeting at the Google Office on Saturday before or after the dinner. - Jessie
 
-## Persons Interested 
+### Persons Interested 
 
 Feel free to list your interest in attending either of the above below:
 
@@ -51,7 +51,7 @@ Feel free to list your interest in attending either of the above below:
 
 - Johannes Woolard, Crunchy co-developer. Potentially interested in both.
 
-## Other Suggestions, Ideas, Comments 
+### Other Suggestions, Ideas, Comments 
 
 Please put any other ideas you have below.
 

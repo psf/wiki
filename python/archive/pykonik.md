@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Pykonik 
+## Pykonik 
 
-## where are we? 
+### where are we? 
 
 Basically in Krakow ![:-)](/wiki/europython/img/smile.png ":-)")
 
@@ -16,7 +16,7 @@ blog: [http://blog.pykonik.org/](http://blog.pykonik.org/)
 
 group: [https://groups.google.com/group/pykonik/](https://groups.google.com/group/pykonik/)
 
-## last meeting draft 
+### last meeting draft 
 
 **when?** 7th of Dec, 19:00
 
@@ -30,7 +30,7 @@ group: [https://groups.google.com/group/pykonik/](https://groups.google.com/grou
 
   - Idea of topics groups using WIKI.Python.ORG/Google Docs + proposing ligting talk topics (Michał Chałupczak)
 
-## what we would like to have at our meetings? 
+### what we would like to have at our meetings? 
 
 - Fancy Python Libraries
   - twisted (+ +)

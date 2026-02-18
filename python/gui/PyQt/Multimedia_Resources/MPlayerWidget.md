@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# MPlayerWidget 
+## MPlayerWidget 
 
 MPlayerWidget is a widget wrapper around MPlayer. Unlike other solutions that use the XEmbed protocol to embed an MPlayer window in a user interface, this solution passes the X handle of an existing QLabel widget to MPlayer so that it can render its output directly onto it.
 

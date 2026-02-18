@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Software Foundation 
+## Python Software Foundation 
 
 This page will collects information about the [Python Software Foundation](http://www.python.org/psf/).
 
@@ -14,7 +14,7 @@ For more details, please also have a look at the [PSF section](http://www.python
 
 The [PSF Voting Members\' Wiki](http://wiki.python.org/psf/) is provided for collaboration amongst PSF voting members on topics that are not intended to be shared with the entire internet. The (public) front page of the members\' wiki lists some examples of such material. With the new membership model, we will now gradually move more and more content from that wiki to these public pages.
 
-## Board of Directors, Officers, Committees and Members 
+### Board of Directors, Officers, Committees and Members 
 
 - [PSF Board of Directors](http://www.python.org/psf/members/#board-of-directors) \-- The board manages the PSF at a high level. Additional information about the board of directors is also available on [PythonSoftwareFoundationBoard](PythonSoftwareFoundationBoard).
 
@@ -26,9 +26,9 @@ The [PSF Voting Members\' Wiki](http://wiki.python.org/psf/) is provided for col
 
 - [PythonSoftwareFoundation/FellowNominations](PythonSoftwareFoundation/FellowNominations) \-- Nominations for PSF Fellowship are listed on this page.
 
-## PSF Projects 
+### PSF Projects 
 
-### 2016: PSF Organizers\' Manual 
+#### 2016: PSF Organizers\' Manual 
 
 \"Active Project\"
 
@@ -36,17 +36,17 @@ We are currently working on creating a PSF Organizers\' Manual which we hope wil
 
 Project Leaders: Lorena Mesa
 
-### 2016: PSF Code of Conduct Workgroup 
+#### 2016: PSF Code of Conduct Workgroup 
 
 \"Active Project\"
 
 The PSF has begun to define a policy for handling Code of Conduct violations with [conduct@python.org](mailto:conduct@python.org). PSF Director of Operations Ewa Jodlowska has started outlining the policy with feedback from 2016 - 2017 Board members that have opted to participate in the work group. Progress is ongoing with a goal of voting on an official policy at the July 28 2016 PSF Board meeting.
 
-### 2015: Elections Workgroup 
+#### 2015: Elections Workgroup 
 
 We are currently working on a charter, and a list of what we want to do. This link is just because I don\'t know how to make a new wiki page except by referrring to it on an existing page. When we get the charter done, we can update this. Laura Creighton [ElectionsWorkgroupPlanning](../archive/ElectionsWorkgroupPlanning)
 
-### 2014: PSF Python Job Board 
+#### 2014: PSF Python Job Board 
 
 *Active Project*
 
@@ -56,7 +56,7 @@ Project Leaders: [MarcAndreLemburg](../archive/MarcAndreLemburg) for the time be
 
 Wiki page: [PSF Python Job Board](PSF Python Job Board)
 
-### 2011: PyPI Cloud Mirroring Project 
+#### 2011: PyPI Cloud Mirroring Project 
 
 *Retired project*
 
@@ -64,7 +64,7 @@ A group of PSF members is working on creating a stable PyPI mirroring installati
 
 PSF Project Leader: [MarcAndreLemburg](../archive/MarcAndreLemburg)
 
-### 2011: PSF Python Brochure Project 
+#### 2011: PSF Python Brochure Project 
 
 *Active project*
 
@@ -78,7 +78,7 @@ Project page: [https://wiki.python.org/psf/PSF%20Python%20Brochure](https://wiki
 
 PSF Project Leader: [MarcAndreLemburg](../archive/MarcAndreLemburg)
 
-### 2006 + 2007: Grants Program 
+#### 2006 + 2007: Grants Program 
 
 *Project completed*
 
@@ -88,7 +88,7 @@ Note that while the grants program was ended, the PSF is still accepting applica
 
 PSF Project Leader: Martin von Löwis
 
-### 2006: Python Advocacy Coordinator 
+#### 2006: Python Advocacy Coordinator 
 
 *Project completed*
 
@@ -98,7 +98,7 @@ For details and progress reports see [PythonAdvocacyCoordinator](../community/Py
 
 PSF Project Leader: Jeff Rush
 
-### 2005: Python.org website redesign 
+#### 2005: Python.org website redesign 
 
 *Project completed*
 
@@ -108,19 +108,19 @@ This website has now been rolled out, although work on content and the toolset i
 
 Project Leader: Tim Parkin
 
-## PSF Fiscal Sponsorship 
+### PSF Fiscal Sponsorship 
 
 In 2011, the PSF began to provide Fiscal Sponsorship for Python groups. This allows groups like Boston Python to receive tax-deductible donations through the PSF. Currently, the PSF is sponsoring under Colvin\'s Model A for \"Direct Projects\". This model is for organizations that have no independent legal status. It is the same as if the work was being done by PSF volunteers. For further information, refer to [FiscalSponsorship](../people/FiscalSponsorship).
 
-## PSF License and Trademarks 
+### PSF License and Trademarks 
 
-### Use of Trademarks or Python License 
+#### Use of Trademarks or Python License 
 
 Our most commonly asked question is about use of the name \"Python\" or the Python logo, both of which are trademarks. If you want to use these, please see the PSF\'s Trademark Usage Policy at [http://python.org/psf/trademarks](http://python.org/psf/trademarks). Variants of the logo are available at [http://python.org/community/logos](http://python.org/community/logos).
 
 The second most commonly asked questions involve the Python software license (whether Python can be included in another product, terms of the license, etc). For that, see [PythonSoftwareFoundationLicenseFaq](PythonSoftwareFoundationLicenseFaq).
 
-### PSF License 
+#### PSF License 
 
 **Important**: See [PythonSoftwareFoundationLicenseFaq](PythonSoftwareFoundationLicenseFaq) before using the following licenses.
 
@@ -128,21 +128,21 @@ The second most commonly asked questions involve the Python software license (wh
 
 - [PythonSoftwareFoundationLicenseV2Revised](PythonSoftwareFoundationLicenseV2Revised) \-- Revised license that may be used as the basis for Version 3 in the future.
 
-### PSF Software Contribution Agreement 
+#### PSF Software Contribution Agreement 
 
 The following agreement is being used for contributors to Python, to ensure that all of the source code and documentation in Python are properly licensed.
 
 - [http://www.python.org/psf/contrib.html](http://www.python.org/psf/contrib.html)
 
-## Historical Records 
+### Historical Records 
 
 - [http://zope.org/Members/lemburg/psc-wiki/FrontPage/view](http://zope.org/Members/lemburg/psc-wiki/FrontPage/view) \-- wiki containing older information on fund raising, from the days before the PSF become a 501(c)3 non-profit.
 
 - [PythonSoftwareFoundationLicenseV2](PythonSoftwareFoundationLicenseV2) \-- Old draft for Python Software Foundation License Version 2 (not adopted and now defunct)
 
-## Discussion 
+### Discussion 
 
-### How do Modules Become Part of the Python Distribution? 
+#### How do Modules Become Part of the Python Distribution? 
 
 I\'ve always wondered:
 

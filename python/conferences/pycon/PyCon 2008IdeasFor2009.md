@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Suggestions for 2009
+## Suggestions for 2009
 
 This page should be used as a place to capture the ideas that we don\'t want to forget to incorporate in 2009 given our fresh perspectives on 2008\... so\.... list away! (also, feel free to add topics/sections, the list below was just a quick start)
 
@@ -35,20 +35,20 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 ------------------------------------------------------------------------
 
 ::: 
-### [Financial Aid](#id1)
+#### [Financial Aid](#id1)
 
 - Make reimbursement process easier by creating a pdf for recipients to fill out instead of making them create their own.
 :::
 
 ::: 
-### [Food, etc.](#id2)
+#### [Food, etc.](#id2)
 
 - Have water be available in the hallways, not just the rooms
 - Convince the food vendors / hotel to leave the food trays around for longer than the few minutes when scheduled meal breaks are. Numerous times I missed the provided food due to an extended conversation following a talk or having been in the vendor area.
 :::
 
 ::: 
-### [General](#id3)
+#### [General](#id3)
 
 - Better/more signage.
 - Large corkboard or whiteboard in registration area
@@ -58,7 +58,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Lightning Talks](#id4)
+#### [Lightning Talks](#id4)
 
 - Be more specific that talks should be more than a sales or recruiting pitch. Tell us about what you\'re doing!
 - Point people to example lightning talk videos, once we get them posted.
@@ -67,7 +67,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Networking](#id5)
+#### [Networking](#id5)
 
 - wired network for speakers\' podiums, vendors & sponsors who request it, tutorials (esp. tutorial instructors)
 - wired network for tutorials \-- too many people need to install at the beginning of a tutorial and it was too easy for the wireless to go down thus holding up progress on tutorials.
@@ -77,7 +77,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Open Space](#id6)
+#### [Open Space](#id6)
 
 - introduction to open space for attendees
   - The idea for an introduction 3x5 card at registration is great. \"Hipster\'s Guide to Ridiculously Easy Group Forming\"
@@ -93,7 +93,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Registration Desk](#id7)
+#### [Registration Desk](#id7)
 
 - Have a simple badge printing program so that Mary can print badges w/o having to create a registration.
 - make on-site registration faster \-- get a terminal? do it in PayFlow\'s (or should I call it PayFlaw?) management interface? outsource the whole registration process to a third party?
@@ -101,7 +101,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Sponsorship](#id8)
+#### [Sponsorship](#id8)
 
 - Dedicate space for recruiting
   - Use open space room(s)?
@@ -110,14 +110,14 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Talk Selection Process](#id9)
+#### [Talk Selection Process](#id9)
 
 - Keep speaker names on proposals during reviews
 - Organize scheduled talks into themed tracks
 :::
 
 ::: 
-### [Talk Logistics](#id10)
+#### [Talk Logistics](#id10)
 
 - Better wrangling of speakers at speaking time, including:
   - Present before session
@@ -138,7 +138,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Tutorials](#id11)
+#### [Tutorials](#id11)
 
 - The evening session worked well. What about 2 days of tutorials?
 - Allow for instructors to communicate with students (pre-conference)
@@ -177,14 +177,14 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Scheduling](#id12)
+#### [Scheduling](#id12)
 
 - Start with PSF Community Awards to allow the recipients, if present, to receive congratulations all weekend.
 - Bigger raffle. No pick-up, just announce winners, pick up prizes at vendor booths. This may help us get more minor sponsors and more sponsor air-time. Unclaimed prizes can be re-raffled at later event.
 :::
 
 ::: 
-### [Website](#id13)
+#### [Website](#id13)
 
 - A prominent contact email address for most things \-- i.e. [pycon-help@python.org](mailto:pycon-help@python.org) just to field and route questions to the right person\...
 - More pictures of PyCon\'s diverse human population
@@ -192,7 +192,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Volunteer Coordination](#id14)
+#### [Volunteer Coordination](#id14)
 
 - Schedule major planning huddles for volunteers to pick up information (on paper) and updates to learn\...
   - Who are the Go-To people and places for specific issues (Safety, A/V, Scheduling, \...)
@@ -204,7 +204,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Job Board](#id15)
+#### [Job Board](#id15)
 
 - Physical cork board?
 - Or publicize the online job board.
@@ -212,19 +212,19 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [Swag](#id16)
+#### [Swag](#id16)
 
 - See [the swag ideas page](./PyCon_2008IdeasFor2009(2f)Swag.html).
 :::
 
 ::: 
-### [Traveling](#id17)
+#### [Traveling](#id17)
 
 - provide CTA and metra schedules at the hotel
 :::
 
 ::: 
-### [PyCon Office](#id18)
+#### [PyCon Office](#id18)
 
 - Printer available.
 - Supplies.
@@ -232,7 +232,7 @@ This page should be used as a place to capture the ideas that we don\'t want to 
 :::
 
 ::: 
-### [On-Site Feedback](#id19)
+#### [On-Site Feedback](#id19)
 
 - Issues with the venue, staff, food: talk to the PyCon Chair, or to a volunteer who will pass it on. (Write it down on an index card!)
 - Suggestions box?

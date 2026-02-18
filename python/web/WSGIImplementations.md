@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Implementations of the Web Server Gateway Interface 
+## Implementations of the Web Server Gateway Interface 
 
 Note: many of these implementations may be partial/incomplete or noncompliant as of the current draft spec. If you can\'t get the code samples in the spec to work with one of these implementations, there\'s a good chance that the implementation is broken: contact the implementation\'s author.
 
 See [PEP 333](http://www.python.org/peps/pep-0333.html) for more information on WSGI.
 
-## Web Server implementations 
+### Web Server implementations 
 
 - [Divmod Nevow](http://divmod.org/trac/wiki/DivmodNevow) Twisted Web-based templating framework with a WSGI implementation
 
@@ -46,7 +46,7 @@ See [PEP 333](http://www.python.org/peps/pep-0333.html) for more information on 
 
 - see WSGIUtils below
 
-## Web Framework implementations 
+### Web Framework implementations 
 
 - [CherryPy](CherryPy) 2.1 beta includes a mutli-threaded WSGI server
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sorting Mini-HOW TO 
+## Sorting Mini-HOW TO 
 
 **Original version by Andrew Dalke with a major update by Raymond Hettinger**
 
@@ -14,7 +14,7 @@ Python lists have a built-in `sort()` method that modifies the list in-place and
 
 There are many ways to use them to sort data and there doesn\'t appear to be a single, central place in the various manuals describing them, so I\'ll do so here.
 
-## Sorting Basics 
+### Sorting Basics 
 
 A simple ascending sort is very easy \-- just call the `sorted()` function. It returns a new sorted list:
 
@@ -33,7 +33,7 @@ Another difference is that the `list.sort()` method is only defined for lists. I
     >>> sorted({1: 'D', 2: 'B', 3: 'B', 4: 'E', 5: 'A'})
     [1, 2, 3, 4, 5]
 
-## Key Functions 
+### Key Functions 
 
 Starting with Python 2.4, both `list.sort()` and `sorted()` added a `key` parameter to specify a function to be called on each list element prior to making comparisons.
 
@@ -74,7 +74,7 @@ The same technique works for objects with named attributes. For example:
     >>> sorted(student_objects, key=lambda student: student.age)   # sort by age
     [('dave', 'B', 10), ('jane', 'B', 12), ('john', 'A', 15)]
 
-## Operator Module Functions 
+### Operator Module Functions 
 
 The key-function patterns shown above are very common, so Python provides convenience functions to make accessor functions easier and faster. The [operator module](http://docs.python.org/library/operator.html#module-operator) has `itemgetter`, `attrgetter`, and starting in Python 2.6 a `methodcaller` function.
 
@@ -103,7 +103,7 @@ The third function from the operator module, `methodcaller` is used in the follo
     >>> sorted(student_objects, key=methodcaller('weighted_grade'))
     [('jane', 'B', 12), ('dave', 'B', 10), ('john', 'A', 15)]
 
-## Ascending and Descending 
+### Ascending and Descending 
 
 Both `list.sort()` and `sorted()` accept a `reverse` parameter with a boolean value. This is using to flag descending sorts. For example, to get the student data in reverse age order:
 
@@ -113,7 +113,7 @@ Both `list.sort()` and `sorted()` accept a `reverse` parameter with a boolean va
     >>> sorted(student_objects, key=attrgetter('age'), reverse=True)
     [('john', 'A', 15), ('jane', 'B', 12), ('dave', 'B', 10)]
 
-## Sort Stability and Complex Sorts 
+### Sort Stability and Complex Sorts 
 
 Starting with Python 2.2, sorts are guaranteed to be [stable](http://en.wikipedia.org/wiki/Sorting_algorithm#Stability). That means that when multiple records have the same key, their original order is preserved.
 
@@ -131,7 +131,7 @@ This wonderful property lets you build complex sorts in a series of sorting step
 
 The [Timsort](http://en.wikipedia.org/wiki/Timsort) algorithm used in Python does multiple sorts efficiently because it can take advantage of any ordering already present in a dataset.
 
-## The Old Way Using Decorate-Sort-Undecorate 
+### The Old Way Using Decorate-Sort-Undecorate 
 
 This idiom is called Decorate-Sort-Undecorate after its three steps:
 
@@ -158,7 +158,7 @@ Another name for this idiom is [Schwartzian transform](http://en.wikipedia.org/w
 
 For large lists and lists where the comparison information is expensive to calculate, and Python versions before 2.4, DSU is likely to be the fastest way to sort the list. For 2.4 and later, key functions provide the same functionality.
 
-## The Old Way Using the cmp Parameter 
+### The Old Way Using the cmp Parameter 
 
 Many constructs given in this HOWTO assume Python 2.4 or later. Before that, there was no `sorted()` builtin and `list.sort()` took no keyword arguments. Instead, all of the Py2.x versions supported a `cmp` parameter to handle user specified comparison functions.
 
@@ -206,7 +206,7 @@ To convert to a key function, just wrap the old comparison function:
 
 In Python 2.7, the *cmp_to_key()* tool was added to the *functools* module.
 
-## Maintaining Sort Order 
+### Maintaining Sort Order 
 
 Python does not provide modules like C++\'s set and map data types as part of its standard library. This is a concious decision on the part of Guido, et al to preserve \"one obvious way to do it.\" Instead Python delegates this task to third-party libraries that are available on the [Python Package Index](https://pypi.python.org/pypi). These libraries use various techniques to maintain list, dict, and set types in sorted order. Maintaining order using a specialized data structure can avoid very slow behavior (quadratic run-time) in the naive approach of editing and constantly re-sorting. Several implementations are described here.
 
@@ -224,7 +224,7 @@ Python does not provide modules like C++\'s set and map data types as part of it
 
 - [Python blist Module](https://pypi.python.org/pypi/blist) - Provides sorted list, dict and set data types based on the \"blist\" data type, a B-tree implementation. Implemented in Python and C.
 
-## Odd and Ends 
+### Odd and Ends 
 
 - For locale aware sorting, use `locale.strxfrm()` for a key function or `locale.strcoll()` for a comparison function.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Cobra 
+## Cobra 
 
 The Cobra Programming Language: [http://cobra-language.com/](http://cobra-language.com/)
 

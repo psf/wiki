@@ -18,7 +18,7 @@ Kurt\'s setup: Drupal 6, CiviCRM 3.3.
 
 - [http://psfmember.org/d/civicrm/dashboard](http://psfmember.org/d/civicrm/dashboard) for CiviCRM dashboard.
 
-# Fields for Individual import 
+## Fields for Individual import 
 
     birth date
     City
@@ -38,7 +38,7 @@ Kurt\'s setup: Drupal 6, CiviCRM 3.3.
     supplemental address 1,2
     url
 
-# Fields for Company Membership import 
+## Fields for Company Membership import 
 
     Contact ID
     Contact e-mail
@@ -54,7 +54,7 @@ Kurt\'s setup: Drupal 6, CiviCRM 3.3.
     Status Override 
     Test
 
-# Fields for CiviCRM\'s membership import 
+## Fields for CiviCRM\'s membership import 
 
     Membership Type
     Membership Start Date
@@ -62,13 +62,13 @@ Kurt\'s setup: Drupal 6, CiviCRM 3.3.
 
 Discussion of importing in CRM docs: [http://en.flossmanuals.net/CiviCRM/ContactsAddingAndImporting](http://en.flossmanuals.net/CiviCRM/ContactsAddingAndImporting)
 
-# Tasks 
+## Tasks 
 
-## CiviCRM configuration 
+### CiviCRM configuration 
 
 - Go to Administer \> Global Settings \> Localization. Under \"Available Countries\", leave the right-hand side blank. Under \"Available States and Provinces\", add Canada, the US, the UK, Germany, New Zealand, and Argentina.
 
-## Conversion process 
+### Conversion process 
 
 - Import individual records (nominated members, and then non-members).
   - Edit file: South Korea -\> \"Korea, Republic of\".
@@ -92,7 +92,7 @@ CiviCRM doesn\'t support committees; should check that the committee rosters are
 
 Perhaps Groups could be used for this? \--KBK
 
-# Process 
+## Process 
 
 Target numbers: Companies: 37 total, 27 corporate members, 10 non-members.
 

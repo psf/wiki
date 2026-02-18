@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Python Brochure 
+## PSF Python Brochure 
 
 Members:
 
@@ -18,13 +18,13 @@ Members:
 
 *Note: This page has been made publicly viewable. It is available without PSF login.*
 
-## Introduction 
+### Introduction 
 
 The PSF marketing material project aims to design, produce and ship professional quality marketing material for Python.
 
 The first goal is to create a Python brochure which show-cases Python\'s application spaces, how it helps users to achieve their tasks and what its benefits are in a professional and educational setting.
 
-## Summary 
+### Summary 
 
 The project is led by Marc-André Lemburg who is in contact with the people behind the Plone brochure created by the German Zope User Group (DZUG): Jan Ulrich Hasecke and Armin Stroß-Radschinski.
 
@@ -36,7 +36,7 @@ For more details, please see the brochure support site at:
 
 - [http://brochure.getpython.info/learn-more](http://brochure.getpython.info/learn-more)
 
-## Project Setup 
+### Project Setup 
 
 In order to run the project, Armin\'s company *Evenios Publishing* is taking care of the brochure production work and also processes the ad sales. This has the advantage that EU companies who sign up for ads can get the VAT back and companies outside the EU don\'t have to be billed VAT at all.
 
@@ -44,7 +44,7 @@ The PSF has signed a contract with Evenios Publishing to produce the brochure un
 
 Our aim is to make the project a zero sum project for the PSF by having Evenios pay back the initial PSF kickoff investment at the end of the project. This is why we need the help of sponsors to refinance the production costs.
 
-## Project Plan 
+### Project Plan 
 
 We have finished the first phases:
 
@@ -84,25 +84,25 @@ Due to too many community orders and an overall increase in costs (for e.g. runn
 
 Late in May 2016, the PSF board has granted an extra USD 3500 budget to cover the shipping costs of the remaining brochures.
 
-## Sponsor Options 
+### Sponsor Options 
 
 All options are listed on our sponsorship page, and you can also order them online:
 
 - [http://brochure.getpython.info/sponsorship](http://brochure.getpython.info/sponsorship)
 
-### Ads and Reference Entries 
+#### Ads and Reference Entries 
 
 There are 11 half-page ads available in the brochure and 12 reference sponsor entries.
 
 The reference sponsor entries are meant for companies providing Python services, have a fixed layout and provide a great value for money: the companies will not only be listed in 10.000+ copies of the brochure, but they will also each get a box of around 120 copies of the brochure.
 
-### Educational Sponsorship 
+#### Educational Sponsorship 
 
 In case you missed it in the last report: we have also added a new sponsor option: the educational sponsorship.
 
 This works much like the subscription sponsorship where a company can order extra brochure copies at very reasonable prices. The difference is that companies can order extra copies for educational institutions of their choice or of the PSF\'s choice. The bill will be paid by the company and the boxes will go straight to the institution.
 
-### Help find Sponsors 
+#### Help find Sponsors 
 
 If you know possible sponsors or are interested in sponsoring the brochure yourself, please check the available sponsorship plans we have available:
 
@@ -110,7 +110,7 @@ If you know possible sponsors or are interested in sponsoring the brochure yours
 
 If you have questions, please ping me directly or write to [brochure@getpython.info](mailto:brochure@getpython.info).
 
-## Help find Success Stories 
+### Help find Success Stories 
 
 Since we\'ll be continuing to work on the brochure project and also continue to collect success stories, we\'re always interested in getting in contact with people behind interesting projects and companies using Python to do great things.
 
@@ -122,11 +122,11 @@ and, if you\'re interested in the project, please consider signing up to our new
 
 - [http://brochure.getpython.info/](http://brochure.getpython.info/)
 
-## Issues 
+### Issues 
 
 None.
 
-## Future plans 
+### Future plans 
 
 If the project goes well (and things look great at the moment), we\'ll follow up with a second edition of the brochure, Python flyers using material extracted from the brochure, translated versions of the brochure and also consider creating marketing material more targeted at specific user groups or application fields.
 

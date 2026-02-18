@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython2008 
+## EuroPython2008 
 
 [EuroPython](EuroPython) 2008 was held at the Reval Hotel Lietuva in Vilnius, Lithuania from Monday 7th July (first day of talks) until Saturday 12th July (the end of sprints).
 
-## Links 
+### Links 
 
 - The external conference Web site: [http://www.europython.org/](http://www.europython.org/)
 

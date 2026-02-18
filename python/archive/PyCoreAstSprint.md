@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# What We Are Going To Do 
+## What We Are Going To Do 
 
 Guido has requested that the AST branch please be finished for Python 2.5 . Sprint on the AST branch has also become a tradition since the first sprint at [PyCon](../conferences/pycon/PyCon) 2003. Here is a rough list of what needs to be worked on:
 
@@ -20,13 +20,13 @@ Guido has requested that the AST branch please be finished for Python 2.5 . Spri
 
 \* Flesh out docs on AST
 
-# Preparing 
+## Preparing 
 
 To get ready for the sprint, get a CVS checkout of the \'ast-branch\'. How to do get a tagged branch, see the Python Dev FAQ @ [http://www.python.org/dev/devfaq.html](http://www.python.org/dev/devfaq.html) .
 
 Once you have a checkout, read Python/compile.txt . That gives an overview of what files are involved and how the basic process works.
 
-# Attendees 
+## Attendees 
 
 \* Brett Cannon
 

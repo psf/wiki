@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Sign Up for a Sprint!
+## Sign Up for a Sprint!
 
 Are you interested in sprinting in this project? Great!
 
@@ -15,7 +15,7 @@ Signing up is a rather unofficial process. Just click [here](http://wiki.python.
 If you\'re not sure which project to join, you can register in the [generic sprint sign-up page](http://wiki.python.org/moin/PyCon2008/SprintSignups).
 
 ::: 
-### Project Info
+#### Project Info
 
 Pymel makes python scripting in Autodesk\'s Maya work the way it should. By taking advantage of python\'s strengths \-- particularly, a flexible, object-oriented design \-- pymel builds on the default Maya modules by organizing its commands into a class hierarchy, and by customizing them to operate in a more succinct, intuitive, and pythonic way.
 
@@ -43,7 +43,7 @@ when promted, enter the google code password accessible from the \'source\' page
 :::
 
 ::: 
-### Sprinters
+#### Sprinters
 
 - Chad Dombrova (chadrik at gmail.com)
 - Olivier Renouard (orenouard at gmail.com)

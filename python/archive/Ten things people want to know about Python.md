@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 11 August 2008: [Guido van Rossum](Guido van Rossum) mentions (on a the PSF private mailing list) via IRC #python/presence/42088545 this formulation:
 
-# Top 10 Python FAQ 
+## Top 10 Python FAQ 
 
 1.  [Why is Python a dynamic language and also a strongly typed language](Why is Python a dynamic language and also a strongly typed language)?
 
@@ -30,7 +30,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 10. [How to make exe on Windows](../guides/How to make exe on Windows) (run without Python preinstalled)?
 
-# i18N 
+## i18N 
 
 - Chinese \~ [http://wiki.woodpecker.org.cn/moin/PyTop10FAQ?action=show](http://wiki.woodpecker.org.cn/moin/PyTop10FAQ?action=show)
 

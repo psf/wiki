@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Mailing Lists and Newsgroups 
+## Mailing Lists and Newsgroups 
 
 Numerous mailing lists, forums, newsgroups exist covering Python usage in the general sense and in conjunction with specific topics and technologies. Here is a list of places to look for list/group information:
 

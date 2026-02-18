@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [BayPiggies](http://baypiggies.net/new/plone) (San Francisco Bay Area Python Interest Group) is creating a bid for hosting [PyCon](PyCon) 2010 and 2011.
 
-# Conference Bid Staff 
+## Conference Bid Staff 
 
 - [Edward Cherlin](http://wiki.laptop.org/go/User:Mokurai), Earth Treasury, Chairbeing/Cat-Herder-in-Chief
 
@@ -20,7 +20,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - David Cramer, [Curse, Inc.](http://www.curse.com/)
 
-# Proposal 
+## Proposal 
 
 Google will be a sponsor, of course, and would like to arrange an event at the Googleplex in Mountain View. We are considering having a reception at the Exploratorium science museum. Guido will be featured, along with the OLPC XO. He has offered to give a Keynote speech.
 

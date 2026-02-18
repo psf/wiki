@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Beginner\'s Guide to Python 
+## Beginner\'s Guide to Python 
 
 Welcome to Python.
 
@@ -16,11 +16,11 @@ New to programming? Python is free and easy to learn if you know where to start!
 
 [Beginner\'s Guide: Chinese Translation/中文版入门](BeginnersGuideChinese)
 
-## New to Python? 
+### New to Python? 
 
 Read [BeginnersGuide/Overview](BeginnersGuide/Overview) for a short explanation of what Python is.
 
-## Getting Python 
+### Getting Python 
 
 Next, install the Python 3 interpreter on your computer. This is the program that reads Python programs and carries out their instructions; you need it before you can do any Python programming. Mac and Linux distributions may include an outdated version of Python (Python 2), but you should install an updated one (Python 3). See [BeginnersGuide/Download](BeginnersGuide/Download) for instructions to download the correct version of Python.
 
@@ -28,7 +28,7 @@ There are also Python interpreter and IDE bundles available, such as [Thonny](ht
 
 At some stage, you\'ll want to edit and save your program code. Take a look at [HowToEditPythonCode](../guides/HowToEditPythonCode) for some advice and recommendations.
 
-## Learning Python 
+### Learning Python 
 
 Next, read a tutorial and try some simple experiments with your new Python interpreter.
 
@@ -70,7 +70,7 @@ When you are ready to write your first program, you will need a [text editor](..
 
 This Python wiki also contains a page about [Python One-Liners](../guides/Powerful Python One-Liners) \-- an obscure but interesting subculture in Python.
 
-## Need Help? 
+### Need Help? 
 
 Need help with any of this? Read [BeginnersGuide/Help](BeginnersGuide/Help) for mailing lists and newsgroups.
 
@@ -84,7 +84,7 @@ Or, if you prefer to learn Python through listening to a lecture, you can attend
 
 Teachers can join the [EDU-SIG](http://www.python.org/sigs/edu-sig/), a mailing list for discussion of Python\'s use in teaching at any level ranging from K-12 up to university.
 
-## Complete list of Beginner\'s Guide pages 
+### Complete list of Beginner\'s Guide pages 
 
 ::: searchresults
 1.  [**BeginnersGuide/**Download](BeginnersGuide/Download)
@@ -100,7 +100,7 @@ Teachers can join the [EDU-SIG](http://www.python.org/sigs/edu-sig/), a mailing 
 11. [**BeginnersGuide/**Programmers/SimpleExamples](BeginnersGuide/Programmers/SimpleExamples)
 :::
 
-## Quiz and Exercises 
+### Quiz and Exercises 
 
 - After Hours Programming - [Python Quiz](http://www.afterhoursprogramming.com/tutorial/Python/Python-Quiz/)
 
@@ -118,7 +118,7 @@ Teachers can join the [EDU-SIG](http://www.python.org/sigs/edu-sig/), a mailing 
 
 - Python Challenge - [A Python Quiz App on Android Platform](https://play.google.com/store/apps/details?id=sg.apps.garden.pythonchallenge)
 
-## Python Based AI and Prompt Engineering 
+### Python Based AI and Prompt Engineering 
 
 - AI Engineering Academy - [Become a Certified AI Engineer with OpenAI API, HuggingFace, and Llama](https://academy.finxter.com)
 
@@ -130,7 +130,7 @@ Teachers can join the [EDU-SIG](http://www.python.org/sigs/edu-sig/), a mailing 
 
 - OpenAI API (Python) - [Quickstart to Access OpenAI\'s API (Python, Javascript, curl)](https://platform.openai.com/docs/quickstart)
 
-## Looking for a particular Python module or application? 
+### Looking for a particular Python module or application? 
 
 - The first place to look is the [Python Package Index](http://pypi.python.org/pypi).
 
@@ -142,7 +142,7 @@ Teachers can join the [EDU-SIG](http://www.python.org/sigs/edu-sig/), a mailing 
 
 - Finally, you can try posting a query to the comp.lang.python Usenet group.
 
-## Python-Related Cheat Sheets 
+### Python-Related Cheat Sheets 
 
 - Python Cheatsheet for Beginners: [pythoncheatsheet.org](https://pythoncheatsheet.org)
 
@@ -154,7 +154,7 @@ Teachers can join the [EDU-SIG](http://www.python.org/sigs/edu-sig/), a mailing 
 
 - Machine Learning: [Collection of 15 Machine Learning Cheat Sheets](https://blog.finxter.com/machine-learning-cheat-sheets/)
 
-## Want to contribute? 
+### Want to contribute? 
 
 - Python is a product of the [Python Software Foundation](http://www.python.org/psf/), a non-profit organization that holds the copyright. [Donations to the PSF](http://www.python.org/psf/donations/) are tax-deductible in the USA, and you can donate via credit card or [PayPal](./PayPal.html).
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Selecting items in unrelated views 
+## Selecting items in unrelated views 
 
 On the `pyqt`{.backtick} channel on [freenode](http://www.freenode.net), `virousa`{.backtick} asked for a way to relate a selected item in a tree view to an item in a table view that shows completely different items.
 

@@ -10,9 +10,9 @@ The sprint rooms are 301 and 307 on the third floor of the Marvin Center, and sp
 
 Please add planned sprints to this page. Feel free to create new wiki pages for planning your sprint in detail.
 
-# Introduction 
+## Introduction 
 
-## What is a sprint? 
+### What is a sprint? 
 
 A sprint is a focused development session, in which developers pair in a room and focus on building a particular subsystem. A sprint is organized with a coach leading the session. The coach sets the agenda, tracks activities, and keeps the development moving. The developers work in pairs using XP\'s pair programming approach.
 
@@ -20,7 +20,7 @@ The sprint approach works best when the first few hours are spent getting orient
 
 [ZopeMag\'s miniGuide to Zope Sprinting](http://www.zopemag.com/Guides/miniGuide_ZopeSprinting.html) is a good introductory article; just mentally remove every \"Zope\" from the article to make it generic.
 
-## Why sprint at PyCon? 
+### Why sprint at PyCon? 
 
 The sprints are intended to benefit various projects, and to encourage more people to take part in development. They will also be a good place to see [ExtremeProgramming](../../../people/ExtremeProgramming) or other [AgileMethods](./AgileMethods.html) in action, and to work closely with experienced Python developers.
 
@@ -30,9 +30,9 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
 (Do we use a private LAN in the sprint room or have Internet access to a Subversion server? How is chaos avoided?)
 
-# Schedule 
+## Schedule 
 
-## Saturday, March 19 
+### Saturday, March 19 
 
 - [CanDo](../../../people/CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
 
@@ -58,7 +58,7 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
   [WsgiKitSprint](../../../archive/WsgiKitSprint) (maybe\...?)
 
-## Sunday, March 20 
+### Sunday, March 20 
 
 - [CanDo](../../../people/CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
 
@@ -86,7 +86,7 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
   [UnununiumSprint](./UnununiumSprint.html)
 
-## Monday, March 21 
+### Monday, March 21 
 
 - [CanDo](../../../people/CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
 
@@ -114,7 +114,7 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
   [WsgiKitSprint](../../../archive/WsgiKitSprint) (Coach: Ian Bicking)
 
-## Tuesday, March 22 
+### Tuesday, March 22 
 
 - [CanDo](../../../people/CanDo) (Plone/PostgreSQL Application 9am - 6pm, Coach: Alan Elkner )
 
@@ -142,11 +142,11 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
   [AdaptersAndInterfacesSprint](../../../archive/AdaptersAndInterfacesSprint) (Coach: Bruce Eckel)
 
-# Possible Sprint Topics 
+## Possible Sprint Topics 
 
 [JythonSprint](../../../people/JythonSprint)? SWTSprint?
 
-## Python Core 
+### Python Core 
 
 \* rewrite setup.py
 
@@ -156,11 +156,11 @@ If you wish to participate in a sprint, please contact the sprint organizers in 
 
 \* handle bugs / patches
 
-# Logistics 
+## Logistics 
 
 - Location: GWU on the third floor of the Marvin Conference Center: [http://cafritz.gwu.edu/Directions](http://cafritz.gwu.edu/Directions) Rooms: probably 301, 307, and, on Monday and Tuesday, 310. Time: Starting 8 am Saturday Date: Saturday March 19 through Tuesday March 22 inclusive. Cost to attend: Free! Bring: Your laptop and a wireless card (though a wired network infrastructure will also be available). IRC: #pycon on irc.freenode.net
 
-# Who makes this possible? 
+## Who makes this possible? 
 
 The [Python Software Foundation](http://www.python.org/psf) is sponsoring the sprints for PyConDC2005. Please consider making a [donation](http://www.python.org/psf/donations.html) to support this vital community activity!
 

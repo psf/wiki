@@ -6,21 +6,21 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Indian Python Software Society 
+## Indian Python Software Society 
 
-## 1. Other Pages 
+### 1. Other Pages 
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [/AnnualReports](IPSS/AnnualReports)   [/ByeLaws](IPSS/ByeLaws)   [/CommitteeResolutions](IPSS/CommitteeResolutions)   [/FirstAGMMinutes](IPSS/FirstAGMMinutes)   [/FirstAGMResolutions](IPSS/FirstAGMResolutions)   [/MOA](IPSS/MOA)   [/Registration](IPSS/Registration)  
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 2. Links 
+### 2. Links 
 
 - PyCon 2010: [http://in.pycon.org/2010/](http://in.pycon.org/2010/)
 
 - Mailing list: [http://mail.python.org/mailman/listinfo/ipss](http://mail.python.org/mailman/listinfo/ipss)
 
-## 3. About the Society 
+### 3. About the Society 
 
 The Indian Python software Society (IPSS) is a registered society founded on 4th February 2010 for the following objectives:
 

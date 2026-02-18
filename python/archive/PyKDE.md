@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyKDE 
+## PyKDE 
 
 PyKDE, written and actively maintained by Jim Bublitz, is a full interface to KDE\'s libraries. This allows you to write fully-fledged KDE applications with python.
 
@@ -26,6 +26,6 @@ If you have written an application for PyKDE, please list it here:
 
 - [pyRad](http://bitbucket.org/ArneBab/pyrad/) is a wheel type command interface to allow quick access to programs.
 
-## Links to other resources 
+### Links to other resources 
 
 Jim Bublitz was [interviewed about PyKDE](http://dot.kde.org/1157841422/) for [KDE Dot News](http://dot.kde.org) in September 2006.

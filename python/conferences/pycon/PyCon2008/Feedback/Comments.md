@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How can we improve PyCon next year? 
+## How can we improve PyCon next year? 
 
 When videotaping talks, you really need a mic feed direct to the video camera. The few videos I\'ve seen posted from Pycon 2008 have been nearly inaudible because they relied on room acoustics and the in-camera microphone.
 
@@ -796,7 +796,7 @@ Booth babes! Seriously, I don\'t know. Maybe two days of tutorials.
 
 Better coffee.
 
-## Do you have any other comments about PyCon 2008? 
+### Do you have any other comments about PyCon 2008? 
 
 Loved it, good work all
 

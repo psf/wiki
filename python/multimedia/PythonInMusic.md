@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page is divided in three sections: Music software written in Python, Music programming in Python, and Music software supporting Python
 
-# Music software written in Python 
+## Music software written in Python 
 
-## Audio Players 
+### Audio Players 
 
 - **[Bluemindo](http://bluemindo.codingteam.net/)** - Bluemindo is a really simple but powerful audio player in Python/PyGTK, using Gstreamer. Bluemindo is a free (as in freedom) software, released under GPLv3, only.
 
@@ -42,7 +42,7 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[LinuxBand](http://linuxband.org/)** - [LinuxBand](./LinuxBand.html) is a GUI front-end for MMA (Musical MIDI Accompaniment). Type in the chords, choose the groove and [LinuxBand](./LinuxBand.html) will play a musical accompaniment for you.
 
-## Audio Convertors 
+### Audio Convertors 
 
 - **[audio-convert-mod](http://www.diffingo.com/oss/audio-convert-mod/)** - audio-convert-mod is a simple audio file converter that supports many formats. At just a right-click, you can convert any amount of music files to WAV, MP3, AAC, Ogg and more. audio-convert-mod was designed with the same principles as fwbackups - keeping things simple.
 
@@ -50,7 +50,7 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[Python Audio Tools](http://audiotools.sourceforge.net)** - Python audio tools are a collection of audio handling programs which work from the command line. These include programs for CD extraction, track conversion from one audio format to another, track renaming and retagging, track identification, CD burning from tracks, and more. Supports internationalized track filenames and metadata using Unicode. Works with high-definition, multi-channel audio as well as CD-quality. Track conversion uses multiple CPUs or CPU cores if available to greatly speed the transcoding process. Track metadata can be retrieved from FreeDB, [MusicBrainz](./MusicBrainz.html) or compatible servers. Audio formats supported are: WAV, AIFF, FLAC, Apple Lossless, Shorten, [WavPack](./WavPack.html), MP3, MP2, M4A, Ogg Vorbis, Ogg Speex, Ogg FLAC, & Sun AU
 
-## Music Notation 
+### Music Notation 
 
 - **[Abjad](http://www.projectabjad.org/)** - Abjad is a Python API for Formalized Score Control. Abjad is designed to help composers build up complex pieces of music notation in an iterative and incremental way. You can use Abjad to create a symbolic representation of all the notes, rests, staves, nested rhythms, beams, slurs and other notational elements in any score. Because Abjad wraps the powerful [LilyPond](./LilyPond.html) music notation package, you can use Abjad to control extremely fine-grained typographic details of all elements of any score.
 
@@ -64,7 +64,7 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - see also \'music21\' below
 
-## Musical Analysis 
+### Musical Analysis 
 
 - **[music21](http://web.mit.edu/music21/)** - a toolkit developed at MIT for computational musicology, music theory, and generative composition. Provides expandable objects and methods for most common theoretical problems. Supports music import via MusicXML, Humdrum/Kern, Musedata, ABC, and MIDI, output via MusicXML, Lilypond, and MIDI, and can easily integrate with notation editors (Finale, Sibelius, or [MuseScore](./MuseScore.html)) and other audio and DAW software (via MIDI).
 
@@ -78,7 +78,7 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[Partitura](https://github.com/CPJKU/partitura)** - Partitura (see also Music Notation) offers a [diverse set of music analysis tools](https://partitura.readthedocs.io/en/latest/modules/partitura.musicanalysis.html), such as estimation of pitch-spelling, meter, key signature, voicing, and tonal tension.
 
-## Audio Analysis 
+### Audio Analysis 
 
 - **[Friture](http://friture.org)** - Friture is a graphical program designed to do time-frequency analysis on audio input in real-time. It provides a set of visualization widgets to display audio data, such as a scope, a spectrum analyser, a rolling 2D spectrogram.
 
@@ -90,11 +90,11 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[LibROSA](http://github.com/bmcfee/librosa)** - A python module for audio and music analysis. It is easy to use, and implements many commonly used features for music analysis.
 
-## Ear Training 
+### Ear Training 
 
 - **[GNU Solfege](http://www.solfege.org/)** - GNU Solfege is a computer program written to help you practice ear training. It can be useful when practicing the simple and mechanical exercises.
 
-## cSound 
+### cSound 
 
 - **[athenaCL](http://www.flexatone.net/athena.html)** - modular, polyphonic, poly-paradigm algorithmic music composition in an interactive command-line environment. The athenaCL system is an open-source, cross-platform, object-oriented composition tool written in Python; it can be scripted and embedded, includes integrated instrument libraries, post-tonal and microtonal pitch modeling tools, multiple-format graphical outputs, and musical output in Csound, MIDI, audio file, XML, and text formats.
 
@@ -108,15 +108,15 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - see also \'blue\' below
 
-## Audio (Visual) Programming Frameworks 
+### Audio (Visual) Programming Frameworks 
 
 - **[Peace Synthesizer Framework](http://peacedeveloper.appspot.com/)** - \"Peace Synthesizer Framework\" is Cross Platform Scriptable Real-Time Visualization & Sound. It has internal and external real-time scriptable visualization and sound generation and also support Nintendo system \[Famicom\] - like sound Emulation for 8-bits style chiptune music.
 
 - **[Hypersonic](http://arrowtheory.com/software/hypersonic/index.html)** - Hypersonic is for building and manipulating sound processing pipelines. It is designed for real-time control. It includes objects for oscillators, filters, file-io, soundcard and memory operations.
 
-# Music programming in Python 
+## Music programming in Python 
 
-## Playing & creating sound 
+### Playing & creating sound 
 
 - **[pydub](http://github.com/jiaaro/pydub)** - Pydub is a simple and easy high level interface based on ffmpeg and influenced by jquery. It manipulates audio, adding effects, id3 tags, slicing, concatenating audio tracks. Supports python 2.6, 2.7, 3.2, 3.3
 
@@ -168,11 +168,11 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[sounddevice](http://python-sounddevice.rtfd.org/)** - This module provides bindings for the [PortAudio](http://www.portaudio.com/) library (using [CFFI](https://cffi.rtfd.org/)) and a few convenience functions to play and record [NumPy](http://www.numpy.org/) arrays containing audio signals.
 
-## Community 
+### Community 
 
 - **[PythonSound](http://pythonsound.sourceforge.net/)** - The Python Sound Project aims to develop a productive community around Python, Csound and other synthesis engines as tools for algorithmic and computer assisted composition of electroacoustic music.
 
-## Csound 
+### Csound 
 
 - **[CSound](http://www.csounds.com/) / CsoundAC** - Csound is a sound and music synthesis system, providing facilities for composition and performance over a wide range of platforms and for any style of music. The Csound orchestra language features over 1200 unit generators (called \"opcodes\") covering nearly every sound synthesis method and that the user can combine into \"instruments\" of unlimited complexity and flexibility. Csound 5 allows Python code to be called from or directly embedded into Csound orchestras. Additionally, the csnd Python extension module wraps the Csound API so that Csound can be embedded into Python applications. CsoundAC (for \"Csound Algorithmic Composition\") is a GUI front end to Csound with Python scripting and a Python module providing tools for the algorithmic generation or manipulation of Csound scores. [Csound on Sourceforge](http://csound.sourceforge.net/); [Csound-Python](http://wiki.laptop.org/go/Csound-Python) and [Csound](http://wiki.laptop.org/go/CSound) (some brief tutorials on the OLPC Wiki)
 
@@ -180,7 +180,7 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[PMask](http://web.tiscali.it/mupuxeddu/csound/index.html)** - Python implementation of CMask, a stochastic event generator for Csound.
 
-## MP3 stuff and Metadata editors 
+### MP3 stuff and Metadata editors 
 
 - **[eyed3](http://eyed3.nicfit.net/)** - eyeD3 is a Python module and program for processing ID3 tags. Information about mp3 files (i.e bit rate, sample frequency, play time, etc.) is also provided. The formats supported are ID3 v1.0/v1.1 and v2.3/v2.4.
 
@@ -204,7 +204,7 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - see also: [PySonic](./PySonic.html) for programmable MP3 playback
 
-## MIDI Mania 
+### MIDI Mania 
 
 - **[mido](https://mido.readthedocs.io)** - MIDI Objects for Python. A library for working with MIDI 1.0 ports, messages and files.
 
@@ -254,7 +254,7 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[Partitura](https://github.com/CPJKU/partitura)** - Partitura (see also Music Notation, Music Analysis) supports reading and writing MIDI. It supports [distinct representations](https://partitura.readthedocs.io/en/latest/introduction.html#score-vs-performance) of MIDI data that encodes musical scores (and has e.g. meaningful key/time signatures, and metrical times/durations), and MIDI data that encodes a performance.
 
-## Other protocols 
+### Other protocols 
 
 - **[OSC.py](http://v00d00.k-hornz.de/pub/OSC.py)** - Python classes for [OpenSoundControl](http://cnmat.cnmat.berkeley.edu/OpenSoundControl/) library client functionality. The OSC homepage is at [http://opensoundcontrol.org](http://opensoundcontrol.org)
 
@@ -270,7 +270,7 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[PyJack](http://www.a2hd.com/software/)** - This is a Python C extension module which provides an interface to the Jack Audio Server. It is possible to access the Jack graph to perform port connections/disconnections, monitor graph change events, and to perform realtime audio capture and playback using Numeric Python arrays. This is released under the GPL.
 
-## MAX/MSP & PureData 
+### MAX/MSP & PureData 
 
 - **[mxdublin](http://www.le-son666.com/software/mxdublin/)** - mxdublin is an object oriented framework to generate events in pd and [max](http://www.cycling74.com/products/maxmsp.html). pd, short for [Pure Data](http://iem.kug.ac.at/pd/), a graphical Computer Music System written by [Miller S. Puckette](http://crca.ucsd.edu/~msp/). mxdublin is a real time Python user environment working within pd/max. It is designed to put logic into a sequence of events. Python has been chosen has the interface language to build and run sequencing objects. Has a prerequisites, the users needs to know a minimal of Python and pd/max.
 
@@ -282,9 +282,9 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[Purity](http://wiki.dataflow.ws/Purity)** is a Python library for Pure Data dynamic patching. The idea is to be able to harness the power of Pure Data for audio programming without having to use its graphical interface. Python\'s clear and intuitive syntax can be used with profit in order to create intricate patches with advanced string handling, graphical user interfaces and asynchronous network operations. Purity uses Twisted, an event-driven Python framework.
 
-# Music software supporting Python 
+## Music software supporting Python 
 
-## Multitrack Studios 
+### Multitrack Studios 
 
 - **[REAPER](http://www.reaper.fm)** - \"Audio Production Without Limits\": REAPER is a professional digital audio workstation (DAW) for Windows, OS X and WINE. It comes with an uncrippled evaluation licence and supports advanced audio and MIDI recording, arranging and mixing. The support of several plugin formats (like VST, DX and AU) as well as the extremely flexible routing capabilities make it a powerful production suite. Since version 3.12 REAPER is scriptable with Python, allowing access to internal actions and parts of the API.
 

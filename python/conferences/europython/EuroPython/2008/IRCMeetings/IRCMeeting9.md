@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #9 
+## IRC Meeting #9 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode at 18:00 CET on Thursday 3rd April.
 
 Please look at the minutes from the last meeting for more background information: [../IRCMeeting8](IRCMeeting8)
 
-## Present 
+### Present 
 
 Paul, David, Christian, Marius, Carl, Stephan
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Talks/Themes
   - *Paul* to report on the status of python.org mailing lists for talks/contact. **Paul will follow up and try to get the lists created as soon as possible.**
@@ -50,6 +50,6 @@ Paul, David, Christian, Marius, Carl, Stephan
   - Keynotes
   - Sprints
 
-## Actions 
+### Actions 
 
 - See the bold sections above\...

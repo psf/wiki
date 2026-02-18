@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Tokyo Pythonistas 
+## Tokyo Pythonistas 
 
 A primarily English speaking group which seeks to bring together all those interested in networking in Tokyo with aim of learning more about the programming language Python.
 

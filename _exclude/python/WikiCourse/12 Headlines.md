@@ -10,22 +10,22 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)12(20)Headlines.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)11(20)Paragraphs.html) Slide 11 of 27 [\>\>](./WikiCourse(2f)13(20)Lists.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Headlines 
+## Headlines 
 
-## Input 
+### Input 
 
     = First headline level with =-character =
     == Second ==
     === Third ===
     ... (up to "Fifth")
 
-## Display 
+### Display 
 
-# First headline level with =-character 
+## First headline level with =-character 
 
-## Second 
+### Second 
 
-### Third 
+#### Third 
 
 \... (up to \"Fifth\")
 

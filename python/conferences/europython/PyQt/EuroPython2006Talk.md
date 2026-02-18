@@ -8,17 +8,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Authors: Torsten Marek, *David Boddie*
 
-# Introducing PyQt4 for GUI Application Development 
+## Introducing PyQt4 for GUI Application Development 
 
 - *We decided to use this title [for the official submission](http://indico.cern.ch/contributionDisplay.py?contribId=33&sessionId=41&confId=44).*
 
 - *[Abstract and Slides](http://indico.cern.ch/contributionDisplay.py?contribId=33&sessionId=41&confId=44)*
 
-## Status 
+### Status 
 
 *Submitted the talk, presented it, and uploaded slides.*
 
-## Abstract 
+### Abstract 
 
 [PyQt4](../../../gui/PyQt4) is a set of bindings for Qt 4, a cross-platform C++ framework used to make graphical user interface (GUI) applications. With the release of [PyQt4](../../../gui/PyQt4), Python developers are now able to develop powerful cross-platform applications and deploy them under the GNU General Public License (GPL) or the Qt Commercial License on all platforms that support Qt and Python.
 
@@ -34,7 +34,7 @@ Remarks:
 
 - *Both licenses are mentioned now.*
 
-## Thoughts 
+### Thoughts 
 
 I\'m not completely sure whom to target. Judging from the fact that this is a Python conference, we should probably put emphasis on the Python part and not on the compatibility between [PyQt](../../../gui/PyQt) and Qt/C++. I think there\'s no need to actually win somebody for Python.
 
@@ -53,7 +53,7 @@ I\'m not completely sure whom to target. Judging from the fact that this is a Py
 
 *One way to approach this is to ask, \"What advantages does [PyQt](../../../gui/PyQt) give Python developers? Which features are particularly special or interesting?\"*
 
-## Introduction 
+### Introduction 
 
 *General features of Qt and [PyQt](../../../gui/PyQt):*
 
@@ -61,7 +61,7 @@ I\'m not completely sure whom to target. Judging from the fact that this is a Py
 
 - *Dual licensed*
 
-## Topics 
+### Topics 
 
 *I think it would be good to split the talk into sections. Apart from the review part, which could just show things like examples of [PyQt](../../../gui/PyQt) applications and Python applications in KDE, the second part could also be split into interesting topics that are accompanied by examples.*
 
@@ -135,7 +135,7 @@ I\'m not completely sure whom to target. Judging from the fact that this is a Py
 
 ***The problem with this approach is that it doesn\'t really point out the fundamental features that make Qt different, or at least provide the basic architectural foundations, such as layouts, signals and slots, and support for internationalization. Unfortunately, I think the alternative approach would be fairly dry and technical, and would probably be more appropriate for training material.***
 
-## Demos and Examples 
+### Demos and Examples 
 
 *I think we should carefully look at what\'s already available, especially for [PyQt4](../../../gui/PyQt4), before spending time creating new demos and examples. The [PyQt4Examples](./PyQt4Examples.html) page shows what\'s been ported from C++, though there are a few more examples that aren\'t quite finished, and the Qt snapshots contain more recent ones as well.*
 
@@ -171,6 +171,6 @@ I\'m not completely sure whom to target. Judging from the fact that this is a Py
 
 - *dombookmarks*
 
-## Things We Missed Out 
+### Things We Missed Out 
 
 *I still need to finish writing sections about databases, OpenGL and internationalization. I think it\'s probably too optimistic to hope that we\'ll get everything mentioned here into the talk.*

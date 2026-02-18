@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Preparation Stage 
+## Preparation Stage 
 
 As many frameworks as possible are contacted about a usability test taking place in 2 months\' time after the notice goes out. If they want to participate, they need to provide:
 
@@ -17,7 +17,7 @@ Each framework is responsible for individually coordinating how these documents 
 
 If a framework is not bundled with either of (a) a templating system, or (b) a persistence system, the framework is responsible for recommending a third-party system that should be used for this testing. The framework is also responsible for either documenting how these systems should be used in conjunction with their framework, or arranging for the third-party to write this portion of the documentation.
 
-# Testing Stage 
+## Testing Stage 
 
 Undergraduate computer science students at the University of Toronto (where I have a large pool to draw from) would be recruited for the testing stage. The students recruited would have the following experience:
 
@@ -36,7 +36,7 @@ Every half hour, the students would be stopped for a brief period to jot down an
 
 Also, as a small but separate testing stage, a handful of graphic designers would be recruited. These graphic designers would be chosen as ones who know nothing about Python and would be asked to make a small layout change to the website that the frameworks provided us with. This would test the separation of presentation and logic, as well as the readability of the templates.
 
-# Analysis Stage 
+## Analysis Stage 
 
 The code produced by the testing participants would be analyzed, and their comment logs would be thoroughly examined in order to produce usability testing conclusions for the participating frameworks.
 
@@ -53,7 +53,7 @@ The Python community in general would gain:
 - Stronger documentation for all participating frameworks.
 - An assessment of which frameworks should be pushed forward as the \"official recommendations\" of the community.
 
-# Comments 
+## Comments 
 
 This proposal is still being designed. Please send comments to [ml@cs.toronto.edu](mailto:ml@cs.toronto.edu), or add below
 

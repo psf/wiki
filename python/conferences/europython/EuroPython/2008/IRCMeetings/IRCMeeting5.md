@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #5 
+## IRC Meeting #5 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode. Please indicate your preferred time [on the voting page](http://www.doodle.ch/f8ypb36amep7pd47)!
 
-## Agenda 
+### Agenda 
 
 - Publicity/Web site
   - Fixes (contact information)

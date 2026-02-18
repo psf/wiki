@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007 
+## EuroPython 2007 
 
 [EuroPython](EuroPython) 2007 will take place at the [Reval Hotel Lietuva](http://www.revalhotels.com/en/Hotels/Lithuania/Reval-Hotel-Lietuva) in Vilnius, Lithuania from Monday 9th July to Wednesday 11th July.
 
-## Links 
+### Links 
 
 - The external conference Web site: [http://www.europython.org/](http://www.europython.org/)
 
@@ -24,34 +24,34 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - The previous year\'s conference: [EuroPython2006](EuroPython2006)
 
-## Papers and Slides 
+### Papers and Slides 
 
 This year\'s [timetable](http://www.europython.org/timetable) is now available.
 
-## Lightning Talks 
+### Lightning Talks 
 
 See [EuroPython2007LightningTalks](EuroPython2007LightningTalks).
 
-## Sprints 
+### Sprints 
 
 See [EuroPython2007Sprints](EuroPython2007Sprints).
 
-## Open Space 
+### Open Space 
 
 See [EuroPython2007OpenSpace](EuroPython2007OpenSpace).
 
-## Organisation 
+### Organisation 
 
 [EuroPython2007SessionChairing](EuroPython2007SessionChairing)
 
-## Reports and Summaries 
+### Reports and Summaries 
 
 See [EuroPython2007Reports](EuroPython2007Reports).
 
-## Photos 
+### Photos 
 
 See [EuroPython2007Photos](EuroPython2007Photos).
 
-## Videos 
+### Videos 
 
 See [EuroPython2007Videos](EuroPython2007Videos).

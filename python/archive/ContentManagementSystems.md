@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# 1. Content Management Systems 
+## 1. Content Management Systems 
 
 A content management system (CMS) might be simply defined as a system which supports the publishing or sharing, editing or manipulation, searching and indexing, archival or versioning of content, frequently documents, typically using Web technologies. A more extensive definition can be found in the [Wikipedia topic entry](http://en.wikipedia.org/wiki/Content_management_system).
 
@@ -14,11 +14,11 @@ In plainer terms, content management systems are the applications used to manage
 
 Python-based products, although in the minority in the larger market of CMSs, possess several inherent advantages. Python\'s [Unicode](Unicode) capabilities, for example, make its derived products particularly popular in continental Europe and Asia, as compared to those based on PHP, Ruby, and so on.
 
-## 1.1. Zope-based Solutions 
+### 1.1. Zope-based Solutions 
 
 The most established Python-based content management systems are those derived from [Zope](../web/Zope), notably [Plone](http://www.plone.org), [Nuxeo CPS](http://www.cps-project.org) (starting with v5 Nuxeo switched to Java as its development platform), [Silva](http://www.infrae.com/products/silva), [ZMS](http://www.zms-publishing.com) and [KARL](http://karlproject.org). These solutions have been used in large scale and high profile deployments over a number of years, and a range of organisations provide support and services for those solutions.
 
-## 1.2. Non-Zope Solutions 
+### 1.2. Non-Zope Solutions 
 
 For those wanting non-Zope CMS solutions, there are a few options which may provide at least some of the features found in the more established solutions mentioned above, and the solutions mentioned below may be targeted more towards developers than individuals or organizations wishing to immediately deploy a complete and working solution.
 
@@ -60,7 +60,7 @@ For those wanting non-Zope CMS solutions, there are a few options which may prov
 
 - [Tendenci](http://tendenci.org) is an open source CMS specifically developed for nonprofit and association websites. Tendenci is written in Python on a Django framework, includes a plugin builder for easily adding additional, custom plugins, and has all the features nonprofits need in a complex website including integration with merchant account for online payments, event calendar and event registration, membership management, job board, business directories, and more. Tendenci\'s public repository can be found on Github: [https://github.com/tendenci/tendenci](https://github.com/tendenci/tendenci).
 
-### 1.2.1. Wiki Solutions 
+#### 1.2.1. Wiki Solutions 
 
 Despite their simple beginnings, many wiki solutions offer many of the capabilities listed above. Numerous wiki projects have been written in Python. The following are the most widely deployed:
 
@@ -70,6 +70,6 @@ Despite their simple beginnings, many wiki solutions offer many of the capabilit
 
 - See a more complete list of wiki solutions on the [PythonWikiEngines](PythonWikiEngines) page.
 
-## 1.3. Editorial Notes 
+### 1.3. Editorial Notes 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new solutions. When specifying release dates please use the format YYYY-MM-DD.

@@ -10,7 +10,7 @@ The Python Package Index currently provides a feature where users can comment on
 
 There is also a discussion on [Catalog-SIG](http://mail.python.org/mailman/listinfo/catalog-sig) starting with [an email by Martin](http://mail.python.org/pipermail/catalog-sig/2009-October/002236.html) (who implemented the feature) and continuing in the [November archive](http://mail.python.org/pipermail/catalog-sig/2009-November/thread.html).
 
-# Pro comments 
+## Pro comments 
 
 - users posting a rating not only want to indicate whether they like or dislike the package, but also why they rated the package in the way they did.
 - restricting users (not allowing them comment on certain packages) can be considered as a form of censorship
@@ -18,7 +18,7 @@ There is also a discussion on [Catalog-SIG](http://mail.python.org/mailman/listi
 - if users use the facility to report bugs, the package author should have more clear directions to point users to the bug reporting channels
 - new comments will be emailed to the maintainers to notify them
 
-# Contra comments 
+## Contra comments 
 
 - maintainers need to check one more place for discussion of the package, in addition to mailing lists and fora that they already operate; people are too lazy to research what the proper comment reporting channel is.
 - if PyPI would allow individual packages to opt out of commenting, then comments would still be possible on packages that want them (or don\'t mind receiving them).
@@ -33,7 +33,7 @@ There is also a discussion on [Catalog-SIG](http://mail.python.org/mailman/listi
 
 For more contra arguments, see also [this Sourceforge issue](http://sourceforge.net/tracker/?func=detail&atid=513503&aid=2872293&group_id=66150) with input from many package authors and community members.
 
-# Poll 
+## Poll 
 
 There is a public poll running to determine what users think of the rating and commenting features.
 

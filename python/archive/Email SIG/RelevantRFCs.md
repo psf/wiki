@@ -6,10 +6,10 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# RFCs of Relevance to the Email Package Implementation
+## RFCs of Relevance to the Email Package Implementation
 
 ::: 
-### Base Email RFCs
+#### Base Email RFCs
 
 - [rfc0733](http://tools.ietf.org/html/rfc0733) Standard for the Format of ARPA Network Text Messages
 - [rfc0822](http://tools.ietf.org/html/rfc0822) Standard for the Format of ARPA Internet Text Messages
@@ -24,7 +24,7 @@ The email package should produce output that strictly conforms to RFC 5322.
 :::
 
 ::: 
-### MIME
+#### MIME
 
 - [rfc2045](http://tools.ietf.org/html/rfc2045) MIME Part One: Format of Internet Message Bodies
 - [rfc2046](http://tools.ietf.org/html/rfc2046) MIME Part Two: Media Types
@@ -35,27 +35,27 @@ The email package should produce output that strictly conforms to RFC 5322.
 :::
 
 ::: 
-### Specific MIME Content Types
+#### Specific MIME Content Types
 
 - [rfc1847](http://tools.ietf.org/html/rfc1847) Security Multiparts for MIME: Multipart/Signed and Multipart/Encrypted
 - [rfc1894](http://tools.ietf.org/html/rfc1894) An Extensible Message Format for Delivery of Status Notifications
 :::
 
 ::: 
-### Mailing List Headers
+#### Mailing List Headers
 
 - [rfc2369](http://tools.ietf.org/html/rfc2369) The Use of URLs as Meta-Syntax for Core Mail List Commands and their Transport through Message Header Fields
 - [rfc2919](http://tools.ietf.org/html/rfc2919) A Structured Field and Namespace for the Identification of Mailing Lists
 :::
 
 ::: 
-### Other
+#### Other
 
 - [rfc4648](http://tools.ietf.org/html/rfc4648) The Base16, Base32, and Base64 Data Encodings
 :::
 
 ::::: 
-### Additional Considerations
+#### Additional Considerations
 
 An auxiliary module should provide access to the registered IANA data specified by the RFCs. We make use of the data from the mimetimes module, which overlaps with this requirement, so we need to coordinate with the maintainers of that module [\[2\]](#id4).
 
@@ -66,13 +66,13 @@ We also make use of URLs ([rfc3986](http://tools.ietf.org/html/rfc3986)), and wi
 We also need to be aware of the RFCs that are relevant to the modules that share concerns with the email package and/or are consumers of email package services:
 
 ::: 
-#### HTTP
+##### HTTP
 
 - [RFC2616](http://tools.ietf.org/html/rfc2616) Hypertext Transfer Protocol \-- HTTP/1.1
 :::
 
 ::: 
-#### Netnews
+##### Netnews
 
 - [RFC1036](http://tools.ietf.org/html/rfc1036) Standard for Interchange of USENET Messages
 - [RFC3977](http://tools.ietf.org/html/rfc3977) Network News Transfer Protocol (NNTP)
@@ -80,7 +80,7 @@ We also need to be aware of the RFCs that are relevant to the modules that share
 :::::
 
 ::: 
-### Extensions
+#### Extensions
 
 There are also email extensions that we may want to support. This list is not complete.
 

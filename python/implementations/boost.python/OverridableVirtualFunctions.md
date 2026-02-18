@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Overridable Virtual Functions 
+## Overridable Virtual Functions 
 
 In the previous example we exposed a simple C++ class in Python and showed that we could write a subclass. We even redefined one of the functions in our derived class. Now we will learn how to make the function behave virtually *when called from* C++.
 
-## Example 
+### Example 
 
 In this example, it is assumed that `hello::greet()`{.backtick} is a virtual member function:
 
@@ -81,7 +81,7 @@ Now our Python subclass of `hello`{.backtick} behaves as expected:
 1.  []You may ask, \"Why do we need this derived class? This could have been designed so that everything gets done right inside of hello.\" One of the goals of Boost.Python is to be minimally intrusive on an existing C++ design. In principle, it should be possible to expose the interface for a 3rd party library without changing it. To unintrusively hook into the virtual functions so that a Python override may be called, we must use a derived class. ([1](#fndef-a601a5360c1e729befc29729b3bebf6a4cd6e3fd-0))
 :::
 
-## Pure Virtual Functions 
+### Pure Virtual Functions 
 
 A pure virtual function with no implementation is actually a lot easier to deal with than a virtual function with a default implementation. First of all, you obviously don\'t need to supply a default implementation. Secondly, you don\'t need to call *def()* on the `extension_class<>`{.backtick} instance for the virtual function. In fact, you wouldn\'t want to: if the corresponding attribute on the Python class stays undefined, you\'ll get an *AttributeError* in Python when you try to call the function, indicating that it should have been implemented. For example:
 
@@ -132,6 +132,6 @@ Now in Python:
     >>> y.calls_pure(99)
     1100
 
-## Private Non-Pure Virtual Functions 
+### Private Non-Pure Virtual Functions 
 
 This is one area where some minor intrusiveness on the wrapped library is required. Once it has been overridden, the only way to call the base class implementation of a private virtual function is to make the derived class a friend of the base class. You didn\'t hear it from me, but most C++ implementations will allow you to change the declaration of the base class in this limited way without breaking binary compatibility (though it will certainly break the [ODR](http://cs.calvin.edu/c++/C++Standard-Nov97/basic.html#basic.def.odr)).

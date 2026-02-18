@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# 1. Configuration and Build Tools 
+## 1. Configuration and Build Tools 
 
 This page is for:
 
@@ -77,7 +77,7 @@ This page is for:
 +-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-## 1.1. Dead, Unmaintained or Discontinued Projects 
+### 1.1. Dead, Unmaintained or Discontinued Projects 
 
 - [AAP](http://www.a-a-p.org/) - Latest version 1.093 released on 2013-09-15. Does not appear to support Python 3.
 
@@ -105,7 +105,7 @@ This page is for:
 
 - [Vertoo](http://vertoo.sourceforge.net/) - **ver**sion management **too**l (automates version number maintenance across several files). Last release 0.8 on 2003-07-18. [sf.net](https://sourceforge.net/projects/vertoo/)
 
-# 2. Build Testing 
+## 2. Build Testing 
 
 - [Bitten](http://bitten.edgewall.org/) - a continuous integration plugin for Trac
 
@@ -113,7 +113,7 @@ This page is for:
 
 - [Apache Gump](http://gump.apache.org/) - Apache\'s continuous integration tool. \"It is written in python and fully supports Apache Ant, Apache Maven and other build tools.\"
 
-# 3. Related Lists 
+## 3. Related Lists 
 
 - [CWL\'s list of existing workflow systems](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
 
@@ -131,11 +131,11 @@ This page is for:
 
 - [GitHub orchestration-framework topic with python language](https://github.com/topics/orchestration-framework?l=python&o=desc&s=stars)
 
-# 4. Editorial Notes 
+## 4. Editorial Notes 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new entries. If, as the developer of a listed application, you disagree with the classification of the work, please move it into the appropriate category or create a new category, respecting the ascending alphabetical order of the categories. When specifying release dates please use the format YYYY-MM-DD.
 
-## 4.1. Criteria for Dead, Discontinued or Unmaintained Projects 
+### 4.1. Criteria for Dead, Discontinued or Unmaintained Projects 
 
 This is a bit difficult to say and it is handled on a case by case basis, but any of the following should be sufficient criteria
 

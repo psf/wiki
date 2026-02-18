@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **Note:** These are older notes on content migration from the old site. Since some of the old site is still in the old format and copied over automatically by the build process, this is being retained in case there is something useful in it.
 
-# A quick guide to how a link should converted on the new website 
+## A quick guide to how a link should converted on the new website 
 
 First an example.
 
@@ -28,17 +28,17 @@ b\) The suffix should be removed if it is .html, not if it is .pdf or .rst
 
 c\) Preferably the relative portion should be replaced with an abolute path. If the page is moved within the website, the links on the page will not require maintenance.
 
-# Files/Directories that need to be copied over into the new python tree 
+## Files/Directories that need to be copied over into the new python tree 
 
 not checking the /\<N\> or /doc/\<N\> folders yet
 
-## script needed 
+### script needed 
 
 /channews.rdf /channews.dat \^ rdf to be moved from /new/rdf/index.html and header replaced with xml directive .. what about .dat
 
 /dev/summary/channews.rdf /dev/summary/channews.dat \^ needs generating? do the summaries still get generated still?
 
-## files/directories to be copied into www 
+### files/directories to be copied into www 
 
 NO /community already moved NO /consortium points to psf NO /cp4e omitting YES /css will be need for some legacy content YES /buildbot YES /ftp
 
@@ -70,7 +70,7 @@ YES /search/hypermail - important historical archives
 
 YES /pyvault - note sure of status (no email reply from maintainer) but copy for now
 
-## redirects needed 
+### redirects needed 
 
 above and beyond the checks for ./\<mixedcase\>.html which should redirect to ./\<lowercase\> the following will be needed
 
@@ -96,7 +96,7 @@ smb://192.168.0.2/python/www.python.org/download/download_linux.html smb://192.1
 
 /audio -\> [http://wiki.python.org/moin/Audio](http://wiki.python.org/moin/Audio)
 
-## action taken on directories 
+### action taken on directories 
 
 /dev/buildbot \^ what is going to happen and where does this come from
 
@@ -146,7 +146,7 @@ smb://192.168.0.2/python/www.python.org/download/download_linux.html smb://192.1
 
 /workshops \^ needs reviewing (some of this is in already) but copy across for now
 
-## action taken on files 
+### action taken on files 
 
 /community - copied across the clpya-guidelines.txt (should this be in download too??)
 

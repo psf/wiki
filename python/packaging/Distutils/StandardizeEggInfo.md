@@ -15,6 +15,6 @@ Please look at the direct svn link which has the latest version : [svn link](htt
 - make sure the APIs proposed are complete
 - think hard to see if we want a reference install/uninstall script in distutils (I am +1 personnaly)
 
-# code prototype 
+## code prototype 
 
 - get_metadata : [http://bugs.python.org/issue4908](http://bugs.python.org/issue4908)

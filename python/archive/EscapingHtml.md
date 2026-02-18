@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Escaping HTML 
+## Escaping HTML 
 
 The `cgi` module that comes with Python has an `escape()` function:
 
@@ -76,7 +76,7 @@ You can also use `escape()` from `xml.sax.saxutils` to escape html. This functio
 :::
 ::::
 
-## Unescaping HTML 
+### Unescaping HTML 
 
 Undoing the escaping performed by `cgi.escape()` isn\'t directly supported by the library. This can be accomplished using a fairly simple function, however:
 
@@ -121,7 +121,7 @@ This version has the additional advantage that it supports character references 
 
 A more efficient implementation would simply parse the string for entity and character references directly (and would be a good candidate for the library, if there\'s really a need for it outside of HTML data).
 
-## Formal htmlentitydefs 
+### Formal htmlentitydefs 
 
 Yet another approach available with recent Python takes advantage of htmlentitydefs:
 
@@ -131,7 +131,7 @@ Yet another approach available with recent Python takes advantage of htmlentityd
         return re.sub('&(%s);' % '|'.join(name2codepoint),
                 lambda m: unichr(name2codepoint[m.group(1)]), s)
 
-## Builtin HTML/XML escaping via ASCII encoding 
+### Builtin HTML/XML escaping via ASCII encoding 
 
 A very easy way to transform non-ASCII characters like German umlauts or letters with accents into their HTML equivalents is simply encoding them from unicode to ASCII and use the `xmlcharrefreplace` encoding error handling:
 
@@ -141,7 +141,7 @@ A very easy way to transform non-ASCII characters like German umlauts or letters
 
 Note, that this does only transform *non*-ASCII characters and therefore leaves `<`, `>`, `?` as they are. However, you can combine this technique with the `cgi.escape`.
 
-## See Also 
+### See Also 
 
 XML entities are different from, if related to, HTML entities. This page hints at the details:
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #6 
+## IRC Meeting #6 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode on Thursday 13th March at 19:00 CET.
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Talks/Themes
   - Further theme discussion (need to group the themes and identify some good, distinct ones) - **David suggests creating a list of ten or so core themes and asking people to suggest more as required**
@@ -45,13 +45,13 @@ The meeting will take place in the #europython channel on freenode on Thursday 1
   - Sprints
   - Keynotes
 
-## Post-Meeting Discussion 
+### Post-Meeting Discussion 
 
 Christian, David and Laura talked about video streaming, lighting and audio issues with last year\'s event and the problems of having too little time to edit video footage after an event.
 
 Christian suggested arriving a day early to look into setting things up, David suggested some kind of sponsorship was required for the additional travel/accommodation expenses. Christian suggested getting sponsorship for better audio equipment.
 
-## Actions 
+### Actions 
 
 - **Christian:** Try and find a copyright assignment form for presenters so that we can video them!
 

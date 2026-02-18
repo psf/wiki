@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the 2011 PSF Board of Directors
+## Candidates for the 2011 PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning in March 2011. Their self-written summaries follow.
 
@@ -39,7 +39,7 @@ Links
 :::
 
 ::: 
-### [Jesse Noller](#id1)
+#### [Jesse Noller](#id1)
 
 *2010 Board Member.*
 
@@ -55,7 +55,7 @@ Links
 :::
 
 ::: 
-### [Raymond Hettinger](#id2)
+#### [Raymond Hettinger](#id2)
 
 - Board Member in 2008, 2009 and 2010.
 - Active code committer (bug fixes, documentation, and new features).
@@ -66,7 +66,7 @@ Links
 :::
 
 ::: 
-### [David Mertz](#id3)
+#### [David Mertz](#id3)
 
 *2010 Board Member.*
 
@@ -80,19 +80,19 @@ I am the author of Addison Wesley\'s *Text Processing in Python*, of the IBM dev
 :::
 
 ::: 
-### [Jeff Rush](#id4)
+#### [Jeff Rush](#id4)
 
 *2010 Board Member.*
 :::
 
 ::: 
-### [Tim Peters](#id5)
+#### [Tim Peters](#id5)
 
 *2010 Board Member.*
 :::
 
 ::: 
-### [Allison Randal](#id6)
+#### [Allison Randal](#id6)
 
 *2010 Board Member.*
 
@@ -104,13 +104,13 @@ In my first year on the Board I learned a great deal about the inner workings of
 :::
 
 ::: 
-### [Steve Holden](#id7)
+#### [Steve Holden](#id7)
 
 *2010 Board Member.*
 :::
 
 ::: 
-### [Marc-André Lemburg](#id8)
+#### [Marc-André Lemburg](#id8)
 
 *2010 Board Member.*
 
@@ -142,13 +142,13 @@ I\'d like to continue with the work started in 2010 and look forward to another 
 :::
 
 ::: 
-### [Greg Stein](#id9)
+#### [Greg Stein](#id9)
 
 *2010 Board Member.*
 :::
 
 ::: 
-### [Gloria Willadsen](#id10)
+#### [Gloria Willadsen](#id10)
 
 *2010 Board Member.*
 
@@ -162,13 +162,13 @@ I hope to to be re-elected to the board. I spent this year respectfully listenin
 :::
 
 ::: 
-### [Martin v. Löwis](#id11)
+#### [Martin v. Löwis](#id11)
 
 *2010 Board Member.*
 :::
 
 ::: 
-### [Douglas Napoleone](#id12)
+#### [Douglas Napoleone](#id12)
 
 *2010 Board Member.*
 

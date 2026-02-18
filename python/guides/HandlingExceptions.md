@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Handling Exceptions 
+## Handling Exceptions 
 
 The simplest way to handle exceptions is with a \"try-except\" block:
 
@@ -37,7 +37,7 @@ If you wanted to examine the exception from code, you could have:
 :::
 ::::
 
-## General Error Catching 
+### General Error Catching 
 
 Sometimes, you want to catch *all* errors that could possibly be generated, but usually *you don\'t*. In most cases, you want to be as specific as possible. In the first example above, if you were using a catch-all exception clause and a user presses Ctrl-C, generating a [KeyboardInterrupt](https://docs.python.org/library/exceptions.html#KeyboardInterrupt), you don\'t want the program to print \"divide by zero\".
 
@@ -92,7 +92,7 @@ By using `raise` with no arguments, you will re-raise the last exception. A comm
 :::
 ::::
 
-## Finding Specific Exception Names 
+### Finding Specific Exception Names 
 
 Standard exceptions that can be raised are detailed at:
 
@@ -100,20 +100,20 @@ Standard exceptions that can be raised are detailed at:
 
 Look to class documentation to find out what exceptions a given class can raise.
 
-# See Also: 
+## See Also: 
 
 On this wiki: [WritingExceptionClasses](../archive/WritingExceptionClasses), [TracebackModule](./TracebackModule.html).
 
 For general (non-Python specific) ideas about exceptions, consult [ExceptionPatterns](http://c2.com/cgi/wiki?ExceptionPatterns "Wiki").
 
-# To Write About\... 
+## To Write About\... 
 
 - Give example of IOError, and interpreting the IOError code.
 - Give example of multiple excepts. Handling multiple excepts in one line.
 
-# Questions 
+## Questions 
 
-## General Error Handling 
+### General Error Handling 
 
 In the \"general error handling\" section above, it says to catch all exceptions, you use the following code:
 
@@ -152,7 +152,7 @@ For now (version \<= 2.4) exception doesn\'t have to be inherited from Exception
 
 I believe that as of 2.7, exceptions still don\'t have to be inherited from Exception or even [BaseException](./BaseException.html). However, as of Python 3, exceptions *must* subclass `BaseException`. \-- [ElephantJim](./ElephantJim.html)
 
-## Getting Useful Information from an Exception 
+### Getting Useful Information from an Exception 
 
 So, I\'ve got something like:
 
@@ -196,7 +196,7 @@ The `.args` attribute of exceptions is a tuple of all the arguments that were pa
 
 Note that not all exceptions subclass Exception (though almost all do), so this might not catch some exceptions; also, exceptions aren\'t required to have an `.args` attribute (though it will if the exception subclasses Exception and doesn\'t override `__init__` without calling its superclass), so the code as written might fail But in practice it almost never does (and if it does, you should fix the non-conformant exception!)
 
-## Isn\'t it better to prevent then to remediate? 
+### Isn\'t it better to prevent then to remediate? 
 
 \> [https://www.joelonsoftware.com/items/2003/10/13.html](https://www.joelonsoftware.com/items/2003/10/13.html)
 

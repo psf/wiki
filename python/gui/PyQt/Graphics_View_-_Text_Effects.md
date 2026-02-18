@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Graphics View - Text Effects 
+## Graphics View - Text Effects 
 
 With just a QGraphicsScene, a QGraphicsView and a few input widgets, we can draw text in a variety of interesting ways.
 
 ![text-effects.png](attachments/PyQt(2f)Graphics_View_(2d)_Text_Effects/text-effects.png "text-effects.png")
 
-## Importing Modules 
+### Importing Modules 
 
 We begin by importing the standard `sys`{.backtick} module and some classes from the [PyQt4](../PyQt4) package:
 
@@ -28,7 +28,7 @@ We begin by importing the standard `sys`{.backtick} module and some classes from
 
 For convenience, we import all the classes in [PyQt4](../PyQt4)\'s `QtCore`{.backtick} and `QtGui`{.backtick} modules rather than listing only those we need. The only disadvantage to this is that the program\'s namespace will contain all the classes from those modules.
 
-## Creating a Window 
+### Creating a Window 
 
 The application\'s window will be an instance of the `Window`{.backtick} custom widget class, derived from `QWidget`{.backtick}, which we will use as a container for other widgets.
 

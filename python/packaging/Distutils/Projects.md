@@ -6,47 +6,47 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# A list of Distutils-related Project 
+## A list of Distutils-related Project 
 
 Please add a listing to this page if you\'re working on Distutils (and help us reduce duplication of effort).
 
-## PyPI 
+### PyPI 
 
 The central repository of Python package metadata and distribution files. See: [CheeseShopDev](../../archive/CheeseShopDev)
 
-## Easy Install 
+### Easy Install 
 
 A Python package manager that downloads, builds, installs, upgrades, and switches between package versions automatically (using Python Eggs). See: [http://peak.telecommunity.com/DevCenter/EasyInstall](http://peak.telecommunity.com/DevCenter/EasyInstall)
 
-## Python Eggs 
+### Python Eggs 
 
 An effort to produce single-file distributions of packages similar to Java JARs. See: [http://peak.telecommunity.com/DevCenter/PythonEggs](http://peak.telecommunity.com/DevCenter/PythonEggs)
 
-## Paver 
+### Paver 
 
 [Paver](http://www.blueskyonmars.com/projects/paver/): Easy Scripting for Software Projects
 
-## PEPs for extending distutils / PyPI 
+### PEPs for extending distutils / PyPI 
 
 PEPs 262 \"Database of Installed Python Packages\" and 345 \"Metadata for Python Software Packages 1.2\" are currently open
 
-## zpkgtools
+### zpkgtools
 
 A source-based packaging system. See: [http://www.zope.org/Members/fdrake/zpkgtools/](http://www.zope.org/Members/fdrake/zpkgtools/)
 
-## stdeb
+### stdeb
 
 Build debian source packages using setuptools and the \"sdist\" distutils command. See: [http://github.com/astraw/stdeb](http://github.com/astraw/stdeb)
 
-## Distribute 
+### Distribute 
 
 [Distribute](../Distribute) A community-driven project that aims to gather all requirements for a future distribution package.
 
-## Defend Against Fruit 
+### Defend Against Fruit 
 
 [Defend Against Fruit](http://teamfruit.github.io/defend_against_fruit/): A continuous deployment focused extension to Distribute supporting [Artifactory Pro](http://www.jfrog.com/home/v_artifactorypro_overview) as a PyPI server. See: [http://teamfruit.github.io/defend_against_fruit/](http://teamfruit.github.io/defend_against_fruit/)
 
-## Other efforts we know about 
+### Other efforts we know about 
 
 - Ian Bicking is looking to clean up and extend the use of release_urls in PyPI for use in [Paste](http://pythonpaste.org).
 

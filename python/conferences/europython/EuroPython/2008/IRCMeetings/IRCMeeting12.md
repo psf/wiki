@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #12 
+## IRC Meeting #12 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode at 18:00 CEST on Thursday 8th May.
 
 Please look at the minutes from the last meeting for more background information: [../IRCMeeting11](IRCMeeting11)
 
-## Present 
+### Present 
 
 \...
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Registration/Budget - final adjustments
 
@@ -39,6 +39,6 @@ Please look at the minutes from the last meeting for more background information
 
 - Streaming and dedicated lines - **We have to see what the traffic shaping is like. We need volunteers, too, so maybe it\'s time to use the europython-volunteer-announce list.**
 
-## Actions 
+### Actions 
 
 - See the bold sections above\...

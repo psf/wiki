@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Discussions 
+## Python Discussions 
 
 If you want to discuss Python online, these are a few resources you can tap into:
 

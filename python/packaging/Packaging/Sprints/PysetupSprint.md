@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# 1. Pysetup Sprint 2011-04-28 to 2011-05-01 
+## 1. Pysetup Sprint 2011-04-28 to 2011-05-01 
 
 Join members from the \'Pip\' team as we work on completing the pysetup script and review the packaging(distutils2) API!
 
 See the sprint goals for details.
 
-## 1.1. Schedule 
+### 1.1. Schedule 
 
 Start at 9:00am EST on 2011-04-28.
 
-## 1.2. Participants 
+### 1.2. Participants 
 
 - Kelsey Hightower (Lead) - Atlanta, USA (online) (4/28 - 5/1)
 - Jannis Leidel \"jezdez\" (pip) - Berlin, Germany (online) (4/28 - 5/1)
@@ -27,7 +27,7 @@ Start at 9:00am EST on 2011-04-28.
 
 You can participate online by joining the #distutils channel on [freenode](http://freenode.net/) and adding your name above.
 
-## 1.3. Sprint Goals 
+### 1.3. Sprint Goals 
 
 - make it easy for 3rd party tools such as [pip](http://www.pip-installer.org) to integrate with packaging(distutils2) APIs
 
@@ -46,19 +46,19 @@ You can participate online by joining the #distutils channel on [freenode](http:
   - make sure all pysetup features work (functional testing)
   - update packaging(distutils2) API and pysetup related unittests
 
-## 1.4. Requirements 
+### 1.4. Requirements 
 
-### 1.4.1. Sign the PSF Contributor Agreement 
+#### 1.4.1. Sign the PSF Contributor Agreement 
 
 Make sure you sign the PSF agreement and send it back to the PSF.
 
 [Contributor Agreements](http://www.python.org/psf/contrib/)
 
-### 1.4.2. Hg repository 
+#### 1.4.2. Hg repository 
 
     hg clone https://bitbucket.org/tarek/cpython
 
-### 1.4.3. How to run tests 
+#### 1.4.3. How to run tests 
 
     hg clone https://bitbucket.org/tarek/cpython
     cd cpython
@@ -70,7 +70,7 @@ You also can run specifuc tests by doing:
 
     ./python -m packaging.tests.test_yourtest
 
-### 1.4.4. How to build the docs 
+#### 1.4.4. How to build the docs 
 
 It seems there is a dependency on svn, make sure have it installed before running \'make html;.
 
@@ -78,7 +78,7 @@ It seems there is a dependency on svn, make sure have it installed before runnin
     cd cpython/Doc
     make html
 
-### 1.4.5. Specific Tasks 
+#### 1.4.5. Specific Tasks 
 
 Sprints run a lot better when there are specific things to work on. Specific tasks will be added to this section over the next couple of days.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# MySQL 
+## MySQL 
 
 URL
 
@@ -18,7 +18,7 @@ license
 platforms
 :   Unix, win32, win64, MacOS X, i5/OS
 
-## Pros 
+### Pros 
 
 - Easy to install and administer
 - Support for many SQL Features (v5.0 and up):
@@ -37,7 +37,7 @@ platforms
 - Regarded as being fast
 - Modular storage engines and interesting clustering features
 
-## Cons 
+### Cons 
 
 - Early versions (v4.1 and earlier) have the reputation for only basic SQL support (entry-level SQL 92) and deviations from the standards. Many interesting features (views, triggers,..) are included in the latest version (5 and above), but are missing in prior versions. Check [SQL Modes](http://dev.mysql.com/doc/refman/5.1/en/server-sql-mode.html) for making MySQL more strict.
 
@@ -45,9 +45,9 @@ platforms
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### MySQL for Python 
+#### MySQL for Python 
 
 URL
 
@@ -68,7 +68,7 @@ PyPI
 
 [MySQL on-line documentation, additional forums](http://dev.mysql.com/downloads/python.html) (maintainer does not currently read these)
 
-### mysqlclient
+#### mysqlclient
 
 URL
 
@@ -89,7 +89,7 @@ PyPI
 
 mysqlclient is a fork of MySQL-python. It adds Python 3 support and fixed many bugs. It is the MySQL library that is recommended by the Django documentation.
 
-### PyMySQL 
+#### PyMySQL 
 
 URL
 
@@ -113,7 +113,7 @@ PyPI
 - Virtually 100% compatible with MySQLdb
 - Good performance
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -134,7 +134,7 @@ PyPI
 
 mxODBC is compatible with the MySQL ODBC driver on Windows and Unix.
 
-### pyodbc
+#### pyodbc
 
 URL
 
@@ -157,7 +157,7 @@ Actively maintained Open Source project.
 
 Precompiled binaries are available for Windows. Red Hat Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
 
-### MySQL Connector/Python 
+#### MySQL Connector/Python 
 
 URL
 
@@ -182,7 +182,7 @@ PyPI
 - Actively developed and maintained by Oracle.
 - Includes Django database backend.
 
-### mypysql
+#### mypysql
 
 URL
 
@@ -205,7 +205,7 @@ PyPI
 - A majority of the commands are implemented
 - Still experimental but actively developed
 
-### PyPyODBC (Pure Python ODBC) 
+#### PyPyODBC (Pure Python ODBC) 
 
 URL
 
@@ -232,7 +232,7 @@ Similar usage as pyodbc ( can be seen as a re-implementation of pyodbc in pure P
 
 Simple - the whole module is implemented in a single python script with less than 3000 lines.
 
-### mxODBC Connect 
+#### mxODBC Connect 
 
 URL
 
@@ -259,7 +259,7 @@ mxODBC Connect Server is compatible with the MySQL ODBC drivers.
 
 ------------------------------------------------------------------------
 
-## Supported Python Applications 
+### Supported Python Applications 
 
 - [Zope](../web/Zope)
 

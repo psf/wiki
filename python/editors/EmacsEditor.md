@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Emacs 
+## Emacs 
 
 Emacs (the major flavors being [GnuEmacs](../people/GnuEmacs) and XEmacs) is a text editor which come with good support for writing Python code. Each has its strengths and weaknesses, but in general either provide very nice environments for the Python programmer.
 
-## Tools for Python coders 
+### Tools for Python coders 
 
 Please [get involved](http://mail.python.org/mailman/listinfo/python-mode) if you want to help.
 
@@ -38,7 +38,7 @@ Some tools have been written for using Python from Emacs:
 
 - The [emacspeak audio desktop](http://www.cs.cornell.edu/home/raman/emacspeak) is a speech interface that allows visually impaired users to interact independently and efficiently with the computer. It has editing support for interactive Python development. Features aural highlighting, structured browsing and debugging.
 
-## Support for C Python core developers 
+### Support for C Python core developers 
 
 Both Emacs and XEmacs have support for developers hacking on the Python C code itself. If you\'re developing Python 2.x, just use the standard `python`{.backtick} style that comes with c-mode. If you\'re hacking on Python 3.x, you\'ll want to add the following code to your `.emacs`{.backtick} file (given by [Georg Brandl](http://mail.python.org/pipermail/python-dev/2008-May/079582.html)):
 
@@ -72,7 +72,7 @@ Both Emacs and XEmacs have support for developers hacking on the Python C code i
 
 **Note:** *We should try to get the style into upstream c-mode.*
 
-## Other resources 
+### Other resources 
 
 - [The Emacs Wiki](http://www.emacswiki.org/emacs/SiteMap), a good starting place. Look for relevant articles:
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Possible Python 3K Class Tree? 
+## Possible Python 3K Class Tree? 
 
 \[**News Update:** some ideas from this wiki page are being incorporated into [PEP 3119](http://python.org/dev/peps/pep-3119/).\]
 

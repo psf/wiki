@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Suggestions for 2010
+## Suggestions for 2010
 
 This page should be used as a place to capture the ideas that we don\'t want to forget to incorporate in 2010 given our fresh perspectives on 2009\... so\.... list away! (also, feel free to add topics/sections, the list below was just a quick start).
 
@@ -40,36 +40,36 @@ See also: [the 2008 list](./PyCon2008IdeasFor2009.html), the [Board Game suggest
 :::
 
 ::: 
-### [A/V Recording](#id1)
+#### [A/V Recording](#id1)
 
 We need people to staff the cameras & mixers. The more experience ahead of time, the better. Local recruiting is very important. The A/V crew doesn\'t have to be Pythonistas \-- in fact, it may be better if they\'re not. Interest and experience in A/V is welcome.
 :::
 
 ::: 
-### [Financial Aid](#id2)
+#### [Financial Aid](#id2)
 :::
 
 ::: 
-### [Food, etc.](#id3)
+#### [Food, etc.](#id3)
 :::
 
 ::: 
-### [General](#id4)
+#### [General](#id4)
 
 - 11 rows of chairs in the main ballrooms; is that too many? I never saw them filled, and the result is that most of the audience is far from the speaker. Maybe 6-8 rows instead?
 - Perhaps 3-5 rows of chairs up front, then tables, then more chairs behind to catch \"overflow\"
 :::
 
 ::: 
-### [Lightning Talks](#id5)
+#### [Lightning Talks](#id5)
 :::
 
 ::: 
-### [Networking](#id6)
+#### [Networking](#id6)
 :::
 
 ::: 
-### [Open Space](#id7)
+#### [Open Space](#id7)
 
 - Have open-space blocks match the conference schedule, not clock hours. (Not sure about this idea\...)
 - Buy some projectors (only 2 or 3) and assign them to specific rooms for presentations, code reviews, etc. Projectors can be used for [sprints](#sprints) too. **Be sure to identify the rooms with projectors on the open space board!**
@@ -80,11 +80,11 @@ We need people to staff the cameras & mixers. The more experience ahead of time,
 :::
 
 ::: 
-### [Registration Desk](#id8)
+#### [Registration Desk](#id8)
 :::
 
 ::: 
-### [Registration Software](#id9)
+#### [Registration Software](#id9)
 
 - Faster on-site reg\'n; a one-shot form w/o e-mail verification for use on a kiosk, plus an admin page listing the 5-10 most recent reg\'ns for printing the badge.
 - PDF badge: add instructions about business cards; better handling of too-long badge names (they were just clipped); specify what\'s included in the registration barcode; put instructions on card (e.g. \'fold here\'); fix ribbon display;
@@ -99,25 +99,25 @@ We need people to staff the cameras & mixers. The more experience ahead of time,
 :::
 
 ::: 
-### [Sponsorship](#id10)
+#### [Sponsorship](#id10)
 
 - Ted Leung said Sun was sponsoring one of the summits. AMK didn\'t know anyone was sponsoring the summits, so I didn\'t thank any sponsors. Ted\'s a nice guy and didn\'t really care about that, but it would be nice to get this right if we do summits again.
 :::
 
 ::: 
-### [Talk Selection Process](#id11)
+#### [Talk Selection Process](#id11)
 
 - Select some number of talks as \"alternates\" that can be added into the schedule at the last minute to fill gaps. When an opening occurs, notify all alternates that an opening exists, and the first to respond gets the time slot.
 :::
 
 ::: 
-### [Talk Logistics](#id12)
+#### [Talk Logistics](#id12)
 
 - The radios were brilliant. We (session chairs) were able to get announcements \"on the fly\" as well as track down speakers. Great idea.
 :::
 
 ::: 
-### [Tutorials](#id13)
+#### [Tutorials](#id13)
 
 - If the rooms are long and narrow (like the 2 \"big\" rooms) we need either brighter projectors or another screen further back. Steve Holden had great slides in his 401 tutorial (large font, not too much on a single slide) but they were still difficult to read in the back. Other instructors had small font which was impossible to read.
 - Have a place for instructors to upload files so students can load them prior to class.
@@ -134,49 +134,49 @@ We need people to staff the cameras & mixers. The more experience ahead of time,
 :::
 
 ::: 
-### [Scheduling](#id14)
+#### [Scheduling](#id14)
 :::
 
 ::: 
-### [Sprints](#id15)
+#### [Sprints](#id15)
 
 - Get some projectors for code reviews, walkthroughs, etc. (Also useful in [open space](#open-space).)
 :::
 
 ::: 
-### [Website](#id16)
+#### [Website](#id16)
 :::
 
 ::: 
-### [Volunteer Coordination](#id17)
+#### [Volunteer Coordination](#id17)
 
 We would like to make sure that every volunteer, even those who don\'t attend the conference, gets (or is offered) a conference T-shirt. *Before the conference starts* this list should be transmitted to the PSF administrator, who will be responsible for making sure that the required number of shirts (in the required sizes) are held back from general distribution and shipped to the recipients.
 :::
 
 ::: 
-### [Job Board](#id18)
+#### [Job Board](#id18)
 :::
 
 ::: 
-### [Swag (T-shirts, bags, etc.)](#id19)
+#### [Swag (T-shirts, bags, etc.)](#id19)
 
 - Next time require that artists submit designs under a creative commons license with commercial, share, and remix permissions. (Sheila Miguez)
 :::
 
 ::: 
-### [Traveling](#id20)
+#### [Traveling](#id20)
 :::
 
 ::: 
-### [PyCon Office](#id21)
+#### [PyCon Office](#id21)
 :::
 
 ::: 
-### [On-Site Feedback](#id22)
+#### [On-Site Feedback](#id22)
 :::
 
 ::: 
-### [VM Summit notes](#id23)
+#### [VM Summit notes](#id23)
 
 Michael Stone, note-taker at the VM summit, has already privately posted draft notes about the VM summit. Once people have looked them over, they\'ll be published.
 
@@ -192,7 +192,7 @@ One projector was enough; after the intros, I never saw anyone using it.
 :::
 
 ::: 
-### [Python Summit notes](#id24)
+#### [Python Summit notes](#id24)
 
 Like the VM summit, everyone I talked to thought the summit was a useful event.
 

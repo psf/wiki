@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Decorator Pattern 
+## Decorator Pattern 
 
 The [DecoratorPattern](http://c2.com/cgi/wiki?DecoratorPattern "Wiki") is a pattern described in the [DesignPatternsBook](http://c2.com/cgi/wiki?DesignPatternsBook "Wiki"). It is a way of apparently modifying an object\'s behavior, by enclosing it inside a decorating object with a similar interface.
 
 This is not to be confused with [PythonDecorators](../archive/PythonDecorators), which is a language feature for dynamically modifying a function or class.
 
-## Example 
+### Example 
 
 This is an example of using the Decorator Pattern within Python.
 
@@ -119,7 +119,7 @@ So, what about this is the [DecoratorPattern](http://c2.com/cgi/wiki?DecoratorPa
 
 It\'s that objects are enclosing other objects, that they share similar interfaces, and that the decorating object appears to mask or modify or annotate the enclosed object.
 
-## Discussion 
+### Discussion 
 
 Isn\'t there a better way to do this in Python?
 

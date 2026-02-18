@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Points & Rectangles 
+## Points & Rectangles 
 
 A pair of classes to provide points and rectangles.
 
@@ -230,11 +230,11 @@ This code is lacking a zillion essential features (but interpoint distance can n
 :::
 ::::
 
-## Historical Note 
+### Historical Note 
 
 It seems that [Python version 1.0.2](http://www.informatik.hu-berlin.de/Themen/manuals/python/python-texinfo/top.html) had [standard module](http://www.informatik.hu-berlin.de/Themen/manuals/python/python-texinfo/module_index.html) [rect!](http://www.informatik.hu-berlin.de/Themen/manuals/python/python-texinfo/rect.html)
 
-## See Also 
+### See Also 
 
 - [Wikipedia:Cartesian coordinate system](http://en.wikipedia.org/wiki/Cartesian_coordinate_system)
 

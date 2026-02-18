@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Python Job Board Drafters 
+## PSF Python Job Board Drafters 
 
-## Team members 
+### Team members 
 
 These are team members who help porting existing job postings from the old job board page and new postings to the jobs mailing list into the database:
 
@@ -28,7 +28,7 @@ These are team members who help porting existing job postings from the old job b
 
 - [SimonHayward](./SimonHayward.html)
 
-## Tasks 
+### Tasks 
 
 - add existing job postings from the [single page version of the job board](http://legacy.python.org/community/jobs/) to the database as approved entries
 
@@ -42,7 +42,7 @@ These are team members who help porting existing job postings from the old job b
 
   *This is an ongoing, until we switch on the form submission process.* Please also email back to the job submitters that the job board is undergoing changes and that their submission was added to our database.
 
-## Resources 
+### Resources 
 
 - [Jobs table in the Django admin interface](https://www.python.org/admin/jobs/job/)
 

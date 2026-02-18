@@ -10,9 +10,9 @@ Björn Lindqvist restarted the discussion about getting Path into the stdlib in 
 
 There are alternative proposals as well: [AlternativePathClass](../language/AlternativePathClass), [AlternativePathDiscussion](../language/AlternativePathDiscussion), [AlternativePathModuleTests](../language/AlternativePathModuleTests)
 
-# Path class Pre-Pre-PEP 
+## Path class Pre-Pre-PEP 
 
-## Introduction 
+### Introduction 
 
 The Python Standard Library currently has many modules that allow the developer to interact with the filesystem. Currently this set of modules is:
 
@@ -25,7 +25,7 @@ The Python Standard Library currently has many modules that allow the developer 
 
 This PEP proposes that a new class or module be added to the Python Standard Library that will make all filesystem operations available from one place in a consistent way.
 
-## Reference Implementation 
+### Reference Implementation 
 
 Reinhold has modified Jason Orendorff\'s original path.py to fit discussions in python-dev and comp.lang.python and has placed it in Python under nondist/sandbox/path: [http://svn.python.org/projects/sandbox/trunk/path/path.py](http://svn.python.org/projects/sandbox/trunk/path/path.py)
 
@@ -33,7 +33,7 @@ Other implementations to look at include the original, path.py and some things t
 
 Jason Orendorff\'s original path.py can be found here: [http://www.jorendorff.com/articles/python/path/](http://www.jorendorff.com/articles/python/path/)
 
-## Motivation 
+### Motivation 
 
 The motivation for a single standard class or module to handle filesystem operations is threefold:
 
@@ -41,7 +41,7 @@ The motivation for a single standard class or module to handle filesystem operat
 - Aesthetics: code written with the reference implementation is more concise, easier to read, and also easier to write
 - Consistency: All filesystem operations should be accessed from within the same module.
 
-## Design Principles 
+### Design Principles 
 
 1\. A Path should be a drop-in replacement for a str or unicode as much as possible.
 
@@ -51,7 +51,7 @@ The motivation for a single standard class or module to handle filesystem operat
 
 4\. \[Done in CVS\] Should be subclassable so third parties can offer richer subclasses. Use `self.__class__()` instead of `Path()` in method bodies. Alternate constructors like `Path.cwd()` should be a class methods rather than static methods. ([MikeOrr](./MikeOrr.html))
 
-## Backwards Compatibility 
+### Backwards Compatibility 
 
 If this PEP is accepted, then several of the existing standard modules will become redundant, which violates the [TOOWTDI](../archive/TOOWTDI) principle. The following modules will become redundant:
 
@@ -66,7 +66,7 @@ It is proposed that Python 2.5 will mark redundant modules as deprecated and iss
 
 Python 2.6 will remove the redundant modules from the standard library.
 
-## Open Issues 
+### Open Issues 
 
 - What to call this module / class, and where to put it?
 - API issues with reference implementation:
@@ -110,7 +110,7 @@ Python 2.6 will remove the redundant modules from the standard library.
   - Should .mtime()/etc. return datetime objects?
     - I vote no, timestamps are fine
 
-## Discussions 
+### Discussions 
 
 - [http://sourceforge.net/tracker/index.php?func=detail&aid=1226256&group_id=5470&atid=355470](http://sourceforge.net/tracker/index.php?func=detail&aid=1226256&group_id=5470&atid=355470)
 

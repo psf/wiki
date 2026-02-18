@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Marketing Python 
+## Marketing Python 
 
 Over a period of time, perhaps starting in earnest with the weblog entry [\"Marketing Python - An Idea Whose Time Has Come\"](http://www.artima.com/weblogs/viewpost.jsp?thread=150515), a perception has emerged that the Python community has not been effectively communicating the benefits of the Python language and technologies. Whilst previous and existing promotional efforts at the highest levels of the community have involved ongoing advocacy activities (see [PythonAdvocacyCoordinator](PythonAdvocacyCoordinator) and [Advocacy](Advocacy)), repositories of materials or links to materials (see [evangelism support materials](../archive/evangelism support materials)), events (see [PromotingPythonBof](../archive/PromotingPythonBof)), and the redevelopment of the [Python Web site](http://www.python.org/), it has been argued that the language and associated technologies are not being effectively \"sold\" to newcomers.
 
@@ -14,7 +14,7 @@ One contentious issue related to marketing activities is the identification of t
 
 This page is concerned with ideas and initiatives which seek to improve the marketing of Python, where marketing in this context should be taken to mean the communication of the benefits of the Python language and technologies to various audiences (eg. software developers) in order to persuade them to choose Python as the basis of their activities and to reassure them that Python is a sustainable and acceptable choice.
 
-## Reasons to Market Python 
+### Reasons to Market Python 
 
 Unlike traditional marketing activities, no direct financial benefits are derived from marketing Python and thus increasing the number of \"customers\". Nevertheless, various other benefits emerge from a larger Python community:
 
@@ -24,7 +24,7 @@ Unlike traditional marketing activities, no direct financial benefits are derive
 
 Of course, Python is already widely used, but areas exist where Python arguably lacks \"momentum\" and yet can already be considered suitable as a technology. The appropriate marketing of Python can lead to the non-technical barriers being demolished.
 
-## Focus Areas 
+### Focus Areas 
 
 The communication of Python\'s benefits must take into account much more than just the existence of promotional articles and advocacy materials. Indeed, marketing should not be regarded as the use or application of merely promotional materials on top of the existing project infrastructure and work. Rather, it must consider the accessibility of the entire work and the community around it.
 
@@ -61,7 +61,7 @@ Additional resources for marketing Python include the following:
 
 Whilst promotional activities traditionally focus on articles, presentations and events, if the whole body of Python work is to be directed towards marketing Python, all of the above should be considered in a marketing context.
 
-### Delivery Issues 
+#### Delivery Issues 
 
 Whilst communicating the benefits of Python, the means of communication is critical:
 
@@ -73,11 +73,11 @@ Whilst communicating the benefits of Python, the means of communication is criti
 
 ------------------------------------------------------------------------
 
-## The Python Web Site 
+### The Python Web Site 
 
 The primary resource for Python marketing is the official [Python Web site](http://www.python.org/). Whilst many of the above focus areas are addressed by the site, some reservations may be expressed about the delivery of the materials mentioned above. Consequently, it may be informative to consider the site from the perspective of particular user profiles.
 
-### Profile: Technical Newcomer 
+#### Profile: Technical Newcomer 
 
 Upon learning of the existence of Python, a newcomer with a technical background may have various priorities when researching the language, including the following:
 
@@ -88,7 +88,7 @@ Upon learning of the existence of Python, a newcomer with a technical background
 
 Here, the current site offers some quick answers, but omits any immediate examples of actual Python code. Whilst this might forestall any prejudicial rejection of the language based on its indentation-based syntax, the newcomer is forced to go hunting in the site for some examples.
 
-### Profile: Domain Motivated Newcomer 
+#### Profile: Domain Motivated Newcomer 
 
 Some individuals may wish to assess the suitability of Python for a particular domain, such as Web application development or graphical user interface programming; their priorities may include the following:
 
@@ -101,7 +101,7 @@ Here, the current site provides some references to popular projects and to topic
 
 Such a domain motivated newcomer may be particularly well-informed and seek specific reference material as opposed to promotional material. The site provides a sidebar link to the documentation page which features a long list of potentially suitable documents, but the suitability of such documents shall be discussed in the appropriate section below.
 
-### Profile: Technical Advocate or Insecure Manager 
+#### Profile: Technical Advocate or Insecure Manager 
 
 Some people may struggle to justify the usage of Python in an organisation:
 
@@ -118,14 +118,14 @@ In order to assuage concerns about the language, such people may wish to quickly
 
 Here, the current site provides fast access to success stories about Python adoption. Indeed, the current site seems to be fairly well optimised for managerial-style research. Some additional focus on vendors could be useful: Python is provided on many GNU/Linux or UNIX systems but specifics might be reassuring.
 
-### Availability Issues 
+#### Availability Issues 
 
 Due to historical and possibly maintenance reasons, the Python Web site references a large number of external resources. Unfortunately, this can introduce availability issues:
 
 - Documentation searching is done using a Starship page (which as of October 2006 is down).
 - Some resources are not as \"vital\" as they once were, notably the PyXML software and the XML topic guide.
 
-### Structure and Navigation Issues 
+#### Structure and Navigation Issues 
 
 In order to preserve convenient access to the wealth of content on the old Web site, the number of links and menu entries presented on the front page and other major pages is considerable. Unfortunately, this comes at the expense of rapid comprehension:
 
@@ -134,13 +134,13 @@ In order to preserve convenient access to the wealth of content on the old Web s
 - \"Software development\" refers to a general list of applications but lists specific software development project tools underneath.
 - On the documentation page, a plethora of links to \"Current Docs\" (alongside the main content which supposedly contains the current documentation) and other less obvious places: what should one expect from the Wiki or the topic guides? Is one better than the other? Why are new-style classes so prominent on the side menu? (Is is because the documentation for them isn\'t properly integrated into the rest of the manuals?)
 
-### Nomenclature Issues 
+#### Nomenclature Issues 
 
 Whilst Python itself is an inspired name for a computer language, the Web resources should arguably avoid establishing their own vocabulary that assumes certain prior knowledge of unrelated cultural material.
 
 - The Cheese Shop might be a humourous name, given enough Monty Python exposure, but may be misleading to newcomers. (The front page of the Python Web site avoids this name, however.)
 
-### Suggestions and Ideas 
+#### Suggestions and Ideas 
 
 Some of these suggestions are already fulfilled with the current Web site, but others would probably enhance the site if implemented:
 
@@ -164,17 +164,17 @@ Some of these suggestions are already fulfilled with the current Web site, but o
 
 - **Integrate essential site functionality**: don\'t rely too heavily on external tools to search the Python documentation, for example.
 
-### Possible Inspiration 
+#### Possible Inspiration 
 
 - The [elastiC World](http://www.elasticworld.org/) site (for the elastiC programming language) has a very simple layout with a concise menu which could be useful inspiration.
 
 ------------------------------------------------------------------------
 
-## Python Documentation 
+### Python Documentation 
 
 The materials which accompany or complement the Python distribution are of special importance when communicating to well-informed audiences, even though such materials are not traditionally regarded as marketing-related content. However, aside from the Web site, such materials may be the primary interface used to judge Python\'s suitability by those motivated to find technical answers rapidly.
 
-### Profile: Technical Newcomer 
+#### Profile: Technical Newcomer 
 
 As described above, there are some people who merely wish to get acquainted with the language in order to see if it suits them, and they may prioritise the following:
 
@@ -184,7 +184,7 @@ As described above, there are some people who merely wish to get acquainted with
 
 Here, the tutorial (as well as other resources) delivers answers regarding the look of the language. However, when discussing programming styles and principal abstractions, the bundled documentation starts to show its age: metaclasses appear only in the glossary in the tutorial, and appear to be absent from the language reference. Consequently, newcomers may question the maturity or relevance of such features.
 
-### Profile: Domain Motivated Newcomer 
+#### Profile: Domain Motivated Newcomer 
 
 As described above, some individuals are motivated by particular kinds of applications or activities and wish to find things such as the following:
 
@@ -195,7 +195,7 @@ As described above, some individuals are motivated by particular kinds of applic
 
 The current library documentation does attempt to categorise modules and packages, but the accumulation of packages of varying relevance does provide a degree of confusion in the presentation. It could be argued that a more coherent library (or library documentation) is required, and such a proposal can be found [here](../getting-started/CodingProjectIdeas/StandardLibrary/RestructuredStandardLibrary).
 
-### Profile: Experienced Python Developer 
+#### Profile: Experienced Python Developer 
 
 Marketing Python need not merely involve newcomers to the language: sometimes Python needs to be marketed to experienced Python developers for applications and activities that such developers either have no prior experience with, or as part of a process of reassurance that Python remains a suitable choice for such activities.
 
@@ -207,7 +207,7 @@ Such individuals may resemble newcomers in their interactions with reference mat
 
 Whether such expectations are fulfilled probably depend on the exact topic being considered.
 
-### Suggestions and Ideas 
+#### Suggestions and Ideas 
 
 Although changes have been suggested with regard to the maintenance and production of the Python documentation, some other changes might be beneficial:
 
@@ -223,11 +223,11 @@ Although changes have been suggested with regard to the maintenance and producti
 
 ------------------------------------------------------------------------
 
-## Mailing Lists, Newsgroups and News Feeds 
+### Mailing Lists, Newsgroups and News Feeds 
 
 An especially important mechanism for the distribution of community information and for the support of language users is the collection of mailing lists dedicated to Python along with the comp.lang.python and comp.lang.python.announce newsgroups.
 
-### Announcements 
+#### Announcements 
 
 The announcement mailing list and newsgroup, along with various news feeds (that are mainly a product of the Python Web site), form an important channel to inform users of new developments, although it should be noted that many announcements on comp.lang.python.announce are for software packages that may not have been added to other resources, such as the Python Package Index. Consequently, community members must seek information in numerous places:
 
@@ -237,7 +237,7 @@ The announcement mailing list and newsgroup, along with various news feeds (that
 
 Having announcements posted to more than one location is a good thing: some people choose to follow newsgroups and mailing lists; others follow news feeds. Ensuring that each location carries everything is the more difficult task.
 
-### Support 
+#### Support 
 
 The various mailing lists and the comp.lang.python newsgroup serve as collaborative resources for developers as well as support channels for those attempting to use Python software of various kinds. In the first ten years of Python\'s development, the establishment of targeted mailing lists for specific topics was possibly the principal mechanism for focusing community activity in certain areas.
 
@@ -251,7 +251,7 @@ It is not uncommon for users of the language to do the following things when see
 - Post questions to a general list where a more specific list would be more appropriate (eg. the general mailing list instead of the Zope mailing list).
 - Ask frequently asked/answered questions.
 
-### Suggestions and Ideas 
+#### Suggestions and Ideas 
 
 Many of the resources mentioned here are highly distributed and are outwith the control of the Python core developers and its representatives. Nevertheless, some suggestions are appropriate with respect to the utilisation of such resources, together with the management of resources which are controlled within the python.org infrastructure:
 
@@ -267,13 +267,13 @@ Many of the resources mentioned here are highly distributed and are outwith the 
 
 ------------------------------------------------------------------------
 
-## The Python Software 
+### The Python Software 
 
 While it might seem unusual to consider the product being marketed as a vehicle for marketing activities, its suitability and performance (in the general sense of the word) are things which can communicate the benefits of the product more efficiently than any other medium. Indeed, as marketing is a two-way process, selecting target audiences and communicating a message to such audiences (in one direction) whilst digesting the response of such audiences and modifying the product to meet their needs or desires (in the other direction), it seems appropriate to consider improvements that could be made to enhance Python to meet the needs of its target audience.
 
 ------------------------------------------------------------------------
 
-## Editorial Notes 
+### Editorial Notes 
 
 So far, this is just a collection of thoughts about marketing Python and improving the way Python and its technologies are communicated. Moving on from a kind of position paper to concrete activities is the aim, but insights are obviously welcome to accelerate the process. \-- [PaulBoddie](../people/PaulBoddie)
 

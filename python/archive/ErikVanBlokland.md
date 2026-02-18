@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Hello 
+## Hello 
 
 Erik Van Blokland is a Dutch type designer. Started the [../LettError](./LettError.html) virtual type foundry with [JustVanRossum](JustVanRossum), with whom he worked at [Meta Design](http://www.metadesign.com/). Have a look at [http://www.letterror.com](http://www.letterror.com) for some of their exploits.
 
@@ -20,7 +20,7 @@ Fame came with the release of Beowolf (co-designed with [JustVanRossum](JustVanR
   ---------- -------------------------------------------------------
 :::
 
-## More 
+### More 
 
 The [../LettError](./LettError.html) wiki: LtrWiki:FrontPage
 

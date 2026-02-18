@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using a Custom Protocol with QtWebKit 
+## Using a Custom Protocol with QtWebKit 
 
 This example was written in response to [a message on the Python-list mailing list](http://mail.python.org/pipermail/python-list/2009-June/714967.html). It shows how to implement support for a new URL scheme in [WebKit](../../people/WebKit), so that additional protocols can be used with embedded browsers.
 

@@ -6,10 +6,10 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Design Thoughts
+## Design Thoughts
 
 ::: 
-### Guiding Thoughts
+#### Guiding Thoughts
 
 - To decide what to do with broken email we need to decide:
 
@@ -23,7 +23,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### Required Elements
+#### Required Elements
 
 - The code and documentation should state clearly what RFCs are implemented.
 
@@ -82,7 +82,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### Interesting Ideas
+#### Interesting Ideas
 
 - An API for telling the system to store the decoded content of a MIME part in the filename specified in the MIME headers. (If the part is already stored on disk by the disk storage hooks, this might be a simple rename, thus avoiding the data transfer required if this API is not provided).
 - The parsing could be lazy, only parsing the MIME sub-parts on request. If so, there should be an API available that requests \"full parsing\" of a Message be done immediately.
@@ -94,7 +94,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### Issues
+#### Issues
 
 - How does the desire for not-quite-ducklike objects for badly formed input data mesh with the desire for a plugin system for instantiating the objects that represent the payloads?
 - How does the registration system interact with threading? Can different threads have different registrations?

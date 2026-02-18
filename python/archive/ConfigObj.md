@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# ConfigObj 
+## ConfigObj 
 
 [ConfigObj 4 Manual and Download](http://www.voidspace.org.uk/python/configobj.html)
 

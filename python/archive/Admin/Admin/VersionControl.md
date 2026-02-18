@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Configuration File Version Control 
+## Configuration File Version Control 
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") *Please note: The administration pages have all been migrated to the new [PSF Systems Wiki](https://psf.projecthut.com/trac/psfsystems/wiki). Please no longer add information to these pages. If you need access to the new wiki, please contact [psf@python.org](mailto:psf@python.org) for details.*
 
-## Bazaar Overview 
+### Bazaar Overview 
 
 We are using Bazaar to track files in `/etc`{.backtick} on python.org machines. Bazaar, also known as BZR, is a version-control system written in Python.
 
@@ -18,7 +18,7 @@ The home page for Bazaar is at [http://bazaar-vcs.org/](http://bazaar-vcs.org/).
 
 Send questions about the use of Bazaar on python.org to \<amk at python.org\>.
 
-## Directories tracked 
+### Directories tracked 
 
 On dinsdale:
 
@@ -34,7 +34,7 @@ On bag:
 
     /etc/  -- various directories tracked
 
-## Bazaar cheatsheet 
+### Bazaar cheatsheet 
 
 The command-line interface resembles that of CVS, but the executable is named `bzr`{.backtick}.
 
@@ -44,7 +44,7 @@ To get a list of available subcommands, run `bzr help`{.backtick}.
 
 To get more details about one particular subcommand, run `bzr help <command-name>`{.backtick}.
 
-### Setting your ID 
+#### Setting your ID 
 
 Bazaar remembers your ID and uses this ID when committing changes. If you\'re doing stuff as root, this means we won\'t know who made a particular change.
 
@@ -54,7 +54,7 @@ To set your ID, set the BZREMAIL environment variable:
 
     export BZREMAIL=admin-person@python.org
 
-### Making changes 
+#### Making changes 
 
 To commit a change: `bzr commit -m "Add new virtual host" /etc`
 
@@ -64,7 +64,7 @@ To back out an uncommitted change: `bzr revert /etc/database.conf` restores th
 
 The `revert`{.backtick} subcommand works recursively on directories, so `bzr revert /etc`{.backtick} will undo all the changes you\'ve made to the configuration files.
 
-### What have I changed? 
+#### What have I changed? 
 
 `bzr status`{.backtick} lists the names of files that are different from the last committed version:
 
@@ -107,7 +107,7 @@ To get a diff-style display of changes, use `bzr diff`{.backtick}:
 
 The `--diff-options`{.backtick} switch can be used to change the output of the underlying `diff`{.backtick} program.
 
-### Adding/removing files 
+#### Adding/removing files 
 
 To begin tracking a new configuration file, it must be added to the repository and then committed:
 
@@ -128,7 +128,7 @@ If you delete a tracked file using `rm`{.backtick}, Bazaar will notice it\'s gon
 
 The `bzr rm`{.backtick} subcommand stops tracking a file, but does \*\*not\*\* remove the working copy in `/etc`{.backtick}.
 
-## Viewing history 
+### Viewing history 
 
 `bzr log`{.backtick} displays all changes that have been made to the tracked files:
 
@@ -150,7 +150,7 @@ The `bzr rm`{.backtick} subcommand stops tracking a file, but does \*\*not\*\* 
 
     ...
 
-## Initializing a new machine 
+### Initializing a new machine 
 
 Here\'s how to set up the version control on a new system.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Show an image using a label 
+## Show an image using a label 
 
 On the `#pyqt`{.backtick} IRC channel on Freenode, `elhobab`{.backtick} asked how to show an image.
 

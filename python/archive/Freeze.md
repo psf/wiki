@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Freeze 
+## Freeze 
 
 Freeze is a \"[pure Python](./pure(20)Python.html)\" utility that ships with Python. You can use Freeze to compile executables for Unix systems.
 
 If you want to write Python, but you don\'t know if your clients have Python installed, use this!
 
-## How to Use 
+### How to Use 
 
 Create a Python program, \"hello.py\"
 
@@ -412,7 +412,7 @@ Next, run make:
 
 ta da!
 
-## See Also 
+### See Also 
 
 - [Py2Exe](../platforms/Py2Exe) \-- like Freeze, but makes Windows executables
 
@@ -420,7 +420,7 @@ ta da!
 
 - README \-- the README file for the \"freeze\" utility that comes with Python
 
-# Discussion 
+## Discussion 
 
 I may be doing something wrong; I don\'t think it should be including just about every module under the sun.
 

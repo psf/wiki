@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Enumeration Programming 
+## Enumeration Programming 
 
-### Why, When 
+#### Why, When 
 
 This Implementation is really near to the UML description of [\<\<Enumeration\>\>]. It uses new style class.
 
-### Code 
+#### Code 
 
 :::: 
 ::: 
@@ -49,7 +49,7 @@ This Implementation is really near to the UML description of [\<\<Enumeration\>\
 :::
 ::::
 
-### Example 
+#### Example 
 
 :::: 
 ::: 

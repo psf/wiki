@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# SnakeSQL 
+## SnakeSQL 
 
 URL
 
@@ -21,6 +21,6 @@ platforms
 
 SnakeSQL is a pure Python SQL database written to remove the dependence of the Python Web Modules on 3rd party drivers for non-Python databases like MySQL but designed to be a useful database in its own right.
 
-## Pros 
+### Pros 
 
-## Cons 
+### Cons 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the 2018 PSF Board of Directors
+## Candidates for the 2018 PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning in June 11, 2018. Their self-written summaries follow. The specific dates of relevance to the election are:
 
@@ -118,7 +118,7 @@ The given years indicate when each continuing director\'s current term is schedu
 ------------------------------------------------------------------------
 
 ::::::: 
-### [Anna Ossowski](#id32)
+#### [Anna Ossowski](#id32)
 
 *2015-2016 Former Board Member. (Nominated by Trey Hunner)*
 
@@ -127,7 +127,7 @@ Trey: *I nominate Anna Ossowski for the PSF Board of Directors. Anna is both a f
 **Anna about herself, her involvement, and goals**:
 
 ::: 
-#### Background
+##### Background
 
 In 2014 I attended my very first PyCon US in Montreal. I was new to Python and didn't know anyone in the community. Fast forward to 2018, and I now work in tech full time (Developer Relations at Elastic), have spoken at number of tech conferences, mentor new speakers in my free time, started and co-organize PyLadies Remote, have organized a number of Django Girls workshops, am the Diversity Chair of DjangoCon US, and Open Spaces Advisor and Mobile Guide Coordinator of PyCon US. I am passionate about diversity and inclusion, and recently started sharing my mental health journey in hopes of helping others.
 
@@ -135,7 +135,7 @@ I love the Python community with all my heart and owe everything (both personal 
 :::
 
 ::: 
-#### Goals
+##### Goals
 
 - **Grants** - I co-founded the Grants Working group with Naomi Ceder in 2015 and would love to help the group function more efficiently by re-thinking current processes and documenting them.
 - **Transparency** - The PSF has done a great job becoming more transparent over the past few years. I believe there is more work to be done and would be happy to drive transparency efforts to the next level.
@@ -145,7 +145,7 @@ I love the Python community with all my heart and owe everything (both personal 
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - Elastic (Developer Relations Associate)
 - Django REST Framework (contractor until end of May)
@@ -156,7 +156,7 @@ I love the Python community with all my heart and owe everything (both personal 
 :::
 
 ::: 
-#### Where to find me
+##### Where to find me
 
 - Twitter: [https://twitter.com/ossanna16](https://twitter.com/ossanna16)
 - Blog: [http://anna-oz.tumblr.com](http://anna-oz.tumblr.com)
@@ -165,7 +165,7 @@ I love the Python community with all my heart and owe everything (both personal 
 :::::::
 
 :::::: 
-### [Cleopatra Douglas](#id33)
+#### [Cleopatra Douglas](#id33)
 
 *New Board Member.*
 
@@ -174,7 +174,7 @@ I am the Head software developer at Guaranty Trust Bank (Sierra Leone) LTD, I us
 I was a speaker at the pycon Nigeria event and I hosted the first Django Girls workshop in sierra leone. I have also volunteered in Django Girls workshops in Nigeria.
 
 ::: 
-#### Contributions to communities
+##### Contributions to communities
 
 - Django Girls Uturu (Organizer)
 - Django Girls Freetown (Organizer)
@@ -182,7 +182,7 @@ I was a speaker at the pycon Nigeria event and I hosted the first Django Girls w
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - DSF individual Member
 - Women Who Code (Member)
@@ -190,21 +190,21 @@ I was a speaker at the pycon Nigeria event and I hosted the first Django Girls w
 :::
 
 ::: 
-#### Contact
+##### Contact
 
 - [https://twitter.com/succedor23](https://twitter.com/succedor23)
 :::
 ::::::
 
 ::::::: 
-### [Christopher Neugebauer](#id34)
+#### [Christopher Neugebauer](#id34)
 
 *New Board Member. (Nominated by Carol Willing)*
 
 Carol: *I nominate Christopher Neugebauer for the PSF Board of Directors. I am truly humbled that we have so many giving, talented individuals in the Python community. I\'ve had the honor of watching Chris work diligently behind-the-scenes on the PSF Grants Work Group, conference organization, and community building for the past 4 years. Chris strives for excellence, works at understanding an issue, listens and respects different viewpoints, and communicates his ideas well. I have full confidence that Chris would make an excellent addition to the PSF Board.*
 
 ::: 
-#### Background
+##### Background
 
 I'm an Australian Python developer, speaker, and serial conference organiser. These days, I\'m based in Petaluma, California, USA.
 
@@ -218,7 +218,7 @@ Since 2015, I've served on the PSF's Grants Working Group. We've helped substant
 :::
 
 ::: 
-#### What I want to get done
+##### What I want to get done
 
 Through the PSF\'s grants program, we\'ve done some great work making Codes of Conduct an expected part of Python events throughout the world, but this is only one step in promoting the PSF\'s mission of growing a [diverse and international community of Python programmers](https://www.python.org/psf/mission/).
 
@@ -234,7 +234,7 @@ In summary, this is what I hope to achieve in my first year:
 :::
 
 ::: 
-#### Where to find me
+##### Where to find me
 
 - [Twitter](https://twitter.com/chrisjrn)
 - [Web](https://chrisjrn.com)
@@ -242,7 +242,7 @@ In summary, this is what I hope to achieve in my first year:
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - Shutterstock, Inc. (Employer)
 - PSF Grants working group
@@ -252,7 +252,7 @@ In summary, this is what I hope to achieve in my first year:
 :::::::
 
 ::: 
-### [Katie McLaughlin](#id35)
+#### [Katie McLaughlin](#id35)
 
 *New Board Member. (Nominated by Trey Hunner)*
 
@@ -281,14 +281,14 @@ Affiliations: Divio (Employer), PyCon AU, Django Software Foundation, Linux Aust
 :::
 
 :::: 
-### [Younggun Kim](#id36)
+#### [Younggun Kim](#id36)
 
 *2016/17 Board Member.*
 
 It was an honor to served as the first Board Director elected from East Asia. I brought the voices from the east part of our community to the board. I traveled as many PyCons in South/East Asia as I can just to show them we are one big community all around the world and to help them organize their own PyCon. I gave talks, organized development sprints, brought the PSF conference kit all by myself and put up the PSF booth at almost every PyCon in East Asia. So that I can present the PSF in neglected area of our community. In the result of their desire and the effort, Indonesia and Thailand have their first PyCon and I\'m not going to stop here. We still have a lot more community members living in developing countries and I\'d love to go there and help them as a representative of the PSF as I have been done so far.
 
 ::: 
-#### Background
+##### Background
 
 - PSF Grants Working Group
 - Program Committee Member for PyCon 2018
@@ -300,7 +300,7 @@ Affiliations: PSF Grants Working Group, PyCon Korea, NIPA
 ::::
 
 ::: 
-### [Paola Katherine Pacheco](#id37)
+#### [Paola Katherine Pacheco](#id37)
 
 *2017 Board Member.*
 
@@ -341,7 +341,7 @@ Today I live in Argentina, where there is a delay and we do not have many compan
 :::
 
 ::: 
-### [Thea Flowers](#id38)
+#### [Thea Flowers](#id38)
 
 *New Board Member.*
 
@@ -362,7 +362,7 @@ Affiliation: Google (employer), packaging.python.org (maintainer), PyPA (member)
 :::
 
 :::::::: 
-### [Jeff Triplett](#id39)
+#### [Jeff Triplett](#id39)
 
 *New Board Member. (Nominated by Trey Hunner and Anna Ossowski)*
 
@@ -373,7 +373,7 @@ Anna: *I nominate Jeff Triplett for the Python Software Foundation Board of Dire
 **Jeff about himself, his involvement, and goals**:
 
 ::: 
-#### Background
+##### Background
 
 I'm Jeff, a Python/Django developer living in Lawrence, KS. Before I became a consultant seven years ago, I worked for one of the newspaper startups which originally made Django. I first attended PyCon US and DjangoCon US back in 2008, and I have been in love with this community ever since.
 
@@ -383,7 +383,7 @@ I am a firm believer in the Campsite Rule, "Always leave the campground cleaner 
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - Revolution Systems (REVSYS) (Employer, 2011-present)
 - Django Software Foundation (Member, 2015-present)
@@ -392,7 +392,7 @@ I am a firm believer in the Campsite Rule, "Always leave the campground cleaner 
 :::
 
 ::: 
-#### Contributions to communities
+##### Contributions to communities
 
 - DjangoCon US volunteer since 2014: Chair in 2015, Co-Chair in 2016, and Vice-Chair in 2017
 - Django Software Foundation Code of Conduct Committee member since 2016; chair since 2017, currently the outgoing co-chair
@@ -402,7 +402,7 @@ I am a firm believer in the Campsite Rule, "Always leave the campground cleaner 
 :::
 
 ::: 
-#### Goals
+##### Goals
 
 - *Transparency* - The PSF has made progress in becoming more transparent, but people tend to distrust what they do not understand. I would like to help fill in the gaps between how some things work, why they work that way, and how they are perceived to work so that others in our community may understand them better.
 - *Code of Conduct* - One of our top priorities should be to get the Code of Conduct working group up and running. Having a working Code of Conduct committee or working group has paid dividends to the Django community. The PSF requires that conferences and events have a code of conduct in place before they may obtain funding, which I applaud. However, requiring a CoC without having an actionable working group falls short in keeping our community safe. I have served on Django's CoC committee and taken incident reports as a conference organizer, so I have a practical understanding of the work that's needed.
@@ -411,7 +411,7 @@ I am a firm believer in the Campsite Rule, "Always leave the campground cleaner 
 :::
 
 ::: 
-#### Where to find me
+##### Where to find me
 
 - [Twitter](https://twitter.com/webology)
 - [Email](mailto:jeff.triplett@gmail.com)
@@ -420,12 +420,12 @@ I am a firm believer in the Campsite Rule, "Always leave the campground cleaner 
 ::::::::
 
 ::::::: 
-### [Jess Ingrassellino](#id40)
+#### [Jess Ingrassellino](#id40)
 
 *New Board Member.*
 
 ::: 
-#### Background
+##### Background
 
 I'm a software tester in New York, USA, and am currently the Director of Quality at Salesforce.org I teach python to middle and high school students, and have worked to help teachers who are interested in technology to learn about Python.
 
@@ -435,7 +435,7 @@ In the past, I have volunteered for PyLadies NYC, and I have helped with nationa
 :::
 
 ::: 
-#### What will I do?
+##### What will I do?
 
 My specific strengths are in strategic planning and research. I have a background in education (EdD in Education/Assessment), research, writing (Python Projects for Kids), and public speaking.
 
@@ -443,7 +443,7 @@ During my time on the board, I want to focus on: \* outreach to existing communi
 :::
 
 ::: 
-#### Where to find me
+##### Where to find me
 
 - \@jess_ingrass (twitter)
 - jessingrassellino.com
@@ -452,7 +452,7 @@ During my time on the board, I want to focus on: \* outreach to existing communi
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - Salesforce.org (Employer)
 - PyCon Education Summit - PyCon US (volunteer, past chair)
@@ -461,18 +461,18 @@ During my time on the board, I want to focus on: \* outreach to existing communi
 :::::::
 
 :::::::: 
-### [Marc Garcia](#id41)
+#### [Marc Garcia](#id41)
 
 *New Board Member.*
 
 ::: 
-#### Academic and professional background
+##### Academic and professional background
 
 Computer engineer with master degrees in AI and finance. More than 15 years professional IT experience mainly in Python, first focused on web development, and later in data science. Worked for companies like Bank of America Merrill Lynch, Unilever, Tesco and NTT Communications.
 :::
 
 ::: 
-#### Python background
+##### Python background
 
 I discovered Python in 2006, and really loved the language, mainly for its readability and for its \"batteries included\". It made me much more productive than any other language, and who doesn\'t like that. Same happened a bit later with Django.
 
@@ -494,7 +494,7 @@ Python conferences I attended: PyCon US, EuroPython, DjangoCon, PyCon UK, PyCon 
 :::
 
 ::: 
-#### My vision
+##### My vision
 
 While I arrived to the Python community because of the technical aspects of Python and its libraries, I really think that Python is much bigger than it. I like to think on how the world would be if it was based on the same values as the Python community. A place were diversity is one of the most valuable assets. Were people is valued by who they are, regardless of their gender, age, ethnic background, sexual orientation, religion, physical appearance\... A world were kindness comes always by default, and helping and empowering others is a common practice when possible. A world with no tolerance for harassment of any kind.
 
@@ -504,7 +504,7 @@ If elected as a director of the Python Software Foundation, I will do my best, n
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - Quantitative Mining Limited (self-employed)
 - Tesco (contractor)
@@ -512,7 +512,7 @@ If elected as a director of the Python Software Foundation, I will do my best, n
 :::
 
 ::: 
-#### More information
+##### More information
 
 - [http://datapythonista.github.io/](http://datapythonista.github.io/)
 - [https://github.com/datapythonista/](https://github.com/datapythonista/)
@@ -523,14 +523,14 @@ If elected as a director of the Python Software Foundation, I will do my best, n
 ::::::::
 
 :::::: 
-### [Maricela (a.k.a Mayela) Sanchez Miranda](#id42)
+#### [Maricela (a.k.a Mayela) Sanchez Miranda](#id42)
 
 *New Board Member.*
 
 Backend developer and teacher of web development. I\'ve worked in FOSS communities since 2011. I\'m involved in closing the gender gap in technology and build a more friendly space to learn Linux and other FOSS technologies for everyone. I like mentoring because I think it\'s another way to learn. I\'m involved in agile methodologies and I\'m trying the adoption on any organization where I participate. I\'m interested to increase the quantity of events organized at Mexico and Latin America of Python, create a network of organizers and expand the community and continue the labor of do a friendly and inclusive community.
 
 ::: 
-#### Contributions to communities
+##### Contributions to communities
 
 - Aztli GNU/Linux 2011-2013 - Logistics and translation
 - Software Freedom Day 2015 - Organizer
@@ -552,7 +552,7 @@ Backend developer and teacher of web development. I\'ve worked in FOSS communiti
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - Codeando Mexico - Teacher
 - Comunidad Software Libre de Puebla - Organizer
@@ -564,14 +564,14 @@ Backend developer and teacher of web development. I\'ve worked in FOSS communiti
 :::
 
 ::: 
-#### Contact
+##### Contact
 
 - [https://twitter.com/mayela0x14](https://twitter.com/mayela0x14)
 :::
 ::::::
 
 ::::::: 
-### [Nina Zakharenko](#id43)
+#### [Nina Zakharenko](#id43)
 
 *New Board Member.*
 
@@ -580,7 +580,7 @@ I\'ve been involved with the Python community for 5 years. I attended PyCon US 2
 I took over a year off from contributing back to the Python community due to workplace demands, but now I'm fortunate enough to work in an organization that supports me and allows me the time and energy to involve myself in community work. I\'m excited to use this opportunity to contribute to a community that I know and love.
 
 ::: 
-#### Background
+##### Background
 
 I\'ve spent the past few years preparing talks for the community both at a local Meetup level, and at Python conferences all around the globe. This year I\'m coordinating with the organizers of PyLadies PDX (Portland, OR USA) teach intermediate and advanced Python workshops in the Fall of 2018.
 
@@ -600,7 +600,7 @@ I\'ve also presented workshops and talks at local Meetups, such as Girl Develop 
 :::
 
 ::: 
-#### My Goals
+##### My Goals
 
 My goals as a PSF board member center around the core values of mentorship, diversity, and inclusion.
 
@@ -612,13 +612,13 @@ These are just a few of the ways I think my involvement can make the Python comm
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - Microsoft - I joined 2 months ago as a Developer Advocate for Azure, focusing on Python. Before that, I\'ve been a software engineer for 12 years.
 :::
 
 ::: 
-#### Where to find me
+##### Where to find me
 
 - [https://twitter.com/nnja](https://twitter.com/nnja)
 - [https://github.com/nnja](https://github.com/nnja)
@@ -626,18 +626,18 @@ These are just a few of the ways I think my involvement can make the Python comm
 :::::::
 
 :::::: 
-### [Mario Corchero](#id44)
+#### [Mario Corchero](#id44)
 
 *New Board Member*
 
 ::: 
-#### Background
+##### Background
 
 I am a Spanish Python and community passionate living in London with a lot of energy that wants to push the PSF forward. I am currently working with the PSF as an organiser of PyConCharlas - a Spanish track at PyCon- and PyLondinium - an event in support of the PSF to raise funds. I am vice president of the Python Spain association and Chair of PyConES17. I\'ve been involved and drive the organization of sprints and meetups, mainly in London, where I also and helped the PSF with some other events like Startup Row. I\'ve spoken in multiple conferences like PyCon, EuroPython, FOSDEM, PyConUK and PyConES and I have [sporadically contributed to cpython](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Amariocj89+org%3Apython). I am also starting to blog some [Python content at opensource.com](https://opensource.com/users/mariocj89). Within Bloomberg, I am a Python advocate, organising internal meetups of around 100 people monthly and deliver training and tutorial to new hires and people new to Python at Bloomberg.
 :::
 
 ::: 
-#### My core objectives as a board member
+##### My core objectives as a board member
 
 **Local events and association cookbooks**: Creation of manuals like the existing for [django girls](https://organize.djangogirls.org/) and [pyladies](http://kit.pyladies.com/en/latest/) for general purpose local associations and collaboration with Lorena Mesa to finish and consolidate the one for [events](https://github.com/lorenanicole/pycon_organizers_manual). I\'d like to see a single entry page where we can list all documentation for events and association organisers. The target language will be English but ideally, we will get it translated into Spanish as well to foster the creation of associations in other Spanish speaking countries.
 
@@ -667,7 +667,7 @@ This are my personal objectives for the term of the next board, but I also commi
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - PSF Fellow.
 - Bloomberg LP Employee: Python Infrastructure member at Bloomberg and lead of an internal group to coordinate and promote the use the Python.
@@ -677,12 +677,12 @@ This are my personal objectives for the term of the next board, but I also commi
 ::::::
 
 ::::: 
-### [Sergey Sokolov](#id45)
+#### [Sergey Sokolov](#id45)
 
 *New Board Member.*
 
 ::: 
-#### Description
+##### Description
 
 Hi, I\'m Sergey. I\'m a Web Developer and PiterPy Meetup organizer from Saint Petersburg, Russia.
 
@@ -696,7 +696,7 @@ To ask me anything hit me up on Twitter: \@teners\_\_, or email me: hi (at) tene
 :::
 
 ::: 
-#### Affiliation
+##### Affiliation
 
 - PiterPy Meetup organizer
 - PSF Managing Member
@@ -705,7 +705,7 @@ To ask me anything hit me up on Twitter: \@teners\_\_, or email me: hi (at) tene
 :::::
 
 ::::: 
-### [Lilly Ryan](#id46)
+#### [Lilly Ryan](#id46)
 
 *New Board Member. (Nominated by Anna Ossowski)*
 
@@ -714,7 +714,7 @@ Anna: *I nominate Lilly Ryan for the Python Software Foundation Board of Directo
 **Lilly about herself, her involvement, and goals**:
 
 ::: 
-#### Background
+##### Background
 
 I've contributed to the Python community in Australia and several other countries by publicly advocating for strong technical teamwork and software development security. I currently work as a penetration tester and will bring a strong voice for security and privacy to the Board, as well as representing the views of the information security community, who are also strong users of Python.
 
@@ -726,7 +726,7 @@ I'm not shy to speak up about community issues and to advocate for greater diver
 :::
 
 ::: 
-#### Where to find me
+##### Where to find me
 
 - Twitter: [https://twitter.com/attacus_au](https://twitter.com/attacus_au)
 - Email: [hello@attacus.net](mailto:hello@attacus.net)
@@ -734,12 +734,12 @@ I'm not shy to speak up about community issues and to advocate for greater diver
 :::::
 
 ::::::: 
-### [Tania Sanchez](#id47)
+#### [Tania Sanchez](#id47)
 
 *New board member*
 
 ::: 
-#### Background
+##### Background
 
 I am Tania Sanchez (I also go around as Allard), and I am a Research Software Engineer (RSE)at the University of Leeds in the UK. I, like many other Python users, came for the approachability and versatility of the Python language but it is the community I fell in love with, although I have used Python far longer than I have been an active community member.
 
@@ -757,7 +757,7 @@ I have said too much about myself, so you might want to know what I want to get 
 :::
 
 ::: 
-#### My objectives as a board member
+##### My objectives as a board member
 
 **Enhanced community mentorship**: I would like to strengthen the Python Core Mentorship initiative, mainly to better serve underrepresented groups as I want to see a greater diversity of contributors. I am particularly interested in establishing an open mentorship programme (e.g. developing hacks, manuals/resources, mentor-mentee matches). This will not only increase the diversity of the contributors but contribute to the sustainability of our community (mentoring individuals that would then become contributors and mentors) and the emergence of role models.
 
@@ -769,7 +769,7 @@ I have said too much about myself, so you might want to know what I want to get 
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 - University of Leeds
 - OpenDreamKit
@@ -784,7 +784,7 @@ I have said too much about myself, so you might want to know what I want to get 
 :::
 
 ::: 
-#### Where to find me
+##### Where to find me
 
 - Twitter: [https://www.twitter.com/ixek](https://www.twitter.com/ixek)
 - GitHub: [http://www.github.com/trallard](http://www.github.com/trallard)
@@ -794,12 +794,12 @@ I have said too much about myself, so you might want to know what I want to get 
 :::::::
 
 ::::::: 
-### [John Roa](#id48)
+#### [John Roa](#id48)
 
 *New board member*
 
 ::: 
-#### Background
+##### Background
 
 I'm John Roa, I'm Director of Engineer at Lendingfront. I'm a huge believer that every person can reach their full potential as long as they find their true passion and purpose in life, I'm amazed by the people that do it through technology bringing a big change in society.
 
@@ -807,7 +807,7 @@ I think latin american countries have a huge potential that can be unlocked crea
 :::
 
 ::: 
-#### Affiliations
+##### Affiliations
 
 > - Lendingfront: [http://www.lendingfront.com/](./www(2e)lendingfront(2e)com(2f).html)
 > - PyCon Colombia: [http://www.pycon.co/](http://www.pycon.co/)
@@ -816,7 +816,7 @@ I think latin american countries have a huge potential that can be unlocked crea
 :::
 
 ::: 
-#### Contributions to communities
+##### Contributions to communities
 
 - PyCon Colombia Chief, since 2016
 - Python Colombia Core member since 2017
@@ -826,7 +826,7 @@ I think latin american countries have a huge potential that can be unlocked crea
 :::
 
 ::: 
-#### Where to find me
+##### Where to find me
 
 - Twitter: [https://twitter.com/jhonjairoroa87](https://twitter.com/jhonjairoroa87)
 - Linkedin: [http://www.linkedin.com/in/johnroa27](http://www.linkedin.com/in/johnroa27)

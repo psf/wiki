@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Adding auto-completion to a QLineEdit 
+## Adding auto-completion to a QLineEdit 
 
 On the `#pyqt`{.backtick} IRC channel on [Freenode](http://www.freenode.net), `filip`{.backtick} asked how to add auto-completion in a QLineEdit widget.
 

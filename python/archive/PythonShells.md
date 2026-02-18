@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Shells 
+## Python Shells 
 
 The term \"Python shell\" has a certain amount of ambiguity: for some people it may merely refer to an interactive Python environment with special capabilities (autocompletion, visualisation, and so on); for others it may refer to a replacement command environment for traditional UNIX shells (sh, csh, bash, etc.) where emphasis is placed on interaction with files and programs.
 
-## Enhanced Python Environments 
+### Enhanced Python Environments 
 
 - [IPython](IPython)
 
@@ -18,7 +18,7 @@ The term \"Python shell\" has a certain amount of ambiguity: for some people it 
 
 - [bpython](http://bpython-interpreter.org/)
 
-## Traditional Shell Replacements 
+### Traditional Shell Replacements 
 
 See the [UsePythonAsAnInteractiveShell](UsePythonAsAnInteractiveShell) page for a discussion on using Python command environments as UNIX shell replacements.
 

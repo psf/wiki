@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Audit log design 
+## Audit log design 
 
 July 31, 2019, conference call
 
@@ -23,7 +23,7 @@ Issue: [https://github.com/pypa/warehouse/issues/5863](https://github.com/pypa/w
 
 Goal: review approaches to designing audit log functionality
 
-## Basic design approach for auditing API 
+### Basic design approach for auditing API 
 
 Will asked a few general approach questions.
 
@@ -40,7 +40,7 @@ How do we want the auditing API to look? 3 choices:
 
 *Our choice*: New API, called in tandem with metrics calls in places where both are needed/desired.
 
-## Storage 
+### Storage 
 
 2nd question: Storage! How long a duration? Up to last n auditable records, up to last n weeks, FOREVERRR, etc.? maybe not do this inside of Postgres, use a document store?
 
@@ -69,7 +69,7 @@ General discussion:
 - Does this user have 2fa on or not? yes, that\'s important for transparency.
 - even if we add a 2-factor flow for upload API, does it matter how a user is authenticating? But: in case of a compromise, might be useful for someone to know \"my token was compromised\" \-- to know what to revoke
 
-## Scope of this task 
+### Scope of this task 
 
 Will: scoping questions: Trail of Bits is scoped to work on (as mentioned in [https://github.com/pypa/warehouse/issues/5863#issue-445032729](https://github.com/pypa/warehouse/issues/5863#issue-445032729) ):
 
@@ -133,7 +133,7 @@ Re: who gets to see what?
 
 - for the public as a whole: for project events, we may want to show events but hide some info about each event, e.g. IP. Nicole is taking note of this for designing templates.
 
-## Estimated date of completion for audit logging functionality 
+### Estimated date of completion for audit logging functionality 
 
 Will: estimate: can have additional models and views done by probably end of next week. Then, work with Nicole on UI and - for initial merge - determining initial events to expose
 
@@ -143,11 +143,11 @@ Nicole: then another week or so to have templates merged.
 
 (But let\'s not be surprised if getting out of beta on [WebAuthn](./WebAuthn.html) and API keys ends up slowing this down)
 
-## Miscellaneous 
+### Miscellaneous 
 
 Ernest: **\*\*Important\*\*** INVOICES 4 JULY PLZZZZZZZ \<3 **\*\*Important\*\***: We need to update our view on runway ![:)](/wiki/europython/img/smile.png ":)")
 
-## TODOs 
+### TODOs 
 
 1.  Will, Nicole, and Sumana: submit July invoices ASAP
 

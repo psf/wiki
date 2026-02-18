@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Writing a client for a zeromq service 
+## Writing a client for a zeromq service 
 
 On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `Nils^`{.backtick} asked for a way to write a GUI client for a [zeromq](http://www.zeromq.org) service, using the [Python bindings](http://www.zeromq.org/bindings:python).
 

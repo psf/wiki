@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyBison - Scott Hassan - 1997 
+## PyBison - Scott Hassan - 1997 
 
 **PyBison** is a YACC (Yet Another Compiler Compiler) style parser. PyBison was written by Scott Hassan in 1997 and almost disappeared.
 
@@ -18,7 +18,7 @@ There are scattered references to it all over the web, which all seem to point t
 
 - [win32](http://ppm.activestate.com/PPMPackages/PyPPM/2.2/packages/PyBison-0.1.0.0.win32.2.2.zip)
 
-# PyBison - David McNab - 2004 
+## PyBison - David McNab - 2004 
 
 A *completely different* PyBison can be found at (version 0.1.8 as of 2006-06-22):
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: How to run python from HTML? 
+## Asking for Help: How to run python from HTML? 
 
 I am looking for a way to link python to HTML but have not yet found one that suits my needs. What I want is that when my users use HTML code they put their name in a box and HTML sends that name to a python program that records it. I have no problem coding the python bit but how do I execute python script via HTML without going to a new page? Also does the python script have to be on the same PC as the website is hosted on, IE will it have to be on my hosting company\'s PC or can it be on one that is elsewhere but us on all the time with a port forwarded IP?
 

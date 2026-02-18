@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Canvas bags 
+## Canvas bags 
 
 [http://www.motivators.com/ViewDetail.asp?Product_id=6765](http://www.motivators.com/ViewDetail.asp?Product_id=6765) natural canvas \$2.68 in quantity 300 (unknown about printing) Low price guarantee sample available
 

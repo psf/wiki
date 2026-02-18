@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007 Python Papers Article 
+## EuroPython 2007 Python Papers Article 
 
 See [EuroPython2007]() for the attendee conference Wiki.
 
 This work in progress is developed to gather and write an article, to be published for example in [PythonPapers](../../../archive/PythonPapers), to promote and advertise the [EuroPython](../EuroPython) conference.
 
-## Context 
+### Context 
 
 The editor of [The Python Papers](http://pythonpapers.org) wrote recently to the [EuroPython](../EuroPython) mailing list (see [the archived message](http://mail.python.org/pipermail/europython/2007-February/006226.html) for more details).
 
-## Comments and Reactions 
+### Comments and Reactions 
 
 [DavidBoddie](../../../people/DavidBoddie) [answered](http://mail.python.org/pipermail/europython/2007-March/006237.html) suggesting Flickr as a source of pictures, with the permission of photographers to be sought:
 
@@ -30,7 +30,7 @@ Other resources were pointed out:
 
 [HorstJens](./HorstJens.html), author of several pictures on flickr about [EuroPython2006](../EuroPython2006) [answered positively about their use](http://mail.python.org/pipermail/europython/2007-March/006243.html).
 
-## Article Draft 
+### Article Draft 
 
 Now in its sixth year, [EuroPython](../EuroPython) - known more formally as the European Python and Zope conference - moves on once again. Upholding the [EuroPython](../EuroPython) tradition of helping European Python users and others to learn more about Python and its uses, the conference is also a great opportunity to become acquainted with different parts of the European continent. This year, [EuroPython](../EuroPython) descends upon Vilnius, the capital city of Lithuania, calling it home from Monday 9th July until Wednesday 11th July 2007. Although the programme for this year\'s conference has yet to be finalised, reports and materials from last year\'s highly successful event may be persuasive for those considering making [EuroPython](../EuroPython) 2007 part of their schedule.
 

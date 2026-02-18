@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Valid Python dictionary keys 
+## Valid Python dictionary keys 
 
 The only requirement for a dictionary key is that the key is hashable. Mutable types like lists, dictionaries, and sets won't work and result in an error like `TypeError: unhashable type: ‘dict’`{.backtick}. [source](https://python.land/python-data-types/dictionaries#Valid_dictionary_values)
 
-# Why Lists Can\'t Be Dictionary Keys 
+## Why Lists Can\'t Be Dictionary Keys 
 
 Newcomers to Python often wonder why, while the language includes both a tuple and a list type, tuples are usable as dictionary keys, while lists are not. This was a deliberate design decision, and can best be explained by first understanding how Python dictionaries work.
 
-## How Dictionaries Work 
+### How Dictionaries Work 
 
 Dictionaries, in Python, are also known as \"mappings\", because they \"map\" or \"associate\" key objects to value objects:
 
@@ -80,13 +80,13 @@ Note that this function meets the requirements of a hash function - every time t
 
 Hash functions that can approximate this property well will distribute (key, value) pairs evenly across the buckets, and keep lookup time down.
 
-## Types Usable as Dictionary Keys 
+### Types Usable as Dictionary Keys 
 
 The discussion above should explain why Python requires that:
 
 **To be used as a dictionary key, an object must support the hash function (e.g. through `__hash__`{.backtick}), equality comparison (e.g. through `__eq__`{.backtick} or `__cmp__`{.backtick}), and must satisfy the correctness condition above.**
 
-### Lists as Dictionary Keys 
+#### Lists as Dictionary Keys 
 
 That said, the simple answer to why lists cannot be used as dictionary keys is that lists do not provide a valid `__hash__`{.backtick} method. Of course, the obvious question is, \"Why not?\"
 
@@ -127,7 +127,7 @@ Having found that both ways of hashing lists have some undesirable side-effects,
 
 Note that since tuples are immutable, they do not run into the troubles of lists - they can be hashed by their contents without worries about modification. Thus, in Python, they provide a valid `__hash__`{.backtick} method and are thus usable as dictionary keys.
 
-### User Defined Types as Dictionary Keys 
+#### User Defined Types as Dictionary Keys 
 
 What about instances of user-defined types?
 
@@ -139,7 +139,7 @@ By default, all user defined types are usable as dictionary keys with `hash(obje
 
 Note that it is often better practice when an object is to be associated with a value, to simply assign that value as one of the object\'s attributes.
 
-# Tutorials on Python\'s dictionaries 
+## Tutorials on Python\'s dictionaries 
 
 Here\'s a list of tutorials that explain the general usage and details of a dictionary:
 

@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Participating to a Distutils2 Sprint 
+## Participating to a Distutils2 Sprint 
 
-## Before: Getting Set up 
+### Before: Getting Set up 
 
 To get ready for a Distutils2 sprint, you need to complete these steps:
 
@@ -26,7 +26,7 @@ To get ready for a Distutils2 sprint, you need to complete these steps:
 
 A legal note: Because Distutils2 is distributed by the Python Software Foundation under the Python license, you will have to sign a **contributor agreement** to allow the PSF to redistribute your code. You can read and prepare [the agreement](http://www.python.org/psf/contrib/) before the sprint, or use one of the copies we will have with us.
 
-## During: Finding a Bug or Feature to Work on 
+### During: Finding a Bug or Feature to Work on 
 
 At the beginning of the sprint we will explain quickly what Distutils2 does, how it works and how to fix bugs. These are the bugs that can be tackled by someone new to the codebase; please add your name when you choose one to avoid work duplication.
 
@@ -66,6 +66,6 @@ At the beginning of the sprint we will explain quickly what Distutils2 does, how
 
 If a report does not clearly describe what the problem is or how we may fix it, just ask.
 
-## After: Staying in Touch 
+### After: Staying in Touch 
 
 If your patch is not finished at the end of the sprint, or if you want to work on another thing, you can use the bug tracker or the montreal-python mailing list to ask questions and send patches. The best place is the bug tracker; it only requires creating a user account and keeps a record of the problems found and choices made during development.

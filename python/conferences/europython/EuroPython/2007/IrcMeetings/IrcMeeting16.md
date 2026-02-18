@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #16 
+## IRC Meeting #16 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Monday 25th June (2007-06-25) 18:00 CEST (17:00 BST, 16:00 UTC/GMT) in the #europython channel on freenode.net. *That\'s 5pm UK time, 6pm in most of Western Europe.* The suggested duration of the meeting is at most *one hour*.
 
-## Minutes 
+### Minutes 
 
 - Timetable
   - Talk slots were \"decided long ago\" to be 30 minutes long
@@ -28,7 +28,7 @@ The meeting will take place on Monday 25th June (2007-06-25) 18:00 CEST (17:00 B
 
 - Paul will make an end of online registration announcement ([/EuroPython/2007/FinalCallForRegistration](./EuroPython(2f)2007(2f)IrcMeetings(2f)IrcMeeting16(2f)EuroPython(2f)2007(2f)FinalCallForRegistration.html))
 
-## Agenda 
+### Agenda 
 
 - [Timetable](http://www.europython.org/timetable)
 

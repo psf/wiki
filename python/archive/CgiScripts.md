@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# CGI (Common Gateway Interface) Scripts 
+## CGI (Common Gateway Interface) Scripts 
 
 The **cgi module** is part of the core library of Python.
 
@@ -16,7 +16,7 @@ The **cgi module** is part of the core library of Python.
 
 The simplest CGI script that can be considered interesting involves printing out an HTTP header (\"Content-type: text/html\") and a Web page. In addition, you might want to handle any incoming inputs from things like HTML forms or request parameters. In the earliest days of CGI, shell scripts were sometimes used to do things like this, so the principles are not particularly advanced.
 
-## Configuration 
+### Configuration 
 
 It can be an annoying experience getting the permissions just right on a script so that Web servers like Apache will run it, but the following checklist may be of some use:
 
@@ -32,7 +32,7 @@ It can be an annoying experience getting the permissions just right on a script 
 
 In addition you should make sure your script has the correct \*\*line endings\*\* for your server.
 
-## Sample Code 
+### Sample Code 
 
 The following code attempts to combine simple output of a Web page with the processing of input from users viewing the page. You may wish to choose the actual first line of the script based on one of the first two lines provided below - the first one for Windows and dependent on the Python install path, whereas the second may only work on UNIX-like systems.
 
@@ -79,7 +79,7 @@ The following code attempts to combine simple output of a Web page with the proc
 :::
 ::::
 
-## See Also 
+### See Also 
 
 - [WebProgramming](../web/WebProgramming) - the natural next step beyond simple CGI scripts.
 
@@ -101,7 +101,7 @@ The following code attempts to combine simple output of a Web page with the proc
 
 ------------------------------------------------------------------------
 
-## Discussion 
+### Discussion 
 
 - We need a good python CGI framework - Sridhar R
   - Nevow and [Wallaby](http://srid.bsdnerds.org/hacking/wallaby/) Define \"framework,\" though. Do you mean something like a Django-type deal or something that just makes it easier to write CGI apps?

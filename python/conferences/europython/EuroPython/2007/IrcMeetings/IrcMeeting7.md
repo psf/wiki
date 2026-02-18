@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #7 
+## IRC Meeting #7 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place on Monday 23rd of April (2007-04-23) 18:00 CEST (17:00 BST, 16:00 UTC/GMT) in the #europython channel on freenode.net. *That\'s 5pm UK time, 6pm in most of Western Europe.* The suggested duration of the meeting is at most *one hour*.
 
-## Minutes 
+### Minutes 
 
 - David will contact Kit Blake about getting Simon Willison to give a keynote ([http://mail.python.org/pipermail/europython/2007-April/006317.html](http://mail.python.org/pipermail/europython/2007-April/006317.html)). **Update:** David contacted Simon directly to discuss the possibility of this.
 
@@ -31,7 +31,7 @@ The meeting will take place on Monday 23rd of April (2007-04-23) 18:00 CEST (17:
 
 - David will think about coercing one of his colleagues into looking over press releases.
 
-## Agenda 
+### Agenda 
 
 Suggestions:
 
@@ -57,7 +57,7 @@ Suggestions:
 
 - What materials will be given to attendees? At CERN, it was vital to give people maps and site information (as well as badges). See [this message about The Python Papers](http://mail.python.org/pipermail/europython/2007-February/006226.html) on the topic of \"bag inserts\".
 
-## Notes 
+### Notes 
 
 The issue of promotion isn\'t a problem at this stage. The things that need to be decided are mostly to do with finance and, by extension, sponsorship. If there\'s a formula to use to decide how much sponsors will be charged and how much attendees will pay, we need to start assigning values to some of the variables as soon as possible.
 

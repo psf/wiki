@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Windows regrtest failures
+## Windows regrtest failures
 
 1 tests failed:
 :   test_java_integration

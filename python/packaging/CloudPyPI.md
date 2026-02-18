@@ -6,15 +6,15 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Cloud PyPI - Mirroring PyPI in the cloud 
+## Cloud PyPI - Mirroring PyPI in the cloud 
 
 *Update:* This project is now canceled, since PyPI is being on hosted on a fastly CDN and the PyPI server itself is hosted on a VM at OSL/OSU.
 
-## Idea 
+### Idea 
 
 We are setting up a PyPI mirror of the static content of PyPI in Amazon [CloudFront](./CloudFront.html).
 
-## Proposal 
+### Proposal 
 
 - [CloudPyPI/Proposal](CloudPyPI/Proposal)
 
@@ -22,7 +22,7 @@ The proposal was accepted by the PSF in their December 2010 board meeting.
 
 Funding was limited to an initial USD 500 for Amazon costs to see whether the project would succeed.
 
-## Resources 
+### Resources 
 
 - [Amazon AWS Getting Started Guide](http://docs.amazonwebservices.com/AmazonCloudFront/2010-11-01/GettingStartedGuide/)
 
@@ -32,7 +32,7 @@ Funding was limited to an initial USD 500 for Amazon costs to see whether the pr
 
 - [PyPI Code](https://bitbucket.org/loewis/pypi)
 
-## Example CDN 
+### Example CDN 
 
 We\'ve setup an example CDN which only provides caching services to the PyPI server and uses the pypi.python.org server as origin:
 
@@ -40,7 +40,7 @@ We\'ve setup an example CDN which only provides caching services to the PyPI ser
 
 - For more details on the used setup, please see [CloudPyPI/ExampleCDN](CloudPyPI/ExampleCDN)
 
-## Team 
+### Team 
 
 Implementation:
 
@@ -57,19 +57,19 @@ Helping with the PyPI code:
 - Richard Jones
 - Martin von Löwis
 
-## Mailing List 
+### Mailing List 
 
 - [cloud-pypi@lists.egenix.com](mailto:cloud-pypi@lists.egenix.com) (private to the project team)
 
-## Amazon EC2: Project Development Server 
+### Amazon EC2: Project Development Server 
 
 - [CloudPyPI/DevelopmentServer](./CloudPyPI(2f)DevelopmentServer.html)
 
-## Amazon S3 
+### Amazon S3 
 
 - [CloudPyPI/S3](./CloudPyPI(2f)S3.html)
 
-## Access Control 
+### Access Control 
 
 - [CloudPyPIGroup](CloudPyPIGroup)
 

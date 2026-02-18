@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Pages Related to Python India 
+## Pages Related to Python India 
 
 ::: searchresults
 1.  [AssameseLanguage](./AssameseLanguage.html?highlight=%28CategoryPythonIndia%29)

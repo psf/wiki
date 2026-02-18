@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyCon Asia-Pacific 
+## PyCon Asia-Pacific 
 
 [PyCon](PyCon) APAC is the regional counterpart of [PyCon](PyCon) in Asia-Pacific. It was inaugurated in Singapore in 2010 and has done or will be doing its rounds at
 
@@ -24,7 +24,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - Thailand
 - Vietnam
 
-## Previous PyCon APAC Hosts 
+### Previous PyCon APAC Hosts 
 
 ::: {}
   ---------- -------------
@@ -42,7 +42,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ---------- -------------
 :::
 
-## 2019 Asia Pacific Country Local PyCons 
+### 2019 Asia Pacific Country Local PyCons 
 
 ::: {}
   ----------------- ------------------------------ ------------------------- -------------------

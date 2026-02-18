@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python.org Website Redesign OpenSpace - PyCon 2003 
+## Python.org Website Redesign OpenSpace - PyCon 2003 
 
-## Organizer 
+### Organizer 
 
 [KevinAltis](../people/KevinAltis)
 
-## Attendees 
+### Attendees 
 
 [EvelynMitchell](./EvelynMitchell.html), tummy.com, Aahz, [WesleyChun](../people/WesleyChun), [NeilSchemenauer](../people/NeilSchemenauer), [AndrewKuchling](AndrewKuchling), [ThomasWouters](./ThomasWouters.html), [BrettCannon](./BrettCannon.html), [SteveHolden](../people/SteveHolden), [RogerMasse](./RogerMasse.html), [TrevorToenjes](./TrevorToenjes.html), [MichaelMcFarland](./MichaelMcFarland.html), Francois?
 
-## Notes 
+### Notes 
 
 A new mailing list has been created for discussion of this topic.
 
@@ -24,7 +24,7 @@ A new mailing list has been created for discussion of this topic.
 
 Progress is also being tracked on [PydotorgRedesign](../people/PydotorgRedesign).
 
-## Meeting minutes 
+### Meeting minutes 
 
 Written by Evelyn Mitchell and Kevin Altis
 

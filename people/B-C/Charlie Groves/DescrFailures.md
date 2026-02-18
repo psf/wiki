@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Fixed 
+## Fixed 
 
 - mro can\'t be modified by subtypes
   - altmro
@@ -19,7 +19,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - ints
 
-# Filed 
+## Filed 
 
 - [http://jython.org/bugs/1603314](http://jython.org/bugs/1603314) - [PyModule](./PyModule.html) is old style class
 
@@ -79,13 +79,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - metaclass
 
-# To File 
+## To File 
 
 - mutable_names - setting [name] on a class does nothing
 
 - slotspecials - slots need [weakref]
 
-# Don\'t Understand Failure 
+## Don\'t Understand Failure 
 
 - supers - subclassing super causes binding to break
 
@@ -97,7 +97,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   - str_subclass_as_dict_key
   - rich_comparisons
 
-# Cpython Specific Tests 
+## Cpython Specific Tests 
 
 - checks that things aren\'t allowed to inherit CFunction. I doubt we care.
   - errors
@@ -118,7 +118,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - slotmultipleinheritance
 
-# To Investigate 
+## To Investigate 
 
 - pickles
 - delhook

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The [DocTest](../testing/DocTest) module requires special actions / processing for multi-line strings.
 
-# Multi-Line Strings in commands 
+## Multi-Line Strings in commands 
 
 Consider a function `get_html_title` designed to extract the title from an HTML page. Here is some python code to test the function:
 
@@ -65,7 +65,7 @@ The solution is to add the command continuation characters:
 :::
 ::::
 
-# Multi-Line Strings in output 
+## Multi-Line Strings in output 
 
 Blank lines in the output need to be specially handled. For example, the following doctest will fail:
 

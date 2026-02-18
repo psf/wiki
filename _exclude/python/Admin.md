@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# python.org administration 
+## python.org administration 
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") *Please note: The administration pages have all been migrated to the new [PSF Systems Wiki](https://psf.projecthut.com/trac/psfsystems/wiki). Please no longer add information to these pages. If you need access to the new wiki, please contact [psf@python.org](mailto:psf@python.org) for details.*
 
@@ -26,7 +26,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [Admin/Mercurial](./Admin(2f)Mercurial.html) \-- mercurial setup
 
-## pydotorg redesign 
+### pydotorg redesign 
 
 - [Admin/RedesignRequirements](./Admin(2f)RedesignRequirements.html)
 

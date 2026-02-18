@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyUnit 
+## PyUnit 
 
 PyUnit is an easy way to create unit testing programs and [UnitTests](../testing/UnitTests) with Python. (Note that docs.python.org uses the name \"unittest\", which is also the module name.)
 
-## Basic Example 
+### Basic Example 
 
 Here\'s a basic example, making use of standard PyUnit conventions.
 
@@ -65,7 +65,7 @@ Here\'s a basic example, making use of standard PyUnit conventions.
 
 For more details, see [the PyUnit manual](http://pyunit.sourceforge.net/pyunit.html) and \"unittest\" at [docs.python.org](https://docs.python.org/3.6/library/unittest.html).
 
-## See Also 
+### See Also 
 
 - [SourceForge.net PyUnit site](http://pyunit.sourceforge.net)
 
@@ -77,6 +77,6 @@ For more details, see [the PyUnit manual](http://pyunit.sourceforge.net/pyunit.h
 
 ------------------------------------------------------------------------
 
-# Discussion 
+## Discussion 
 
 - (none yet!)

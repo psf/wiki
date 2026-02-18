@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This is an \"automatic [DocXmlRpcServer](DocXmlRpcServer).\" There is also a CGI variant: [AutoXmlRpcCgi](AutoXmlRpcCgi).
 
-## Tutorial 
+### Tutorial 
 
 Suppose you have a Python module:
 
@@ -58,7 +58,7 @@ Your friends can now call your function!
 
 There it is!
 
-## Notes 
+### Notes 
 
 - What if you can\'t run a server? Use [AutoXmlRpcCgi](AutoXmlRpcCgi)!
 
@@ -70,7 +70,7 @@ There it is!
 
 - If you define a function \"uli\" (`def uli(msg):`), you can call it in IRC with [UliBot!](http://onebigsoup.wiki.taoriver.net/moin.cgi/UliBot)
 
-## Code: xrserver.py 
+### Code: xrserver.py 
 
 :::: 
 ::: 
@@ -184,7 +184,7 @@ There it is!
 :::
 ::::
 
-# Discussion 
+## Discussion 
 
 This could be improved. Some ideas:
 

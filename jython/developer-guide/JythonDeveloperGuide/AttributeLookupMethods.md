@@ -6,10 +6,10 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Attribute Lookup Methods on `PyObject`.
+## Attribute Lookup Methods on `PyObject`.
 
 ::: 
-### Why this document?
+#### Why this document?
 
 With the time, we have made some changes to the way the lookup methods behave on Java, to accommodate them to be as much compatible with CPython when they are exposed to Python code. As the time of this writing, `PyObject` has the following five methods related to attribute lookup.
 
@@ -23,7 +23,7 @@ This is without counting different signatures of the same method name. Such slig
 :::
 
 ::: 
-### Quick Questions and Answers
+#### Quick Questions and Answers
 
 If you don\'t want to read the whole history here are some generic answers, which are right on most cases:
 
@@ -67,7 +67,7 @@ First, make sure that you really want to override attribute lookup. Then, overri
 :::
 
 ::: 
-### What\'s the difference?
+#### What\'s the difference?
 
 First, we must differentiate between the methods which are part of the `PyObject` Java API, and those which are implementations exposed to Python. As you may expect, the ones starting with `object_` have to do with [exposed methods](../../internals/PythonTypesInJava). `object__getattribute__` corresponds to the exposed `object.__getattribute`. However, `object__findattr__` is not exposed, but is an implementation detail of PyObject itself, related to the Java API methods which we will explain now in detail.
 

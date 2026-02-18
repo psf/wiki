@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# A full widget waiting indicator 
+## A full widget waiting indicator 
 
 In [this message](http://lists.trolltech.com/pipermail/qt-interest/2009-September/012678.html) on the [qt-interest mailing list](http://lists.trolltech.com/mailman/listinfo/qt-interest), Fabio Dago asked how to create a \"waiting widget\".
 

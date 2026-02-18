@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PyPI: The Python Package Index 
+## PyPI: The Python Package Index 
 
 PyPI, the Python Package Index, is a web-based software catalogue and distribution mechanism. See [PublishingPythonModules](../archive/PublishingPythonModules) for other channels through which Python software may be distributed and obtained.
 

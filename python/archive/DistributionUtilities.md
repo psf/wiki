@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Distribution Utilities 
+## Distribution Utilities 
 
 General distribution of Python code is typically done using the [Distutils](../packaging/Distutils) package from the standard library which can produce source and binary distributions which depend on end-users having Python already installed on their computer (with Python Eggs being a form of software distribution provided by the [Distutils](../packaging/Distutils) derivative, [setuptools](../archive/setuptools)). Such source and binary software distributions are frequently available as operating system packages (a more general form of the term \"package\" referring not just to code but also to documentation, resources and other things) and can be installed using the package management infrastructure employed by various operating systems - see \"System Package Distribution\" below.
 
-## Executable Applications 
+### Executable Applications 
 
 The following projects support the production of executable application from Python scripts.
 
@@ -31,7 +31,7 @@ The following projects support the production of executable application from Pyt
   ----------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------ -------------------------- -------------------------- -------------------------------------------------------------------------------------------------------------
 :::
 
-## Installers 
+### Installers 
 
 Installers are sometimes needed to wrap up the output of freeze tools into packages:
 
@@ -41,19 +41,19 @@ Installers are sometimes needed to wrap up the output of freeze tools into packa
 
 - [MacPython](../platforms/MacPython) [BundleBuilder](BundleBuilder) (Mac OS X)
 
-## See also 
+### See also 
 
 - [buildout](../packaging/buildout)
 
 - [deployment](../archive/deployment) (an answer to the frequently asked question on the topic)
 
-## System Package Distribution 
+### System Package Distribution 
 
 Although [Distutils](../packaging/Distutils) supports the production of some system packages, other tools exist to make such packages:
 
 - There are videos explaining how to create a Debian package (.deb) from a python program (.py). This is useful if you want to distribute to Debian based Linux Systems like [Debian](http://www.debian.org) or [Ubuntu](http://www.ubuntu.com/).
 
-## Distribution Using Virtualisation 
+### Distribution Using Virtualisation 
 
 It is possible to distribute entire systems which can then be run under virtualisation or as \"live CD\" environments. Some solutions attempt to incorporate such approaches in a way which is transparent to the user:
 

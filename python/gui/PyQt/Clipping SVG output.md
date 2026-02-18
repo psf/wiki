@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Clipping SVG output 
+## Clipping SVG output 
 
 In a [message to the qt-interest mailing list](http://lists.trolltech.com/pipermail/qt-interest/2009-September/012599.html), Jeremy Sanders asked if it was possible to clip polylines before sending them to a paint device. This was partly to overcome the limitations of Qt\'s SVG paint device, QSvgGenerator, which doesn\'t support clipping.
 

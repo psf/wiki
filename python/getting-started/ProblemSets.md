@@ -30,7 +30,7 @@ Thanks to André Roberge, whose post about [99 Prolog Problems](http://aroberge.
 
 [Practice Python](http://practicepython.blogspot.com) is a weekly blog that posts beginner-level practice Python exercises (in Python 3) and posts solutions for them the next week.
 
-# Subpages for solutions and commentary: 
+## Subpages for solutions and commentary: 
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [/99 Prolog Problems Solutions](ProblemSets/99 Prolog Problems Solutions)   [/Programming Challenges Solutions](ProblemSets/Programming Challenges Solutions)   [/Project Euler Solutions](ProblemSets/Project Euler Solutions)  

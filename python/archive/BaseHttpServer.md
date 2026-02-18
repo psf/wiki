@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# BaseHTTPServer 
+## BaseHTTPServer 
 
 You can use this to make a simple HTTP web server.
 
-## Official Documentation 
+### Official Documentation 
 
 - [BaseHTTPServer module documentation](http://docs.python.org/lib/module-BaseHTTPServer.html) - what we use directly
 
 - [SocketServer module documentation](http://docs.python.org/lib/module-SocketServer.html) - behind the BaseHttpServer
 
-## Example Code 
+### Example Code 
 
-### Responding with an HTML Page 
+#### Responding with an HTML Page 
 
 :::: 
 ::: 
@@ -62,7 +62,7 @@ You can use this to make a simple HTTP web server.
 :::
 ::::
 
-### Responding with URL Redirection 
+#### Responding with URL Redirection 
 
 This code demonstrates simple URL redirection:
 
@@ -106,7 +106,7 @@ This code demonstrates simple URL redirection:
 :::
 ::::
 
-## Parameterizing 
+### Parameterizing 
 
 When you want to make your server respect some parameters, it\'s easiest to do so via the *server,* rather than the *handler.*
 
@@ -114,13 +114,13 @@ That is, make a subclass of the server, that accepts some additional parameters.
 
 Then, in the handler, use `s.server` to get to the server, and access the parameters through it.
 
-## See Also 
+### See Also 
 
 - [DocXmlRpcServer](DocXmlRpcServer) \-- self-documenting XML-RPC servers
 
 - [CgiScripts](../people/CgiScripts) \-- using invoked CGI scripts, rather than running micro-web servers
 
-# Discussion 
+## Discussion 
 
 I\'d ultimately like to see a BaseHttpServer here that can both handle XML-RPC requests (with *that* request handler,) and normal web requests (with a custom handler.)
 

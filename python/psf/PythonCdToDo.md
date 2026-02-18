@@ -10,13 +10,13 @@ For improving the [PythonCd](PythonCd), we need some experienced helpers and tes
 
 Current package list: [PythonCdRawPackageList](PythonCdRawPackageList)
 
-# Software 
+## Software 
 
 - [PyGeo](../people/PyGeo)
 
 - VPython
 
-# Graphics and Fun stuff 
+## Graphics and Fun stuff 
 
 - images and logos
   - pythonic background image, see [http://www.ibiblio.org/obp/pyBiblio/images/](http://www.ibiblio.org/obp/pyBiblio/images/) - snake.png - thanks to Paul Carduner
@@ -33,7 +33,7 @@ Current package list: [PythonCdRawPackageList](PythonCdRawPackageList)
 
     - [http://www.python.org/other/python.mov](http://www.python.org/other/python.mov) - tried it, but using xine or vlc, I only get video, but no audio 8( vlc seemed to have less problems, xine sometimes didnt work.
 
-# Hosting / Mirrors for ISO image distribution 
+## Hosting / Mirrors for ISO image distribution 
 
 We need some server to distribute this, anybody sponsoring space and bandwidth? Possibilities:
 
@@ -49,7 +49,7 @@ We need some server to distribute this, anybody sponsoring space and bandwidth? 
 
 - [ToDo](./ToDo.html): maybe somebody else could contact some University in the US/Canada? Just check if it is possible to mirror the ISO there.
 
-# Unsorted / Todo from EducationalCd 
+## Unsorted / Todo from EducationalCd 
 
 - [Zope](../web/Zope) and [ZODB](http://zope.org/Wikis/ZODB/FrontPage/)
 

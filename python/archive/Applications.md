@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Applications Written in Python 
+## Applications Written in Python 
 
 See also:
 
@@ -30,7 +30,7 @@ See also:
 
 - [WellKnownPythonPrograms](WellKnownPythonPrograms)
 
-### 3D CAD/CAM 
+#### 3D CAD/CAM 
 
 - FreeCAD is an Open Source CAx RAD based on Open Cascade, Qt and Python. It features some key concepts like Macro recording, Workbenches, ability to run as a server and dynamically loadable Application extensions and its designed to be platform independent\... [http://free-cad.sourceforge.net/](http://free-cad.sourceforge.net/)
 
@@ -42,7 +42,7 @@ See also:
 
 - Vintech RCAM is a CAD/CAM system for true shape nesting and NC programming of laser, plasma, oxy-fuel and water-jet cutting machines. Vintech RCAM is platform independent and now it runs under Windows XP, Windows 7 and Linux. The main programing language of the system is Python, which defines the advanced methodology and the dynamic system development. More information [http://www.vintech.bg](http://www.vintech.bg/).
 
-### Audio/Video Applications 
+#### Audio/Video Applications 
 
 - cplay - Curses-based Linux multimedia jukebox [http://www.tf.hut.fi/\~flu/cplay/](http://www.tf.hut.fi/~flu/cplay/)
 
@@ -54,7 +54,7 @@ See also:
 
 - See also [AudioVideo](../multimedia/AudioVideo) and [PythonInMusic](../multimedia/PythonInMusic).
 
-### Console Applications 
+#### Console Applications 
 
 - [IPython](IPython) - An enhanced Interactive Python shell
 
@@ -62,7 +62,7 @@ See also:
 
 - See also [PythonShells](PythonShells).
 
-### Enterprise Applications 
+#### Enterprise Applications 
 
 - [Odoo](http://odoo.com/) - A complete open source ERP & CRM; accounting, stock management, sales, and modular framework with over 750 modules. Originally called tinyErp, then OpenERP; there is also a variant for Medical.
 
@@ -74,11 +74,11 @@ See also:
 
 - [RESTx](http://restx.mulesoft.org/) - a RESTful, GPL licensed open-source data publishing and integration platform, which emphasizes simplicity, sane defaults and out-of-the-box usability. No complex configuration, no steep learning curve, instead up and running in 5 minutes. Components for data access or integration logic can be easily written in Python and Java, users create their own RESTful resources by posting parameters for those components or just filling out a small form in their browser.
 
-### File Formats 
+#### File Formats 
 
 - [xtopdf](https://vasudevram.github.io/products.html#xtopdf) - a Python toolkit for PDF generation from other data formats; many supported input formats, including: text, DBF/XBASE, CSV, TSV/TDV, XML, DOCX, XLS, XLSX, ODBC, SQLAlchemy, MongoDB, Microsoft Access, SQLite, Berkeley DB, standard input. Support for more formats can be added. PDFBuilder app (using xtopdf) can build composite PDFs from any combination of the supported input formats. xtopdf can be used as a library in your Python programs. Includes stand-alone end-user tools for: command-line (Linux, Windows) / desktop GUI (wxPython - Linux, Windows), web GUI (Flask, Bottle, [CherryPy](../web/CherryPy), WSGI, Netius). xtopdf is available on Linux, MacOS, Windows (except for platform-specific features like ODBC).
 
-### Image Applications 
+#### Image Applications 
 
 - [Gnofract 4D](http://gnofract4d.sourceforge.net/) - A flexible fractal generation program
 
@@ -90,7 +90,7 @@ See also:
 
 - [VPython](http://vpython.org/) - Navigable 3D animations are produced as side effects of computations, making a normally difficult task exceptionally easy. The new 5.0 release candidate offers opacity, local lights, and materials such as wood.
 
-### Internet Applications 
+#### Internet Applications 
 
 - BAOW - A lightweight content manage system based on Python language and SQL database, help you to develop complex web applications. [http://www.baow.org](http://www.baow.org/) (*Web site seems to be gone*)
 
@@ -138,7 +138,7 @@ See also:
 
 - See also [PythonWikiEngines](PythonWikiEngines) and [WebApplications](../people/WebApplications).
 
-### Mobile Applications 
+#### Mobile Applications 
 
 - [Aarlogic C05/3](http://www.roundsolutions.com/aarlogic/index.htm) - Ready to use GSM /GPS tracking PCB with Python engine on board with support of test server based on Google Maps [http://track4free.com](http://track4free.com/)
 
@@ -146,7 +146,7 @@ See also:
 
 - [Pyroute](http://wiki.openstreetmap.org/index.php/Pyroute) - a GPS-capable mapping/routing application for mobile devices
 
-### Office Applications 
+#### Office Applications 
 
 - [calibre](http://calibre-ebook.com) - ebook library management software with syncing to ebook readers, ebook format converter, editor and viewer. Calibre can download news from the web and convert them into e-books using pre-built or user-written Python recipes.
 
@@ -156,7 +156,7 @@ See also:
 
 - pyspread - Spreadsheet application that expects Python expressions in its grid cells [http://manns.github.com/pyspread/](http://manns.github.com/pyspread/)
 
-### Personal Information Managers 
+#### Personal Information Managers 
 
 - [BitPim](../implementations/BitPim) - Cell phone data manipulator. Can sync phonebook, calendar, wallpaper, ring tone, etc. [http://www.bitpim.org/](http://www.bitpim.org/)
 
@@ -166,7 +166,7 @@ See also:
 
 - [WikidPad](http://sourceforge.net/projects/wikidpad) - a wiki-like notebook application (not web-based)
 
-### Science and Education Applications 
+#### Science and Education Applications 
 
 - [Pyrobot](http://pyrorobotics.org/) - A complete IDE, set of libraries, simulator, and course materials for exploring robotics in Python. Currently aimed for higher education, but work has begun for use in k-12 as well.
 
@@ -178,7 +178,7 @@ See also:
 
 - [MetaPath](http://getmetapath.org/) - A workflow-based metabolomics data analysis package. Includes support for principal components analysis (PCA), partial least squares regression (PLSR) and discriminant analysis (PLS-DA), metabolic pathway mining and data visualisations.
 
-### Software Development 
+#### Software Development 
 
 - See also [DevelopmentTools](../people/DevelopmentTools).
 
@@ -217,7 +217,7 @@ See also:
 - Visual ORM Builders:
   - [Orbiter](http://www.projexsoftware.com/products/orbiter) - a node-based database and Python API builder.
 
-### System Administration Applications 
+#### System Administration Applications 
 
 - [Enomalism](Enomalism) - The Enomalism Virtualized Management Console (VMC) is a open source web-based systems administrator management tool for XEN hypervisor. Servers with hundreds of multiple isolated virtualized systems can be managed like a standalone server. Enomalism also includes a virtual server creation wizard and templates to facilitate virtualized server configuration, application deployment and centralized software patch management. [http://www.enomalism.com](http://www.enomalism.com/)
 
@@ -225,13 +225,13 @@ See also:
 
 - [Salt Stack](http://www.saltstack.com) - A high-performance remote execution and configuration management engine.
 
-### X-Window Manager 
+#### X-Window Manager 
 
 - PLWM - The Pointless Window Manager: a python toolkit for making a wm. It\'s hostile towards rodents, and ease of configuration is not an objective, not so actively developed, but might be usefull for keyboard-loving hackers. Somebody might even have a use for the code, though PyWM\'s ideas seem better. [http://plwm.sourceforge.net/](http://plwm.sourceforge.net/)
 
 - PyWM - a small, simple python-programmable X window manager that\'s packed with features yet very easy to learn and use. [http://pywm.sf.net](http://pywm.sf.net/)(More up-to-date), [http://www.freenet.org.nz/python/pywm/index.html](http://www.freenet.org.nz/python/pywm/index.html)
 
-### Unclassified 
+#### Unclassified 
 
 - Calix - An xwindows gamma calibration tool using Py-GTK and the xgamma command. [http://creationix.com/OpenSource/Calix/](http://creationix.com/OpenSource/Calix/) (this link do not contain anymore information)
 
@@ -243,7 +243,7 @@ See also:
 
 - [EF\*CK Chat Keyboard](https://efck-chat-keyboard.github.io) - A PyQT GUI app for quickly filtering and inserting emojis, GIFs and fancy Unicode text in app-agnostic way on X11.
 
-## Editorial Notes 
+### Editorial Notes 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new entries. If, as the developer of a listed application, you disagree with the classification of the work, please move it into the appropriate category or create a new category, respecting the ascending alphabetical order of the categories. When specifying release dates please use the format YYYY-MM-DD.
 

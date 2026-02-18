@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [See the PyCon web site for details.](http://us.pycon.org/)
 
-# Latest Information 
+## Latest Information 
 
 [PyCon2012](PyCon2012) will take place in Santa Clara, California, from March 7 to 15 (with tutorials on March 7 and 8, and development sprints from March 12 to 15).
 
@@ -16,7 +16,7 @@ See [PyCon2012](PyCon2012) for information about the planning of the upcoming co
 
 [Organizers Meetings Connection Details](../../people/Organizers Meetings Connection Details)
 
-# Previous conferences 
+## Previous conferences 
 
 - [PyCon2011](PyCon2011) ([PyCon 2011\'s web site](http://us.pycon.org/2011))
 
@@ -36,7 +36,7 @@ See [PyCon2012](PyCon2012) for information about the planning of the upcoming co
 
 - [PyConDC2003](PyConDC2003)
 
-## Miscellaneous 
+### Miscellaneous 
 
 [PyConPlanning](PyConPlanning)
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Paint on an image 
+## Paint on an image 
 
 On the `comp.lang.python`{.backtick} newsgroup (`python-list`{.backtick}), Laszlo Nagy asked for suggestions for a library to render antialiased images using [TrueType](./TrueType.html) font files.
 

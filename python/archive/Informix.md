@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Informix 
+## Informix 
 
 URL
 
@@ -22,13 +22,13 @@ A set of database products now owned by IBM.
 
 Informix Dynamic Server or IDS is one of the flagship databases IBM offers. It is currently at version 11.7 and it has bindings for many languages, including Python.
 
-## 1. Pros 
+### 1. Pros 
 
-## 2. Cons 
+### 2. Cons 
 
-## 3. DB API 2.0 Drivers 
+### 3. DB API 2.0 Drivers 
 
-### 3.1. InformixDB 
+#### 3.1. InformixDB 
 
 URL
 
@@ -46,7 +46,7 @@ Python versions
 
 :   
 
-### 3.2. mxODBC 
+#### 3.2. mxODBC 
 
 URL
 
@@ -63,7 +63,7 @@ Python versions
 
 Note: The Informix ODBC drivers needed for mxODBC are included in the Informix CSDK.
 
-### 3.3. ibm-db
+#### 3.3. ibm-db
 
 URL
 

@@ -10,7 +10,7 @@ The venue for [PyCon2006]() is the [Dallas / Addison Marriott Quorum](http://mar
 
 The original bid is at: [Dallas/Fort Worth](http://python.taupro.com/DfwPyConBid/Overview)
 
-# Desirable Venue Characteristics 
+## Desirable Venue Characteristics 
 
 - Must allow maintaining [PyCon](../PyCon) as a low-cost conference (early bird registration around \$175-200).
 
@@ -32,7 +32,7 @@ The original bid is at: [Dallas/Fort Worth](http://python.taupro.com/DfwPyConBid
 
 - nearby open area where people can sit and have spur-of-the-moment meetings and collaborations. This can be a plaza, terrace, indoor court, etc. If outdoor, we\'ll need provisions for inclement weather. - MO
 
-# Ideas 
+## Ideas 
 
 - Withdrawn: The Chicago Python User Group ([http://chipy.org](http://chipy.org)) bid for hosting [PyCon](../PyCon); an unnamed university\'s offer.
 
@@ -50,7 +50,7 @@ The original bid is at: [Dallas/Fort Worth](http://python.taupro.com/DfwPyConBid
 
 - Emory University conference center [http://www.emoryconferencecenter.com/Emory.html](http://www.emoryconferencecenter.com/Emory.html)
 
-## Questions for site visit 
+### Questions for site visit 
 
 - Get detailed food costs: costs for breakfast, lunch, breaks. Are tips/tax included? **Do we have a choice of caterers? \--[CatherineDevlin](../../../people/CatherineDevlin)**
 

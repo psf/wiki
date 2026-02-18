@@ -8,15 +8,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page will list birds-of-a-feather sessions.
 
-# Wednesday, March 23 
+## Wednesday, March 23 
 
-# Thursday, March 24 
+## Thursday, March 24 
 
 **Chandler BOF** 8PM
 
 Questions and Answers with contributors to the Chandler Personal Information Manager.
 
-# Friday, March 25 
+## Friday, March 25 
 
 ------------------------------------------------------------------------
 

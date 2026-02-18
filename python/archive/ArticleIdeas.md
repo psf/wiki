@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Suggestions to Aspiring Writers for Magazine Articles About Python 
+## Suggestions to Aspiring Writers for Magazine Articles About Python 
 
 ------------------------------------------------------------------------
 

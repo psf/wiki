@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Webizing Python 
+## Webizing Python 
 
 This is a discussion about getting Python to merge Internet resources and Python.
 
-# Ideas 
+## Ideas 
 
 - syntax changes? are we interested in that?
 
@@ -36,11 +36,11 @@ Rather than be contrary again, I\'ll pose a question: what are the real benefits
 
 \-- [IanBicking](IanBicking)
 
-## XML literals 
+### XML literals 
 
 Several languages have support for some kind of XML literal, including XEN, XDuce, o:XML, Comega, and others. More later.
 
-## Networked Data 
+### Networked Data 
 
 Hi, my name is [LionKimbro](LionKimbro). I wrote a small hack module for [NetworkedData](NetworkedData). Basically, this means that a native data structure can expand, indefinitely, across the Internet. So if you have a list, for example, and three of the lists are defined elsewhere on the Internet, you can just tell those items to resolve, and they\'ll resolve *in place.* A master graph keeps records of how all the sub-graphs and data structures are connected.
 
@@ -52,7 +52,7 @@ You can build arbitrary objects by this system, because there is support (not in
 
 \-- [LionKimbro](LionKimbro) 2004-07-21 00:14:01
 
-## Component Bus Architecture support 
+### Component Bus Architecture support 
 
 [StacklessPython](StacklessPython) would be a great place to start work on a built-in [ComponentBus](http://c2.com/cgi/wiki?ComponentBus "Wiki") architecture from.
 
@@ -64,7 +64,7 @@ Most programs, you\'d like people across the world to be able to observe some pa
 
 \-- [LionKimbro](LionKimbro) 2004-07-21 00:14:01
 
-# References 
+## References 
 
 - [Tim Berner\'s Lee: Webizing Python](http://www.w3.org/2002/Talks/0206-python/all.htm)
 

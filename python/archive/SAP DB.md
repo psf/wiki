@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# SAP DB (MaxDB) 
+## SAP DB (MaxDB) 
 
 URL for 7.6 and later
 
@@ -28,9 +28,9 @@ platforms
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### sdb.dbapi
+#### sdb.dbapi
 
 URL
 
@@ -46,7 +46,7 @@ Python versions
 
 :   
 
-### sapdbapi
+#### sapdbapi
 
 URL
 
@@ -63,7 +63,7 @@ Python versions
 
 This is for the older SAP DB releases 7.3 and 7.4.
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -82,9 +82,9 @@ SAP DB\'s native CLI is ODBC compatible and mxODBC can link directly against the
 
 Supports all SAP DB versions.
 
-## Other Drivers 
+### Other Drivers 
 
-### sdb.sql
+#### sdb.sql
 
 URL
 
@@ -100,7 +100,7 @@ Python versions
 
 :   
 
-### sapdb
+#### sapdb
 
 URL
 
@@ -117,7 +117,7 @@ Python versions
 
 This is for the older SAP DB releases 7.3 and 7.4.
 
-#### Programming Model 
+##### Programming Model 
 
     cursor = session.sql ("select * from messages")
     for msgno, lang, text in cursor:
@@ -136,6 +136,6 @@ This is for the older SAP DB releases 7.3 and 7.4.
 
 ------------------------------------------------------------------------
 
-## Supported Python Applications 
+### Supported Python Applications 
 
 - a sapdb driver exists for [PyDO](PyDO) (Python Data Objects)

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Missing exceptions in PEP 3107 
+## Missing exceptions in PEP 3107 
 
 Thread: [http://groups.google.com/group/comp.lang.python/browse_thread/thread/ba7e0dd75d2b57d1](http://groups.google.com/group/comp.lang.python/browse_thread/thread/ba7e0dd75d2b57d1)
 

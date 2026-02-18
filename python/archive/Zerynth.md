@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Zerynth is Python Embedded in Real-time 
+## Zerynth is Python Embedded in Real-time 
 
 [Zerynth](http://www.zerynth.com) (formerly known as Viper) is an easy to use, professional and performant development suite for the cross-platform and high level design of interactive objects, artistic installations, and internet/cloud connected devices.
 
@@ -18,7 +18,7 @@ Zerynth is a solution for creatives, designers and IoT professionals who need to
 
 Zerynth is not just another programming library for Arduino associated with a sensor kit. Zerynth is composed of a set of open source tools developed from scratch in order to allow users to approach to the embedded world in few clicks.
 
-# The Zerynth Suite Components 
+## The Zerynth Suite Components 
 
 - The [Zerynth Virtual Machine](http://www.zerynth.com/zerynth-virtual-machine/) is the core of the Zerynth suite. With Zerynth VM it is possible to develop Python 3 scripts that are virtually independent of the selected hardware platform allowing an high code reusability and integration.
 
@@ -26,7 +26,7 @@ Zerynth is not just another programming library for Arduino associated with a se
 
 - The [Zerynth App](https://play.google.com/store/apps/details?id=thingsoninternet.biz.viperapp&hl=en) is a very simple and ready to use mobile application which allows users to monitor Zerynth based objects from mobile without writing any single line of code for Android or iOS The Zerynth App. When launched the Zerynth App discovers all the Zerynth devices available on the network. Once one of them is selected the App will become its interface. Zerynth App interfaces are based on HTML 5 templates that can be edited through the Zerynth Studio integrating them in the Zerynth Python scripts. Zerynth app Templates support JQuery Mobile!
 
-# Availability 
+## Availability 
 
 Zerynth components are open source and released under GPL3, Apache2 and MIT licenses depending on the used libraries and codes.
 

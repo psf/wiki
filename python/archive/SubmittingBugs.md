@@ -8,23 +8,23 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **NOTE**: For updated instructions please refer to the [devguide](http://docs.python.org/devguide/tracker.html).
 
-# Reporting Bugs in Python 
+## Reporting Bugs in Python 
 
 Python is a mature programming language which has established a reputation for stability. In order to maintain this reputation, the developers would like to know of any deficiencies you find in Python.
 
 Bug reports should be submitted via the Python Bug Tracker [http://bugs.python.org/](http://bugs.python.org/). The bug tracker offers a Web form which allows pertinent information to be entered and submitted to the developers.
 
-## Filing a Report 
+### Filing a Report 
 
 The first step in filing a report is to determine whether the problem has already been reported. The advantage in doing so, aside from saving the developers time, is that you learn what has been done to fix it; it may be that the problem has already been fixed for the next release, or additional information is needed (in which case you are welcome to provide it if you can!). To do this, search the bug database using the **search tracker** box on the top of the page.
 
-### Log In 
+#### Log In 
 
 If the problem you\'re reporting is not already in the bug tracker, go back to the Python Bug Tracker. If you don\'t already have a tracker account, select the **Register** link in the sidebar and undergo the registration procedure. If you have an account already, enter your credentials and select **Login**. It is not possible to submit a bug report anonymously.
 
 Once you\'re logged in, you can submit a bug.
 
-### Create an Issue 
+#### Create an Issue 
 
 Select the **Create New** link in the sidebar to open the bug reporting form.
 
@@ -60,7 +60,7 @@ Some pointers to keep in mind:
 
 Understanding the usual [Issue Workflow](http://www.python.org/dev/workflow/) also helps in creating good bug reports, raising the chances of your bug report (or feature request) being resolved efficiently.
 
-### What happens next 
+#### What happens next 
 
 See [Issue Workflow](http://www.python.org/dev/workflow/) and [general Roundup guidelines](http://www.python.org/dev/intro/#general-roundup-guidelines) for detailed descriptions of how bugs get fixed.
 
@@ -68,7 +68,7 @@ Each bug report will ultimately be assigned to a core developer who will determi
 
 Contributions in the form of tests, docs and patches are very welcome. The [Developer Documentation](http://www.python.org/dev/) is your main guide to the procedures and [tools of the trade](http://www.python.org/dev/tools). The [PythonBugDay](../archive/PythonBugDay) volunteer docs offers an overview focused at newcomer developers.
 
-#### see also: 
+##### see also: 
 
 *How to Report Bugs Effectively* [http://www-mice.cs.ucl.ac.uk/multimedia/software/documentation/ReportingBugs.html](http://www-mice.cs.ucl.ac.uk/multimedia/software/documentation/ReportingBugs.html)
 

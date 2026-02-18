@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# wednesday
+## wednesday
 
 1.  Moshe Zadka \-- how to give a bad lightning talk
 
@@ -56,7 +56,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 24. Jacob Hallén \-- fun with stan
 
-# tuesday
+## tuesday
 
 1.  Moshe Zadka \-- componentizing a stairway to heaven, [componentizing-to-heaven.html](attachments/EuroPy2006LightningTalks/componentizing-to-heaven.html)
 

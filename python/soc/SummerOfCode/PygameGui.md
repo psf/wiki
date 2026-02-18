@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# A Pygame GUI Toolkit. 
+## A Pygame GUI Toolkit. 
 
 **On second thoughts, this sort of project probably isn\'t needed, for many different reasons.** - [SimonWittber](../../people/SimonWittber)
 
@@ -28,7 +28,7 @@ It should also provide customisable layout managers for widget layout. Grid, Hor
 
 ------------------------------------------------------------------------
 
-## Some reasons why this proposal isn\'t needed: 
+### Some reasons why this proposal isn\'t needed: 
 
 - PGU is good enough for most people who want a Pygame GUI.
 - Most games / multimedia applications use custom GUI code.

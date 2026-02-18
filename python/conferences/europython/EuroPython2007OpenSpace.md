@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython 2007 Open Space 
+## EuroPython 2007 Open Space 
 
 Although Open Space is a dynamic element of the conference, proposed and scheduled as things happen at the venue, it\'s still likely that participants have a few topics to suggest even before the conference begins. This page will collect suggestions before and during the conference; precise scheduling and more topic gathering will be done at the venue during the conference. Look out for the Open Space scheduling boards!
 
-## Suggested Topics 
+### Suggested Topics 
 
 - Python 3000 - migration, porting, 2.x and 3.x co-existence, etc.
 
 - The future of [EuroPython](EuroPython) (plus other conference activities) - oiling the wheels of the machine!
 
-## Planned Sessions 
+### Planned Sessions 
 
 These are sessions which attendees are planning on doing.
 
@@ -32,6 +32,6 @@ These are sessions which attendees are planning on doing.
 
   [MoinMoin Wiki](http://moinmo.in/) users / developers could meet to talk about misc. topics: core and plugin development, tuning, current and future versions, news from Summer of Code 2007. \-- [ThomasWaldmann](../../people/ThomasWaldmann)
 
-## Staying in Contact 
+### Staying in Contact 
 
 - **Django**: [EuroPython2007Django](EuroPython2007Django) / [EuroPython2007DjangoOpenspace](EuroPython2007DjangoOpenspace)

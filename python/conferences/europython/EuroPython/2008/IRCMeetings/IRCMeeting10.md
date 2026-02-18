@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #10 
+## IRC Meeting #10 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will take place in the #europython channel on freenode at 18:00 CEST on Thursday 24th April.
 
 Please look at the minutes from the last meeting for more background information: [../IRCMeeting9](IRCMeeting9)
 
-## Present 
+### Present 
 
 Aiste, David, Eugene, Harald, Lennart, Paul, Zeth.
 
-## Agenda/Minutes 
+### Agenda/Minutes 
 
 - Registration/Budget
   - *Aiste/Laura/Jacob* to report on the progress of the budget and fees. **Most details appear to be in order.**
@@ -53,6 +53,6 @@ Aiste, David, Eugene, Harald, Lennart, Paul, Zeth.
 - General discussion (if necessary)
   - Sprints
 
-## Actions 
+### Actions 
 
 - See the bold sections above\...

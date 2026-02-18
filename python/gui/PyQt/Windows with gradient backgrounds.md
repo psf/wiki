@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Windows with gradient backgrounds 
+## Windows with gradient backgrounds 
 
 On the #pyqt channel on Freenode, `felipe__`{.backtick} asked if it was possible to change the background colour of a window.
 

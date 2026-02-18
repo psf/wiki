@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Building Python Statically 
+## Building Python Statically 
 
 This page describes the steps required to build Python statically, derived from [this thread](http://groups.google.com/group/comp.lang.python/browse_thread/thread/eba7c323a0221b97?hl=en#3314cbe8234de6c5). It presently covers Linux, but many of the same steps apply to other OSs. The goal is to get `ldd`{.backtick} to say:
 
@@ -30,7 +30,7 @@ followed by any of the modules that you want to build into your python binary. A
 
 Note that the line is not commented (unlike the corresponding line in Modules/Setup). See Modules/Setup for guides on enabling other libraries, further examples and documentation.
 
-## See also 
+### See also 
 
 - [http://stackoverflow.com/questions/1150373/compile-the-python-interpreter-statically](http://stackoverflow.com/questions/1150373/compile-the-python-interpreter-statically)
 

@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# Multimedia Services 
+## Multimedia Services 
 
 14.1 audioop \-- Manipulate raw audio data
 
@@ -44,7 +44,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 14.11.1 Audio Device Objects 14.11.2 Mixer Device Objects
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: Why is my global not assigned? 
+## Asking for Help: Why is my global not assigned? 
 
 The following puzzles me: Both a and b are globals. Both are assigned an initial value in fun(). But b is considered unassigned in fun1().
 

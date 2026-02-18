@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Jython Course Outline
+## Jython Course Outline
 
 +------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Author:    | Dave Kuhlman                                                                                                                                                                                                                                              |
@@ -116,7 +116,7 @@ Contents
 :::
 
 ::: 
-### [1   How-to Write Jython Code](#id6)
+#### [1   How-to Write Jython Code](#id6)
 
 Jython is Python. That\'s one of its big advantages: you get two for the price of one. If your learn Python, then you have also learned Jython, and vice versa. If you already know Python, then you know Jython.
 
@@ -129,10 +129,10 @@ But, if you do not know Python **or** Jython, then here are good training aids:
 :::
 
 ::::::::::: 
-### [2   Installing and Running Jython](#id7)
+#### [2   Installing and Running Jython](#id7)
 
 ::: 
-#### [2.1   Install Jython](#id8)
+##### [2.1   Install Jython](#id8)
 
 You will need Java installed, of course. And, since you are likely to want to use Jython class libraries from Jython, it is also likely that you will want the Java SDK. **Important**: If more than one version of Java is installed on your machine, make sure that when you install Jython, you use the version of Java for which the SDK is installed and the version of Java that you will be using when you run Jython.
 
@@ -148,12 +148,12 @@ Standalone mode \-- You can also create a self-contained Jython jar file. Run th
 :::
 
 ::::::: 
-#### [2.2   Configuration](#id9)
+##### [2.2   Configuration](#id9)
 
 There are several places to configure Jython.
 
 ::: 
-##### [2.2.1   Command-line options](#id10)
+###### [2.2.1   Command-line options](#id10)
 
 To display the options for `jython`, type:
 
@@ -161,7 +161,7 @@ To display the options for `jython`, type:
 :::
 
 ::: 
-##### [2.2.2   Jython configuration files](#id11)
+###### [2.2.2   Jython configuration files](#id11)
 
 For explanation of configuration options and values, see:
 
@@ -170,7 +170,7 @@ For explanation of configuration options and values, see:
 :::
 
 ::: 
-##### [2.2.3   Checking configuration values](#id12)
+###### [2.2.3   Checking configuration values](#id12)
 
 From within the Jython interactive interpreter or from within your Jython application, you can display the values of configuration properties.
 
@@ -208,7 +208,7 @@ Here is a script that you may find useful when interactively inspecting system p
 :::
 
 ::: 
-##### [2.2.4   Classpath and python path](#id13)
+###### [2.2.4   Classpath and python path](#id13)
 
 Jython can pick up Java class files from locations on either the Jython/Python path (see `sys.path`) or the Java classpath. Set these with the following:
 
@@ -231,7 +231,7 @@ A few rules about CLASSPATH and python.path:
 :::::::
 
 ::: 
-#### [2.3   Running Jython](#id14)
+##### [2.3   Running Jython](#id14)
 
 The Jython interactive, command-line interpreter: `jython`.
 
@@ -297,7 +297,7 @@ Exercise \-- Create a small Jython script:
 :::
 
 ::: 
-#### [2.4   Installing Jython/Python packages](#id15)
+##### [2.4   Installing Jython/Python packages](#id15)
 
 Some Jython packages will be distributed as a Java jar file. If that is the case, add the jar file to your classpath.
 
@@ -310,10 +310,10 @@ And, then put that install directory on your classpath.
 :::::::::::
 
 :::::::::::::::: 
-### [3   Integrating Java into Jython/Python](#id16)
+#### [3   Integrating Java into Jython/Python](#id16)
 
 ::: 
-#### [3.1   Calling existing Java code](#id17)
+##### [3.1   Calling existing Java code](#id17)
 
 In order to call Java code from Jython do the following:
 
@@ -358,7 +358,7 @@ Exercise \-- Use the class `java.util.Hashtable` to create a dictionary with sev
 :::
 
 ::: 
-#### [3.2   Extending a Java class in Jython](#id18)
+##### [3.2   Extending a Java class in Jython](#id18)
 
 You can import and then extend (sub-class) a Java class.
 
@@ -394,7 +394,7 @@ Example \-- This sample extends the Java filestream class by adding a method tha
 :::
 
 ::: 
-#### [3.3   Emulating Jython classes in Java](#id19)
+##### [3.3   Emulating Jython classes in Java](#id19)
 
 You can make a Java class \"act like\" one of the built-in Jython classes. In order to do so, you would implement one or more of Jython\'s special methods. You can find descriptions of the special methods in the \"Python Reference Manual\": [3.4 Special method names \-- http://docs.python.org/ref/specialnames.html](http://docs.python.org/ref/specialnames.html).
 
@@ -457,7 +457,7 @@ Notes:
 :::
 
 :::::::::: 
-#### [3.4   Preparing Java code to be called from Jython](#id20)
+##### [3.4   Preparing Java code to be called from Jython](#id20)
 
 Another view: Java is the extension language for Jython.
 
@@ -473,7 +473,7 @@ For additional help, see:
 You can also customize a Java class to make it more \"Jythonic\".
 
 ::: 
-##### [3.4.1   Adding doc strings to a Java class](#id21)
+###### [3.4.1   Adding doc strings to a Java class](#id21)
 
 This first, simple example adds doc strings:
 
@@ -520,7 +520,7 @@ Notes:
 :::
 
 ::: 
-##### [3.4.2   Working with Jython arguments](#id22)
+###### [3.4.2   Working with Jython arguments](#id22)
 
 The `ArgParser` class helps us handle Jython keyword arguments. If helps us write Java methods that support the analog of Jython\'s `*args` and `**kwargs` in Java methods.
 
@@ -614,7 +614,7 @@ Also see the Jython FAQ: [5.3 Supporting \*args and \*\*kw in Java methods \-- h
 :::
 
 ::: 
-##### [3.4.3   Sub-classing a Java class](#id23)
+###### [3.4.3   Sub-classing a Java class](#id23)
 
 Notice that, in Jython, we can extend a class written in Java:
 
@@ -644,7 +644,7 @@ When you run the above, you should see something like the following:
 :::
 
 ::::: 
-##### [3.4.4   Emulating Jython Dictionaries, Sequences, Etc.](#id24)
+###### [3.4.4   Emulating Jython Dictionaries, Sequences, Etc.](#id24)
 
 Extend class org.python.core.PyObject and its sub-classes. See: [org.python.core Class PyObject](http://www.jython.org/docs/javadoc/org/python/core/PyObject.html).
 
@@ -805,7 +805,7 @@ Also see the Jython FAQ: [5.1 Java classes that emulate Jython Dictionaries and 
 :::::
 
 ::: 
-##### [3.4.5   Emulating Jython object attribute access](#id27)
+###### [3.4.5   Emulating Jython object attribute access](#id27)
 
 We can implement and override object attribute access in a Java class. And, we can emulate other Jython built-in types.
 
@@ -924,7 +924,7 @@ Also see the Jython FAQ: [5.2 Emulating Jython object attribute access with a Ja
 ::::::::::
 
 ::: 
-#### [3.5   Extending a built-in Jython class in Java](#id28)
+##### [3.5   Extending a built-in Jython class in Java](#id28)
 
 In Java, you can inherit from an extend the built-in Jython classes.
 
@@ -941,7 +941,7 @@ An example that extends the `PyDictionary` class is in section [Solution #2 \-- 
 :::
 
 ::: 
-#### [3.6   jarray \-- Creating and passing Java arrays to Java](#id29)
+##### [3.6   jarray \-- Creating and passing Java arrays to Java](#id29)
 
 Why you might want to do this \-- Suppose that you want to pass an array to a Java method. Furthermore, suppose that Java method is going to modify the contents of your array. If you pass in a Jython list, Jython creates a wrapper for your list, and any modifications made by Java will not be return to Jython.
 
@@ -1096,13 +1096,13 @@ References:
 ::::::::::::::::
 
 :::::::::::::::::::::::::::::::::: 
-### [4   Integrating Jython/Python into Java](#id30)
+#### [4   Integrating Jython/Python into Java](#id30)
 
 :::::::::::: 
-#### [4.1   Calling Jython from Java](#id31)
+##### [4.1   Calling Jython from Java](#id31)
 
 ::: 
-##### [4.1.1   Run Jython code on an interpreter embedded in Java](#id32)
+###### [4.1.1   Run Jython code on an interpreter embedded in Java](#id32)
 
 `jythonc` is currently unsupported and is deprecated, although it might reappear in some future version of Jython. So, using `jythonc` to compile your Jython code to Java for use in your Java code may not appeal to you. An embedded Jython interpreter may be a solution.
 
@@ -1133,7 +1133,7 @@ Advantages of this approach:
 :::
 
 ::::::::: 
-##### [4.1.2   How to run Jython code on an interpreter embedded in Java](#id33)
+###### [4.1.2   How to run Jython code on an interpreter embedded in Java](#id33)
 
 Resources \-- For instructions on how to call Jython code from Java, see:
 
@@ -1406,7 +1406,7 @@ Notes:
 :::::::::
 
 ::: 
-##### [4.1.3   Additional support for running Jython code on an interpreter embedded in Java](#id40)
+###### [4.1.3   Additional support for running Jython code on an interpreter embedded in Java](#id40)
 
 In what follows, we provide and describe scripts that assist in using the above strategy.
 
@@ -1415,10 +1415,10 @@ In what follows, we provide and describe scripts that assist in using the above 
 ::::::::::::
 
 :::::::::::::::: 
-#### [4.2   Embedding Jython into Java](#id41)
+##### [4.2   Embedding Jython into Java](#id41)
 
 ::: 
-##### [4.2.1   Why embedded Jython](#id42)
+###### [4.2.1   Why embedded Jython](#id42)
 
 There are several reasons and purposes for embedding the Jython interpreter into your Java application:
 
@@ -1429,7 +1429,7 @@ Also see: [Jython User Guide: Embedding Jython - http://jython.org/Project/userg
 :::
 
 ::: 
-##### [4.2.2   Embedding Jython into Java is simple](#id43)
+###### [4.2.2   Embedding Jython into Java is simple](#id43)
 
 Embedding the Jython interpreter can be as simple as this:
 
@@ -1482,7 +1482,7 @@ Embedding the Jython interpreter can be as simple as this:
 :::
 
 ::: 
-##### [4.2.3   Passing values into a Jython script](#id44)
+###### [4.2.3   Passing values into a Jython script](#id44)
 
 Notice the call `interp.set("a", new PyInteger (42));` in the above example.
 
@@ -1494,7 +1494,7 @@ You can also retrieve the dictionary object representing the namespace for the i
 :::
 
 ::::: 
-##### [4.2.4   Initializing the interpreter](#id45)
+###### [4.2.4   Initializing the interpreter](#id45)
 
 You can also create a Jython interpreter with an initial global namespace:
 
@@ -1602,7 +1602,7 @@ And here is a sample class loader. This one merely restricts the classes that ca
 :::::
 
 ::: 
-##### [4.2.5   Retrieving values from a Jython script](#id48)
+###### [4.2.5   Retrieving values from a Jython script](#id48)
 
 Notice the call `PyObject x = interp.get("x");` in the above example.
 
@@ -1614,7 +1614,7 @@ You can also retrieve the dictionary object representing the namespace for the i
 :::
 
 ::: 
-##### [4.2.6   There are also a few complexities](#id49)
+###### [4.2.6   There are also a few complexities](#id49)
 
 You will want to *selectively* expose capabilities from your Java application to scripts run by/on the embedded Jython interpreter.
 
@@ -1629,7 +1629,7 @@ Here are a few suggestions:
 :::
 
 ::: 
-##### [4.2.7   Exposing transparent objects](#id50)
+###### [4.2.7   Exposing transparent objects](#id50)
 
 Java application objects and values can be passed through to scripts executed or evaluated by the embedded interpreter.
 
@@ -1640,13 +1640,13 @@ Some mechanisms for passing objects:
 :::
 
 ::: 
-##### [4.2.8   Exposing opaque objects](#id51)
+###### [4.2.8   Exposing opaque objects](#id51)
 
 This is similar to the strategy for transparent objects, except that you must implement wrapper classes, then provide instances of these classes instead of instances of transparent objects.
 :::
 
 ::: 
-##### [4.2.9   Type conversion](#id52)
+###### [4.2.9   Type conversion](#id52)
 
 Mostly, Jython takes care of this for you.
 
@@ -1656,13 +1656,13 @@ And, you can also perform explicit conversions.
 :::
 
 ::: 
-##### [4.2.10   Using a custom class loader](#id53)
+###### [4.2.10   Using a custom class loader](#id53)
 
 You can control access to Java classes with a custom class loader. There is an example in section [A system state and a custom class loader](#a-system-state-and-a-custom-class-loader).
 :::
 
 ::: 
-##### [4.2.11   Embedding a Jython console](#id54)
+###### [4.2.11   Embedding a Jython console](#id54)
 
 This example shows how to embed a Jython interactive console into a Java program:
 
@@ -1699,12 +1699,12 @@ Notes:
 ::::::::::::::::
 
 ::::: 
-#### [4.3   Embedding Jython with the Java Scripting Engine](#id55)
+##### [4.3   Embedding Jython with the Java Scripting Engine](#id55)
 
 A scripting engine is an alternative way to execute Jython scripts from within Java.
 
 ::: 
-##### [4.3.1   Installing script engine support](#id56)
+###### [4.3.1   Installing script engine support](#id56)
 
 Scripting engine support is here: [scripting Project home \-- https://scripting.dev.java.net/](https://scripting.dev.java.net/)
 
@@ -1721,7 +1721,7 @@ Then add the following to your CLASSPATH:
 :::
 
 ::: 
-##### [4.3.2   Using script engine support](#id57)
+###### [4.3.2   Using script engine support](#id57)
 
 Here is a simple example that (1) displays information about existing script engines and (2) runs several lines of Jython code:
 
@@ -1803,10 +1803,10 @@ This is the result of running the above Java program:
 :::::
 
 :::::: 
-#### [4.4   Compiling Jython code with jythonc](#id58)
+##### [4.4   Compiling Jython code with jythonc](#id58)
 
 ::: 
-##### [4.4.1   Introduction to jythonc](#id59)
+###### [4.4.1   Introduction to jythonc](#id59)
 
 `jythonc` is currently unsupported and is deprecated, although it might reappear in some future version of Jython. Here is a message on this from the jython-users email list:
 
@@ -1847,7 +1847,7 @@ What `jythonc` is (sometimes) used for:
 :::
 
 ::: 
-##### [4.4.2   How to run jythonc](#id60)
+###### [4.4.2   How to run jythonc](#id60)
 
 Here are examples.
 
@@ -1861,7 +1861,7 @@ Create java class files that can be imported into Java:
 :::
 
 ::: 
-##### [4.4.3   Calling Jython from Java using jythonc](#id61)
+###### [4.4.3   Calling Jython from Java using jythonc](#id61)
 
 Preparing Jython code for `jythonc` \-- Create Java compatible Jython modules:
 
@@ -2106,7 +2106,7 @@ And the following example builds a standalone jar file from our `simpleclass.py`
 ::::::::::::::::::::::::::::::::::
 
 ::::::::: 
-### [5   Deployment and Distribution](#id62)
+#### [5   Deployment and Distribution](#id62)
 
 Suppose we would like to package our Jython application in a Java jar file, then deploy our application by distributing that jar file so that our users can run it. And, furthermore, suppose we would like our users to be able to run our Jython application on machines where Jython is *not* installed.
 
@@ -2125,14 +2125,14 @@ So, this boils down to:
       $ java -jar jython.jar {optional .py file}
 
 :::::::: 
-#### [5.1   Building jars - some samples](#id63)
+##### [5.1   Building jars - some samples](#id63)
 
 The following examples assume that you want to build and run your Jython application from a jar file in a way that is \'\'\'not\'\'\' dependent on files in your Jython installation. This will enable your users to run your Jython application (packaged in a jar file) without installing Jython. They will, of course, need Java installed on their machines.
 
 The following example scripts were developed on Linux (and the bash shell), but with minor modifications, you should be able to do the same thing in an MS DOS box on MS Windows. I use the zip/unzip tools available from Info-Zip ([http://www.info-zip.org/](http://www.info-zip.org/)), but other tools that support the zip format should also work.
 
 ::: 
-##### [5.1.1   Add Jython install stuff to our jar](#id64)
+###### [5.1.1   Add Jython install stuff to our jar](#id64)
 
 To build our jar, we first make a copy of jython.jar, then add the contents of the `Lib/` directory to it:
 
@@ -2144,7 +2144,7 @@ Note also that the Jython installer enables you to create a stand-alone jar file
 :::
 
 ::: 
-##### [5.1.2   Add modules and paths to the jar file](#id65)
+###### [5.1.2   Add modules and paths to the jar file](#id65)
 
 Then we copy this expanded jar file, and add modules that are specific to our application. I\'m also going to add a path to an additional jar file to the manifest:
 
@@ -2160,7 +2160,7 @@ Where, othermanifest.mf contains the following:
 :::
 
 ::: 
-##### [5.1.3   Run the script/jar](#id66)
+###### [5.1.3   Run the script/jar](#id66)
 
 Now I have a self-contained jar file that I can run by executing the following:
 
@@ -2170,7 +2170,7 @@ The file `testmyapp.py` imports modules that I have added to `myapp.jar` and `ot
 :::
 
 ::: 
-##### [5.1.4   A more self-contained jar file](#id67)
+###### [5.1.4   A more self-contained jar file](#id67)
 
 Now suppose you want to package your \"start-up\" script in the (main) jar itself. In order to do so, follow the above instructions plus:
 
@@ -2198,7 +2198,7 @@ This works because Java and Jython *both* have `-jar` options. The first `-jar` 
 :::
 
 ::: 
-##### [5.1.5   A summary](#id68)
+###### [5.1.5   A summary](#id68)
 
 Create the basic jar:
 
@@ -2245,7 +2245,7 @@ Or, if you have added your start-up script to the jar, use one of the following:
 :::::::::
 
 ::: 
-### [6   Integrating, Embedding, and Extending \-- A Summary](#id69)
+#### [6   Integrating, Embedding, and Extending \-- A Summary](#id69)
 
 Here is what we have learned to do:
 
@@ -2258,10 +2258,10 @@ Here is what we have learned to do:
 :::
 
 :::::::::::::::: 
-### [7   Jython+Java \-- Other Advanced Topics](#id70)
+#### [7   Jython+Java \-- Other Advanced Topics](#id70)
 
 ::: 
-#### [7.1   Event handling](#id71)
+##### [7.1   Event handling](#id71)
 
 Events are easy in Jython.
 
@@ -2284,10 +2284,10 @@ Here is an example taken from \"An Introduction to Jython\" ([http://www.javalob
 :::
 
 ::::::::::: 
-#### [7.2   XML](#id72)
+##### [7.2   XML](#id72)
 
 ::: 
-##### [7.2.1   jaxp](#id73)
+###### [7.2.1   jaxp](#id73)
 
 Note: Tested with jython-2.2a.
 
@@ -2394,7 +2394,7 @@ Resources:
 :::
 
 ::: 
-##### [7.2.2   Xerces](#id74)
+###### [7.2.2   Xerces](#id74)
 
 Xerces is an implementation of XML parsers and a lot more. The JAXP API is also implemented in Xerces2.
 
@@ -2534,7 +2534,7 @@ Resources:
 :::
 
 ::::: 
-##### [7.2.3   dom4j](#id75)
+###### [7.2.3   dom4j](#id75)
 
 ::: 
 ###### [7.2.3.1   Installation and setup](#id76)
@@ -2729,7 +2729,7 @@ Resources:
 :::::
 
 ::::: 
-##### [7.2.4   XMLBeans](#id78)
+###### [7.2.4   XMLBeans](#id78)
 
 XMLBeans provides the ability to generate Java bindings for an XML document type from an XML Schema. Roughly speaking, XMLBeans generates a Java class for each element type defined in an XML Schema.
 
@@ -2916,10 +2916,10 @@ And, that prints out:
 :::::::::::
 
 ::::: 
-#### [7.3   Database access](#id81)
+##### [7.3   Database access](#id81)
 
 ::: 
-##### [7.3.1   JDBC](#id82)
+###### [7.3.1   JDBC](#id82)
 
 JDBC is Java classes. It is, therefore, usable from Jython.
 
@@ -2929,7 +2929,7 @@ But, JDBC is not very Pythonic.
 :::
 
 ::: 
-##### [7.3.2   zxJDBC](#id83)
+###### [7.3.2   zxJDBC](#id83)
 
 zxJDBC *is* Pythonic. zxJDBC implements the Python DB API on top of JDBC. For more on the Python DB API, see [SIG on Tabular Databases in Python](http://python.org/sigs/db-sig/) and [Python Database API Specification v2.0](http://python.org/peps/pep-0249.html).
 
@@ -3016,13 +3016,13 @@ Resources:
 ::::::::::::::::
 
 ::: 
-### [8   Additional Exercises](#id84)
+#### [8   Additional Exercises](#id84)
 
 \[To be added.\]
 :::
 
 ::: 
-### [9   References and Sources](#id85)
+#### [9   References and Sources](#id85)
 
 Introductory articles:
 

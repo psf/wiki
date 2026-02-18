@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# main title
+## main title
 
 - item 1
 - item 2
@@ -14,13 +14,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - item 4
 
 ::::: 
-### title
+#### title
 
 ::: 
-#### subtitle
+##### subtitle
 :::
 
 ::: 
-#### another subtitle
+##### another subtitle
 :::
 :::::

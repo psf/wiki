@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Embedding Widgets in Web Pages 
+## Embedding Widgets in Web Pages 
 
 This example was written in preparation for the [Plugging into the Web](http://doc.qt.digia.com/qq/qq26-webplugin.html) article for Qt Quarterly 26 and posted here in response to [a message on the Python-list mailing list](http://www.riverbankcomputing.com/pipermail/pyqt/2009-June/023306.html).
 

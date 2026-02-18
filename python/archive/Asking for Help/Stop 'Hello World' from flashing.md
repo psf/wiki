@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: How do I stop the console/terminal/command line prompt from closing on Windows? 
+## Asking for Help: How do I stop the console/terminal/command line prompt from closing on Windows? 
 
 Ok so, Let\'s say I want to run a program with a simple Print(\"hello world\"). How do I stop the console/terminal/command line prompt from closing immediately after it prints? I read somewhere that I\'m supposed to find some editpythonprefs, but I don\'t know where it is\... I am on Windows 7, if that helps
 

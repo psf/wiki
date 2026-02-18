@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Oracle 
+## Oracle 
 
 URL
 
@@ -31,21 +31,21 @@ license
 platforms
 :   Unix, Linux, win32, win64
 
-## Pros 
+### Pros 
 
 - Reputation for being capable of handling large scale databases
 - Typically the database system others compare themselves to
 
-## Cons 
+### Cons 
 
 - Usually requires bloated Oracle client installation on any machine that the app will run on
 - Frequently the subject of migration discussions (to alternatives), usually for reasons of cost
 
 ------------------------------------------------------------------------
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### cx_Oracle 
+#### cx_Oracle 
 
 URL
 
@@ -67,7 +67,7 @@ Oracle versions
 Last release
 :   5.1 (March 19, 2011)
 
-### DCOracle2 
+#### DCOracle2 
 
 URL
 
@@ -90,7 +90,7 @@ DCOracle2 targets Oracle 8i and up.
 
 There also is DCOracle ([http://www.zope.org/Products/DCOracle/](http://www.zope.org/Products/DCOracle/)) for the older Oracle 7 and 8 versions, but this is unmaintained.
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -107,7 +107,7 @@ Python versions
 
 mxODBC is compatible with the Oracle ODBC drivers on Windows and Unix, such as the ones included in the [Oracle Instant Client](http://www.oracle.com/technology/tech/oci/instantclient/index.html).
 
-### pyodbc
+#### pyodbc
 
 URL
 
@@ -126,7 +126,7 @@ Actively maintained Open Source project.
 
 Precompiled binaries are available for Windows. RedHat Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
 
-### OJDBC and JayDeBeApi 
+#### OJDBC and JayDeBeApi 
 
 URL
 
@@ -159,7 +159,7 @@ No [InstantClient](./InstantClient.html) required. Download an Oracle JDBC drive
 :::
 ::::
 
-### mxODBC Connect 
+#### mxODBC Connect 
 
 URL
 
@@ -182,13 +182,13 @@ mxODBC Connect Server is compatible with the [Oracle Instant Client](http://www.
 
 ------------------------------------------------------------------------
 
-## Supported Python Applications 
+### Supported Python Applications 
 
 - [Zope](../web/Zope)
 
 - an Oracle (DCOracle and DCOracle2) driver exists for [PyDO](../archive/PyDO) (Python Data Objects)
 
-## Web Links 
+### Web Links 
 
 [Oracle Forum](http://www.orafaq.com/forum)
 

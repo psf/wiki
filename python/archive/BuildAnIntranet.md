@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Build an Intranet 
+## Build an Intranet 
 
 For an intranet solution for a company or organisation of almost any size, the processes might look something like this:
 

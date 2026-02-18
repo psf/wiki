@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Jython modules 
+## Jython modules 
 
 [JythonFaq]()
 
 ------------------------------------------------------------------------
 
-## What parts of the Python library are supported? 
+### What parts of the Python library are supported? 
 
 The good news is that Jython now supports almost all of the standard Python library.
 
@@ -20,7 +20,7 @@ If there is some standard Python module that you have a real need for that doesn
 
 ------------------------------------------------------------------------
 
-## Can I use the python DB API from Jython? 
+### Can I use the python DB API from Jython? 
 
 Use zxJDBC which gives data database connectivity from Jython using the Python DB API 2.0 interface. For more information about using zxJDBC see:
 
@@ -32,7 +32,7 @@ Note: the use of zxJDBC is now discouraged in favour of JyJDBC. One reason for t
 
 ------------------------------------------------------------------------
 
-## Can I use the Numeric package from Jython? 
+### Can I use the Numeric package from Jython? 
 
 Take a look at at Tim Hochberg\'s Java implementation of Numeric, JNumeric.
 

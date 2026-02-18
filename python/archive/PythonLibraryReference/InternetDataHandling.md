@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# Internet Data Handling 
+## Internet Data Handling 
 
 12.1 formatter \-- Generic output formatting
 
@@ -82,7 +82,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 12.20.1 Module Contents 12.20.2 Dialects and Formatting Parameters 12.20.3 Reader Objects 12.20.4 Writer Objects 12.20.5 Examples
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How to contribute to distutils2/packaging 
+## How to contribute to distutils2/packaging 
 
 This document describes a simple workflow that makes it easy to work on a new feature for distutils2, or to track a difficult bug. It requires a basic understanding of Mercurial: clone, update, diff, commit, merge.
 
@@ -20,7 +20,7 @@ distutils1 should be considered a maintenance branch of distutils2; even for bug
 
 This page was written with the help of an old version of the [Python developers' guide](http://docs.python.org/devguide/), thanks to its authors. See also [http://mercurial.aragost.com/kick-start/en/tasks/](http://mercurial.aragost.com/kick-start/en/tasks/) for another tutorial describing the same workflow, with pictures but without packaging-specific parts, and the Mercurial wiki: [http://mercurial.selenic.com/wiki/NamedBranches](http://mercurial.selenic.com/wiki/NamedBranches)
 
-## Getting the codebase 
+### Getting the codebase 
 
 Start by creating a directory for your work and clone the Python 3.x repository:
 
@@ -31,7 +31,7 @@ Start by creating a directory for your work and clone the Python 3.x repository:
 
 You have a working Python, let's start hacking!
 
-## Starting a branch 
+### Starting a branch 
 
 Start a new named branch with this command:
 
@@ -47,7 +47,7 @@ If you have many named branches to work on many bugs in parallel, you can push a
 
 A variation of this workflow uses multiple clones. I tend to work on more than one bug at a time, and often have uncommitted changes for a work in progress, so switching between named branches in the same clone would not work. (I also fear that `make` could think that all files are new and recompile everything needlessly.) So to start working on a patch, I first make a copy of my local clone (`hg clone py3k add-magic`) and then create a branch for easy patch tracking as described above.
 
-## Hacking 
+### Hacking 
 
 You can work on your feature or bug and commit as needed. The distutils2 code lives in Lib/packaging and its documentation in Doc/packaging, Doc/install and Doc/library/packaging.\* Some bugs also require editing modules like site or sysconfig, or their documentation. Ideally, the first step is to write a test that fails, thus demonstrating the bug, and then change the code to make the test pass.
 
@@ -59,7 +59,7 @@ For distutils2, each bug fix should have a test, and each new feature should hav
 
 - [Python mentors](http://mail.python.org/mailman/listinfo/core-mentorship)
 
-## Staying in sync 
+### Staying in sync 
 
 To make sure that your branch does not get out of sync, which means that the final diff could not be applied, remember to pull and merge new changesets regularly:
 
@@ -76,7 +76,7 @@ The next step is the merge itself::
 
 Using `hg branch` or `hg id` is a good way to make sure your working copy is a checkout of the right branch. `hg merge default` is the command that lets you incorporate changes from upstream into your local copy. If nobody edited the same files on the same lines, Mercurial will merge everything automatically; otherwise, you will have to resolve the conflicts with the merge tool that you configured and that Mercurial launches for you.
 
-## Sharing your work 
+### Sharing your work 
 
 If you don't have a favorite Mercurial hosting yet, the easiest is to use Bitbucket. Log in and visit [http://bitbucket.org/python_mirrors/cpython/fork](http://bitbucket.org/python_mirrors/cpython/fork) to create a server-side clone; select "default" in the dropdown menu labeled "fork at" before submitting, otherwise you will get the Python 2.7 branch, which you don't need. Then you can push the changesets from your named branch:
 
@@ -97,13 +97,13 @@ Now `hg push` without arguments will push new changesets to your Bitbucket clon
 
 After you've pushed, another developer can clone your repo to work with you on your branch, or you can automatically add a patch to the Python bug tracker. Let's try this one.
 
-## Mercurial-Roundup integration 
+### Mercurial-Roundup integration 
 
 On each bug page, there is a [field](http://docs.python.org/devguide/triaging#mercurial-repository) called "Remote hg repo"; add the HTTP URI of your clone on Bitbucket, with the branch name after a `#` sign, like `http://bitbucket.org/yourname/cpython#mywork`. After this, simply pushing the "Create Patch" button will generate a diff between the default branch of the official repo and the head of your named branch. Anyone with a Roundup account can now follow the link labeled "review" to see the patch and make comments. You can then address this comments with a new commit in your repo, push to your public clone, and "Create Patch" again.
 
 Don't be worried about the review: Even experienced core developers have their patches sent back to them for changes. Getting a review is a sign that your work is noticed and that progress is made towards including it in the official repository. Reply to feedback about the changes, update your patch, ping the maintainers (automatically subscribed to distutils and distutils2 bugs) as needed.
 
-## The end 
+### The end 
 
 When your patch is in a good shape, a Python core developer can take the patch, apply it in the default branch of a cpython clone and push it. You can now use `hg commit --close-branch` to hide your branch. If you were using a second clone, you can delete it to save some disk space.
 

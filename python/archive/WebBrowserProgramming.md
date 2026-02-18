@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Web Browser Programming in Python 
+## Web Browser Programming in Python 
 
 TODO: merge in and research these, found on comp.lang.python
 
@@ -34,7 +34,7 @@ To clarify what type of technology goes onto this page, some examples of types o
 
 This latter example requires some further explanation: Pyjamas, for example, is a Python-to-[JavaScript](./JavaScript.html) compiler that can include inline [JavaScript](./JavaScript.html). So, although the input to Pyjamas is part Python, part [JavaScript](./JavaScript.html), the output is pure [JavaScript](./JavaScript.html) that runs in a web browser, and so any such \"mixed\" language libraries should be included on this page.
 
-## Python-to-JavaScript Compilers 
+### Python-to-JavaScript Compilers 
 
 These are tools that convert Python into [JavaScript](./JavaScript.html), that can then be run either stand-alone, using technology such as Spidermonkey, Google\'s V8 engine (for example, using [pyv8](http://code.google.com/p/pyv8)), or in a web browser (where, in order to be useful, the applications must of course interface with the DOM model of the browser, typically using an AJAX library).
 
@@ -60,7 +60,7 @@ or by a Javascript program, with the Python code translated and run on the fly b
 
 - [Brython](https://brython.info/index.html) is a Python 3 implementation that runs in a browser, providing \<script type=\"text/python\"\>\...\</script\>.
 
-## Embedding Python inside Web Browsers 
+### Embedding Python inside Web Browsers 
 
 This section describes projects where a Python interpreter itself has been embedded into the web browser. Instead of downloading the standard Python executable and libraries, these projects come with the CPython runtime and libraries pre-embedded (and, as such, are typically very large downloads).
 
@@ -72,7 +72,7 @@ This section describes projects where a Python interpreter itself has been embed
 
 - [Firebreath](https://github.com/Nitrogenycs/firebreath-x) is an NPAPI plugin that extends access to the full features of DOM programming out to other programming languages, including python.
 
-## Python Wrappers around Web \"Libraries\" and Browser Technology 
+### Python Wrappers around Web \"Libraries\" and Browser Technology 
 
 This section describes projects where you can (or have to) create your own web browser application in Python. It includes web browser \"engines\" that have Python interfaces to access, control and present web pages and web-relevant rich media content (such as Adobe Flash).
 
@@ -94,7 +94,7 @@ This section describes projects where you can (or have to) create your own web b
 
 - python-wxWebKit is beginning to provide Python access to DOM model manipulation - via python bindings that are auto-generated using SWIG. The goal of the project is to provide full access to the entire DOM model, and this goal is, as of May 2011, approximately 25% completed.
 
-## Python Wrappers around Web Browser \"Test Suite\" Libraries 
+### Python Wrappers around Web Browser \"Test Suite\" Libraries 
 
 This section describes projects where you can test web applications, initiated from the command-line with python bindings.
 

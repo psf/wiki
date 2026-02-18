@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Python Job Board: Relaunch Project 
+## PSF Python Job Board: Relaunch Project 
 
 The jobs board relaunch project was started early in 2014 and completed early in 2015, taking much longer than expected due to issues we found with the jobs app implementation in the new python.org website, which was launched in 2014.
 
@@ -18,7 +18,7 @@ The Python job board was run by single volunteers for many years. Since the job 
 
 At the same time, we\'d like to move the job board from the legacy site to the new relaunched [http://www.python.org/](http://www.python.org/) Django based site.
 
-## Old job board process 
+### Old job board process 
 
 *Please note that this description may not be completely correct. It just describes the process based on the how-to document.*
 
@@ -37,7 +37,7 @@ Page cleanup:
 - entries older than three months were regularly removed
 - filled positions were removed upon request by the job submitter
 
-## New job board process 
+### New job board process 
 
 *Please note that this process is just a sketch. It may well change and get more refinements in coming weeks.*
 
@@ -74,7 +74,7 @@ What we need:
 - team members who can help interface to the Django site maintainers, e.g.review and process pull requests, issue tickets in case of problems with the site
 - team members who lead the groups and signal problems to the PSF board, should any arise
 
-## Jobs app design 
+### Jobs app design 
 
 The jobs Django app is already available, but not yet complete.
 
@@ -97,7 +97,7 @@ These will then be distilled into feature requests / implementation phases on th
 
 - [../Jobs App Feature Requests](Jobs App Feature Requests)
 
-### Job Model Reference 
+#### Job Model Reference 
 
 Notes on how various field in the database should be updated:
 
@@ -109,9 +109,9 @@ Notes on how various field in the database should be updated:
 
 - **Status**: The first person to migrate it should mark it as \"review\". Someone else should double-check and mark as \"approved\". Ones submitted by external users should be \"draft\" if no one has looked at it yet.
 
-## Project organization 
+### Project organization 
 
-### Roles 
+#### Roles 
 
 We have so far identified these roles in the team:
 
@@ -125,7 +125,7 @@ We will also need leaders of both groups and possibly an overall project lead to
 
 Once established, we should transfer the project into a regular PSF work group.
 
-### Mailing list 
+#### Mailing list 
 
 The project is run using a mailing list dedicated for the team:
 
@@ -141,15 +141,15 @@ Here\'s the mailing list archive with our current job submission backlog:
 
 The last processed job submission is dated 12-Feb-2014.
 
-### Issue tracker 
+#### Issue tracker 
 
 - [python.org site\'s issue tracker](https://github.com/python/pythondotorg/issues)
 
 Please open tickets for any problems you find with the jobs app. The tickets should be labeled as \"job board\", if possible (github restricts using labels). If not possible, please prefix the ticket title with \"JB:\" or use \"job board\" in the title. We can then add labels after ticket creation.
 
-## Resources 
+### Resources 
 
-### New job board 
+#### New job board 
 
 - [Job board temporary installation](http://www.python.org/newjobs/) on the production site. This is a temporary location of the new Python job board, run using Django and backed by a database.
 
@@ -169,7 +169,7 @@ The project\'s fork of the main python.org site repo is no longer used and just 
 
 - [Python Jobs Board Issue Tracker](https://github.com/python-jobs-board/pythondotorg/issues?state=open) This is the tracker we were using for the jobs app development. Development has now (2015) moved back to the main python.org repository.
 
-### Old job board 
+#### Old job board 
 
 - [Job board listing ported from the legacy site](http://www.python.org/community/jobs/) This is a single page which has to be manually maintained via the Django admin interface.
 
@@ -177,13 +177,13 @@ The project\'s fork of the main python.org site repo is no longer used and just 
 
 - [Job board how-to explaining the process that was used for the legacy site](http://legacy.python.org/community/jobs/howto/)
 
-### Web site administration 
+#### Web site administration 
 
 - [Django admin interface of the new site](https://www.python.org/admin/)
 
 - [New site\'s issue trackers](https://github.com/python/pythondotorg/issues) If you find problems with the job app, please open tickets on this tracker.
 
-### Web site code base 
+#### Web site code base 
 
 - [Github repository of the new site](https://github.com/python/pythondotorg)
 

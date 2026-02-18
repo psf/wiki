@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 I ask for help about an error I recieved in the tutorial of Hunt the Wumpus in the Hello! Python guide book
 
-# Asking for Help: \... 
+## Asking for Help: \... 
 
 Hello. my name is Jonmark, and I recieved the Hello! Python book as a gift in order to learn programming. I strated working, and right at the beginning, at the part where you create your first program, the basic version Hunt the Wumpus game. I copied the the written text, made the required modifications and right when I was about to finish the program (I know its to big of a word for that basic game), the command line told that at the last line (see the program code) the is an error. it said: \"SyntaxError: \'break\' outside loop\". I tried for some time to modifie the statement with the meager knowledge I possess of the Python language but at the time of the writing, I held no success. can anyone aid me in this dire of times? thank you in advance, Jonmark
 

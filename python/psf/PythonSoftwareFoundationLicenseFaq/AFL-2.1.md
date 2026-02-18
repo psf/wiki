@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Academic Free License v. 2.1 
+## Academic Free License v. 2.1 
 
 This Academic Free License (the \"License\") applies to any original work of authorship (the \"Original Work\") whose owner (the \"Licensor\") has placed the following notice immediately following the copyright notice for the Original Work:
 

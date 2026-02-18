@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Removing a database 
+## Removing a database 
 
 On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `munny`{.backtick} asked about removing a database without getting the warning: \"QSqlDatabasePrivate::removeDatabase: connection \'\...\' is still in use, all queries will cease to work.\" or similar.
 

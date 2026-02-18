@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Preliminary DC-area surveys 
+## Preliminary DC-area surveys 
 
 Please add information here that you have obtained from specific venues. Where possible please include contact details for your sources of information, and **add your own identity**.
 
@@ -29,7 +29,7 @@ Please add information here that you have obtained from specific venues. Where p
   - There are rooms that hold 100 - 250 people, including the colony ballroom
   - Recommended talking to UMUC, as it is more self contained and perhaps more appropriate. Am waiting on a callback from Stamp Union.
 
-# Other possibilities 
+## Other possibilities 
 
 Some possible sites:
 

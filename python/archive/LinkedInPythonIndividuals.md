@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# LinkedIn Group Announcement 
+## LinkedIn Group Announcement 
 
 Please note that **a LinkedIn group has been formed**. If you are not yet a member, please visit the [LinkedIn Group \"Python Community\"](http://www.linkedin.com/e/gis/25827/3B50BC189075). This makes it easier to separate Python individuals (some maybe less or unknown to you) from your \"personal\" contacts. See also the [LinkedIn Groups Members FAQ](http://www.linkedin.com/static?key=groups_faq) and [LinkedIn Groups Admin FAQ](http://www.linkedin.com/static?key=groups_faq_administrators) - (Danny W. Adair)
 
-## Doug Hellmann\'s Notes 
+### Doug Hellmann\'s Notes 
 
 If you are a Python developer with a [LinkedIn](http://www.linkedin.com/) profile, please add yourself to the list and invite the other people on the list into your connection network.
 
@@ -18,7 +18,7 @@ Just put **\"Python Individuals\"** into the field *\"Groups and Associations\"*
 
 Some of us have been using **\"Python Community\"** instead of **\"Python Individuals\"** \[Note that despite this page\'s title, the group in active use on [LinkedIn](./LinkedIn.html) is *Python Community* - SH\]
 
-## Group Membership 
+### Group Membership 
 
 This started as a list of Python developers who had a known presence on [LinkedIn](http://www.linkedin.com/) when the group was formed. Please feel free to add your own details when you have joined the group.
 

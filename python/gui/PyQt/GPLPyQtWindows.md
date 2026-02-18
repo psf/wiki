@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Getting GPLed Qt/PyQt Running on Windows 
+## Getting GPLed Qt/PyQt Running on Windows 
 
-### Note: This page has become somewhat obsolete with the release of Qt 4.x under the GPL. 
+#### Note: This page has become somewhat obsolete with the release of Qt 4.x under the GPL. 
 
 There is a new page that describes how to build [PyQt4](../PyQt4) at [BuildPyQt4Windows](../../archive/BuildPyQt4Windows).
 
-## Background 
+### Background 
 
 One of the frustrations I\'ve always had with Qt is that current versions could not be used on Windows without paying a substantial developer fee for the license. I balked at this because
 
@@ -21,12 +21,12 @@ One of the frustrations I\'ve always had with Qt is that current versions could 
 
 However, this has changed. The people over at the kde-cygwin project have taken the GPLed version of Qt and ported it to native Windows (i.e. it does not require Cygwin). As soon as I saw this, I immediately started to try and get [PyQt]() to compile against this version. Amazingly, it didn\'t take nearly as much work as I thought it would.
 
-## Requirements 
+### Requirements 
 
 - Python (version 2.3 or later)
 - A Windows compiler suite. Either Borland, MinGW, MS VC++ 6.0, or MS VS.NET
 
-## The process 
+### The process 
 
 - **\* 1) Install Qt from the [qt-win](http://qtwin.sourceforge.net/qt3-win32/index.php) (formally kde-cygwin) project**
 

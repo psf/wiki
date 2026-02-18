@@ -6,12 +6,12 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Support Center for Usergroups
+## Support Center for Usergroups
 
 > - [Usergroup Support Committee](http://wiki.python.org/moin/Advocacy/UsergroupSupport/Committee)
 
 ::: 
-### Flyers and Brochures for Promoting Your Usergroup
+#### Flyers and Brochures for Promoting Your Usergroup
 
 > - 
 >
@@ -33,7 +33,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### Welcoming Kit for New Usergroups
+#### Welcoming Kit for New Usergroups
 
 > - Whitepaper - [What is Python?](http://wiki.python.org/moin/AdvocacyWritingTasks/WhatIsPython)
 > - Whitepaper: [A Guide to Planning Your Usergroup](http://wiki.python.org/moin/AdvocacyWritingTasks/StartingAUserGroup)
@@ -43,7 +43,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 :::
 
 ::: 
-### See also
+#### See also
 
 > - [PythonSpeakers](http://wiki.python.org/moin/PythonSpeakers)
 > - [Group-Organizers Mailing List](http://mail.python.org/mailman/listinfo/group-organizers)

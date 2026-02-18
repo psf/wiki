@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #4 
+## IRC Meeting #4 
 
-## Time/Location 
+### Time/Location 
 
 The meeting will *probably* take place on Wednesday 28th of March (2007-03-21) 18:00 CEST (17:00 BST, 16:00 UTC/GMT) in the #europython channel on freenode.net. *That\'s 5pm UK time, 6pm in most of Western Europe.*
 
-## Agenda 
+### Agenda 
 
 No agenda yet. Suggestions:
 

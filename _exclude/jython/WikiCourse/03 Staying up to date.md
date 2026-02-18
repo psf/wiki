@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiCourse(2f)03(20)Staying(20)up(20)to(20)date.html?action=print&media=projection) [\^](WikiCourse) [\|\<](./WikiCourse(2f)01(20)What(20)is(20)a(20)MoinMoin(20)wiki(3f).html) [\<\<](./WikiCourse(2f)02(20)Finding(20)information.html) Slide 3 of 27 [\>\>](./WikiCourse(2f)04(20)Creating(20)a(20)wiki(20)account.html) [\>\|](./WikiCourse(2f)52(20)Structure(20)in(20)the(20)wiki.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Staying up to date 
+## Staying up to date 
 
 In a wiki, lots of things can change in a short time, since anyone can edit, add, or remove pages at any time.
 

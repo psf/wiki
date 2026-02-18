@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Tahoe Mentors for GSOC 2009 
+## Tahoe Mentors for GSOC 2009 
 
 Brian Warner (warner-tahoe at allmydata dot com)
 

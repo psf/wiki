@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# The Python Wiki 
+## The Python Wiki 
 
 Welcome to the Python Wiki, a user-editable compendium of knowledge based around the Python programming language. Some pages are protected against casual editing - see [WikiEditingGuidelines](../archive/WikiEditingGuidelines) for more information about editing content.
 
@@ -20,7 +20,7 @@ Python combines remarkable power with very clear syntax. It has modules, classes
   ------------------------------------------------- ------------------------------------------------------- --------------------------------------------- ------------------------------------------------ ----------------------------------------------------------
 :::
 
-## Getting Started 
+### Getting Started 
 
 ::: {}
 +---------------------------------------------------------------------+-----------------------------------------------------------------+
@@ -46,7 +46,7 @@ Python combines remarkable power with very clear syntax. It has modules, classes
 +---------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-## Events, Courses, Conferences, Community 
+### Events, Courses, Conferences, Community 
 
 - [Python Discussion Forums](../archive/PythonDiscussions) - if you want to meet people online, ask questions or discuss new ideas
 
@@ -66,7 +66,7 @@ Python combines remarkable power with very clear syntax. It has modules, classes
 
 - [Find a job where you can use Python](../archive/PythonJobs) - Python job boards around the world
 
-## Python Software 
+### Python Software 
 
 ::: {}
   ------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------
@@ -80,7 +80,7 @@ Python combines remarkable power with very clear syntax. It has modules, classes
   ------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------
 :::
 
-## Python Core Development Tools 
+### Python Core Development Tools 
 
 ::: {}
   --------------------------------------------------- ------------------------------------------------------------------

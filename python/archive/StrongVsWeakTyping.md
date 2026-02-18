@@ -13,7 +13,7 @@ The following text is a summary by clips from posts in a thread on comp.lang.pyt
   Subject: strong/weak typing and pointers\
   Date: 28 Oct 2004 16:17:15 GMT Is it correct to say that strong/weak typing does not make a difference if one does not use any pointers (or adress-taking operator)? More concretely, I am thinking particularly of Python vs C++. So, are there any examples (without pointers, references, or adress-taking), which would have a different result in Python and in C++?
 
-# Definitions 
+## Definitions 
 
 GZ:
 
@@ -38,7 +38,7 @@ Definition 2 seemed to be the definition most commonly used on the list, most li
 
 Definition 3 was an attempt to unify the first two definitions into a single definition by describing both coercion and bit-reinterpretation as treating \"objects of one type as other types\". This definition has the advantage of better coverage, but has all the disadvantages of Definition 2. It is also unclear as to how weak a \"weakly-typed\" language is if it both allows bit-reinterpretation and has a large number of implicit coercions. (For example, is a language that allows bit-reinterpretation and only a few implicit coercions more or less \"weakly-typed\" than a language that doesn\'t allow bit-reinterpretation, but has a large number of implicit coercions?)
 
-# Definition based on number of type coercions 
+## Definition based on number of type coercions 
 
 From: Andrea Griffini \<[agriff@tin.it](mailto:agriff@tin.it)\>
 
@@ -71,7 +71,7 @@ From: [mwilson@the-wire.com](mailto:mwilson@the-wire.com) (Mel Wilson)
 
 One effect of weak typing is to put more reliance on operators. In Perl, for instance the string operator `lt`{.backtick} does a string compare to find that \"10\" is less than 2 (lexically) and the numeric operator `<`{.backtick} finds that \"10\" is not less than 2 (numerically). Nothing to do with pointers at all.
 
-# Definition based on reinterpretation 
+## Definition based on reinterpretation 
 
 From: Jorgen Grahn \<[jgrahn-nntq@algonet.se](mailto:jgrahn-nntq@algonet.se)\>
 
@@ -184,7 +184,7 @@ This doesn\'t mean that Python has suddenly become a weakly-typed language. It j
 
 Basically you would say that the more implicit coercions a language performs, the more weakly typed it is. This diverges from the common use of the terms strong and weak typing in the PL literature, which is why I was confused.
 
-# Justification for weak typing 
+## Justification for weak typing 
 
 From: Mike Meyer \<[mwm@mired.org](mailto:mwm@mired.org)\>
 
@@ -218,7 +218,7 @@ Given a float, extract the (so-called) \"mantissa\" (what a misnomer!) and expon
 
 Say I need to compute some unary float function, such as \'sin\', with high speed and precision. One reasonable approach: normalize the float input to a standard range (say 0 to pi/4, remembering what kind of sign inversions &c you need to perform at result time); get \"mantissa\" (pah!) and exponent and use the latter, partly to select the right lookup table and partly to shift the mantissa appropriately to make it an index into said result table, while keeping track of the bits that shifted out; read out the result base and the multiplier for interpolation, multiply the latter by the bits that shifted out and add the result to the result base; perform sign or other symmetry inversions as previously recorded.
 
-# Comparisons 
+## Comparisons 
 
 From: Steven Bethard \<[steven.bethard@gmail.com](mailto:steven.bethard@gmail.com)\>
 

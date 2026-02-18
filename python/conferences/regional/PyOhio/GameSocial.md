@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Game Social 
+## Game Social 
 
 I\'ll be bringing some board/card games. Perhaps on Saturday evening if folks are tired from sprinting, we might start up a fun game to socialize. This could be done either at the conference hall or the hotel. Details will likely emerge onsite and announced on here, on twitter and IRC.
 
-## The following games will be brought: 
+### The following games will be brought: 
 
 - [Power Grid](http://en.wikipedia.org/wiki/Power_Grid_(board_game)) - (William McVey)
 
@@ -40,6 +40,6 @@ I\'ll be bringing some board/card games. Perhaps on Saturday evening if folks ar
 
 - [Killer Bunnies](http://www.boardgamegeek.com/boardgame/3699) (all sets) - (Sarah Dutkiewicz)
 
-### Requests 
+#### Requests 
 
 (I hope someone brings [Dominion](http://boardgamegeek.com/boardgame/36218) or [To Court The King](http://boardgamegeek.com/boardgame/21632). I do not own them. -Matt)

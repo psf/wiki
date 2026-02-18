@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Nearby states are Illinois, Wisconsin, Michigan, Indiana, Iowa.
 
-# Places to send the CFP 
+## Places to send the CFP 
 
-## Local user groups 
+### Local user groups 
 
 - Chicago Java user group (done)
 
@@ -24,7 +24,7 @@ Nearby states are Illinois, Wisconsin, Michigan, Indiana, Iowa.
 
 - [PHP User Group](http://chiphpug.php.net/contact.php) (done)
 
-## Local CS departments 
+### Local CS departments 
 
 - [UIC](http://www1.cs.uic.edu/CSweb/public/home.php?audience=public&label=) (done)
 
@@ -38,7 +38,7 @@ Nearby states are Illinois, Wisconsin, Michigan, Indiana, Iowa.
 
 - [U. of Northern Illinois](http://www.cs.niu.edu/) (done)
 
-## Women in Technology 
+### Women in Technology 
 
 - Linuxchix (done)
 

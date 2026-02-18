@@ -8,10 +8,10 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [ClePy](http://www.clepy.org) (Cleveland Area Python Interest Group) is creating a bid for hosting [PyCon](PyCon) 2010 and 2011.
 
-# Conference Bid Staff 
+## Conference Bid Staff 
 
 - [David Stanek](http://www.traceback.org)
 
-# Proposal 
+## Proposal 
 
 Getting this together as you are reading\...

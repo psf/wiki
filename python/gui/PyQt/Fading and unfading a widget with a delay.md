@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Fading and unfading a widget with a delay 
+## Fading and unfading a widget with a delay 
 
 On the PyQt mailing list, [Tim and Alison Bentley](http://www.riverbankcomputing.com/pipermail/pyqt/2009-November/025007.html) asked for a way to produce a fade-unfade animation.
 

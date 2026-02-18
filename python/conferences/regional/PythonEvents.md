@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Events around the World 
+## Python Events around the World 
 
 The following is a list of Python related events that are occurring around the world or online.
 
-## Event Listings 
+### Event Listings 
 
 - For conference and user group events, please see the [PythonEventsCalendar](PythonEventsCalendar) page for details. The calendars are available on the python.org website as:
 
@@ -28,9 +28,9 @@ The following is a list of Python related events that are occurring around the w
 
 - [TechVenue.com](http://calendars.techvenue.com/cgi-bin/techvenue.pl?CalendarName=Python) has another calendar of Python events that includes regularly scheduled user-group meetings.
 
-## Pointers 
+### Pointers 
 
-### Python Conferences 
+#### Python Conferences 
 
 See the [Python Conferences](PythonConferences) page for a general overview of the different Python conferences.
 
@@ -38,17 +38,17 @@ If you want to organize a conference or event in your city or community, read [o
 
 Looking for speakers at various events? Check out the [list of Python speakers](../../archive/PythonSpeakers)!
 
-### Python Training 
+#### Python Training 
 
 Looking for a complete list of Python training options? Check out the [Python training](../../archive/PythonTraining) page!
 
 If you want to set up your own training event, refer to the [Python Training](../../archive/PythonTraining) page on this site and add training dates to the [PythonTraining/Events](../../archive/PythonTraining/Events) page. You can also add yourself to [Cameron Laird\'s](../../people/CameronLaird) page of [Python trainers](http://phaseit.net/claird/comp.lang.python/python_training.html).
 
-### Python User Groups 
+#### Python User Groups 
 
 Also see the [local user groups](../../community/LocalUserGroups) list for recurring local events.
 
-## Calendar 
+### Calendar 
 
 *This section is kept around for backwards compatibility*
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# IRC Meeting #1 
+## IRC Meeting #1 
 
-## Time/Location 
+### Time/Location 
 
 The meeting took place on Monday 28th January 2008 at 1900 CET in the #europython channel on freenode.
 
-## Minutes 
+### Minutes 
 
 - Dates of the conference were discussed, and despite conflicting with GUADEC, most people were happy with **7th-12th July**. Aiste was to confirm the agreed dates and venue with the hotel (Reval Hotel Lietuva). **This was confirmed the following day.**
 
@@ -47,7 +47,7 @@ The meeting took place on Monday 28th January 2008 at 1900 CET in the #europytho
 
 - Sponsorship will be discussed in a subsequent meeting.
 
-## Minutes 
+### Minutes 
 
 These minutes were written by John and sent to Laura:
 

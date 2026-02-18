@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# How to Expose Python Types from Java
+## How to Expose Python Types from Java
 
 ::: 
 Contents
@@ -21,13 +21,13 @@ Contents
 :::
 
 ::: 
-### [Introduction](#id1)
+#### [Introduction](#id1)
 
 Starting in Jython 2.5, Python types are exposed from Java code by adding several different annotations to fields and methods on the Java class to define the fields and methods that will be visible on the resulting Python type. A bytecode processor then adds code to the compiled class to build the type\'s dict and descriptors. An Ant task, `org.python.expose.generate.ExposeTask`, handles finding the classes to expose, running the processor on them, and writing them back out. This document describes how to use this type exposing system.
 :::
 
 ::: 
-### [Adding \@ExposedType and generating bytecode](#id2)
+#### [Adding \@ExposedType and generating bytecode](#id2)
 
 The first step in exposing a class is to use the `org.python.expose.ExposedType` annotation on the actual class to indicate that it should be exposed. This annotation goes on the class itself and has three optional fields. The first, `name`, defines what the type will be called in Python. If it isn\'t specified, the type\'s name is just assumed to be the same as the Java class name. The second field, `base`, indicates the base type this type extends. It must be another Java class that\'s likewise been annotated with `@ExposedType` and sets up the type hierarchy in Python. If unspecified, it\'s assumed that this type extends from the base newstyle Python type, `object`. Unlike classes defined in Python code, types defined in Java can only use single inheritance. The third, `isBaseType`, defines if this type can be subclassed from Python code. When unspecified this value defaults to true. Any type defined in CPython that lacks a Py_TPFLAGS_BASETYPE bit in its tp_flags should have isBaseType set to false in Jython.
 
@@ -35,7 +35,7 @@ Once the class has `@ExposedType` on it, it can be fed into the type bytecode pr
 :::
 
 ::: 
-### [Exposing methods with \@ExposedMethod](#id3)
+#### [Exposing methods with \@ExposedMethod](#id3)
 
 To actually add methods to the type, they need to be exposed with `org.python.expose.ExposedMethod`. `@ExposedMethod` can be applied to non-static methods on the class that are public, protected or package protected. When the bytecode processor encounters an `@ExposedMethod`, it generates a new inner class extending PyMethodDescriptor that simply calls the annotated method when bound. Because it\'s being called from a method descriptor, and Python method descriptors are available on types regardless of their location in the inheritance hierarchy, it\'s generally **a good idea to make exposed methods final**. This ensures that subclasses won\'t override the behavior of the method, so the descriptor always calls the same code when accessed directly off of the type. Also, exposed methods should avoid to call other virtual methods, directly or indirectly, unless the interactions with subclasses overriding the invoked methods are clearly documented and understood.
 
@@ -60,13 +60,13 @@ The final field on `@ExposedMethod` is `type`. This field takes one of three Met
 :::
 
 ::: 
-### [Exposing fields with \@ExposedGet, \@ExposedSet and \@ExposedDelete](#id4)
+#### [Exposing fields with \@ExposedGet, \@ExposedSet and \@ExposedDelete](#id4)
 
 A trio of annotations are used to expose a field on a type, each handling a different aspect of accessing the field. `@ExposedGet` takes care of read access. It can be applied to a method that takes no arguments and returns a value, or to a field. If on a method, that method will be called every time read access is made on that field on instances of the type. If on a field, the descriptor will just directly access that field on the instance and return it. `@ExposedSet` can also be applied to a field or a method. If used on a method, the method must take a single argument of the same type as the `@ExposedGet` with the same name. `@ExposedDelete` is only allowed on methods that return void and take no arguments. If specified, when `del typeinstance.fieldname` is invoked in Python, that delete method will be called. Neither `@ExposedDelete` or `@ExposedSet` can be used if an `@ExposedGet` of the same doesn\'t exist on the type. The names of the exposed field can be specified as `name` in the annotation, or if that isn\'t specified the name is taken directly from the name of the field or method.
 :::
 
 ::: 
-### [Making the type instantiable with \@ExposedNew](#id5)
+#### [Making the type instantiable with \@ExposedNew](#id5)
 
 The final step in making a Java class usable as a Python type is to make the type instantiable by adding a `__new__` method to it. This is done with the `@ExposedNew` annotation. If there is no `@ExposedNew` in the class, the type won\'t be instantiable from Python. It can still be created from Java by calling its constructors directly. See `org.python.core.PyNone` for an example of this. However in most cases, a type should be creatable from Python so it needs an `@ExposedNew`. There are two ways it can be used, a simple way for types that allow their subtypes to completely override the `__new__` process, and a more complicated version for types that need to have their `__new__` invoked by every subclass.
 
@@ -78,7 +78,7 @@ With either form, there can be only one `@ExposedNew` per class.
 :::
 
 ::: 
-### [Post-processing](#id6)
+#### [Post-processing](#id6)
 
 Exposing Python types involves creating classes that the class loader can find, and then (as above) calling PyType.fromClass() on some Class. The classes get created by the ExposedTypeProcessor class in org.python.expose.generate, but as of this writing (r5593), these classes are not included in the Jython jar. It is intended that eventually ExposedTypeProcessor and related classes will be shipped separately, as a support jar. Your build.xml should also have a clause that runs the ExposeTask on the relevant classes, like this:
 
@@ -97,7 +97,7 @@ Exposing Python types involves creating classes that the class loader can find, 
 :::
 
 ::: 
-### [See also](#id7)
+#### [See also](#id7)
 
 [GeneratedDerivedClasses](GeneratedDerivedClasses).
 :::

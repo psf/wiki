@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Maintainer MVP Milestone discussion 
+## Maintainer MVP Milestone discussion 
 
 Sync-up, bug triage, and discussion of Maintainer MVP delivery date
 
 January 29, 2018
 
-## Summary 
+### Summary 
 
 We\'re tentatively saying the Maintainer MVP milestone will be ready Feb. 28th, 2018.
 
@@ -25,7 +25,7 @@ Present:
 - Dustin Ingram
 - Mark Mangoba
 
-## Current work 
+### Current work 
 
 What are you working on? Any blockers?
 
@@ -61,7 +61,7 @@ What are you working on? Any blockers?
 
   - Blocked on discussing: promotion to testers, media, schedule, & landing page for Warehouse testers.
 
-## Bug triage 
+### Bug triage 
 
 What milestone does each issue belong in?
 
@@ -85,7 +85,7 @@ What milestone does each issue belong in?
 
   - Dustin and Nicole agreed this belongs in Maintainer MVP.
 
-## Maintainer MVP milestone work remaining 
+### Maintainer MVP milestone work remaining 
 
 Schedule and decide tentative deadline for [first milestone](https://github.com/pypa/warehouse/milestone/8)
 
@@ -95,7 +95,7 @@ Schedule and decide tentative deadline for [first milestone](https://github.com/
 
 Summary: we expect to have the Maintainer MVP milestone out by Feb. 28th.
 
-## To Do 
+### To Do 
 
 - Sumana:
   - note on [issue 2809](https://github.com/pypa/warehouse/issues/2809) that it needs discussion.

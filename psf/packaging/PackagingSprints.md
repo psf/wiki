@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Join us at sprints! 
+## Join us at sprints! 
 
 We welcome package maintainers, backend and frontend web developers, infrastructure administrators, technical writers, and testers to join us at sprints to help us make the new PyPI, and [the entire packaging/distribution toolchain](https://packaging.python.org/key_projects/#pypa-projects), as usable and robust as possible.
 
@@ -16,19 +16,19 @@ Newcomers are usually welcome \-- we\'ll help you learn and contribute!
 
 Members of the Packaging Working Group and the Python Packaging Authority will be at these sprints/events:
 
-## Upcoming events 
+### Upcoming events 
 
-### EuroPython 2020 
+#### EuroPython 2020 
 
 [July 25-26, online](https://wiki.python.org/moin/EuroPython2020/PackagingSprint). More info coming soon; see [sprint wiki page](https://wiki.python.org/moin/EuroPython2020/PackagingSprint)!
 
-### And\... 
+#### And\... 
 
 You\'re free to plan another one! Probably good to announce it on [https://discuss.python.org/](https://discuss.python.org/) .
 
-## Past events 
+### Past events 
 
-### Pre-PyGotham sprint day and night, autumn 2019 
+#### Pre-PyGotham sprint day and night, autumn 2019 
 
 **Dates**: Thursday, 3 October 2019
 
@@ -118,7 +118,7 @@ link to slide re Warehouse: [https://docs.google.com/presentation/d/1OV_LjtPxeO5
 
 link to in-toto slides: [http://bit.ly/30FXC4N](http://bit.ly/30FXC4N)
 
-### June 2019 NYC sprint day 
+#### June 2019 NYC sprint day 
 
 **Dates**: Saturday, 9 June 2019
 
@@ -137,9 +137,9 @@ Twine, pip, Warehouse; review some open pull requests, triage bugs to find ones 
 
 (If you have never contributed to Python packaging/distribution tools before, and you want to start, this is probably not the best event for you; let me know, and I\'ll set up a more introductory event in the future.)
 
-### PyCon North America 2019 
+#### PyCon North America 2019 
 
-### Sprint 
+#### Sprint 
 
 **Dates**: [May 6-9, 2019, at PyCon North America in Cleveland, Ohio, USA](https://us.pycon.org/2019/community/sprints/)
 
@@ -191,7 +191,7 @@ See [http://bit.ly/pypa2019 (Google Doc)](https://docs.google.com/document/d/1Wz
 
 - Talking with Anaconda engineers about conda/pip compatibility, pip resolver reuse, etc.
 
-### PyPA October 2018 sprint at Bloomberg 
+#### PyPA October 2018 sprint at Bloomberg 
 
 **Dates**: Sponsored and hosted by [Bloomberg](https://www.techatbloomberg.com/), October 27-28, 2018, simultaneously in London and New York City. We hope mentors can arrive Thursday night 25 Oct, do prep, setup, and dinner on Friday, then participate Sat-Sun, then leave Sunday evening or Monday.
 
@@ -221,9 +221,9 @@ Thanks to Bloomberg folks Mario Corchero and Henry Kleynhans in London and Kevin
 - next version of virtualenv
 - More
 
-### PyCon North America 2018 
+#### PyCon North America 2018 
 
-### Sprint 
+#### Sprint 
 
 **Dates**: [May 14-17, 2018, at PyCon North America in Cleveland, Ohio, USA](https://us.pycon.org/2018/community/sprints/)
 
@@ -303,7 +303,7 @@ Thanks to Bloomberg folks Mario Corchero and Henry Kleynhans in London and Kevin
 
 - Talking with Anaconda engineers about conda/pip compatibility, pip resolver reuse, etc.
 
-### EuroPython 2018 
+#### EuroPython 2018 
 
 **Dates**: [EuroPython in Edinburgh, Scotland, July 28 & 29, 2018](https://ep2018.europython.eu/)
 
@@ -321,7 +321,7 @@ Thanks to Bloomberg folks Mario Corchero and Henry Kleynhans in London and Kevin
 
 - Frontend improvements
 
-### April 2018: NYC Python/PyLadies Sprint Night 
+#### April 2018: NYC Python/PyLadies Sprint Night 
 
 [Thursday, April 26, New York City, NY](https://www.python.org/events/python-user-group/700/) \-- [6:00 PM to 8:30 PM, at Microsoft Technology Center](https://www.meetup.com/nycpython/events/249722192)
 
@@ -339,7 +339,7 @@ Things we could work on:
 
 - [Assessing](https://github.com/pypa/warehouse/issues/3252) trending projects feed and libraries.io option
 
-### Packaging BoF/Open Space at PyCon 2018 
+#### Packaging BoF/Open Space at PyCon 2018 
 
 **Date:** We held an [open space](https://us.pycon.org/2018/events/open-spaces/)/Birds of a Feather session, a conversation on packaging.
 
@@ -355,7 +355,7 @@ Things we could work on:
 
 - *See [this Etherpad](https://pad.sfconservancy.org/p/gDHkDUtfi5)*
 
-### Pipenv BoF/Open Space 
+#### Pipenv BoF/Open Space 
 
 **Date**: May 13, an [open space](https://us.pycon.org/2018/events/open-spaces/)/Birds of a Feather session specifically on Pipenv.
 

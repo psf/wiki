@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Logos 
+## PSF Logos 
 
 If you are looking for a PSF press kit with descriptions and more pointers, please check our [PSF Press Kit](PSF Press Kit) page.
 
 *Note:* This page is readable without login.
 
-## Generic Logo 
+### Generic Logo 
 
 - PNG bitmap files:
   - \- [psf-logo-372x84-alpha.png](attachments/PSF(20)Logos/psf-logo-372x84-alpha.png) (with transparency)
@@ -31,7 +31,7 @@ If you are looking for a PSF press kit with descriptions and more pointers, plea
 
 Design: The Phuse
 
-## Narrow Version 
+### Narrow Version 
 
 - PNG bitmap files:
   - \- [psf-logo-narrow-256x84-alpha.png](attachments/PSF(20)Logos/psf-logo-narrow-256x84-alpha.png) (with transparency)
@@ -50,7 +50,7 @@ Design: The Phuse
 
 Design: Marc-Andre Lemburg, based on the generic version
 
-## Associate Member Logo 
+### Associate Member Logo 
 
 - Sticker:
 
@@ -60,7 +60,7 @@ Design: Marc-Andre Lemburg, based on the generic version
 
 Design: Marc-Andre Lemburg, based on the generic version
 
-## IP Rights 
+### IP Rights 
 
 These logos were designed by [ThePhuse](http://thephuse.com/). See [python4.pdf](attachments/PSF(20)Logos/python4.pdf) for their design submissions.
 

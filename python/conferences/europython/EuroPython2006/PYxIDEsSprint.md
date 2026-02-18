@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# EuroPython2006/PYxIDEsSprint 
+## EuroPython2006/PYxIDEsSprint 
 
 If there\'s enough interest, perhaps [EuroPython](../EuroPython) might be a good venue for collaborating on PYxIDEs work. Things like\...
 

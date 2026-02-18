@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 My more-interesting modules include \"[Alias](./lwickjr(2f)Modules(2f)Modules(2f)Alias.html)\", \"[Edit](./lwickjr(2f)Modules(2f)Modules(2f)Edit.html)\", and \"[UT](./lwickjr(2f)Modules(2f)Modules(2f)UT.html)\". I\'ll add others to this page as I have opportunity.
 
-# General Outlines 
+## General Outlines 
 
 - [Alias.py](attachments/lwickjr(2f)Modules/Alias.py) is a convenience module for I.D.L.E. [PyShell](./PyShell.html) usage, intended to save typing.
 
@@ -60,7 +60,7 @@ It seems to me that Edit is something that makes it so that you can jump straigh
 
 I hereby offer any modules that \"\"I\"\" attach to this page for inclusion in the official Python module library.
 
-# Comments 
+## Comments 
 
 I have a hard time understanding what the modules are for; There\'s a lot of focus on *how* these things work, but I have difficulty figuring out what they are for.
 

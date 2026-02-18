@@ -6,21 +6,21 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# PSF Sponsorship Bundle Working Group 
+## PSF Sponsorship Bundle Working Group 
 
 *Note:* When creating new wiki pages related to this group, please use wiki subpages, e.g. BylawsWG/Charter.
 
-## Agenda 
+### Agenda 
 
 Pick up momentum for the International Sponsorship Bundle that we created in early 2015. We need to finalize the prospectus and email it out to interested conferences.
 
-## Resources 
+### Resources 
 
 - [Version One International Sponsorship Draft Prospectus](https://docs.google.com/document/d/1uTWBF34g5TQEsu6EyERMNiq7FHax-g-FlZf91rv8WNY/edit?usp=sharing)
 
 - Version Two International Sponsorship Draft Prospectus:
 
-## Mailing List 
+### Mailing List 
 
 - The ML archives are set to private for the time being. Subscriptions must be approved by the admins. [EwaJodlowska](../people/EwaJodlowska) is the list admin.
 
@@ -28,11 +28,11 @@ Pick up momentum for the International Sponsorship Bundle that we created in ear
 
 - [Email Address for Sponsorship Bundle WG](mailto:bundle-sponsorship-wg@python.org)
 
-## Discussions 
+### Discussions 
 
 Discussions will happen on the mailing list.
 
-## Administration 
+### Administration 
 
 Chair: TBD Participants:
 
@@ -50,6 +50,6 @@ Chair: TBD Participants:
 
 - Mailing List
 
-## Meetings 
+### Meetings 
 
 - TBD

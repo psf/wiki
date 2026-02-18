@@ -12,7 +12,7 @@ Note that there are *Sybase ASE* and *Sybase SQL Anywhere* systems. Those two ar
 
 ------------------------------------------------------------------------
 
-# SAP Sybase ASE (Adaptive Server Enterprise) 
+## SAP Sybase ASE (Adaptive Server Enterprise) 
 
 URL
 
@@ -24,7 +24,7 @@ licence
 platforms
 :   Unix, Linux, Windows
 
-# SAP Sybase ODBC drivers for Python 
+## SAP Sybase ODBC drivers for Python 
 
 URL
 
@@ -41,9 +41,9 @@ Python versions
 
 [Sybase ODBC driver](https://www.devart.com/odbc/ase/) for Python is a connectivity solution which connects Python with SAP Adaptive Server Enterprise databases.
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### python-sybase
+#### python-sybase
 
 URL
 
@@ -63,7 +63,7 @@ Python versions
 
 The older versions of this driver are available at [http://www.object-craft.com.au/projects/sybase/](http://www.object-craft.com.au/projects/sybase/).
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -80,7 +80,7 @@ Python versions
 
 mxODBC is compatible with the Sybase ASE ODBC drivers on Windows and Unix.
 
-### mxODBC Connect 
+#### mxODBC Connect 
 
 URL
 
@@ -103,7 +103,7 @@ mxODBC Connect Server is compatible with the Sybase ASE ODBC drivers.
 
 ------------------------------------------------------------------------
 
-# SAP Sybase SQL Anywhere 
+## SAP Sybase SQL Anywhere 
 
 URL
 
@@ -115,9 +115,9 @@ licence
 platforms
 :   Unix, Linux, Windows, MacOS X
 
-## DB API 2.0 Drivers 
+### DB API 2.0 Drivers 
 
-### mxODBC 
+#### mxODBC 
 
 URL
 
@@ -134,7 +134,7 @@ Python versions
 
 mxODBC is compatible with the Sybase ASE ODBC drivers on Windows and Unix.
 
-### sqlanydb
+#### sqlanydb
 
 URL
 
@@ -151,9 +151,9 @@ Python versions
 
 This a Google Code project providing a python interface to the SQL Anywhere Database.
 
-## Supported Python Applications 
+### Supported Python Applications 
 
-### Django 
+#### Django 
 
 URL
 
@@ -170,6 +170,6 @@ Python versions
 
 This is a Google Code project allowing SQL Anywhere to be used as a backend database for the Django web framework.
 
-## Pros 
+### Pros 
 
-## Cons 
+### Cons 

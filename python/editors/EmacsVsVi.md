@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Emacs vs. Vi 
+## Emacs vs. Vi 
 
 Both of these editors support many fundamental virtues of text editors such as extensive syntax highlighting, collapsible functions, spell checking, macros, undo-redo, multiple document editing, and a large support community. They are both free, Open Source, mature and well developed pieces of software. But\...while both [Emacs](EmacsEditor) and [Vim](Vim) are considered powerful text editors, both capable of providing many of the same feature lists for general editing commands, the primary difference between these editors is the fundamental philosophy behind their design, and more to the point, the types of workflow that they were originally designed to handle. A search online for \"philosecurity ninja or pirate\" will produce a fun read on Vi creator Bill Joy and Emacs creator Richard Stallman. Because of the major design differences between these editors, emac/xemac extensions to emulate vi and vim are readily available online. For those more interested in personal versatility and combining the best attributes of both editors, there is information provided at the bottom of this wiki under the heading \"More Tips\".
 

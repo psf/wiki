@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Stephan Deibel suggested that the PSF could use some printed material to hand out at conferences. (This page overlaps the [evangelism support materials](../archive/evangelism support materials) page.)
 
-# Brochure 
+## Brochure 
 
 Brief introduction & overview; perhaps a single 8.5x11 page folded twice.
 
 *The design should work for A4 size too, since that is the European standard* - SH
 
-## Outline 
+### Outline 
 
 - PSF intro: \"is a non-profit founded in XXX, with goal of XXX\"
 - What does the PSF do?
@@ -32,13 +32,13 @@ Brief introduction & overview; perhaps a single 8.5x11 page folded twice.
 - How to donate to the PSF?
 - For more information: links, address
 
-# Posters 
+## Posters 
 
 Facundo Batista suggested a big poster with a big logo and the Zen of Python.
 
 Maybe the quick reference could be turned into a poster, too.
 
-# CDs 
+## CDs 
 
 Not sure what should go on a python.org CD?
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This list is by no means complete, we\'re still getting our mentors lined up for this program and are waiting for confirmation to be a mentoring org before setting up all the 3rd party projects that have been a bulk of our students in past years GSoC/GHOP.
 
-# Code 
+## Code 
 
 - [http://bugs.python.org/issue9517](http://bugs.python.org/issue9517) improve test.script_helper \[median\] (stdlib)
 
@@ -42,36 +42,36 @@ This list is by no means complete, we\'re still getting our mentors lined up for
 
 - Refactor test_zipfile to properly clean up its resources in a nice way \[median\] (stdlib)
 
-# Documentation 
+## Documentation 
 
 - Complete documentation for the wsgiref module \[median\] (stdlib, wsgi)
 
 - Write docs for undocumented urllib functions ([http://bugs.python.org/issue1722](http://bugs.python.org/issue1722)) \[median\] (stdlib)
 
-# Outreach 
+## Outreach 
 
 - Write an article about the advantages of Python 3 over 2.x \[novice\]
 
-# Quality Assurance 
+## Quality Assurance 
 
 - Clean up Distutils2 code using \"pep8\" and \"pyflake\" (or \"flake8\") \[novice\] (packaging)
 
-# Research 
+## Research 
 
 - Find all Django dependencies that still need to be ported to Python 3 \[expert\] (wsgi)
 - Find all Turbogears dependencies that still need to be ported to Python 3 \[median\] (wsgi)
 
-# Training 
+## Training 
 
-# Translation 
+## Translation 
 
-# User Interface 
+## User Interface 
 
 - Enhance the Distutils2 mkcfg wizard (script to create a Distutils2 package) \[median\] (packaging)
 
 ------------------------------------------------------------------------
 
-# Adding new tasks 
+## Adding new tasks 
 
 Add new tasks only in the above 8 categories.
 

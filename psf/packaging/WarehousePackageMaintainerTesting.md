@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Help us test PyPI\'s authentication improvements! 
+## Help us test PyPI\'s authentication improvements! 
 
 Warehouse is the code behind the Python Package Repository ([PyPI](https://pypi.org/)). We are seeking maintainers of Projects on PyPI to test our new security improvements while they\'re in beta and send us bug reports. Please help us shake the bugs out!
 
 Feedback on user experience, accessibility, and overall ease of use are welcome; we want to support your workflows for account management and package maintainership. Go to [your account settings](https://pypi.org/manage/account/#two-factor) and try it out!
 
-## Guidelines for Particpation 
+### Guidelines for Particpation 
 
 - By participating, you agree to abide by the [PyPA Code of Conduct](https://www.pypa.io/en/latest/code-of-conduct/).
 
@@ -20,11 +20,11 @@ Feedback on user experience, accessibility, and overall ease of use are welcome;
 
 - You should sign up for the [PyPI Announcement Mailing List](https://mail.python.org/mm3/mailman3/lists/pypi-announce.python.org/) for updates.
 
-## Changes we\'re making 
+### Changes we\'re making 
 
 To increase the security of PyPI downloads, we\'re introducing a few improvements:
 
-### Two-factor authentication 
+#### Two-factor authentication 
 
 [two-factor authentication (2FA)](https://pypi.org/help/#twofa) is a new login security option.
 
@@ -34,13 +34,13 @@ You can use 2FA right now on [Test PyPI](http://test.pypi.org/) and on [official
 
 Two-factor authentication currently only applies to the login step, not package uploads.
 
-### Upload API tokens 
+#### Upload API tokens 
 
 We\'re adding scoped API tokens so you can upload a package using a token instead of a username and password.
 
 **In beta:** You can create and use API tokens to upload packages. API tokens provide an alternative way (instead of username and password) to authenticate when uploading packages to PyPI or Test PyPI. You can create a token for an entire PyPI account, in which case, the token will work for all projects associated with that account. Alternatively, you can limit a token\'s scope to a specific project. And then, manually or in your configuration file, when you upload, use `@token`{.backtick} for the username and the token string for the password. API token support is **in beta** so check the \"caution\" warning below.
 
-### Audit log 
+#### Audit log 
 
 We\'re adding a display so you can look at things that have happened in your user account or project, and check for signs someone\'s stolen your credentials.
 
@@ -48,11 +48,11 @@ You can view a log of sensitive actions from the last two weeks that are relevan
 
 **In beta:** We\'re still refining this, so check the \"caution\" warning below. And the sensitive event logging and display starting on 16 August 2019, so you won\'t see sensitive events from before that date.
 
-## Things to test 
+### Things to test 
 
 Most of these you can test [on pypi.org](https://pypi.org/manage/account/#two-factor). For testing destructive actions, like removing an owner or deleting a project, please use [test.pypi.org](https://test.pypi.org/manage/account/#two-factor).
 
-### Caution (before you test) 
+#### Caution (before you test) 
 
 During this beta testing period, if things go awry, there\'s a chance we will need to wipe WebAuthn and API tokens from users\' accounts, so if you choose to try it, please be forewarned. That\'s why you need a PyPI-verified email address on [your user account](https://pypi.org/manage/account/) before adding a second login auth factor, to make potential account recovery smoother.
 
@@ -60,7 +60,7 @@ We may also fail to log, or to properly display, events in the audit log.
 
 Reminder! Sign up for the [PyPI Announcement Mailing List](https://mail.python.org/mm3/mailman3/lists/pypi-announce.python.org/) to be kept in the loop as we continue this process!
 
-### Workflows 
+#### Workflows 
 
 - Verify primary email address: check that the user log lists the event
 
@@ -88,7 +88,7 @@ Reminder! Sign up for the [PyPI Announcement Mailing List](https://mail.python.o
 
 - Password Reset: check that the user log lists the event
 
-### Testers we need 
+#### Testers we need 
 
 In particular, please help us test this if any of these apply to you:
 
@@ -114,27 +114,27 @@ In particular, please help us test this if any of these apply to you:
 
 - created your PyPI account 6+ years ago
 
-### Setting up a TOTP application 
+#### Setting up a TOTP application 
 
 See [our help docs](https://pypi.org/help/#totp) for guidance on choosing a TOTP app for desktop or mobile.
 
-### Setting up a U2F security key 
+#### Setting up a U2F security key 
 
 See [our help docs](https://pypi.org/help/#utfkey) for guidance on setting up your U2F security key. Please note that you cannot set up or use U2F for a second factor without turning on JavaScript, and that [right now we only support Chrome, Edge, and Firefox](https://github.com/pypa/warehouse/issues/6034).
 
-### Provisioning and using API Tokens 
+#### Provisioning and using API Tokens 
 
 See [our help docs](https://pypi.org/help/#apitoken) for guidance on provisioning and using API Tokens. You can create a token that allows uploads for all projects your user account has Maintainer or Owner access to, or scope it to a specific project.
 
-## Security bugs 
+### Security bugs 
 
 If you find any potential security vulnerabilities, please [follow our published security policy](https://pypi.org/security/). Please don\'t report security issues in Warehouse via GitHub, IRC, or mailing lists. Instead, please directly email one or more of our maintainers.
 
-## Our next steps 
+### Our next steps 
 
 Once we fix all the urgent bugs we find, we\'ll remove the \"beta\" badge for each feature. Then we expect to move on to working on further security, accessibility, and internationalization tasks per [the Warehouse roadmap](https://wiki.python.org/psf/WarehouseRoadmap)). Thanks to the Open Technology Fund for funding this work. More progress reports at [the Packaging Working Group\'s wiki page](https://wiki.python.org/psf/PackagingWG).
 
-## Contact us 
+### Contact us 
 
 Security issues: [email security @ python dot org](https://pypi.org/security/)
 

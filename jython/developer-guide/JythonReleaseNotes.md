@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Jython 2.7.0 Release Notes 
+## Jython 2.7.0 Release Notes 
 
-# Installing Jython 
+## Installing Jython 
 
 Use the Jython installation jar to install Jython. Three installation modes are provided:
 
@@ -33,7 +33,7 @@ From java -jar jython-installer-2.7.0.jar \--help, we can some examples of how t
 
 A standalone Jython jar is also provided for users who intend to embded Jython.
 
-# Running Jython 
+## Running Jython 
 
 Jython has a new launcher that is written in Python and executed by CPython 2.7. For Windows, CPython is bundled into the launcher (bin\\jython.exe) by the [PyInstaller](./PyInstaller.html) program. For other systems, the installer determines if CPython 2.7 is available, and if so, uses CPython 2.7 to launch Jython.
 
@@ -62,15 +62,15 @@ The following environment variables do not usually have to be set, but if they a
 
 Empty settings are currently assumed to be significant, so use unset to remove if on a Unix-like system; on Windows, you can unset an environment variable via set ENVVAR=.
 
-# Backwards-breaking changes 
+## Backwards-breaking changes 
 
 FIXME
 
-# New features 
+## New features 
 
 FIXME
 
-# NEWS 
+## NEWS 
 
 More details can be found in the NEWS file, which is incorporated here:
 

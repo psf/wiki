@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the 2015 PSF Board of Directors
+## Candidates for the 2015 PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning in May 2015. Their self-written summaries follow.
 
@@ -107,7 +107,7 @@ PSF Fellows and Sponsor Members must themselves be approved through a PSF ballot
 ------------------------------------------------------------------------
 
 ::: 
-### [Carrie Anne Philbin](#id1)
+#### [Carrie Anne Philbin](#id1)
 
 *New Board Member.*
 
@@ -127,7 +127,7 @@ Affiliation: Raspberry Pi Foundation
 ------------------------------------------------------------------------
 
 ::: 
-### [Marc-Andre Lemburg](#id2)
+#### [Marc-Andre Lemburg](#id2)
 
 *2014 Board Member.*
 
@@ -179,7 +179,7 @@ Affiliation: eGenix.com GmbH, Germany
 ------------------------------------------------------------------------
 
 ::: 
-### [Alex Gaynor](#id3)
+#### [Alex Gaynor](#id3)
 
 *2014 Board Member*
 
@@ -197,7 +197,7 @@ Affiliation: I\'m employed by the United States Department of Veterans Affairs
 ------------------------------------------------------------------------
 
 ::: 
-### [Alyssa Coghlan](#id4)
+#### [Alyssa Coghlan](#id4)
 
 *2014 Board Member.*
 
@@ -226,7 +226,7 @@ Affiliation: Alyssa Coghlan works for Red Hat.
 ------------------------------------------------------------------------
 
 ::: 
-### [Kushal Das](#id5)
+#### [Kushal Das](#id5)
 
 *2014 Board Member*
 
@@ -258,7 +258,7 @@ Affiliation: Kushal Das works for Red Hat.
 ------------------------------------------------------------------------
 
 ::: 
-### [Berker Peksag](#id6)
+#### [Berker Peksag](#id6)
 
 *New Board Member*
 
@@ -295,7 +295,7 @@ Affiliation: None
 ------------------------------------------------------------------------
 
 ::: 
-### [Stéphane Wirtel](#id7)
+#### [Stéphane Wirtel](#id7)
 
 *New Board Member*
 
@@ -329,7 +329,7 @@ Affiliation: [Freelance](http://www.mgx.io) , Belgium
 ------------------------------------------------------------------------
 
 ::: 
-### [Philip James](#id8)
+#### [Philip James](#id8)
 
 *New board member*
 
@@ -345,7 +345,7 @@ Affiliation: Philip James works for Eventbrite
 ------------------------------------------------------------------------
 
 ::: 
-### [Ashwini Oruganti](#id9)
+#### [Ashwini Oruganti](#id9)
 
 *New Board Member.*
 
@@ -370,7 +370,7 @@ Affiliation: I will be joining Eventbrite in May 2015.
 ------------------------------------------------------------------------
 
 ::: 
-### [Ruben Orduz](#id10)
+#### [Ruben Orduz](#id10)
 
 New Board Member
 
@@ -387,7 +387,7 @@ Affiliation: works for Infor, inc
 ------------------------------------------------------------------------
 
 ::: 
-### [Mathieu Virbel](#id11)
+#### [Mathieu Virbel](#id11)
 
 *New Board Member.*
 
@@ -416,7 +416,7 @@ Affiliation: Freelance.
 ------------------------------------------------------------------------
 
 ::: 
-### [Lynn Root](#id12)
+#### [Lynn Root](#id12)
 
 - 2014 Board Member \*
 
@@ -434,7 +434,7 @@ Affiliation: Spotify, PyLadies
 ------------------------------------------------------------------------
 
 ::: 
-### [Anna Ossowski](#id13)
+#### [Anna Ossowski](#id13)
 
 *New Board Member.*
 
@@ -467,7 +467,7 @@ Affiliation: Django Girls, PyLadies
 ------------------------------------------------------------------------
 
 ::: 
-### [Diana Clarke](#id14)
+#### [Diana Clarke](#id14)
 
 *New Board Member*
 
@@ -485,7 +485,7 @@ Affiliation: None
 ------------------------------------------------------------------------
 
 ::: 
-### [Naomi Ceder](#id15)
+#### [Naomi Ceder](#id15)
 
 *New Board Member*
 
@@ -519,7 +519,7 @@ Affiliation: Razor Occam LTD (W. W. Grainger), Trans\*Code
 ------------------------------------------------------------------------
 
 ::: 
-### [Van Lindberg](#id16)
+#### [Van Lindberg](#id16)
 
 *2014 Board Member*
 
@@ -542,7 +542,7 @@ Affiliation: Rackspace
 ------------------------------------------------------------------------
 
 ::: 
-### [Ezio Melotti](#id17)
+#### [Ezio Melotti](#id17)
 
 *New Board Member*
 
@@ -572,7 +572,7 @@ My self summary:
 ------------------------------------------------------------------------
 
 ::: 
-### [Riaz Moola](#id18)
+#### [Riaz Moola](#id18)
 
 *New Board Member*
 
@@ -606,7 +606,7 @@ Affiliation: I am currently a masters student, reading for a MPhil in Advanced C
 ------------------------------------------------------------------------
 
 ::: 
-### [Roberto Rosario](#id19)
+#### [Roberto Rosario](#id19)
 
 *New Board Member.*
 
@@ -637,7 +637,7 @@ Affiliations: Cryptico Corporation, Python Latino
 ------------------------------------------------------------------------
 
 ::: 
-### [Carol Willing](#id20)
+#### [Carol Willing](#id20)
 
 *New Board Member. (Nominated by Van Lindberg)*
 
@@ -675,7 +675,7 @@ Affiliation: Willing Consulting
 ------------------------------------------------------------------------
 
 ::: 
-### [Adria Richards](#id21)
+#### [Adria Richards](#id21)
 
 *New Board Member*
 
@@ -756,7 +756,7 @@ Diversity isn\'t really about color and gender. It\'s about equality, equity and
 ------------------------------------------------------------------------
 
 ::: 
-### [Jackie Kazil](#id22)
+#### [Jackie Kazil](#id22)
 
 *New Board Member*
 
@@ -809,7 +809,7 @@ Affiliations: 18F, PyLadies, DCFemTech, PyJournos, IRE/NICAR
 ------------------------------------------------------------------------
 
 ::: 
-### [Kenneth Love](#id23)
+#### [Kenneth Love](#id23)
 
 *New Board Member. (Nominated by Anna Ossowski)*
 
@@ -821,7 +821,7 @@ Affiliation: Treehouse
 :::
 
 :::: 
-### [Claudiu Popa](#id24)
+#### [Claudiu Popa](#id24)
 
 *New Board Member.*
 
@@ -855,7 +855,7 @@ Please see the final revision for the list of candidates received by the end of 
 ------------------------------------------------------------------------
 
 ::: 
-#### David Mertz
+##### David Mertz
 
 *2014 Board Member.*
 

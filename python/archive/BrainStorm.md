@@ -6,9 +6,9 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python and Databases Brainstorm 
+## Python and Databases Brainstorm 
 
-## Pamphlet 
+### Pamphlet 
 
 This is where we need to settle on what to cover in the flyer. We need to keep it concise because there is not much room. Here are the topics I think are relevant:
 

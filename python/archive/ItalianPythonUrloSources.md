@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Newsgroups and MLs 
+## Newsgroups and MLs 
 
 ::: {}
   --------------------------- -----------------------------------------------------------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   --------------------------- -----------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# Python News 
+## Python News 
 
 ::: {}
   ------------------- -----------------------------------------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ------------------- -----------------------------------------------------------------------------------------------------------------
 :::
 
-# Python Weblogs 
+## Python Weblogs 
 
 ::: {}
   --------------------------- -----------------------------------------------------------------------------------------------------------------------
@@ -56,6 +56,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   --------------------------- -----------------------------------------------------------------------------------------------------------------------
 :::
 
-# Other List of Python Blogs 
+## Other List of Python Blogs 
 
 [http://lowlife.jp/cgi-bin/moin.cgi/PythonProgrammersWeblog](http://lowlife.jp/cgi-bin/moin.cgi/PythonProgrammersWeblog)

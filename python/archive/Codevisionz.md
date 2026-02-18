@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Programming Language Python 
+## Programming Language Python 
 
 Python is a programming language that is easy to learn and very versatile thanks to its clear syntax and simple readability. Python is freely available for the common operating systems. The usual programming paradigms such as object-oriented or functional programming are supported.
 
@@ -18,9 +18,9 @@ Python can be classified into multiple paradigms: object-oriented, functional, p
 
 The typing discipline of a language is defined by the nature of type constraints and the way they are evaluated and enforced. Type Strength: strong Type Checking: dynamic Type Safety: not safe
 
-# About 
+## About 
 
-#### Codevisionz - The easiest way to learn to code 
+##### Codevisionz - The easiest way to learn to code 
 
 With us you will learn to program using code examples and quizzes. Common programming concepts are explained using code examples. The concepts learned are deepened through questions and quizzes. Collect points and compare your results with other users.
 

@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python初学者手册 
+## Python初学者手册 
 
 - 英文版在此: [http://wiki.python.org/moin/BeginnersGuide](http://wiki.python.org/moin/BeginnersGuide)
 
 没玩过编程？ Python语言是免费的，如果你知道从何处开始，它很容易上手！ 本指南将帮助你快速入门。
 
-## 不了解Python？ 
+### 不了解Python？ 
 
 先读一下[Python简介](BeginnersGuide/OverviewChinese)：通过一个简短的介绍了解Python是什么。
 
-## 获取Python 
+### 获取Python 
 
 接下来，在你的电脑上安装Python的解释器。
 
@@ -28,7 +28,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 在某些阶段，你想编辑并保存你的程序代码，可以看一下 [HowToEditPythonCode](../guides/HowToEditPythonCode) 以听取一些意见和推荐方法。
 
-## 学习Python 
+### 学习Python 
 
 接下来，阅读教程，并尝试用你的新Python解释器做一些简单的试验。
 
@@ -46,7 +46,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 在准备写第一个程序前，你需要一个文本编辑器。开始时使用任何你熟悉的编辑器（用记事本也可以）-但当你有经验后，你会想使用带有Python编程辅助功能的文本编辑器。参考 [PythonEditors](../editors/PythonEditors) ，里面包含了一个软件列表，介绍各种方便Python代码编辑功能的编辑器软件。
 
-## 需要帮助吗? 
+### 需要帮助吗? 
 
 需要一些帮助吗？加入邮件列表和新闻组，阅读 [BeginnersGuide/Help](BeginnersGuide/Help)。
 
@@ -60,7 +60,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 老师可以加入 [EDU-SIG](http://www.python.org/sigs/edu-sig/)，在该邮件列表中讨论如何教从K-12到大学的各种水平的学生来应用Python。
 
-## 用户手册完整列表 
+### 用户手册完整列表 
 
 ::: searchresults
 1.  [**BeginnersGuide/**Download](BeginnersGuide/Download)
@@ -76,13 +76,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 11. [**BeginnersGuide/**Programmers/SimpleExamples](BeginnersGuide/Programmers/SimpleExamples)
 :::
 
-## 测试和练习 
+### 测试和练习 
 
 - Pyschools - [A Collection of Python Quiz and Exercise Questions](http://www.pyschools.com)
 
 - CheckIO - [Online learning, testing and improving your python skills](http://www.checkio.org)
 
-## 想寻找具体的Python模块或程序？ 
+### 想寻找具体的Python模块或程序？ 
 
 - 首先参考 [Python Package Index](http://pypi.python.org/pypi).
 
@@ -92,7 +92,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - 最后，（注：如果实在搞不定了）你可以在comp.lang.python 用户组中发帖寻求帮助。
 
-## 如何做出贡献? 
+### 如何做出贡献? 
 
 - Python来源于[Python Software Foundation](http://www.python.org/psf/)，该非营利组织拥有其版权。[向PSF捐款](http://www.python.org/psf/donations/)在美国是免税的，你可能通过信用卡或[PayPal](http://www.paypal.com)来捐助。
 

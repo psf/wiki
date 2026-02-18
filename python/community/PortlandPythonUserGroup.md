@@ -10,7 +10,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 ------------------------------------------------------------------------
 
-# Next Meeting 
+## Next Meeting 
 
 - When: Second Tuesday of the Month, 6:30pm
 
@@ -18,7 +18,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - What: See [http://www.meetup.com/pdxpython/](http://www.meetup.com/pdxpython/) for upcoming meetings.
 
-# Resources 
+## Resources 
 
 - Mailing list: [portland@python.org](http://mail.python.org/mailman/listinfo/portland)
 
@@ -30,9 +30,9 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Need to contact an organizer? \< [snakeherders@pdxpython.org](mailto:snakeherders@pdxpython.org) \>
 
-# Past Meetings 
+## Past Meetings 
 
-## 2011-2013 
+### 2011-2013 
 
 - Feel free to import content from [Meetup](http://python.meetup.com/183/)
 
@@ -41,34 +41,34 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
   - Jason Champion on [Parallel Computing with CUDA and OpenCL](http://slid.es/xangis/parallel-computing)
 
-## June 12nd, 2012 
+### June 12nd, 2012 
 
 - [Developing & Deploying \"Large\" Scale Web Applications](https://speakerdeck.com/u/mattrobenolt/p/developing-deploying-large-scale-web-applications) - Matt Robenolt
 
 - Lightning Talks
 
-## November 9th, 2010 
+### November 9th, 2010 
 
 - MOTM: ctypes - Joel Bernstein
 - Optimizing C Extensions - Case Van Horsen
 - Extending Python with Fortran - Brett Carter
 - Extending Python with OCaml - John Melesky
 
-## October 12th, 2010 
+### October 12th, 2010 
 
 - STDLIB THUNDERDOOOOME!!!
 
-## September 14, 2010 
+### September 14, 2010 
 
 - Social at Deschutes Brewery!
 
-## June 8th, 2010 
+### June 8th, 2010 
 
 - Michel\'s Monthly Module: multiprocessing (pypi) - John Melesky
 - Diesel - Michael Schurter
 - Twisted - Karl Anderson
 
-## May 11th 2010 
+### May 11th 2010 
 
 - Michel\'s Monthly Module: profile/cProfile - John Melesky
 
@@ -87,7 +87,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - **Pizza sponsored by [VanderHouwen & Associates](http://www.vanderhouwen.com/)!**
 
-## April 13th 2010 
+### April 13th 2010 
 
 - Michel\'s Monthly Module: baker (pypi) - Chris [McDonald](./McDonald.html)
 
@@ -99,7 +99,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - **Pizza & beverage was sponsored by [Discogs](http://www.discogs.com/)!**
 
-## March 9th, 2010 
+### March 9th, 2010 
 
 - Michel(le)\'s Monthly Module: functools (Michelle Rowley)
 
@@ -109,7 +109,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - **Pizza & beverage was sponsored by [Survey Monkey](http://www.surveymonkey.com/)!**
 
-## February 9th, 2010 
+### February 9th, 2010 
 
 - Michel\'s Monthly Module (dateutil) - by Michel P. himself, this month! Yay!
 - Cool Tools! Lightning(ish) talks about cool tools:
@@ -119,7 +119,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
   - bpython: a replacement for ipython, and how to integrate it with Django and virtualenv (Chris [McDonald](./McDonald.html))
 
-## January 12th 2010 
+### January 12th 2010 
 
 - Michel\'s Monthly Module (future by Jason Kirtland)
 
@@ -129,13 +129,13 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - [GeoDjango](./GeoDjango.html): Tim Welch
 
-## October 13th 2009 
+### October 13th 2009 
 
 - Michel\'s Monthly Module (hashlib & hmac) by Adam Lowry
 
 - Intro to Bitten ([http://bitten.edgewall.org/](http://bitten.edgewall.org/)) by John Hampton ([slides](http://elderberrypy.org/raw-attachment/wiki/WikiStart/PDX%20Python%20Bitten%20Presentation.pdf))
 
-## September 8th 2009 
+### September 8th 2009 
 
 - Pythonic book raffle
 
@@ -145,17 +145,17 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - \"Preeminent Python Packaging Presentation\" by Michael Schurter
 
-## August 11th, 2009 
+### August 11th, 2009 
 
 - [Testing in a Python World](http://opensourcebridge.org/proposals/243)
 
 - **Pizza & beer was sponsored by [Emma](http://www.myemma.com/)**!
 
-## July 14th, 2009 
+### July 14th, 2009 
 
 - Social meeting!
 
-## June 16th, 2009 
+### June 16th, 2009 
 
 - Module of the Month (Michel Pelletier)
 - Screen Scraping (Joel Bernstein)
@@ -166,18 +166,18 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 - XML-RPC (Igal Koshevoy)
 - SimpleHTTPServer (Reid Beels)
 
-## May 12th, 2009 
+### May 12th, 2009 
 
 - Practical Distributed Version Control
 - bzr, git, hg, code hosting, patch reviews, more!
 
-## April 14th 2009 
+### April 14th 2009 
 
 - Recap of [PyCon](../conferences/pycon/PyCon)
 
 - Planning of new pdxpython.org
 
-## March 10th 2009 
+### March 10th 2009 
 
 - Short intro to PyTyrant/Tokyo Tyrant/Tokyo Cabinet by Michael Schurter
 
@@ -185,37 +185,37 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Machine Learning topics by John Melesky
 
-## February 10th 2009 
+### February 10th 2009 
 
 - VPython (Kirby Urner)
 - Zine, the New Python Blog Software (Jason Kirtland)
 - Werkzeug (Adam Lowry)
 
-## January 13th 2009 
+### January 13th 2009 
 
 - Metaclasses (John Melesky)
 - deque overview (Michel Pelletier)
 - Tricks with dicts (Jason Kirtland)
 - Natural Language Processing (Monica Toth)
 
-## December 9th 2008 
+### December 9th 2008 
 
 - Winter Coders\' Social!
 
-## November 11th 2008 
+### November 11th 2008 
 
 - Michel: Coroutines in Python
 - Michael: formencode, Django forms
 - Adam: WTForms
 - Jason: flatland
 
-## October 14th 2008 
+### October 14th 2008 
 
 - Python Release Party! D.I.Y. What\'s New in 2.6 and 3.0
 
 - Thanks Adam, Brett, Igal, Jason, Kirby, Matt, Michel & Reid
 
-## September 9th, 2008 
+### September 9th, 2008 
 
 - Brett: Building and Distributing Python Eggs
 
@@ -223,11 +223,11 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Leo Soto: Django on Jython
 
-## August 12th, 2008 
+### August 12th, 2008 
 
 - Beer and Bytecode
 
-## July 8th, 2008 
+### July 8th, 2008 
 
 - Framework vs Toolkit!
 
@@ -235,7 +235,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Michel: Twisted & Werkzeug
 
-## June 10th, 2008 
+### June 10th, 2008 
 
 - Michael: Django
 
@@ -247,13 +247,13 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Pizza courtesy of Vidoop! Books courtesy of O\'Reilly!
 
-## May 13th 2008 
+### May 13th 2008 
 
 - Adam: [z3c.rml](http://pypi.python.org/pypi/z3c.rml)
 
 - Matt: Configuration files and AST transformations
 
-## April 8th 2008 
+### April 8th 2008 
 
 - Jason: Decorators/inspect/code generation [inspectexec](http://discorporate.us/jek/python/inspectexec.py)
 
@@ -263,23 +263,23 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Discussion: [AppEngine](../people/AppEngine)
 
-## March 11th 2008 
+### March 11th 2008 
 
 - Michel: [Mocker](http://labix.org/mocker)
 
 - Discussion: Testing methodologies
 
-## February 12th 2008 
+### February 12th 2008 
 
 - Jason: [virtualenv](http://pypi.python.org/pypi/virtualenv)
 
 - Kirk: [PySoy](http://www.pysoy.org/)
 
-## January 8th 2008 
+### January 8th 2008 
 
 - Cozy round-table discussions about [PySoy](http://www.pysoy.org/), GUI frameworks, web frameworks and GUI vs. Web.
 
-## December 11th 2007 
+### December 11th 2007 
 
 - First annual December Coders\' Bash!
 
@@ -289,7 +289,7 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Many thanks to Sam Keen of [PDXPHP](http://pdxphp.org/), our own Jeff Schwaber, and all the other individuals who helped put this party together for their hard work. It was an incredible turnout, and everyone had a fabulous time!
 
-## November 13th 2007 
+### November 13th 2007 
 
 - Brett: Converting HTML forms to PDF forms with [ReportLab](./ReportLab.html)
 
@@ -301,13 +301,13 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Pizza provided by [Kavi](http://www.kavi.com/home)! Thank you, Kavi (and Adam, and Brett)!
 
-## October 9th, 2007 
+### October 9th, 2007 
 
 - Small group discussions-
 
 - Beginning Python, [ReportLab](http://www.reportlab.org), Mercurial, web frameworks and unit testing.
 
-## September 11th, 2007 
+### September 11th, 2007 
 
 - Kevin defects to the Ruby Coding Dojo!
 
@@ -319,13 +319,13 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - Mark: [PIL Projects](http://www.pythonware.com/products/pil/)
 
-## August 14th, 2007 
+### August 14th, 2007 
 
 - Extending Python with D via [pyd](http://www.dsource.org/projects/pyd)
 
 - OSCON wrap-up: [Python 3000](http://www.python.org/doc/essays/ppt/pycon2007/Py3k2007PyCon.ppt) (.ppt) and [Code Like a Pythonista](http://python.net/~goodger/projects/pycon/2007/idiomatic/)
 
-## July 10th, 2007 
+### July 10th, 2007 
 
 - Intro to debugging with PDB
 
@@ -335,15 +335,15 @@ The Portland Oregon Python User Group has presentations the second Tuesday of th
 
 - SQLAlchemy in 5 (ok, 20) minutes [slides, video](http://discorporate.us/jek/python/)
 
-## June 12th, 2007 
+### June 12th, 2007 
 
 - Social
 
-## May 11, 2007 
+### May 11, 2007 
 
 - Planning
 
-## May 8, 2007 
+### May 8, 2007 
 
 - We exist!
 

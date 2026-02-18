@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Wednesday 
+## Wednesday 
 
 - More than 5 minutes are needed to switch rooms
 - Parallel food lines necessary
@@ -20,7 +20,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Gripes: poor audio; flickering projector; rooms too hot; not enough room (not all seats being filled).
 
-# Thursday 
+## Thursday 
 
 - Point to papers from pycon.org
 - Rate talks: beginners, intermediate, advanced
@@ -29,13 +29,13 @@ Gripes: poor audio; flickering projector; rooms too hot; not enough room (not al
 - Print small daily schedules that fit in back of badge holder
 - Food: more of: veggie options, water, coffee, cookies
 
-# Friday 
+## Friday 
 
 - Have speakers immediately leave, going to a breakout room where discussions can continue
 - Make Open Space available after 5PM
 - Possibly have lunch tickets to restaurants downstairs
 
-# Summary form 
+## Summary form 
 
 - Dim lights in ballroom
 - Have a teenagers track (at reduced cost)
@@ -45,7 +45,7 @@ Gripes: poor audio; flickering projector; rooms too hot; not enough room (not al
 - Blanks on name badges to write interests
 - Warn registrants that e-mail address is on badge
 
-# Hotel survey 
+## Hotel survey 
 
 Question as posed: \"Assuming you attend next year, would you stay at a hotel with other [PyCon](../PyCon) attendees if we can coordinate a bulk room discount? Y/N\" \"If yes, what is your nightly room budget?\"
 
@@ -60,9 +60,9 @@ Question as posed: \"Assuming you attend next year, would you stay at a hotel wi
   ------------- ------- -----
 :::
 
-# Requested talks 
+## Requested talks 
 
-## Wednesday 
+### Wednesday 
 
 ::: {}
   ---- ---------------------------------------------------------------------------
@@ -90,7 +90,7 @@ Question as posed: \"Assuming you attend next year, would you stay at a hotel wi
   ---- ---------------------------------------------------------------------------
 :::
 
-## Thursday 
+### Thursday 
 
 ::: {}
   ---- ---------------------------------
@@ -109,7 +109,7 @@ Question as posed: \"Assuming you attend next year, would you stay at a hotel wi
   ---- ---------------------------------
 :::
 
-## Friday 
+### Friday 
 
 ::: {}
   --- -------------------------------
@@ -127,7 +127,7 @@ Question as posed: \"Assuming you attend next year, would you stay at a hotel wi
   --- -------------------------------
 :::
 
-## Summary form 
+### Summary form 
 
 ::: {}
   ---- -------------------------------

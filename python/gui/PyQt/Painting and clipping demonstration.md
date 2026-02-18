@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Painting and clipping demonstration 
+## Painting and clipping demonstration 
 
 This example was created to explore issues with clipping mentioned in [this message](http://lists.trolltech.com/pipermail/qt-interest/2009-September/012599.html) to the [qt-interest mailing list](http://lists.trolltech.com/mailman/listinfo/qt-interest).
 

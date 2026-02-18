@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Newsgroup threads 
+## Newsgroup threads 
 
-## c.l.python threads 
+### c.l.python threads 
 
-### Completely Python vs. Ruby 
+#### Completely Python vs. Ruby 
 
 - [Python Vs Ruby wiki at c2.com](http://c2.com/cgi/wiki?PythonVsRuby) point by point comparison.
 
@@ -22,7 +22,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [http://reflectivesurface.com/weblog/2004/12/19/why-rails](http://reflectivesurface.com/weblog/2004/12/19/why-rails) rebuttal to another Ian Bicking post
 
-### Partially Python vs. Ruby 
+#### Partially Python vs. Ruby 
 
 - [Summary: strong/weak typing and pointers](http://tinyurl.com/4ltzu) 3-11-2004 - 12-11-2004, 33 articles, 6 contain the term \"Ruby\"
 

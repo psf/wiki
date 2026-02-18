@@ -17,20 +17,20 @@ We welcome you to join our general discussions about diversity in Python:
 [Aahz\'s blog post](http://www.artima.com/weblogs/viewpost.jsp?thread=263671) on why the Diversity list was created, in response to: [Background stats on percentage of women in Open Source](http://infotrope.net/blog/2009/07/31/debunking-myths-answering-questions/) based on commonly disbelieved stats from Kirrily Robert\'s [OSCON keynote \"Standing Out in the Crowd\"](http://infotrope.net/blog/2009/07/25/standing-out-in-the-crowd-my-oscon-keynote/) about women in Open Source.
 
 ::: note
-## Work in Progress! 
+### Work in Progress! 
 :::
 
 ::: caution
-## Not Official PSF Policy 
+### Not Official PSF Policy 
 
 The contents of this page, and the contents of the pages linked to below, are not official opinion or policy of the Python Software Foundation. This is a wiki page, editable by anyone in the community, and the PSF does not endorse and is not responsible for the opinions expressed here.
 
 The official PSF diversity statement can be found [here](http://python.org/psf/diversity/).
 :::
 
-# What you can do 
+## What you can do 
 
-## Simple, personal actions: 
+### Simple, personal actions: 
 
 - If you attend Python User Group meetings, invite someone from a different background to yourself. Go out of the way to invite young people, women, people from different ethnic backgrounds, people from different cultures, or people from other under-represented groups.
 
@@ -66,7 +66,7 @@ The official PSF diversity statement can be found [here](http://python.org/psf/d
 
 - Reach out to diverse delegates from the Welcoming NotCommittee, which is tasked with organizing a Thursday-evening \"welcome to [PyCon](../conferences/pycon/PyCon)\" event specifically to welcome newcomers and pass on some lore.
 
-## Technical actions: 
+### Technical actions: 
 
 - Edit the Python.org wiki to include more information in more [languages](http://wiki.python.org/moin/Languages)
 
@@ -78,7 +78,7 @@ The official PSF diversity statement can be found [here](http://python.org/psf/d
 
 - Check the [PythonProjects](http://wiki.python.org/moin/PythonProjects) page for projects with special interests that use Python.
 
-## Bold action: 
+### Bold action: 
 
 - Blog about your own experiences with diversity problems (including your own story if possible). Better yet, blog about positive diversity experiences and anything you\'ve seen that helped bring more people into the community.
 
@@ -92,7 +92,7 @@ The official PSF diversity statement can be found [here](http://python.org/psf/d
 
 - Buy a diversity@python t-shirt \[nb we should design some of these, I\'m happy to help\]
 
-## Broad action: 
+### Broad action: 
 
 - Ask your local school if they are have a computing programme / class, and ask if they ever consider diversity issues and whether there is anything you can do to help.
 - Visit your local school and talk about what various groups can expect from Python and the geek community
@@ -100,7 +100,7 @@ The official PSF diversity statement can be found [here](http://python.org/psf/d
 - Become part of a technical mentorship program
 - Try to find tie-in evens between your local PUG and any women\'s or other diversity technical groups. Have a biannual BBQ get together
 
-## Share your story: 
+### Share your story: 
 
 Diversity is what happens whenever you have enough people in the same place at the same time, whether you realise it or not. Any group of people, regardless of whatever common features they may share, will nonetheless express enormous diversity in other respects. There is no better way to prove diversity that to show the diverse stories of all of the people who are present. Please share your story by answering one simple question, so that you can help to proudly display the diversity of the Python community.
 
@@ -108,7 +108,7 @@ Diversity is what happens whenever you have enough people in the same place at t
 
 \[[PythonUserStories](PythonUserStories)\]
 
-# Practical advice and suggestions on how to increase diversity. 
+## Practical advice and suggestions on how to increase diversity. 
 
 [Ten tips for getting more women speakers](http://geekfeminism.org/2009/08/11/ten-tips-for-getting-more-women-speaker/)
 
@@ -122,7 +122,7 @@ Invite someone who has something to say but no blog of their own to post on the 
 
 Make sure your web pages meet [accessibility standards](http://www.w3.org/WAI/) for people with disabilities and older users.
 
-## Taking Action 
+### Taking Action 
 
 Links to activities, posted to the Diversity list, encouraging participation:
 
@@ -132,7 +132,7 @@ Links to activities, posted to the Diversity list, encouraging participation:
 
 [Join us for Ada Lovelace Day, 24 March 2010](http://www.openrightsgroup.org/blog/2010/join-us-for-ada-lovelace-day-24-march-2010) and [Finding Ada](http://findingada.com/) (Ada Lovelace Day)
 
-## Terminology 
+### Terminology 
 
 Terms you\'ll see on this wiki page and in use on the Diversity mailing list.
 
@@ -156,7 +156,7 @@ Terms you\'ll see on this wiki page and in use on the Diversity mailing list.
 
 [Tact Filter](http://www.mit.edu/~jcb/tact.html) - Another perspective on Politeness.
 
-## Language Diversity 
+### Language Diversity 
 
 The Diversity discussions and mailing list are in English, but there is a listing of [non-English Python User Groups](http://wiki.python.org/moin/LocalUserGroups).
 
@@ -166,9 +166,9 @@ The Diversity discussions and mailing list are in English, but there is a listin
 
 [French Python](http://frpython.sourceforge.net/)
 
-# 101 Resources 
+## 101 Resources 
 
-## Anti-racism 
+### Anti-racism 
 
 [Anti-racism reading list](http://delicious.com/starkeymonster/race+forcluelesswhitepeople) (some US focus)
 
@@ -186,11 +186,11 @@ The Diversity discussions and mailing list are in English, but there is a listin
 
 [Racism 101 - Beyond Bingo Cards](http://www.racialicious.com/2009/02/24/open-thread-racism-101-beyond-bingo-cards/)
 
-## Anti-transphobia 
+### Anti-transphobia 
 
 [Transgender 101](http://trans101.wikia.com/wiki/Transgender_101_Wiki)
 
-## Anti-sexism and more general gender stuff 
+### Anti-sexism and more general gender stuff 
 
 [Finally, A Feminism 101 Blog](http://preview.tinyurl.com/5lkbr6) [(tinyurl preview link due to the wiki blocking the real URL)]
 
@@ -202,7 +202,7 @@ The Diversity discussions and mailing list are in English, but there is a listin
 
 [A theory about why interactions between men and women are so complicated](http://annaraven.blogspot.com/2009/08/status-expectations-and-gender.html) - For folks who\'ve never studied sociology of gender.
 
-## Anti-neuro-normativity 
+### Anti-neuro-normativity 
 
 [A Primer On Autism](http://autism.change.org/about/primer?section=primer1)
 
@@ -210,13 +210,13 @@ The Diversity discussions and mailing list are in English, but there is a listin
 
 [Autism activism](http://ballastexistenz.autistics.org/)
 
-## Anti-ablism 
+### Anti-ablism 
 
 [sophy\'s Rethinking Disabling Metaphors](http://sophy.livejournal.com/1186437.html), [sasha_feathers\' Rethinking Disabling Metaphors](http://sasha-feather.livejournal.com/309425.html) - two writeups from a [WisCon33](./WisCon33.html) panel.
 
 [Respectful language](http://www.feministe.us/blog/archives/2009/07/02/thoughts-on-disability-and-respectful-language/) - Thoughts on disability and respectful language
 
-## Other Diversity Statements/Actions 
+### Other Diversity Statements/Actions 
 
 [Dreamwidth\'s Diversity Statement](http://www.dreamwidth.org/legal/diversity.bml) and their [Guiding Principles](http://www.dreamwidth.org/legal/principles)
 
@@ -242,13 +242,13 @@ The Diversity discussions and mailing list are in English, but there is a listin
 
 [Women and FOSS](http://worldgame.blogspot.com/2008/07/women-and-foss.html) - blog post with a number of good links to resources re: feminism and/or technology. [EduPython post also with a number of links](http://www.mail-archive.com/edupython@googlegroups.com/msg00152.html) [(Note: not sure how to classify this or if links from it should be promoted to this page directly\... -[DougPhilips](./DougPhilips.html))]
 
-## Related python.org Mailing lists 
+### Related python.org Mailing lists 
 
 Are supposed to be friendly to all newcomers. Also a place to hang out and encourage others:
 
 [Tutor list](http://mail.python.org/mailman/listinfo/tutor) - [Help list](http://mail.python.org/mailman/listinfo/python-help)
 
-## Various Links - not yet classified 
+### Various Links - not yet classified 
 
 In the first post to the Diversity mailing list, Steve Holden posted a link to [Remixing Angie Byron to create the next Million Mozillians](http://eaves.ca/2009/07/28/remixing-angie-byron-to-create-the-next-million-mozillians/) asking it would apply to the Python community.
 
@@ -282,7 +282,7 @@ In the first post to the Diversity mailing list, Steve Holden posted a link to [
 
 [A female student using Python for a science fair project](http://micheinnz.livejournal.com/1080735.html) - posted as inspirational.
 
-# Organizations 
+## Organizations 
 
 [Django Girls](https://djangogirls.org/) - \"Django Girls organize free Python and Django workshops, create open sourced online tutorials and curate amazing first experiences with technology\"
 

@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using PyInstaller with PyQt on Mac OS-X 
+## Using PyInstaller with PyQt on Mac OS-X 
 
 PyInstaller has only preliminary support for Mac OS-X and currently (Feb. 2010) needs some workarounds and modifications to work properly with PyQt. Therefore this short how-to will show the steps to make the QtWebKit based \'Minibrowser\' sample app from [here](http://eric-ide.python-projects.org/tutorials/MiniBrowser/index.html) into an OS-X application bundle.
 
-## Prerequisites 
+### Prerequisites 
 
 - Recent versions of Qt and PyQt need to be installed.
 
 I installed PyQt and Eric4 according to [this](http://works13.com/blog/mac/installing-eric4-on-mac-os-x-leopard.htm) guide. The following versions were used: OS-X 10.6.2, Python 2.6.1, Qt 4.6.2., PyQt 4.7, sip 4.10, QScintilla 2.4.2. Eric4 is obviously optional for the purpose of this how-to.
 
-## Installing and patching PyInstaller 
+### Installing and patching PyInstaller 
 
 - Create a working folder, for example:
   - /Users/username/pywork
@@ -52,7 +52,7 @@ I installed PyQt and Eric4 according to [this](http://works13.com/blog/mac/insta
 
     -     $ patch --verbose Build.py pyinstaller.patch
 
-## Making the Application into an App Bundle 
+### Making the Application into an App Bundle 
 
 - Download a the Minibrowser sample project:
   - From [here](http://eric-ide.python-projects.org/tutorials/MiniBrowser/resources/minibrowser.zip) into the pywork directory and unzip
@@ -104,7 +104,7 @@ I installed PyQt and Eric4 according to [this](http://works13.com/blog/mac/insta
   - Into the pywork/Minibrowser.app/Contents/Resources folder copy qt_menu.nib from /Library/Frameworks/QtGui.framework/Versions/4/Resources/qt_menu.nib
     -       $ cp -rv /Library/Frameworks/QtGui.framework/Versions/4/Resources/qt_menu.nib Minibrowser.app/Contents/Resources
 
-## Test and Compress the App 
+### Test and Compress the App 
 
 - You should now be able to run the application bundle just like any native OS-X application by double clicking on it.
 

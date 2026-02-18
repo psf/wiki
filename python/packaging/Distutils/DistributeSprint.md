@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Tasks for the sprint 
+## Tasks for the sprint 
 
 - A new \"generate manifest\" build command that will generate the MANIFEST file. and be pluggable. target: replace the Distutils builtin MANIFEST.in system (that will be just a plugin) - Yannick Gringas
 - cleanup, test and try out \"distribute.resources\": ronny, iElectric
@@ -15,7 +15,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 - reimplement python setup.py install \-- determine strategy wrt pip, lead: jezdez + tarek, carljm
 - workon PEP 376 : tarek, carljm (lead)
 
-# Sprint results 
+## Sprint results 
 
 - develop command:
   - Created a skeleton command for develop

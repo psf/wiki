@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Asking for Help: I\'m taking an unhandled threading exception that I\'ve been unable to locate 
+## Asking for Help: I\'m taking an unhandled threading exception that I\'ve been unable to locate 
 
 I keep getting this unhandled exception, but I believe I have placed try except statements in all my threads. Any thoughts?
 

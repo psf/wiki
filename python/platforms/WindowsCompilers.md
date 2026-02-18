@@ -18,7 +18,7 @@ Microsoft provides official C++ compilers called *Visual C++*, you can find them
 
 The compiler\'s architecture must be the same as Python\'s (for example: if you use Python 64bit, you have to use an x64 compiler).
 
-# Which Microsoft Visual C++ compiler to use with a specific Python version ? 
+## Which Microsoft Visual C++ compiler to use with a specific Python version ? 
 
 Each Python version uses a specific compiler version (e.g. *CPython 2.7* uses *Visual C++ 9.0*, *CPython 3.3* uses *Visual C++ 10.0*, etc). So, you need to install the compiler version that corresponds to your Python version :
 
@@ -33,7 +33,7 @@ Each Python version uses a specific compiler version (e.g. *CPython 2.7* uses *V
 
 Please also have a look at [The Python Dev Guide for Windows](https://devguide.python.org/getting-started/setup-building/index.html#windows) to check for additional requirements or updates to the above table.
 
-# Distutils notes 
+## Distutils notes 
 
 If the package\'s *setup.py* (still) uses *distutils* rather than the [recommended](https://docs.python.org/2/library/distutils.html) *setuptools*, you may need extra steps:
 
@@ -41,7 +41,7 @@ If the package\'s *setup.py* (still) uses *distutils* rather than the [recommend
 
 - For other setups, you need to run the compilation from the \"SDK prompt\" of the corresponding toolchain and set the *DISTUTILS_USE_SDK* environment variable to a non-empty value.
 
-# Compilers Installation and configuration 
+## Compilers Installation and configuration 
 
 Compatible architectures are specified for each compiler in brackets.
 
@@ -49,7 +49,7 @@ Compatible architectures are specified for each compiler in brackets.
 
     pip install --upgrade setuptools
 
-## Microsoft Visual C++ 14.x with Visual Studio 2022 (x86, x64, ARM, ARM64) 
+### Microsoft Visual C++ 14.x with Visual Studio 2022 (x86, x64, ARM, ARM64) 
 
 - Install *[Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)* (or later).
 
@@ -65,7 +65,7 @@ For additional details, please have a look at the Windows section of the [Python
 
 At the time of this writing, CPython is built using VC++ 14.3 (Jan 2022).
 
-## Microsoft Visual C++ 14.2 standalone: Build Tools for Visual Studio 2019 (x86, x64, ARM, ARM64) 
+### Microsoft Visual C++ 14.2 standalone: Build Tools for Visual Studio 2019 (x86, x64, ARM, ARM64) 
 
 This is a standalone version of *Visual C++ 14.2* compiler, you don\'t need to install *Visual Studio 2019*.
 
@@ -77,11 +77,11 @@ This is a standalone version of *Visual C++ 14.2* compiler, you don\'t need to i
 
 ![{i}](/wiki/europython/img/icon-info.png "{i}") Build Tools also allows to install any previous Visual C++ 14 version (Including 2015, 2017 ones).
 
-## Microsoft Visual C++ 14.2 with Visual Studio 2019 (x86, x64, ARM, ARM64) 
+### Microsoft Visual C++ 14.2 with Visual Studio 2019 (x86, x64, ARM, ARM64) 
 
 *Visual Studio 2019* contains *Visual C++ 14.2* compiler. The *setuptools* Python package version must be at least 34.4.0.
 
-## Microsoft Visual C++ 14.1 standalone: Build Tools for Visual Studio 2017 (x86, x64, ARM, ARM64) 
+### Microsoft Visual C++ 14.1 standalone: Build Tools for Visual Studio 2017 (x86, x64, ARM, ARM64) 
 
 This is a standalone version of *Visual C++ 14.1* compiler, you don\'t need to install *Visual Studio 2017*.
 
@@ -91,13 +91,13 @@ This is a standalone version of *Visual C++ 14.1* compiler, you don\'t need to i
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") Build Tools for Visual Studio 2017 was upgraded by Microsoft to Build Tools for Visual Studio 2019. See the previous paragraph to install it.
 
-## Microsoft Visual C++ 14.1 with Visual Studio 2017 (x86, x64, ARM, ARM64) 
+### Microsoft Visual C++ 14.1 with Visual Studio 2017 (x86, x64, ARM, ARM64) 
 
 *Visual Studio 2017* contains *Visual C++ 14.1* compiler. The *setuptools* Python package version must be at least 34.4.0.
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") Visual Studio 2017 was upgraded by Microsoft to Visual Studio 2019. See the previous paragraph to install it.
 
-## Microsoft Visual C++ 14.0 standalone: Visual C++ Build Tools 2015 (x86, x64, ARM) 
+### Microsoft Visual C++ 14.0 standalone: Visual C++ Build Tools 2015 (x86, x64, ARM) 
 
 This is a standalone version of *Visual C++ 14.0* compiler, you don\'t need to install *Visual Studio 2015*.
 
@@ -107,13 +107,13 @@ This is a standalone version of *Visual C++ 14.0* compiler, you don\'t need to i
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") Visual C++ Build Tools 2015 was upgraded by Microsoft to Build Tools for Visual Studio 2017. See the previous paragraph to install it.
 
-## Microsoft Visual C++ 14.0 with Visual Studio 2015 (x86, x64, ARM) 
+### Microsoft Visual C++ 14.0 with Visual Studio 2015 (x86, x64, ARM) 
 
 *Visual Studio 2015* contains *Visual C++ 14.0* compiler. *Distutils* will automatically detect the compiler and use it.
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") Visual Studio 2015 was upgraded by Microsoft to Visual Studio 2017. See the previous paragraph to install it.
 
-## Microsoft Visual C++ 10.0 standalone: Windows SDK 7.1 (x86, x64, ia64) 
+### Microsoft Visual C++ 10.0 standalone: Windows SDK 7.1 (x86, x64, ia64) 
 
 This is a standalone version of *Visual C++ 10.0* compiler, you don\'t need to install *Visual Studio 2010*.
 
@@ -129,11 +129,11 @@ This is a standalone version of *Visual C++ 10.0* compiler, you don\'t need to i
 
 - The *setuptools* Python package version must be at least 24.0.
 
-## Microsoft Visual C++ 10.0 with Visual Studio 2010 (x86, x64, ia64) 
+### Microsoft Visual C++ 10.0 with Visual Studio 2010 (x86, x64, ia64) 
 
 *Visual Studio 2010* contains *Visual C++ 10.0* compiler. *Distutils* will automatically detect the compiler and use it. The *Express* edition of *Visual Studio 2010* only bundles a compiler for x86.
 
-## Microsoft Visual C++ 9.0 standalone: Visual C++ Compiler for Python 2.7 (x86, x64) 
+### Microsoft Visual C++ 9.0 standalone: Visual C++ Compiler for Python 2.7 (x86, x64) 
 
 This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to install *Visual Studio 2008*.
 
@@ -145,7 +145,7 @@ This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to in
 
 ![{i}](/wiki/europython/img/icon-info.png "{i}") This package always installs its start menu shortcuts for the installing user (i.e. an administrator) only. To get them for all users, run the installation like this: *msiexec /i \<full path to .msi\> ALLUSERS=1*.
 
-## Microsoft Visual C++ 9.0 standalone: Windows SDK 7.0 (x86, x64, ia64) 
+### Microsoft Visual C++ 9.0 standalone: Windows SDK 7.0 (x86, x64, ia64) 
 
 This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to install *Visual Studio 2008*.
 
@@ -157,7 +157,7 @@ This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to in
 
 - The *setuptools* Python package version must be at least 24.0.
 
-## Microsoft Visual C++ 9.0 standalone: Windows SDK 6.1 (x86, x64, ia64) 
+### Microsoft Visual C++ 9.0 standalone: Windows SDK 6.1 (x86, x64, ia64) 
 
 This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to install *Visual Studio 2008*.
 
@@ -169,11 +169,11 @@ This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to in
 
 - The *setuptools* Python package version must be at least 24.0.
 
-## Microsoft Visual C++ 9.0 with Visual Studio 2008 (x86, x64, ia64) 
+### Microsoft Visual C++ 9.0 with Visual Studio 2008 (x86, x64, ia64) 
 
 *Visual Studio 2008* contains *Visual C++ 9.0* compiler. *Distutils* will automatically detect the compiler and use it. The *Express* edition of *Visual Studio 2008* only bundles a compiler for x86.
 
-## GCC - MinGW-w64 (x86, x64) 
+### GCC - MinGW-w64 (x86, x64) 
 
 [MinGW-w64](http://mingw-w64.org) is an alternative C/C++ compiler that works with all Python versions up to 3.4.
 
@@ -197,7 +197,7 @@ This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to in
 :::
 ::::
 
-## GCC - MinGW (x86) 
+### GCC - MinGW (x86) 
 
 [MinGW](http://www.mingw.org/) is an alternative C/C++ compiler that works with all Python versions up to 3.4.
 

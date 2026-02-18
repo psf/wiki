@@ -15,7 +15,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 [Catherine Devlin](http://wiki.python.org/moin/CatherineDevlin)
 
-# Staffing 
+## Staffing 
 
 If you are interested in helping out put your name down for each one you would feel comfortable contributing to. Have no fear this is not a formal signup. You will not have to do anything. This is just to gauge interest and see who may be interested in helping. Putting your name next to more than one position is encouraged!
 

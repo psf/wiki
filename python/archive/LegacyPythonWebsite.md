@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Welcome to Pydotorg Central 
+## Welcome to Pydotorg Central 
 
 **Please note: This page explains the setup for legacy.python.org, not the new www.python.org site.**
 
@@ -26,7 +26,7 @@ You can monitor the build status on the [status page](http://www.python.org/stat
 
 For extra information, see [PythonWebsiteDetails](../infrastructure/PythonWebsiteDetails)
 
-## How Can I Help? 
+### How Can I Help? 
 
 To join the project, get started by getting a local copy of the site running. You can submit new tickets for bugs or improvements (see [PythonWebsiteCreatingNewTickets](../infrastructure/PythonWebsiteCreatingNewTickets)) or work on content at wiki.python.org without having commit privileges.
 
@@ -34,7 +34,7 @@ If you want to become a committer, email pydotorg at python dot org for details.
 
 Chat/help on IRC at [#pydotorg](irc://freenode.net/pydotorg) on freenode.net
 
-## Discussion 
+### Discussion 
 
 See [PythonWebsiteHomePage](../infrastructure/PythonWebsiteHomePage) for discussion on what should be on the home page (some of which has been completed, but not all).
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Candidates for the 2016 PSF Board of Directors
+## Candidates for the 2016 PSF Board of Directors
 
 The following people have been nominated as Directors of the Python Software Foundation for the term beginning in May 2016. Their self-written summaries follow. The specific dates of relevance to the election are:
 
@@ -113,7 +113,7 @@ Please use the following format:
     ----
 
 ::: 
-### [Lorena Mesa](#id1)
+#### [Lorena Mesa](#id1)
 
 *New Board Member. (Nominated by Anna Ossowski)*
 
@@ -180,7 +180,7 @@ Lorena Mesa
 ------------------------------------------------------------------------
 
 ::: 
-### [Trey Hunner](#id2)
+#### [Trey Hunner](#id2)
 
 *New Board Member. (Nominated by Anna Ossowski)*
 
@@ -231,7 +231,7 @@ Affiliations: Truthful Technology LLC, San Diego Python, EditorConfig
 ------------------------------------------------------------------------
 
 ::: 
-### [Jackie Kazil](#id3)
+#### [Jackie Kazil](#id3)
 
 *New Board Member. (Nominated by Anna Ossowski)*
 
@@ -288,7 +288,7 @@ Affiliations: 18F, PyLadies, DCFemTech, PyJournos, IRE/NICAR
 ------------------------------------------------------------------------
 
 ::: 
-### [Naomi Ceder](#id4)
+#### [Naomi Ceder](#id4)
 
 *2015 Board Member*
 
@@ -330,7 +330,7 @@ Affiliation: W. W. Grainger, Trans\*Code, Chi Tech Diversity (chitechdiversity.c
 ------------------------------------------------------------------------
 
 ::: 
-### [Carol Willing](#id5)
+#### [Carol Willing](#id5)
 
 *2015 Board Member.*
 
@@ -375,7 +375,7 @@ Affiliation: Project Jupyter, Cal Poly San Luis Obispo, Willing Consulting, Fab 
 :::
 
 ::: 
-### [Philip James](#id6)
+#### [Philip James](#id6)
 
 *New Board Member.*
 
@@ -393,7 +393,7 @@ Affiliations: PSF, DjangoCon US, OpenHatch, Eventbrite
 ------------------------------------------------------------------------
 
 ::: 
-### [Carrie Anne Philbin](#id7)
+#### [Carrie Anne Philbin](#id7)
 
 *2015 Board Member.*
 
@@ -421,7 +421,7 @@ Affiliation: Raspberry Pi Foundation
 ------------------------------------------------------------------------
 
 ::: 
-### [Younggun Kim](#id8)
+#### [Younggun Kim](#id8)
 
 *New Board Member. (Nominated by Carol Willing)*
 
@@ -454,7 +454,7 @@ Affiliations: PyCon KR/APAC, Open Source Advocate at NIPA, Smart Study
 ------------------------------------------------------------------------
 
 ::: 
-### [Diana Clarke](#id9)
+#### [Diana Clarke](#id9)
 
 *2015 Board Member.*
 
@@ -494,7 +494,7 @@ Affiliations: PSF, Red Hat, OpenStack
 ------------------------------------------------------------------------
 
 ::: 
-### [Van Lindberg](#id10)
+#### [Van Lindberg](#id10)
 
 *2015 Board Member.*
 
@@ -519,7 +519,7 @@ Affiliations: Rackspace, OpenStack
 ------------------------------------------------------------------------
 
 ::: 
-### [Chris Clifton](#id11)
+#### [Chris Clifton](#id11)
 
 *New Board Member*
 
@@ -538,7 +538,7 @@ Affiliations: United Airlines
 ------------------------------------------------------------------------
 
 ::: 
-### [Annapoornima Koppad](#id12)
+#### [Annapoornima Koppad](#id12)
 
 *New Board Member.*
 
@@ -584,7 +584,7 @@ Self Nomination
 ------------------------------------------------------------------------
 
 ::: 
-### [Monty Taylor](#id13)
+#### [Monty Taylor](#id13)
 
 *New Board Member. (nominated by Morgan Fainberg)*
 
@@ -623,7 +623,7 @@ Affiliation: OpenStack, IBM, Ansible (project, not company)
 :::
 
 ::: 
-### [Raphael Pierzina](#id14)
+#### [Raphael Pierzina](#id14)
 
 *New Board Member.*
 
@@ -654,7 +654,7 @@ Affiliation: FanDuel, Cookiecutter, Pytest, Python Edinburgh, Python Glasgow
 :::
 
 :::: 
-### [Kushal Das](#id15)
+#### [Kushal Das](#id15)
 
 *Previously on 2014/15 Board*
 
@@ -665,7 +665,7 @@ I am an active volunteer in PyCon, and also work as the sprint-coordinator for t
 I am organizing [an online summer training](https://dgplug.org/summertraining16/) for the last 9 years where people from all over the world participate and learn about FOSS in general and then learn how to use Python to solve their daily life problems. This training goes on for almost 3 months over IRC. The goal of this training is to get more global developers, diversity is a key factor in that training.
 
 ::: 
-#### Goals for 2016-17
+##### Goals for 2016-17
 
 - To help PSF to grow the community base outside USA. There are too many people using Python in world, I believe that we can do better in reaching out to them, and grow together.
 - Working to make sure the outreach and education efforts reach far away places.
@@ -676,7 +676,7 @@ Affiliation: PSF, Red Hat
 ::::
 
 :::: 
-### [Raghav Hanumantharau](#id16)
+#### [Raghav Hanumantharau](#id16)
 
 *New Board Member*
 
@@ -689,7 +689,7 @@ I would like for an opportunity to help other community members experience the s
 I am active in Bay Area Meetups and have experience volunteering in various organizations.
 
 ::: 
-#### My Goals for 2016/2017
+##### My Goals for 2016/2017
 
 Having gone through all the previously listed goals, I\'m truly honored to be associated with such exemplary individuals.
 
@@ -702,7 +702,7 @@ Affiliations: None.
 ------------------------------------------------------------------------
 
 ::: 
-### [Ed Leafe](#id17)
+#### [Ed Leafe](#id17)
 
 *New Board Member.* (Nominated by Carl Karsten)
 
@@ -736,7 +736,7 @@ OpenStack, his current full time job, has a documented transparency policy:
 ------------------------------------------------------------------------
 
 ::: 
-### [Simon Cross](#id18)
+#### [Simon Cross](#id18)
 
 *New Board Member.* (Nominated by Carl Karsten)
 
@@ -754,7 +754,7 @@ Simon's efforts also extend around the Python community, where he's a maintainer
 ------------------------------------------------------------------------
 
 ::: 
-### [Massimo Di Pierro](#id19)
+#### [Massimo Di Pierro](#id19)
 
 *New Board Member.* (Nominated by Carl Karsten)
 
@@ -779,7 +779,7 @@ Affiliations
 ------------------------------------------------------------------------
 
 ::: 
-### [James Powell](#id20)
+#### [James Powell](#id20)
 
 *New Board Member.* (Nominated by Carl Karsten)
 
@@ -797,7 +797,7 @@ NumFOCUS Vice President
 :::
 
 ::: 
-### [Don Sheu](#id21)
+#### [Don Sheu](#id21)
 
 *New Board Member.* (Nominated by Yannick Gingras)
 

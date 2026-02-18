@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# RDF Libraries for Python 
+## RDF Libraries for Python 
 
 There are several [RDF](http://esw.w3.org/topic/RDF) processing libraries for Python, however many seem abandoned. [RdfLib](https://rdflib.readthedocs.io/en/stable/) is the primary library that is still maintained.
 
@@ -62,6 +62,6 @@ Abandoned:
 
   - [Latest release](https://pypi.org/project/sqltriples/#history) in 2007
 
-## Editorial Notes 
+### Editorial Notes 
 
 The above lists should be arranged in ascending alphabetical order - please respect this when adding new entries. When specifying release dates please use the format YYYY-MM-DD.

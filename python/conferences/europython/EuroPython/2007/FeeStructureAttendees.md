@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Fee Structure for Attendees 
+## Fee Structure for Attendees 
 
 A guide to attendee fees:
 
@@ -33,7 +33,7 @@ See the minutes from [EuroPython/2007/IrcMeetings/IrcMeeting9](IrcMeetings/IrcMe
 
 Note that a fortuitous choice of deadlines (having early registration end on or after speaker acceptance notifications) means that people can sign up tentat ively as a speaker and not be charged extra later on.
 
-## Notes 
+### Notes 
 
 - [PyCon](../../../pycon/PyCon) UK is a two-day conference; rates do not include conference dinner.
 

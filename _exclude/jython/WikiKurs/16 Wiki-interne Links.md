@@ -10,37 +10,37 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   [Slideshow](./WikiKurs(2f)16(20)Wiki(2d)interne(20)Links.html?action=print&media=projection) [\^](WikiKurs) [\|\<](./WikiKurs(2f)01(20)Was(20)ist(20)ein(20)MoinMoin(2d)Wiki(3f).html) [\<\<](./WikiKurs(2f)15(20)Tabellen.html) Slide 15 of 27 [\>\>](./WikiKurs(2f)17(20)Externe(20)Links.html) [\>\|](./WikiKurs(2f)52(20)Struktur(20)im(20)Wiki.html)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Wiki-interne Links 
+## Wiki-interne Links 
 
 Eine der wichtigsten Funktionen im Wiki ist das Verlinken auf andere Wiki-Seiten - deshalb geht dies auch sehr einfach.
 
-## WikiNamen (\"CamelCase\") 
+### WikiNamen (\"CamelCase\") 
 
 Wenn man WorteZusammenschreibt wie z.B. bei VornameNachname oder [CamelCase](CamelCase) oder [MoinMoin](MoinMoin), so dass in einem Wort mindestens 2 Wechsel Großbuchstabe-Kleinbuchstabe(n) vorkommen, so verlinkt [MoinMoin](MoinMoin) dieses Wort automatisch zu der gleichnamigen Seite.
 
 Dies geht sehr einfach, es ist kein Wiki-Markup notwendig. Aber die ungewöhnliche Schreibweise ist nicht jedermanns Sache, daher gibt es eine weitere Alternative, die sog. \"free links\".
 
-### Eingabe 
+#### Eingabe 
 
     CamelCase !CamelCaseAberNichtVerlinkt
 
-### Anzeige 
+#### Anzeige 
 
 [CamelCase](CamelCase) CamelCaseAberNichtVerlinkt
 
-## Freie Links 
+### Freie Links 
 
 Möchte man Seiten verlinken, die nicht [CamelCase](CamelCase) sind oder wenn man einfach kein [CamelCase](CamelCase) mag, kann man wie folgt verlinken:
 
-### Eingabe 
+#### Eingabe 
 
     Ein [[freier Link]] und [[andere Seite|eine andere Seite]].
 
-### Anzeige 
+#### Anzeige 
 
 Ein [freier Link](./freier(20)Link.html) und [eine andere Seite](./andere(20)Seite.html).
 
-# Rückwärtsverfolgung von Links 
+## Rückwärtsverfolgung von Links 
 
 Wenn man auf den Seitennamen im Navigationsbereich klickt, sucht das Wiki nach Seiten, die auf diesen Seitennamen verlinken.
 

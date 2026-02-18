@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Generator functions allow you to declare a function that behaves like an iterator, i.e. it can be used in a for loop.
 
-# Simplified Code 
+## Simplified Code 
 
 The simplification of code is a result of generator function and generator expression support provided by Python.
 
@@ -126,7 +126,7 @@ This also means that we can use the same syntax we have been using for list comp
 
 Keep in mind that generators are a special type of iterator, and that containers like `list`{.backtick} and `set`{.backtick} are also iterables. The uniform way in which all of these are handled adds greatly to the simplification of code.
 
-# Improved Performance 
+## Improved Performance 
 
 The performance improvement from the use of generators is the result of the lazy (on demand) generation of values, which translates to lower memory usage. Furthermore, we do not need to wait until all the elements have been generated before we start to use them. This is similar to the benefits provided by iterators, but the generator makes building iterators easy.
 
@@ -188,7 +188,7 @@ Imagine that making a integer is a very expensive process. In the above code, we
 
 However, a generator might still be the only way, if the storage of these generated objects in memory is not practical, and it might be worth to pay the price of duplicated expensive computations.
 
-# Examples 
+## Examples 
 
 For example, the [RangeGenerator](../people/RangeGenerator) can be used to iterate over a large number of values, without creating a massive list (like range would)
 
@@ -237,7 +237,7 @@ Here, we compose a square generator with the takewhile generator, to generate sq
 
 to be written: Generators made from classes?
 
-## Links 
+### Links 
 
 - [PEP-255: Simple Iterators](http://www.python.org/peps/pep-0255.html) \-- the original
 
@@ -251,7 +251,7 @@ to be written: Generators made from classes?
 
 See also: [Iterator](Iterator)
 
-# Discussion 
+## Discussion 
 
 I once saw [MikeOrr](./MikeOrr.html) demonstrate Before and After examples. But, I forget how they worked.
 

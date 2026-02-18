@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Improving the Python debugger 
+## Improving the Python debugger 
 
 Student: Matthew J Fleming
 
@@ -22,11 +22,11 @@ Many people have voiced their concern that the Python debugger could be improved
 
 The class that overrides Pdb and provides our enhancements is \'MPdb\'.
 
-#### None of the information below is set in stone and may change based on mine or Rocky\'s ideas and public feedback as we feel it is better to make some of the decisions (communication mechansim) open to change in the future or at least being able to make a decision later rather than sooner. 
+##### None of the information below is set in stone and may change based on mine or Rocky\'s ideas and public feedback as we feel it is better to make some of the decisions (communication mechansim) open to change in the future or at least being able to make a decision later rather than sooner. 
 
 The design of these improvements has been of great importance and we have specifically concentrated on allowing future programmers to easily add to our work. For example, up until recently in the Python trunk, to get a Pdb session to send program output to some place other than stdout one had to override all of the methods in Pdb that used a \'print\' statement. However, now, the version of Pdb in the trunk allows a programmer to specify both a stdin and a stdout stream. We will follow this example. The advantage of our design is that it is easily extensible and it aims to follow the gdb way to doing things.
 
-## Debugging communication techniques and ideas 
+### Debugging communication techniques and ideas 
 
 We have discussed various communication mechanisms including sockets and serial communication. For debugging from another process it became clear (after looking at other debuggers) that most people choose to go with a \'socket-based\' approach. The advantages of using this approach is that it is a tried and tested method that many debuggers use. One alternative to the socket approach is to use xmlrpc which allows the passing around of requests in a structured format, which may come in most handy when the debugger server is sending information to a debugger console. For instance, if someone were to write an IDE for MPdb, it would be trivial when using xmlrpc to allow the debugging server class to return a tagged message to the console which would indicate,
 

@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::
 
-# Graphical User Interfaces With Tk 
+## Graphical User Interfaces With Tk 
 
 16.1 Tkinter \-- Python interface to Tcl/Tk
 
@@ -36,7 +36,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 16.6 Other Graphical User Interface Packages
 
-## Comments 
+### Comments 
 
 ------------------------------------------------------------------------
 

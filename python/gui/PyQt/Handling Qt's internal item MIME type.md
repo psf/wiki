@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Handling Qt\'s internal item MIME type 
+## Handling Qt\'s internal item MIME type 
 
 Normally, to perform drag and drop between two item views, the developer would create their own model, reimplementing the `mimeData()`{.backtick} method to return a custom MIME type and the `dropMimeData()`{.backtick} method to accept data with this MIME type. However, this seems like a lot of work, especially when the data comes from a standard model.
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Some use cases of the \'develop\' command 
+## Some use cases of the \'develop\' command 
 
 The \'develop\' command is used to pseudo-install a project source without copying any files, which is a useful feature of setuptools and will be implemented for packaging.
 
@@ -24,7 +24,7 @@ The develop command writes three pieces of information to the filesystem:
 
 3.  It adds the build directory\'s path to a .pth file.
 
-## Use Case 1 (from Carl) 
+### Use Case 1 (from Carl) 
 
 **Story Description:** Carl has a foobar project which contains a \'foobar\' directory that is referenced in his setup.{py,cfg} as the a package to be installed. He also has additional Python packages alongside \'foobar\' (e.g. a \'tests\' directory), which he does not want installed.
 
@@ -45,7 +45,7 @@ The develop command writes three pieces of information to the filesystem:
 
 - The \'tests\' directory, or any directory not referenced in the setup.{cfg,py} for install, should not be importable, because it could have an unintended collision with other installed packages.
 
-## Use Case 2 (from Tarek) 
+### Use Case 2 (from Tarek) 
 
 **Story Description:** Tarek wants to install a project in-place with \'develop\' command. Because he does not have root access to the system, therefore lacks write access to the global site-packages directory. He would also like the package to be installed for no one but himself.
 
@@ -56,7 +56,7 @@ The develop command writes three pieces of information to the filesystem:
 - The develop command cannot assume it has write access to the site-packages directory. Usage of the sudo command to install the development information is not a valid solution in this case.
 - The develop command must write the build directory path to the user\'s site-packages directory (site.USER_SITE).
 
-## Use Case 3 (from Tarek) 
+### Use Case 3 (from Tarek) 
 
 **Story Description:**
 
@@ -67,7 +67,7 @@ Tarek has a foobar project and he is in its project source tree, then he runs \'
 - foobar seems installed for him
 - foobar should not be shared with the whole system, or with everyone
 
-## Use Case 4 (from Carl) 
+### Use Case 4 (from Carl) 
 
 **Story Description:** One has a private VPS that hosts a number of Mercurial repositories. In addition, he has some custom plugins and hooks that need to run for all users of the server. These plugins and hooks are frequently updated.
 
@@ -76,7 +76,7 @@ Tarek has a foobar project and he is in its project source tree, then he runs \'
 - run \'develop\' command once, and then be able to repeatedly pull code changes in and have them immediately accessible
 - don\'t have to bump version numbers and make releases all the time
 
-## Use Case 5 (from Doug) 
+### Use Case 5 (from Doug) 
 
 **Story Description:** There is a python development team and his application cann\'t work in a virtualenv for a variety of reasons.
 
@@ -84,7 +84,7 @@ Tarek has a foobar project and he is in its project source tree, then he runs \'
 
 - install into the global site-packages in \'development mode\'
 
-## Use Case 6 (from Doug) 
+### Use Case 6 (from Doug) 
 
 **Story Description:** One is working on a foobar project and he has opened a python intepreter(we call it INTPT-A).
 

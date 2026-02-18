@@ -6,19 +6,19 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Audience 
+## Audience 
 
 Python programmers with a desire to understand how to build cross-platform graphical user interfaces for their programs.
 
 Those interested in understanding GUI frameworks and the relationship between the different program components in an event-driven environment.
 
-# Summary 
+## Summary 
 
 This tutorial will present an introduction to the wxPython GUI framework, showing Python programmers how to construct flexible interfaces that make best use of Python\'s object-oriented features to provide convenient interfaces to Python functionality with a look-and-feel conformant with the operating system platform.
 
 Pre-registered students will receive access to electronic copies of the course notes and example materials to allow them to run the examples presented in the tutorial.
 
-# Outline 
+## Outline 
 
 1\. GUI Basics
 

@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Python Glossary 
+## Python Glossary 
 
 If you know a term you\'d like defined, simply enter it with `???`{.backtick} for the definition, then subscribe to updates to this page (you\'ll need to set up a profile on the [UserPreferences](./UserPreferences.html) page). Someone will come along and complete it and you\'ll be reminded to check back when you are notified of changes to this page.
 
@@ -14,7 +14,7 @@ A [symbol glossary](attachments/PythonGlossary/PySymbols.html "symbol glossary")
 
 ------------------------------------------------------------------------
 
-## A-M 
+### A-M 
 
 - **Attribute** - Values associated with an individual object. Attributes are accessed using the \'dot syntax\': *a.x* means fetch the x attribute from the \'a\' object.
 
@@ -100,7 +100,7 @@ A [symbol glossary](attachments/PythonGlossary/PySymbols.html "symbol glossary")
 
 - **mutable** - Mutable objects can change their value but keep their `id()`{.backtick}. See also **immutable**.
 
-## N-Z 
+### N-Z 
 
 - **namespace** - The place where a variable is stored in a Python program\'s memory. Namespaces are implemented as a dictionary. There are the local, global and builtins namespaces and the nested namespaces in objects (in methods). Namespaces support modularity by preventing naming conflicts. For instance, `__builtins__.open()`{.backtick} and `os.open()`{.backtick} are distinguished by their namespaces. Namespaces also aid readability and maintainabilty by making it clear which modules implement a function. For instance, writing `random.seed()`{.backtick} and `itertools.izip()`{.backtick} will make it clear that those functions are implemented by the `random`{.backtick} and `itertools`{.backtick} modules respectively.
 
@@ -142,11 +142,11 @@ A [symbol glossary](attachments/PythonGlossary/PySymbols.html "symbol glossary")
 
 - **Zen of Python** - listing of Python design principles and philosophies that are helpful in understanding and using the language effectively. The listing can be found by typing \"import this\" at the interactive prompt.
 
-## misc
+### misc
 
 - **\>\>\>** - The typical Python prompt of the interactive shell. Often seen for code examples that can be tried right away in the interpreter. Not to be confused with \"\>\" symbols used for the indentation of cited material on email lists.
 
-# Historical information 
+## Historical information 
 
 Previous versions of this page were mostly written before Python 3 was commonly used. For historical interest or Python 2-specific definitions, please see [previous page revisions](https://wiki.python.org/moin/PythonGlossary?action=recall&rev=36).
 

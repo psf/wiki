@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **Learning python by example**
 
-# Python XML & XSLT 
+## Python XML & XSLT 
 
-## Create and add elements 
+### Create and add elements 
 
     from xml.dom.minidom import parseString
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Starship Python has Moved! 
+## Starship Python has Moved! 
 
 On September 1, 2003, the machine that has been hosting Starship Python (courtesy of Zope Corporation) has been shutdown. Consequently, Starship has being transferred to a new machine, kindly provided by Stefan Drees. This page exists as a record for the Starship admins, so they can keep track of what tasks had to be done, for the successful transfer to happen smoothly. We are currently in the everlasting post-transfer phase, where new features and services are enabled. Probably we should list the core and special features of the current machine here\...
 
 If you\'re a Starship admin, feel free to update this page. Otherwise, please email [webmaster@python.net](mailto:webmaster@python.net) if you want to add stuff to our to-do list.
 
-## Tasks for old Starship 
+### Tasks for old Starship 
 
 - determine disk usage patterns (ie. which directories use up the most space, and which users are responsible for those directories)
 
@@ -42,7 +42,7 @@ If you\'re a Starship admin, feel free to update this page. Otherwise, please em
   \
   \[assigned: gward\]
 
-## Tasks for new Starship 
+### Tasks for new Starship 
 
 - upgrade to Debian \'testing\' (sarge)
 
@@ -113,7 +113,7 @@ If you\'re a Starship admin, feel free to update this page. Otherwise, please em
   user credential transfer will be greatly simplified by starship policy of using ssh keys for authentication. So the (shadowed) passwords will be a local secret \... greg wrote a little script already\
   \[done: gward ![;)](/wiki/europython/img/smile4.png ";)") \]
 
-## Tasks for python.net DNS 
+### Tasks for python.net DNS 
 
 - find/select a good DNS provider (not critical path, but desirable)
 
@@ -128,7 +128,7 @@ If you\'re a Starship admin, feel free to update this page. Otherwise, please em
   (currently the DNS servers are at zope.com/baymountain.com, and Starship admins cannot edit the python.net DNS records)\
   \[assigned: tismer (he owns the domain!)\]
 
-## Detailed transfer plan 
+### Detailed transfer plan 
 
 The transfer itself start at 2003-08-27 14:30 UTC.
 

@@ -6,13 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Game Programming With Python 
+## Game Programming With Python 
 
 You can write whole games in Python using [PyGame](http://www.pygame.org/). See a list of other [PythonGameLibraries](PythonGameLibraries) maintained in this Wiki, or [this list maintained on DevMaster.net](http://www.devmaster.net/engines/list.php?fid=6&sid=11). A full tutorial can be found in the free book [\"Making Games with Python & Pygame\"](http://inventwithpython.com/pygame).
 
 If you have an existing game and want to add a scripting engine to make it more flexible, Python is also a very good choice. But you\'ll have to learn about [IntegratingPythonWithOtherLanguages](../archive/IntegratingPythonWithOtherLanguages).
 
-## Websites 
+### Websites 
 
 [Pygame - The Full Tutorial](https://coderslegacy.com/python/python-pygame-tutorial/) - A complete pygame tutorial that teaches it from the ground up. Several game projects are also available with step by step explanations and the source.
 
@@ -28,7 +28,7 @@ If you\'re interested in learning how to use Pygame to create 3D games, two site
 
 [PyWeek](http://www.pyweek.org/) is a bi-annual programming challenge site that produces several great games.
 
-## Books 
+### Books 
 
 There\'s also some books that specifically cover game programming in Python:
 

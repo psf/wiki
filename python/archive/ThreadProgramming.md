@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Stopping Threads Fermare un Processo 
+## Stopping Threads Fermare un Processo 
 
 I\'d like to start this page off with a question. How do you kill one thread from within another? Here\'s some code that shows the problem:
 
@@ -50,7 +50,7 @@ The problem here is that `EventChannel.waitEvent()` is a blocking operation. So 
 
 Il costrutto o funzione `EventChannel.waitEvent()` è un blocco operativo. Così se un evento mai arriva, il nostro lavoro non fermerà mai il processo. Attenzione!!! Le (`EventChannel` and `EventHandler` sono classi da me inventate per questo esempio.
 
-## Suggestions Suggerimento 
+### Suggestions Suggerimento 
 
 - Make the `shutdown()` method put some harmless event on the event channel:
 
@@ -135,7 +135,7 @@ Ho un modulo C che pone delle interrogazioni ad un Databases. Queste queries pon
 
 \" Ciò può essere attuato con il codice python. L\'autore del D.B.
 
-# Resources 
+## Resources 
 
 - \[[http://starship.python.net/crew/aahz/OSCON2001/index.html](http://starship.python.net/crew/aahz/OSCON2001/index.html) Aahz OSCON 2001 presentation
 

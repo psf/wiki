@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-# Using a different view with QComboBox 
+## Using a different view with QComboBox 
 
 On the PyQt mailing list, Adam W. asked for \"[A simple way to add another column to QComboBox?](http://www.riverbankcomputing.com/pipermail/pyqt/2009-September/024242.html)\". Here is some sample code that does this:
 
