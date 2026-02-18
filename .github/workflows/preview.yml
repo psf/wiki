@@ -22,6 +22,10 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Restore file timestamps
+        if: github.event.action != 'closed'
+        uses: chetan/git-restore-mtime-action@d186aca54f8760da4dec55313195e51ed3ebb0b3 # v2.3
+
       - name: Detect changed sections
         if: github.event.action != 'closed'
         id: detect
