@@ -24,7 +24,7 @@ convert = [
 default-groups = ["docs"]
 
 [tool.uv.workspace]
-members = ["oauth"]
+exclude = ["oauth"]
 
 [tool.ruff]
 target-version = "py314"
