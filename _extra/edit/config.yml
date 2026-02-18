@@ -20,7 +20,7 @@ collections:
     extension: md
     nested:
       depth: 100
-      summary: "{{title}}"
+      summary: "{{filename}}"
       subfolders: false
     meta:
       path:
@@ -30,9 +30,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Orphan, name: orphan, widget: hidden, default: true }
-      - { label: Body, name: body, widget: markdown }
+      - {label: Body, name: body, widget: markdown}
 
   - name: psf-wiki
     label: PSF Wiki
@@ -42,7 +40,7 @@ collections:
     extension: md
     nested:
       depth: 100
-      summary: "{{title}}"
+      summary: "{{filename}}"
       subfolders: false
     meta:
       path:
@@ -52,9 +50,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Orphan, name: orphan, widget: hidden, default: true }
-      - { label: Body, name: body, widget: markdown }
+      - {label: Body, name: body, widget: markdown}
 
   - name: jython-wiki
     label: Jython Wiki
@@ -64,7 +60,7 @@ collections:
     extension: md
     nested:
       depth: 100
-      summary: "{{title}}"
+      summary: "{{filename}}"
       subfolders: false
     meta:
       path:
@@ -74,6 +70,4 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Orphan, name: orphan, widget: hidden, default: true }
-      - { label: Body, name: body, widget: markdown }
+      - {label: Body, name: body, widget: markdown}

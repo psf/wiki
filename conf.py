@@ -139,6 +139,21 @@ html_theme_options = {
         {"title": "Python Wiki", "url": "python/index"},
         {"title": "PSF Wiki", "url": "psf/index"},
         {"title": "Jython Wiki", "url": "jython/index"},
+        {
+            "title": "Contribute",
+            "children": [
+                {
+                    "title": "Edit with CMS",
+                    "url": "https://wiki.python.org/edit/",
+                    "summary": "Use the web-based editor to create or edit wiki pages",
+                },
+                {
+                    "title": "Edit on GitHub",
+                    "url": "https://github.com/JacobCoffee/wiki",
+                    "summary": "Fork the repository and submit changes via pull request",
+                },
+            ],
+        },
     ],
 }
 
