@@ -1,0 +1,82 @@
+name: PR Preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: preview-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    name: Build & Deploy Preview
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          fetch-depth: 0
+
+      - name: Detect changed sections
+        if: github.event.action != 'closed'
+        id: detect
+        run: |
+          changed=$(git diff --name-only origin/main...HEAD)
+
+          # Global files that require a full build
+          if echo "$changed" | grep -qE '^(conf\.py|index\.md|_templates/|_static/|_redirects_html/)'; then
+            echo "wiki=" >> $GITHUB_OUTPUT
+            echo "Full build required (global files changed)"
+            exit 0
+          fi
+
+          # Count which wiki sections have changes
+          wikis=""
+          for w in python psf jython; do
+            if echo "$changed" | grep -q "^${w}/"; then
+              wikis="$wikis $w"
+            fi
+          done
+
+          # If exactly one section changed, scope to it
+          count=$(echo $wikis | wc -w | tr -d ' ')
+          if [ "$count" = "1" ]; then
+            wiki=$(echo $wikis | tr -d ' ')
+            echo "wiki=$wiki" >> $GITHUB_OUTPUT
+            echo "Scoped build: WIKI=$wiki"
+          else
+            echo "wiki=" >> $GITHUB_OUTPUT
+            echo "Full build (${count} sections changed)"
+          fi
+
+      - name: Set up uv
+        if: github.event.action != 'closed'
+        uses: astral-sh/setup-uv@eac588ad8def6316056a12d4907a9d4d84ff7a3b # v7.3.0
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        if: github.event.action != 'closed'
+        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
+        with:
+          python-version: "3.14"
+
+      - name: Install dependencies
+        if: github.event.action != 'closed'
+        run: uv sync
+
+      - name: Build Sphinx site
+        if: github.event.action != 'closed'
+        env:
+          WIKI: ${{ steps.detect.outputs.wiki }}
+        run: uv run sphinx-build -b html . _build/html -j auto --keep-going
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@ffa7509e91a3ec8dfc2e5536c4d5c1acdf7a6de9 # v1.8.1
+        with:
+          source-dir: _build/html/
