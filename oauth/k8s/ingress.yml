@@ -1,0 +1,48 @@
+# Wiki OAuth Proxy - Cabotage Ingress
+# Apply manually: kubectl apply -f k8s/ingress.yml
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: wiki-wiki-oauth-app-web
+  namespace: coffee
+  annotations:
+    cert-manager.io/cluster-issuer: letsencrypt
+    nginx.ingress.kubernetes.io/backend-protocol: HTTPS
+    nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/proxy-connect-timeout: 10s
+    nginx.ingress.kubernetes.io/proxy-read-timeout: 10s
+    nginx.ingress.kubernetes.io/proxy-send-timeout: 10s
+    nginx.ingress.kubernetes.io/service-upstream: "true"
+  labels:
+    app: wiki-wiki-oauth-app
+    process: web
+    resident-service.cabotage.io: "true"
+spec:
+  ingressClassName: nginx
+  rules:
+  - host: coffee-wiki-wiki-oauth-app-web.ingress.us-east-2.psfhosted.computer
+    http:
+      paths:
+      - backend:
+          service:
+            name: wiki-wiki-oauth-app-web
+            port:
+              number: 8000
+        path: /
+        pathType: Prefix
+  - host: api.wiki.python.org
+    http:
+      paths:
+      - backend:
+          service:
+            name: wiki-wiki-oauth-app-web
+            port:
+              number: 8000
+        path: /
+        pathType: Prefix
+  tls:
+  - hosts:
+    - coffee-wiki-wiki-oauth-app-web.ingress.us-east-2.psfhosted.computer
+    - api.wiki.python.org
+    secretName: ingress-wiki-wiki-oauth-app-web
