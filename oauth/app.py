@@ -36,7 +36,7 @@ CALLBACK_HTML = """<!doctype html>
   const token = "%s";
   window.opener.postMessage(
     "authorization:github:success:" + JSON.stringify({token: token, provider: "github"}),
-    document.referrer
+    "*"
   );
   window.close();
 })();
