@@ -161,14 +161,21 @@ html_theme_options = {
 # -- Attachments -------------------------------------------------------------
 # MoinMoin wiki pages reference attachments as relative ``attachments/X/file``
 # paths.  The actual files live in ``{wiki}/_attachments/X/`` which is excluded
-# from the Sphinx source tree.  This hook copies referenced attachments into
-# the build output so the links resolve correctly.
+# from the Sphinx source tree.  Two things happen at build-finished:
+#
+# 1. Referenced attachment files are copied into the build output so that
+#    ``<img src="attachments/...">`` tags (from ``![](attachments/...)``) work.
+#
+# 2. MyST turns ``[text](attachments/...)`` links into broken anchor refs
+#    (``href="#attachments/..."``).  We rewrite those to proper relative URLs
+#    so the files can actually be downloaded.
 
 import re as _re
 import shutil as _shutil
 from urllib.parse import unquote as _unquote
 
 _ATTACH_RE = _re.compile(r'attachments/((?:[^()\"\s]|\(\w+\))+)')
+_HREF_ANCHOR_RE = _re.compile(r'href="#(\.?/?attachments/)')
 
 
 def _copy_wiki_attachments(app, exception):
@@ -183,6 +190,7 @@ def _copy_wiki_attachments(app, exception):
         if not attach_src.exists():
             continue
 
+        # --- pass 1: copy referenced attachment files into build output ---
         for md_file in (srcdir / wiki).rglob("*.md"):
             if "_attachments" in md_file.parts or "_exclude" in md_file.parts:
                 continue
@@ -195,7 +203,6 @@ def _copy_wiki_attachments(app, exception):
             html_dir = outdir / md_file.relative_to(srcdir).parent
 
             for ref in refs:
-                # Try URL-decoded name first, then raw
                 for candidate in (_unquote(ref), ref):
                     src_file = attach_src / candidate
                     if src_file.exists() and src_file.is_file():
@@ -204,6 +211,15 @@ def _copy_wiki_attachments(app, exception):
                         if not dst.exists():
                             _shutil.copy2(src_file, dst)
                         break
+
+    # --- pass 2: fix href="#attachments/..." → href="attachments/..." ---
+    for html_file in outdir.rglob("*.html"):
+        html = html_file.read_text(errors="ignore")
+        if "#attachments/" not in html:
+            continue
+        fixed = _HREF_ANCHOR_RE.sub(r'href="attachments/', html)
+        if fixed != html:
+            html_file.write_text(fixed, encoding="utf-8")
 
 
 def setup(app):
