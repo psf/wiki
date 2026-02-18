@@ -11,4 +11,4 @@ COPY app.py .
 
 USER nobody
 
-CMD ["uv", "run", "uvicorn", "app:app", "--uds", "/var/run/cabotage/cabotage.sock"]
+CMD ["/app/.venv/bin/uvicorn", "app:app", "--uds", "/var/run/cabotage/cabotage.sock"]
