@@ -46,6 +46,8 @@ The purpose of this wiki is as a space for collaborative editing:
 - to serve as an archive of projects we decided not to pursue and the reasons why not.
 :::
 
+---
+
 ```{toctree}
 :maxdepth: 2
 
