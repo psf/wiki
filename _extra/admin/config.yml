@@ -1,8 +1,7 @@
 backend:
   name: github
-  repo: psf/wiki
+  repo: JacobCoffee/wiki
   branch: main
-  use_graphql: true
   open_authoring: true
   base_url: https://api.wiki.python.org
 
@@ -18,7 +17,6 @@ collections:
     label_singular: Python Wiki Page
     folder: python
     create: true
-    format: yaml-frontmatter
     extension: md
     nested:
       depth: 100
@@ -41,7 +39,6 @@ collections:
     label_singular: PSF Wiki Page
     folder: psf
     create: true
-    format: yaml-frontmatter
     extension: md
     nested:
       depth: 100
@@ -64,7 +61,6 @@ collections:
     label_singular: Jython Wiki Page
     folder: jython
     create: true
-    format: yaml-frontmatter
     extension: md
     nested:
       depth: 100
