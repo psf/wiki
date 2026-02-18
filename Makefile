@@ -27,7 +27,7 @@ docs: docs-clean ## Build Sphinx documentation
 	$(UV) run sphinx-build -b html . _build/html -j $(JOBS) --keep-going
 
 docs-serve: docs-clean ## Serve docs with live reload
-	$(UV) run sphinx-autobuild . _build/html -j $(JOBS) --port 0 --re-ignore '_raw/.*' --re-ignore '.claude/.*'
+	$(UV) run sphinx-autobuild . _build/html -j $(JOBS) --port 0 --re-ignore '_raw/.*' --re-ignore '.claude/.*' --re-ignore '.github/.*' --re-ignore 'oauth/.*' --re-ignore '_extra/.*' --re-ignore 'k8s/.*' --re-ignore 'scripts/.*'
 
 docs-serve-fast: docs-clean ## Serve single wiki section (WIKI=python|psf|jython [SECTION=subdir])
 ifndef WIKI
