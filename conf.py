@@ -144,7 +144,7 @@ html_theme_options = {
             "children": [
                 {
                     "title": "Edit with CMS",
-                    "url": "https://wiki.python.org/edit/",
+                    "url": "edit/",
                     "summary": "Use the web-based editor to create or edit wiki pages",
                 },
                 {

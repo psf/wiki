@@ -21,7 +21,10 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: Body, name: body, widget: markdown}
+      - label: Body
+        name: body
+        widget: markdown
+        modes: [raw, rich_text]
 
   - name: psf-wiki
     label: PSF Wiki
@@ -34,7 +37,10 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: Body, name: body, widget: markdown}
+      - label: Body
+        name: body
+        widget: markdown
+        modes: [raw, rich_text]
 
   - name: jython-wiki
     label: Jython Wiki
@@ -47,4 +53,7 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: Body, name: body, widget: markdown}
+      - label: Body
+        name: body
+        widget: markdown
+        modes: [raw, rich_text]
