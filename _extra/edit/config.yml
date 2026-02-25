@@ -2,10 +2,8 @@ backend:
   name: github
   repo: JacobCoffee/wiki
   branch: main
-  use_graphql: true
   base_url: https://api.wiki.python.org
 
-publish_mode: editorial_workflow
 search: false
 
 media_folder: _static/images
@@ -16,17 +14,10 @@ collections:
     label: Python Wiki
     label_singular: Python Wiki Page
     folder: python
+    path: "{{dirname}}/{{filename}}"
     create: true
     extension: md
-    nested:
-      depth: 100
-      summary: "{{filename}}"
-      subfolders: false
-    meta:
-      path:
-        widget: string
-        label: Path
-        index_file: index
+    summary: "{{dirname}}/{{filename}}"
     editor:
       preview: false
     fields:
@@ -36,17 +27,10 @@ collections:
     label: PSF Wiki
     label_singular: PSF Wiki Page
     folder: psf
+    path: "{{dirname}}/{{filename}}"
     create: true
     extension: md
-    nested:
-      depth: 100
-      summary: "{{filename}}"
-      subfolders: false
-    meta:
-      path:
-        widget: string
-        label: Path
-        index_file: index
+    summary: "{{dirname}}/{{filename}}"
     editor:
       preview: false
     fields:
@@ -56,17 +40,10 @@ collections:
     label: Jython Wiki
     label_singular: Jython Wiki Page
     folder: jython
+    path: "{{dirname}}/{{filename}}"
     create: true
     extension: md
-    nested:
-      depth: 100
-      summary: "{{filename}}"
-      subfolders: false
-    meta:
-      path:
-        widget: string
-        label: Path
-        index_file: index
+    summary: "{{dirname}}/{{filename}}"
     editor:
       preview: false
     fields:
