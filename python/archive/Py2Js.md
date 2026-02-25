@@ -1,4 +1,4 @@
-# Py2Js
+# Py2JS
 
 ```{admonition} Legacy Wiki Page
 :class: note

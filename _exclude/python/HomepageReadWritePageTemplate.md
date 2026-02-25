@@ -1,4 +1,4 @@
-# HomepageReadWritePageTemplate
+# Homepage Read Write Page Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

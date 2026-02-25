@@ -1,4 +1,4 @@
-# PortablePython
+# Portable Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

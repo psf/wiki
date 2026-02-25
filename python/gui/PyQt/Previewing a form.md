@@ -1,4 +1,4 @@
-# PyQt/Previewing a form
+# PyQt / Previewing a form
 
 ```{admonition} Legacy Wiki Page
 :class: note

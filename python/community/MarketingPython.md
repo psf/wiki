@@ -1,4 +1,4 @@
-# MarketingPython
+# Marketing Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

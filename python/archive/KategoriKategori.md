@@ -1,4 +1,4 @@
-# KategoriKategori
+# Kategori Kategori
 
 ```{admonition} Legacy Wiki Page
 :class: note

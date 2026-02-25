@@ -1,4 +1,4 @@
-# ProblemSets/Project Euler Solutions
+# Problem Sets / Project Euler Solutions
 
 ```{admonition} Legacy Wiki Page
 :class: note

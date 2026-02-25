@@ -1,4 +1,4 @@
-# PyConIndia2009/SessionChairs
+# PyCon India 2009 / Session Chairs
 
 ```{admonition} Legacy Wiki Page
 :class: note

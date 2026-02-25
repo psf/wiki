@@ -1,4 +1,4 @@
-# PyCon2006/Topics
+# PyCon 2006 / Topics
 
 ```{admonition} Legacy Wiki Page
 :class: note

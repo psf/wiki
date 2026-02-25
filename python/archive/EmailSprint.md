@@ -1,4 +1,4 @@
-# EmailSprint
+# Email Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

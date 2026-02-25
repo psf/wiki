@@ -1,4 +1,4 @@
-# PyQt/MathTran_Equation_Editor
+# PyQt / Math Tran Equation Editor
 
 ```{admonition} Legacy Wiki Page
 :class: note

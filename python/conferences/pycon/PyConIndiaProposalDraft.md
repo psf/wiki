@@ -1,4 +1,4 @@
-# PyConIndiaProposalDraft
+# PyCon India Proposal Draft
 
 ```{admonition} Legacy Wiki Page
 :class: note

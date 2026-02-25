@@ -1,4 +1,4 @@
-# Ncr-Python.in/PythonCompaniesInIndia
+# Ncr-Python.in / Python Companies in India
 
 ```{admonition} Legacy Wiki Page
 :class: note

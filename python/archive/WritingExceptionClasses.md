@@ -1,4 +1,4 @@
-# WritingExceptionClasses
+# Writing Exception Classes
 
 ```{admonition} Legacy Wiki Page
 :class: note

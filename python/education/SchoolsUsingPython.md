@@ -1,4 +1,4 @@
-# SchoolsUsingPython
+# Schools Using Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

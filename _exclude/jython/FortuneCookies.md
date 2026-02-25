@@ -1,4 +1,4 @@
-# FortuneCookies
+# Fortune Cookies
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PoundPythonWeb/mod_python
+# Pound Python Web / mod python
 
 ```{admonition} Legacy Wiki Page
 :class: note

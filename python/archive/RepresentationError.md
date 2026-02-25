@@ -1,4 +1,4 @@
-# RepresentationError
+# Representation Error
 
 ```{admonition} Legacy Wiki Page
 :class: note

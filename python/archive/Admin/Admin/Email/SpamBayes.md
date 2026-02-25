@@ -1,4 +1,4 @@
-# Admin/Email/SpamBayes
+# Admin / Email / Spam Bayes
 
 ```{admonition} Legacy Wiki Page
 :class: note

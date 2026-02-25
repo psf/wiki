@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/UsingDatabaseWithPython
+# PyCon 2006 / Tutorials / Using Database with Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

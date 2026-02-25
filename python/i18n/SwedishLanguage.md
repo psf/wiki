@@ -1,4 +1,4 @@
-# SwedishLanguage
+# Swedish Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

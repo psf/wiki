@@ -1,4 +1,4 @@
-# PyCon2010Bid
+# PyCon 2010 Bid
 
 ```{admonition} Legacy Wiki Page
 :class: note

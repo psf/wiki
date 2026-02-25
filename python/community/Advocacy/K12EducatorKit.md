@@ -1,4 +1,4 @@
-# Advocacy/K12EducatorKit
+# Advocacy / K 12 Educator Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

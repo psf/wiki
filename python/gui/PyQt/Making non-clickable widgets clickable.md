@@ -1,4 +1,4 @@
-# PyQt/Making non-clickable widgets clickable
+# PyQt / Making non-clickable widgets clickable
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# KategoriHjemmeside
+# Kategori Hjemmeside
 
 ```{admonition} Legacy Wiki Page
 :class: note

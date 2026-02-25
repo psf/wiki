@@ -1,4 +1,4 @@
-# JonathanGardnerPyQtTutorial
+# Jonathan Gardner PyQt Tutorial
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# OptParse
+# Opt Parse
 
 ```{admonition} Legacy Wiki Page
 :class: note

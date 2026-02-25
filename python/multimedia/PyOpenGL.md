@@ -1,4 +1,4 @@
-# PyOpenGl
+# PyOpenGL
 
 ```{admonition} Legacy Wiki Page
 :class: note

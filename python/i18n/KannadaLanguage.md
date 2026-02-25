@@ -1,4 +1,4 @@
-# KannadaLanguage
+# Kannada Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

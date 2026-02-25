@@ -1,4 +1,4 @@
-# PyOhio/Swag
+# PyOhio / Swag
 
 ```{admonition} Legacy Wiki Page
 :class: note

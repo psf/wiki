@@ -1,4 +1,4 @@
-# Python3FAQ
+# Python 3 FAQ
 
 ```{admonition} Legacy Wiki Page
 :class: note

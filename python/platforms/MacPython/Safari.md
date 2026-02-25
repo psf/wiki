@@ -1,4 +1,4 @@
-# MacPython/Safari
+# MacPython / Safari
 
 ```{admonition} Legacy Wiki Page
 :class: note

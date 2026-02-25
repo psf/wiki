@@ -1,4 +1,4 @@
-# PyConChristopherArmstrong
+# PyCon Christopher Armstrong
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MacPython/UniversalPython
+# MacPython / Universal Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

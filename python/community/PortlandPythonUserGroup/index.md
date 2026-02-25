@@ -1,4 +1,4 @@
-# PortlandPythonUserGroup
+# Portland Python User Group
 
 ```{toctree}
 :maxdepth: 1

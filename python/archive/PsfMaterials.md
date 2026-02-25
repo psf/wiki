@@ -1,4 +1,4 @@
-# PsfMaterials
+# PSF Materials
 
 ```{admonition} Legacy Wiki Page
 :class: note

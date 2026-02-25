@@ -1,4 +1,4 @@
-# EuroPython2004LtBubNBros
+# EuroPython 2004 Lt Bub N Bros
 
 ```{admonition} Legacy Wiki Page
 :class: note

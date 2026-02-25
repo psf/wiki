@@ -1,4 +1,4 @@
-# JythonMonthly/Newsletters/January2010
+# Jython Monthly / Newsletters / January 2010
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MacPython/XcodeIntegration
+# MacPython / Xcode Integration
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# FormEncode
+# Form Encode
 
 ```{admonition} Legacy Wiki Page
 :class: note

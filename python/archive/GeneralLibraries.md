@@ -1,4 +1,4 @@
-# GeneralLibraries
+# General Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

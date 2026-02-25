@@ -1,4 +1,4 @@
-# SubmittingBugs
+# Submitting Bugs
 
 ```{admonition} Legacy Wiki Page
 :class: note

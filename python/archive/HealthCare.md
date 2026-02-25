@@ -1,4 +1,4 @@
-# HealthCare
+# Health Care
 
 ```{admonition} Legacy Wiki Page
 :class: note

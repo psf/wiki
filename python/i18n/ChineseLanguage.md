@@ -1,4 +1,4 @@
-# ChineseLanguage
+# Chinese Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

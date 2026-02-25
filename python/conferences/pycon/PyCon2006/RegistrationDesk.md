@@ -1,4 +1,4 @@
-# PyCon2006/RegistrationDesk
+# PyCon 2006 / Registration Desk
 
 ```{admonition} Legacy Wiki Page
 :class: note

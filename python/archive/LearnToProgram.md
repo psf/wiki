@@ -1,4 +1,4 @@
-# LearnToProgram
+# Learn to Program
 
 ```{admonition} Legacy Wiki Page
 :class: note

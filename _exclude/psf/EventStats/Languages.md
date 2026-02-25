@@ -1,4 +1,4 @@
-# EventStats/Languages
+# Event Stats / Languages
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonTrainingGroup
+# Python Training Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

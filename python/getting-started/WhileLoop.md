@@ -1,4 +1,4 @@
-# WhileLoop
+# While Loop
 
 ```{admonition} Legacy Wiki Page
 :class: note

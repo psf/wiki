@@ -1,4 +1,4 @@
-# PyQt/Using GStreamer with PyQt
+# PyQt / Using G Streamer with PyQt
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# DebuggingWithGdb
+# Debugging with Gdb
 
 ```{admonition} Legacy Wiki Page
 :class: note

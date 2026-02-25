@@ -1,4 +1,4 @@
-# Python3kStringRepr
+# Python 3k String Repr
 
 ```{admonition} Legacy Wiki Page
 :class: note

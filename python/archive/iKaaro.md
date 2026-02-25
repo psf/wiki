@@ -1,4 +1,4 @@
-# iKaaro
+# i Kaaro
 
 ```{admonition} Legacy Wiki Page
 :class: note

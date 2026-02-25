@@ -1,4 +1,4 @@
-# SetuptoolsOnJython
+# Setuptools on Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

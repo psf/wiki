@@ -1,4 +1,4 @@
-# PythonFederalEnterpriseArchitecture
+# Python Federal Enterprise Architecture
 
 ```{admonition} Legacy Wiki Page
 :class: note

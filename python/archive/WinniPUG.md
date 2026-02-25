@@ -1,4 +1,4 @@
-# WinniPUG
+# Winni PUG
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonLibraryReference/UnixSpecificServices
+# Python Library Reference / Unix Specific Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

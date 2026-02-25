@@ -1,4 +1,4 @@
-# KeepingListsInDictionaries
+# Keeping Lists in Dictionaries
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# LogicTools
+# Logic Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

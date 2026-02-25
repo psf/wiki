@@ -1,4 +1,4 @@
-# PyQt/Compass widget
+# PyQt / Compass widget
 
 ```{admonition} Legacy Wiki Page
 :class: note

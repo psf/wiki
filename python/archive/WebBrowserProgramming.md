@@ -1,4 +1,4 @@
-# WebBrowserProgramming
+# Web Browser Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

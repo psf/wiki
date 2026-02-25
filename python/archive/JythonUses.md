@@ -1,4 +1,4 @@
-# JythonUses
+# Jython Uses
 
 ```{admonition} Legacy Wiki Page
 :class: note

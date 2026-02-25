@@ -1,4 +1,4 @@
-# EuroPython2022
+# EuroPython 2022
 
 ```{admonition} Legacy Wiki Page
 :class: note

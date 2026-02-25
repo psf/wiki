@@ -1,4 +1,4 @@
-# Applescript
+# AppleScript
 
 ```{toctree}
 :maxdepth: 1

@@ -1,4 +1,4 @@
-# PythonSoftwareFoundation/Proposals/FellowshipRecognitionProgram
+# Python Software Foundation / Proposals / Fellowship Recognition Program
 
 ```{admonition} Legacy Wiki Page
 :class: note

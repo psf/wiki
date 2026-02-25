@@ -1,4 +1,4 @@
-# PyQt/Customising tab bars
+# PyQt / Customising tab bars
 
 ```{admonition} Legacy Wiki Page
 :class: note

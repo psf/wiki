@@ -1,4 +1,4 @@
-# JythonFaq/DistributingJythonScripts
+# Jython FAQ / Distributing Jython Scripts
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CoreDevHelperTools
+# Core Dev Helper Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

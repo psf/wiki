@@ -1,4 +1,4 @@
-# PyQt/Exposing Qt Classes to QtWebKit
+# PyQt / Exposing Qt Classes to Qt Web Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

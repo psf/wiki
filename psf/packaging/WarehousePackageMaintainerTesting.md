@@ -1,4 +1,4 @@
-# WarehousePackageMaintainerTesting
+# Warehouse Package Maintainer Testing
 
 ```{admonition} Legacy Wiki Page
 :class: note

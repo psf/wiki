@@ -1,4 +1,4 @@
-# OpenKomodo
+# Open Komodo
 
 ```{admonition} Legacy Wiki Page
 :class: note

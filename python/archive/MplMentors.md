@@ -1,4 +1,4 @@
-# MplMentors
+# Mpl Mentors
 
 ```{admonition} Legacy Wiki Page
 :class: note

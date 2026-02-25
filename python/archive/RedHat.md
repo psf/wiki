@@ -1,4 +1,4 @@
-# RedHat
+# Red Hat
 
 ```{admonition} Legacy Wiki Page
 :class: note

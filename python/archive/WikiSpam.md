@@ -1,4 +1,4 @@
-# WikiSpam
+# Wiki Spam
 
 ```{admonition} Legacy Wiki Page
 :class: note

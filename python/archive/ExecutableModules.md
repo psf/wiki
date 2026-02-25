@@ -1,4 +1,4 @@
-# ExecutableModules
+# Executable Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

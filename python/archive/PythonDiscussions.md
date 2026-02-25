@@ -1,4 +1,4 @@
-# PythonDiscussions
+# Python Discussions
 
 ```{admonition} Legacy Wiki Page
 :class: note

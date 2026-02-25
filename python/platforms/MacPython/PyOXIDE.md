@@ -1,4 +1,4 @@
-# MacPython/PyOXIDE
+# MacPython / PyOXIDE
 
 ```{admonition} Legacy Wiki Page
 :class: note

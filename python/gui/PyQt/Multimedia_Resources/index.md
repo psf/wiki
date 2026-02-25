@@ -1,4 +1,4 @@
-# Multimedia_Resources
+# Multimedia Resources
 
 ```{toctree}
 :maxdepth: 1

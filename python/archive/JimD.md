@@ -1,4 +1,4 @@
-# JimD
+# Jim D
 
 ```{admonition} Legacy Wiki Page
 :class: note

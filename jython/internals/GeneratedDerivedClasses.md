@@ -1,4 +1,4 @@
-# GeneratedDerivedClasses
+# Generated Derived Classes
 
 ```{admonition} Legacy Wiki Page
 :class: note

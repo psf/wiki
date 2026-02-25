@@ -1,4 +1,4 @@
-# PyOhio/RoomShare
+# PyOhio / Room Share
 
 ```{admonition} Legacy Wiki Page
 :class: note

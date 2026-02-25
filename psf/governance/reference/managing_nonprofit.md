@@ -1,4 +1,4 @@
-# reference/managing_nonprofit
+# reference / managing nonprofit
 
 ```{admonition} Legacy Wiki Page
 :class: note

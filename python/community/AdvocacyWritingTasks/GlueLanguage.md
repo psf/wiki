@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/GlueLanguage
+# Advocacy Writing Tasks / Glue Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

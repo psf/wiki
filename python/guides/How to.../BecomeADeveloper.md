@@ -1,4 +1,4 @@
-# How to.../BecomeADeveloper
+# How to... / Become a Developer
 
 ```{admonition} Legacy Wiki Page
 :class: note

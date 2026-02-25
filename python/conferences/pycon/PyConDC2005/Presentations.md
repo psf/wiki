@@ -1,4 +1,4 @@
-# PyConDC2005/Presentations
+# PyCon DC 2005 / Presentations
 
 ```{admonition} Legacy Wiki Page
 :class: note

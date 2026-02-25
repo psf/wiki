@@ -1,4 +1,4 @@
-# DesiredTrackerFeatures
+# Desired Tracker Features
 
 ```{admonition} Legacy Wiki Page
 :class: note

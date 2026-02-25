@@ -1,4 +1,4 @@
-# Pycon
+# PyCon
 
 ```{toctree}
 :maxdepth: 1

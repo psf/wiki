@@ -1,4 +1,4 @@
-# PyQt/Extend Two QPixmap
+# PyQt / Extend Two Q Pixmap
 
 ```{admonition} Legacy Wiki Page
 :class: note

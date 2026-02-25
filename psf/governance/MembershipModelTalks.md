@@ -1,4 +1,4 @@
-# MembershipModelTalks
+# Membership Model Talks
 
 ```{admonition} Legacy Wiki Page
 :class: note

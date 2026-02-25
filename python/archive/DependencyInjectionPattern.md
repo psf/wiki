@@ -1,4 +1,4 @@
-# DependencyInjectionPattern
+# Dependency Injection Pattern
 
 ```{admonition} Legacy Wiki Page
 :class: note

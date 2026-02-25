@@ -1,4 +1,4 @@
-# ShowMeDo
+# Show Me Do
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonLibraryReference/CryptographicServices
+# Python Library Reference / Cryptographic Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

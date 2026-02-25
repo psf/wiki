@@ -1,4 +1,4 @@
-# Asking for Help/I tried to port python 2.7 to iOS and got "Fatal Python error: exceptions bootstrapping error.". How can I fix it?
+# Asking for Help / I tried to port python 2.7 to iOS and got "Fatal Python error: exceptions bootstrapping error.". How can I fix it?
 
 ```{admonition} Legacy Wiki Page
 :class: note

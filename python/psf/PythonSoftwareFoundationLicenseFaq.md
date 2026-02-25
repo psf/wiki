@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationLicenseFaq
+# Python Software Foundation License FAQ
 
 ```{admonition} Legacy Wiki Page
 :class: note

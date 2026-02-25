@@ -1,4 +1,4 @@
-# RPyC
+# R PyC
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CategoryPyConPlanning
+# Category PyCon Planning
 
 ```{admonition} Legacy Wiki Page
 :class: note

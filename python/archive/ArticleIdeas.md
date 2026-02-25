@@ -1,4 +1,4 @@
-# ArticleIdeas
+# Article Ideas
 
 ```{admonition} Legacy Wiki Page
 :class: note

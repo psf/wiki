@@ -1,4 +1,4 @@
-# MacPython/VoodooPad/UsefulLinks
+# MacPython / VoodooPad / Useful Links
 
 ```{admonition} Legacy Wiki Page
 :class: note

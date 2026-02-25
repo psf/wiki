@@ -1,4 +1,4 @@
-# PythonForArtificialIntelligence
+# Python for Artificial Intelligence
 
 ```{admonition} Legacy Wiki Page
 :class: note

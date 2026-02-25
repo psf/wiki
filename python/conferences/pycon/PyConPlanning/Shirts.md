@@ -1,4 +1,4 @@
-# PyConPlanning/Shirts
+# PyCon Planning / Shirts
 
 ```{admonition} Legacy Wiki Page
 :class: note

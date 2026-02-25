@@ -1,4 +1,4 @@
-# PortingToPy3k/BilingualQuickRef
+# Porting to Py3k / Bilingual Quick Ref
 
 ```{admonition} Legacy Wiki Page
 :class: note

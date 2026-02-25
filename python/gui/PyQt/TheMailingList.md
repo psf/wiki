@@ -1,4 +1,4 @@
-# PyQt/TheMailingList
+# PyQt / The Mailing List
 
 ```{admonition} Legacy Wiki Page
 :class: note

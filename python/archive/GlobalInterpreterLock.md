@@ -1,4 +1,4 @@
-# GlobalInterpreterLock
+# Global Interpreter Lock
 
 ```{admonition} Legacy Wiki Page
 :class: note

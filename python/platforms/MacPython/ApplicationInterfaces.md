@@ -1,4 +1,4 @@
-# MacPython/ApplicationInterfaces
+# MacPython / Application Interfaces
 
 ```{admonition} Legacy Wiki Page
 :class: note

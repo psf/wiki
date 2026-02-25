@@ -1,4 +1,4 @@
-# SiteImprovements/WikiSyntaxComparison
+# Site Improvements / Wiki Syntax Comparison
 
 ```{admonition} Legacy Wiki Page
 :class: note

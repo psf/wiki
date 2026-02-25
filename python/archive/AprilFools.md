@@ -1,4 +1,4 @@
-# AprilFools
+# April Fools
 
 ```{admonition} Legacy Wiki Page
 :class: note

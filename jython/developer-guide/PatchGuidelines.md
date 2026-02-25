@@ -1,4 +1,4 @@
-# PatchGuidelines
+# Patch Guidelines
 
 ```{admonition} Legacy Wiki Page
 :class: note

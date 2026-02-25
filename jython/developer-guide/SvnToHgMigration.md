@@ -1,4 +1,4 @@
-# SvnToHgMigration
+# Svn to Hg Migration
 
 ```{admonition} Legacy Wiki Page
 :class: note

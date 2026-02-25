@@ -1,4 +1,4 @@
-# PythonForOperationsResearch
+# Python for Operations Research
 
 ```{admonition} Legacy Wiki Page
 :class: note

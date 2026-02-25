@@ -1,4 +1,4 @@
-# JythonCompiler
+# Jythonc ompiler
 
 ```{admonition} Legacy Wiki Page
 :class: note

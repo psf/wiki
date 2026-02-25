@@ -1,4 +1,4 @@
-# SingletonProgramming
+# Singleton Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

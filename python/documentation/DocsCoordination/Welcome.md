@@ -1,4 +1,4 @@
-# DocsCoordination/Welcome
+# Docs Coordination / Welcome
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# LargePythonProjects
+# Large Python Projects
 
 ```{admonition} Legacy Wiki Page
 :class: note

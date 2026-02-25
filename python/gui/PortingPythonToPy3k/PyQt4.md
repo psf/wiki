@@ -1,4 +1,4 @@
-# PortingPythonToPy3k/PyQt4
+# Porting Python to Py3k / PyQt4
 
 ```{admonition} Legacy Wiki Page
 :class: note

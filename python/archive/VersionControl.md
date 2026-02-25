@@ -1,4 +1,4 @@
-# VersionControl
+# Version Control
 
 ```{admonition} Legacy Wiki Page
 :class: note

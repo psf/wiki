@@ -1,4 +1,4 @@
-# MarcAndreLemburg
+# Marc Andre Lemburg
 
 ```{toctree}
 :maxdepth: 1

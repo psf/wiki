@@ -1,4 +1,4 @@
-# WebProgrammingTemplateHelp
+# Web Programming Template Help
 
 ```{admonition} Legacy Wiki Page
 :class: note

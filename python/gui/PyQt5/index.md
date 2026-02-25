@@ -1,4 +1,4 @@
-# Pyqt5
+# PyQt5
 
 ```{toctree}
 :maxdepth: 1

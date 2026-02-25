@@ -1,4 +1,4 @@
-# TestPyPI
+# Test PyPI
 
 ```{admonition} Legacy Wiki Page
 :class: note

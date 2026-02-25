@@ -1,4 +1,4 @@
-# MacPython/plistservices
+# MacPython / plistservices
 
 ```{admonition} Legacy Wiki Page
 :class: note

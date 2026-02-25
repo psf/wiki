@@ -1,4 +1,4 @@
-# WorkingWithTime
+# Working with Time
 
 ```{admonition} Legacy Wiki Page
 :class: note

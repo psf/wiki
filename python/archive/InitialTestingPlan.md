@@ -1,4 +1,4 @@
-# InitialTestingPlan
+# Initial Testing Plan
 
 ```{admonition} Legacy Wiki Page
 :class: note

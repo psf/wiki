@@ -1,4 +1,4 @@
-# GameProgrammingBooks
+# Game Programming Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

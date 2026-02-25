@@ -1,4 +1,4 @@
-# PyCon2006/NeededSupplies
+# PyCon 2006 / Needed Supplies
 
 ```{admonition} Legacy Wiki Page
 :class: note

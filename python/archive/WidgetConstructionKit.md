@@ -1,4 +1,4 @@
-# WidgetConstructionKit
+# Widget Construction Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

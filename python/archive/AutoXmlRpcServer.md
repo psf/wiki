@@ -1,4 +1,4 @@
-# AutoXmlRpcServer
+# Auto XML RPC Server
 
 ```{admonition} Legacy Wiki Page
 :class: note

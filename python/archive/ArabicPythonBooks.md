@@ -1,4 +1,4 @@
-# ArabicPythonBooks
+# Arabi CPython Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

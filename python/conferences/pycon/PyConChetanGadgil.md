@@ -1,4 +1,4 @@
-# PyConChetanGadgil
+# PyCon Chetan Gadgil
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2007DjangoOpenspace
+# EuroPython 2007 Django Openspace
 
 ```{admonition} Legacy Wiki Page
 :class: note

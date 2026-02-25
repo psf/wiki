@@ -1,4 +1,4 @@
-# MacPython/PySWF
+# MacPython / PySWF
 
 ```{admonition} Legacy Wiki Page
 :class: note

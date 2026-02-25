@@ -1,4 +1,4 @@
-# DbObj
+# DB Obj
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonCdContributors
+# Python Cd Contributors
 
 ```{admonition} Legacy Wiki Page
 :class: note

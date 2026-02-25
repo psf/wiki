@@ -1,4 +1,4 @@
-# PyConIndiaTShirt
+# PyCon India T Shirt
 
 ```{admonition} Legacy Wiki Page
 :class: note

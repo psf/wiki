@@ -1,4 +1,4 @@
-# MacPython/FileMakerPro/AppscriptingOverview
+# MacPython / FileMaker Pro / Appscript ing Overview
 
 ```{admonition} Legacy Wiki Page
 :class: note

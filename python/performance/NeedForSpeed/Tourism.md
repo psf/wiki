@@ -1,4 +1,4 @@
-# NeedForSpeed/Tourism
+# Need for Speed / Tourism
 
 ```{admonition} Legacy Wiki Page
 :class: note

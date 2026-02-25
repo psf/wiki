@@ -1,4 +1,4 @@
-# NeedForSpeed/Successes
+# Need for Speed / Successes
 
 ```{admonition} Legacy Wiki Page
 :class: note

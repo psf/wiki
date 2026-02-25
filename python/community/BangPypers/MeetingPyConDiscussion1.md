@@ -1,4 +1,4 @@
-# BangPypers/MeetingPyConDiscussion1
+# BangPypers / Meeting PyCon Discussion 1
 
 ```{admonition} Legacy Wiki Page
 :class: note

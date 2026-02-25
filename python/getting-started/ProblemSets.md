@@ -1,4 +1,4 @@
-# ProblemSets
+# Problem Sets
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ByteplayDoc
+# Byteplay Doc
 
 ```{admonition} Legacy Wiki Page
 :class: note

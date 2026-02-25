@@ -1,4 +1,4 @@
-# PyQt/Handling context menus
+# PyQt / Handling context menus
 
 ```{admonition} Legacy Wiki Page
 :class: note

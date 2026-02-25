@@ -1,4 +1,4 @@
-# SyntaxReference
+# Syntax Reference
 
 ```{admonition} Legacy Wiki Page
 :class: note

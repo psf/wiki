@@ -1,4 +1,4 @@
-# Euroscipy2012
+# EuroSciPy 2012
 
 ```{toctree}
 :maxdepth: 1

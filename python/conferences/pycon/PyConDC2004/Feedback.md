@@ -1,4 +1,4 @@
-# PyConDC2004/Feedback
+# PyCon DC 2004 / Feedback
 
 ```{admonition} Legacy Wiki Page
 :class: note

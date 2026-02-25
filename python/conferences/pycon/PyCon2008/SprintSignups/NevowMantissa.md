@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/NevowMantissa
+# PyCon 2008 / Sprint Signups / Nevow Mantissa
 
 ```{admonition} Legacy Wiki Page
 :class: note

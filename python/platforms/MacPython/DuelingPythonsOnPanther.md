@@ -1,4 +1,4 @@
-# MacPython/DuelingPythonsOnPanther
+# MacPython / Dueling Pythons on Panther
 
 ```{admonition} Legacy Wiki Page
 :class: note

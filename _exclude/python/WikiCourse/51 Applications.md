@@ -1,4 +1,4 @@
-# WikiCourse/51 Applications
+# Wiki Course / 51 Applications
 
 ```{admonition} Legacy Wiki Page
 :class: note

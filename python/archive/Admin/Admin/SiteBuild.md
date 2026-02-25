@@ -1,4 +1,4 @@
-# Admin/SiteBuild
+# Admin / Site Build
 
 ```{admonition} Legacy Wiki Page
 :class: note

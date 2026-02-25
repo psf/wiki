@@ -1,4 +1,4 @@
-# PythonGraphApi
+# Python Graph API
 
 ```{admonition} Legacy Wiki Page
 :class: note

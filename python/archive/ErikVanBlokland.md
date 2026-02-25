@@ -1,4 +1,4 @@
-# ErikVanBlokland
+# Erik Van Blokland
 
 ```{admonition} Legacy Wiki Page
 :class: note

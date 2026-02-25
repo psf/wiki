@@ -1,4 +1,4 @@
-# VanPyZ/Future
+# Van PyZ / Future
 
 ```{admonition} Legacy Wiki Page
 :class: note

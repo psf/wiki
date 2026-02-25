@@ -1,4 +1,4 @@
-# PyConDC2004/PsfMemberEvents
+# PyCon DC 2004 / PSF Member Events
 
 ```{admonition} Legacy Wiki Page
 :class: note

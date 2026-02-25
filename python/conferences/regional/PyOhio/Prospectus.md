@@ -1,4 +1,4 @@
-# PyOhio/Prospectus
+# PyOhio / Prospectus
 
 ```{admonition} Legacy Wiki Page
 :class: note

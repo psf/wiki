@@ -1,4 +1,4 @@
-# Katie McLaughlin
+# Katie Mc Laughlin
 
 ```{admonition} Legacy Wiki Page
 :class: note

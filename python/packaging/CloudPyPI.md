@@ -1,4 +1,4 @@
-# CloudPyPI
+# Cloud PyPI
 
 ```{admonition} Legacy Wiki Page
 :class: note

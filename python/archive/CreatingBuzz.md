@@ -1,4 +1,4 @@
-# CreatingBuzz
+# Creating Buzz
 
 ```{admonition} Legacy Wiki Page
 :class: note

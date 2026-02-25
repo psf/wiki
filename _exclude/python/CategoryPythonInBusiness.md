@@ -1,4 +1,4 @@
-# CategoryPythonInBusiness
+# Category Python in Business
 
 ```{admonition} Legacy Wiki Page
 :class: note

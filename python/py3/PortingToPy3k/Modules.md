@@ -1,4 +1,4 @@
-# PortingToPy3k/Modules
+# Porting to Py3k / Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

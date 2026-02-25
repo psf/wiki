@@ -1,4 +1,4 @@
-# MacPython/InDesign
+# MacPython / In Design
 
 ```{admonition} Legacy Wiki Page
 :class: note

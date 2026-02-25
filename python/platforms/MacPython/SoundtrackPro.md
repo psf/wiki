@@ -1,4 +1,4 @@
-# MacPython/SoundtrackPro
+# MacPython / Soundtrack Pro
 
 ```{admonition} Legacy Wiki Page
 :class: note

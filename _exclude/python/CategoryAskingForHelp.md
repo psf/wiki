@@ -1,4 +1,4 @@
-# CategoryAskingForHelp
+# Category Asking for Help
 
 ```{admonition} Legacy Wiki Page
 :class: note

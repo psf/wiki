@@ -1,4 +1,4 @@
-# MacPython/FileMakerPro/AERefs
+# MacPython / FileMaker Pro / AE Refs
 
 ```{admonition} Legacy Wiki Page
 :class: note

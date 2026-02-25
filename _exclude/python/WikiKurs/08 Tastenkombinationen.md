@@ -1,4 +1,4 @@
-# WikiKurs/08 Tastenkombinationen
+# Wiki Kurs / 08 Tastenkombinationen
 
 ```{admonition} Legacy Wiki Page
 :class: note

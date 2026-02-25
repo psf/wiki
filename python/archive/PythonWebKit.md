@@ -1,4 +1,4 @@
-# PythonWebKit
+# Python Web Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

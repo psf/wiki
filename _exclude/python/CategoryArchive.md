@@ -1,4 +1,4 @@
-# CategoryArchive
+# Category Archive
 
 ```{admonition} Legacy Wiki Page
 :class: note

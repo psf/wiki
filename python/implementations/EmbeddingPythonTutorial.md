@@ -1,4 +1,4 @@
-# EmbeddingPythonTutorial
+# Embedding Python Tutorial
 
 ```{admonition} Legacy Wiki Page
 :class: note

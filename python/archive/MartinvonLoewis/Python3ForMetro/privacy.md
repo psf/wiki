@@ -1,4 +1,4 @@
-# MartinvonLoewis/Python3ForMetro/privacy
+# Martinvon Loewis / Python 3 for Metro / privacy
 
 ```{admonition} Legacy Wiki Page
 :class: note

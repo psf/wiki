@@ -1,4 +1,4 @@
-# LearnPython
+# Learn Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

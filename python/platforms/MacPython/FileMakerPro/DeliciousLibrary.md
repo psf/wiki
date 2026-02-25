@@ -1,4 +1,4 @@
-# MacPython/FileMakerPro/DeliciousLibrary
+# MacPython / FileMaker Pro / Delicious Library
 
 ```{admonition} Legacy Wiki Page
 :class: note

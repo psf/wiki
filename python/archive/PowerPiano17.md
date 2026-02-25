@@ -1,4 +1,4 @@
-# PowerPiano17
+# Power Piano 17
 
 ```{admonition} Legacy Wiki Page
 :class: note

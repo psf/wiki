@@ -1,4 +1,4 @@
-# ComparingTypes
+# Comparing Types
 
 ```{admonition} Legacy Wiki Page
 :class: note

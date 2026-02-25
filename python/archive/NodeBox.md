@@ -1,4 +1,4 @@
-# NodeBox
+# Node Box
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CubicTemp
+# Cubic Temp
 
 ```{admonition} Legacy Wiki Page
 :class: note

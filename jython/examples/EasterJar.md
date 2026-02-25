@@ -1,4 +1,4 @@
-# EasterJar
+# Easter Jar
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MetaKit
+# Meta Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

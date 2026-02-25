@@ -1,4 +1,4 @@
-# SummerOfCode/2011/PyLint
+# Summer of Code / 2011 / PyLint
 
 ```{admonition} Legacy Wiki Page
 :class: note

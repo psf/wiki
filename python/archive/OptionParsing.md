@@ -1,4 +1,4 @@
-# OptionParsing
+# Option Parsing
 
 ```{admonition} Legacy Wiki Page
 :class: note

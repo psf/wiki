@@ -1,4 +1,4 @@
-# PythonLibraryRefTemplate
+# Python Library Ref Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

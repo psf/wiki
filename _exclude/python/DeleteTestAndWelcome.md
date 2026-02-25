@@ -1,4 +1,4 @@
-# DeleteTestAndWelcome
+# Delete Test and Welcome
 
 ```{admonition} Legacy Wiki Page
 :class: note

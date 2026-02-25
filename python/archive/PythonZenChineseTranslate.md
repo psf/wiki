@@ -1,4 +1,4 @@
-# PythonZenChineseTranslate
+# Python Zen Chinese Translate
 
 ```{admonition} Legacy Wiki Page
 :class: note

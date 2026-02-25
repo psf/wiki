@@ -1,4 +1,4 @@
-# CompLangPython
+# Comp Lang Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

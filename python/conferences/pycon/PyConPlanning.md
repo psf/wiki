@@ -1,4 +1,4 @@
-# PyConPlanning
+# PyCon Planning
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# KashmiriLanguage
+# Kashmiri Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

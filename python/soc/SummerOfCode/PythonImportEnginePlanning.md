@@ -1,4 +1,4 @@
-# SummerOfCode/PythonImportEnginePlanning
+# Summer of Code / Python Import Engine Planning
 
 ```{admonition} Legacy Wiki Page
 :class: note

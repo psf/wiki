@@ -1,4 +1,4 @@
-# WebTestParisBearSprint2013
+# Web Test Paris Bear Sprint 2013
 
 ```{admonition} Legacy Wiki Page
 :class: note

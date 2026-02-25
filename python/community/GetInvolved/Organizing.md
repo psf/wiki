@@ -1,4 +1,4 @@
-# GetInvolved/Organizing
+# Get Involved / Organizing
 
 ```{admonition} Legacy Wiki Page
 :class: note

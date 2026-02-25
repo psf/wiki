@@ -1,4 +1,4 @@
-# CAPI CookBook
+# CAPI Cook Book
 
 ```{admonition} Legacy Wiki Page
 :class: note

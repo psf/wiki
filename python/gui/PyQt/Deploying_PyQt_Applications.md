@@ -1,4 +1,4 @@
-# PyQt/Deploying_PyQt_Applications
+# PyQt / Deploying PyQt Applications
 
 ```{admonition} Legacy Wiki Page
 :class: note

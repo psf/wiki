@@ -1,4 +1,4 @@
-# WikiKurs
+# Wiki Kurs
 
 ```{toctree}
 :maxdepth: 1

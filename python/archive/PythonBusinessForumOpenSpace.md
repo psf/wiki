@@ -1,4 +1,4 @@
-# PythonBusinessForumOpenSpace
+# Python Business Forum Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

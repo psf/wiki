@@ -1,4 +1,4 @@
-# WikiKurs/04 Anmelden beim Wiki
+# Wiki Kurs / 04 Anmelden beim Wiki
 
 ```{admonition} Legacy Wiki Page
 :class: note

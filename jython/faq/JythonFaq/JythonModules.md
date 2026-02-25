@@ -1,4 +1,4 @@
-# JythonFaq/JythonModules
+# Jython FAQ / Jython Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

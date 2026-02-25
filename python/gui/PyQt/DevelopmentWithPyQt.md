@@ -1,4 +1,4 @@
-# PyQt/DevelopmentWithPyQt
+# PyQt / Development with PyQt
 
 ```{admonition} Legacy Wiki Page
 :class: note

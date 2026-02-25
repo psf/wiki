@@ -1,4 +1,4 @@
-# PyCon2007/ReviewerNotes
+# PyCon 2007 / Reviewer Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

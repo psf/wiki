@@ -1,4 +1,4 @@
-# EnterpriseJavaBeans
+# Enterprise Java Beans
 
 ```{admonition} Legacy Wiki Page
 :class: note

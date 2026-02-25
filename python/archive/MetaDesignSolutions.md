@@ -1,4 +1,4 @@
-# MetaDesignSolutions
+# Meta Design Solutions
 
 ```{admonition} Legacy Wiki Page
 :class: note

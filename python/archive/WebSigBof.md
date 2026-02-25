@@ -1,4 +1,4 @@
-# WebSigBof
+# Web Sig BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

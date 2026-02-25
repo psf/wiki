@@ -1,4 +1,4 @@
-# Distutils/Cookbook/AutoPackageDiscovery
+# Distutils / Cookbook / Auto Package Discovery
 
 ```{admonition} Legacy Wiki Page
 :class: note

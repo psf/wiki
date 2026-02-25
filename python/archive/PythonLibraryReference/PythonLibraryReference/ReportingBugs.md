@@ -1,4 +1,4 @@
-# PythonLibraryReference/ReportingBugs
+# Python Library Reference / Reporting Bugs
 
 ```{admonition} Legacy Wiki Page
 :class: note

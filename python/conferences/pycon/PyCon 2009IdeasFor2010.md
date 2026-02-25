@@ -1,4 +1,4 @@
-# PyCon 2009IdeasFor2010
+# PyCon 2009 Ideas for 2010
 
 ```{admonition} Legacy Wiki Page
 :class: note

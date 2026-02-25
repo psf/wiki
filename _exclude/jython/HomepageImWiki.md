@@ -1,4 +1,4 @@
-# HomepageImWiki
+# Homepage Im Wiki
 
 ```{admonition} Legacy Wiki Page
 :class: note

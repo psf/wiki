@@ -1,4 +1,4 @@
-# PythonSpeed
+# Python Speed
 
 ```{admonition} Legacy Wiki Page
 :class: note

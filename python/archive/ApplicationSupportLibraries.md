@@ -1,4 +1,4 @@
-# ApplicationSupportLibraries
+# Application Support Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

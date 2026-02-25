@@ -1,4 +1,4 @@
-# PhoenixGeoPythonGroup
+# Phoenix Geo Python Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ShellRedirectionFails
+# Shell Redirection Fails
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EduSig/DataResources/CountryCodeFetcher
+# Edu Sig / Data Resources / Country Code Fetcher
 
 ```{admonition} Legacy Wiki Page
 :class: note

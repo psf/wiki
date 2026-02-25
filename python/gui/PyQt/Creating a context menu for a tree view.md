@@ -1,4 +1,4 @@
-# PyQt/Creating a context menu for a tree view
+# PyQt / Creating a context menu for a tree view
 
 ```{admonition} Legacy Wiki Page
 :class: note

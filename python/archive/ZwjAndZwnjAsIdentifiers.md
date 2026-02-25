@@ -1,4 +1,4 @@
-# ZwjAndZwnjAsIdentifiers
+# Zwj and Zwnj As Identifiers
 
 ```{admonition} Legacy Wiki Page
 :class: note

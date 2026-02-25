@@ -1,4 +1,4 @@
-# Py3kStrUniTests
+# Py3k Str Uni Tests
 
 ```{admonition} Legacy Wiki Page
 :class: note

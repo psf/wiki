@@ -1,4 +1,4 @@
-# PyDevSummaries/2008/November/FirstHalf
+# PyDev Summaries / 2008 / November / First Half
 
 ```{admonition} Legacy Wiki Page
 :class: note

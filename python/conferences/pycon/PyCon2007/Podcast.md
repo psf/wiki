@@ -1,4 +1,4 @@
-# PyCon2007/Podcast
+# PyCon 2007 / Podcast
 
 ```{admonition} Legacy Wiki Page
 :class: note

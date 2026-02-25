@@ -1,4 +1,4 @@
-# PyCon2006/PrintShopsNearby
+# PyCon 2006 / Print Shops Nearby
 
 ```{admonition} Legacy Wiki Page
 :class: note

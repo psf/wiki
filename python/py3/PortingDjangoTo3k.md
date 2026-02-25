@@ -1,4 +1,4 @@
-# PortingDjangoTo3k
+# Porting Django to 3k
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# GnuEnterprise
+# Gnu Enterprise
 
 ```{admonition} Legacy Wiki Page
 :class: note

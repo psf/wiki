@@ -1,4 +1,4 @@
-# TestFailures
+# Test Failures
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# TestHarnessDesign
+# Test Harness Design
 
 ```{admonition} Legacy Wiki Page
 :class: note

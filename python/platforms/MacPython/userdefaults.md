@@ -1,4 +1,4 @@
-# MacPython/userdefaults
+# MacPython / userdefaults
 
 ```{admonition} Legacy Wiki Page
 :class: note

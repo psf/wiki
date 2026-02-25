@@ -1,4 +1,4 @@
-# PyConDC2003/SprintPlan
+# PyCon DC 2003 / Sprint Plan
 
 ```{admonition} Legacy Wiki Page
 :class: note

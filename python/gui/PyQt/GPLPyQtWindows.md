@@ -1,4 +1,4 @@
-# PyQt/GPLPyQtWindows
+# PyQt / GPL PyQt Windows
 
 ```{admonition} Legacy Wiki Page
 :class: note

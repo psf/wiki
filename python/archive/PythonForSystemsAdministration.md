@@ -1,4 +1,4 @@
-# PythonForSystemsAdministration
+# Python for Systems Administration
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# How Come When I Double Click On A .Py A Black Thing Flashes And Then Disappears_ And What
+# How Come When I Double Click on a .Py a Black Thing Flashes and Then Disappears and What
 
 ```{toctree}
 :maxdepth: 1

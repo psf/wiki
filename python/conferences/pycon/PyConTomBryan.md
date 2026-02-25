@@ -1,4 +1,4 @@
-# PyConTomBryan
+# PyCon Tom Bryan
 
 ```{admonition} Legacy Wiki Page
 :class: note

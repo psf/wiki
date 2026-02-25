@@ -1,4 +1,4 @@
-# IoSlavesTutorial
+# iOS laves Tutorial
 
 ```{admonition} Legacy Wiki Page
 :class: note

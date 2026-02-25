@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/CoolPythonProgramming
+# Advocacy Writing Tasks / Cool Python Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

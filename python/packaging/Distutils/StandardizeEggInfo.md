@@ -1,4 +1,4 @@
-# Distutils/StandardizeEggInfo
+# Distutils / Standardize Egg Info
 
 ```{admonition} Legacy Wiki Page
 :class: note

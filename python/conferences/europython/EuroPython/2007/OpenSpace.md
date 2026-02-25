@@ -1,4 +1,4 @@
-# EuroPython/2007/OpenSpace
+# EuroPython / 2007 / Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

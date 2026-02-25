@@ -1,4 +1,4 @@
-# OperatorHook
+# Operator Hook
 
 ```{admonition} Legacy Wiki Page
 :class: note

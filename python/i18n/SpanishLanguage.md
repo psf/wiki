@@ -1,4 +1,4 @@
-# SpanishLanguage
+# Spanish Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

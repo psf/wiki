@@ -1,4 +1,4 @@
-# PyConFrancescAlted
+# PyCon Francesc Alted
 
 ```{admonition} Legacy Wiki Page
 :class: note

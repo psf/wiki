@@ -1,4 +1,4 @@
-# MacPython/AeteSearchOrder
+# MacPython / Aete Search Order
 
 ```{admonition} Legacy Wiki Page
 :class: note

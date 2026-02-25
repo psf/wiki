@@ -1,4 +1,4 @@
-# PythonWin
+# Python Win
 
 ```{admonition} Legacy Wiki Page
 :class: note

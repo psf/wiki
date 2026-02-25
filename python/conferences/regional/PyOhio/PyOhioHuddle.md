@@ -1,4 +1,4 @@
-# PyOhio/PyOhioHuddle
+# PyOhio / PyOhio Huddle
 
 ```{admonition} Legacy Wiki Page
 :class: note

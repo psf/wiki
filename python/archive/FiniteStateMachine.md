@@ -1,4 +1,4 @@
-# FiniteStateMachine
+# Finite State Machine
 
 ```{admonition} Legacy Wiki Page
 :class: note

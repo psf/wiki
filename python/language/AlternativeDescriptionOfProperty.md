@@ -1,4 +1,4 @@
-# AlternativeDescriptionOfProperty
+# Alternative Description of Property
 
 ```{admonition} Legacy Wiki Page
 :class: note

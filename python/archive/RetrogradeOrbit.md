@@ -1,4 +1,4 @@
-# RetrogradeOrbit
+# Retrograde Orbit
 
 ```{admonition} Legacy Wiki Page
 :class: note

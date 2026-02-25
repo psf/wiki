@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/Bazaar
+# PyCon 2008 / Sprint Signups / Bazaar
 
 ```{admonition} Legacy Wiki Page
 :class: note

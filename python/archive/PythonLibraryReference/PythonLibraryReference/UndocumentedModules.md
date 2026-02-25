@@ -1,4 +1,4 @@
-# PythonLibraryReference/UndocumentedModules
+# Python Library Reference / Undocumented Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

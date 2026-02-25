@@ -1,4 +1,4 @@
-# Europython2007
+# EuroPython 2007
 
 ```{toctree}
 :maxdepth: 1

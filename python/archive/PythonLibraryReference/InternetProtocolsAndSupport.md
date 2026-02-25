@@ -1,4 +1,4 @@
-# PythonLibraryReference/InternetProtocolsAndSupport
+# Python Library Reference / Internet Protocols and Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

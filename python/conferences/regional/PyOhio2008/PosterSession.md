@@ -1,4 +1,4 @@
-# PyOhio2008/PosterSession
+# PyOhio 2008 / Poster Session
 
 ```{admonition} Legacy Wiki Page
 :class: note

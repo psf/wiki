@@ -1,4 +1,4 @@
-# PythonWebsite/Conventions
+# Python Website / Conventions
 
 ```{admonition} Legacy Wiki Page
 :class: note

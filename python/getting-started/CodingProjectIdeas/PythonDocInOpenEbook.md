@@ -1,4 +1,4 @@
-# CodingProjectIdeas/PythonDocInOpenEbook
+# Coding Project Ideas / Python Doc in Open Ebook
 
 ```{admonition} Legacy Wiki Page
 :class: note

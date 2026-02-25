@@ -1,4 +1,4 @@
-# CatalogSig
+# Catalog Sig
 
 ```{admonition} Legacy Wiki Page
 :class: note

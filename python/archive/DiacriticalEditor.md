@@ -1,4 +1,4 @@
-# DiacriticalEditor
+# Diacritical Editor
 
 ```{admonition} Legacy Wiki Page
 :class: note

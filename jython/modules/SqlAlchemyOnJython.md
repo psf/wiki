@@ -1,4 +1,4 @@
-# SqlAlchemyOnJython
+# SQLAlchemy on Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

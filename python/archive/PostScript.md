@@ -1,4 +1,4 @@
-# PostScript
+# Post Script
 
 ```{admonition} Legacy Wiki Page
 :class: note

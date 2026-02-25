@@ -1,4 +1,4 @@
-# PresenterSignUp
+# Presenter Sign Up
 
 ```{admonition} Legacy Wiki Page
 :class: note

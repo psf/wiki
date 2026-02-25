@@ -1,4 +1,4 @@
-# WikiCourse/22 Parsers
+# Wiki Course / 22 Parsers
 
 ```{admonition} Legacy Wiki Page
 :class: note

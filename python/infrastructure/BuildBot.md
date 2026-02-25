@@ -1,4 +1,4 @@
-# BuildBot
+# Build Bot
 
 ```{admonition} Legacy Wiki Page
 :class: note

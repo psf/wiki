@@ -1,4 +1,4 @@
-# PythonWebsiteVirtualSprints
+# Python Website Virtual Sprints
 
 ```{admonition} Legacy Wiki Page
 :class: note

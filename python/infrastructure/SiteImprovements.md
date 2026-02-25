@@ -1,4 +1,4 @@
-# SiteImprovements
+# Site Improvements
 
 ```{admonition} Legacy Wiki Page
 :class: note

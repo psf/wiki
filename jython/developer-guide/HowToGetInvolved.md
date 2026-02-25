@@ -1,4 +1,4 @@
-# HowToGetInvolved
+# How to Get Involved
 
 ```{admonition} Legacy Wiki Page
 :class: note

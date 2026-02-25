@@ -1,4 +1,4 @@
-# PyOhio2008/Talks
+# PyOhio 2008 / Talks
 
 ```{admonition} Legacy Wiki Page
 :class: note

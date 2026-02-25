@@ -1,4 +1,4 @@
-# WebSIGTasks
+# Web SIG Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

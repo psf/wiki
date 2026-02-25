@@ -1,4 +1,4 @@
-# MacPython/DrawBot
+# MacPython / Draw Bot
 
 ```{admonition} Legacy Wiki Page
 :class: note

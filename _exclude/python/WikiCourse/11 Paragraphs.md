@@ -1,4 +1,4 @@
-# WikiCourse/11 Paragraphs
+# Wiki Course / 11 Paragraphs
 
 ```{admonition} Legacy Wiki Page
 :class: note

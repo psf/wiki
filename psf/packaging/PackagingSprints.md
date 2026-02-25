@@ -1,4 +1,4 @@
-# PackagingSprints
+# Packaging Sprints
 
 ```{admonition} Legacy Wiki Page
 :class: note

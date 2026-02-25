@@ -1,4 +1,4 @@
-# PyOhio/RecordingRelease
+# PyOhio / Recording Release
 
 ```{admonition} Legacy Wiki Page
 :class: note

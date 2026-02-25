@@ -1,4 +1,4 @@
-# PyCon2006/VenueDiscussion
+# PyCon 2006 / Venue Discussion
 
 ```{admonition} Legacy Wiki Page
 :class: note

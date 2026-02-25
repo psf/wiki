@@ -1,4 +1,4 @@
-# PyQt/Removing a database
+# PyQt / Removing a database
 
 ```{admonition} Legacy Wiki Page
 :class: note

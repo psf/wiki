@@ -1,4 +1,4 @@
-# DatabaseProgramming
+# Database Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

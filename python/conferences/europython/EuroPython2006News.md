@@ -1,4 +1,4 @@
-# EuroPython2006News
+# EuroPython 2006 News
 
 ```{admonition} Legacy Wiki Page
 :class: note

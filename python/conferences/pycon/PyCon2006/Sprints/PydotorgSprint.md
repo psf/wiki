@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/PydotorgSprint
+# PyCon 2006 / Sprints / Pydotorg Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

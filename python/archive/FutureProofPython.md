@@ -1,4 +1,4 @@
-# FutureProofPython
+# Future Proof Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

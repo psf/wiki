@@ -1,4 +1,4 @@
-# PythonAudioMaterial
+# Python Audio Material
 
 ```{admonition} Legacy Wiki Page
 :class: note

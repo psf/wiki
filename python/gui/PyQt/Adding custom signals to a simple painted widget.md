@@ -1,4 +1,4 @@
-# PyQt/Adding custom signals to a simple painted widget
+# PyQt / Adding custom signals to a simple painted widget
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonInstalledByDefault
+# Python Installed by Default
 
 ```{admonition} Legacy Wiki Page
 :class: note

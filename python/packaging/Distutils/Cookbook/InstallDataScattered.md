@@ -1,4 +1,4 @@
-# Distutils/Cookbook/InstallDataScattered
+# Distutils / Cookbook / Install Data Scattered
 
 ```{admonition} Legacy Wiki Page
 :class: note

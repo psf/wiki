@@ -1,4 +1,4 @@
-# PyCon2006/Panels
+# PyCon 2006 / Panels
 
 ```{admonition} Legacy Wiki Page
 :class: note

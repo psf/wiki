@@ -1,4 +1,4 @@
-# FiscalSponsorship
+# Fiscal Sponsorship
 
 ```{admonition} Legacy Wiki Page
 :class: note

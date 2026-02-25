@@ -1,4 +1,4 @@
-# WikiUsers
+# Wiki Users
 
 ```{admonition} Legacy Wiki Page
 :class: note

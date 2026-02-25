@@ -1,4 +1,4 @@
-# CodingProjectIdeas/StandardLibrary
+# Coding Project Ideas / Standard Library
 
 ```{admonition} Legacy Wiki Page
 :class: note

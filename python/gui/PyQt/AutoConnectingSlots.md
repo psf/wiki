@@ -1,4 +1,4 @@
-# PyQt/AutoConnectingSlots
+# PyQt / Auto Connecting Slots
 
 ```{admonition} Legacy Wiki Page
 :class: note

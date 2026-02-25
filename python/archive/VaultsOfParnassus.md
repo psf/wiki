@@ -1,4 +1,4 @@
-# VaultsOfParnassus
+# Vaults of Parnassus
 
 ```{admonition} Legacy Wiki Page
 :class: note

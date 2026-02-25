@@ -1,4 +1,4 @@
-# EduSig/DataResources/ElementsFetcher
+# Edu Sig / Data Resources / Elements Fetcher
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# SystemAdmin
+# System Admin
 
 ```{admonition} Legacy Wiki Page
 :class: note

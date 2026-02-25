@@ -1,4 +1,4 @@
-# Beauty_Advice_To_Improve_With_Your_Look
+# Beauty Advice to Improve with Your Look
 
 ```{admonition} Legacy Wiki Page
 :class: note

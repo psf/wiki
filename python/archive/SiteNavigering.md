@@ -1,4 +1,4 @@
-# SiteNavigering
+# Site Navigering
 
 ```{admonition} Legacy Wiki Page
 :class: note

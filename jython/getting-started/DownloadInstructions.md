@@ -1,4 +1,4 @@
-# DownloadInstructions
+# Download Instructions
 
 ```{admonition} Legacy Wiki Page
 :class: note

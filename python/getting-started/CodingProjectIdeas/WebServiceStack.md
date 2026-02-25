@@ -1,4 +1,4 @@
-# CodingProjectIdeas/WebServiceStack
+# Coding Project Ideas / Web Service Stack
 
 ```{admonition} Legacy Wiki Page
 :class: note

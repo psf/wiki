@@ -1,4 +1,4 @@
-# PythonSoftwareFoundation/DutiesAndResponsibilitiesOfDirectors
+# Python Software Foundation / Duties and Responsibilities of Directors
 
 ```{admonition} Legacy Wiki Page
 :class: note

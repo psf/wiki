@@ -1,4 +1,4 @@
-# TipsForInHouseUserGroups
+# Tips for in House User Groups
 
 ```{admonition} Legacy Wiki Page
 :class: note

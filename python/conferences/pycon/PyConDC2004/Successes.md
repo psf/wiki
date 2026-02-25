@@ -1,4 +1,4 @@
-# PyConDC2004/Successes
+# PyCon DC 2004 / Successes
 
 ```{admonition} Legacy Wiki Page
 :class: note

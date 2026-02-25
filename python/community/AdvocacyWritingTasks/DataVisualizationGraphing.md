@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/DataVisualizationGraphing
+# Advocacy Writing Tasks / Data Visualization Graphing
 
 ```{admonition} Legacy Wiki Page
 :class: note

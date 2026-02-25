@@ -1,4 +1,4 @@
-# SummerOfCode/FrequentlyAskedQuestions
+# Summer of Code / Frequently Asked Questions
 
 ```{admonition} Legacy Wiki Page
 :class: note

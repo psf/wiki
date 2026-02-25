@@ -1,4 +1,4 @@
-# MacPython/py2app
+# MacPython / py2app
 
 ```{admonition} Legacy Wiki Page
 :class: note

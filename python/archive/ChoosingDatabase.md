@@ -1,4 +1,4 @@
-# ChoosingDatabase
+# Choosing Database
 
 ```{admonition} Legacy Wiki Page
 :class: note

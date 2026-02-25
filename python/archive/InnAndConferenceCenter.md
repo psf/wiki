@@ -1,4 +1,4 @@
-# InnAndConferenceCenter
+# Inn and Conference Center
 
 ```{admonition} Legacy Wiki Page
 :class: note

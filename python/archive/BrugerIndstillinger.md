@@ -1,4 +1,4 @@
-# BrugerIndstillinger
+# Bruger Indstillinger
 
 ```{admonition} Legacy Wiki Page
 :class: note

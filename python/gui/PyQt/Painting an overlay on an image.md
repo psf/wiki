@@ -1,4 +1,4 @@
-# PyQt/Painting an overlay on an image
+# PyQt / Painting an overlay on an image
 
 ```{admonition} Legacy Wiki Page
 :class: note

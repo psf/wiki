@@ -1,4 +1,4 @@
-# InternetSupport
+# Internet Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

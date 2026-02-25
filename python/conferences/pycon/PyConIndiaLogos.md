@@ -1,4 +1,4 @@
-# PyConIndiaLogos
+# PyCon India Logos
 
 ```{admonition} Legacy Wiki Page
 :class: note

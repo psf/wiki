@@ -1,4 +1,4 @@
-# Asking for Help/SubtractionQuestion
+# Asking for Help / Subtraction Question
 
 ```{admonition} Legacy Wiki Page
 :class: note

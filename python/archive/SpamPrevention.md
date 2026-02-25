@@ -1,4 +1,4 @@
-# SpamPrevention
+# Spam Prevention
 
 ```{admonition} Legacy Wiki Page
 :class: note

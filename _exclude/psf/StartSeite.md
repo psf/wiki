@@ -1,4 +1,4 @@
-# StartSeite
+# Start Seite
 
 ```{admonition} Legacy Wiki Page
 :class: note

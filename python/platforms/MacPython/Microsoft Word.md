@@ -1,4 +1,4 @@
-# MacPython/Microsoft Word
+# MacPython / Microsoft Word
 
 ```{admonition} Legacy Wiki Page
 :class: note

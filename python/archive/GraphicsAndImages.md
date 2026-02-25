@@ -1,4 +1,4 @@
-# GraphicsAndImages
+# Graphics and Images
 
 ```{admonition} Legacy Wiki Page
 :class: note

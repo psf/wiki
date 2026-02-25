@@ -1,4 +1,4 @@
-# CommonIdeas
+# Common Ideas
 
 ```{admonition} Legacy Wiki Page
 :class: note

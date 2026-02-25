@@ -1,4 +1,4 @@
-# PyQt/SampleCode
+# PyQt / Sample Code
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonForArmLinux
+# Python for Arm Linux
 
 ```{admonition} Legacy Wiki Page
 :class: note

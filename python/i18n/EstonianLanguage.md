@@ -1,4 +1,4 @@
-# EstonianLanguage
+# Estonian Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

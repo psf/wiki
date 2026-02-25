@@ -1,4 +1,4 @@
-# EmacsPythonMode
+# Emacs Python Mode
 
 ```{admonition} Legacy Wiki Page
 :class: note

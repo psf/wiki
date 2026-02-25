@@ -1,4 +1,4 @@
-# DevelopmentTools
+# Development Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

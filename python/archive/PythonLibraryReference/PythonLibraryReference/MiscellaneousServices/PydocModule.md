@@ -1,4 +1,4 @@
-# PythonLibraryReference/MiscellaneousServices/PydocModule
+# Python Library Reference / Miscellaneous Services / Pydoc Module
 
 ```{admonition} Legacy Wiki Page
 :class: note

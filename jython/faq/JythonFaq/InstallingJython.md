@@ -1,4 +1,4 @@
-# JythonFaq/InstallingJython
+# Jython FAQ / Installing Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

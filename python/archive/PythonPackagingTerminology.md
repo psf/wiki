@@ -1,4 +1,4 @@
-# PythonPackagingTerminology
+# Python Packaging Terminology
 
 ```{admonition} Legacy Wiki Page
 :class: note

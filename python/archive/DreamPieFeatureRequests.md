@@ -1,4 +1,4 @@
-# DreamPieFeatureRequests
+# Dream Pie Feature Requests
 
 ```{admonition} Legacy Wiki Page
 :class: note

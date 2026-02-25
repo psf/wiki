@@ -1,4 +1,4 @@
-# Scientific/Charter_v2
+# Scientific / Charter v2
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ReferenceBooks
+# Reference Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

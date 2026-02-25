@@ -1,4 +1,4 @@
-# Packaging/Sprints/DocumentationSprint
+# Packaging / Sprints / Documentation Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

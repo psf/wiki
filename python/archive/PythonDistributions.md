@@ -1,4 +1,4 @@
-# PythonDistributions
+# Python Distributions
 
 ```{admonition} Legacy Wiki Page
 :class: note

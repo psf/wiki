@@ -1,4 +1,4 @@
-# RdfLib
+# Rdf Lib
 
 ```{admonition} Legacy Wiki Page
 :class: note

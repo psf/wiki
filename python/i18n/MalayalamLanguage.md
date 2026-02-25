@@ -1,4 +1,4 @@
-# MalayalamLanguage
+# Malayalam Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

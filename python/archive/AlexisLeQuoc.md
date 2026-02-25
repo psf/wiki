@@ -1,4 +1,4 @@
-# AlexisLeQuoc
+# Alexis Le Quoc
 
 ```{admonition} Legacy Wiki Page
 :class: note

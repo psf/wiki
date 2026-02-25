@@ -1,4 +1,4 @@
-# BayPiggiesGoogleMeetings
+# Bay Piggies Google Meetings
 
 ```{admonition} Legacy Wiki Page
 :class: note

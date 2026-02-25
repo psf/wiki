@@ -1,4 +1,4 @@
-# Mailman3Sprint
+# Mailman 3 Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# TourBusStop
+# Tour Bus Stop
 
 ```{admonition} Legacy Wiki Page
 :class: note

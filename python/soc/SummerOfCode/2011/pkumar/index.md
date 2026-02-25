@@ -1,4 +1,4 @@
-# SummerOfCode/2011/pkumar
+# Summer of Code / 2011 / pkumar
 
 ```{toctree}
 :maxdepth: 1

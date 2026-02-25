@@ -1,4 +1,4 @@
-# PyConDC2003/OpenSpaceSessions
+# PyCon DC 2003 / Open Space Sessions
 
 ```{admonition} Legacy Wiki Page
 :class: note

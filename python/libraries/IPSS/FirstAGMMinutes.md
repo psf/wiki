@@ -1,4 +1,4 @@
-# IPSS/FirstAGMMinutes
+# IPSS / First AGM Minutes
 
 ```{admonition} Legacy Wiki Page
 :class: note

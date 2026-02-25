@@ -1,4 +1,4 @@
-# PyQt/Adding a background image to an MDI area
+# PyQt / Adding a background image to an MDI area
 
 ```{admonition} Legacy Wiki Page
 :class: note

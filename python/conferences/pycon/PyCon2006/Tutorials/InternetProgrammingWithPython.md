@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/InternetProgrammingWithPython
+# PyCon 2006 / Tutorials / Internet Programming with Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

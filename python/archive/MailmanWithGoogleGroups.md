@@ -1,4 +1,4 @@
-# MailmanWithGoogleGroups
+# Mailman with Google Groups
 
 ```{admonition} Legacy Wiki Page
 :class: note

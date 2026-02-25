@@ -1,4 +1,4 @@
-# DocsCoordination/FAQ
+# Docs Coordination / FAQ
 
 ```{admonition} Legacy Wiki Page
 :class: note

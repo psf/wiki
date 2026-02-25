@@ -1,4 +1,4 @@
-# BundleBuilder
+# Bundle Builder
 
 ```{admonition} Legacy Wiki Page
 :class: note

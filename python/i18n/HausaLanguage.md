@@ -1,4 +1,4 @@
-# HausaLanguage
+# Hausa Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# OtherCommercialHosts
+# Other Commercial Hosts
 
 ```{admonition} Legacy Wiki Page
 :class: note

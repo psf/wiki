@@ -1,4 +1,4 @@
-# PyCon2006/AustinPUGBof
+# PyCon 2006 / Austin PUG BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

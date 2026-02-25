@@ -1,4 +1,4 @@
-# MiguelGonzález
+# Miguel González
 
 ```{admonition} Legacy Wiki Page
 :class: note

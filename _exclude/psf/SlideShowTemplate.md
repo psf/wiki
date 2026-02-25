@@ -1,4 +1,4 @@
-# SlideShowTemplate
+# Slide Show Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

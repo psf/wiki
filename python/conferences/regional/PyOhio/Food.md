@@ -1,4 +1,4 @@
-# PyOhio/Food
+# PyOhio / Food
 
 ```{admonition} Legacy Wiki Page
 :class: note

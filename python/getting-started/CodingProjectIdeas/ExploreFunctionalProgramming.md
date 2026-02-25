@@ -1,4 +1,4 @@
-# CodingProjectIdeas/ExploreFunctionalProgramming
+# Coding Project Ideas / Explore Functional Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

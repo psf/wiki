@@ -1,4 +1,4 @@
-# boost.python/CallPolicy
+# boost.python / Call Policy
 
 ```{admonition} Legacy Wiki Page
 :class: note

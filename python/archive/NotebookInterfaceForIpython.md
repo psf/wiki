@@ -1,4 +1,4 @@
-# NotebookInterfaceForIpython
+# Notebook Interface for Ipython
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# AndrewKuchling/Talk
+# Andrew Kuchling / Talk
 
 ```{admonition} Legacy Wiki Page
 :class: note

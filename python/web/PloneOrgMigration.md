@@ -1,4 +1,4 @@
-# PloneOrgMigration
+# Plone Org Migration
 
 ```{admonition} Legacy Wiki Page
 :class: note

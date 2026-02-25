@@ -1,4 +1,4 @@
-# Skype4Py
+# Skype 4 Py
 
 ```{admonition} Legacy Wiki Page
 :class: note

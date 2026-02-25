@@ -1,4 +1,4 @@
-# PythonLibraryReference/InternetDataHandling
+# Python Library Reference / Internet Data Handling
 
 ```{admonition} Legacy Wiki Page
 :class: note

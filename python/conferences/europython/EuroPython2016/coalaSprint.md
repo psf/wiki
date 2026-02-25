@@ -1,4 +1,4 @@
-# EuroPython2016/coalaSprint
+# EuroPython 2016 / coala Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

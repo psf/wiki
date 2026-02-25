@@ -1,4 +1,4 @@
-# CodingProjectIdeas/PythonCore/UnicodeIdentifiers
+# Coding Project Ideas / Python Core / Unicode Identifiers
 
 ```{admonition} Legacy Wiki Page
 :class: note

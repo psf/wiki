@@ -1,4 +1,4 @@
-# PyQt/PyQt4_with_PostgreSQL_Installation_Notes_(Windows)
+# PyQt / PyQt4 with PostgreSQL Installation Notes (Windows)
 
 ```{admonition} Legacy Wiki Page
 :class: note

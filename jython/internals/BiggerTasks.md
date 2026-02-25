@@ -1,4 +1,4 @@
-# BiggerTasks
+# Bigger Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyConIndiaVolunteers
+# PyCon India Volunteers
 
 ```{admonition} Legacy Wiki Page
 :class: note

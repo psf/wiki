@@ -1,4 +1,4 @@
-# WikiCourse/10 Text layout with wiki markup
+# Wiki Course / 10 Text layout with wiki markup
 
 ```{admonition} Legacy Wiki Page
 :class: note

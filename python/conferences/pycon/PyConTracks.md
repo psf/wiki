@@ -1,4 +1,4 @@
-# PyConTracks
+# PyCon Tracks
 
 ```{admonition} Legacy Wiki Page
 :class: note

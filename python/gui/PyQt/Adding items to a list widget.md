@@ -1,4 +1,4 @@
-# PyQt/Adding items to a list widget
+# PyQt / Adding items to a list widget
 
 ```{admonition} Legacy Wiki Page
 :class: note

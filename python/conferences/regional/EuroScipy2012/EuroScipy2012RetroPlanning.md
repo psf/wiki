@@ -1,4 +1,4 @@
-# EuroScipy2012/EuroScipy2012RetroPlanning
+# EuroSciPy 2012 / EuroSciPy 2012 Retro Planning
 
 ```{admonition} Legacy Wiki Page
 :class: note

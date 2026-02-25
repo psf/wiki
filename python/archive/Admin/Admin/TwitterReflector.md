@@ -1,4 +1,4 @@
-# Admin/TwitterReflector
+# Admin / Twitter Reflector
 
 ```{admonition} Legacy Wiki Page
 :class: note

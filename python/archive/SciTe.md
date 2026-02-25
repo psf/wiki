@@ -1,4 +1,4 @@
-# SciTe
+# Sci Te
 
 ```{admonition} Legacy Wiki Page
 :class: note

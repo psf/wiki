@@ -1,4 +1,4 @@
-# PythonWebsiteHomePageShalabh
+# Python Website Home Page Shalabh
 
 ```{admonition} Legacy Wiki Page
 :class: note

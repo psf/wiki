@@ -1,4 +1,4 @@
-# PyQt/EuroPython2006Talk
+# PyQt / EuroPython 2006 Talk
 
 ```{admonition} Legacy Wiki Page
 :class: note

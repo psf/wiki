@@ -1,4 +1,4 @@
-# PyQt/A full widget waiting indicator
+# PyQt / A full widget waiting indicator
 
 ```{admonition} Legacy Wiki Page
 :class: note

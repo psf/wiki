@@ -1,4 +1,4 @@
-# PyCon2006/Feedback
+# PyCon 2006 / Feedback
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# RPMOnPython3
+# RPM on Python 3
 
 ```{admonition} Legacy Wiki Page
 :class: note

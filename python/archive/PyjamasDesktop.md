@@ -1,4 +1,4 @@
-# PyjamasDesktop
+# Pyjamas Desktop
 
 ```{admonition} Legacy Wiki Page
 :class: note

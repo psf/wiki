@@ -1,4 +1,4 @@
-# Distutils/DistributeSprint
+# Distutils / Distribute Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

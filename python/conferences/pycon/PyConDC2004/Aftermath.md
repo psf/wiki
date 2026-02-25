@@ -1,4 +1,4 @@
-# PyConDC2004/Aftermath
+# PyCon DC 2004 / Aftermath
 
 ```{admonition} Legacy Wiki Page
 :class: note

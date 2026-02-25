@@ -1,4 +1,4 @@
-# MacPython/ScrIDE
+# MacPython / Scr IDE
 
 ```{admonition} Legacy Wiki Page
 :class: note

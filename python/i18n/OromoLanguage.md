@@ -1,4 +1,4 @@
-# OromoLanguage
+# Oromo Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/GettingStartedWithWxPython
+# PyCon 2006 / Tutorials / Getting Started with wx Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonProjects
+# Python Projects
 
 ```{admonition} Legacy Wiki Page
 :class: note

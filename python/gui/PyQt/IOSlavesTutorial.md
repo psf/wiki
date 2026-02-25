@@ -1,4 +1,4 @@
-# PyQt/IOSlavesTutorial
+# PyQt / iOS laves Tutorial
 
 ```{admonition} Legacy Wiki Page
 :class: note

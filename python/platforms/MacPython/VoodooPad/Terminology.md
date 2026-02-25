@@ -1,4 +1,4 @@
-# MacPython/VoodooPad/Terminology
+# MacPython / VoodooPad / Terminology
 
 ```{admonition} Legacy Wiki Page
 :class: note

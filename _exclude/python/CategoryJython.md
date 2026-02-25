@@ -1,4 +1,4 @@
-# CategoryJython
+# Category Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

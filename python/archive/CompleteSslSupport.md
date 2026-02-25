@@ -1,4 +1,4 @@
-# CompleteSslSupport
+# Complete SSL Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

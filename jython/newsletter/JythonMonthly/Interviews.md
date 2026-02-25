@@ -1,4 +1,4 @@
-# JythonMonthly/Interviews
+# Jython Monthly / Interviews
 
 ```{admonition} Legacy Wiki Page
 :class: note

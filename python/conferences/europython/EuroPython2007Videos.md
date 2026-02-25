@@ -1,4 +1,4 @@
-# EuroPython2007Videos
+# EuroPython 2007 Videos
 
 ```{admonition} Legacy Wiki Page
 :class: note

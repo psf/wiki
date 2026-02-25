@@ -1,4 +1,4 @@
-# FunctionWrappers
+# Function Wrappers
 
 ```{admonition} Legacy Wiki Page
 :class: note

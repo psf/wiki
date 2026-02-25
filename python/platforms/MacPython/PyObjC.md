@@ -1,4 +1,4 @@
-# MacPython/PyObjC
+# MacPython / PyObj C
 
 ```{admonition} Legacy Wiki Page
 :class: note

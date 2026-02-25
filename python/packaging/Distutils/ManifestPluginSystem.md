@@ -1,4 +1,4 @@
-# Distutils/ManifestPluginSystem
+# Distutils / Manifest Plugin System
 
 ```{admonition} Legacy Wiki Page
 :class: note

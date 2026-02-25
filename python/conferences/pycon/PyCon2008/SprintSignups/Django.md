@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/Django
+# PyCon 2008 / Sprint Signups / Django
 
 ```{admonition} Legacy Wiki Page
 :class: note

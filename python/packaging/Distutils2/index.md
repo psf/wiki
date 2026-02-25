@@ -1,4 +1,4 @@
-# Distutils2
+# Distutils 2
 
 ```{toctree}
 :maxdepth: 1

@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationLicenseFaq/AFL-2.1
+# Python Software Foundation License FAQ / AFL-2.1
 
 ```{admonition} Legacy Wiki Page
 :class: note

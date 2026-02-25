@@ -1,4 +1,4 @@
-# GoClientServer
+# Go Client Server
 
 ```{admonition} Legacy Wiki Page
 :class: note

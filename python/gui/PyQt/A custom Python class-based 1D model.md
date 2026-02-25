@@ -1,4 +1,4 @@
-# PyQt/A custom Python class-based 1D model
+# PyQt / A custom Python class-based 1 D model
 
 ```{admonition} Legacy Wiki Page
 :class: note

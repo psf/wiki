@@ -1,4 +1,4 @@
-# ConfigurationAndBuildTools
+# Configuration and Build Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

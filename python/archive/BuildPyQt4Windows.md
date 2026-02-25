@@ -1,4 +1,4 @@
-# BuildPyQt4Windows
+# Build PyQt4 Windows
 
 ```{admonition} Legacy Wiki Page
 :class: note

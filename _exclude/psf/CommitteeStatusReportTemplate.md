@@ -1,4 +1,4 @@
-# CommitteeStatusReportTemplate
+# Committee Status Report Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

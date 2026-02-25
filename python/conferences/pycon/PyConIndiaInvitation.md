@@ -1,4 +1,4 @@
-# PyConIndiaInvitation
+# PyCon India Invitation
 
 ```{admonition} Legacy Wiki Page
 :class: note

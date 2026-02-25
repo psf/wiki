@@ -1,4 +1,4 @@
-# PyOhio2008/Planning
+# PyOhio 2008 / Planning
 
 ```{admonition} Legacy Wiki Page
 :class: note

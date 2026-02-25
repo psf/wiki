@@ -1,4 +1,4 @@
-# PyCon2008/SocialNetworkingActivities
+# PyCon 2008 / Social Networking Activities
 
 ```{admonition} Legacy Wiki Page
 :class: note

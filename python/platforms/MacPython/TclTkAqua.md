@@ -1,4 +1,4 @@
-# MacPython/TclTkAqua
+# MacPython / Tcl Tk Aqua
 
 ```{admonition} Legacy Wiki Page
 :class: note

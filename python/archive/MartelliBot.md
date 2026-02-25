@@ -1,4 +1,4 @@
-# MartelliBot
+# Martelli Bot
 
 ```{admonition} Legacy Wiki Page
 :class: note

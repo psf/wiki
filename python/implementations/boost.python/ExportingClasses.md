@@ -1,4 +1,4 @@
-# boost.python/ExportingClasses
+# boost.python / Exporting Classes
 
 ```{admonition} Legacy Wiki Page
 :class: note

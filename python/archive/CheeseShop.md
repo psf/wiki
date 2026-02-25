@@ -1,4 +1,4 @@
-# CheeseShop
+# Cheese Shop
 
 ```{admonition} Legacy Wiki Page
 :class: note

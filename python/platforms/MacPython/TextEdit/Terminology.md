@@ -1,4 +1,4 @@
-# MacPython/TextEdit/Terminology
+# MacPython / TextEdit / Terminology
 
 ```{admonition} Legacy Wiki Page
 :class: note

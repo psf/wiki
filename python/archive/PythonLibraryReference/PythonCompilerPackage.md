@@ -1,4 +1,4 @@
-# PythonLibraryReference/PythonCompilerPackage
+# Python Library Reference / Python Compiler Package
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonWikiChanges
+# Python Wiki Changes
 
 ```{admonition} Legacy Wiki Page
 :class: note

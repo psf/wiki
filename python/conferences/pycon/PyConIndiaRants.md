@@ -1,4 +1,4 @@
-# PyConIndiaRants
+# PyCon India Rants
 
 ```{admonition} Legacy Wiki Page
 :class: note

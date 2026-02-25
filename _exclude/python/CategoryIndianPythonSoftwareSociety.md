@@ -1,4 +1,4 @@
-# CategoryIndianPythonSoftwareSociety
+# Category Indian Python Software Society
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Books
+# PyQt / Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

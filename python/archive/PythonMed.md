@@ -1,4 +1,4 @@
-# PythonMed
+# Python Med
 
 ```{admonition} Legacy Wiki Page
 :class: note

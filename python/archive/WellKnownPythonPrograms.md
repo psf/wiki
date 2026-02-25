@@ -1,4 +1,4 @@
-# WellKnownPythonPrograms
+# Well Known Python Programs
 
 ```{admonition} Legacy Wiki Page
 :class: note

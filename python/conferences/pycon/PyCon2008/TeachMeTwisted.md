@@ -1,4 +1,4 @@
-# PyCon2008/TeachMeTwisted
+# PyCon 2008 / Teach Me Twisted
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Distutils/Extensions/SpecFileManipulation
+# Distutils / Extensions / Spec File Manipulation
 
 ```{admonition} Legacy Wiki Page
 :class: note

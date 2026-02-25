@@ -1,4 +1,4 @@
-# WikiCourse/14 Text styles
+# Wiki Course / 14 Text styles
 
 ```{admonition} Legacy Wiki Page
 :class: note

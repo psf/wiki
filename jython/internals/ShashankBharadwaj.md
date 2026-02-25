@@ -1,4 +1,4 @@
-# ShashankBharadwaj
+# Shashank Bharadwaj
 
 ```{admonition} Legacy Wiki Page
 :class: note

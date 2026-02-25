@@ -1,4 +1,4 @@
-# boost.python/EmbeddingPython
+# boost.python / Embedding Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

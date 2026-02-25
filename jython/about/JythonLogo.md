@@ -1,4 +1,4 @@
-# JythonLogo
+# Jython Logo
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# HelpSystem
+# Help System
 
 ```{admonition} Legacy Wiki Page
 :class: note

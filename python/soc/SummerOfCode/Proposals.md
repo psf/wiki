@@ -1,4 +1,4 @@
-# SummerOfCode/Proposals
+# Summer of Code / Proposals
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonSoftwareFoundation/BoardCandidates2015
+# Python Software Foundation / Board Candidates 2015
 
 ```{admonition} Legacy Wiki Page
 :class: note

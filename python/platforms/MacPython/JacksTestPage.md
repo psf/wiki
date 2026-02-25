@@ -1,4 +1,4 @@
-# MacPython/JacksTestPage
+# MacPython / Jacks Test Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

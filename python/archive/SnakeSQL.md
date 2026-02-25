@@ -1,4 +1,4 @@
-# SnakeSQL
+# Snake SQL
 
 ```{admonition} Legacy Wiki Page
 :class: note

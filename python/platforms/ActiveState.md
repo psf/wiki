@@ -1,4 +1,4 @@
-# ActiveState
+# Active State
 
 ```{admonition} Legacy Wiki Page
 :class: note

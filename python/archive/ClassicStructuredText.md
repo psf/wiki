@@ -1,4 +1,4 @@
-# ClassicStructuredText
+# Classic Structured Text
 
 ```{admonition} Legacy Wiki Page
 :class: note

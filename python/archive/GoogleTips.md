@@ -1,4 +1,4 @@
-# GoogleTips
+# Google Tips
 
 ```{admonition} Legacy Wiki Page
 :class: note

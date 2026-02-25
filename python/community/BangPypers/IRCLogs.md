@@ -1,4 +1,4 @@
-# BangPypers/IRCLogs
+# BangPypers / IRC Logs
 
 ```{admonition} Legacy Wiki Page
 :class: note

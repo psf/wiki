@@ -1,4 +1,4 @@
-# PortlandPythonUserGroup
+# Portland Python User Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

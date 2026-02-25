@@ -1,4 +1,4 @@
-# AppLocalization
+# App Localization
 
 ```{admonition} Legacy Wiki Page
 :class: note

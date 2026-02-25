@@ -1,4 +1,4 @@
-# PyPISimple
+# PyPI Simple
 
 ```{admonition} Legacy Wiki Page
 :class: note

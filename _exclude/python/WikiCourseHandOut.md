@@ -1,4 +1,4 @@
-# WikiCourseHandOut
+# Wiki Course Hand Out
 
 ```{admonition} Legacy Wiki Page
 :class: note

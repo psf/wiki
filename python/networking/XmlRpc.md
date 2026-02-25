@@ -1,4 +1,4 @@
-# XmlRpc
+# XML RPC
 
 ```{admonition} Legacy Wiki Page
 :class: note

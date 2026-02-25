@@ -1,4 +1,4 @@
-# AnyGui
+# Any GUI
 
 ```{admonition} Legacy Wiki Page
 :class: note

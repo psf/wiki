@@ -1,4 +1,4 @@
-# EdwardMokuraiCherlin
+# Edward Mokurai Cherlin
 
 ```{admonition} Legacy Wiki Page
 :class: note

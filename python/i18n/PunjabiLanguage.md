@@ -1,4 +1,4 @@
-# PunjabiLanguage
+# Punjabi Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

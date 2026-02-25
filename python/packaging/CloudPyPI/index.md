@@ -1,4 +1,4 @@
-# Cloudpypi
+# Cloud PyPI
 
 ```{toctree}
 :maxdepth: 1

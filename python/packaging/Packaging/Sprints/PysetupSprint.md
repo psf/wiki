@@ -1,4 +1,4 @@
-# Packaging/Sprints/PysetupSprint
+# Packaging / Sprints / Pysetup Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

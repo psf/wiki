@@ -1,4 +1,4 @@
-# PeopleFilter
+# People Filter
 
 ```{admonition} Legacy Wiki Page
 :class: note

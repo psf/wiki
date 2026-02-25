@@ -1,4 +1,4 @@
-# CategoryJep
+# Category JEP
 
 ```{admonition} Legacy Wiki Page
 :class: note

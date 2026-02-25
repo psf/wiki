@@ -1,4 +1,4 @@
-# MacPython/iCal
+# MacPython / i Cal
 
 ```{admonition} Legacy Wiki Page
 :class: note

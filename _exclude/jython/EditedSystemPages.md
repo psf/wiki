@@ -1,4 +1,4 @@
-# EditedSystemPages
+# Edited System Pages
 
 ```{admonition} Legacy Wiki Page
 :class: note

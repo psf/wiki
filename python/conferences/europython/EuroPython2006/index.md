@@ -1,4 +1,4 @@
-# Europython2006
+# EuroPython 2006
 
 ```{toctree}
 :maxdepth: 1

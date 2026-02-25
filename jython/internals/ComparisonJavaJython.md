@@ -1,4 +1,4 @@
-# ComparisonJavaJython
+# Comparison Java Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

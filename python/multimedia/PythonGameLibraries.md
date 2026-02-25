@@ -1,4 +1,4 @@
-# PythonGameLibraries
+# Python Game Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

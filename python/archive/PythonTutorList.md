@@ -1,4 +1,4 @@
-# PythonTutorList
+# Python Tutor List
 
 ```{admonition} Legacy Wiki Page
 :class: note

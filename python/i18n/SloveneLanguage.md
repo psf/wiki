@@ -1,4 +1,4 @@
-# SloveneLanguage
+# Slovene Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

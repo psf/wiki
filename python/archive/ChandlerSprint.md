@@ -1,4 +1,4 @@
-# ChandlerSprint
+# Chandler Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

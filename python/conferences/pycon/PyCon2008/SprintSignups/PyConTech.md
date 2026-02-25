@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/PyConTech
+# PyCon 2008 / Sprint Signups / PyCon Tech
 
 ```{admonition} Legacy Wiki Page
 :class: note

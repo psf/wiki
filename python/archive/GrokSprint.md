@@ -1,4 +1,4 @@
-# GrokSprint
+# Grok Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CzechLanguage
+# Czech Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

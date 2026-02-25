@@ -1,4 +1,4 @@
-# BetterZope2BlobSupportSprint
+# Better Zope 2 Blob Support Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

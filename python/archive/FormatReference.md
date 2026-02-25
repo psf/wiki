@@ -1,4 +1,4 @@
-# FormatReference
+# Format Reference
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# NonCommercialHosting
+# Non Commercial Hosting
 
 ```{admonition} Legacy Wiki Page
 :class: note

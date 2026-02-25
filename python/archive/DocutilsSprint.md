@@ -1,4 +1,4 @@
-# DocutilsSprint
+# DocUtils Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

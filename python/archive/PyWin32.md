@@ -1,4 +1,4 @@
-# PyWin32
+# PyWin 32
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Distutils/StaticMetadata
+# Distutils / Static Metadata
 
 ```{admonition} Legacy Wiki Page
 :class: note

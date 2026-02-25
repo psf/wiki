@@ -1,4 +1,4 @@
-# CheeseShopTutorial
+# Cheese Shop Tutorial
 
 ```{admonition} Legacy Wiki Page
 :class: note

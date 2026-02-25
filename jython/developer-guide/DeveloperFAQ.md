@@ -1,4 +1,4 @@
-# DeveloperFAQ
+# Developer FAQ
 
 ```{admonition} Legacy Wiki Page
 :class: note

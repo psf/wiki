@@ -1,4 +1,4 @@
-# BeginnersGuide/Overview
+# Beginners Guide / Overview
 
 ```{admonition} Legacy Wiki Page
 :class: note

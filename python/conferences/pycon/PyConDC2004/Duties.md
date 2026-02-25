@@ -1,4 +1,4 @@
-# PyConDC2004/Duties
+# PyCon DC 2004 / Duties
 
 ```{admonition} Legacy Wiki Page
 :class: note

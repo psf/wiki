@@ -1,4 +1,4 @@
-# LearnByObservation
+# Learn by Observation
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ClientSideWebCache
+# Client Side Web Cache
 
 ```{admonition} Legacy Wiki Page
 :class: note

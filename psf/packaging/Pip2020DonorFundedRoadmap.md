@@ -1,4 +1,4 @@
-# Pip2020DonorFundedRoadmap
+# Pip 2020 Donor Funded Roadmap
 
 ```{admonition} Legacy Wiki Page
 :class: note

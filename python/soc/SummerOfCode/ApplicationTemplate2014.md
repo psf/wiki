@@ -1,4 +1,4 @@
-# SummerOfCode/ApplicationTemplate2014
+# Summer of Code / Application Template 2014
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# BofTopics
+# BOF Topics
 
 ```{admonition} Legacy Wiki Page
 :class: note

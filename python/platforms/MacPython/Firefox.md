@@ -1,4 +1,4 @@
-# MacPython/Firefox
+# MacPython / Firefox
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# InternationalPythonConference
+# International Python Conference
 
 ```{admonition} Legacy Wiki Page
 :class: note

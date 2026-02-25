@@ -1,4 +1,4 @@
-# MacPython/CarbonDocumentation
+# MacPython / Carbon Documentation
 
 ```{admonition} Legacy Wiki Page
 :class: note

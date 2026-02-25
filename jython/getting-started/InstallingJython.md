@@ -1,4 +1,4 @@
-# InstallingJython
+# Installing Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyConIndia2010/CallForProposals
+# PyCon India 2010 / Call for Proposals
 
 ```{admonition} Legacy Wiki Page
 :class: note

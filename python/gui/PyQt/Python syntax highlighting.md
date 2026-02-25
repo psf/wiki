@@ -1,4 +1,4 @@
-# PyQt/Python syntax highlighting
+# PyQt / Python syntax highlighting
 
 ```{admonition} Legacy Wiki Page
 :class: note

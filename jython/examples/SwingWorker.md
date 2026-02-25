@@ -1,4 +1,4 @@
-# SwingWorker
+# Swing Worker
 
 ```{admonition} Legacy Wiki Page
 :class: note

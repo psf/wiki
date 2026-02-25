@@ -1,4 +1,4 @@
-# OpenSource
+# Open Source
 
 ```{admonition} Legacy Wiki Page
 :class: note

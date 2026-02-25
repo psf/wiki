@@ -1,4 +1,4 @@
-# Starlanes2Sprint
+# Starlanes 2 Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

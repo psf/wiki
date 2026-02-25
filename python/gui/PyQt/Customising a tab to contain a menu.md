@@ -1,4 +1,4 @@
-# PyQt/Customising a tab to contain a menu
+# PyQt / Customising a tab to contain a menu
 
 ```{admonition} Legacy Wiki Page
 :class: note

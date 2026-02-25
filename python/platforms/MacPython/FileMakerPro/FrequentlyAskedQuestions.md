@@ -1,4 +1,4 @@
-# MacPython/FileMakerPro/FrequentlyAskedQuestions
+# MacPython / FileMaker Pro / Frequently Asked Questions
 
 ```{admonition} Legacy Wiki Page
 :class: note

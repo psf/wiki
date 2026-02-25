@@ -1,4 +1,4 @@
-# PyOhio08
+# PyOhio 08
 
 ```{admonition} Legacy Wiki Page
 :class: note

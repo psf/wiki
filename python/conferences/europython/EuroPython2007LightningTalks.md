@@ -1,4 +1,4 @@
-# EuroPython2007LightningTalks
+# EuroPython 2007 Lightning Talks
 
 ```{admonition} Legacy Wiki Page
 :class: note

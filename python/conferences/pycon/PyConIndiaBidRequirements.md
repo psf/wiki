@@ -1,4 +1,4 @@
-# PyConIndiaBidRequirements
+# PyCon India Bid Requirements
 
 ```{admonition} Legacy Wiki Page
 :class: note

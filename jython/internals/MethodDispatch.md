@@ -1,4 +1,4 @@
-# MethodDispatch
+# Method Dispatch
 
 ```{admonition} Legacy Wiki Page
 :class: note

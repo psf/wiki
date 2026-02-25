@@ -1,4 +1,4 @@
-# PyPiTestServer
+# PyPI Test Server
 
 ```{admonition} Legacy Wiki Page
 :class: note

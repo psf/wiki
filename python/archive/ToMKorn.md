@@ -1,4 +1,4 @@
-# ToMKorn
+# To M Korn
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ZoomQuiet
+# Zoom Quiet
 
 ```{admonition} Legacy Wiki Page
 :class: note

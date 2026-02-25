@@ -1,4 +1,4 @@
-# InstallationDetails
+# Installation Details
 
 ```{admonition} Legacy Wiki Page
 :class: note

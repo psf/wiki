@@ -1,4 +1,4 @@
-# PythonForPocketPC
+# Python for Pocket PC
 
 ```{admonition} Legacy Wiki Page
 :class: note

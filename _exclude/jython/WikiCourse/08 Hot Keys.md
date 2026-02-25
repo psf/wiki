@@ -1,4 +1,4 @@
-# WikiCourse/08 Hot Keys
+# Wiki Course / 08 Hot Keys
 
 ```{admonition} Legacy Wiki Page
 :class: note

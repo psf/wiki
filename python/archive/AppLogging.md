@@ -1,4 +1,4 @@
-# AppLogging
+# App Logging
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PySndObj
+# PySnd Obj
 
 ```{admonition} Legacy Wiki Page
 :class: note

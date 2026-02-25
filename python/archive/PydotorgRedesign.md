@@ -1,4 +1,4 @@
-# PydotorgRedesign
+# Pydotorg Redesign
 
 ```{admonition} Legacy Wiki Page
 :class: note

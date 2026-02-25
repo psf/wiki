@@ -1,4 +1,4 @@
-# Asking for Help/How do I run Python based software from SourceForge?
+# Asking for Help / How do I run Python based software from SourceForge ?
 
 ```{admonition} Legacy Wiki Page
 :class: note

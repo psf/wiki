@@ -1,4 +1,4 @@
-# PyConDC2003/Photos
+# PyCon DC 2003 / Photos
 
 ```{admonition} Legacy Wiki Page
 :class: note

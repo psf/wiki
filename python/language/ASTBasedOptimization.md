@@ -1,4 +1,4 @@
-# ASTBasedOptimization
+# AST Based Optimization
 
 ```{admonition} Legacy Wiki Page
 :class: note

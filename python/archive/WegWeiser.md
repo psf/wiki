@@ -1,4 +1,4 @@
-# WegWeiser
+# Weg Weiser
 
 ```{admonition} Legacy Wiki Page
 :class: note

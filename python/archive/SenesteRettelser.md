@@ -1,4 +1,4 @@
-# SenesteRettelser
+# Seneste Rettelser
 
 ```{admonition} Legacy Wiki Page
 :class: note

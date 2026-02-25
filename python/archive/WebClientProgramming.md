@@ -1,4 +1,4 @@
-# WebClientProgramming
+# Web Client Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

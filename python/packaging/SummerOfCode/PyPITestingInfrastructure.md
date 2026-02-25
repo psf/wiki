@@ -1,4 +1,4 @@
-# SummerOfCode/PyPITestingInfrastructure
+# Summer of Code / PyPI Testing Infrastructure
 
 ```{admonition} Legacy Wiki Page
 :class: note

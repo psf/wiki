@@ -1,4 +1,4 @@
-# EuroPython2007Photos
+# EuroPython 2007 Photos
 
 ```{admonition} Legacy Wiki Page
 :class: note

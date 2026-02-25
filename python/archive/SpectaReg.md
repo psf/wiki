@@ -1,4 +1,4 @@
-# SpectaReg
+# Specta Reg
 
 ```{admonition} Legacy Wiki Page
 :class: note

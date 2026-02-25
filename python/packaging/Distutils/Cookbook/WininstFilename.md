@@ -1,4 +1,4 @@
-# Distutils/Cookbook/WininstFilename
+# Distutils / Cookbook / Wininst Filename
 
 ```{admonition} Legacy Wiki Page
 :class: note

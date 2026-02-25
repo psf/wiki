@@ -1,4 +1,4 @@
-# WikiKurs/21 Makros
+# Wiki Kurs / 21 Makros
 
 ```{admonition} Legacy Wiki Page
 :class: note

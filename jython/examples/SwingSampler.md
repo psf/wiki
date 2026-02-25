@@ -1,4 +1,4 @@
-# SwingSampler
+# Swing Sampler
 
 ```{admonition} Legacy Wiki Page
 :class: note

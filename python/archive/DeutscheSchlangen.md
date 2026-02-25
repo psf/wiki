@@ -1,4 +1,4 @@
-# DeutscheSchlangen
+# Deutsche Schlangen
 
 ```{admonition} Legacy Wiki Page
 :class: note

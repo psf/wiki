@@ -1,4 +1,4 @@
-# PythonSound
+# Python Sound
 
 ```{admonition} Legacy Wiki Page
 :class: note

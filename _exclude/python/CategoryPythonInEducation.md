@@ -1,4 +1,4 @@
-# CategoryPythonInEducation
+# Category Python in Education
 
 ```{admonition} Legacy Wiki Page
 :class: note

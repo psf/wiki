@@ -1,4 +1,4 @@
-# MacPython/AeveNewbieDiscussion
+# MacPython / Aeve Newbie Discussion
 
 ```{admonition} Legacy Wiki Page
 :class: note

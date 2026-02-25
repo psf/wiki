@@ -1,4 +1,4 @@
-# WikiCourse/50 Wiki etiquette
+# Wiki Course / 50 Wiki etiquette
 
 ```{admonition} Legacy Wiki Page
 :class: note

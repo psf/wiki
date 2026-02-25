@@ -1,4 +1,4 @@
-# SlumpvisSida
+# Slumpvis Sida
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonLibraryReference/ThePythonDebugger
+# Python Library Reference / The Python Debugger
 
 ```{admonition} Legacy Wiki Page
 :class: note

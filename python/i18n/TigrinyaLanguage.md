@@ -1,4 +1,4 @@
-# TigrinyaLanguage
+# Tigrinya Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

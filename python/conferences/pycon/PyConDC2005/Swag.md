@@ -1,4 +1,4 @@
-# PyConDC2005/Swag
+# PyCon DC 2005 / Swag
 
 ```{admonition} Legacy Wiki Page
 :class: note

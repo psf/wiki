@@ -1,4 +1,4 @@
-# ApacPyConWiki
+# APAC PyCon Wiki
 
 ```{admonition} Legacy Wiki Page
 :class: note

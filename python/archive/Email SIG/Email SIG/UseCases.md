@@ -1,4 +1,4 @@
-# Email SIG/UseCases
+# Email SIG / Use Cases
 
 ```{admonition} Legacy Wiki Page
 :class: note

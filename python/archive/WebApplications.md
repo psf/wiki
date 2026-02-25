@@ -1,4 +1,4 @@
-# WebApplications
+# Web Applications
 
 ```{admonition} Legacy Wiki Page
 :class: note

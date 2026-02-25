@@ -1,4 +1,4 @@
-# Textedit
+# TextEdit
 
 ```{toctree}
 :maxdepth: 1

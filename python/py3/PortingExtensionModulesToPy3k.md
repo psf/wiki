@@ -1,4 +1,4 @@
-# PortingExtensionModulesToPy3k
+# Porting Extension Modules to Py3k
 
 ```{admonition} Legacy Wiki Page
 :class: note

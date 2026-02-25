@@ -1,4 +1,4 @@
-# WikiCourse/23 Actions
+# Wiki Course / 23 Actions
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CodingProjectIdeas/EnhancedIterTools
+# Coding Project Ideas / Enhanced Iter Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

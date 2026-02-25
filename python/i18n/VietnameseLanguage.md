@@ -1,4 +1,4 @@
-# VietnameseLanguage
+# Vietnamese Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# SimpleProgramsChinese
+# Simple Programs Chinese
 
 ```{admonition} Legacy Wiki Page
 :class: note

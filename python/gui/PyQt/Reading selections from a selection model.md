@@ -1,4 +1,4 @@
-# PyQt/Reading selections from a selection model
+# PyQt / Reading selections from a selection model
 
 ```{admonition} Legacy Wiki Page
 :class: note

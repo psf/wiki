@@ -1,4 +1,4 @@
-# RecipeTemplate
+# Recipe Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

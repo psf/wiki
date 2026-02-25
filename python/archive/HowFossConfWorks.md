@@ -1,4 +1,4 @@
-# HowFossConfWorks
+# How Foss Conf Works
 
 ```{admonition} Legacy Wiki Page
 :class: note

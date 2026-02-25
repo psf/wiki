@@ -1,4 +1,4 @@
-# PyQt/Playing a sound with QtMultimedia
+# PyQt / Playing a sound with Qt Multimedia
 
 ```{admonition} Legacy Wiki Page
 :class: note

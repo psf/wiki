@@ -1,4 +1,4 @@
-# primer_arch_patterns
+# primer arch patterns
 
 ```{admonition} Legacy Wiki Page
 :class: note

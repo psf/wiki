@@ -1,4 +1,4 @@
-# GmPy
+# Gm Py
 
 ```{admonition} Legacy Wiki Page
 :class: note

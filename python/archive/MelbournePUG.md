@@ -1,4 +1,4 @@
-# MelbournePUG
+# Melbourne PUG
 
 ```{admonition} Legacy Wiki Page
 :class: note

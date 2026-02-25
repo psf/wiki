@@ -1,4 +1,4 @@
-# WsgiKitSprint
+# WSGI Kit Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

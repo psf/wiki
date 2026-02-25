@@ -1,4 +1,4 @@
-# BengaliLanguage
+# Bengali Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

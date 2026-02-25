@@ -1,4 +1,4 @@
-# EduSig/DataResources
+# Edu Sig / Data Resources
 
 ```{admonition} Legacy Wiki Page
 :class: note

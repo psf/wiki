@@ -1,4 +1,4 @@
-# PerformanceEnhancements
+# Performance Enhancements
 
 ```{admonition} Legacy Wiki Page
 :class: note

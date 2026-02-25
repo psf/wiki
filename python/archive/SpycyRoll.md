@@ -1,4 +1,4 @@
-# SpycyRoll
+# Spycy Roll
 
 ```{admonition} Legacy Wiki Page
 :class: note

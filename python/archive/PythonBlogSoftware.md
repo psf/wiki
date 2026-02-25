@@ -1,4 +1,4 @@
-# PythonBlogSoftware
+# Python Blog Software
 
 ```{admonition} Legacy Wiki Page
 :class: note

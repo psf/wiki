@@ -1,4 +1,4 @@
-# PyCon2008/Texas Pythoneers%21
+# PyCon 2008 / Texas Pythoneers%21
 
 ```{admonition} Legacy Wiki Page
 :class: note

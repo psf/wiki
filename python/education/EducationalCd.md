@@ -1,4 +1,4 @@
-# EducationalCd
+# Educational Cd
 
 ```{admonition} Legacy Wiki Page
 :class: note

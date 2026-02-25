@@ -1,4 +1,4 @@
-# SetsModule
+# Sets Module
 
 ```{admonition} Legacy Wiki Page
 :class: note

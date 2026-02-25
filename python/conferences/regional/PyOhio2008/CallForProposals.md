@@ -1,4 +1,4 @@
-# PyOhio2008/CallForProposals
+# PyOhio 2008 / Call for Proposals
 
 ```{admonition} Legacy Wiki Page
 :class: note

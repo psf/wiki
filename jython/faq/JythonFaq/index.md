@@ -1,4 +1,4 @@
-# Jythonfaq
+# Jython FAQ
 
 ```{toctree}
 :maxdepth: 1

@@ -1,4 +1,4 @@
-# PyCon2006/Goals
+# PyCon 2006 / Goals
 
 ```{admonition} Legacy Wiki Page
 :class: note

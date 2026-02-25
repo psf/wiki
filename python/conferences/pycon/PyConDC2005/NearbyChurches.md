@@ -1,4 +1,4 @@
-# PyConDC2005/NearbyChurches
+# PyCon DC 2005 / Nearby Churches
 
 ```{admonition} Legacy Wiki Page
 :class: note

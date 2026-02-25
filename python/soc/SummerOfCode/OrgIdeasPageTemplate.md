@@ -1,4 +1,4 @@
-# SummerOfCode/OrgIdeasPageTemplate
+# Summer of Code / Org Ideas Page Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

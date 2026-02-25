@@ -1,4 +1,4 @@
-# CvsToSvn
+# Cvs to Svn
 
 ```{admonition} Legacy Wiki Page
 :class: note

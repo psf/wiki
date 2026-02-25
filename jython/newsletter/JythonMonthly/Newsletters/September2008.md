@@ -1,4 +1,4 @@
-# JythonMonthly/Newsletters/September2008
+# Jython Monthly / Newsletters / September 2008
 
 ```{admonition} Legacy Wiki Page
 :class: note

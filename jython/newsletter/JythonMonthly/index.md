@@ -1,4 +1,4 @@
-# Jythonmonthly
+# Jython Monthly
 
 ```{toctree}
 :maxdepth: 1

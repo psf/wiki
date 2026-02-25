@@ -1,4 +1,4 @@
-# WebSolutionComparison
+# Web Solution Comparison
 
 ```{admonition} Legacy Wiki Page
 :class: note

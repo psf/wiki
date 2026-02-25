@@ -1,4 +1,4 @@
-# FromFunctionToMethod
+# From Function to Method
 
 ```{admonition} Legacy Wiki Page
 :class: note

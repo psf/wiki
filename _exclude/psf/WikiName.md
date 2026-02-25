@@ -1,4 +1,4 @@
-# WikiName
+# Wiki Name
 
 ```{admonition} Legacy Wiki Page
 :class: note

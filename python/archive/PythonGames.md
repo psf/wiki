@@ -1,4 +1,4 @@
-# PythonGames
+# Python Games
 
 ```{admonition} Legacy Wiki Page
 :class: note

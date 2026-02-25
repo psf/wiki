@@ -1,4 +1,4 @@
-# NumericAndScientific/Formats
+# Numeric and Scientific / Formats
 
 ```{admonition} Legacy Wiki Page
 :class: note

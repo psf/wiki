@@ -1,4 +1,4 @@
-# AlternativePathDiscussion
+# Alternative Path Discussion
 
 ```{admonition} Legacy Wiki Page
 :class: note

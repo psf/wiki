@@ -1,4 +1,4 @@
-# ProposalToSpeedUpListOperations
+# Proposal to Speed Up List Operations
 
 ```{admonition} Legacy Wiki Page
 :class: note

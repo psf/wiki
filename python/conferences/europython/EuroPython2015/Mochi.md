@@ -1,4 +1,4 @@
-# EuroPython2015/Mochi
+# EuroPython 2015 / Mochi
 
 ```{admonition} Legacy Wiki Page
 :class: note

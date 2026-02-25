@@ -1,4 +1,4 @@
-# MacPython/PythonDistributionsForMac
+# MacPython / Python Distributions for Mac
 
 ```{admonition} Legacy Wiki Page
 :class: note

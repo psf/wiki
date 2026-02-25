@@ -1,4 +1,4 @@
-# JythonOrgRedesign
+# Jython Org Redesign
 
 ```{admonition} Legacy Wiki Page
 :class: note

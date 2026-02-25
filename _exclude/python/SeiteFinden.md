@@ -1,4 +1,4 @@
-# SeiteFinden
+# Seite Finden
 
 ```{admonition} Legacy Wiki Page
 :class: note

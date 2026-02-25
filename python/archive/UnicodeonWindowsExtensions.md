@@ -1,4 +1,4 @@
-# UnicodeonWindowsExtensions
+# Unicodeon Windows Extensions
 
 ```{admonition} Legacy Wiki Page
 :class: note

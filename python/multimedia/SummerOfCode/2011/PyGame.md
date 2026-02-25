@@ -1,4 +1,4 @@
-# SummerOfCode/2011/PyGame
+# Summer of Code / 2011 / PyGame
 
 ```{admonition} Legacy Wiki Page
 :class: note

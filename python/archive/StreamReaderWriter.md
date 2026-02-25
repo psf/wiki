@@ -1,4 +1,4 @@
-# StreamReaderWriter
+# Stream Reader Writer
 
 ```{admonition} Legacy Wiki Page
 :class: note

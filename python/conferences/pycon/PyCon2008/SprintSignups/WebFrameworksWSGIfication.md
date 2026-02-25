@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/WebFrameworksWSGIfication
+# PyCon 2008 / Sprint Signups / Web Frameworks WSG Ification
 
 ```{admonition} Legacy Wiki Page
 :class: note

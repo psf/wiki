@@ -1,4 +1,4 @@
-# PaulMcNett
+# Paul Mc Nett
 
 ```{admonition} Legacy Wiki Page
 :class: note

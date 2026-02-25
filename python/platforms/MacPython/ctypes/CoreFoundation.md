@@ -1,4 +1,4 @@
-# MacPython/ctypes/CoreFoundation
+# MacPython / ctypes / CoreFoundation
 
 ```{admonition} Legacy Wiki Page
 :class: note

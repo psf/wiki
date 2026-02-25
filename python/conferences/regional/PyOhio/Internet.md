@@ -1,4 +1,4 @@
-# PyOhio/Internet
+# PyOhio / Internet
 
 ```{admonition} Legacy Wiki Page
 :class: note

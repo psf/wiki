@@ -1,4 +1,4 @@
-# PyOhio/Ideas
+# PyOhio / Ideas
 
 ```{admonition} Legacy Wiki Page
 :class: note

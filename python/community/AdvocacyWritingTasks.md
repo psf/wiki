@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks
+# Advocacy Writing Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

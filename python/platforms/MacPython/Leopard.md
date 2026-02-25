@@ -1,4 +1,4 @@
-# MacPython/Leopard
+# MacPython / Leopard
 
 ```{admonition} Legacy Wiki Page
 :class: note

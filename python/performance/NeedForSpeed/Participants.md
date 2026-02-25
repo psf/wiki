@@ -1,4 +1,4 @@
-# NeedForSpeed/Participants
+# Need for Speed / Participants
 
 ```{admonition} Legacy Wiki Page
 :class: note

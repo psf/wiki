@@ -1,4 +1,4 @@
-# HilfeIndex
+# Hilfe Index
 
 ```{admonition} Legacy Wiki Page
 :class: note

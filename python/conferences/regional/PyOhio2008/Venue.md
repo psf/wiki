@@ -1,4 +1,4 @@
-# PyOhio2008/Venue
+# PyOhio 2008 / Venue
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# WikiAttack2013
+# Wiki Attack 2013
 
 ```{admonition} Legacy Wiki Page
 :class: note

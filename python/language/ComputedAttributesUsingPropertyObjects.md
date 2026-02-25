@@ -1,4 +1,4 @@
-# ComputedAttributesUsingPropertyObjects
+# Computed Attributes Using Property Objects
 
 ```{admonition} Legacy Wiki Page
 :class: note

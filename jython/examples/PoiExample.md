@@ -1,4 +1,4 @@
-# PoiExample
+# Poi Example
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Python20FrequentlyAskedQuestions
+# Python 20 Frequently Asked Questions
 
 ```{admonition} Legacy Wiki Page
 :class: note

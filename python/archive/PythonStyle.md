@@ -1,4 +1,4 @@
-# PythonStyle
+# Python Style
 
 ```{admonition} Legacy Wiki Page
 :class: note

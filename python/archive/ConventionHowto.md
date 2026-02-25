@@ -1,4 +1,4 @@
-# ConventionHowto
+# Convention Howto
 
 ```{admonition} Legacy Wiki Page
 :class: note

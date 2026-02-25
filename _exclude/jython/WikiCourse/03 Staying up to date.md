@@ -1,4 +1,4 @@
-# WikiCourse/03 Staying up to date
+# Wiki Course / 03 Staying up to date
 
 ```{admonition} Legacy Wiki Page
 :class: note

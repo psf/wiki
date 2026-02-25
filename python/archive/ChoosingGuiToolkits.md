@@ -1,4 +1,4 @@
-# ChoosingGuiToolkits
+# Choosing GUI Toolkits
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyConIndia2010/VenueDiscussion
+# PyCon India 2010 / Venue Discussion
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/simplefinis
+# PyQt / simplefinis
 
 ```{admonition} Legacy Wiki Page
 :class: note

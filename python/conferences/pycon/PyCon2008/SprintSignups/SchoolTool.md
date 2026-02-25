@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/SchoolTool
+# PyCon 2008 / Sprint Signups / School Tool
 
 ```{admonition} Legacy Wiki Page
 :class: note

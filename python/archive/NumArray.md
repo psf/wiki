@@ -1,4 +1,4 @@
-# NumArray
+# Num Array
 
 ```{admonition} Legacy Wiki Page
 :class: note

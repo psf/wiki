@@ -1,4 +1,4 @@
-# PyOhio/Staff
+# PyOhio / Staff
 
 ```{admonition} Legacy Wiki Page
 :class: note

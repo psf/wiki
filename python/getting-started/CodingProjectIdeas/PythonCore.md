@@ -1,4 +1,4 @@
-# CodingProjectIdeas/PythonCore
+# Coding Project Ideas / Python Core
 
 ```{admonition} Legacy Wiki Page
 :class: note

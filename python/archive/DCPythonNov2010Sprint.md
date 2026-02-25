@@ -1,4 +1,4 @@
-# DCPythonNov2010Sprint
+# DC Python Nov 2010 Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

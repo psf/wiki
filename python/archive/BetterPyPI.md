@@ -1,4 +1,4 @@
-# BetterPyPI
+# Better PyPI
 
 ```{admonition} Legacy Wiki Page
 :class: note

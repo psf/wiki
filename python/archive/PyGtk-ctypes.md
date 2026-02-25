@@ -1,4 +1,4 @@
-# PyGtk-ctypes
+# PyGTK -ctypes
 
 ```{admonition} Legacy Wiki Page
 :class: note

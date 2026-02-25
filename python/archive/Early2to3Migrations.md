@@ -1,4 +1,4 @@
-# Early2to3Migrations
+# Early 2to 3 Migrations
 
 ```{admonition} Legacy Wiki Page
 :class: note

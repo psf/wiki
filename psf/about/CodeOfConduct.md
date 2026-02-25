@@ -1,4 +1,4 @@
-# CodeOfConduct
+# Code of Conduct
 
 ```{admonition} Legacy Wiki Page
 :class: note

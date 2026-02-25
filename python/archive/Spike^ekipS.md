@@ -1,4 +1,4 @@
-# Spike^ekipS
+# Spike^ekip S
 
 ```{admonition} Legacy Wiki Page
 :class: note

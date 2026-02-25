@@ -1,4 +1,4 @@
-# MacPython/TextEdit
+# MacPython / TextEdit
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonSoftwareFoundation/FellowNominations
+# Python Software Foundation / Fellow Nominations
 
 ```{admonition} Legacy Wiki Page
 :class: note

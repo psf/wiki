@@ -1,4 +1,4 @@
-# SponsorOffers
+# Sponsor Offers
 
 ```{admonition} Legacy Wiki Page
 :class: note

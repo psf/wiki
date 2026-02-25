@@ -1,4 +1,4 @@
-# ExtremeProgramming
+# Extreme Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

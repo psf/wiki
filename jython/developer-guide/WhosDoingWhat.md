@@ -1,4 +1,4 @@
-# WhosDoingWhat
+# Whos Doing What
 
 ```{admonition} Legacy Wiki Page
 :class: note

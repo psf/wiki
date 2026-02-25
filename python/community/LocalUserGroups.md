@@ -1,4 +1,4 @@
-# LocalUserGroups
+# Local User Groups
 
 ```{admonition} Legacy Wiki Page
 :class: note

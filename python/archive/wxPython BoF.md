@@ -1,4 +1,4 @@
-# wxPython BoF
+# wx Python Bo F
 
 ```{admonition} Legacy Wiki Page
 :class: note

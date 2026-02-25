@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/Python102
+# PyCon 2006 / Tutorials / Python 102
 
 ```{admonition} Legacy Wiki Page
 :class: note

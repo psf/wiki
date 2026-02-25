@@ -1,4 +1,4 @@
-# LluisP9
+# Lluis P 9
 
 ```{admonition} Legacy Wiki Page
 :class: note

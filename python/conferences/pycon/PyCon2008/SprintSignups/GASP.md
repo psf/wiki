@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/GASP
+# PyCon 2008 / Sprint Signups / GASP
 
 ```{admonition} Legacy Wiki Page
 :class: note

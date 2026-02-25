@@ -1,4 +1,4 @@
-# ArlingtonSprint
+# Arlington Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

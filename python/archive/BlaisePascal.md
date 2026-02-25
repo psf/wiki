@@ -1,4 +1,4 @@
-# BlaisePascal
+# Blaise Pascal
 
 ```{admonition} Legacy Wiki Page
 :class: note

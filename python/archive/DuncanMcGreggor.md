@@ -1,4 +1,4 @@
-# DuncanMcGreggor
+# Duncan Mc Greggor
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# HowTo
+# How to
 
 ```{admonition} Legacy Wiki Page
 :class: note

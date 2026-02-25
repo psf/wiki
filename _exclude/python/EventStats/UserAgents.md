@@ -1,4 +1,4 @@
-# EventStats/UserAgents
+# Event Stats / User Agents
 
 ```{admonition} Legacy Wiki Page
 :class: note

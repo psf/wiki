@@ -1,4 +1,4 @@
-# JimsPyconSprintMessage
+# Jims PyCon Sprint Message
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# SwitchStatement
+# Switch Statement
 
 ```{admonition} Legacy Wiki Page
 :class: note

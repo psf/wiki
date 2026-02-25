@@ -1,4 +1,4 @@
-# boost.python/StlContainers
+# boost.python / Stl Containers
 
 ```{admonition} Legacy Wiki Page
 :class: note

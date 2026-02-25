@@ -1,4 +1,4 @@
-# GitSvnOld
+# Git Svn Old
 
 ```{admonition} Legacy Wiki Page
 :class: note

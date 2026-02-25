@@ -1,4 +1,4 @@
-# CodingProjectIdeas/PygameOnCtypes
+# Coding Project Ideas / PyGame on Ctypes
 
 ```{admonition} Legacy Wiki Page
 :class: note

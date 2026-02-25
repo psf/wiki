@@ -1,4 +1,4 @@
-# SkeletonBuilderTools
+# Skeleton Builder Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Advocacy/MeetingTopics
+# Advocacy / Meeting Topics
 
 ```{admonition} Legacy Wiki Page
 :class: note

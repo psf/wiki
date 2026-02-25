@@ -1,4 +1,4 @@
-# PyCon2008
+# PyCon 2008
 
 ```{admonition} Legacy Wiki Page
 :class: note

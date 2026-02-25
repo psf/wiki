@@ -1,4 +1,4 @@
-# RelicensingJython
+# Relicensing Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

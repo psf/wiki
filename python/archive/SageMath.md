@@ -1,4 +1,4 @@
-# SageMath
+# Sage Math
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonWikipediabot
+# Python Wikipediabot
 
 ```{admonition} Legacy Wiki Page
 :class: note

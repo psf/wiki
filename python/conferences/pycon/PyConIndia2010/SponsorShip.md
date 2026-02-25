@@ -1,4 +1,4 @@
-# PyConIndia2010/SponsorShip
+# PyCon India 2010 / Sponsor Ship
 
 ```{admonition} Legacy Wiki Page
 :class: note

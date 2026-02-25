@@ -1,4 +1,4 @@
-# BitPim
+# Bit Pim
 
 ```{admonition} Legacy Wiki Page
 :class: note

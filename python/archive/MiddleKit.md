@@ -1,4 +1,4 @@
-# MiddleKit
+# Middle Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonGlossary
+# Python Glossary
 
 ```{admonition} Legacy Wiki Page
 :class: note

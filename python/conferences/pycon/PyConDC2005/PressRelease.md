@@ -1,4 +1,4 @@
-# PyConDC2005/PressRelease
+# PyCon DC 2005 / Press Release
 
 ```{admonition} Legacy Wiki Page
 :class: note

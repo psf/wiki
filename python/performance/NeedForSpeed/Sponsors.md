@@ -1,4 +1,4 @@
-# NeedForSpeed/Sponsors
+# Need for Speed / Sponsors
 
 ```{admonition} Legacy Wiki Page
 :class: note

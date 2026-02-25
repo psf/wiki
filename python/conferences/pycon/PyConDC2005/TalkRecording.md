@@ -1,4 +1,4 @@
-# PyConDC2005/TalkRecording
+# PyCon DC 2005 / Talk Recording
 
 ```{admonition} Legacy Wiki Page
 :class: note

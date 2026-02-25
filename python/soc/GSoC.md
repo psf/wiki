@@ -1,4 +1,4 @@
-# GSoC
+# G So C
 
 ```{admonition} Legacy Wiki Page
 :class: note

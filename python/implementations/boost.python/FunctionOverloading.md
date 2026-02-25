@@ -1,4 +1,4 @@
-# boost.python/FunctionOverloading
+# boost.python / Function Overloading
 
 ```{admonition} Legacy Wiki Page
 :class: note

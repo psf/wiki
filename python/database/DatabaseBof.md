@@ -1,4 +1,4 @@
-# DatabaseBof
+# Database BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

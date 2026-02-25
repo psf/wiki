@@ -1,4 +1,4 @@
-# PointsAndRectangles
+# Points and Rectangles
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ElementBasedSyntax
+# Element Based Syntax
 
 ```{admonition} Legacy Wiki Page
 :class: note

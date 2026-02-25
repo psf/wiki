@@ -1,4 +1,4 @@
-# ProposalsForDiscussion
+# Proposals for Discussion
 
 ```{admonition} Legacy Wiki Page
 :class: note

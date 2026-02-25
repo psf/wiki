@@ -1,4 +1,4 @@
-# Email SIG/RelevantRFCs
+# Email SIG / Relevant RF Cs
 
 ```{admonition} Legacy Wiki Page
 :class: note

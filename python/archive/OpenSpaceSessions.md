@@ -1,4 +1,4 @@
-# OpenSpaceSessions
+# Open Space Sessions
 
 ```{admonition} Legacy Wiki Page
 :class: note

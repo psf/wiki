@@ -1,4 +1,4 @@
-# PythonShells
+# Python Shells
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ProjectFileAndDirectoryLayout
+# Project File and Directory Layout
 
 ```{admonition} Legacy Wiki Page
 :class: note

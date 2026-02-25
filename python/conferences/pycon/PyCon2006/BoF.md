@@ -1,4 +1,4 @@
-# PyCon2006/BoF
+# PyCon 2006 / Bo F
 
 ```{admonition} Legacy Wiki Page
 :class: note

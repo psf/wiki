@@ -1,4 +1,4 @@
-# PowerPiano17/Doodles
+# Power Piano 17 / Doodles
 
 ```{admonition} Legacy Wiki Page
 :class: note

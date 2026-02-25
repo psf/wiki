@@ -1,4 +1,4 @@
-# EduPython2008
+# Edu Python 2008
 
 ```{admonition} Legacy Wiki Page
 :class: note

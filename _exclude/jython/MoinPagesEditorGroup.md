@@ -1,4 +1,4 @@
-# MoinPagesEditorGroup
+# Moin Pages Editor Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

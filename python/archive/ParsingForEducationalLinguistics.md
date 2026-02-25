@@ -1,4 +1,4 @@
-# ParsingForEducationalLinguistics
+# Parsing for Educational Linguistics
 
 ```{admonition} Legacy Wiki Page
 :class: note

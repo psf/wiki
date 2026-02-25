@@ -1,4 +1,4 @@
-# CanberraPUG
+# Canberra PUG
 
 ```{admonition} Legacy Wiki Page
 :class: note

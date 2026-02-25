@@ -1,4 +1,4 @@
-# SanFrancisco
+# San Francisco
 
 ```{admonition} Legacy Wiki Page
 :class: note

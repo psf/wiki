@@ -1,4 +1,4 @@
-# HomepageGroupsTemplate
+# Homepage Groups Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

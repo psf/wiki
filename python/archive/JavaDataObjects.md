@@ -1,4 +1,4 @@
-# JavaDataObjects
+# Java Data Objects
 
 ```{admonition} Legacy Wiki Page
 :class: note

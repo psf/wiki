@@ -1,4 +1,4 @@
-# DesertPy
+# Desert Py
 
 ```{admonition} Legacy Wiki Page
 :class: note

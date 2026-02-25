@@ -1,4 +1,4 @@
-# WikiCourse/02 Finding information
+# Wiki Course / 02 Finding information
 
 ```{admonition} Legacy Wiki Page
 :class: note

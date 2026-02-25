@@ -1,4 +1,4 @@
-# DistutilsSprint
+# Distutils Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

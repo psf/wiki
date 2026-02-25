@@ -1,4 +1,4 @@
-# Paul DuBois
+# Paul Du Bois
 
 ```{admonition} Legacy Wiki Page
 :class: note

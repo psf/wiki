@@ -1,4 +1,4 @@
-# LeeEdwin/MathTools
+# Lee Edwin / Math Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

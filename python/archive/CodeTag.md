@@ -1,4 +1,4 @@
-# CodeTag
+# Code Tag
 
 ```{admonition} Legacy Wiki Page
 :class: note

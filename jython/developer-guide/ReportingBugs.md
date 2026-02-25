@@ -1,4 +1,4 @@
-# ReportingBugs
+# Reporting Bugs
 
 ```{admonition} Legacy Wiki Page
 :class: note

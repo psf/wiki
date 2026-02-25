@@ -1,4 +1,4 @@
-# ParallelDistutils
+# Parallel Distutils
 
 ```{admonition} Legacy Wiki Page
 :class: note

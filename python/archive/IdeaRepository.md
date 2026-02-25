@@ -1,4 +1,4 @@
-# IdeaRepository
+# Idea Repository
 
 ```{admonition} Legacy Wiki Page
 :class: note

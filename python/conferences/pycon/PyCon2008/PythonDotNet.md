@@ -1,4 +1,4 @@
-# PyCon2008/PythonDotNet
+# PyCon 2008 / Python Dot Net
 
 ```{admonition} Legacy Wiki Page
 :class: note

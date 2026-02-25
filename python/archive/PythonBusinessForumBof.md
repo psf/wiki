@@ -1,4 +1,4 @@
-# PythonBusinessForumBof
+# Python Business Forum BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

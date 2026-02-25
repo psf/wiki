@@ -1,4 +1,4 @@
-# PyFileBenchmarks
+# PyFile Benchmarks
 
 ```{admonition} Legacy Wiki Page
 :class: note

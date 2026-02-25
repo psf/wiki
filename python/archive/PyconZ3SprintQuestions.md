@@ -1,4 +1,4 @@
-# PyconZ3SprintQuestions
+# PyCon Z 3 Sprint Questions
 
 ```{admonition} Legacy Wiki Page
 :class: note

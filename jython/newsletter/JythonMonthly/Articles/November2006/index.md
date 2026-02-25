@@ -1,4 +1,4 @@
-# November2006
+# November 2006
 
 ```{toctree}
 :maxdepth: 1

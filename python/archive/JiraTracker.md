@@ -1,4 +1,4 @@
-# JiraTracker
+# Jira Tracker
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Macpython
+# MacPython
 
 ```{toctree}
 :maxdepth: 1

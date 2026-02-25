@@ -1,4 +1,4 @@
-# MacPython/UniversalLibrariesAndExtensions
+# MacPython / Universal Libraries and Extensions
 
 ```{admonition} Legacy Wiki Page
 :class: note

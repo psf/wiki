@@ -1,4 +1,4 @@
-# DataProcessingAndNumericalAnalysis
+# Data Processing and Numerical Analysis
 
 ```{admonition} Legacy Wiki Page
 :class: note

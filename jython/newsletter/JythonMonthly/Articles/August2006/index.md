@@ -1,4 +1,4 @@
-# JythonMonthly/Articles/August2006
+# Jython Monthly / Articles / August 2006
 
 ```{toctree}
 :maxdepth: 1

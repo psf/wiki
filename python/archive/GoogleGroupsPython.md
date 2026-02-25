@@ -1,4 +1,4 @@
-# GoogleGroupsPython
+# Google Groups Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

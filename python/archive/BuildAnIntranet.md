@@ -1,4 +1,4 @@
-# BuildAnIntranet
+# Build an Intranet
 
 ```{admonition} Legacy Wiki Page
 :class: note

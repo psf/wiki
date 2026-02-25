@@ -1,4 +1,4 @@
-# NorwegianLanguage
+# Norwegian Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# XmlDatabases
+# XML Databases
 
 ```{admonition} Legacy Wiki Page
 :class: note

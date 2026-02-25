@@ -1,4 +1,4 @@
-# EventStats
+# Event Stats
 
 ```{toctree}
 :maxdepth: 1

@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/IntellijNotes
+# Jython Developer Guide / Intellij Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

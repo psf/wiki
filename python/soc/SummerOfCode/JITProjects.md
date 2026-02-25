@@ -1,4 +1,4 @@
-# SummerOfCode/JITProjects
+# Summer of Code / JIT Projects
 
 ```{admonition} Legacy Wiki Page
 :class: note

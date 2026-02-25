@@ -1,4 +1,4 @@
-# CategoryDevelopmentProcess
+# Category Development Process
 
 ```{admonition} Legacy Wiki Page
 :class: note

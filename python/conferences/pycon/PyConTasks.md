@@ -1,4 +1,4 @@
-# PyConTasks
+# PyCon Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2007/VisualStudio2005
+# EuroPython 2007 / Visual Studio 2005
 
 ```{admonition} Legacy Wiki Page
 :class: note

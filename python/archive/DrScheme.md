@@ -1,4 +1,4 @@
-# DrScheme
+# Dr Scheme
 
 ```{admonition} Legacy Wiki Page
 :class: note

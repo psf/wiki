@@ -1,4 +1,4 @@
-# TamilLanguage
+# Tamil Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

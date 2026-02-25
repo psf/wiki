@@ -1,4 +1,4 @@
-# MacPython/Authorization
+# MacPython / Authorization
 
 ```{admonition} Legacy Wiki Page
 :class: note

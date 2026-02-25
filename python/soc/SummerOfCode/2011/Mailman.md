@@ -1,4 +1,4 @@
-# SummerOfCode/2011/Mailman
+# Summer of Code / 2011 / Mailman
 
 ```{admonition} Legacy Wiki Page
 :class: note

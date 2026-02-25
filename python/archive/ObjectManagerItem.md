@@ -1,4 +1,4 @@
-# ObjectManagerItem
+# Object Manager Item
 
 ```{admonition} Legacy Wiki Page
 :class: note

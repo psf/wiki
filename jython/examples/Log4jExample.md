@@ -1,4 +1,4 @@
-# Log4jExample
+# Log 4j Example
 
 ```{admonition} Legacy Wiki Page
 :class: note

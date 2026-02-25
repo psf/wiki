@@ -1,4 +1,4 @@
-# PythonSoftwareFoundation/Proposals/StrategicDecisionMakingProcess
+# Python Software Foundation / Proposals / Strategic Decision Making Process
 
 ```{admonition} Legacy Wiki Page
 :class: note

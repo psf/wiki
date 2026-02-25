@@ -1,4 +1,4 @@
-# CollectionsIntegration
+# Collections Integration
 
 ```{admonition} Legacy Wiki Page
 :class: note

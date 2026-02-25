@@ -1,4 +1,4 @@
-# PyQt/Animated items using delegates
+# PyQt / Animated items using delegates
 
 ```{admonition} Legacy Wiki Page
 :class: note

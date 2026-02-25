@@ -1,4 +1,4 @@
-# 5YearsOfPython3
+# 5 Years of Python 3
 
 ```{admonition} Legacy Wiki Page
 :class: note

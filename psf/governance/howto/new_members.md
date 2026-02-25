@@ -1,4 +1,4 @@
-# howto/new_members
+# howto / new members
 
 ```{admonition} Legacy Wiki Page
 :class: note

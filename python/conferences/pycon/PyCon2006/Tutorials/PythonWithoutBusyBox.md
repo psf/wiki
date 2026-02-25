@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/PythonWithoutBusyBox
+# PyCon 2006 / Tutorials / Python Without Busy Box
 
 ```{admonition} Legacy Wiki Page
 :class: note

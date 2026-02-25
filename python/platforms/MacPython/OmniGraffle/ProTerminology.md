@@ -1,4 +1,4 @@
-# MacPython/OmniGraffle/ProTerminology
+# MacPython / Omni Graffle / Pro Terminology
 
 ```{admonition} Legacy Wiki Page
 :class: note

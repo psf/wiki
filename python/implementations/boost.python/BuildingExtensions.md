@@ -1,4 +1,4 @@
-# boost.python/BuildingExtensions
+# boost.python / Building Extensions
 
 ```{admonition} Legacy Wiki Page
 :class: note

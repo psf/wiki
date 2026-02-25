@@ -1,4 +1,4 @@
-# EuroPython2007/ProposedTimeline
+# EuroPython 2007 / Proposed Timeline
 
 ```{admonition} Legacy Wiki Page
 :class: note

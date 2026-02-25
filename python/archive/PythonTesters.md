@@ -1,4 +1,4 @@
-# PythonTesters
+# Python Testers
 
 ```{admonition} Legacy Wiki Page
 :class: note

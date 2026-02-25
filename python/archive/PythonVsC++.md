@@ -1,4 +1,4 @@
-# PythonVsC++
+# Python vs C++
 
 ```{admonition} Legacy Wiki Page
 :class: note

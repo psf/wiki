@@ -1,4 +1,4 @@
-# EuroPython/2007/CallForProposals
+# EuroPython / 2007 / Call for Proposals
 
 ```{admonition} Legacy Wiki Page
 :class: note

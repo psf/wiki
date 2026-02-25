@@ -1,4 +1,4 @@
-# CategoryAaaBogusBogusBogus
+# Category Aaa Bogus Bogus Bogus
 
 ```{admonition} Legacy Wiki Page
 :class: note

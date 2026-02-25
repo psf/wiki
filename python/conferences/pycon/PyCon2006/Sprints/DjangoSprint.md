@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/DjangoSprint
+# PyCon 2006 / Sprints / Django Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Fading Between Widgets
+# PyQt / Fading Between Widgets
 
 ```{admonition} Legacy Wiki Page
 :class: note

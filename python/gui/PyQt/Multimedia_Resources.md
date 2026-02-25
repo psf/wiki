@@ -1,4 +1,4 @@
-# PyQt/Multimedia_Resources
+# PyQt / Multimedia Resources
 
 ```{admonition} Legacy Wiki Page
 :class: note

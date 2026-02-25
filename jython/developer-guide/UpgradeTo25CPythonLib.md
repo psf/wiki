@@ -1,4 +1,4 @@
-# UpgradeTo25CPythonLib
+# Upgrade to 25 CPython Lib
 
 ```{admonition} Legacy Wiki Page
 :class: note

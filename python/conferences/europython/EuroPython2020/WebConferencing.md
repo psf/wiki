@@ -1,4 +1,4 @@
-# EuroPython2020/WebConferencing
+# EuroPython 2020 / Web Conferencing
 
 ```{admonition} Legacy Wiki Page
 :class: note

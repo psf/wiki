@@ -1,4 +1,4 @@
-# DocTools
+# Doc Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Setuptoolsfeatures
+# Setuptools features
 
 ```{toctree}
 :maxdepth: 1

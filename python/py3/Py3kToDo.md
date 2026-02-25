@@ -1,4 +1,4 @@
-# Py3kToDo
+# Py3k to Do
 
 ```{admonition} Legacy Wiki Page
 :class: note

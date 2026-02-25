@@ -1,4 +1,4 @@
-# Advocacy/ProgrammingForNewprogrammers
+# Advocacy / Programming for Newprogrammers
 
 ```{admonition} Legacy Wiki Page
 :class: note

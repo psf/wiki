@@ -1,4 +1,4 @@
-# NetworkProgrammingBooks
+# Network Programming Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

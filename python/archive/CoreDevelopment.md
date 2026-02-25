@@ -1,4 +1,4 @@
-# CoreDevelopment
+# Core Development
 
 ```{admonition} Legacy Wiki Page
 :class: note

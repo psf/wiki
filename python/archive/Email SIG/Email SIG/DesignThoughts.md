@@ -1,4 +1,4 @@
-# Email SIG/DesignThoughts
+# Email SIG / Design Thoughts
 
 ```{admonition} Legacy Wiki Page
 :class: note

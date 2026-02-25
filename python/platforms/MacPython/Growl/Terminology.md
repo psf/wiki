@@ -1,4 +1,4 @@
-# MacPython/Growl/Terminology
+# MacPython / Growl / Terminology
 
 ```{admonition} Legacy Wiki Page
 :class: note

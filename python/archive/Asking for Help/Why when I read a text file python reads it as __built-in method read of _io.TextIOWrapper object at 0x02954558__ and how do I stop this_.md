@@ -1,4 +1,4 @@
-# Asking for Help/Why when I read a text file python reads it as "<built-in method read of _io.TextIOWrapper object at 0x02954558>" and how do I stop this?
+# Asking for Help / Why when I read a text file python reads it as "<built-in method read of io.Text IO Wrapper object at 0x 02954558>" and how do I stop this?
 
 ```{admonition} Legacy Wiki Page
 :class: note

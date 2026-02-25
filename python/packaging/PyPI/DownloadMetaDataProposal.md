@@ -1,4 +1,4 @@
-# PyPI/DownloadMetaDataProposal
+# PyPI / Download Meta Data Proposal
 
 ```{admonition} Legacy Wiki Page
 :class: note

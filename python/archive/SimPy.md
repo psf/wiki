@@ -1,4 +1,4 @@
-# SimPy
+# Sim Py
 
 ```{admonition} Legacy Wiki Page
 :class: note

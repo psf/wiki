@@ -1,4 +1,4 @@
-# WebKit
+# Web Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

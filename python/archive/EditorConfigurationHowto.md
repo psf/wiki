@@ -1,4 +1,4 @@
-# EditorConfigurationHowto
+# Editor Configuration Howto
 
 ```{admonition} Legacy Wiki Page
 :class: note

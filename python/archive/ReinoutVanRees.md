@@ -1,4 +1,4 @@
-# ReinoutVanRees
+# Reinout Van Rees
 
 ```{admonition} Legacy Wiki Page
 :class: note

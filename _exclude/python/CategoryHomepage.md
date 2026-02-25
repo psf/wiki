@@ -1,4 +1,4 @@
-# CategoryHomepage
+# Category Homepage
 
 ```{admonition} Legacy Wiki Page
 :class: note

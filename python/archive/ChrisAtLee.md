@@ -1,4 +1,4 @@
-# ChrisAtLee
+# Chris at Lee
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# HomepageVorlage
+# Homepage Vorlage
 
 ```{admonition} Legacy Wiki Page
 :class: note

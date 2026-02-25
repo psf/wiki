@@ -1,4 +1,4 @@
-# NumericAndScientific/Plotting
+# Numeric and Scientific / Plotting
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ChandlerBof
+# Chandler BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

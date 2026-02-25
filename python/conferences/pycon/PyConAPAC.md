@@ -1,4 +1,4 @@
-# PyConAPAC
+# PyCon APAC
 
 ```{admonition} Legacy Wiki Page
 :class: note

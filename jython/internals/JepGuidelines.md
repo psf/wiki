@@ -1,4 +1,4 @@
-# JepGuidelines
+# JEP Guidelines
 
 ```{admonition} Legacy Wiki Page
 :class: note

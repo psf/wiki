@@ -1,4 +1,4 @@
-# PreferenciasDelUsuario
+# Preferencias Del Usuario
 
 ```{admonition} Legacy Wiki Page
 :class: note

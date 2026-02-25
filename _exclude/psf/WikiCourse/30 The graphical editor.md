@@ -1,4 +1,4 @@
-# WikiCourse/30 The graphical editor
+# Wiki Course / 30 the graphical editor
 
 ```{admonition} Legacy Wiki Page
 :class: note

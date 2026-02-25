@@ -1,4 +1,4 @@
-# ImplementNewType
+# Implement New Type
 
 ```{admonition} Legacy Wiki Page
 :class: note

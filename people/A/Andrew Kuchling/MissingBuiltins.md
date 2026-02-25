@@ -1,4 +1,4 @@
-# AndrewKuchling/MissingBuiltins
+# Andrew Kuchling / Missing Builtins
 
 ```{admonition} Legacy Wiki Page
 :class: note

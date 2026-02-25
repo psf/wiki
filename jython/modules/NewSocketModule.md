@@ -1,4 +1,4 @@
-# NewSocketModule
+# New Socket Module
 
 ```{admonition} Legacy Wiki Page
 :class: note

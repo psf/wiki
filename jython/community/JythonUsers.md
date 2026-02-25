@@ -1,4 +1,4 @@
-# JythonUsers
+# Jython Users
 
 ```{admonition} Legacy Wiki Page
 :class: note

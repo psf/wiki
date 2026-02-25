@@ -1,4 +1,4 @@
-# PyCon2006/Staff
+# PyCon 2006 / Staff
 
 ```{admonition} Legacy Wiki Page
 :class: note

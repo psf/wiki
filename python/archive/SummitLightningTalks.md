@@ -1,4 +1,4 @@
-# SummitLightningTalks
+# Summit Lightning Talks
 
 ```{admonition} Legacy Wiki Page
 :class: note

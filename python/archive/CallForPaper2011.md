@@ -1,4 +1,4 @@
-# CallForPaper2011
+# Call for Paper 2011
 
 ```{admonition} Legacy Wiki Page
 :class: note

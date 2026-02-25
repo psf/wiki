@@ -1,4 +1,4 @@
-# PyCon2011/Distro Sprint
+# PyCon 2011 / Distro Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

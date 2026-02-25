@@ -1,4 +1,4 @@
-# PyQt/Binding widget properties to Python variables
+# PyQt / Binding widget properties to Python variables
 
 ```{admonition} Legacy Wiki Page
 :class: note

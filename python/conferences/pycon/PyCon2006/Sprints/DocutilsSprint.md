@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/DocutilsSprint
+# PyCon 2006 / Sprints / DocUtils Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

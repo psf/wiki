@@ -1,4 +1,4 @@
-# EuroPythonImprove
+# EuroPython Improve
 
 ```{admonition} Legacy Wiki Page
 :class: note

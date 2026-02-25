@@ -1,4 +1,4 @@
-# PythonLibraryReference/RestrictedExecution
+# Python Library Reference / Restricted Execution
 
 ```{admonition} Legacy Wiki Page
 :class: note

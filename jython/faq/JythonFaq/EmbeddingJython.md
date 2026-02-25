@@ -1,4 +1,4 @@
-# JythonFaq/EmbeddingJython
+# Jython FAQ / Embedding Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyConPlanning/BidRequirements
+# PyCon Planning / Bid Requirements
 
 ```{admonition} Legacy Wiki Page
 :class: note

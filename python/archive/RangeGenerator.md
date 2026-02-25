@@ -1,4 +1,4 @@
-# RangeGenerator
+# Range Generator
 
 ```{admonition} Legacy Wiki Page
 :class: note

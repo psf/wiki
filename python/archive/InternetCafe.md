@@ -1,4 +1,4 @@
-# InternetCafe
+# Internet Cafe
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# WikiKurs/06 Die eigene Homepage im Wiki
+# Wiki Kurs / 06 Die eigene Homepage im Wiki
 
 ```{admonition} Legacy Wiki Page
 :class: note

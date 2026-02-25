@@ -1,4 +1,4 @@
-# UsingPickle
+# Using Pickle
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# SökSida
+# Sök Sida
 
 ```{admonition} Legacy Wiki Page
 :class: note

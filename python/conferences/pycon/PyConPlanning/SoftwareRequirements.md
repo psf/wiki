@@ -1,4 +1,4 @@
-# PyConPlanning/SoftwareRequirements
+# PyCon Planning / Software Requirements
 
 ```{admonition} Legacy Wiki Page
 :class: note

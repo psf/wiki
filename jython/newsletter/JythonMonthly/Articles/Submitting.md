@@ -1,4 +1,4 @@
-# JythonMonthly/Articles/Submitting
+# Jython Monthly / Articles / Submitting
 
 ```{admonition} Legacy Wiki Page
 :class: note

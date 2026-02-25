@@ -1,4 +1,4 @@
-# PyOhio/ProgramGuide
+# PyOhio / Program Guide
 
 ```{admonition} Legacy Wiki Page
 :class: note

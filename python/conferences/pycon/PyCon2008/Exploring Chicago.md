@@ -1,4 +1,4 @@
-# PyCon2008/Exploring Chicago
+# PyCon 2008 / Exploring Chicago
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# boost.python/PeekUnderTheHood
+# boost.python / Peek Under the Hood
 
 ```{admonition} Legacy Wiki Page
 :class: note

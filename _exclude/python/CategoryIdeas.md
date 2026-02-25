@@ -1,4 +1,4 @@
-# CategoryIdeas
+# Category Ideas
 
 ```{admonition} Legacy Wiki Page
 :class: note

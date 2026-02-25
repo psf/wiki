@@ -1,4 +1,4 @@
-# EuroPython2007SessionChairing
+# EuroPython 2007 Session Chairing
 
 ```{admonition} Legacy Wiki Page
 :class: note

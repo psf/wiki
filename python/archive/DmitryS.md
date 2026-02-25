@@ -1,4 +1,4 @@
-# DmitryS
+# Dmitry S
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# BrianMcEnery
+# Brian Mc Enery
 
 ```{admonition} Legacy Wiki Page
 :class: note

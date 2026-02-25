@@ -1,4 +1,4 @@
-# PythonWikiEngines
+# Python Wiki Engines
 
 ```{admonition} Legacy Wiki Page
 :class: note

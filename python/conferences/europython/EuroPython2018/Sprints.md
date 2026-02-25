@@ -1,4 +1,4 @@
-# EuroPython2018/Sprints
+# EuroPython 2018 / Sprints
 
 ```{admonition} Legacy Wiki Page
 :class: note

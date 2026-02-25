@@ -1,4 +1,4 @@
-# StreamRecoder
+# Stream Recoder
 
 ```{admonition} Legacy Wiki Page
 :class: note

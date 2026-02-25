@@ -1,4 +1,4 @@
-# CallForLogos
+# Call for Logos
 
 ```{admonition} Legacy Wiki Page
 :class: note

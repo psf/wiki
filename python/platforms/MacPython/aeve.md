@@ -1,4 +1,4 @@
-# MacPython/aeve
+# MacPython / aeve
 
 ```{admonition} Legacy Wiki Page
 :class: note

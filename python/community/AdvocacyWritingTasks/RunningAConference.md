@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/RunningAConference
+# Advocacy Writing Tasks / Running a Conference
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyCon2007AndBeyond
+# PyCon 2007 and Beyond
 
 ```{admonition} Legacy Wiki Page
 :class: note

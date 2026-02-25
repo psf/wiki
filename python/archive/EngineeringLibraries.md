@@ -1,4 +1,4 @@
-# EngineeringLibraries
+# Engineering Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

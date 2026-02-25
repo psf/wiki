@@ -1,4 +1,4 @@
-# WikiKurs/13 Listen
+# Wiki Kurs / 13 Listen
 
 ```{admonition} Legacy Wiki Page
 :class: note

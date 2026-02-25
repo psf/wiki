@@ -1,4 +1,4 @@
-# Win32All
+# Win 32 All
 
 ```{admonition} Legacy Wiki Page
 :class: note

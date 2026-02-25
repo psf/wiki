@@ -1,4 +1,4 @@
-# Py3kExtensionModules
+# Py3k Extension Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

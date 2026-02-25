@@ -1,4 +1,4 @@
-# MacPython/MediaPro
+# MacPython / Media Pro
 
 ```{admonition} Legacy Wiki Page
 :class: note

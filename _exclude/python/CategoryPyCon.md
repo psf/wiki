@@ -1,4 +1,4 @@
-# CategoryPyCon
+# Category PyCon
 
 ```{admonition} Legacy Wiki Page
 :class: note

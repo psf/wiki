@@ -1,4 +1,4 @@
-# ManutenereLeEccezioni
+# Manutenere Le Eccezioni
 
 ```{admonition} Legacy Wiki Page
 :class: note

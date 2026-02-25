@@ -1,4 +1,4 @@
-# MidSummer
+# Mid Summer
 
 ```{admonition} Legacy Wiki Page
 :class: note

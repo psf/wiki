@@ -1,4 +1,4 @@
-# CategoryTemplate
+# Category Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

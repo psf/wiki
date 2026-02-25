@@ -1,4 +1,4 @@
-# LocalSpellingWords
+# Local Spelling Words
 
 ```{admonition} Legacy Wiki Page
 :class: note

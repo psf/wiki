@@ -1,4 +1,4 @@
-# NumericAndScientificRecipes
+# Numeric and Scientific Recipes
 
 ```{admonition} Legacy Wiki Page
 :class: note

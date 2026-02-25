@@ -1,4 +1,4 @@
-# StaticSiteGenerator
+# Static Site Generator
 
 ```{admonition} Legacy Wiki Page
 :class: note

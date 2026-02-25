@@ -1,4 +1,4 @@
-# StarshipTransfer
+# Starship Transfer
 
 ```{admonition} Legacy Wiki Page
 :class: note

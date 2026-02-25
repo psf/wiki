@@ -1,4 +1,4 @@
-# InstallationInstructions2
+# Installation Instructions 2
 
 ```{admonition} Legacy Wiki Page
 :class: note

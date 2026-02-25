@@ -1,4 +1,4 @@
-# EtienneRobillard/LibAuthKit
+# Etienne Robillard / Lib Auth Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

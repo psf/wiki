@@ -1,4 +1,4 @@
-# StartingYourUsersGroup
+# Starting Your Users Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

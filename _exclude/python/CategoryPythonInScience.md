@@ -1,4 +1,4 @@
-# CategoryPythonInScience
+# Category Python in Science
 
 ```{admonition} Legacy Wiki Page
 :class: note

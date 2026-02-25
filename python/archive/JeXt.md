@@ -1,4 +1,4 @@
-# JeXt
+# Je Xt
 
 ```{admonition} Legacy Wiki Page
 :class: note

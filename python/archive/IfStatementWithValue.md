@@ -1,4 +1,4 @@
-# IfStatementWithValue
+# If Statement with Value
 
 ```{admonition} Legacy Wiki Page
 :class: note

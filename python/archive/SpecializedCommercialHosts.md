@@ -1,4 +1,4 @@
-# SpecializedCommercialHosts
+# Specialized Commercial Hosts
 
 ```{admonition} Legacy Wiki Page
 :class: note

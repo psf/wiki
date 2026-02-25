@@ -1,4 +1,4 @@
-# BoulderSprint
+# Boulder Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ForSide
+# For Side
 
 ```{admonition} Legacy Wiki Page
 :class: note

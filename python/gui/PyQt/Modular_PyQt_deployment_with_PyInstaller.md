@@ -1,4 +1,4 @@
-# PyQt/Modular_PyQt_deployment_with_PyInstaller
+# PyQt / Modular PyQt deployment with PyInstaller
 
 ```{admonition} Legacy Wiki Page
 :class: note

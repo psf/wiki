@@ -1,4 +1,4 @@
-# HandlingExceptions
+# Handling Exceptions
 
 ```{admonition} Legacy Wiki Page
 :class: note

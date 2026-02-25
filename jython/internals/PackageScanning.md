@@ -1,4 +1,4 @@
-# PackageScanning
+# Package Scanning
 
 ```{admonition} Legacy Wiki Page
 :class: note

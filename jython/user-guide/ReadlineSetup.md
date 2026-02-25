@@ -1,4 +1,4 @@
-# ReadlineSetup
+# Readline Setup
 
 ```{admonition} Legacy Wiki Page
 :class: note

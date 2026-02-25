@@ -1,4 +1,4 @@
-# JythonMonthly/Articles/November2007/NC
+# Jython Monthly / Articles / November 2007 / NC
 
 ```{admonition} Legacy Wiki Page
 :class: note

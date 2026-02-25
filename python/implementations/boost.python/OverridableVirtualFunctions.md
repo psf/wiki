@@ -1,4 +1,4 @@
-# boost.python/OverridableVirtualFunctions
+# boost.python / Overridable Virtual Functions
 
 ```{admonition} Legacy Wiki Page
 :class: note

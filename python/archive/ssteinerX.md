@@ -1,4 +1,4 @@
-# ssteinerX
+# ssteiner X
 
 ```{admonition} Legacy Wiki Page
 :class: note

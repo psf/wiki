@@ -1,4 +1,4 @@
-# PythonForSecretaries
+# Python for Secretaries
 
 ```{admonition} Legacy Wiki Page
 :class: note

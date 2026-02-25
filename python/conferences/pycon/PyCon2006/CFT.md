@@ -1,4 +1,4 @@
-# PyCon2006/CFT
+# PyCon 2006 / CFT
 
 ```{admonition} Legacy Wiki Page
 :class: note

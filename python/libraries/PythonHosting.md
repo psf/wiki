@@ -1,4 +1,4 @@
-# PythonHosting
+# Python Hosting
 
 ```{admonition} Legacy Wiki Page
 :class: note

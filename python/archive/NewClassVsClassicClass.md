@@ -1,4 +1,4 @@
-# NewClassVsClassicClass
+# New Class vs Classic Class
 
 ```{admonition} Legacy Wiki Page
 :class: note

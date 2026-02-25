@@ -1,4 +1,4 @@
-# PortingToPy3k/PortingHelpers
+# Porting to Py3k / Porting Helpers
 
 ```{admonition} Legacy Wiki Page
 :class: note

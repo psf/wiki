@@ -1,4 +1,4 @@
-# DavidAlanFoster
+# David Alan Foster
 
 ```{admonition} Legacy Wiki Page
 :class: note

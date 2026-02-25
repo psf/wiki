@@ -1,4 +1,4 @@
-# JepIndex
+# JEP Index
 
 ```{admonition} Legacy Wiki Page
 :class: note

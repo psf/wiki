@@ -1,4 +1,4 @@
-# DiveIntoPython
+# Dive Into Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

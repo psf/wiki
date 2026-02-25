@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/OLPCActivities
+# PyCon 2008 / Sprint Signups / OLPC Activities
 
 ```{admonition} Legacy Wiki Page
 :class: note

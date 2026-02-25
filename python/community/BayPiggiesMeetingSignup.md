@@ -1,4 +1,4 @@
-# BayPiggiesMeetingSignup
+# Bay Piggies Meeting Signup
 
 ```{admonition} Legacy Wiki Page
 :class: note

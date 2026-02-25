@@ -1,4 +1,4 @@
-# IntegerConversion
+# Integer Conversion
 
 ```{admonition} Legacy Wiki Page
 :class: note

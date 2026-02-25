@@ -1,4 +1,4 @@
-# DocumentationAndEducation
+# Documentation and Education
 
 ```{admonition} Legacy Wiki Page
 :class: note

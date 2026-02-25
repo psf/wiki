@@ -1,4 +1,4 @@
-# RenderMan
+# Render Man
 
 ```{admonition} Legacy Wiki Page
 :class: note

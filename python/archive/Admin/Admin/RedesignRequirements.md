@@ -1,4 +1,4 @@
-# Admin/RedesignRequirements
+# Admin / Redesign Requirements
 
 ```{admonition} Legacy Wiki Page
 :class: note

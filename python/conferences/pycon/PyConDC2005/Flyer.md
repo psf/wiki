@@ -1,4 +1,4 @@
-# PyConDC2005/Flyer
+# PyCon DC 2005 / Flyer
 
 ```{admonition} Legacy Wiki Page
 :class: note

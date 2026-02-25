@@ -1,4 +1,4 @@
-# UsingAssertionsEffectively
+# Using Assertions Effectively
 
 ```{admonition} Legacy Wiki Page
 :class: note

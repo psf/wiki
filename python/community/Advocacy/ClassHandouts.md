@@ -1,4 +1,4 @@
-# Advocacy/ClassHandouts
+# Advocacy / Class Handouts
 
 ```{admonition} Legacy Wiki Page
 :class: note

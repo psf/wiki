@@ -1,4 +1,4 @@
-# PyConDC2005/ChandlerSprint
+# PyCon DC 2005 / Chandler Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

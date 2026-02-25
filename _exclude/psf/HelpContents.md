@@ -1,4 +1,4 @@
-# HelpContents
+# Help Contents
 
 ```{admonition} Legacy Wiki Page
 :class: note

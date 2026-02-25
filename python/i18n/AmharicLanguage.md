@@ -1,4 +1,4 @@
-# AmharicLanguage
+# Amharic Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

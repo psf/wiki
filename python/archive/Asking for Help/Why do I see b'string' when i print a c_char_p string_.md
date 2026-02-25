@@ -1,4 +1,4 @@
-# Asking for Help/Why do I see b'string' when i print a c_char_p string?
+# Asking for Help / Why do I see b'string' when i print a c char p string?
 
 ```{admonition} Legacy Wiki Page
 :class: note

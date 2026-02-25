@@ -1,4 +1,4 @@
-# PyConIndia2010/BudgetEstimates
+# PyCon India 2010 / Budget Estimates
 
 ```{admonition} Legacy Wiki Page
 :class: note

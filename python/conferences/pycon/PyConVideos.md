@@ -1,4 +1,4 @@
-# PyConVideos
+# PyCon Videos
 
 ```{admonition} Legacy Wiki Page
 :class: note

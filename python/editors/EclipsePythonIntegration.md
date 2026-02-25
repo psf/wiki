@@ -1,4 +1,4 @@
-# EclipsePythonIntegration
+# Eclipse Python Integration
 
 ```{admonition} Legacy Wiki Page
 :class: note

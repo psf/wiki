@@ -1,4 +1,4 @@
-# PyConBrettCannon
+# PyCon Brett Cannon
 
 ```{admonition} Legacy Wiki Page
 :class: note

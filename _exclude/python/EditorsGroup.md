@@ -1,4 +1,4 @@
-# EditorsGroup
+# Editors Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

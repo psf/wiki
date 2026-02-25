@@ -1,4 +1,4 @@
-# MacPython/FourCharacterCode
+# MacPython / Four Character Code
 
 ```{admonition} Legacy Wiki Page
 :class: note

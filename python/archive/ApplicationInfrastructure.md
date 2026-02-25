@@ -1,4 +1,4 @@
-# ApplicationInfrastructure
+# Application Infrastructure
 
 ```{admonition} Legacy Wiki Page
 :class: note

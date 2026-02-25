@@ -1,4 +1,4 @@
-# mssqlDataset
+# mssql Dataset
 
 ```{admonition} Legacy Wiki Page
 :class: note

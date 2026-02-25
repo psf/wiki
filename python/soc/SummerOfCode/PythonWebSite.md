@@ -1,4 +1,4 @@
-# SummerOfCode/PythonWebSite
+# Summer of Code / Python Web Site
 
 ```{admonition} Legacy Wiki Page
 :class: note

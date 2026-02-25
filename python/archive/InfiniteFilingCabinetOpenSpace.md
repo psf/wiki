@@ -1,4 +1,4 @@
-# InfiniteFilingCabinetOpenSpace
+# Infinite Filing Cabinet Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MacPython/RoboFab
+# MacPython / Robo Fab
 
 ```{admonition} Legacy Wiki Page
 :class: note

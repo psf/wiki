@@ -1,4 +1,4 @@
-# PythonDecorators
+# Python Decorators
 
 ```{admonition} Legacy Wiki Page
 :class: note

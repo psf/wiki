@@ -1,4 +1,4 @@
-# PyConIndia2010/Badges
+# PyCon India 2010 / Badges
 
 ```{admonition} Legacy Wiki Page
 :class: note

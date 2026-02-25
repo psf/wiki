@@ -1,4 +1,4 @@
-# JythonMonthly/Articles/October2008
+# Jython Monthly / Articles / October 2008
 
 ```{toctree}
 :maxdepth: 1

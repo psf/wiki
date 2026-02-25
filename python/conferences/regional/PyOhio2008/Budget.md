@@ -1,4 +1,4 @@
-# PyOhio2008/Budget
+# PyOhio 2008 / Budget
 
 ```{admonition} Legacy Wiki Page
 :class: note

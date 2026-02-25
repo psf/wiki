@@ -1,4 +1,4 @@
-# DataRepresentation
+# Data Representation
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# FreeHosts
+# Free Hosts
 
 ```{admonition} Legacy Wiki Page
 :class: note

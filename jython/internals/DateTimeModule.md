@@ -1,4 +1,4 @@
-# DateTimeModule
+# Date Time Module
 
 ```{admonition} Legacy Wiki Page
 :class: note

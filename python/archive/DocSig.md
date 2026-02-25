@@ -1,4 +1,4 @@
-# DocSig
+# Doc Sig
 
 ```{admonition} Legacy Wiki Page
 :class: note

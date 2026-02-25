@@ -1,4 +1,4 @@
-# PyQt/Decoding_Japanese_Text
+# PyQt / Decoding Japanese Text
 
 ```{admonition} Legacy Wiki Page
 :class: note

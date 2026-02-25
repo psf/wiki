@@ -1,4 +1,4 @@
-# UserPreferences
+# User Preferences
 
 ```{admonition} Legacy Wiki Page
 :class: note

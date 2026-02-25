@@ -1,4 +1,4 @@
-# UserKit
+# User Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

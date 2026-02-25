@@ -1,4 +1,4 @@
-# Distutils/Proposals/SplitAndCompoundDistributions
+# Distutils / Proposals / Split and Compound Distributions
 
 ```{admonition} Legacy Wiki Page
 :class: note

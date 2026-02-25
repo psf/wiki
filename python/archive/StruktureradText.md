@@ -1,4 +1,4 @@
-# StruktureradText
+# Strukturerad Text
 
 ```{admonition} Legacy Wiki Page
 :class: note

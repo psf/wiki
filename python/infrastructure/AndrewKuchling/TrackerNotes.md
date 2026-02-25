@@ -1,4 +1,4 @@
-# AndrewKuchling/TrackerNotes
+# Andrew Kuchling / Tracker Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

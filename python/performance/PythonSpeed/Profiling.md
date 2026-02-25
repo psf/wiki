@@ -1,4 +1,4 @@
-# PythonSpeed/Profiling
+# Python Speed / Profiling
 
 ```{admonition} Legacy Wiki Page
 :class: note

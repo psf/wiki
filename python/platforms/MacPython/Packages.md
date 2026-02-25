@@ -1,4 +1,4 @@
-# MacPython/Packages
+# MacPython / Packages
 
 ```{admonition} Legacy Wiki Page
 :class: note

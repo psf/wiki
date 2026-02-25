@@ -1,4 +1,4 @@
-# ArabicLanguage
+# Arabic Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

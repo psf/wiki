@@ -1,4 +1,4 @@
-# Aug2001DbApi3Strawman
+# Aug 2001 DB API 3 Strawman
 
 ```{admonition} Legacy Wiki Page
 :class: note

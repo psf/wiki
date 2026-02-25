@@ -1,4 +1,4 @@
-# Shashankbharadwaj
+# Shashank Bharadwaj
 
 ```{toctree}
 :maxdepth: 1

@@ -1,4 +1,4 @@
-# Distutils/Proposals/DevelopmentDistributions
+# Distutils / Proposals / Development Distributions
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# IndonesiaPUG
+# Indonesia PUG
 
 ```{admonition} Legacy Wiki Page
 :class: note

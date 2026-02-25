@@ -1,4 +1,4 @@
-# PyConRandomExclamationsOfSupport
+# PyCon Random Exclamations of Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

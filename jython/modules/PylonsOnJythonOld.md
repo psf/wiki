@@ -1,4 +1,4 @@
-# PylonsOnJythonOld
+# Pylons on Jython Old
 
 ```{admonition} Legacy Wiki Page
 :class: note

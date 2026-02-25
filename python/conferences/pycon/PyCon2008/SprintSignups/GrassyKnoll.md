@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/GrassyKnoll
+# PyCon 2008 / Sprint Signups / Grassy Knoll
 
 ```{admonition} Legacy Wiki Page
 :class: note

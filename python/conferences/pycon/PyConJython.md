@@ -1,4 +1,4 @@
-# PyConJython
+# PyCon Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

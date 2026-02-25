@@ -1,4 +1,4 @@
-# MiniDom
+# Mini Dom
 
 ```{admonition} Legacy Wiki Page
 :class: note

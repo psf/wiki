@@ -1,4 +1,4 @@
-# PythonDiscourseIdeas/MyGreatNewIdea
+# Python Discourse Ideas / My Great New Idea
 
 ```{admonition} Legacy Wiki Page
 :class: note

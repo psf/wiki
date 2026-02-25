@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/MobilePython
+# PyCon 2008 / Sprint Signups / Mobile Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

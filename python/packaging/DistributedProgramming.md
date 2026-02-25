@@ -1,4 +1,4 @@
-# DistributedProgramming
+# Distributed Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

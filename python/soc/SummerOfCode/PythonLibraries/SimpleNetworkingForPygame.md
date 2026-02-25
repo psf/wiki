@@ -1,4 +1,4 @@
-# SummerOfCode/PythonLibraries/SimpleNetworkingForPygame
+# Summer of Code / Python Libraries / Simple Networking for PyGame
 
 ```{admonition} Legacy Wiki Page
 :class: note

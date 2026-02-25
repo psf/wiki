@@ -1,4 +1,4 @@
-# WikiSandkasten
+# Wiki Sandkasten
 
 ```{admonition} Legacy Wiki Page
 :class: note

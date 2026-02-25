@@ -1,4 +1,4 @@
-# WikiWikiWebb
+# Wiki Wiki Webb
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2020/DiamondQuestSprint
+# EuroPython 2020 / Diamond Quest Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

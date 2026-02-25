@@ -1,4 +1,4 @@
-# EuroPython2007/Zope3Sprint
+# EuroPython 2007 / Zope 3 Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

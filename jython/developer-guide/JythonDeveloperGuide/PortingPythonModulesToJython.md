@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/PortingPythonModulesToJython
+# Jython Developer Guide / Porting Python Modules to Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

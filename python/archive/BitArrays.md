@@ -1,4 +1,4 @@
-# BitArrays
+# Bit Arrays
 
 ```{admonition} Legacy Wiki Page
 :class: note

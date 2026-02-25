@@ -1,4 +1,4 @@
-# StructureAnnotation
+# Structure Annotation
 
 ```{admonition} Legacy Wiki Page
 :class: note

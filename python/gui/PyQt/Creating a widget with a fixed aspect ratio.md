@@ -1,4 +1,4 @@
-# PyQt/Creating a widget with a fixed aspect ratio
+# PyQt / Creating a widget with a fixed aspect ratio
 
 ```{admonition} Legacy Wiki Page
 :class: note

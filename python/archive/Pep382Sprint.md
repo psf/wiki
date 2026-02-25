@@ -1,4 +1,4 @@
-# Pep382Sprint
+# PEP 382 Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

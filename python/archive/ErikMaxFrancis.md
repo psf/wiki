@@ -1,4 +1,4 @@
-# ErikMaxFrancis
+# Erik Max Francis
 
 ```{admonition} Legacy Wiki Page
 :class: note

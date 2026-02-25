@@ -1,4 +1,4 @@
-# PyConDC2005/LightningTalks
+# PyCon DC 2005 / Lightning Talks
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# DocutilsTestPage
+# DocUtils Test Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Show an image using a label
+# PyQt / Show an image using a label
 
 ```{admonition} Legacy Wiki Page
 :class: note

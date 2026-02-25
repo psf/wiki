@@ -1,4 +1,4 @@
-# AndrewKuchling/JobBoardDraft
+# Andrew Kuchling / Job Board Draft
 
 ```{admonition} Legacy Wiki Page
 :class: note

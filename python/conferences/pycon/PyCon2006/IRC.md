@@ -1,4 +1,4 @@
-# PyCon2006/IRC
+# PyCon 2006 / IRC
 
 ```{admonition} Legacy Wiki Page
 :class: note

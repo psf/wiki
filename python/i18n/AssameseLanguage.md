@@ -1,4 +1,4 @@
-# AssameseLanguage
+# Assamese Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

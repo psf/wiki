@@ -1,4 +1,4 @@
-# SummerOfCode/2011/PySoy
+# Summer of Code / 2011 / PySoy
 
 ```{admonition} Legacy Wiki Page
 :class: note

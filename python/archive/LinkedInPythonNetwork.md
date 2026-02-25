@@ -1,4 +1,4 @@
-# LinkedInPythonNetwork
+# LinkedIn Python Network
 
 ```{admonition} Legacy Wiki Page
 :class: note

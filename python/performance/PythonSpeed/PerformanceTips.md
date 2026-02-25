@@ -1,4 +1,4 @@
-# PythonSpeed/PerformanceTips
+# Python Speed / Performance Tips
 
 ```{admonition} Legacy Wiki Page
 :class: note

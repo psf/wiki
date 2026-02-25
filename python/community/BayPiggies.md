@@ -1,4 +1,4 @@
-# BayPiggies
+# Bay Piggies
 
 ```{admonition} Legacy Wiki Page
 :class: note

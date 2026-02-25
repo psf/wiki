@@ -1,4 +1,4 @@
-# PyQt/Distinguishing between click and double click
+# PyQt / Distinguishing between click and double click
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# GnuEmacs
+# Gnu Emacs
 
 ```{admonition} Legacy Wiki Page
 :class: note

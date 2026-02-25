@@ -1,4 +1,4 @@
-# WikiKurs/30 Der grafische Editor
+# Wiki Kurs / 30 Der grafische Editor
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2007/CheeseshopSprint
+# EuroPython 2007 / Cheeseshop Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

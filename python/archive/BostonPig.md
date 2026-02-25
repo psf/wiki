@@ -1,4 +1,4 @@
-# BostonPig
+# Boston Pig
 
 ```{admonition} Legacy Wiki Page
 :class: note

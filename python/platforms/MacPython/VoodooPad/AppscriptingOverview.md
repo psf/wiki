@@ -1,4 +1,4 @@
-# MacPython/VoodooPad/AppscriptingOverview
+# MacPython / VoodooPad / Appscript ing Overview
 
 ```{admonition} Legacy Wiki Page
 :class: note

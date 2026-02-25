@@ -1,4 +1,4 @@
-# SummerOfCode/2017/python-core
+# Summer of Code / 2017 / python-core
 
 ```{admonition} Legacy Wiki Page
 :class: note

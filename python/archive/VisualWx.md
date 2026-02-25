@@ -1,4 +1,4 @@
-# VisualWx
+# Visual wx
 
 ```{admonition} Legacy Wiki Page
 :class: note

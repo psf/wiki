@@ -1,4 +1,4 @@
-# MostPopularPythonProjects
+# Most Popular Python Projects
 
 ```{admonition} Legacy Wiki Page
 :class: note

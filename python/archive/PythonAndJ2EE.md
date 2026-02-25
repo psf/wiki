@@ -1,4 +1,4 @@
-# PythonAndJ2EE
+# Python and J 2 EE
 
 ```{admonition} Legacy Wiki Page
 :class: note

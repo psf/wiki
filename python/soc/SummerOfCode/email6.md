@@ -1,4 +1,4 @@
-# SummerOfCode/email6
+# Summer of Code / email 6
 
 ```{admonition} Legacy Wiki Page
 :class: note

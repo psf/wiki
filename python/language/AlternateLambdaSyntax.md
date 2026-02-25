@@ -1,4 +1,4 @@
-# AlternateLambdaSyntax
+# Alternate Lambda Syntax
 
 ```{admonition} Legacy Wiki Page
 :class: note

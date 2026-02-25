@@ -1,4 +1,4 @@
-# CodingProjectIdeas/FileSystemVirtualization
+# Coding Project Ideas / File System Virtualization
 
 ```{admonition} Legacy Wiki Page
 :class: note

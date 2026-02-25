@@ -1,4 +1,4 @@
-# PythonLibraryReference/SgiIrixSpecificServices
+# Python Library Reference / Sgi Irix Specific Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

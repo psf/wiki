@@ -1,4 +1,4 @@
-# PyWebkitGtk
+# PyWebkit Gtk
 
 ```{admonition} Legacy Wiki Page
 :class: note

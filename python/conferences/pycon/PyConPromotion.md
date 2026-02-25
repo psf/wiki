@@ -1,4 +1,4 @@
-# PyConPromotion
+# PyCon Promotion
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# BicycleRepairMan
+# Bicycle Repair Man
 
 ```{admonition} Legacy Wiki Page
 :class: note

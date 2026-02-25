@@ -1,4 +1,4 @@
-# MacPython/TECManager
+# MacPython / TEC Manager
 
 ```{admonition} Legacy Wiki Page
 :class: note

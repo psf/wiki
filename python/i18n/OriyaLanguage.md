@@ -1,4 +1,4 @@
-# OriyaLanguage
+# Oriya Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

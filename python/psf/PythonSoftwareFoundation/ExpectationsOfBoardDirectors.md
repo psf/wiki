@@ -1,4 +1,4 @@
-# PythonSoftwareFoundation/ExpectationsOfBoardDirectors
+# Python Software Foundation / Expectations of Board Directors
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2004Slides
+# EuroPython 2004 Slides
 
 ```{admonition} Legacy Wiki Page
 :class: note

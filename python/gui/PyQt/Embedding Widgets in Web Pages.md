@@ -1,4 +1,4 @@
-# PyQt/Embedding Widgets in Web Pages
+# PyQt / Embedding Widgets in Web Pages
 
 ```{admonition} Legacy Wiki Page
 :class: note

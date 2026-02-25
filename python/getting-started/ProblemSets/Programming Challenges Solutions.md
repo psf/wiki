@@ -1,4 +1,4 @@
-# ProblemSets/Programming Challenges Solutions
+# Problem Sets / Programming Challenges Solutions
 
 ```{admonition} Legacy Wiki Page
 :class: note

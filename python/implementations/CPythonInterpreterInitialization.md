@@ -1,4 +1,4 @@
-# CPythonInterpreterInitialization
+# CPython Interpreter Initialization
 
 ```{admonition} Legacy Wiki Page
 :class: note

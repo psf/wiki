@@ -1,4 +1,4 @@
-# EuroScipy2012
+# EuroSciPy 2012
 
 ```{admonition} Legacy Wiki Page
 :class: note

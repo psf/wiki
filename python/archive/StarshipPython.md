@@ -1,4 +1,4 @@
-# StarshipPython
+# Starship Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# JythonMonthly/Interviews/August2008/JimBaker
+# Jython Monthly / Interviews / August 2008 / Jim Baker
 
 ```{admonition} Legacy Wiki Page
 :class: note

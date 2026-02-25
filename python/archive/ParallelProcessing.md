@@ -1,4 +1,4 @@
-# ParallelProcessing
+# Parallel Processing
 
 ```{admonition} Legacy Wiki Page
 :class: note

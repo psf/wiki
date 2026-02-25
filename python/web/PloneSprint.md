@@ -1,4 +1,4 @@
-# PloneSprint
+# Plone Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonDotNetProposal
+# Python Dot Net Proposal
 
 ```{admonition} Legacy Wiki Page
 :class: note

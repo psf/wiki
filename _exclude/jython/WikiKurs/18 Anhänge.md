@@ -1,4 +1,4 @@
-# WikiKurs/18 Anhänge
+# Wiki Kurs / 18 Anhänge
 
 ```{admonition} Legacy Wiki Page
 :class: note

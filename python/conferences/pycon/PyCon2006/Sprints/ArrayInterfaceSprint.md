@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/ArrayInterfaceSprint
+# PyCon 2006 / Sprints / Array Interface Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

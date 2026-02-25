@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/StacklessSprint
+# PyCon 2006 / Sprints / Stackless Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

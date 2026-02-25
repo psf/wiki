@@ -1,4 +1,4 @@
-# SummerOfCode/WebIDE
+# Summer of Code / Web IDE
 
 ```{admonition} Legacy Wiki Page
 :class: note

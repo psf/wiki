@@ -1,4 +1,4 @@
-# MacPython/VoodooPad
+# MacPython / VoodooPad
 
 ```{admonition} Legacy Wiki Page
 :class: note

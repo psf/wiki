@@ -1,4 +1,4 @@
-# WikiCourse/19 Symbols
+# Wiki Course / 19 Symbols
 
 ```{admonition} Legacy Wiki Page
 :class: note

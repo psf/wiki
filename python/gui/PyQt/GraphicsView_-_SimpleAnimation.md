@@ -1,4 +1,4 @@
-# PyQt/GraphicsView_-_SimpleAnimation
+# PyQt / Graphics View - Simple Animation
 
 ```{admonition} Legacy Wiki Page
 :class: note

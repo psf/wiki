@@ -1,4 +1,4 @@
-# EnumerationProgramming
+# Enumeration Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

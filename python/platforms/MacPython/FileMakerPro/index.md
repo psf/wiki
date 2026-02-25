@@ -1,4 +1,4 @@
-# Filemakerpro
+# FileMaker pro
 
 ```{toctree}
 :maxdepth: 1

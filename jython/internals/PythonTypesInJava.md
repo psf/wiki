@@ -1,4 +1,4 @@
-# PythonTypesInJava
+# Python Types in Java
 
 ```{admonition} Legacy Wiki Page
 :class: note

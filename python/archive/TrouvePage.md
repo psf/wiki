@@ -1,4 +1,4 @@
-# TrouvePage
+# Trouve Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

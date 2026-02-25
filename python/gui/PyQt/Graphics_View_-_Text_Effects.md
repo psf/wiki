@@ -1,4 +1,4 @@
-# PyQt/Graphics_View_-_Text_Effects
+# PyQt / Graphics View - Text Effects
 
 ```{admonition} Legacy Wiki Page
 :class: note

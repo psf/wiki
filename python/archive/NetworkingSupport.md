@@ -1,4 +1,4 @@
-# NetworkingSupport
+# Networking Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

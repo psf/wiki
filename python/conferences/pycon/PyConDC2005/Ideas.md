@@ -1,4 +1,4 @@
-# PyConDC2005/Ideas
+# PyCon DC 2005 / Ideas
 
 ```{admonition} Legacy Wiki Page
 :class: note

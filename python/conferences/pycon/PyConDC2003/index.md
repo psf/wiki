@@ -1,4 +1,4 @@
-# Pycondc2003
+# PyCon dc 2003
 
 ```{toctree}
 :maxdepth: 1

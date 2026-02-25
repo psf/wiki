@@ -1,4 +1,4 @@
-# PyCon/Organizers Meetings Connection Details
+# PyCon / Organizers Meetings Connection Details
 
 ```{admonition} Legacy Wiki Page
 :class: note

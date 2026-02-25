@@ -1,4 +1,4 @@
-# TimeTransitionsImage
+# Time Transitions Image
 
 ```{admonition} Legacy Wiki Page
 :class: note

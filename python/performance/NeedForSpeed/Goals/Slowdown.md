@@ -1,4 +1,4 @@
-# NeedForSpeed/Goals/Slowdown
+# Need for Speed / Goals / Slowdown
 
 ```{admonition} Legacy Wiki Page
 :class: note

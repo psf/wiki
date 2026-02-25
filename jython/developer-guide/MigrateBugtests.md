@@ -1,4 +1,4 @@
-# MigrateBugtests
+# Migrate Bugtests
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonMaputo
+# Python Maputo
 
 ```{admonition} Legacy Wiki Page
 :class: note

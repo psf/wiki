@@ -1,4 +1,4 @@
-# AdvocacyAccomplishments
+# Advocacy Accomplishments
 
 ```{admonition} Legacy Wiki Page
 :class: note

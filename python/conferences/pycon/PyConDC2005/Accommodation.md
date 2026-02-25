@@ -1,4 +1,4 @@
-# PyConDC2005/Accommodation
+# PyCon DC 2005 / Accommodation
 
 ```{admonition} Legacy Wiki Page
 :class: note

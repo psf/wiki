@@ -1,4 +1,4 @@
-# SummerOfCode/SummerOfCode2007
+# Summer of Code / Summer of Code 2007
 
 ```{admonition} Legacy Wiki Page
 :class: note

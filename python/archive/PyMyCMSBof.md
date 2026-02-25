@@ -1,4 +1,4 @@
-# PyMyCMSBof
+# PyMy CMS BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

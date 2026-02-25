@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/GameFreeIntroductionToPyGame
+# PyCon 2006 / Tutorials / Game Free Introduction to PyGame
 
 ```{admonition} Legacy Wiki Page
 :class: note

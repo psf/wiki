@@ -1,4 +1,4 @@
-# LeeEdwin/DownloadCenter
+# Lee Edwin / Download Center
 
 ```{admonition} Legacy Wiki Page
 :class: note

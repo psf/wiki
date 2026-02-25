@@ -1,4 +1,4 @@
-# DictionaryKeys
+# Dictionary Keys
 
 ```{admonition} Legacy Wiki Page
 :class: note

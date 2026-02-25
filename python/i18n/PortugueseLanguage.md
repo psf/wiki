@@ -1,4 +1,4 @@
-# PortugueseLanguage
+# Portuguese Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

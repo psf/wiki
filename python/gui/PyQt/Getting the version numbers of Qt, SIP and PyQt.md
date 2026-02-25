@@ -1,4 +1,4 @@
-# PyQt/Getting the version numbers of Qt, SIP and PyQt
+# PyQt / Getting the version numbers of Qt, SIP and PyQt
 
 ```{admonition} Legacy Wiki Page
 :class: note

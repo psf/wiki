@@ -1,4 +1,4 @@
-# PyQt/DevelopmentWithEric3
+# PyQt / Development with Eric 3
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonApplications
+# Python Applications
 
 ```{admonition} Legacy Wiki Page
 :class: note

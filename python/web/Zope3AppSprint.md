@@ -1,4 +1,4 @@
-# Zope3AppSprint
+# Zope 3 App Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

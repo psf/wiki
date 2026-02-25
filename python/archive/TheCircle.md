@@ -1,4 +1,4 @@
-# TheCircle
+# The Circle
 
 ```{admonition} Legacy Wiki Page
 :class: note

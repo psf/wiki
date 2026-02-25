@@ -1,4 +1,4 @@
-# PyConPlanning/Publicity
+# PyCon Planning / Publicity
 
 ```{admonition} Legacy Wiki Page
 :class: note

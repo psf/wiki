@@ -1,4 +1,4 @@
-# MacPython/PackageWishList
+# MacPython / Package Wish List
 
 ```{admonition} Legacy Wiki Page
 :class: note

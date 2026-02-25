@@ -1,4 +1,4 @@
-# JtreeExample
+# Jtree Example
 
 ```{admonition} Legacy Wiki Page
 :class: note

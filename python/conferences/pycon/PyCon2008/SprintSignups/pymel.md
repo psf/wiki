@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/pymel
+# PyCon 2008 / Sprint Signups / pymel
 
 ```{admonition} Legacy Wiki Page
 :class: note

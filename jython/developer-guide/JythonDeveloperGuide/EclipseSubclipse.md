@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/EclipseSubclipse
+# Jython Developer Guide / Eclipse Subclipse
 
 ```{admonition} Legacy Wiki Page
 :class: note

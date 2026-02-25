@@ -1,4 +1,4 @@
-# MacPython/BitTorrent
+# MacPython / Bit Torrent
 
 ```{admonition} Legacy Wiki Page
 :class: note

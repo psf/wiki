@@ -1,4 +1,4 @@
-# JythonBibliography
+# Jython Bibliography
 
 ```{admonition} Legacy Wiki Page
 :class: note

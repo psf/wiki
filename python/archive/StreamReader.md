@@ -1,4 +1,4 @@
-# StreamReader
+# Stream Reader
 
 ```{admonition} Legacy Wiki Page
 :class: note

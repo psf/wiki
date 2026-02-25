@@ -1,4 +1,4 @@
-# MacPython/PhotoShop
+# MacPython / Photo Shop
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MacPython/AppleScript
+# MacPython / AppleScript
 
 ```{admonition} Legacy Wiki Page
 :class: note

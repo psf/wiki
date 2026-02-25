@@ -1,4 +1,4 @@
-# Pycon2012/SatVeganBreakfast
+# PyCon 2012 / Sat Vegan Breakfast
 
 ```{admonition} Legacy Wiki Page
 :class: note

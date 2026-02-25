@@ -1,4 +1,4 @@
-# EuroPythonRoles
+# EuroPython Roles
 
 ```{admonition} Legacy Wiki Page
 :class: note

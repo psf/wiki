@@ -1,4 +1,4 @@
-# TrackerUseCases
+# Tracker Use Cases
 
 ```{admonition} Legacy Wiki Page
 :class: note

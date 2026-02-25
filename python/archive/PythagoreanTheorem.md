@@ -1,4 +1,4 @@
-# PythagoreanTheorem
+# Pythagorean Theorem
 
 ```{admonition} Legacy Wiki Page
 :class: note

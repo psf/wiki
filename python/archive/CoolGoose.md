@@ -1,4 +1,4 @@
-# CoolGoose
+# Cool Goose
 
 ```{admonition} Legacy Wiki Page
 :class: note

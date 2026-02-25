@@ -1,4 +1,4 @@
-# WebJanitorialTasks
+# Web Janitorial Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

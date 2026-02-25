@@ -1,4 +1,4 @@
-# CrashingPython
+# Crashing Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

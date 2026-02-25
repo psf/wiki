@@ -1,4 +1,4 @@
-# MemoryUsageProfiler
+# Memory Usage Profiler
 
 ```{admonition} Legacy Wiki Page
 :class: note

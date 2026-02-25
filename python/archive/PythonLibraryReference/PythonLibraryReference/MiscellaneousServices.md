@@ -1,4 +1,4 @@
-# PythonLibraryReference/MiscellaneousServices
+# Python Library Reference / Miscellaneous Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

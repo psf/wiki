@@ -1,4 +1,4 @@
-# MacPython/BundleBuilder
+# MacPython / Bundle Builder
 
 ```{admonition} Legacy Wiki Page
 :class: note

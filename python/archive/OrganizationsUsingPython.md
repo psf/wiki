@@ -1,4 +1,4 @@
-# OrganizationsUsingPython
+# Organizations Using Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

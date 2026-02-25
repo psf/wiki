@@ -1,4 +1,4 @@
-# IDEKeyboardShortcuts
+# IDE Keyboard Shortcuts
 
 ```{admonition} Legacy Wiki Page
 :class: note

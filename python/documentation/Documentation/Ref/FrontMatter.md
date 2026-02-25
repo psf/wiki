@@ -1,4 +1,4 @@
-# Documentation/Ref/FrontMatter
+# Documentation / Ref / Front Matter
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# NeedForSpeed/Toolsets
+# Need for Speed / Toolsets
 
 ```{admonition} Legacy Wiki Page
 :class: note

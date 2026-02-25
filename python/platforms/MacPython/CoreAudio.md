@@ -1,4 +1,4 @@
-# MacPython/CoreAudio
+# MacPython / Core Audio
 
 ```{admonition} Legacy Wiki Page
 :class: note

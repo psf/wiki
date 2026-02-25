@@ -1,4 +1,4 @@
-# BeginnersGuide/NonProgrammersChinese
+# Beginners Guide / Non Programmers Chinese
 
 ```{admonition} Legacy Wiki Page
 :class: note

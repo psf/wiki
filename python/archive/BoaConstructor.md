@@ -1,4 +1,4 @@
-# BoaConstructor
+# Boa Constructor
 
 ```{admonition} Legacy Wiki Page
 :class: note

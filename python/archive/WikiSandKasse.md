@@ -1,4 +1,4 @@
-# WikiSandKasse
+# Wiki Sand Kasse
 
 ```{admonition} Legacy Wiki Page
 :class: note

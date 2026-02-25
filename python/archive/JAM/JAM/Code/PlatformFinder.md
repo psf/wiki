@@ -1,4 +1,4 @@
-# JAM/Code/PlatformFinder
+# JAM / Code / Platform Finder
 
 ```{admonition} Legacy Wiki Page
 :class: note

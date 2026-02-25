@@ -1,4 +1,4 @@
-# NeedForSpeed/Schedule
+# Need for Speed / Schedule
 
 ```{admonition} Legacy Wiki Page
 :class: note

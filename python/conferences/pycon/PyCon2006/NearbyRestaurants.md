@@ -1,4 +1,4 @@
-# PyCon2006/NearbyRestaurants
+# PyCon 2006 / Nearby Restaurants
 
 ```{admonition} Legacy Wiki Page
 :class: note

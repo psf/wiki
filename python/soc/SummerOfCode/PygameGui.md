@@ -1,4 +1,4 @@
-# SummerOfCode/PygameGui
+# Summer of Code / PyGame GUI
 
 ```{admonition} Legacy Wiki Page
 :class: note

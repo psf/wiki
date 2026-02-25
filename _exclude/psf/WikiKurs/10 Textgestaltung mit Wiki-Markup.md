@@ -1,4 +1,4 @@
-# WikiKurs/10 Textgestaltung mit Wiki-Markup
+# Wiki Kurs / 10 Textgestaltung MIT Wiki-Markup
 
 ```{admonition} Legacy Wiki Page
 :class: note

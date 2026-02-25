@@ -1,4 +1,4 @@
-# MovablePython
+# Movable Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

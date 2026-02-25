@@ -1,4 +1,4 @@
-# CharlieGroves/DescrFailures
+# Charlie Groves / Descr Failures
 
 ```{admonition} Legacy Wiki Page
 :class: note

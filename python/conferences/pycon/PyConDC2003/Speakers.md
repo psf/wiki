@@ -1,4 +1,4 @@
-# PyConDC2003/Speakers
+# PyCon DC 2003 / Speakers
 
 ```{admonition} Legacy Wiki Page
 :class: note

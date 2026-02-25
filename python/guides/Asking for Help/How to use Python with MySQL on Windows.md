@@ -1,4 +1,4 @@
-# Asking for Help/How to use Python with MySQL on Windows
+# Asking for Help / How to use Python with MySQL on Windows
 
 ```{admonition} Legacy Wiki Page
 :class: note

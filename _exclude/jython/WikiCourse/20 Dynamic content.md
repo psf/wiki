@@ -1,4 +1,4 @@
-# WikiCourse/20 Dynamic content
+# Wiki Course / 20 Dynamic content
 
 ```{admonition} Legacy Wiki Page
 :class: note

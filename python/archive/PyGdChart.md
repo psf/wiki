@@ -1,4 +1,4 @@
-# PyGdChart
+# PyGd Chart
 
 ```{admonition} Legacy Wiki Page
 :class: note

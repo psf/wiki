@@ -1,4 +1,4 @@
-# ConfigParserExamples
+# Config Parser Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

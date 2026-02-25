@@ -1,4 +1,4 @@
-# NeedForSpeed/IRCLog
+# Need for Speed / IRC Log
 
 ```{admonition} Legacy Wiki Page
 :class: note

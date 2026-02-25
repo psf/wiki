@@ -1,4 +1,4 @@
-# MacPython/LettError
+# MacPython / Lett Error
 
 ```{admonition} Legacy Wiki Page
 :class: note

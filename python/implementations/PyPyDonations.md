@@ -1,4 +1,4 @@
-# PyPyDonations
+# PyPy Donations
 
 ```{admonition} Legacy Wiki Page
 :class: note

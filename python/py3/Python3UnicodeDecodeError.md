@@ -1,4 +1,4 @@
-# Python3UnicodeDecodeError
+# Python 3 Unicode Decode Error
 
 ```{admonition} Legacy Wiki Page
 :class: note

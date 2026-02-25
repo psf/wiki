@@ -1,4 +1,4 @@
-# PyQt/PyInstallerOnMacOSX
+# PyQt / PyInstaller on macOS X
 
 ```{admonition} Legacy Wiki Page
 :class: note

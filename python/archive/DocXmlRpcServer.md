@@ -1,4 +1,4 @@
-# DocXmlRpcServer
+# Doc XML RPC Server
 
 ```{admonition} Legacy Wiki Page
 :class: note

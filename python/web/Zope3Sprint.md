@@ -1,4 +1,4 @@
-# Zope3Sprint
+# Zope 3 Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

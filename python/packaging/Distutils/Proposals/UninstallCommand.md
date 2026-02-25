@@ -1,4 +1,4 @@
-# Distutils/Proposals/UninstallCommand
+# Distutils / Proposals / Uninstall Command
 
 ```{admonition} Legacy Wiki Page
 :class: note

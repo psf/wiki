@@ -1,4 +1,4 @@
-# SetuptoolsFeatures
+# Setuptools Features
 
 ```{admonition} Legacy Wiki Page
 :class: note

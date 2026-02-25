@@ -1,4 +1,4 @@
-# CoreJythonExamples
+# Core Jython Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

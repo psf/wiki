@@ -1,4 +1,4 @@
-# CategoryPythonJobs
+# Category Python Jobs
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# KategorieVorlage
+# Kategorie Vorlage
 
 ```{admonition} Legacy Wiki Page
 :class: note

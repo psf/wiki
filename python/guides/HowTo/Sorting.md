@@ -1,4 +1,4 @@
-# HowTo/Sorting
+# How to / Sorting
 
 ```{admonition} Legacy Wiki Page
 :class: note

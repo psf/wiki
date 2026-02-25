@@ -1,4 +1,4 @@
-# MythDebunking
+# Myth Debunking
 
 ```{admonition} Legacy Wiki Page
 :class: note

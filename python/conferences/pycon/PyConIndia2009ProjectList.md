@@ -1,4 +1,4 @@
-# PyConIndia2009ProjectList
+# PyCon India 2009 Project List
 
 ```{admonition} Legacy Wiki Page
 :class: note

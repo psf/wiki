@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/GameDevelopment
+# Advocacy Writing Tasks / Game Development
 
 ```{admonition} Legacy Wiki Page
 :class: note

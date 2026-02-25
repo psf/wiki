@@ -1,4 +1,4 @@
-# PyConDanaMoore
+# PyCon Dana Moore
 
 ```{admonition} Legacy Wiki Page
 :class: note

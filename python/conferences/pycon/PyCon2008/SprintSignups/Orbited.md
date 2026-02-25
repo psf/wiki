@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/Orbited
+# PyCon 2008 / Sprint Signups / Orbited
 
 ```{admonition} Legacy Wiki Page
 :class: note

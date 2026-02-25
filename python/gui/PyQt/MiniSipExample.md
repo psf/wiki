@@ -1,4 +1,4 @@
-# PyQt/MiniSipExample
+# PyQt / Mini Sip Example
 
 ```{admonition} Legacy Wiki Page
 :class: note

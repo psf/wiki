@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/Python
+# PyCon 2008 / Sprint Signups / Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

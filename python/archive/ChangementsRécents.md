@@ -1,4 +1,4 @@
-# ChangementsRécents
+# Changements Récents
 
 ```{admonition} Legacy Wiki Page
 :class: note

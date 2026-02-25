@@ -1,4 +1,4 @@
-# PyQt/Using a signal mapper
+# PyQt / Using a signal mapper
 
 ```{admonition} Legacy Wiki Page
 :class: note

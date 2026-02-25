@@ -1,4 +1,4 @@
-# PyQt/Drawing highlighted rows in a calendar widget
+# PyQt / Drawing highlighted rows in a calendar widget
 
 ```{admonition} Legacy Wiki Page
 :class: note

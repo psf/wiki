@@ -1,4 +1,4 @@
-# CastelliDiSabbia
+# Castelli Di Sabbia
 
 ```{admonition} Legacy Wiki Page
 :class: note

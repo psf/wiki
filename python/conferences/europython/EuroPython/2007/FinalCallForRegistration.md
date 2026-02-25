@@ -1,4 +1,4 @@
-# EuroPython/2007/FinalCallForRegistration
+# EuroPython / 2007 / Final Call for Registration
 
 ```{admonition} Legacy Wiki Page
 :class: note

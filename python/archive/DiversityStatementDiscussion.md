@@ -1,4 +1,4 @@
-# DiversityStatementDiscussion
+# Diversity Statement Discussion
 
 ```{admonition} Legacy Wiki Page
 :class: note

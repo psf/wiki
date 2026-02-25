@@ -1,4 +1,4 @@
-# WesternPunjabiLanguage
+# Western Punjabi Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

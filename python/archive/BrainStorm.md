@@ -1,4 +1,4 @@
-# BrainStorm
+# Brain Storm
 
 ```{admonition} Legacy Wiki Page
 :class: note

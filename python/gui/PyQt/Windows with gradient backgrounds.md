@@ -1,4 +1,4 @@
-# PyQt/Windows with gradient backgrounds
+# PyQt / Windows with gradient backgrounds
 
 ```{admonition} Legacy Wiki Page
 :class: note

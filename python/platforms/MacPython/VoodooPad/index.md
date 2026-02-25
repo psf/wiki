@@ -1,4 +1,4 @@
-# Voodoopad
+# VoodooPad
 
 ```{toctree}
 :maxdepth: 1

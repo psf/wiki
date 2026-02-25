@@ -1,4 +1,4 @@
-# Packaging/PyPIBetaAnnouncement
+# Packaging / PyPI Beta Announcement
 
 ```{admonition} Legacy Wiki Page
 :class: note

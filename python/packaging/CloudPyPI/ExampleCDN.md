@@ -1,4 +1,4 @@
-# CloudPyPI/ExampleCDN
+# Cloud PyPI / Example CDN
 
 ```{admonition} Legacy Wiki Page
 :class: note

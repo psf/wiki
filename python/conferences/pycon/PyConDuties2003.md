@@ -1,4 +1,4 @@
-# PyConDuties2003
+# PyCon Duties 2003
 
 ```{admonition} Legacy Wiki Page
 :class: note

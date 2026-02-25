@@ -1,4 +1,4 @@
-# DrPython
+# Dr Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Sending Python values with signals and slots
+# PyQt / Sending Python values with signals and slots
 
 ```{admonition} Legacy Wiki Page
 :class: note

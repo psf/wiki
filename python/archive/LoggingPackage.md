@@ -1,4 +1,4 @@
-# LoggingPackage
+# Logging Package
 
 ```{admonition} Legacy Wiki Page
 :class: note

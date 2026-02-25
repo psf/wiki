@@ -1,4 +1,4 @@
-# NonEnglish
+# Non English
 
 ```{admonition} Legacy Wiki Page
 :class: note

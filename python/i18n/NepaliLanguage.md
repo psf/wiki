@@ -1,4 +1,4 @@
-# NepaliLanguage
+# Nepali Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

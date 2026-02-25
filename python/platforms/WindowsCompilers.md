@@ -1,4 +1,4 @@
-# WindowsCompilers
+# Windows Compilers
 
 ```{admonition} Legacy Wiki Page
 :class: note

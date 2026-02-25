@@ -1,4 +1,4 @@
-# Py3kConversionTools
+# Py3k Conversion Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

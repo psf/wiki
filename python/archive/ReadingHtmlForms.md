@@ -1,4 +1,4 @@
-# ReadingHtmlForms
+# Reading HTML Forms
 
 ```{admonition} Legacy Wiki Page
 :class: note

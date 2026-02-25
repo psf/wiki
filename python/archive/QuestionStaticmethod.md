@@ -1,4 +1,4 @@
-# QuestionStaticmethod
+# Question Staticmethod
 
 ```{admonition} Legacy Wiki Page
 :class: note

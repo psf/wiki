@@ -1,4 +1,4 @@
-# Podcast/EpisodePlanning
+# Podcast / Episode Planning
 
 ```{admonition} Legacy Wiki Page
 :class: note

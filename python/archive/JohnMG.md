@@ -1,4 +1,4 @@
-# JohnMG
+# John MG
 
 ```{admonition} Legacy Wiki Page
 :class: note

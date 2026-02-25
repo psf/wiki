@@ -1,4 +1,4 @@
-# ImprovingLibTests
+# Improving Lib Tests
 
 ```{admonition} Legacy Wiki Page
 :class: note

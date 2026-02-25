@@ -1,4 +1,4 @@
-# CommunityJobBoards
+# Community Job Boards
 
 ```{admonition} Legacy Wiki Page
 :class: note

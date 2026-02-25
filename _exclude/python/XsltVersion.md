@@ -1,4 +1,4 @@
-# XsltVersion
+# Xslt Version
 
 ```{admonition} Legacy Wiki Page
 :class: note

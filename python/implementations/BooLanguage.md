@@ -1,4 +1,4 @@
-# BooLanguage
+# Boo Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# VanPyZ/conference/2006/proceedings/2zuMrv
+# Van PyZ / conference / 2006 / proceedings / 2zu Mrv
 
 ```{admonition} Legacy Wiki Page
 :class: note

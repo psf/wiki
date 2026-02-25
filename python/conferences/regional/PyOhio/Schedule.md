@@ -1,4 +1,4 @@
-# PyOhio/Schedule
+# PyOhio / Schedule
 
 ```{admonition} Legacy Wiki Page
 :class: note

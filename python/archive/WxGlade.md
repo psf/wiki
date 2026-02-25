@@ -1,4 +1,4 @@
-# WxGlade
+# wx Glade
 
 ```{admonition} Legacy Wiki Page
 :class: note

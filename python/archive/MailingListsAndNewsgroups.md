@@ -1,4 +1,4 @@
-# MailingListsAndNewsgroups
+# Mailing Lists and Newsgroups
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# WikiKurs/12 Überschriften
+# Wiki Kurs / 12 Überschriften
 
 ```{admonition} Legacy Wiki Page
 :class: note

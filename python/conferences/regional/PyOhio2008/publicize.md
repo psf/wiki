@@ -1,4 +1,4 @@
-# PyOhio2008/publicize
+# PyOhio 2008 / publicize
 
 ```{admonition} Legacy Wiki Page
 :class: note

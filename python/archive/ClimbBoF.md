@@ -1,4 +1,4 @@
-# ClimbBoF
+# Climb Bo F
 
 ```{admonition} Legacy Wiki Page
 :class: note

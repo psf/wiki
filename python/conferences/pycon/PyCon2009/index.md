@@ -1,4 +1,4 @@
-# Pycon2009
+# PyCon 2009
 
 ```{toctree}
 :maxdepth: 1

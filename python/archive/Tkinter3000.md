@@ -1,4 +1,4 @@
-# Tkinter3000
+# Tkinter 3000
 
 ```{admonition} Legacy Wiki Page
 :class: note

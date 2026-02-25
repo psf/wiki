@@ -1,4 +1,4 @@
-# LondonFinancialPythonUserGroup
+# London Financial Python User Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

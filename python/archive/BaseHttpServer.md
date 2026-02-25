@@ -1,4 +1,4 @@
-# BaseHttpServer
+# Base HTTP Server
 
 ```{admonition} Legacy Wiki Page
 :class: note

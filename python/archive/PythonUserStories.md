@@ -1,4 +1,4 @@
-# PythonUserStories
+# Python User Stories
 
 ```{admonition} Legacy Wiki Page
 :class: note

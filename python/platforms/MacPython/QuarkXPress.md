@@ -1,4 +1,4 @@
-# MacPython/QuarkXPress
+# MacPython / Quark X Press
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# JakartaPUG
+# Jakarta PUG
 
 ```{admonition} Legacy Wiki Page
 :class: note

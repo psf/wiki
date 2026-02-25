@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/TurboGearsPylons
+# PyCon 2008 / Sprint Signups / TurboGears Pylons
 
 ```{admonition} Legacy Wiki Page
 :class: note

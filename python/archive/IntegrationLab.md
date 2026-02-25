@@ -1,4 +1,4 @@
-# IntegrationLab
+# Integration Lab
 
 ```{admonition} Legacy Wiki Page
 :class: note

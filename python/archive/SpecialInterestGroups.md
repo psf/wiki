@@ -1,4 +1,4 @@
-# SpecialInterestGroups
+# Special Interest Groups
 
 ```{admonition} Legacy Wiki Page
 :class: note

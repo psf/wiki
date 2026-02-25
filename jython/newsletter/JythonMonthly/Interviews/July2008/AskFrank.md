@@ -1,4 +1,4 @@
-# JythonMonthly/Interviews/July2008/AskFrank
+# Jython Monthly / Interviews / July 2008 / Ask Frank
 
 ```{admonition} Legacy Wiki Page
 :class: note

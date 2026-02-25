@@ -1,4 +1,4 @@
-# MacPython/CFPython
+# MacPython / CF Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

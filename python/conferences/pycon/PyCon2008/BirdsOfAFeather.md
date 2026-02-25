@@ -1,4 +1,4 @@
-# PyCon2008/BirdsOfAFeather
+# PyCon 2008 / Birds of a Feather
 
 ```{admonition} Legacy Wiki Page
 :class: note

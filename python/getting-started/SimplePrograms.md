@@ -1,4 +1,4 @@
-# SimplePrograms
+# Simple Programs
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# sipPQ
+# sip PQ
 
 ```{admonition} Legacy Wiki Page
 :class: note

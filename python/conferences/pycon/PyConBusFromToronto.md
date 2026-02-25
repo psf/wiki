@@ -1,4 +1,4 @@
-# PyConBusFromToronto
+# PyCon Bus from Toronto
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MultiLineLambda
+# Multi Line Lambda
 
 ```{admonition} Legacy Wiki Page
 :class: note

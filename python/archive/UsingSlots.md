@@ -1,4 +1,4 @@
-# UsingSlots
+# Using Slots
 
 ```{admonition} Legacy Wiki Page
 :class: note

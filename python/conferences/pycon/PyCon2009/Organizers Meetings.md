@@ -1,4 +1,4 @@
-# PyCon2009/Organizers Meetings
+# PyCon 2009 / Organizers Meetings
 
 ```{admonition} Legacy Wiki Page
 :class: note

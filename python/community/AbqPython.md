@@ -1,4 +1,4 @@
-# AbqPython
+# Abq Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

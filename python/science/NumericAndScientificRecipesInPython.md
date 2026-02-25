@@ -1,4 +1,4 @@
-# NumericAndScientificRecipesInPython
+# Numeric and Scientific Recipes in Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

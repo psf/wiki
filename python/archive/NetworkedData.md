@@ -1,4 +1,4 @@
-# NetworkedData
+# Networked Data
 
 ```{admonition} Legacy Wiki Page
 :class: note

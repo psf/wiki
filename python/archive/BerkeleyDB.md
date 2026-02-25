@@ -1,4 +1,4 @@
-# BerkeleyDB
+# Berkeley DB
 
 ```{admonition} Legacy Wiki Page
 :class: note

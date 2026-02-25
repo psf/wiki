@@ -1,4 +1,4 @@
-# MacPython/JavaScript
+# MacPython / JavaScript
 
 ```{admonition} Legacy Wiki Page
 :class: note

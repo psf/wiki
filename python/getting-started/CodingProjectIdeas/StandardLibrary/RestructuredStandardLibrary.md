@@ -1,4 +1,4 @@
-# CodingProjectIdeas/StandardLibrary/RestructuredStandardLibrary
+# Coding Project Ideas / Standard Library / Restructured Standard Library
 
 ```{admonition} Legacy Wiki Page
 :class: note

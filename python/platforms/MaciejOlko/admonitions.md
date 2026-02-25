@@ -1,4 +1,4 @@
-# MaciejOlko/admonitions
+# Maciej Olko / admonitions
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MovingToPythonFromPerl
+# Moving to Python from Perl
 
 ```{admonition} Legacy Wiki Page
 :class: note

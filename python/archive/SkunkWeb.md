@@ -1,4 +1,4 @@
-# SkunkWeb
+# Skunk Web
 
 ```{admonition} Legacy Wiki Page
 :class: note

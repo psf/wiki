@@ -1,4 +1,4 @@
-# ClarkUpdike/WikiTips
+# Clark Updike / Wiki Tips
 
 ```{admonition} Legacy Wiki Page
 :class: note

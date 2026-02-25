@@ -1,4 +1,4 @@
-# EuroPython2015/Mopidy
+# EuroPython 2015 / Mopidy
 
 ```{admonition} Legacy Wiki Page
 :class: note

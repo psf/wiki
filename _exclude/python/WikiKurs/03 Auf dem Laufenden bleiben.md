@@ -1,4 +1,4 @@
-# WikiKurs/03 Auf dem Laufenden bleiben
+# Wiki Kurs / 03 Auf dem Laufenden bleiben
 
 ```{admonition} Legacy Wiki Page
 :class: note

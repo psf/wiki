@@ -1,4 +1,4 @@
-# PyQt/Selecting items in unrelated views
+# PyQt / Selecting items in unrelated views
 
 ```{admonition} Legacy Wiki Page
 :class: note

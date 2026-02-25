@@ -1,4 +1,4 @@
-# DbApi3/DisCourse
+# DB API 3 / Dis Course
 
 ```{admonition} Legacy Wiki Page
 :class: note

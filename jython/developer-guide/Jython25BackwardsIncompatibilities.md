@@ -1,4 +1,4 @@
-# Jython25BackwardsIncompatibilities
+# Jython 25 Backwards Incompatibilities
 
 ```{admonition} Legacy Wiki Page
 :class: note

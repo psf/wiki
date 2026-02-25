@@ -1,4 +1,4 @@
-# WarehouseRoadmap
+# Warehouse Roadmap
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# JythonEditors
+# Jython Editors
 
 ```{admonition} Legacy Wiki Page
 :class: note

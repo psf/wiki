@@ -1,4 +1,4 @@
-# BeginnersGuide/Help
+# Beginners Guide / Help
 
 ```{admonition} Legacy Wiki Page
 :class: note

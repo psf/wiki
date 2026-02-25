@@ -1,4 +1,4 @@
-# IntegratedDevelopmentEnvironments
+# Integrated Development Environments
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# HpPythonBusinessLibraries
+# Hp Python Business Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

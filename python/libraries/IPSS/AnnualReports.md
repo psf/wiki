@@ -1,4 +1,4 @@
-# IPSS/AnnualReports
+# IPSS / Annual Reports
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# WebFrameworks
+# Web Frameworks
 
 ```{admonition} Legacy Wiki Page
 :class: note

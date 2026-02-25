@@ -1,4 +1,4 @@
-# PyOpenGlPyGameOpenSpace
+# PyOpenGL PyGame Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

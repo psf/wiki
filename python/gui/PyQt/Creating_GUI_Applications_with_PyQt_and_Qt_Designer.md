@@ -1,4 +1,4 @@
-# PyQt/Creating_GUI_Applications_with_PyQt_and_Qt_Designer
+# PyQt / Creating GUI Applications with PyQt and Qt Designer
 
 ```{admonition} Legacy Wiki Page
 :class: note

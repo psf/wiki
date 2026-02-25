@@ -1,4 +1,4 @@
-# PyOhio2008/IrcLog
+# PyOhio 2008 / IRC Log
 
 ```{admonition} Legacy Wiki Page
 :class: note

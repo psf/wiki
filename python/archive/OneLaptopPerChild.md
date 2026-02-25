@@ -1,4 +1,4 @@
-# OneLaptopPerChild
+# One Laptop Per Child
 
 ```{admonition} Legacy Wiki Page
 :class: note

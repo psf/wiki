@@ -1,4 +1,4 @@
-# SprintFranceDec2011
+# Sprint France Dec 2011
 
 ```{admonition} Legacy Wiki Page
 :class: note

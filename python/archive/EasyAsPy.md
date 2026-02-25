@@ -1,4 +1,4 @@
-# EasyAsPy
+# Easy As Py
 
 ```{admonition} Legacy Wiki Page
 :class: note

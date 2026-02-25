@@ -1,4 +1,4 @@
-# Distutils/Cookbook/AutoDataDiscovery
+# Distutils / Cookbook / Auto Data Discovery
 
 ```{admonition} Legacy Wiki Page
 :class: note

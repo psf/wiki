@@ -1,4 +1,4 @@
-# LaunchpadTracker
+# Launchpad Tracker
 
 ```{admonition} Legacy Wiki Page
 :class: note

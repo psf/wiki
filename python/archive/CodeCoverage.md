@@ -1,4 +1,4 @@
-# CodeCoverage
+# Code Coverage
 
 ```{admonition} Legacy Wiki Page
 :class: note

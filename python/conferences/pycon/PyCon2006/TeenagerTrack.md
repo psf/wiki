@@ -1,4 +1,4 @@
-# PyCon2006/TeenagerTrack
+# PyCon 2006 / Teenager Track
 
 ```{admonition} Legacy Wiki Page
 :class: note

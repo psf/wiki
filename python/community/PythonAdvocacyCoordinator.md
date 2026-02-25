@@ -1,4 +1,4 @@
-# PythonAdvocacyCoordinator
+# Python Advocacy Coordinator
 
 ```{admonition} Legacy Wiki Page
 :class: note

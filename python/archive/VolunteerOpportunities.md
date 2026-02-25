@@ -1,4 +1,4 @@
-# VolunteerOpportunities
+# Volunteer Opportunities
 
 ```{admonition} Legacy Wiki Page
 :class: note

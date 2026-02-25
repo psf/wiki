@@ -1,4 +1,4 @@
-# ConfigParserGoals
+# Config Parser Goals
 
 ```{admonition} Legacy Wiki Page
 :class: note

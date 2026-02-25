@@ -1,4 +1,4 @@
-# FrequentlyRejectedIdeas
+# Frequently Rejected Ideas
 
 ```{admonition} Legacy Wiki Page
 :class: note

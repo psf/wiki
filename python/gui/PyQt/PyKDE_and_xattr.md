@@ -1,4 +1,4 @@
-# PyQt/PyKDE_and_xattr
+# PyQt / PyKDE and xattr
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Unit_Testing
+# PyQt / Unit Testing
 
 ```{admonition} Legacy Wiki Page
 :class: note

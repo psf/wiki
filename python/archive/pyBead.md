@@ -1,4 +1,4 @@
-# pyBead
+# Py Bead
 
 ```{admonition} Legacy Wiki Page
 :class: note

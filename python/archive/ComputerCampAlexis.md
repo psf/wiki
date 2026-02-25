@@ -1,4 +1,4 @@
-# ComputerCampAlexis
+# Computer Camp Alexis
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# SliceOverNegatives
+# Slice Over Negatives
 
 ```{admonition} Legacy Wiki Page
 :class: note

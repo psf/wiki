@@ -1,4 +1,4 @@
-# PaulMcGuire
+# Paul Mc Guire
 
 ```{admonition} Legacy Wiki Page
 :class: note

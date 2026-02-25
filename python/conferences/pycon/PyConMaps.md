@@ -1,4 +1,4 @@
-# PyConMaps
+# PyCon Maps
 
 ```{admonition} Legacy Wiki Page
 :class: note

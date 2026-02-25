@@ -1,4 +1,4 @@
-# Python2orPython3
+# Python 2or Python 3
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonHumor
+# Python Humor
 
 ```{admonition} Legacy Wiki Page
 :class: note

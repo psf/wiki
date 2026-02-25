@@ -1,4 +1,4 @@
-# PEP3107FunctionAnnotationsRehash
+# PEP 3107 Function Annotations Rehash
 
 ```{admonition} Legacy Wiki Page
 :class: note

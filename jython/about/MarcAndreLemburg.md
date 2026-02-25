@@ -1,4 +1,4 @@
-# MarcAndreLemburg
+# Marc Andre Lemburg
 
 ```{admonition} Legacy Wiki Page
 :class: note

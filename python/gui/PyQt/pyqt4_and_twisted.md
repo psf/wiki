@@ -1,4 +1,4 @@
-# PyQt/pyqt4_and_twisted
+# PyQt / PyQt4 and twisted
 
 ```{admonition} Legacy Wiki Page
 :class: note

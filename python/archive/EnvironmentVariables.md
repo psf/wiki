@@ -1,4 +1,4 @@
-# EnvironmentVariables
+# Environment Variables
 
 ```{admonition} Legacy Wiki Page
 :class: note

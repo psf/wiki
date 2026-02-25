@@ -1,4 +1,4 @@
-# RevisedPyPiCategories
+# Revised PyPI Categories
 
 ```{admonition} Legacy Wiki Page
 :class: note

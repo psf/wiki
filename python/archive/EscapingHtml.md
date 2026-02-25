@@ -1,4 +1,4 @@
-# EscapingHtml
+# Escaping HTML
 
 ```{admonition} Legacy Wiki Page
 :class: note

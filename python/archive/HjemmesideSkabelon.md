@@ -1,4 +1,4 @@
-# HjemmesideSkabelon
+# Hjemmeside Skabelon
 
 ```{admonition} Legacy Wiki Page
 :class: note

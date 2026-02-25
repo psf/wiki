@@ -1,4 +1,4 @@
-# SummerOfCode/2011/SetuptoolsFeatures/review
+# Summer of Code / 2011 / Setuptools Features / review
 
 ```{admonition} Legacy Wiki Page
 :class: note

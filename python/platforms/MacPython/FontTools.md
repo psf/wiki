@@ -1,4 +1,4 @@
-# MacPython/FontTools
+# MacPython / Font Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

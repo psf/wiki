@@ -1,4 +1,4 @@
-# PythonForSecurity
+# Python for Security
 
 ```{admonition} Legacy Wiki Page
 :class: note

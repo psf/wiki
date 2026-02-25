@@ -1,4 +1,4 @@
-# BobIppolito
+# Bob Ippolito
 
 ```{toctree}
 :maxdepth: 1

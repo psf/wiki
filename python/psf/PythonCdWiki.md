@@ -1,4 +1,4 @@
-# PythonCdWiki
+# Python Cd Wiki
 
 ```{admonition} Legacy Wiki Page
 :class: note

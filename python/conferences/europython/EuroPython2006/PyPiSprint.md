@@ -1,4 +1,4 @@
-# EuroPython2006/PyPiSprint
+# EuroPython 2006 / PyPI Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyOhio/Publicity
+# PyOhio / Publicity
 
 ```{admonition} Legacy Wiki Page
 :class: note

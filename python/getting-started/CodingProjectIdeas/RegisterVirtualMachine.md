@@ -1,4 +1,4 @@
-# CodingProjectIdeas/RegisterVirtualMachine
+# Coding Project Ideas / Register Virtual Machine
 
 ```{admonition} Legacy Wiki Page
 :class: note

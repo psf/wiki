@@ -1,4 +1,4 @@
-# EscapingXml
+# Escaping XML
 
 ```{admonition} Legacy Wiki Page
 :class: note

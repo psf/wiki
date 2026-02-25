@@ -1,4 +1,4 @@
-# NeedForSpeed/Summary of arrivals
+# Need for Speed / Summary of arrivals
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EduSig
+# Edu Sig
 
 ```{admonition} Legacy Wiki Page
 :class: note

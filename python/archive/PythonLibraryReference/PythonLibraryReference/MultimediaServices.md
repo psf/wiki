@@ -1,4 +1,4 @@
-# PythonLibraryReference/MultimediaServices
+# Python Library Reference / Multimedia Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

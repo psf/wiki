@@ -1,4 +1,4 @@
-# PythonLibraryReference/ThePythonProfiler
+# Python Library Reference / The Python Profiler
 
 ```{admonition} Legacy Wiki Page
 :class: note

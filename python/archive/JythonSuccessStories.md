@@ -1,4 +1,4 @@
-# JythonSuccessStories
+# Jython Success Stories
 
 ```{admonition} Legacy Wiki Page
 :class: note

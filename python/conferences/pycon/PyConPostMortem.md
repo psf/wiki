@@ -1,4 +1,4 @@
-# PyConPostMortem
+# PyCon Post Mortem
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# AutomatedRefactoringTools
+# Automated Refactoring Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

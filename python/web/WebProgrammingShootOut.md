@@ -1,4 +1,4 @@
-# WebProgrammingShootOut
+# Web Programming Shoot Out
 
 ```{admonition} Legacy Wiki Page
 :class: note

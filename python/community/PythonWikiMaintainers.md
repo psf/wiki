@@ -1,4 +1,4 @@
-# PythonWikiMaintainers
+# Python Wiki Maintainers
 
 ```{admonition} Legacy Wiki Page
 :class: note

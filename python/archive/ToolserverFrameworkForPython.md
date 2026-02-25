@@ -1,4 +1,4 @@
-# ToolserverFrameworkForPython
+# Toolserver Framework for Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

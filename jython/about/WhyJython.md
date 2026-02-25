@@ -1,4 +1,4 @@
-# WhyJython
+# Why Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

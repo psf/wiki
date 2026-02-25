@@ -1,4 +1,4 @@
-# PyCon2006/MobileUserAgents
+# PyCon 2006 / Mobile User Agents
 
 ```{admonition} Legacy Wiki Page
 :class: note

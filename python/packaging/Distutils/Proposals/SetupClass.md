@@ -1,4 +1,4 @@
-# Distutils/Proposals/SetupClass
+# Distutils / Proposals / Setup Class
 
 ```{admonition} Legacy Wiki Page
 :class: note

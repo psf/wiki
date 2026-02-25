@@ -1,4 +1,4 @@
-# Bangpypers
+# BangPypers
 
 ```{toctree}
 :maxdepth: 1

@@ -1,4 +1,4 @@
-# Distutils/Proposals/DependencySupport
+# Distutils / Proposals / Dependency Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

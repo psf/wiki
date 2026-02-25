@@ -1,4 +1,4 @@
-# WebwareSprint
+# Webware Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

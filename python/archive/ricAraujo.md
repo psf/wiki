@@ -1,4 +1,4 @@
-# ricAraujo
+# ric Araujo
 
 ```{admonition} Legacy Wiki Page
 :class: note

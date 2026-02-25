@@ -1,4 +1,4 @@
-# PyCon2006/Keynotes
+# PyCon 2006 / Keynotes
 
 ```{admonition} Legacy Wiki Page
 :class: note

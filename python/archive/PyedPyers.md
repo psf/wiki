@@ -1,4 +1,4 @@
-# PyedPyers
+# Pyed Pyers
 
 ```{admonition} Legacy Wiki Page
 :class: note

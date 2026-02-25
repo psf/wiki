@@ -1,4 +1,4 @@
-# WebStack
+# Web Stack
 
 ```{admonition} Legacy Wiki Page
 :class: note

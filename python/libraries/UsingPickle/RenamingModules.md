@@ -1,4 +1,4 @@
-# UsingPickle/RenamingModules
+# Using Pickle / Renaming Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

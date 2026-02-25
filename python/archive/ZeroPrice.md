@@ -1,4 +1,4 @@
-# ZeroPrice
+# Zero Price
 
 ```{admonition} Legacy Wiki Page
 :class: note

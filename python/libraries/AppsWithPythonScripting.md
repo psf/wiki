@@ -1,4 +1,4 @@
-# AppsWithPythonScripting
+# Apps with Python Scripting
 
 ```{admonition} Legacy Wiki Page
 :class: note

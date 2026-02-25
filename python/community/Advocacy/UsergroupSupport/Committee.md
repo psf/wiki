@@ -1,4 +1,4 @@
-# Advocacy/UsergroupSupport/Committee
+# Advocacy / Usergroup Support / Committee
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# RandomPage
+# Random Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyConIndia2010/VenueRequirements
+# PyCon India 2010 / Venue Requirements
 
 ```{admonition} Legacy Wiki Page
 :class: note

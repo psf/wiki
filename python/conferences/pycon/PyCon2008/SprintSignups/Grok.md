@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/Grok
+# PyCon 2008 / Sprint Signups / Grok
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MacPython/FileMakerProSixTerminology
+# MacPython / FileMaker Pro Six Terminology
 
 ```{admonition} Legacy Wiki Page
 :class: note

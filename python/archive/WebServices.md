@@ -1,4 +1,4 @@
-# WebServices
+# Web Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

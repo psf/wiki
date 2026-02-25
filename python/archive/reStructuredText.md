@@ -1,4 +1,4 @@
-# reStructuredText
+# re Structured Text
 
 ```{admonition} Legacy Wiki Page
 :class: note

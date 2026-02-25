@@ -1,4 +1,4 @@
-# PyConIndia2011/CFP
+# PyCon India 2011 / CFP
 
 ```{admonition} Legacy Wiki Page
 :class: note

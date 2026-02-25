@@ -1,4 +1,4 @@
-# boost.python/HowTo
+# boost.python / How to
 
 ```{admonition} Legacy Wiki Page
 :class: note

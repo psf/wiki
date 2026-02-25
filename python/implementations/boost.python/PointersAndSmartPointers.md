@@ -1,4 +1,4 @@
-# boost.python/PointersAndSmartPointers
+# boost.python / Pointers and Smart Pointers
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MissingFromDocumentation
+# Missing from Documentation
 
 ```{admonition} Legacy Wiki Page
 :class: note

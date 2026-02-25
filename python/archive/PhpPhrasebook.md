@@ -1,4 +1,4 @@
-# PhpPhrasebook
+# Php Phrasebook
 
 ```{admonition} Legacy Wiki Page
 :class: note

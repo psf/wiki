@@ -1,4 +1,4 @@
-# boost.python/WrappingEnums
+# boost.python / Wrapping Enums
 
 ```{admonition} Legacy Wiki Page
 :class: note

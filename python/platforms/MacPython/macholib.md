@@ -1,4 +1,4 @@
-# MacPython/macholib
+# MacPython / macholib
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonVsNice
+# Python vs Nice
 
 ```{admonition} Legacy Wiki Page
 :class: note

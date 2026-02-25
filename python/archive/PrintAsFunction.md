@@ -1,4 +1,4 @@
-# PrintAsFunction
+# Print As Function
 
 ```{admonition} Legacy Wiki Page
 :class: note

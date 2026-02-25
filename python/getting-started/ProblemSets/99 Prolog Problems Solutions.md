@@ -1,4 +1,4 @@
-# ProblemSets/99 Prolog Problems Solutions
+# Problem Sets / 99 Prolog Problems Solutions
 
 ```{admonition} Legacy Wiki Page
 :class: note

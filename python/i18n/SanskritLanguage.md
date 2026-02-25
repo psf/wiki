@@ -1,4 +1,4 @@
-# SanskritLanguage
+# Sanskrit Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

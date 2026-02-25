@@ -1,4 +1,4 @@
-# RegularExpression
+# Regular Expression
 
 ```{admonition} Legacy Wiki Page
 :class: note

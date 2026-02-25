@@ -1,4 +1,4 @@
-# SortingListsOfDictionaries
+# Sorting Lists of Dictionaries
 
 ```{admonition} Legacy Wiki Page
 :class: note

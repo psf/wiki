@@ -1,4 +1,4 @@
-# BeginnersGuide/OverviewChinese
+# Beginners Guide / Overview Chinese
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CategoryPythonIndia
+# Category Python India
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2007/ArticleForPythonPapers
+# EuroPython 2007 / Article for Python Papers
 
 ```{admonition} Legacy Wiki Page
 :class: note

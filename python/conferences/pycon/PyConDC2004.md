@@ -1,4 +1,4 @@
-# PyConDC2004
+# PyCon DC 2004
 
 ```{admonition} Legacy Wiki Page
 :class: note

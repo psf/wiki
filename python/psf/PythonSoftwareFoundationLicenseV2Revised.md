@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationLicenseV2Revised
+# Python Software Foundation License V 2 Revised
 
 ```{admonition} Legacy Wiki Page
 :class: note

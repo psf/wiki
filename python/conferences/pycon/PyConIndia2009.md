@@ -1,4 +1,4 @@
-# PyConIndia2009
+# PyCon India 2009
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CommunicationChairProcesses
+# Communication Chair Processes
 
 ```{admonition} Legacy Wiki Page
 :class: note

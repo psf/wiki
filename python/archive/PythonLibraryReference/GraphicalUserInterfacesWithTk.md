@@ -1,4 +1,4 @@
-# PythonLibraryReference/GraphicalUserInterfacesWithTk
+# Python Library Reference / Graphical User Interfaces with Tk
 
 ```{admonition} Legacy Wiki Page
 :class: note

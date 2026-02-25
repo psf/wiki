@@ -1,4 +1,4 @@
-# Advocacy/CollegeStudentKit
+# Advocacy / College Student Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

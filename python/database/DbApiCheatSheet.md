@@ -1,4 +1,4 @@
-# DbApiCheatSheet
+# DB API Cheat Sheet
 
 ```{admonition} Legacy Wiki Page
 :class: note

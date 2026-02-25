@@ -1,4 +1,4 @@
-# Console/Ascii_table
+# Console / ASCII table
 
 ```{admonition} Legacy Wiki Page
 :class: note

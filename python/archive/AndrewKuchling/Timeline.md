@@ -1,4 +1,4 @@
-# AndrewKuchling/Timeline
+# Andrew Kuchling / Timeline
 
 ```{admonition} Legacy Wiki Page
 :class: note

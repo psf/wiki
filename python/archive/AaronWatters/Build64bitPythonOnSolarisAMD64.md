@@ -1,4 +1,4 @@
-# AaronWatters/Build64bitPythonOnSolarisAMD64
+# Aaron Watters / Build 64bit Python on Solaris AMD 64
 
 ```{admonition} Legacy Wiki Page
 :class: note

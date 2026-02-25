@@ -1,4 +1,4 @@
-# TwistedMatrix
+# Twisted Matrix
 
 ```{admonition} Legacy Wiki Page
 :class: note

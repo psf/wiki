@@ -1,4 +1,4 @@
-# CodingProjectIdeas/TestingImprovements
+# Coding Project Ideas / Testing Improvements
 
 ```{admonition} Legacy Wiki Page
 :class: note

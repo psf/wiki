@@ -1,4 +1,4 @@
-# WikiCourse/17 External links
+# Wiki Course / 17 External links
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CodingProjectIdeas/PythonGarbageCollected
+# Coding Project Ideas / Python Garbage Collected
 
 ```{admonition} Legacy Wiki Page
 :class: note

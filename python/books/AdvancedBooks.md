@@ -1,4 +1,4 @@
-# AdvancedBooks
+# Advanced Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonQuestions
+# Python Questions
 
 ```{admonition} Legacy Wiki Page
 :class: note

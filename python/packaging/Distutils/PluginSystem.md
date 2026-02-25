@@ -1,4 +1,4 @@
-# Distutils/PluginSystem
+# Distutils / Plugin System
 
 ```{admonition} Legacy Wiki Page
 :class: note

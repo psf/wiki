@@ -1,4 +1,4 @@
-# PythonGraphLibraries
+# Python Graph Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

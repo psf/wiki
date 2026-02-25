@@ -1,4 +1,4 @@
-# AbsentModules
+# Absent Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

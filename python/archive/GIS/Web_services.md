@@ -1,4 +1,4 @@
-# GIS/Web_services
+# GIS / Web services
 
 ```{admonition} Legacy Wiki Page
 :class: note

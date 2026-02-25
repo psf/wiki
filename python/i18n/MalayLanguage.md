@@ -1,4 +1,4 @@
-# MalayLanguage
+# Malay Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

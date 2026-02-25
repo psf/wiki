@@ -1,4 +1,4 @@
-# ChoiceOfFreebies
+# Choice of Freebies
 
 ```{admonition} Legacy Wiki Page
 :class: note

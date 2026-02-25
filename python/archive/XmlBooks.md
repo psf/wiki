@@ -1,4 +1,4 @@
-# XmlBooks
+# XML Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PdbRcIdea
+# Pdb Rc Idea
 
 ```{admonition} Legacy Wiki Page
 :class: note

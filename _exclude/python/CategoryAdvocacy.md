@@ -1,4 +1,4 @@
-# CategoryAdvocacy
+# Category Advocacy
 
 ```{admonition} Legacy Wiki Page
 :class: note

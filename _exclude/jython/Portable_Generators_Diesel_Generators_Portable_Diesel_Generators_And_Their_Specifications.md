@@ -1,4 +1,4 @@
-# Portable_Generators_Diesel_Generators_Portable_Diesel_Generators_And_Their_Specifications
+# Portable Generators Diesel Generators Portable Diesel Generators and Their Specifications
 
 ```{admonition} Legacy Wiki Page
 :class: note

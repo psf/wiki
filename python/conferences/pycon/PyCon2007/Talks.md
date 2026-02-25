@@ -1,4 +1,4 @@
-# PyCon2007/Talks
+# PyCon 2007 / Talks
 
 ```{admonition} Legacy Wiki Page
 :class: note

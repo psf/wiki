@@ -1,4 +1,4 @@
-# Jython3000
+# Jython 3000
 
 ```{admonition} Legacy Wiki Page
 :class: note

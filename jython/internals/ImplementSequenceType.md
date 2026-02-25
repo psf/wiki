@@ -1,4 +1,4 @@
-# ImplementSequenceType
+# Implement Sequence Type
 
 ```{admonition} Legacy Wiki Page
 :class: note

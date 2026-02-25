@@ -1,4 +1,4 @@
-# PerlPhrasebook
+# Perl Phrasebook
 
 ```{admonition} Legacy Wiki Page
 :class: note

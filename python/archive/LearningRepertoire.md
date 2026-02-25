@@ -1,4 +1,4 @@
-# LearningRepertoire
+# Learning Repertoire
 
 ```{admonition} Legacy Wiki Page
 :class: note

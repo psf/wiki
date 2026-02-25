@@ -1,4 +1,4 @@
-# HilfeFürBenutzer
+# Hilfe Für Benutzer
 
 ```{admonition} Legacy Wiki Page
 :class: note

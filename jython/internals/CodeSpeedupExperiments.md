@@ -1,4 +1,4 @@
-# CodeSpeedupExperiments
+# Code Speedup Experiments
 
 ```{admonition} Legacy Wiki Page
 :class: note

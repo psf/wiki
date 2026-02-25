@@ -1,4 +1,4 @@
-# ModPython
+# Mod Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

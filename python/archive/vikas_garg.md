@@ -1,4 +1,4 @@
-# vikas_garg
+# vikas garg
 
 ```{admonition} Legacy Wiki Page
 :class: note

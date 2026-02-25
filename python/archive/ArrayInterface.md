@@ -1,4 +1,4 @@
-# ArrayInterface
+# Array Interface
 
 ```{admonition} Legacy Wiki Page
 :class: note

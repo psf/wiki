@@ -1,4 +1,4 @@
-# PyQt/Five minute steps in a QTimeEdit
+# PyQt / Five minute steps in a Q Time Edit
 
 ```{admonition} Legacy Wiki Page
 :class: note

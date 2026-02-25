@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/GettingStartedWithTwisted
+# PyCon 2006 / Tutorials / Getting Started with Twisted
 
 ```{admonition} Legacy Wiki Page
 :class: note

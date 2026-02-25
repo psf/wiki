@@ -1,4 +1,4 @@
-# LanguageParsing
+# Language Parsing
 
 ```{admonition} Legacy Wiki Page
 :class: note

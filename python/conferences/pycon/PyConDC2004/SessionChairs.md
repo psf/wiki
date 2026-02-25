@@ -1,4 +1,4 @@
-# PyConDC2004/SessionChairs
+# PyCon DC 2004 / Session Chairs
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/PythonAndDatabases
+# Advocacy Writing Tasks / Python and Databases
 
 ```{admonition} Legacy Wiki Page
 :class: note

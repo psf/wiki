@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/TextProcessing
+# PyCon 2006 / Tutorials / Text Processing
 
 ```{admonition} Legacy Wiki Page
 :class: note

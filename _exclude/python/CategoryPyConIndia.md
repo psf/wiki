@@ -1,4 +1,4 @@
-# CategoryPyConIndia
+# Category PyCon India
 
 ```{admonition} Legacy Wiki Page
 :class: note

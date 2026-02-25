@@ -1,4 +1,4 @@
-# InterSystems IRIS
+# Inter Systems IRIS
 
 ```{admonition} Legacy Wiki Page
 :class: note

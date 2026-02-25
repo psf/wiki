@@ -1,4 +1,4 @@
-# HierConfig
+# Hier Config
 
 ```{admonition} Legacy Wiki Page
 :class: note

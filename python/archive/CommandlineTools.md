@@ -1,4 +1,4 @@
-# CommandlineTools
+# Commandline Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

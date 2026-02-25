@@ -1,4 +1,4 @@
-# WikiCourse/01 What is a MoinMoin wiki?
+# Wiki Course / 01 What is a MoinMoin wiki?
 
 ```{admonition} Legacy Wiki Page
 :class: note

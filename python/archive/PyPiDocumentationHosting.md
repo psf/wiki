@@ -1,4 +1,4 @@
-# PyPiDocumentationHosting
+# PyPI Documentation Hosting
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# LeeEdwin
+# Lee Edwin
 
 ```{toctree}
 :maxdepth: 1

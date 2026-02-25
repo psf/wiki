@@ -1,4 +1,4 @@
-# PermissionDeniedPage
+# Permission Denied Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

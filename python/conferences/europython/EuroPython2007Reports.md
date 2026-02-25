@@ -1,4 +1,4 @@
-# EuroPython2007Reports
+# EuroPython 2007 Reports
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonDevEnvironments
+# Python Dev Environments
 
 ```{admonition} Legacy Wiki Page
 :class: note

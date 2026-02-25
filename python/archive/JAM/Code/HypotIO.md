@@ -1,4 +1,4 @@
-# JAM/Code/HypotIO
+# JAM / Code / Hypot IO
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ElementTree
+# Element Tree
 
 ```{admonition} Legacy Wiki Page
 :class: note

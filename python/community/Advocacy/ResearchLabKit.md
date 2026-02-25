@@ -1,4 +1,4 @@
-# Advocacy/ResearchLabKit
+# Advocacy / Research Lab Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

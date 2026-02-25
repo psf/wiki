@@ -1,4 +1,4 @@
-# JythonNews
+# Jython News
 
 ```{admonition} Legacy Wiki Page
 :class: note

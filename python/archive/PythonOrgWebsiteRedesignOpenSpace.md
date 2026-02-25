@@ -1,4 +1,4 @@
-# PythonOrgWebsiteRedesignOpenSpace
+# Python Org Website Redesign Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

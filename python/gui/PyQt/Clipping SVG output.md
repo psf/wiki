@@ -1,4 +1,4 @@
-# PyQt/Clipping SVG output
+# PyQt / Clipping SVG output
 
 ```{admonition} Legacy Wiki Page
 :class: note

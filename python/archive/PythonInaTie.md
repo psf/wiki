@@ -1,4 +1,4 @@
-# PythonInaTie
+# Python Ina Tie
 
 ```{admonition} Legacy Wiki Page
 :class: note

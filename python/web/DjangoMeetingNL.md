@@ -1,4 +1,4 @@
-# DjangoMeetingNL
+# Django Meeting NL
 
 ```{admonition} Legacy Wiki Page
 :class: note

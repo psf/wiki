@@ -1,4 +1,4 @@
-# OtherExamples
+# Other Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

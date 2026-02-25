@@ -1,4 +1,4 @@
-# ReplaceJythonc
+# Replace Jythonc
 
 ```{admonition} Legacy Wiki Page
 :class: note

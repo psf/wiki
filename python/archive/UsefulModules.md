@@ -1,4 +1,4 @@
-# UsefulModules
+# Useful Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

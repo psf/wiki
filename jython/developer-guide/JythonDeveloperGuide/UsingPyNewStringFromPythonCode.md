@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/UsingPyNewStringFromPythonCode
+# Jython Developer Guide / Using PyNew String from Python Code
 
 ```{admonition} Legacy Wiki Page
 :class: note

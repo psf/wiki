@@ -1,4 +1,4 @@
-# PyconIndiaChecklist
+# PyCon India Checklist
 
 ```{admonition} Legacy Wiki Page
 :class: note

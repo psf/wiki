@@ -1,4 +1,4 @@
-# FreeMemory
+# Free Memory
 
 ```{admonition} Legacy Wiki Page
 :class: note

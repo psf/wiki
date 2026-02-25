@@ -1,4 +1,4 @@
-# WikiCourse/13 Lists
+# Wiki Course / 13 Lists
 
 ```{admonition} Legacy Wiki Page
 :class: note

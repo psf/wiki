@@ -1,4 +1,4 @@
-# CodeSpeedupExperiments/PyByteCode
+# Code Speedup Experiments / PyByte Code
 
 ```{admonition} Legacy Wiki Page
 :class: note

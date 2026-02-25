@@ -1,4 +1,4 @@
-# GnomePython
+# Gnome Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

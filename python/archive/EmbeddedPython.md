@@ -1,4 +1,4 @@
-# EmbeddedPython
+# Embedded Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

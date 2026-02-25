@@ -1,4 +1,4 @@
-# WikiCourse/04 Creating a wiki account
+# Wiki Course / 04 Creating a wiki account
 
 ```{admonition} Legacy Wiki Page
 :class: note

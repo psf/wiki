@@ -1,4 +1,4 @@
-# PyConDC2005/OpenSpace
+# PyCon DC 2005 / Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

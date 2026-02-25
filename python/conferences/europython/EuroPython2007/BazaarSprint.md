@@ -1,4 +1,4 @@
-# EuroPython2007/BazaarSprint
+# EuroPython 2007 / Bazaar Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyrexOnWindows
+# Pyrex on Windows
 
 ```{admonition} Legacy Wiki Page
 :class: note

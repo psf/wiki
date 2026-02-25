@@ -1,4 +1,4 @@
-# CategoryUsergroups
+# Category Usergroups
 
 ```{admonition} Legacy Wiki Page
 :class: note

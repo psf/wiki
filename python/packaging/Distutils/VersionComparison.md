@@ -1,4 +1,4 @@
-# Distutils/VersionComparison
+# Distutils / Version Comparison
 
 ```{admonition} Legacy Wiki Page
 :class: note

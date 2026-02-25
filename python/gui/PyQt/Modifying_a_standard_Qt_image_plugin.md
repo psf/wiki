@@ -1,4 +1,4 @@
-# PyQt/Modifying_a_standard_Qt_image_plugin
+# PyQt / Modifying a standard Qt image plugin
 
 ```{admonition} Legacy Wiki Page
 :class: note

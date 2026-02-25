@@ -1,4 +1,4 @@
-# UbuntuInstall
+# Ubuntu Install
 
 ```{admonition} Legacy Wiki Page
 :class: note

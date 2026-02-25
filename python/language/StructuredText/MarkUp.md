@@ -1,4 +1,4 @@
-# StructuredText/MarkUp
+# Structured Text / Mark Up
 
 ```{admonition} Legacy Wiki Page
 :class: note

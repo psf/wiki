@@ -1,4 +1,4 @@
-# PyQt/Multimedia_Resources/MPlayerWidget
+# PyQt / Multimedia Resources / M Player Widget
 
 ```{admonition} Legacy Wiki Page
 :class: note

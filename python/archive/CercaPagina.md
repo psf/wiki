@@ -1,4 +1,4 @@
-# CercaPagina
+# Cerca Pagina
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2007Django
+# EuroPython 2007 Django
 
 ```{admonition} Legacy Wiki Page
 :class: note

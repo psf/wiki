@@ -1,4 +1,4 @@
-# VersionTransition
+# Version Transition
 
 ```{admonition} Legacy Wiki Page
 :class: note

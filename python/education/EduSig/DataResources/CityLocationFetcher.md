@@ -1,4 +1,4 @@
-# EduSig/DataResources/CityLocationFetcher
+# Edu Sig / Data Resources / City Location Fetcher
 
 ```{admonition} Legacy Wiki Page
 :class: note

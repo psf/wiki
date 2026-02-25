@@ -1,4 +1,4 @@
-# AlternativePathModule
+# Alternative Path Module
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# AttributeBasedSyntax
+# Attribute Based Syntax
 
 ```{admonition} Legacy Wiki Page
 :class: note

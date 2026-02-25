@@ -1,4 +1,4 @@
-# BeginnersGuide/Programmers/SimpleExamples
+# Beginners Guide / Programmers / Simple Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

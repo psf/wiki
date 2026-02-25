@@ -1,4 +1,4 @@
-# BuildStatically
+# Build Statically
 
 ```{admonition} Legacy Wiki Page
 :class: note

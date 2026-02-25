@@ -1,4 +1,4 @@
-# LinkedInPythonIndividuals
+# LinkedIn Python Individuals
 
 ```{admonition} Legacy Wiki Page
 :class: note

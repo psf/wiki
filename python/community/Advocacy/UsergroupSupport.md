@@ -1,4 +1,4 @@
-# Advocacy/UsergroupSupport
+# Advocacy / Usergroup Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

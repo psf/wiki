@@ -1,4 +1,4 @@
-# WikiCourse/52 Structure in the wiki
+# Wiki Course / 52 Structure in the wiki
 
 ```{admonition} Legacy Wiki Page
 :class: note

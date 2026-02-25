@@ -1,4 +1,4 @@
-# PythonBarCamp/DC
+# Python Bar Camp / DC
 
 ```{admonition} Legacy Wiki Page
 :class: note

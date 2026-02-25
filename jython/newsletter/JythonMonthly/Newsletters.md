@@ -1,4 +1,4 @@
-# JythonMonthly/Newsletters
+# Jython Monthly / Newsletters
 
 ```{admonition} Legacy Wiki Page
 :class: note

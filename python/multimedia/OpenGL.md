@@ -1,4 +1,4 @@
-# OpenGL
+# Open GL
 
 ```{admonition} Legacy Wiki Page
 :class: note

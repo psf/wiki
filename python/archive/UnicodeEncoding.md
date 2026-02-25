@@ -1,4 +1,4 @@
-# UnicodeEncoding
+# Unicode Encoding
 
 ```{admonition} Legacy Wiki Page
 :class: note

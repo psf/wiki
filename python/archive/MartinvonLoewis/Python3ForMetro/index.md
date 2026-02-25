@@ -1,4 +1,4 @@
-# Python3Formetro
+# Python 3 Formetro
 
 ```{toctree}
 :maxdepth: 1

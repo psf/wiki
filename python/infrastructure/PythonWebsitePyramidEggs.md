@@ -1,4 +1,4 @@
-# PythonWebsitePyramidEggs
+# Python Website Pyramid Eggs
 
 ```{admonition} Legacy Wiki Page
 :class: note

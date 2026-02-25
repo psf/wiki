@@ -1,4 +1,4 @@
-# NeedForSpeed/Goals
+# Need for Speed / Goals
 
 ```{admonition} Legacy Wiki Page
 :class: note

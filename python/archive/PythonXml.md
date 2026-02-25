@@ -1,4 +1,4 @@
-# PythonXml
+# Python XML
 
 ```{admonition} Legacy Wiki Page
 :class: note

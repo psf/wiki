@@ -1,4 +1,4 @@
-# PyQt/Movie splash screen
+# PyQt / Movie splash screen
 
 ```{admonition} Legacy Wiki Page
 :class: note

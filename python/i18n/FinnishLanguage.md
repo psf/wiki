@@ -1,4 +1,4 @@
-# FinnishLanguage
+# Finnish Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

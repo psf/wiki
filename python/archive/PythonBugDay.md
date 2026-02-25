@@ -1,4 +1,4 @@
-# PythonBugDay
+# Python Bug Day
 
 ```{admonition} Legacy Wiki Page
 :class: note

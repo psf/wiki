@@ -1,4 +1,4 @@
-# Admin/NewUsers
+# Admin / New Users
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# SeaPig
+# Sea Pig
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonLibraryReference/HistoryAndLicense
+# Python Library Reference / History and License
 
 ```{admonition} Legacy Wiki Page
 :class: note

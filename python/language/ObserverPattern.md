@@ -1,4 +1,4 @@
-# ObserverPattern
+# Observer Pattern
 
 ```{admonition} Legacy Wiki Page
 :class: note

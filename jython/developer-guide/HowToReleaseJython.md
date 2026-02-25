@@ -1,4 +1,4 @@
-# HowToReleaseJython
+# How to Release Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

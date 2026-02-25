@@ -1,4 +1,4 @@
-# HomepagePrivatePageTemplate
+# Homepage Private Page Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

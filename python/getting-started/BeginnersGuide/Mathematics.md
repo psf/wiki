@@ -1,4 +1,4 @@
-# BeginnersGuide/Mathematics
+# Beginners Guide / Mathematics
 
 ```{admonition} Legacy Wiki Page
 :class: note

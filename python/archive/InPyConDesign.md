@@ -1,4 +1,4 @@
-# InPyConDesign
+# InPyCon Design
 
 ```{admonition} Legacy Wiki Page
 :class: note

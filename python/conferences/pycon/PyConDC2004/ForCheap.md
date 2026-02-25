@@ -1,4 +1,4 @@
-# PyConDC2004/ForCheap
+# PyCon DC 2004 / For Cheap
 
 ```{admonition} Legacy Wiki Page
 :class: note

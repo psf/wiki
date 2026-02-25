@@ -1,4 +1,4 @@
-# boost.python/CrossExtensionModuleDependencies
+# boost.python / Cross Extension Module Dependencies
 
 ```{admonition} Legacy Wiki Page
 :class: note

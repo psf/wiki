@@ -1,4 +1,4 @@
-# TkZinc
+# Tk Zinc
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# OpenEmbedded
+# Open Embedded
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonLore
+# Python Lore
 
 ```{admonition} Legacy Wiki Page
 :class: note

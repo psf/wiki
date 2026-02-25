@@ -1,4 +1,4 @@
-# JythonBooks
+# Jython Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

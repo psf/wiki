@@ -1,4 +1,4 @@
-# DvcsComparison
+# Dvcs Comparison
 
 ```{admonition} Legacy Wiki Page
 :class: note

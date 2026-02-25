@@ -1,4 +1,4 @@
-# Bylaws/BylawsAgenda
+# Bylaws / Bylaws Agenda
 
 ```{admonition} Legacy Wiki Page
 :class: note

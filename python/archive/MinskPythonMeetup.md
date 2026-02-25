@@ -1,4 +1,4 @@
-# MinskPythonMeetup
+# Minsk Python Meetup
 
 ```{admonition} Legacy Wiki Page
 :class: note

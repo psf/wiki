@@ -1,4 +1,4 @@
-# CategoryPhotos
+# Category Photos
 
 ```{admonition} Legacy Wiki Page
 :class: note

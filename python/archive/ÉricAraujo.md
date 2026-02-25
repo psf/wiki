@@ -1,4 +1,4 @@
-# ÉricAraujo
+# Éric Araujo
 
 ```{admonition} Legacy Wiki Page
 :class: note

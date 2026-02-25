@@ -1,4 +1,4 @@
-# GuiProgramming
+# GUI Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

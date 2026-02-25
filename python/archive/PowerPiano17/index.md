@@ -1,4 +1,4 @@
-# Powerpiano17
+# Powerpiano 17
 
 ```{toctree}
 :maxdepth: 1

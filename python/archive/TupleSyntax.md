@@ -1,4 +1,4 @@
-# TupleSyntax
+# Tuple Syntax
 
 ```{admonition} Legacy Wiki Page
 :class: note

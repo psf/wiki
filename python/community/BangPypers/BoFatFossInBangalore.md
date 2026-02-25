@@ -1,4 +1,4 @@
-# BangPypers/BoFatFossInBangalore
+# BangPypers / Bo Fat Foss in Bangalore
 
 ```{admonition} Legacy Wiki Page
 :class: note

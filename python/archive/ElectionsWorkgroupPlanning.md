@@ -1,4 +1,4 @@
-# ElectionsWorkgroupPlanning
+# Elections Workgroup Planning
 
 ```{admonition} Legacy Wiki Page
 :class: note

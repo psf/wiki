@@ -1,4 +1,4 @@
-# SoYouWanna
+# So You Wanna
 
 ```{admonition} Legacy Wiki Page
 :class: note

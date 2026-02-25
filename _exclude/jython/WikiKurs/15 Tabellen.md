@@ -1,4 +1,4 @@
-# WikiKurs/15 Tabellen
+# Wiki Kurs / 15 Tabellen
 
 ```{admonition} Legacy Wiki Page
 :class: note

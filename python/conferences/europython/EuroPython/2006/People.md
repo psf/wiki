@@ -1,4 +1,4 @@
-# EuroPython/2006/People
+# EuroPython / 2006 / People
 
 ```{admonition} Legacy Wiki Page
 :class: note

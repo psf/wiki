@@ -1,4 +1,4 @@
-# SpeedUpInterpreterStartup
+# Speed Up Interpreter Startup
 
 ```{admonition} Legacy Wiki Page
 :class: note

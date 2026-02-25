@@ -1,4 +1,4 @@
-# PyGtk2Tk
+# PyGTK 2 Tk
 
 ```{admonition} Legacy Wiki Page
 :class: note

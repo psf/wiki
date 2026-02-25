@@ -1,4 +1,4 @@
-# TahoeMentors
+# Tahoe Mentors
 
 ```{admonition} Legacy Wiki Page
 :class: note

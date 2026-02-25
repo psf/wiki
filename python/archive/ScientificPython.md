@@ -1,4 +1,4 @@
-# ScientificPython
+# Scientifi CPython
 
 ```{admonition} Legacy Wiki Page
 :class: note

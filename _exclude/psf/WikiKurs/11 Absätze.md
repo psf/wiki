@@ -1,4 +1,4 @@
-# WikiKurs/11 Absätze
+# Wiki Kurs / 11 Absätze
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2020/PackagingSprint
+# EuroPython 2020 / Packaging Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyCon2006/ForTutorialInstructors
+# PyCon 2006 / For Tutorial Instructors
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyDSTool
+# PyDS Tool
 
 ```{admonition} Legacy Wiki Page
 :class: note

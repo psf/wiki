@@ -1,4 +1,4 @@
-# EuroPython/2007/SuggestionBox
+# EuroPython / 2007 / Suggestion Box
 
 ```{admonition} Legacy Wiki Page
 :class: note

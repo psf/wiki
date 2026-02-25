@@ -1,4 +1,4 @@
-# PyCon2006/Schedule
+# PyCon 2006 / Schedule
 
 ```{admonition} Legacy Wiki Page
 :class: note

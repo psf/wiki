@@ -1,4 +1,4 @@
-# ImageMagick
+# Image Magick
 
 ```{admonition} Legacy Wiki Page
 :class: note

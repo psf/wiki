@@ -1,4 +1,4 @@
-# ClearSilver
+# Clear Silver
 
 ```{admonition} Legacy Wiki Page
 :class: note

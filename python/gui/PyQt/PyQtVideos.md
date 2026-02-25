@@ -1,4 +1,4 @@
-# PyQt/PyQtVideos
+# PyQt / PyQt Videos
 
 ```{admonition} Legacy Wiki Page
 :class: note

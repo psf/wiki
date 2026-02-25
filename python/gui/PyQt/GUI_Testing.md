@@ -1,4 +1,4 @@
-# PyQt/GUI_Testing
+# PyQt / GUI Testing
 
 ```{admonition} Legacy Wiki Page
 :class: note

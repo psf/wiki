@@ -1,4 +1,4 @@
-# SlovakLanguage
+# Slovak Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

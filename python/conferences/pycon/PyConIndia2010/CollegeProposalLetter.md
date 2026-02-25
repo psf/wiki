@@ -1,4 +1,4 @@
-# PyConIndia2010/CollegeProposalLetter
+# PyCon India 2010 / College Proposal Letter
 
 ```{admonition} Legacy Wiki Page
 :class: note

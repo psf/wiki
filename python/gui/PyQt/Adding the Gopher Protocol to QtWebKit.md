@@ -1,4 +1,4 @@
-# PyQt/Adding the Gopher Protocol to QtWebKit
+# PyQt / Adding the Gopher Protocol to Qt Web Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

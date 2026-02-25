@@ -1,4 +1,4 @@
-# EuroPython/2007/FeeStructureAttendees
+# EuroPython / 2007 / Fee Structure Attendees
 
 ```{admonition} Legacy Wiki Page
 :class: note

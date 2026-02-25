@@ -1,4 +1,4 @@
-# Asking for Help/PythonFramework-x.x.pkg installation fails. Is there a workaround?
+# Asking for Help / Python Framework-x.x.pkg installation fails. is there a workaround?
 
 ```{admonition} Legacy Wiki Page
 :class: note

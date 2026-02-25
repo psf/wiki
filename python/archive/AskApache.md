@@ -1,4 +1,4 @@
-# AskApache
+# Ask Apache
 
 ```{admonition} Legacy Wiki Page
 :class: note

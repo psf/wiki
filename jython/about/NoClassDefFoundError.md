@@ -1,4 +1,4 @@
-# NoClassDefFoundError
+# No Class Def Found Error
 
 ```{admonition} Legacy Wiki Page
 :class: note

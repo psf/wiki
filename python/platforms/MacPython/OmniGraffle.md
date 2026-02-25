@@ -1,4 +1,4 @@
-# MacPython/OmniGraffle
+# MacPython / Omni Graffle
 
 ```{admonition} Legacy Wiki Page
 :class: note

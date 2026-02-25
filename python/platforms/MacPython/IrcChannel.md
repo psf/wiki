@@ -1,4 +1,4 @@
-# MacPython/IrcChannel
+# MacPython / IRC Channel
 
 ```{admonition} Legacy Wiki Page
 :class: note

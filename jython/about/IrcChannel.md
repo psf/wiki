@@ -1,4 +1,4 @@
-# IrcChannel
+# IRC Channel
 
 ```{admonition} Legacy Wiki Page
 :class: note

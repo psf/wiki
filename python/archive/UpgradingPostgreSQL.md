@@ -1,4 +1,4 @@
-# UpgradingPostgreSQL
+# Upgrading PostgreSQL
 
 ```{admonition} Legacy Wiki Page
 :class: note

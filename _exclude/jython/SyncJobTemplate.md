@@ -1,4 +1,4 @@
-# SyncJobTemplate
+# Sync Job Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

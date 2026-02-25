@@ -1,4 +1,4 @@
-# SiacNyse
+# Siac Nyse
 
 ```{admonition} Legacy Wiki Page
 :class: note

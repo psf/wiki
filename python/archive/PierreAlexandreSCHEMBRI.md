@@ -1,4 +1,4 @@
-# PierreAlexandreSCHEMBRI
+# Pierre Alexandre SCHEMBRI
 
 ```{admonition} Legacy Wiki Page
 :class: note

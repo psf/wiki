@@ -1,4 +1,4 @@
-# PromotingPythonBof
+# Promoting Python BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# KoreanLanguage
+# Korean Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

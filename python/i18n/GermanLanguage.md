@@ -1,4 +1,4 @@
-# GermanLanguage
+# German Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

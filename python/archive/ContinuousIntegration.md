@@ -1,4 +1,4 @@
-# ContinuousIntegration
+# Continuous Integration
 
 ```{admonition} Legacy Wiki Page
 :class: note

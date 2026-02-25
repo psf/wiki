@@ -1,4 +1,4 @@
-# JapaneseLanguage
+# Japanese Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Python12
+# Python 12
 
 ```{admonition} Legacy Wiki Page
 :class: note

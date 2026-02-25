@@ -1,4 +1,4 @@
-# PythonLibraryReference/MsWindowsSpecificServices
+# Python Library Reference / Ms Windows Specific Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

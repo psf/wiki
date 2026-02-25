@@ -1,4 +1,4 @@
-# NumericBooks
+# Numeric Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

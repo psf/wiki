@@ -1,4 +1,4 @@
-# WxWindows
+# wx Windows
 
 ```{admonition} Legacy Wiki Page
 :class: note

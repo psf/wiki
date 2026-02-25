@@ -1,4 +1,4 @@
-# PastCPUGMeetups
+# Past CPUG Meetups
 
 ```{admonition} Legacy Wiki Page
 :class: note

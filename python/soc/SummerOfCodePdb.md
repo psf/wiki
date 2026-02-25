@@ -1,4 +1,4 @@
-# SummerOfCodePdb
+# Summer of Code Pdb
 
 ```{admonition} Legacy Wiki Page
 :class: note

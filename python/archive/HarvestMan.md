@@ -1,4 +1,4 @@
-# HarvestMan
+# Harvest Man
 
 ```{admonition} Legacy Wiki Page
 :class: note

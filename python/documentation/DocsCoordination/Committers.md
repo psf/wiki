@@ -1,4 +1,4 @@
-# DocsCoordination/Committers
+# Docs Coordination / Committers
 
 ```{admonition} Legacy Wiki Page
 :class: note

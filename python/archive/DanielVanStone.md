@@ -1,4 +1,4 @@
-# DanielVanStone
+# Daniel Van Stone
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# SysPackageManager
+# Sys Package Manager
 
 ```{admonition} Legacy Wiki Page
 :class: note

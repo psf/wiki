@@ -1,4 +1,4 @@
-# AidesDiverses/FonctionnalitésExpérimentales
+# Aides Diverses / Fonctionnalités Expérimentales
 
 ```{admonition} Legacy Wiki Page
 :class: note

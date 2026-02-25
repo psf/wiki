@@ -1,4 +1,4 @@
-# JythonNutpad
+# Jython Nutpad
 
 ```{admonition} Legacy Wiki Page
 :class: note

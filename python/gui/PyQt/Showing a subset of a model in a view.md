@@ -1,4 +1,4 @@
-# PyQt/Showing a subset of a model in a view
+# PyQt / Showing a subset of a model in a view
 
 ```{admonition} Legacy Wiki Page
 :class: note

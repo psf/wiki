@@ -1,4 +1,4 @@
-# PyQt/Exporting a file to other applications
+# PyQt / Exporting a file to other applications
 
 ```{admonition} Legacy Wiki Page
 :class: note

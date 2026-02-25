@@ -1,4 +1,4 @@
-# PythonMugSignup
+# Python Mug Signup
 
 ```{admonition} Legacy Wiki Page
 :class: note

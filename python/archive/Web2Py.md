@@ -1,4 +1,4 @@
-# Web2Py
+# Web 2 Py
 
 ```{admonition} Legacy Wiki Page
 :class: note

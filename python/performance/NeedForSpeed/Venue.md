@@ -1,4 +1,4 @@
-# NeedForSpeed/Venue
+# Need for Speed / Venue
 
 ```{admonition} Legacy Wiki Page
 :class: note

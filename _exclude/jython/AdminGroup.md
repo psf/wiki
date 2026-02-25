@@ -1,4 +1,4 @@
-# AdminGroup
+# Admin Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

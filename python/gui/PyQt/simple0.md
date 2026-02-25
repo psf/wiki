@@ -1,4 +1,4 @@
-# PyQt/simple0
+# PyQt / simple 0
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MacPython/AEDesc
+# MacPython / AE Desc
 
 ```{admonition} Legacy Wiki Page
 :class: note

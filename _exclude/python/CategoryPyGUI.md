@@ -1,4 +1,4 @@
-# CategoryPyGUI
+# Category PyGUI
 
 ```{admonition} Legacy Wiki Page
 :class: note

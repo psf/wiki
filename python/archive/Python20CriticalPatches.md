@@ -1,4 +1,4 @@
-# Python20CriticalPatches
+# Python 20 Critical Patches
 
 ```{admonition} Legacy Wiki Page
 :class: note

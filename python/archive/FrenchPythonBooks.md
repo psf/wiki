@@ -1,4 +1,4 @@
-# FrenchPythonBooks
+# French Python Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

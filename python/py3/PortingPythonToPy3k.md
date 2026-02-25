@@ -1,4 +1,4 @@
-# PortingPythonToPy3k
+# Porting Python to Py3k
 
 ```{admonition} Legacy Wiki Page
 :class: note

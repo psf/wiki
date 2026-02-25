@@ -1,4 +1,4 @@
-# LocalBadContent
+# Local Bad Content
 
 ```{admonition} Legacy Wiki Page
 :class: note

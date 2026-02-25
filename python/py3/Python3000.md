@@ -1,4 +1,4 @@
-# Python3000
+# Python 3000
 
 ```{admonition} Legacy Wiki Page
 :class: note

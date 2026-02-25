@@ -1,4 +1,4 @@
-# PyConDC2003/Papers
+# PyCon DC 2003 / Papers
 
 ```{admonition} Legacy Wiki Page
 :class: note

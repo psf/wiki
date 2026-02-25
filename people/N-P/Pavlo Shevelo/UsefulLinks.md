@@ -1,4 +1,4 @@
-# PavloShevelo/UsefulLinks
+# Pavlo Shevelo / Useful Links
 
 ```{admonition} Legacy Wiki Page
 :class: note

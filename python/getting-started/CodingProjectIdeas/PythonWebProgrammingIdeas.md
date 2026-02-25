@@ -1,4 +1,4 @@
-# CodingProjectIdeas/PythonWebProgrammingIdeas
+# Coding Project Ideas / Python Web Programming Ideas
 
 ```{admonition} Legacy Wiki Page
 :class: note

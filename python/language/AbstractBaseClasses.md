@@ -1,4 +1,4 @@
-# AbstractBaseClasses
+# Abstract Base Classes
 
 ```{admonition} Legacy Wiki Page
 :class: note

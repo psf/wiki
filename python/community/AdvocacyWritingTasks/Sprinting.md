@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/Sprinting
+# Advocacy Writing Tasks / Sprinting
 
 ```{admonition} Legacy Wiki Page
 :class: note

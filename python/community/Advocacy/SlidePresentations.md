@@ -1,4 +1,4 @@
-# Advocacy/SlidePresentations
+# Advocacy / Slide Presentations
 
 ```{admonition} Legacy Wiki Page
 :class: note

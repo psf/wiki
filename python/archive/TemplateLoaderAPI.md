@@ -1,4 +1,4 @@
-# TemplateLoaderAPI
+# Template Loader API
 
 ```{admonition} Legacy Wiki Page
 :class: note

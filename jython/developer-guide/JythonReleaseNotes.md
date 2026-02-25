@@ -1,4 +1,4 @@
-# JythonReleaseNotes
+# Jython Release Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyConPlanning/Swag
+# PyCon Planning / Swag
 
 ```{admonition} Legacy Wiki Page
 :class: note

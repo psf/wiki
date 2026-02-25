@@ -1,4 +1,4 @@
-# DistutilsTesting
+# Distutils Testing
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonWebModules
+# Python Web Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

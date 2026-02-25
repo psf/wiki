@@ -1,4 +1,4 @@
-# PyCon2008/BoardGameEvent
+# PyCon 2008 / Board Game Event
 
 ```{admonition} Legacy Wiki Page
 :class: note

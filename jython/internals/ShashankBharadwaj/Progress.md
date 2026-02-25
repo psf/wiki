@@ -1,4 +1,4 @@
-# ShashankBharadwaj/Progress
+# Shashank Bharadwaj / Progress
 
 ```{admonition} Legacy Wiki Page
 :class: note

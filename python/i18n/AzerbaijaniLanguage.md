@@ -1,4 +1,4 @@
-# AzerbaijaniLanguage
+# Azerbaijani Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

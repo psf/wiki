@@ -1,4 +1,4 @@
-# Advocacy/5MinuteVideos
+# Advocacy / 5 Minute Videos
 
 ```{admonition} Legacy Wiki Page
 :class: note

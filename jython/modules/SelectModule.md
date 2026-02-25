@@ -1,4 +1,4 @@
-# SelectModule
+# Select Module
 
 ```{admonition} Legacy Wiki Page
 :class: note

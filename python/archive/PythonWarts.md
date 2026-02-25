@@ -1,4 +1,4 @@
-# PythonWarts
+# Python Warts
 
 ```{admonition} Legacy Wiki Page
 :class: note

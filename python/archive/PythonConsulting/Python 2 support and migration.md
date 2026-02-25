@@ -1,4 +1,4 @@
-# PythonConsulting/Python 2 support and migration
+# Python Consulting / Python 2 support and migration
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Concurrency/TipsAndTricks
+# Concurrency / Tips and Tricks
 
 ```{admonition} Legacy Wiki Page
 :class: note

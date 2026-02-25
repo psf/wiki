@@ -1,4 +1,4 @@
-# CategoryDistutilsCookbook
+# Category Distutils Cookbook
 
 ```{admonition} Legacy Wiki Page
 :class: note

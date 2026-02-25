@@ -1,4 +1,4 @@
-# CodingProjectIdeas/Libraries
+# Coding Project Ideas / Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

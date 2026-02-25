@@ -1,4 +1,4 @@
-# DatabaseInterfaces
+# Database Interfaces
 
 ```{admonition} Legacy Wiki Page
 :class: note

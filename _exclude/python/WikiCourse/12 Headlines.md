@@ -1,4 +1,4 @@
-# WikiCourse/12 Headlines
+# Wiki Course / 12 Headlines
 
 ```{admonition} Legacy Wiki Page
 :class: note

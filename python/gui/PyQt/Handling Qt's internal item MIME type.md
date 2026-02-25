@@ -1,4 +1,4 @@
-# PyQt/Handling Qt's internal item MIME type
+# PyQt / Handling Qt's internal item MIME type
 
 ```{admonition} Legacy Wiki Page
 :class: note

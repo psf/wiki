@@ -1,4 +1,4 @@
-# CursesProgrammingLinks
+# Curses Programming Links
 
 ```{admonition} Legacy Wiki Page
 :class: note

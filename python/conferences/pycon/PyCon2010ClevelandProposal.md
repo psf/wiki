@@ -1,4 +1,4 @@
-# PyCon2010ClevelandProposal
+# PyCon 2010 Cleveland Proposal
 
 ```{admonition} Legacy Wiki Page
 :class: note

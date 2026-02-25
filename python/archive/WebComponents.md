@@ -1,4 +1,4 @@
-# WebComponents
+# Web Components
 
 ```{admonition} Legacy Wiki Page
 :class: note

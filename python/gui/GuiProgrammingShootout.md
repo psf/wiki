@@ -1,4 +1,4 @@
-# GuiProgrammingShootout
+# GUI Programming Shootout
 
 ```{admonition} Legacy Wiki Page
 :class: note

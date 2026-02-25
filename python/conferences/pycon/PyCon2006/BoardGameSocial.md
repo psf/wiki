@@ -1,4 +1,4 @@
-# PyCon2006/BoardGameSocial
+# PyCon 2006 / Board Game Social
 
 ```{admonition} Legacy Wiki Page
 :class: note

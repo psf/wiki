@@ -1,4 +1,4 @@
-# EricLewin/DiscussionPage
+# Eric Lewin / Discussion Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

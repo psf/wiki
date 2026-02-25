@@ -1,4 +1,4 @@
-# DummyPage
+# Dummy Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

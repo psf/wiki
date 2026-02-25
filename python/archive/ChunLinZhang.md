@@ -1,4 +1,4 @@
-# ChunLinZhang
+# Chun Lin Zhang
 
 ```{admonition} Legacy Wiki Page
 :class: note

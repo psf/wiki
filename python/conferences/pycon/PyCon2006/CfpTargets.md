@@ -1,4 +1,4 @@
-# PyCon2006/CfpTargets
+# PyCon 2006 / Cfp Targets
 
 ```{admonition} Legacy Wiki Page
 :class: note

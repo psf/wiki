@@ -1,4 +1,4 @@
-# PythonBlogs
+# Python Blogs
 
 ```{admonition} Legacy Wiki Page
 :class: note

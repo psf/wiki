@@ -1,4 +1,4 @@
-# SummerOfCode/SpeedDotPythonDotOrg
+# Summer of Code / Speed Dot Python Dot Org
 
 ```{admonition} Legacy Wiki Page
 :class: note

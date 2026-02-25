@@ -1,4 +1,4 @@
-# HighScore
+# High Score
 
 ```{admonition} Legacy Wiki Page
 :class: note

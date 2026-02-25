@@ -1,4 +1,4 @@
-# BufferProtocol
+# Buffer Protocol
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Undo and redo with line edits
+# PyQt / Undo and redo with line edits
 
 ```{admonition} Legacy Wiki Page
 :class: note

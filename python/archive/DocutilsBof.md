@@ -1,4 +1,4 @@
-# DocutilsBof
+# DocUtils BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

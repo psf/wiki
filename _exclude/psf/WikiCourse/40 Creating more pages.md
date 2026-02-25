@@ -1,4 +1,4 @@
-# WikiCourse/40 Creating more pages
+# Wiki Course / 40 Creating more pages
 
 ```{admonition} Legacy Wiki Page
 :class: note

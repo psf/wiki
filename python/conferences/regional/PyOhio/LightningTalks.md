@@ -1,4 +1,4 @@
-# PyOhio/LightningTalks
+# PyOhio / Lightning Talks
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# DeadLinks
+# Dead Links
 
 ```{admonition} Legacy Wiki Page
 :class: note

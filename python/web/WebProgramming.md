@@ -1,4 +1,4 @@
-# WebProgramming
+# Web Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

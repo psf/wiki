@@ -1,4 +1,4 @@
-# PyPITestingInfrastructure
+# PyPI Testing Infrastructure
 
 ```{admonition} Legacy Wiki Page
 :class: note

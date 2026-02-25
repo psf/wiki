@@ -1,4 +1,4 @@
-# ContentManagementSystems
+# Content Management Systems
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyPySprint
+# PyPy Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

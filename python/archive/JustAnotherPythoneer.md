@@ -1,4 +1,4 @@
-# JustAnotherPythoneer
+# Just Another Pythoneer
 
 ```{admonition} Legacy Wiki Page
 :class: note

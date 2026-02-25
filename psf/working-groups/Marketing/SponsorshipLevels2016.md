@@ -1,4 +1,4 @@
-# Marketing/SponsorshipLevels2016
+# Marketing / Sponsorship Levels 2016
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# January2007
+# January 2007
 
 ```{toctree}
 :maxdepth: 1

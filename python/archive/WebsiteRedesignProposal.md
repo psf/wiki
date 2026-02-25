@@ -1,4 +1,4 @@
-# WebsiteRedesignProposal
+# Website Redesign Proposal
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# TitleContributorsDiscussionTemplate
+# Title Contributors Discussion Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

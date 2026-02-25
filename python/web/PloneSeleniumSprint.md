@@ -1,4 +1,4 @@
-# PloneSeleniumSprint
+# Plone Selenium Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

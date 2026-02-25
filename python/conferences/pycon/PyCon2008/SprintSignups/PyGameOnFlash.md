@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/PyGameOnFlash
+# PyCon 2008 / Sprint Signups / PyGame on Flash
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# NeedForSpeed/Failures
+# Need for Speed / Failures
 
 ```{admonition} Legacy Wiki Page
 :class: note

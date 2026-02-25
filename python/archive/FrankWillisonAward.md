@@ -1,4 +1,4 @@
-# FrankWillisonAward
+# Frank Willison Award
 
 ```{admonition} Legacy Wiki Page
 :class: note

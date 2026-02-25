@@ -1,4 +1,4 @@
-# PyOhio/Tasks
+# PyOhio / Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

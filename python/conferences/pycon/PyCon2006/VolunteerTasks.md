@@ -1,4 +1,4 @@
-# PyCon2006/VolunteerTasks
+# PyCon 2006 / Volunteer Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

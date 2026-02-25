@@ -1,4 +1,4 @@
-# PyCon2012/Organizers/Welcoming Committee
+# PyCon 2012 / Organizers / Welcoming Committee
 
 ```{admonition} Legacy Wiki Page
 :class: note

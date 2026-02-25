@@ -1,4 +1,4 @@
-# StringFormatting
+# String Formatting
 
 ```{admonition} Legacy Wiki Page
 :class: note

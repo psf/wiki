@@ -1,4 +1,4 @@
-# PythonWebsiteMiscSuggestions
+# Python Website Misc Suggestions
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# OriginalWebProgrammingClassification
+# Original Web Programming Classification
 
 ```{admonition} Legacy Wiki Page
 :class: note

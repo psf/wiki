@@ -1,4 +1,4 @@
-# LoGix
+# Lo Gix
 
 ```{admonition} Legacy Wiki Page
 :class: note

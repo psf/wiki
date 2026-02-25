@@ -1,4 +1,4 @@
-# PythonWikiTasks
+# Python Wiki Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

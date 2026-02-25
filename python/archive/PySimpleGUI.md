@@ -1,4 +1,4 @@
-# PySimpleGUI
+# PySimple GUI
 
 ```{admonition} Legacy Wiki Page
 :class: note

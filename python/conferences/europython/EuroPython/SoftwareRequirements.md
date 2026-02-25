@@ -1,4 +1,4 @@
-# EuroPython/SoftwareRequirements
+# EuroPython / Software Requirements
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# DistutilsBof
+# Distutils BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

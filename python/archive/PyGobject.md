@@ -1,4 +1,4 @@
-# PyGobject
+# PyGObject
 
 ```{admonition} Legacy Wiki Page
 :class: note

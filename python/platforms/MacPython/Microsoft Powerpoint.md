@@ -1,4 +1,4 @@
-# MacPython/Microsoft Powerpoint
+# MacPython / Microsoft Powerpoint
 
 ```{admonition} Legacy Wiki Page
 :class: note

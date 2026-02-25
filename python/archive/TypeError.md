@@ -1,4 +1,4 @@
-# TypeError
+# Type Error
 
 ```{admonition} Legacy Wiki Page
 :class: note

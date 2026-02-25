@@ -1,4 +1,4 @@
-# CategoryEditors
+# Category Editors
 
 ```{admonition} Legacy Wiki Page
 :class: note

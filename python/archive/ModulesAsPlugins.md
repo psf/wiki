@@ -1,4 +1,4 @@
-# ModulesAsPlugins
+# Modules As Plugins
 
 ```{admonition} Legacy Wiki Page
 :class: note

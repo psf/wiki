@@ -1,4 +1,4 @@
-# LanguageComparisons
+# Language Comparisons
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ThinkSQL
+# Think SQL
 
 ```{admonition} Legacy Wiki Page
 :class: note

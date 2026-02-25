@@ -1,4 +1,4 @@
-# PyQt/Using a different view with QComboBox
+# PyQt / Using a different view with Q Combo Box
 
 ```{admonition} Legacy Wiki Page
 :class: note

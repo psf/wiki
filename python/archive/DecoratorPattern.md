@@ -1,4 +1,4 @@
-# DecoratorPattern
+# Decorator Pattern
 
 ```{admonition} Legacy Wiki Page
 :class: note

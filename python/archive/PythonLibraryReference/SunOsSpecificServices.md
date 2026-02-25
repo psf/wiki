@@ -1,4 +1,4 @@
-# PythonLibraryReference/SunOsSpecificServices
+# Python Library Reference / Sun OS Specific Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

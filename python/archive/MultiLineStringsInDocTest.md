@@ -1,4 +1,4 @@
-# MultiLineStringsInDocTest
+# Multi Line Strings in Doc Test
 
 ```{admonition} Legacy Wiki Page
 :class: note

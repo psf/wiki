@@ -1,4 +1,4 @@
-# UnicodeDecodeError
+# Unicode Decode Error
 
 ```{admonition} Legacy Wiki Page
 :class: note

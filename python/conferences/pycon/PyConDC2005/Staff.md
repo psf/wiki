@@ -1,4 +1,4 @@
-# PyConDC2005/Staff
+# PyCon DC 2005 / Staff
 
 ```{admonition} Legacy Wiki Page
 :class: note

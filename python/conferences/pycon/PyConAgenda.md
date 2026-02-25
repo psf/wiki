@@ -1,4 +1,4 @@
-# PyConAgenda
+# PyCon Agenda
 
 ```{admonition} Legacy Wiki Page
 :class: note

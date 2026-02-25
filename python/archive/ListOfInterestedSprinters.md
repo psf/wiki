@@ -1,4 +1,4 @@
-# ListOfInterestedSprinters
+# List of Interested Sprinters
 
 ```{admonition} Legacy Wiki Page
 :class: note

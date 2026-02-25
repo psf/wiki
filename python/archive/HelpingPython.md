@@ -1,4 +1,4 @@
-# HelpingPython
+# Helping Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

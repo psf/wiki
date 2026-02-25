@@ -1,4 +1,4 @@
-# PythonImplementations
+# Python Implementations
 
 ```{admonition} Legacy Wiki Page
 :class: note

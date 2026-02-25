@@ -1,4 +1,4 @@
-# BeThon
+# Be Thon
 
 ```{admonition} Legacy Wiki Page
 :class: note

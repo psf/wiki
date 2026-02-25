@@ -1,4 +1,4 @@
-# IrmenDeJong
+# Irmen De Jong
 
 ```{admonition} Legacy Wiki Page
 :class: note

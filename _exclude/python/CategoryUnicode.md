@@ -1,4 +1,4 @@
-# CategoryUnicode
+# Category Unicode
 
 ```{admonition} Legacy Wiki Page
 :class: note

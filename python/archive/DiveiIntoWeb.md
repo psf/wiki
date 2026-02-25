@@ -1,4 +1,4 @@
-# DiveiIntoWeb
+# Divei Into Web
 
 ```{admonition} Legacy Wiki Page
 :class: note

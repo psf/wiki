@@ -1,4 +1,4 @@
-# PipAndDistutils2
+# Pip and Distutils 2
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/EclipseNotes
+# Jython Developer Guide / Eclipse Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

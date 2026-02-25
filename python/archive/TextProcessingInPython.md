@@ -1,4 +1,4 @@
-# TextProcessingInPython
+# Text Processing in Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

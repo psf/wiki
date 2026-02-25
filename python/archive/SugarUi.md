@@ -1,4 +1,4 @@
-# SugarUi
+# Sugar UI
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Email SIG/stdlibCLients
+# Email SIG / stdlib C Lients
 
 ```{admonition} Legacy Wiki Page
 :class: note

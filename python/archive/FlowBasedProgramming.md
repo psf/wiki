@@ -1,4 +1,4 @@
-# FlowBasedProgramming
+# Flow Based Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

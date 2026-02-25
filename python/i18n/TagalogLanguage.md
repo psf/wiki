@@ -1,4 +1,4 @@
-# TagalogLanguage
+# Tagalog Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

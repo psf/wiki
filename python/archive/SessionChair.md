@@ -1,4 +1,4 @@
-# SessionChair
+# Session Chair
 
 ```{admonition} Legacy Wiki Page
 :class: note

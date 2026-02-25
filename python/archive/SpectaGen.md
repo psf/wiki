@@ -1,4 +1,4 @@
-# SpectaGen
+# Specta Gen
 
 ```{admonition} Legacy Wiki Page
 :class: note

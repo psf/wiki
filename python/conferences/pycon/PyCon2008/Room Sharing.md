@@ -1,4 +1,4 @@
-# PyCon2008/Room Sharing
+# PyCon 2008 / Room Sharing
 
 ```{admonition} Legacy Wiki Page
 :class: note

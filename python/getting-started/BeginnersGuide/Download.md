@@ -1,4 +1,4 @@
-# BeginnersGuide/Download
+# Beginners Guide / Download
 
 ```{admonition} Legacy Wiki Page
 :class: note

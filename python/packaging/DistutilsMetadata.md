@@ -1,4 +1,4 @@
-# DistutilsMetadata
+# Distutils Metadata
 
 ```{admonition} Legacy Wiki Page
 :class: note

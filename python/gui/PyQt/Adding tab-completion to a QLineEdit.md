@@ -1,4 +1,4 @@
-# PyQt/Adding tab-completion to a QLineEdit
+# PyQt / Adding tab-completion to a Q Line Edit
 
 ```{admonition} Legacy Wiki Page
 :class: note

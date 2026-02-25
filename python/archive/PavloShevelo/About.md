@@ -1,4 +1,4 @@
-# PavloShevelo/About
+# Pavlo Shevelo / About
 
 ```{admonition} Legacy Wiki Page
 :class: note

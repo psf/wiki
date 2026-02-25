@@ -1,4 +1,4 @@
-# PythonConsulting
+# Python Consulting
 
 ```{admonition} Legacy Wiki Page
 :class: note

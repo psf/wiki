@@ -1,4 +1,4 @@
-# MacPython/WhatsMacPythonMissing
+# MacPython / Whats MacPython Missing
 
 ```{admonition} Legacy Wiki Page
 :class: note

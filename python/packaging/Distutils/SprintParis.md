@@ -1,4 +1,4 @@
-# Distutils/SprintParis
+# Distutils / Sprint Paris
 
 ```{admonition} Legacy Wiki Page
 :class: note

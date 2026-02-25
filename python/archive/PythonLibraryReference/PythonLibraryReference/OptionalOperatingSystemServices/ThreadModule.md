@@ -1,4 +1,4 @@
-# PythonLibraryReference/OptionalOperatingSystemServices/ThreadModule
+# Python Library Reference / Optional Operating System Services / Thread Module
 
 ```{admonition} Legacy Wiki Page
 :class: note

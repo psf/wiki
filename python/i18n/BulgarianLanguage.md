@@ -1,4 +1,4 @@
-# BulgarianLanguage
+# Bulgarian Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

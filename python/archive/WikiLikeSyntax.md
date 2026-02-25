@@ -1,4 +1,4 @@
-# WikiLikeSyntax
+# Wiki Like Syntax
 
 ```{admonition} Legacy Wiki Page
 :class: note

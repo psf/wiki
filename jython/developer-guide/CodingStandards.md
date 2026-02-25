@@ -1,4 +1,4 @@
-# CodingStandards
+# Coding Standards
 
 ```{admonition} Legacy Wiki Page
 :class: note

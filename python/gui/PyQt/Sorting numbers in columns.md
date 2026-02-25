@@ -1,4 +1,4 @@
-# PyQt/Sorting numbers in columns
+# PyQt / Sorting numbers in columns
 
 ```{admonition} Legacy Wiki Page
 :class: note

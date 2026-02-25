@@ -1,4 +1,4 @@
-# MacPython/SystemConfiguration
+# MacPython / System Configuration
 
 ```{admonition} Legacy Wiki Page
 :class: note

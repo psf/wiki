@@ -1,4 +1,4 @@
-# MacPython/SummitMinutes
+# MacPython / Summit Minutes
 
 ```{admonition} Legacy Wiki Page
 :class: note

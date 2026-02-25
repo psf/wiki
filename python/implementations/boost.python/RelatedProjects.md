@@ -1,4 +1,4 @@
-# boost.python/RelatedProjects
+# boost.python / Related Projects
 
 ```{admonition} Legacy Wiki Page
 :class: note

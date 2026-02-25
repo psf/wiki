@@ -1,4 +1,4 @@
-# NeedForSpeed/Deferred
+# Need for Speed / Deferred
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CodingProjectIdeas/PythonWebPlugin
+# Coding Project Ideas / Python Web Plugin
 
 ```{admonition} Legacy Wiki Page
 :class: note

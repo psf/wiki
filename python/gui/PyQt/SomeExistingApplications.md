@@ -1,4 +1,4 @@
-# PyQt/SomeExistingApplications
+# PyQt / Some Existing Applications
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonTraining/Events
+# Python Training / Events
 
 ```{admonition} Legacy Wiki Page
 :class: note

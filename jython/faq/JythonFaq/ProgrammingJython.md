@@ -1,4 +1,4 @@
-# JythonFaq/ProgrammingJython
+# Jython FAQ / Programming Jython
 
 ```{admonition} Legacy Wiki Page
 :class: note

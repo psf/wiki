@@ -1,4 +1,4 @@
-# TexasPythoneers
+# Texas Pythoneers
 
 ```{admonition} Legacy Wiki Page
 :class: note

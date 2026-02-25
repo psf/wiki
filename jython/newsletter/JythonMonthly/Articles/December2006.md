@@ -1,4 +1,4 @@
-# JythonMonthly/Articles/December2006
+# Jython Monthly / Articles / December 2006
 
 ```{admonition} Legacy Wiki Page
 :class: note

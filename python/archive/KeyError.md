@@ -1,4 +1,4 @@
-# KeyError
+# Key Error
 
 ```{admonition} Legacy Wiki Page
 :class: note

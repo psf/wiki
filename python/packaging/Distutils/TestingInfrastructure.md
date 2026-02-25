@@ -1,4 +1,4 @@
-# Distutils/TestingInfrastructure
+# Distutils / Testing Infrastructure
 
 ```{admonition} Legacy Wiki Page
 :class: note

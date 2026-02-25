@@ -1,4 +1,4 @@
-# EuroPython/2006/TrackDescriptions
+# EuroPython / 2006 / Track Descriptions
 
 ```{admonition} Legacy Wiki Page
 :class: note

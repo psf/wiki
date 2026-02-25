@@ -1,4 +1,4 @@
-# TrackerDocs
+# Tracker Docs
 
 ```{admonition} Legacy Wiki Page
 :class: note

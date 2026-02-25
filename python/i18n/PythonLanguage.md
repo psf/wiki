@@ -1,4 +1,4 @@
-# PythonLanguage
+# Python Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

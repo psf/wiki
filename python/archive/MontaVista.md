@@ -1,4 +1,4 @@
-# MontaVista
+# Monta Vista
 
 ```{admonition} Legacy Wiki Page
 :class: note

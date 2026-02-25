@@ -1,4 +1,4 @@
-# PythonSoftwareFoundation/Proposals
+# Python Software Foundation / Proposals
 
 ```{admonition} Legacy Wiki Page
 :class: note

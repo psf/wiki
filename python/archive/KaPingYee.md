@@ -1,4 +1,4 @@
-# KaPingYee
+# Ka Ping Yee
 
 ```{admonition} Legacy Wiki Page
 :class: note

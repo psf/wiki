@@ -1,4 +1,4 @@
-# PythonEventsCalendar
+# Python Events Calendar
 
 ```{admonition} Legacy Wiki Page
 :class: note

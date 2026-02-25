@@ -1,4 +1,4 @@
-# ValleyOfTheSunPiggies
+# Valley of the Sun Piggies
 
 ```{admonition} Legacy Wiki Page
 :class: note

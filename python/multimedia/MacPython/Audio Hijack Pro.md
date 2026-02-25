@@ -1,4 +1,4 @@
-# MacPython/Audio Hijack Pro
+# MacPython / Audio Hijack Pro
 
 ```{admonition} Legacy Wiki Page
 :class: note

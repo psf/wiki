@@ -1,4 +1,4 @@
-# PyCon2006/PointsOfInterest
+# PyCon 2006 / Points of Interest
 
 ```{admonition} Legacy Wiki Page
 :class: note

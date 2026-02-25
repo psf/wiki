@@ -1,4 +1,4 @@
-# CollectionsIntegration/PySequence
+# Collections Integration / PySequence
 
 ```{admonition} Legacy Wiki Page
 :class: note

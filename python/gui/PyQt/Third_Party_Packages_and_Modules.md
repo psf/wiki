@@ -1,4 +1,4 @@
-# PyQt/Third_Party_Packages_and_Modules
+# PyQt / Third Party Packages and Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

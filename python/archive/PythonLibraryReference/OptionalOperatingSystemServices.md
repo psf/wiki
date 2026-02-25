@@ -1,4 +1,4 @@
-# PythonLibraryReference/OptionalOperatingSystemServices
+# Python Library Reference / Optional Operating System Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# SurveyQuestions
+# Survey Questions
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyOhio/GameSocial
+# PyOhio / Game Social
 
 ```{admonition} Legacy Wiki Page
 :class: note

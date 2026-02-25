@@ -1,4 +1,4 @@
-# PyQt/Painting and clipping demonstration
+# PyQt / Painting and clipping demonstration
 
 ```{admonition} Legacy Wiki Page
 :class: note

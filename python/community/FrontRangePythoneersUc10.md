@@ -1,4 +1,4 @@
-# FrontRangePythoneersUc10
+# Front Range Pythoneers Uc 10
 
 ```{admonition} Legacy Wiki Page
 :class: note

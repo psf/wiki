@@ -1,4 +1,4 @@
-# PyCon2008/SecretsFrameworkLab
+# PyCon 2008 / Secrets Framework Lab
 
 ```{admonition} Legacy Wiki Page
 :class: note

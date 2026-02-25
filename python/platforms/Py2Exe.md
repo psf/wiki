@@ -1,4 +1,4 @@
-# Py2Exe
+# py2exe
 
 ```{admonition} Legacy Wiki Page
 :class: note

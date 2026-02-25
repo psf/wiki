@@ -1,4 +1,4 @@
-# PortlandPythonUserGroup/PyCon2010
+# Portland Python User Group / PyCon 2010
 
 ```{admonition} Legacy Wiki Page
 :class: note

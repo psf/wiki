@@ -1,4 +1,4 @@
-# DbApiFaq
+# DB API FAQ
 
 ```{admonition} Legacy Wiki Page
 :class: note

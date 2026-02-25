@@ -1,4 +1,4 @@
-# WikiKurs/05 Benutzer-Einstellungen
+# Wiki Kurs / 05 Benutzer-Einstellungen
 
 ```{admonition} Legacy Wiki Page
 :class: note

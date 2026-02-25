@@ -1,4 +1,4 @@
-# TalkMistakes
+# Talk Mistakes
 
 ```{admonition} Legacy Wiki Page
 :class: note

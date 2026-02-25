@@ -1,4 +1,4 @@
-# SchoolTool
+# School Tool
 
 ```{admonition} Legacy Wiki Page
 :class: note

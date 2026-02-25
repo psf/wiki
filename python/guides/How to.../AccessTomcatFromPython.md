@@ -1,4 +1,4 @@
-# How to.../AccessTomcatFromPython
+# How to... / Access Tomcat from Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

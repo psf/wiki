@@ -1,4 +1,4 @@
-# MacPython/VisualPython
+# MacPython / Visual Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

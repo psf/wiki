@@ -1,4 +1,4 @@
-# PyConDC2005/Sprints
+# PyCon DC 2005 / Sprints
 
 ```{admonition} Legacy Wiki Page
 :class: note

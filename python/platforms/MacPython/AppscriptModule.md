@@ -1,4 +1,4 @@
-# MacPython/AppscriptModule
+# MacPython / Appscript Module
 
 ```{admonition} Legacy Wiki Page
 :class: note

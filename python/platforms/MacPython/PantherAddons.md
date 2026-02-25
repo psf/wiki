@@ -1,4 +1,4 @@
-# MacPython/PantherAddons
+# MacPython / Panther Addons
 
 ```{admonition} Legacy Wiki Page
 :class: note

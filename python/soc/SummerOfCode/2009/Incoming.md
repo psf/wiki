@@ -1,4 +1,4 @@
-# SummerOfCode/2009/Incoming
+# Summer of Code / 2009 / Incoming
 
 ```{admonition} Legacy Wiki Page
 :class: note

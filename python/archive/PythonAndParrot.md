@@ -1,4 +1,4 @@
-# PythonAndParrot
+# Python and Parrot
 
 ```{admonition} Legacy Wiki Page
 :class: note

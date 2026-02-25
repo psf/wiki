@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/PythonCore
+# PyCon 2006 / Sprints / Python Core
 
 ```{admonition} Legacy Wiki Page
 :class: note

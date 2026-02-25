@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/Trac
+# PyCon 2008 / Sprint Signups / Trac
 
 ```{admonition} Legacy Wiki Page
 :class: note

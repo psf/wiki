@@ -1,4 +1,4 @@
-# ListOfPerformanceRelatedPatches
+# List of Performance Related Patches
 
 ```{admonition} Legacy Wiki Page
 :class: note

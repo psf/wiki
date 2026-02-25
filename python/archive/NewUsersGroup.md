@@ -1,4 +1,4 @@
-# NewUsersGroup
+# New Users Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

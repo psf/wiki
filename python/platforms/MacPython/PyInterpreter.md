@@ -1,4 +1,4 @@
-# MacPython/PyInterpreter
+# MacPython / PyInterpreter
 
 ```{admonition} Legacy Wiki Page
 :class: note

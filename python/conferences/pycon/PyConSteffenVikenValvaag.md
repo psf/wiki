@@ -1,4 +1,4 @@
-# PyConSteffenVikenValvaag
+# PyCon Steffen Viken Valvaag
 
 ```{admonition} Legacy Wiki Page
 :class: note

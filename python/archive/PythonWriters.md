@@ -1,4 +1,4 @@
-# PythonWriters
+# Python Writers
 
 ```{admonition} Legacy Wiki Page
 :class: note

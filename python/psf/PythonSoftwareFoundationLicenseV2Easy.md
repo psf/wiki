@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationLicenseV2Easy
+# Python Software Foundation License V 2 Easy
 
 ```{admonition} Legacy Wiki Page
 :class: note

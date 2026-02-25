@@ -1,4 +1,4 @@
-# ConcatenationTestCode
+# Concatenation Test Code
 
 ```{admonition} Legacy Wiki Page
 :class: note

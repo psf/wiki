@@ -1,4 +1,4 @@
-# PythonWebsiteCreatingNewTickets
+# Python Website Creating New Tickets
 
 ```{admonition} Legacy Wiki Page
 :class: note

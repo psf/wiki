@@ -1,4 +1,4 @@
-# BobIppolito/InstalledSoftware
+# Bob Ippolito / Installed Software
 
 ```{admonition} Legacy Wiki Page
 :class: note

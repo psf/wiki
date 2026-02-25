@@ -1,4 +1,4 @@
-# PyOhio/Physical
+# PyOhio / Physical
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# UsePythonAsAnInteractiveShell
+# Use Python As an Interactive Shell
 
 ```{admonition} Legacy Wiki Page
 :class: note

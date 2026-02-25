@@ -1,4 +1,4 @@
-# PythonLibraryReference/StructuredMarkupProcessingTools
+# Python Library Reference / Structured Markup Processing Tools
 
 ```{admonition} Legacy Wiki Page
 :class: note

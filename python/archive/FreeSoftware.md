@@ -1,4 +1,4 @@
-# FreeSoftware
+# Free Software
 
 ```{admonition} Legacy Wiki Page
 :class: note

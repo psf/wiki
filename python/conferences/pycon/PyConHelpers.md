@@ -1,4 +1,4 @@
-# PyConHelpers
+# PyCon Helpers
 
 ```{admonition} Legacy Wiki Page
 :class: note

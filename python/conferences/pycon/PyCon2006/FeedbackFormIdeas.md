@@ -1,4 +1,4 @@
-# PyCon2006/FeedbackFormIdeas
+# PyCon 2006 / Feedback Form Ideas
 
 ```{admonition} Legacy Wiki Page
 :class: note

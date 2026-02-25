@@ -1,4 +1,4 @@
-# PythonDecoratorProposals
+# Python Decorator Proposals
 
 ```{admonition} Legacy Wiki Page
 :class: note

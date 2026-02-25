@@ -1,4 +1,4 @@
-# Distutils/Extensions/DefendAgainstFruit
+# Distutils / Extensions / Defend Against Fruit
 
 ```{admonition} Legacy Wiki Page
 :class: note

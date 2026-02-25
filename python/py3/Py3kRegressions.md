@@ -1,4 +1,4 @@
-# Py3kRegressions
+# Py3k Regressions
 
 ```{admonition} Legacy Wiki Page
 :class: note

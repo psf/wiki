@@ -1,4 +1,4 @@
-# JythonSprint
+# Jython Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

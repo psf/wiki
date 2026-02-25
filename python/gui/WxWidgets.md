@@ -1,4 +1,4 @@
-# WxWidgets
+# wx Widgets
 
 ```{admonition} Legacy Wiki Page
 :class: note

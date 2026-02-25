@@ -1,4 +1,4 @@
-# EuroPython2006/PYxIDEsSprint
+# EuroPython 2006 / P Yx ID Es Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

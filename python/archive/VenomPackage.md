@@ -1,4 +1,4 @@
-# VenomPackage
+# Venom Package
 
 ```{admonition} Legacy Wiki Page
 :class: note

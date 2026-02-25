@@ -1,4 +1,4 @@
-# NetflixPrizeBOF
+# Netflix Prize BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

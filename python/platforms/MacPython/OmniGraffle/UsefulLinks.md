@@ -1,4 +1,4 @@
-# MacPython/OmniGraffle/UsefulLinks
+# MacPython / Omni Graffle / Useful Links
 
 ```{admonition} Legacy Wiki Page
 :class: note

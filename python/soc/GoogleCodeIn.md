@@ -1,4 +1,4 @@
-# GoogleCodeIn
+# Google Code in
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/PleaseAdoptMe
+# Jython Developer Guide / Please Adopt Me
 
 ```{admonition} Legacy Wiki Page
 :class: note

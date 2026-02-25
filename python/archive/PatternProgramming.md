@@ -1,4 +1,4 @@
-# PatternProgramming
+# Pattern Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

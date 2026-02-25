@@ -1,4 +1,4 @@
-# PyQt/Selecting a region of a widget
+# PyQt / Selecting a region of a widget
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyConIndiaFlyer
+# PyCon India Flyer
 
 ```{admonition} Legacy Wiki Page
 :class: note

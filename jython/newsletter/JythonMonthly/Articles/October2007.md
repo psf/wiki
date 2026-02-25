@@ -1,4 +1,4 @@
-# JythonMonthly/Articles/October2007
+# Jython Monthly / Articles / October 2007
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# WikiTippDesTages
+# Wiki Tipp Des Tages
 
 ```{admonition} Legacy Wiki Page
 :class: note

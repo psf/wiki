@@ -1,4 +1,4 @@
-# MacPython/MacModelPerformance
+# MacPython / Mac Model Performance
 
 ```{admonition} Legacy Wiki Page
 :class: note

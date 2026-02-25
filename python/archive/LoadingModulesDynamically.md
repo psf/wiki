@@ -1,4 +1,4 @@
-# LoadingModulesDynamically
+# Loading Modules Dynamically
 
 ```{admonition} Legacy Wiki Page
 :class: note

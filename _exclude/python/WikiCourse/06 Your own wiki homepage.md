@@ -1,4 +1,4 @@
-# WikiCourse/06 Your own wiki homepage
+# Wiki Course / 06 Your own wiki homepage
 
 ```{admonition} Legacy Wiki Page
 :class: note

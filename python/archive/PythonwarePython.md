@@ -1,4 +1,4 @@
-# PythonwarePython
+# Pythonware Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

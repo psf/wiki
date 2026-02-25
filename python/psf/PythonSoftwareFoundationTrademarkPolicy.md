@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationTrademarkPolicy
+# Python Software Foundation Trademark Policy
 
 ```{admonition} Legacy Wiki Page
 :class: note

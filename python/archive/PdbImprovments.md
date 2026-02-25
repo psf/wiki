@@ -1,4 +1,4 @@
-# PdbImprovments
+# Pdb Improvments
 
 ```{admonition} Legacy Wiki Page
 :class: note

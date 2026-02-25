@@ -1,4 +1,4 @@
-# IPSS/CommitteeResolutions
+# IPSS / Committee Resolutions
 
 ```{admonition} Legacy Wiki Page
 :class: note

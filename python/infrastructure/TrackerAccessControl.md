@@ -1,4 +1,4 @@
-# TrackerAccessControl
+# Tracker Access Control
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Admin/PlanetSetup
+# Admin / Planet Setup
 
 ```{admonition} Legacy Wiki Page
 :class: note

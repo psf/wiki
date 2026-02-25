@@ -1,4 +1,4 @@
-# Europython2022
+# EuroPython 2022
 
 ```{toctree}
 :maxdepth: 1

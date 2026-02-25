@@ -1,4 +1,4 @@
-# PatchTriage
+# Patch Triage
 
 ```{admonition} Legacy Wiki Page
 :class: note

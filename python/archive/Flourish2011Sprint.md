@@ -1,4 +1,4 @@
-# Flourish2011Sprint
+# Flourish 2011 Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

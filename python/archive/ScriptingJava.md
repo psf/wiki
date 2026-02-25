@@ -1,4 +1,4 @@
-# ScriptingJava
+# Scripting Java
 
 ```{admonition} Legacy Wiki Page
 :class: note

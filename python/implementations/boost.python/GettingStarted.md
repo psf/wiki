@@ -1,4 +1,4 @@
-# boost.python/GettingStarted
+# boost.python / Getting Started
 
 ```{admonition} Legacy Wiki Page
 :class: note

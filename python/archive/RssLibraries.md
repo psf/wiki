@@ -1,4 +1,4 @@
-# RssLibraries
+# RSS Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

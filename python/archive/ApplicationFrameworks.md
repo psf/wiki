@@ -1,4 +1,4 @@
-# ApplicationFrameworks
+# Application Frameworks
 
 ```{admonition} Legacy Wiki Page
 :class: note

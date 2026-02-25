@@ -1,4 +1,4 @@
-# PythonCookBook
+# Python Cook Book
 
 ```{admonition} Legacy Wiki Page
 :class: note

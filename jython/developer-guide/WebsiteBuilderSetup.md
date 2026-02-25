@@ -1,4 +1,4 @@
-# WebsiteBuilderSetup
+# Website Builder Setup
 
 ```{admonition} Legacy Wiki Page
 :class: note

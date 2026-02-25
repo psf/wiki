@@ -1,4 +1,4 @@
-# ArithmoGraph
+# Arithmo Graph
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EuroPython2016
+# EuroPython 2016
 
 ```{admonition} Legacy Wiki Page
 :class: note

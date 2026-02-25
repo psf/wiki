@@ -1,4 +1,4 @@
-# GuidovanRobot
+# Guidovan Robot
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# BytesStr
+# Bytes Str
 
 ```{admonition} Legacy Wiki Page
 :class: note

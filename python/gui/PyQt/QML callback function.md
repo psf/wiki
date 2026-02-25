@@ -1,4 +1,4 @@
-# PyQt/QML callback function
+# PyQt / QML callback function
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# AidesDiverses
+# Aides Diverses
 
 ```{toctree}
 :maxdepth: 1

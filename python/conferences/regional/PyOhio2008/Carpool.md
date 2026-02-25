@@ -1,4 +1,4 @@
-# PyOhio2008/Carpool
+# PyOhio 2008 / Carpool
 
 ```{admonition} Legacy Wiki Page
 :class: note

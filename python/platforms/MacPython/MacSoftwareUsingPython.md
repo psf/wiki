@@ -1,4 +1,4 @@
-# MacPython/MacSoftwareUsingPython
+# MacPython / Mac Software Using Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

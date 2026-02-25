@@ -1,4 +1,4 @@
-# InterWikiMap
+# Inter Wiki Map
 
 ```{admonition} Legacy Wiki Page
 :class: note

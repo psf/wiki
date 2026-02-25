@@ -1,4 +1,4 @@
-# MacPython/FileMakerPro/Annoyances
+# MacPython / FileMaker Pro / Annoyances
 
 ```{admonition} Legacy Wiki Page
 :class: note

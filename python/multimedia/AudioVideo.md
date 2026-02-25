@@ -1,4 +1,4 @@
-# AudioVideo
+# Audio Video
 
 ```{admonition} Legacy Wiki Page
 :class: note

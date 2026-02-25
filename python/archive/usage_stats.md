@@ -1,4 +1,4 @@
-# usage_stats
+# usage stats
 
 ```{admonition} Legacy Wiki Page
 :class: note

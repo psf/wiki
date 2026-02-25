@@ -1,4 +1,4 @@
-# NavigationSite
+# Navigation Site
 
 ```{admonition} Legacy Wiki Page
 :class: note

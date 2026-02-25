@@ -1,4 +1,4 @@
-# ZuluLanguage
+# Zulu Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

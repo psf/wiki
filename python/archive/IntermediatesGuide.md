@@ -1,4 +1,4 @@
-# IntermediatesGuide
+# Intermediates Guide
 
 ```{admonition} Legacy Wiki Page
 :class: note

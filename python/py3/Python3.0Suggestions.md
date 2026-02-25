@@ -1,4 +1,4 @@
-# Python3.0Suggestions
+# Python 3.0 Suggestions
 
 ```{admonition} Legacy Wiki Page
 :class: note

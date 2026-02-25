@@ -1,4 +1,4 @@
-# MacPython/iTunes
+# MacPython / i Tunes
 
 ```{admonition} Legacy Wiki Page
 :class: note

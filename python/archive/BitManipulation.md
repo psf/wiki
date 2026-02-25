@@ -1,4 +1,4 @@
-# BitManipulation
+# Bit Manipulation
 
 ```{admonition} Legacy Wiki Page
 :class: note

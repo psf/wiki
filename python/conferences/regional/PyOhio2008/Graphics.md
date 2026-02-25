@@ -1,4 +1,4 @@
-# PyOhio2008/Graphics
+# PyOhio 2008 / Graphics
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# XiaQ
+# Xia Q
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Paint on an image
+# PyQt / Paint on an image
 
 ```{admonition} Legacy Wiki Page
 :class: note

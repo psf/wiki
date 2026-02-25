@@ -1,4 +1,4 @@
-# EuroPython/2006/PublicRelations2006
+# EuroPython / 2006 / Public Relations 2006
 
 ```{admonition} Legacy Wiki Page
 :class: note

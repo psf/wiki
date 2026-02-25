@@ -1,4 +1,4 @@
-# ZopePageTemplates
+# Zope Page Templates
 
 ```{admonition} Legacy Wiki Page
 :class: note

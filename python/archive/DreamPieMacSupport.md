@@ -1,4 +1,4 @@
-# DreamPieMacSupport
+# Dream Pie Mac Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

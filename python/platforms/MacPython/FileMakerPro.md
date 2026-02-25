@@ -1,4 +1,4 @@
-# MacPython/FileMakerPro
+# MacPython / FileMaker Pro
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# JustVanRossum
+# Just Van Rossum
 
 ```{admonition} Legacy Wiki Page
 :class: note

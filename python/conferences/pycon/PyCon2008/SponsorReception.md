@@ -1,4 +1,4 @@
-# PyCon2008/SponsorReception
+# PyCon 2008 / Sponsor Reception
 
 ```{admonition} Legacy Wiki Page
 :class: note

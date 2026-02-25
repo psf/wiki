@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/WhatIsPython
+# Advocacy Writing Tasks / What is Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

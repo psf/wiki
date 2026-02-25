@@ -1,4 +1,4 @@
-# SlideShowHandOutTemplate
+# Slide Show Hand Out Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

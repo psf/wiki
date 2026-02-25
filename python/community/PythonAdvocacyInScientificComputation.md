@@ -1,4 +1,4 @@
-# PythonAdvocacyInScientificComputation
+# Python Advocacy in Scientific Computation
 
 ```{admonition} Legacy Wiki Page
 :class: note

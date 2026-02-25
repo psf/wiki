@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/AgileDevelopmentAndTestingInPython
+# PyCon 2006 / Tutorials / Agile Development and Testing in Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

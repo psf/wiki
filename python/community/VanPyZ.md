@@ -1,4 +1,4 @@
-# VanPyZ
+# Van PyZ
 
 ```{admonition} Legacy Wiki Page
 :class: note

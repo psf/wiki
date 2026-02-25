@@ -1,4 +1,4 @@
-# DefaultEncoding
+# Default Encoding
 
 ```{admonition} Legacy Wiki Page
 :class: note

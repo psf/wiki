@@ -1,4 +1,4 @@
-# MagyarPython
+# Magyar Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

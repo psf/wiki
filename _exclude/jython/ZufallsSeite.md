@@ -1,4 +1,4 @@
-# ZufallsSeite
+# Zufalls Seite
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ProfileReplacementProject
+# Profile Replacement Project
 
 ```{admonition} Legacy Wiki Page
 :class: note

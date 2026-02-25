@@ -1,4 +1,4 @@
-# StatementOfValues
+# Statement of Values
 
 ```{admonition} Legacy Wiki Page
 :class: note

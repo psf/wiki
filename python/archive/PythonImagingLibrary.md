@@ -1,4 +1,4 @@
-# PythonImagingLibrary
+# Python Imaging Library
 
 ```{admonition} Legacy Wiki Page
 :class: note

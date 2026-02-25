@@ -1,4 +1,4 @@
-# CategoryFaq
+# Category FAQ
 
 ```{admonition} Legacy Wiki Page
 :class: note

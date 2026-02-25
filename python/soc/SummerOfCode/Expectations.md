@@ -1,4 +1,4 @@
-# SummerOfCode/Expectations
+# Summer of Code / Expectations
 
 ```{admonition} Legacy Wiki Page
 :class: note

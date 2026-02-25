@@ -1,4 +1,4 @@
-# PyCon2006/Social
+# PyCon 2006 / Social
 
 ```{admonition} Legacy Wiki Page
 :class: note

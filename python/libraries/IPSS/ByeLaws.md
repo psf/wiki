@@ -1,4 +1,4 @@
-# IPSS/ByeLaws
+# IPSS / Bye Laws
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# VirtualCollaboratoryBof
+# Virtual Collaboratory BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

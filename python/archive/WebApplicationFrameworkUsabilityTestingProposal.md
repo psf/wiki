@@ -1,4 +1,4 @@
-# WebApplicationFrameworkUsabilityTestingProposal
+# Web Application Framework Usability Testing Proposal
 
 ```{admonition} Legacy Wiki Page
 :class: note

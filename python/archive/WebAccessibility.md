@@ -1,4 +1,4 @@
-# WebAccessibility
+# Web Accessibility
 
 ```{admonition} Legacy Wiki Page
 :class: note

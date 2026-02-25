@@ -1,4 +1,4 @@
-# PackagingBOF
+# Packaging BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

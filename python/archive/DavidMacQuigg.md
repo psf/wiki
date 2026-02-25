@@ -1,4 +1,4 @@
-# DavidMacQuigg
+# David Mac Quigg
 
 ```{admonition} Legacy Wiki Page
 :class: note

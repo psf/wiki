@@ -1,4 +1,4 @@
-# PyQt/Writing a client for a zeromq service
+# PyQt / Writing a client for a zeromq service
 
 ```{admonition} Legacy Wiki Page
 :class: note

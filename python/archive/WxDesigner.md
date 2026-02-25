@@ -1,4 +1,4 @@
-# WxDesigner
+# wx Designer
 
 ```{admonition} Legacy Wiki Page
 :class: note

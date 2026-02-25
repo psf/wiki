@@ -1,4 +1,4 @@
-# PythonWebsiteHomePageDeibel
+# Python Website Home Page Deibel
 
 ```{admonition} Legacy Wiki Page
 :class: note

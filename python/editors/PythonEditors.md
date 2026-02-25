@@ -1,4 +1,4 @@
-# PythonEditors
+# Python Editors
 
 ```{admonition} Legacy Wiki Page
 :class: note

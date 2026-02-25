@@ -1,4 +1,4 @@
-# PyConIndia2010/Artwork
+# PyCon India 2010 / Artwork
 
 ```{admonition} Legacy Wiki Page
 :class: note

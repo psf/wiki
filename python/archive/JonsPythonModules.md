@@ -1,4 +1,4 @@
-# JonsPythonModules
+# Jons Python Modules
 
 ```{admonition} Legacy Wiki Page
 :class: note

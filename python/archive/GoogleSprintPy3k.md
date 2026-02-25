@@ -1,4 +1,4 @@
-# GoogleSprintPy3k
+# Google Sprint Py3k
 
 ```{admonition} Legacy Wiki Page
 :class: note

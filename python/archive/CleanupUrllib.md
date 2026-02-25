@@ -1,4 +1,4 @@
-# CleanupUrllib
+# Cleanup Urllib
 
 ```{admonition} Legacy Wiki Page
 :class: note

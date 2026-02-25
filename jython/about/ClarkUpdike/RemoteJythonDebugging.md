@@ -1,4 +1,4 @@
-# ClarkUpdike/RemoteJythonDebugging
+# Clark Updike / Remote Jython Debugging
 
 ```{admonition} Legacy Wiki Page
 :class: note

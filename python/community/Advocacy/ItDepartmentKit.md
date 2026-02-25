@@ -1,4 +1,4 @@
-# Advocacy/ItDepartmentKit
+# Advocacy / It Department Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

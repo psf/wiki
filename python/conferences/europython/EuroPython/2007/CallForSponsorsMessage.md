@@ -1,4 +1,4 @@
-# EuroPython/2007/CallForSponsorsMessage
+# EuroPython / 2007 / Call for Sponsors Message
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Straightforward_Methods_Of_hair_extensions_-_An_Analysis
+# Straightforward Methods of hair extensions - an Analysis
 
 ```{admonition} Legacy Wiki Page
 :class: note

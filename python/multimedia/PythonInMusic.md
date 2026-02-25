@@ -1,4 +1,4 @@
-# PythonInMusic
+# Python in Music
 
 ```{admonition} Legacy Wiki Page
 :class: note

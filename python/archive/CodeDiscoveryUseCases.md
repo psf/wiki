@@ -1,4 +1,4 @@
-# CodeDiscoveryUseCases
+# Code Discovery Use Cases
 
 ```{admonition} Legacy Wiki Page
 :class: note

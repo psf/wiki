@@ -1,4 +1,4 @@
-# SprintingWithDCPython
+# Sprinting with DC Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

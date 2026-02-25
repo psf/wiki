@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/VobjectSprint
+# PyCon 2006 / Sprints / Vobject Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

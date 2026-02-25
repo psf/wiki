@@ -1,4 +1,4 @@
-# PathClass
+# Path Class
 
 ```{admonition} Legacy Wiki Page
 :class: note

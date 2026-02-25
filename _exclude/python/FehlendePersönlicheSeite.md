@@ -1,4 +1,4 @@
-# FehlendePersönlicheSeite
+# Fehlende Persönliche Seite
 
 ```{admonition} Legacy Wiki Page
 :class: note

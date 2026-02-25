@@ -1,4 +1,4 @@
-# PythonDevelopersOnTwitter
+# Python Developers on Twitter
 
 ```{admonition} Legacy Wiki Page
 :class: note

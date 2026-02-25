@@ -1,4 +1,4 @@
-# EuroPython/2007/RegistrationIsOpenMessage
+# EuroPython / 2007 / Registration is Open Message
 
 ```{admonition} Legacy Wiki Page
 :class: note

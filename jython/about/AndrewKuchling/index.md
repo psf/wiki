@@ -1,4 +1,4 @@
-# AndrewKuchling
+# Andrew Kuchling
 
 ```{toctree}
 :maxdepth: 1

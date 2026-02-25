@@ -1,4 +1,4 @@
-# UdpCommunication
+# UDP Communication
 
 ```{admonition} Legacy Wiki Page
 :class: note

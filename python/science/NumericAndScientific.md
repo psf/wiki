@@ -1,4 +1,4 @@
-# NumericAndScientific
+# Numeric and Scientific
 
 ```{admonition} Legacy Wiki Page
 :class: note

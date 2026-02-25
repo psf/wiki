@@ -1,4 +1,4 @@
-# PyCon2006/Tutorials/PloneRapidBootcamp
+# PyCon 2006 / Tutorials / Plone Rapid Bootcamp
 
 ```{admonition} Legacy Wiki Page
 :class: note

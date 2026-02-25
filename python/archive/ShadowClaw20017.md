@@ -1,4 +1,4 @@
-# ShadowClaw20017
+# Shadow Claw 20017
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Using a Custom Protocol with QtWebKit
+# PyQt / Using a Custom Protocol with Qt Web Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

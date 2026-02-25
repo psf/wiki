@@ -1,4 +1,4 @@
-# ModulesOverview
+# Modules Overview
 
 ```{admonition} Legacy Wiki Page
 :class: note

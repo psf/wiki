@@ -1,4 +1,4 @@
-# PythonVsHaskell
+# Python vs Haskell
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MacPython/LaunchServices
+# MacPython / Launch Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

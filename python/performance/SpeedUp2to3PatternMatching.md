@@ -1,4 +1,4 @@
-# SpeedUp2to3PatternMatching
+# Speed Up 2to 3 Pattern Matching
 
 ```{admonition} Legacy Wiki Page
 :class: note

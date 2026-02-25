@@ -1,4 +1,4 @@
-# ClarkUpdike/ScrapBook
+# Clark Updike / Scrap Book
 
 ```{admonition} Legacy Wiki Page
 :class: note

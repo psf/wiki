@@ -1,4 +1,4 @@
-# PythonBooks for a list.
+# Python Books for a list.
 
 ```{admonition} Legacy Wiki Page
 :class: note

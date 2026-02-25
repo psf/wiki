@@ -1,4 +1,4 @@
-# ExposeAnnotations
+# Expose Annotations
 
 ```{admonition} Legacy Wiki Page
 :class: note

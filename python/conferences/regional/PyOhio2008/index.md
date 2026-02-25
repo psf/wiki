@@ -1,4 +1,4 @@
-# Pyohio2008
+# PyOhio 2008
 
 ```{toctree}
 :maxdepth: 1

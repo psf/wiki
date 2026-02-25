@@ -1,4 +1,4 @@
-# Python4Delphi
+# Python 4 Delphi
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CategoryApplications
+# Category Applications
 
 ```{admonition} Legacy Wiki Page
 :class: note

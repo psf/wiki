@@ -1,4 +1,4 @@
-# PrintFails
+# Print Fails
 
 ```{admonition} Legacy Wiki Page
 :class: note

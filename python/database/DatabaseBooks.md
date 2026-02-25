@@ -1,4 +1,4 @@
-# DatabaseBooks
+# Database Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

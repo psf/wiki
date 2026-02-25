@@ -1,4 +1,4 @@
-# JAlanBrogan
+# J Alan Brogan
 
 ```{admonition} Legacy Wiki Page
 :class: note

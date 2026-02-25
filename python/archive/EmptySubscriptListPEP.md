@@ -1,4 +1,4 @@
-# EmptySubscriptListPEP
+# Empty Subscript List PEP
 
 ```{admonition} Legacy Wiki Page
 :class: note

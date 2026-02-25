@@ -1,4 +1,4 @@
-# DbApi3
+# DB API 3
 
 ```{admonition} Legacy Wiki Page
 :class: note

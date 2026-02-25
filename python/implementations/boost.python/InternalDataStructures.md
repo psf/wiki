@@ -1,4 +1,4 @@
-# boost.python/InternalDataStructures
+# boost.python / Internal Data Structures
 
 ```{admonition} Legacy Wiki Page
 :class: note

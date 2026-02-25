@@ -1,4 +1,4 @@
-# TimeComplexity
+# Time Complexity
 
 ```{admonition} Legacy Wiki Page
 :class: note

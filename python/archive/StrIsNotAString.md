@@ -1,4 +1,4 @@
-# StrIsNotAString
+# Str is Not a String
 
 ```{admonition} Legacy Wiki Page
 :class: note

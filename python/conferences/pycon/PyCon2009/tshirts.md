@@ -1,4 +1,4 @@
-# PyCon2009/tshirts
+# PyCon 2009 / tshirts
 
 ```{admonition} Legacy Wiki Page
 :class: note

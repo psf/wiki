@@ -1,4 +1,4 @@
-# RonDuPlain
+# Ron Du Plain
 
 ```{admonition} Legacy Wiki Page
 :class: note

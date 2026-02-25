@@ -1,4 +1,4 @@
-# MacPython/iTerm/Terminology
+# MacPython / i Term / Terminology
 
 ```{admonition} Legacy Wiki Page
 :class: note

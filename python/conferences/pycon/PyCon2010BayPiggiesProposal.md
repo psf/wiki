@@ -1,4 +1,4 @@
-# PyCon2010BayPiggiesProposal
+# PyCon 2010 Bay Piggies Proposal
 
 ```{admonition} Legacy Wiki Page
 :class: note

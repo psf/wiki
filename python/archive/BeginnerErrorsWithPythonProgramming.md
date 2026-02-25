@@ -1,4 +1,4 @@
-# BeginnerErrorsWithPythonProgramming
+# Beginner Errors with Python Programming
 
 ```{admonition} Legacy Wiki Page
 :class: note

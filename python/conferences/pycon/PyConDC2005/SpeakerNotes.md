@@ -1,4 +1,4 @@
-# PyConDC2005/SpeakerNotes
+# PyCon DC 2005 / Speaker Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

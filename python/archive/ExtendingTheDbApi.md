@@ -1,4 +1,4 @@
-# ExtendingTheDbApi
+# Extending the DB API
 
 ```{admonition} Legacy Wiki Page
 :class: note

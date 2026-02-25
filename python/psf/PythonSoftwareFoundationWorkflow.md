@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationWorkflow
+# Python Software Foundation Workflow
 
 ```{admonition} Legacy Wiki Page
 :class: note

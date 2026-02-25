@@ -1,4 +1,4 @@
-# TimeComplexity (SetCode)
+# Time Complexity (Set Code)
 
 ```{admonition} Legacy Wiki Page
 :class: note

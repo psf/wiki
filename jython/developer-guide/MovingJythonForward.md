@@ -1,4 +1,4 @@
-# MovingJythonForward
+# Moving Jython Forward
 
 ```{admonition} Legacy Wiki Page
 :class: note

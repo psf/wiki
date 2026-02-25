@@ -1,4 +1,4 @@
-# PyConIndia2010/ProposalSelectionGuidelines
+# PyCon India 2010 / Proposal Selection Guidelines
 
 ```{admonition} Legacy Wiki Page
 :class: note

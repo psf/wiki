@@ -1,4 +1,4 @@
-# PythonConferences
+# Python Conferences
 
 ```{admonition} Legacy Wiki Page
 :class: note

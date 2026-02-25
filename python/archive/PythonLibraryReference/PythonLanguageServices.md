@@ -1,4 +1,4 @@
-# PythonLibraryReference/PythonLanguageServices
+# Python Library Reference / Python Language Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

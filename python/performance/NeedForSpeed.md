@@ -1,4 +1,4 @@
-# NeedForSpeed
+# Need for Speed
 
 ```{admonition} Legacy Wiki Page
 :class: note

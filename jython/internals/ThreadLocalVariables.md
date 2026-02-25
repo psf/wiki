@@ -1,4 +1,4 @@
-# ThreadLocalVariables
+# Thread Local Variables
 
 ```{admonition} Legacy Wiki Page
 :class: note

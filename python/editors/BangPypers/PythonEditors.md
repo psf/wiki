@@ -1,4 +1,4 @@
-# BangPypers/PythonEditors
+# BangPypers / Python Editors
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Advocacy/VideoLectures
+# Advocacy / Video Lectures
 
 ```{admonition} Legacy Wiki Page
 :class: note

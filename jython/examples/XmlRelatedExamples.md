@@ -1,4 +1,4 @@
-# XmlRelatedExamples
+# XML Related Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

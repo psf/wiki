@@ -1,4 +1,4 @@
-# BlackRose
+# Black Rose
 
 ```{admonition} Legacy Wiki Page
 :class: note

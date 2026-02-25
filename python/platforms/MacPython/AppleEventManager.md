@@ -1,4 +1,4 @@
-# MacPython/AppleEventManager
+# MacPython / Apple Event Manager
 
 ```{admonition} Legacy Wiki Page
 :class: note

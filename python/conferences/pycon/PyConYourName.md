@@ -1,4 +1,4 @@
-# PyConYourName
+# PyCon Your Name
 
 ```{admonition} Legacy Wiki Page
 :class: note

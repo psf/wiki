@@ -1,4 +1,4 @@
-# BeginnersGuide/Programmers
+# Beginners Guide / Programmers
 
 ```{admonition} Legacy Wiki Page
 :class: note

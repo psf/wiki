@@ -1,4 +1,4 @@
-# DbusExamples
+# Dbus Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

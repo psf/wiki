@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationTrademarkPolicyAlt2
+# Python Software Foundation Trademark Policy Alt 2
 
 ```{admonition} Legacy Wiki Page
 :class: note

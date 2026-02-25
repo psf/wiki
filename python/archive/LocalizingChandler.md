@@ -1,4 +1,4 @@
-# LocalizingChandler
+# Localizing Chandler
 
 ```{admonition} Legacy Wiki Page
 :class: note

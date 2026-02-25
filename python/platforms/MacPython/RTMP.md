@@ -1,4 +1,4 @@
-# MacPython/RTMP
+# MacPython / RTMP
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CheeseShopDev
+# Cheese Shop Dev
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# RussianPythonBooks
+# Russian Python Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

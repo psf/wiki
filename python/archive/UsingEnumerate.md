@@ -1,4 +1,4 @@
-# UsingEnumerate
+# Using Enumerate
 
 ```{admonition} Legacy Wiki Page
 :class: note

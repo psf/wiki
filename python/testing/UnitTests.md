@@ -1,4 +1,4 @@
-# UnitTests
+# Unit Tests
 
 ```{admonition} Legacy Wiki Page
 :class: note

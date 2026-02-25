@@ -1,4 +1,4 @@
-# TracTracker
+# Trac Tracker
 
 ```{admonition} Legacy Wiki Page
 :class: note

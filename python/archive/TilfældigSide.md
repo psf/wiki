@@ -1,4 +1,4 @@
-# TilfældigSide
+# Tilfældig Side
 
 ```{admonition} Legacy Wiki Page
 :class: note

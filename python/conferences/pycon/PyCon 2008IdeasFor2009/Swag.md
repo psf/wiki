@@ -1,4 +1,4 @@
-# PyCon 2008IdeasFor2009/Swag
+# PyCon 2008 Ideas for 2009 / Swag
 
 ```{admonition} Legacy Wiki Page
 :class: note

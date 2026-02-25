@@ -1,4 +1,4 @@
-# PythonCookBookVsActiveStateCookBookDiscussion
+# Python Cook Book vs Active State Cook Book Discussion
 
 ```{admonition} Legacy Wiki Page
 :class: note

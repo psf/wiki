@@ -1,4 +1,4 @@
-# WikiKurs/40 Anlegen von weiteren Seiten
+# Wiki Kurs / 40 Anlegen von weiteren Seiten
 
 ```{admonition} Legacy Wiki Page
 :class: note

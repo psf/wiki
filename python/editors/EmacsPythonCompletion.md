@@ -1,4 +1,4 @@
-# EmacsPythonCompletion
+# Emacs Python Completion
 
 ```{admonition} Legacy Wiki Page
 :class: note

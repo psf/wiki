@@ -1,4 +1,4 @@
-# LibraryReferencesNames
+# Library References Names
 
 ```{admonition} Legacy Wiki Page
 :class: note

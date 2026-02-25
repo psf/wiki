@@ -1,4 +1,4 @@
-# PyCon2008/OpenSpaceTalkTitles
+# PyCon 2008 / Open Space Talk Titles
 
 ```{admonition} Legacy Wiki Page
 :class: note

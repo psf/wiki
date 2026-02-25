@@ -1,4 +1,4 @@
-# CommentBasedSyntax
+# Comment Based Syntax
 
 ```{admonition} Legacy Wiki Page
 :class: note

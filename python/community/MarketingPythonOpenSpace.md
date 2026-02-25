@@ -1,4 +1,4 @@
-# MarketingPythonOpenSpace
+# Marketing Python Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

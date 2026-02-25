@@ -1,4 +1,4 @@
-# PythonArabicCommunity
+# Python Arabic Community
 
 ```{admonition} Legacy Wiki Page
 :class: note

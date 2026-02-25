@@ -1,4 +1,4 @@
-# PythonTestingToolsTaxonomy
+# Python Testing Tools Taxonomy
 
 ```{admonition} Legacy Wiki Page
 :class: note

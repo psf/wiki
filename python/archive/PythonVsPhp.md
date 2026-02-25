@@ -1,4 +1,4 @@
-# PythonVsPhp
+# Python vs Php
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# LocalNamesDescription
+# Local Names Description
 
 ```{admonition} Legacy Wiki Page
 :class: note

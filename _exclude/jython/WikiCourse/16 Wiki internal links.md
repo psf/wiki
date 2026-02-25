@@ -1,4 +1,4 @@
-# WikiCourse/16 Wiki internal links
+# Wiki Course / 16 Wiki internal links
 
 ```{admonition} Legacy Wiki Page
 :class: note

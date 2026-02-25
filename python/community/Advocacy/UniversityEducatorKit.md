@@ -1,4 +1,4 @@
-# Advocacy/UniversityEducatorKit
+# Advocacy / University Educator Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

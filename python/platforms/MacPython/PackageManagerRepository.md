@@ -1,4 +1,4 @@
-# MacPython/PackageManagerRepository
+# MacPython / Package Manager Repository
 
 ```{admonition} Legacy Wiki Page
 :class: note

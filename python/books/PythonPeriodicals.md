@@ -1,4 +1,4 @@
-# PythonPeriodicals
+# Python Periodicals
 
 ```{admonition} Legacy Wiki Page
 :class: note

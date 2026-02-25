@@ -1,4 +1,4 @@
-# DocsCoordination/Tasks
+# Docs Coordination / Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

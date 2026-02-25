@@ -1,4 +1,4 @@
-# ShellRun
+# Shell Run
 
 ```{admonition} Legacy Wiki Page
 :class: note

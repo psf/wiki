@@ -1,4 +1,4 @@
-# Declined_Nominations
+# Declined Nominations
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/TurboGearsSprint
+# PyCon 2006 / Sprints / TurboGears Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonThreeDotOh
+# Python Three Dot Oh
 
 ```{admonition} Legacy Wiki Page
 :class: note

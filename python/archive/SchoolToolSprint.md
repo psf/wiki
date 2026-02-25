@@ -1,4 +1,4 @@
-# SchoolToolSprint
+# School Tool Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

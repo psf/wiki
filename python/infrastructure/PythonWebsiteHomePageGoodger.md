@@ -1,4 +1,4 @@
-# PythonWebsiteHomePageGoodger
+# Python Website Home Page Goodger
 
 ```{admonition} Legacy Wiki Page
 :class: note

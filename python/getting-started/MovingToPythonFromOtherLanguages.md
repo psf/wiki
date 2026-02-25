@@ -1,4 +1,4 @@
-# MovingToPythonFromOtherLanguages
+# Moving to Python from Other Languages
 
 ```{admonition} Legacy Wiki Page
 :class: note

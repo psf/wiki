@@ -1,4 +1,4 @@
-# JAM/Code/ComPYiler
+# JAM / Code / Com P Yiler
 
 ```{admonition} Legacy Wiki Page
 :class: note

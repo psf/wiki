@@ -1,4 +1,4 @@
-# PyQt/PyQtLicensing
+# PyQt / PyQt Licensing
 
 ```{admonition} Legacy Wiki Page
 :class: note

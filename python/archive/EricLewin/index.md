@@ -1,4 +1,4 @@
-# EricLewin
+# Eric Lewin
 
 ```{toctree}
 :maxdepth: 1

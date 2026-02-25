@@ -1,4 +1,4 @@
-# EmbedingPyQtTutorial
+# Embeding PyQt Tutorial
 
 ```{admonition} Legacy Wiki Page
 :class: note

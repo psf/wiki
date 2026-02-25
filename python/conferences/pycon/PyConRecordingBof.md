@@ -1,4 +1,4 @@
-# PyConRecordingBof
+# PyCon Recording BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

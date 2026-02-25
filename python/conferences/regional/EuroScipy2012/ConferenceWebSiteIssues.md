@@ -1,4 +1,4 @@
-# EuroScipy2012/ConferenceWebSiteIssues
+# EuroSciPy 2012 / Conference Web Site Issues
 
 ```{admonition} Legacy Wiki Page
 :class: note

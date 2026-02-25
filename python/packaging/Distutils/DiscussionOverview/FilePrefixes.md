@@ -1,4 +1,4 @@
-# Distutils/DiscussionOverview/FilePrefixes
+# Distutils / Discussion Overview / File Prefixes
 
 ```{admonition} Legacy Wiki Page
 :class: note

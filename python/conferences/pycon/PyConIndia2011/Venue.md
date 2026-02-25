@@ -1,4 +1,4 @@
-# PyConIndia2011/Venue
+# PyCon India 2011 / Venue
 
 ```{admonition} Legacy Wiki Page
 :class: note

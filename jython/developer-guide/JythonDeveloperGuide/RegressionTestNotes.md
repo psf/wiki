@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/RegressionTestNotes
+# Jython Developer Guide / Regression Test Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

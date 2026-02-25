@@ -1,4 +1,4 @@
-# SummerOfCode/irc
+# Summer of Code / IRC
 
 ```{admonition} Legacy Wiki Page
 :class: note

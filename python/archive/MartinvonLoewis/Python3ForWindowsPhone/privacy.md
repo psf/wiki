@@ -1,4 +1,4 @@
-# MartinvonLoewis/Python3ForWindowsPhone/privacy
+# Martinvon Loewis / Python 3 for Windows Phone / privacy
 
 ```{admonition} Legacy Wiki Page
 :class: note

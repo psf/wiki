@@ -1,4 +1,4 @@
-# IPSS/FirstAGMResolutions
+# IPSS / First AGM Resolutions
 
 ```{admonition} Legacy Wiki Page
 :class: note

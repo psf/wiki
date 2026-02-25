@@ -1,4 +1,4 @@
-# AbqPython/Meetings
+# Abq Python / Meetings
 
 ```{admonition} Legacy Wiki Page
 :class: note

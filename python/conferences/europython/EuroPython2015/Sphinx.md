@@ -1,4 +1,4 @@
-# EuroPython2015/Sphinx
+# EuroPython 2015 / Sphinx
 
 ```{admonition} Legacy Wiki Page
 :class: note

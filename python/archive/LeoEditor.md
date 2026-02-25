@@ -1,4 +1,4 @@
-# LeoEditor
+# Leo Editor
 
 ```{admonition} Legacy Wiki Page
 :class: note

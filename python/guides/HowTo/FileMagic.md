@@ -1,4 +1,4 @@
-# HowTo/FileMagic
+# How to / File Magic
 
 ```{admonition} Legacy Wiki Page
 :class: note

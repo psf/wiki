@@ -1,4 +1,4 @@
-# EuroPython/2007/IrcMeetings/IrcMeeting3
+# EuroPython / 2007 / IRC Meetings / IRC Meeting 3
 
 ```{admonition} Legacy Wiki Page
 :class: note

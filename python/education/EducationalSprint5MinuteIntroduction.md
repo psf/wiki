@@ -1,4 +1,4 @@
-# EducationalSprint5MinuteIntroduction
+# Educational Sprint 5 Minute Introduction
 
 ```{admonition} Legacy Wiki Page
 :class: note

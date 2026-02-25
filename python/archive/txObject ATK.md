@@ -1,4 +1,4 @@
-# txObject ATK
+# tx Object ATK
 
 ```{admonition} Legacy Wiki Page
 :class: note

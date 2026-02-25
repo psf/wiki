@@ -1,4 +1,4 @@
-# NeedForSpeed/Tasks
+# Need for Speed / Tasks
 
 ```{admonition} Legacy Wiki Page
 :class: note

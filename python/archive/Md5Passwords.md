@@ -1,4 +1,4 @@
-# Md5Passwords
+# Md 5 Passwords
 
 ```{admonition} Legacy Wiki Page
 :class: note

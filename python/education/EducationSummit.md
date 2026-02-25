@@ -1,4 +1,4 @@
-# EducationSummit
+# Education Summit
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Using a translation of Qt
+# PyQt / Using a translation of Qt
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# LightningTalks
+# Lightning Talks
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# HiddenJewels
+# Hidden Jewels
 
 ```{admonition} Legacy Wiki Page
 :class: note

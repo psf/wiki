@@ -1,4 +1,4 @@
-# PyCon2008/Feedback/Comments
+# PyCon 2008 / Feedback / Comments
 
 ```{admonition} Legacy Wiki Page
 :class: note

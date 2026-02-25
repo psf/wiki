@@ -1,4 +1,4 @@
-# WikiCourse/18 Attachments
+# Wiki Course / 18 Attachments
 
 ```{admonition} Legacy Wiki Page
 :class: note

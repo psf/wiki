@@ -1,4 +1,4 @@
-# BeginnersGuide/Examples
+# Beginners Guide / Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

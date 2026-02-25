@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/MatlabAlternative
+# Advocacy Writing Tasks / Matlab Alternative
 
 ```{admonition} Legacy Wiki Page
 :class: note

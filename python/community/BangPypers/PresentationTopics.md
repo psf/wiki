@@ -1,4 +1,4 @@
-# BangPypers/PresentationTopics
+# BangPypers / Presentation Topics
 
 ```{admonition} Legacy Wiki Page
 :class: note

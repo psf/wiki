@@ -1,4 +1,4 @@
-# IntegratingPythonWithOtherLanguages
+# Integrating Python with Other Languages
 
 ```{admonition} Legacy Wiki Page
 :class: note

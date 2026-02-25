@@ -1,4 +1,4 @@
-# PyConLeonardRichardson
+# PyCon Leonard Richardson
 
 ```{admonition} Legacy Wiki Page
 :class: note

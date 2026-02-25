@@ -1,4 +1,4 @@
-# DbApiModuleComparison
+# DB API Module Comparison
 
 ```{admonition} Legacy Wiki Page
 :class: note

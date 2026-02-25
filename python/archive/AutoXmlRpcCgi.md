@@ -1,4 +1,4 @@
-# AutoXmlRpcCgi
+# Auto XML RPC CGI
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Py3kStringFormatting
+# Py3k String Formatting
 
 ```{admonition} Legacy Wiki Page
 :class: note

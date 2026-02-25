@@ -1,4 +1,4 @@
-# PythonMagick
+# Python Magick
 
 ```{admonition} Legacy Wiki Page
 :class: note

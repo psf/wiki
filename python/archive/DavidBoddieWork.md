@@ -1,4 +1,4 @@
-# DavidBoddieWork
+# David Boddie Work
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/DocsAndHowtos
+# PyQt / Docs and Howtos
 
 ```{admonition} Legacy Wiki Page
 :class: note

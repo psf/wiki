@@ -1,4 +1,4 @@
-# PyQt/ReleaseForge
+# PyQt / Release Forge
 
 ```{admonition} Legacy Wiki Page
 :class: note

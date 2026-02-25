@@ -1,4 +1,4 @@
-# PyOhio/Restaurants
+# PyOhio / Restaurants
 
 ```{admonition} Legacy Wiki Page
 :class: note

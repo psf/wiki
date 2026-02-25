@@ -1,4 +1,4 @@
-# ModPythonBof
+# Mod Python BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

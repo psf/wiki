@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/StartingAUserGroup
+# Advocacy Writing Tasks / Starting a User Group
 
 ```{admonition} Legacy Wiki Page
 :class: note

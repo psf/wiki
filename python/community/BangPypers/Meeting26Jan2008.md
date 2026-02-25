@@ -1,4 +1,4 @@
-# BangPypers/Meeting26Jan2008
+# BangPypers / Meeting 26 Jan 2008
 
 ```{admonition} Legacy Wiki Page
 :class: note

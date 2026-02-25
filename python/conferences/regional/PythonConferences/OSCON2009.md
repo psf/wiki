@@ -1,4 +1,4 @@
-# PythonConferences/OSCON2009
+# Python Conferences / OSCON 2009
 
 ```{admonition} Legacy Wiki Page
 :class: note

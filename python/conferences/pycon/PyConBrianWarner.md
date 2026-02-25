@@ -1,4 +1,4 @@
-# PyConBrianWarner
+# PyCon Brian Warner
 
 ```{admonition} Legacy Wiki Page
 :class: note

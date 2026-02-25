@@ -1,4 +1,4 @@
-# SummitTrackThree
+# Summit Track Three
 
 ```{admonition} Legacy Wiki Page
 :class: note

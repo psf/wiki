@@ -1,4 +1,4 @@
-# DaLiuAus
+# Da Liu Aus
 
 ```{admonition} Legacy Wiki Page
 :class: note

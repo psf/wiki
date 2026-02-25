@@ -1,4 +1,4 @@
-# FöräldrarlösaSidor
+# Föräldrarlösa Sidor
 
 ```{admonition} Legacy Wiki Page
 :class: note

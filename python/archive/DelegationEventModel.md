@@ -1,4 +1,4 @@
-# DelegationEventModel
+# Delegation Event Model
 
 ```{admonition} Legacy Wiki Page
 :class: note

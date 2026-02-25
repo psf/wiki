@@ -1,4 +1,4 @@
-# EventStats/HitCounts
+# Event Stats / Hit Counts
 
 ```{admonition} Legacy Wiki Page
 :class: note

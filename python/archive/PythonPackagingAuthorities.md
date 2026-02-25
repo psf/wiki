@@ -1,4 +1,4 @@
-# PythonPackagingAuthorities
+# Python Packaging Authorities
 
 ```{admonition} Legacy Wiki Page
 :class: note

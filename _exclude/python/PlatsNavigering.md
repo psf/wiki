@@ -1,4 +1,4 @@
-# PlatsNavigering
+# Plats Navigering
 
 ```{admonition} Legacy Wiki Page
 :class: note

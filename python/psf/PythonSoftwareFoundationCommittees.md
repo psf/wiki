@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationCommittees
+# Python Software Foundation Committees
 
 ```{admonition} Legacy Wiki Page
 :class: note

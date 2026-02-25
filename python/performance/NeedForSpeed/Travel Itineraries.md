@@ -1,4 +1,4 @@
-# NeedForSpeed/Travel Itineraries
+# Need for Speed / Travel Itineraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

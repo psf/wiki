@@ -1,4 +1,4 @@
-# PyConPostMortemIrcTranscript
+# PyCon Post Mortem IRC Transcript
 
 ```{admonition} Legacy Wiki Page
 :class: note

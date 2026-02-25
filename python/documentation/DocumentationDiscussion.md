@@ -1,4 +1,4 @@
-# DocumentationDiscussion
+# Documentation Discussion
 
 ```{admonition} Legacy Wiki Page
 :class: note

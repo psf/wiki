@@ -1,4 +1,4 @@
-# PythonUserGroupDhaka
+# Python User Group Dhaka
 
 ```{admonition} Legacy Wiki Page
 :class: note

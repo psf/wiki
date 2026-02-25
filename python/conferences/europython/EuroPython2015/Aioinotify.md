@@ -1,4 +1,4 @@
-# EuroPython2015/Aioinotify
+# EuroPython 2015 / Aioinotify
 
 ```{admonition} Legacy Wiki Page
 :class: note

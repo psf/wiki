@@ -1,4 +1,4 @@
-# PyCon2008/OpenSpace
+# PyCon 2008 / Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

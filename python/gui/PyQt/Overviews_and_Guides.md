@@ -1,4 +1,4 @@
-# PyQt/Overviews_and_Guides
+# PyQt / Overviews and Guides
 
 ```{admonition} Legacy Wiki Page
 :class: note

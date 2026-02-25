@@ -1,4 +1,4 @@
-# PyOhio/Supplies
+# PyOhio / Supplies
 
 ```{admonition} Legacy Wiki Page
 :class: note

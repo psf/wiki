@@ -1,4 +1,4 @@
-# ChrisMcDonough
+# Chris Mc Donough
 
 ```{admonition} Legacy Wiki Page
 :class: note

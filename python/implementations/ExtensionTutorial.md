@@ -1,4 +1,4 @@
-# ExtensionTutorial
+# Extension Tutorial
 
 ```{admonition} Legacy Wiki Page
 :class: note

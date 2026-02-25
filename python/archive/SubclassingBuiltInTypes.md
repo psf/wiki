@@ -1,4 +1,4 @@
-# SubclassingBuiltInTypes
+# Subclassing Built in Types
 
 ```{admonition} Legacy Wiki Page
 :class: note

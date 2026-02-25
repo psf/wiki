@@ -1,4 +1,4 @@
-# Pyconindia2011
+# PyCon india 2011
 
 ```{toctree}
 :maxdepth: 1

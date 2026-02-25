@@ -1,4 +1,4 @@
-# PythonDebuggers
+# Python Debuggers
 
 ```{admonition} Legacy Wiki Page
 :class: note

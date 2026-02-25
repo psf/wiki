@@ -1,4 +1,4 @@
-# JythonMonthly/Articles/November2008
+# Jython Monthly / Articles / November 2008
 
 ```{admonition} Legacy Wiki Page
 :class: note

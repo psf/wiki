@@ -1,4 +1,4 @@
-# PyConIndia2011/InitialActionPlan
+# PyCon India 2011 / Initial Action Plan
 
 ```{admonition} Legacy Wiki Page
 :class: note

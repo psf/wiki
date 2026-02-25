@@ -1,4 +1,4 @@
-# ZopeBooks
+# Zope Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

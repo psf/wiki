@@ -1,4 +1,4 @@
-# MembershipModelVisualization
+# Membership Model Visualization
 
 ```{admonition} Legacy Wiki Page
 :class: note

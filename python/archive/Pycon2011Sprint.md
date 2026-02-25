@@ -1,4 +1,4 @@
-# Pycon2011Sprint
+# PyCon 2011 Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

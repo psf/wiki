@@ -1,4 +1,4 @@
-# AdvocacyWritingTasks/ClassroomPython
+# Advocacy Writing Tasks / Classroom Python
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# Advocacy/WearablesGadgets
+# Advocacy / Wearables Gadgets
 
 ```{admonition} Legacy Wiki Page
 :class: note

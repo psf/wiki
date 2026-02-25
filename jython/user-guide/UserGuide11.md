@@ -1,4 +1,4 @@
-# UserGuide11
+# User Guide 11
 
 ```{admonition} Legacy Wiki Page
 :class: note

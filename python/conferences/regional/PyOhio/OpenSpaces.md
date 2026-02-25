@@ -1,4 +1,4 @@
-# PyOhio/OpenSpaces
+# PyOhio / Open Spaces
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# ItalianLanguage
+# Italian Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

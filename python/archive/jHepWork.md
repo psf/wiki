@@ -1,4 +1,4 @@
-# jHepWork
+# j Hep Work
 
 ```{admonition} Legacy Wiki Page
 :class: note

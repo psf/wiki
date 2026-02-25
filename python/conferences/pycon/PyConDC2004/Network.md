@@ -1,4 +1,4 @@
-# PyConDC2004/Network
+# PyCon DC 2004 / Network
 
 ```{admonition} Legacy Wiki Page
 :class: note

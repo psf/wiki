@@ -1,4 +1,4 @@
-# PyPortMidi
+# PyPort Midi
 
 ```{admonition} Legacy Wiki Page
 :class: note

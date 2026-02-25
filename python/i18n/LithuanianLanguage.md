@@ -1,4 +1,4 @@
-# LithuanianLanguage
+# Lithuanian Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

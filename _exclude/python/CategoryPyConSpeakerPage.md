@@ -1,4 +1,4 @@
-# CategoryPyConSpeakerPage
+# Category PyCon Speaker Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# TokyoPythonistas
+# Tokyo Pythonistas
 
 ```{admonition} Legacy Wiki Page
 :class: note

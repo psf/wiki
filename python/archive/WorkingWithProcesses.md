@@ -1,4 +1,4 @@
-# WorkingWithProcesses
+# Working with Processes
 
 ```{admonition} Legacy Wiki Page
 :class: note

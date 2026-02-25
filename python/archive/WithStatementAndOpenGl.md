@@ -1,4 +1,4 @@
-# WithStatementAndOpenGl
+# With Statement and Open Gl
 
 ```{admonition} Legacy Wiki Page
 :class: note

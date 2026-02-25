@@ -1,4 +1,4 @@
-# BoxModel
+# Box Model
 
 ```{admonition} Legacy Wiki Page
 :class: note

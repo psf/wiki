@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/AttributeLookupMethods
+# Jython Developer Guide / Attribute Lookup Methods
 
 ```{admonition} Legacy Wiki Page
 :class: note

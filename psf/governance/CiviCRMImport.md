@@ -1,4 +1,4 @@
-# CiviCRMImport
+# CiviCRM Import
 
 ```{admonition} Legacy Wiki Page
 :class: note

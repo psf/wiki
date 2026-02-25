@@ -1,4 +1,4 @@
-# PresentationSoftware
+# Presentation Software
 
 ```{admonition} Legacy Wiki Page
 :class: note

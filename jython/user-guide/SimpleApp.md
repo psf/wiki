@@ -1,4 +1,4 @@
-# SimpleApp
+# Simple App
 
 ```{admonition} Legacy Wiki Page
 :class: note

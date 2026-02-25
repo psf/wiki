@@ -1,4 +1,4 @@
-# Distutils/Proposals/AutoconfLikeOptions
+# Distutils / Proposals / Autoconf Like Options
 
 ```{admonition} Legacy Wiki Page
 :class: note

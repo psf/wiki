@@ -1,4 +1,4 @@
-# boost.python/SimpleExample
+# boost.python / Simple Example
 
 ```{admonition} Legacy Wiki Page
 :class: note

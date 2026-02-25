@@ -1,4 +1,4 @@
-# Py3kDeprecated
+# Py3k Deprecated
 
 ```{admonition} Legacy Wiki Page
 :class: note

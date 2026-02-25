@@ -1,4 +1,4 @@
-# BitwiseOperators
+# Bitwise Operators
 
 ```{admonition} Legacy Wiki Page
 :class: note

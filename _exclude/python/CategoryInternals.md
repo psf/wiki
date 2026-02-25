@@ -1,4 +1,4 @@
-# CategoryInternals
+# Category Internals
 
 ```{admonition} Legacy Wiki Page
 :class: note

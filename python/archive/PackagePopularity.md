@@ -1,4 +1,4 @@
-# PackagePopularity
+# Package Popularity
 
 ```{admonition} Legacy Wiki Page
 :class: note

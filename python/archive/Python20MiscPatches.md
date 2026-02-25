@@ -1,4 +1,4 @@
-# Python20MiscPatches
+# Python 20 Misc Patches
 
 ```{admonition} Legacy Wiki Page
 :class: note

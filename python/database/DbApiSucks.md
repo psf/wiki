@@ -1,4 +1,4 @@
-# DbApiSucks
+# DB API Sucks
 
 ```{admonition} Legacy Wiki Page
 :class: note

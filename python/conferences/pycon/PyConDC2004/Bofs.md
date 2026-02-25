@@ -1,4 +1,4 @@
-# PyConDC2004/Bofs
+# PyCon DC 2004 / Bofs
 
 ```{admonition} Legacy Wiki Page
 :class: note

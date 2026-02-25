@@ -1,4 +1,4 @@
-# SecureShell
+# Secure Shell
 
 ```{admonition} Legacy Wiki Page
 :class: note

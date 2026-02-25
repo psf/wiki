@@ -1,4 +1,4 @@
-# AfpyCamp2012
+# Afpy Camp 2012
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PythonVsRuby
+# Python vs Ruby
 
 ```{admonition} Legacy Wiki Page
 :class: note

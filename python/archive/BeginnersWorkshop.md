@@ -1,4 +1,4 @@
-# BeginnersWorkshop
+# Beginners Workshop
 
 ```{admonition} Legacy Wiki Page
 :class: note

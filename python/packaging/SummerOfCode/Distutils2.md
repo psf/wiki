@@ -1,4 +1,4 @@
-# SummerOfCode/Distutils2
+# Summer of Code / Distutils 2
 
 ```{admonition} Legacy Wiki Page
 :class: note

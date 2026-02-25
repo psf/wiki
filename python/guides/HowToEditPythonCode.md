@@ -1,4 +1,4 @@
-# HowToEditPythonCode
+# How to Edit Python Code
 
 ```{admonition} Legacy Wiki Page
 :class: note

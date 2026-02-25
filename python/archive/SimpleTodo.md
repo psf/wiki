@@ -1,4 +1,4 @@
-# SimpleTodo
+# Simple Todo
 
 ```{admonition} Legacy Wiki Page
 :class: note

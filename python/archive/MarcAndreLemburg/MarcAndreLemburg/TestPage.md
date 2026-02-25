@@ -1,4 +1,4 @@
-# MarcAndreLemburg/TestPage
+# Marc Andre Lemburg / Test Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

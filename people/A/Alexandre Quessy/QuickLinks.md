@@ -1,4 +1,4 @@
-# AlexandreQuessy/QuickLinks
+# Alexandre Quessy / Quick Links
 
 ```{admonition} Legacy Wiki Page
 :class: note

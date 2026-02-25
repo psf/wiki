@@ -1,4 +1,4 @@
-# PythonCdCore
+# Python Cd Core
 
 ```{admonition} Legacy Wiki Page
 :class: note

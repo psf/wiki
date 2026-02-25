@@ -1,4 +1,4 @@
-# PageD'Accueil
+# Page D'Accueil
 
 ```{admonition} Legacy Wiki Page
 :class: note

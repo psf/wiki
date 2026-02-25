@@ -1,4 +1,4 @@
-# SwingExamples
+# Swing Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# GreekPythonBooks
+# Greek Python Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

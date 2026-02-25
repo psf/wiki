@@ -1,4 +1,4 @@
-# DunderAlias
+# Dunder Alias
 
 ```{admonition} Legacy Wiki Page
 :class: note

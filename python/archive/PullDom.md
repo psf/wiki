@@ -1,4 +1,4 @@
-# PullDom
+# Pull Dom
 
 ```{admonition} Legacy Wiki Page
 :class: note

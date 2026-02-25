@@ -1,4 +1,4 @@
-# MacPython/Camino
+# MacPython / Camino
 
 ```{admonition} Legacy Wiki Page
 :class: note

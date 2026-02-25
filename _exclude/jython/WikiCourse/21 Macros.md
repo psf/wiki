@@ -1,4 +1,4 @@
-# WikiCourse/21 Macros
+# Wiki Course / 21 Macros
 
 ```{admonition} Legacy Wiki Page
 :class: note

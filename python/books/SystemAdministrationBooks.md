@@ -1,4 +1,4 @@
-# SystemAdministrationBooks
+# System Administration Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

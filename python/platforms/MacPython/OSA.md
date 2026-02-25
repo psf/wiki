@@ -1,4 +1,4 @@
-# MacPython/OSA
+# MacPython / OSA
 
 ```{admonition} Legacy Wiki Page
 :class: note

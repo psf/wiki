@@ -1,4 +1,4 @@
-# PyQt/Augmented Web Browser
+# PyQt / Augmented Web Browser
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# VerwaisteSeiten
+# Verwaiste Seiten
 
 ```{admonition} Legacy Wiki Page
 :class: note

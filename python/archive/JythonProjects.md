@@ -1,4 +1,4 @@
-# JythonProjects
+# Jython Projects
 
 ```{admonition} Legacy Wiki Page
 :class: note

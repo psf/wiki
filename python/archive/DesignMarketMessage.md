@@ -1,4 +1,4 @@
-# DesignMarketMessage
+# Design Market Message
 
 ```{admonition} Legacy Wiki Page
 :class: note

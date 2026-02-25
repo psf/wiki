@@ -1,4 +1,4 @@
-# DavidMPatterson
+# David M Patterson
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# MacPython/MacRoman
+# MacPython / Mac Roman
 
 ```{admonition} Legacy Wiki Page
 :class: note

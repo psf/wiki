@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/pytestpylib
+# PyCon 2008 / Sprint Signups / pytestpylib
 
 ```{admonition} Legacy Wiki Page
 :class: note

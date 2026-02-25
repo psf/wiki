@@ -1,4 +1,4 @@
-# PythonSoftwareFoundatio
+# Python Software Foundatio
 
 ```{admonition} Legacy Wiki Page
 :class: note

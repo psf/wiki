@@ -1,4 +1,4 @@
-# DavidLeBlanc
+# David Le Blanc
 
 ```{admonition} Legacy Wiki Page
 :class: note

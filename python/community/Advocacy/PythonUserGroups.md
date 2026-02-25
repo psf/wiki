@@ -1,4 +1,4 @@
-# Advocacy/PythonUserGroups
+# Advocacy / Python User Groups
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# AdaptersAndInterfacesSprint
+# Adapters and Interfaces Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

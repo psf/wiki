@@ -1,4 +1,4 @@
-# CPythonVmInternals
+# CPython Vm Internals
 
 ```{admonition} Legacy Wiki Page
 :class: note

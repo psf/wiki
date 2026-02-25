@@ -1,4 +1,4 @@
-# PageCount
+# Page Count
 
 ```{admonition} Legacy Wiki Page
 :class: note

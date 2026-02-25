@@ -1,4 +1,4 @@
-# MacPython/potool
+# MacPython / potool
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyQt/Adding auto-completion to a QLineEdit
+# PyQt / Adding auto-completion to a Q Line Edit
 
 ```{admonition} Legacy Wiki Page
 :class: note

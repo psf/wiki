@@ -1,4 +1,4 @@
-# PyConIN_Sponsors
+# PyCon in Sponsors
 
 ```{admonition} Legacy Wiki Page
 :class: note

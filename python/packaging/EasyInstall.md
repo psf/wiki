@@ -1,4 +1,4 @@
-# EasyInstall
+# Easy Install
 
 ```{admonition} Legacy Wiki Page
 :class: note

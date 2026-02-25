@@ -1,4 +1,4 @@
-# PyConIndia2011/SponsorShipTiers
+# PyCon India 2011 / Sponsor Ship Tiers
 
 ```{admonition} Legacy Wiki Page
 :class: note

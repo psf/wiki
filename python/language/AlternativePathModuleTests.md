@@ -1,4 +1,4 @@
-# AlternativePathModuleTests
+# Alternative Path Module Tests
 
 ```{admonition} Legacy Wiki Page
 :class: note

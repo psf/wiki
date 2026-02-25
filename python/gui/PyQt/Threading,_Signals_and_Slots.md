@@ -1,4 +1,4 @@
-# PyQt/Threading,_Signals_and_Slots
+# PyQt / Threading, Signals and Slots
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# EmacsVsVi
+# Emacs vs Vi
 
 ```{admonition} Legacy Wiki Page
 :class: note

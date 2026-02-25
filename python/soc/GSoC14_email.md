@@ -1,4 +1,4 @@
-# GSoC14_email
+# G So C 14 email
 
 ```{admonition} Legacy Wiki Page
 :class: note

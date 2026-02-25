@@ -1,4 +1,4 @@
-# JythonModulesInJava
+# Jython Modules in Java
 
 ```{admonition} Legacy Wiki Page
 :class: note

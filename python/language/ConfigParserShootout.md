@@ -1,4 +1,4 @@
-# ConfigParserShootout
+# Config Parser Shootout
 
 ```{admonition} Legacy Wiki Page
 :class: note

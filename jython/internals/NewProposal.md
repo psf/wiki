@@ -1,4 +1,4 @@
-# NewProposal
+# New Proposal
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# NewMembershipModel
+# New Membership Model
 
 ```{admonition} Legacy Wiki Page
 :class: note

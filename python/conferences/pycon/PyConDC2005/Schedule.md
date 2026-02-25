@@ -1,4 +1,4 @@
-# PyConDC2005/Schedule
+# PyCon DC 2005 / Schedule
 
 ```{admonition} Legacy Wiki Page
 :class: note

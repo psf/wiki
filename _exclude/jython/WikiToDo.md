@@ -1,4 +1,4 @@
-# WikiToDo
+# Wiki to Do
 
 ```{admonition} Legacy Wiki Page
 :class: note

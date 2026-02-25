@@ -1,4 +1,4 @@
-# Pyconplanning
+# PyCon planning
 
 ```{toctree}
 :maxdepth: 1

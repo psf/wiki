@@ -1,4 +1,4 @@
-# PyConIndiaAccommodation
+# PyCon India Accommodation
 
 ```{admonition} Legacy Wiki Page
 :class: note

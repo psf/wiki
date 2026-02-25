@@ -1,4 +1,4 @@
-# PythonPhilosophy
+# Python Philosophy
 
 ```{admonition} Legacy Wiki Page
 :class: note

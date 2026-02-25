@@ -1,4 +1,4 @@
-# FlexibleStringRepresentation
+# Flexible String Representation
 
 ```{admonition} Legacy Wiki Page
 :class: note

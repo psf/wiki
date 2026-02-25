@@ -1,4 +1,4 @@
-# MacPython/Growl/AppleScriptSupport
+# MacPython / Growl / AppleScript Support
 
 ```{admonition} Legacy Wiki Page
 :class: note

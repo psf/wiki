@@ -1,4 +1,4 @@
-# PyCon2006/Sprints/ConferenceSprint
+# PyCon 2006 / Sprints / Conference Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

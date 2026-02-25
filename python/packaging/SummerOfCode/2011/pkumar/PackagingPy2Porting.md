@@ -1,4 +1,4 @@
-# SummerOfCode/2011/pkumar/PackagingPy2Porting
+# Summer of Code / 2011 / pkumar / Packaging Py 2 Porting
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# PyCon/Attendance
+# PyCon / Attendance
 
 ```{admonition} Legacy Wiki Page
 :class: note

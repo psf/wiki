@@ -1,4 +1,4 @@
-# PyQt/Animated items using delegates and movies
+# PyQt / Animated items using delegates and movies
 
 ```{admonition} Legacy Wiki Page
 :class: note

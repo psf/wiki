@@ -1,4 +1,4 @@
-# JythonMonthly
+# Jython Monthly
 
 ```{admonition} Legacy Wiki Page
 :class: note

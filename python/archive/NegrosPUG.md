@@ -1,4 +1,4 @@
-# NegrosPUG
+# Negros PUG
 
 ```{admonition} Legacy Wiki Page
 :class: note

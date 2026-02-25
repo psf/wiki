@@ -1,4 +1,4 @@
-# MartinvonLoewis/Python 3 For Metro
+# Martinvon Loewis / Python 3 for Metro
 
 ```{admonition} Legacy Wiki Page
 :class: note

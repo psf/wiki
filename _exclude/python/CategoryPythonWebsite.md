@@ -1,4 +1,4 @@
-# CategoryPythonWebsite
+# Category Python Website
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# NumericAndScientific/Libraries
+# Numeric and Scientific / Libraries
 
 ```{admonition} Legacy Wiki Page
 :class: note

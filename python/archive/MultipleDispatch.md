@@ -1,4 +1,4 @@
-# MultipleDispatch
+# Multiple Dispatch
 
 ```{admonition} Legacy Wiki Page
 :class: note

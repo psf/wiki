@@ -1,4 +1,4 @@
-# LanguageSetup
+# Language Setup
 
 ```{admonition} Legacy Wiki Page
 :class: note

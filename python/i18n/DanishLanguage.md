@@ -1,4 +1,4 @@
-# DanishLanguage
+# Danish Language
 
 ```{admonition} Legacy Wiki Page
 :class: note

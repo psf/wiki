@@ -1,4 +1,4 @@
-# MacPython/XcodeNotes
+# MacPython / Xcode Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

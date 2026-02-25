@@ -1,4 +1,4 @@
-# MissingPage
+# Missing Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

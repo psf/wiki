@@ -1,4 +1,4 @@
-# HelpTemplate
+# Help Template
 
 ```{admonition} Legacy Wiki Page
 :class: note

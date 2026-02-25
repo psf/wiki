@@ -1,4 +1,4 @@
-# PythonSoftwareFoundation/Proposals/StrategicPriorities
+# Python Software Foundation / Proposals / Strategic Priorities
 
 ```{admonition} Legacy Wiki Page
 :class: note

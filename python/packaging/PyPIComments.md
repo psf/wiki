@@ -1,4 +1,4 @@
-# PyPIComments
+# PyPI Comments
 
 ```{admonition} Legacy Wiki Page
 :class: note

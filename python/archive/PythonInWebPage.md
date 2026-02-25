@@ -1,4 +1,4 @@
-# PythonInWebPage
+# Python in Web Page
 
 ```{admonition} Legacy Wiki Page
 :class: note

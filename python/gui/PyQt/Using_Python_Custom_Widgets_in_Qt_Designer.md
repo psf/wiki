@@ -1,4 +1,4 @@
-# PyQt/Using_Python_Custom_Widgets_in_Qt_Designer
+# PyQt / Using Python Custom Widgets in Qt Designer
 
 ```{admonition} Legacy Wiki Page
 :class: note

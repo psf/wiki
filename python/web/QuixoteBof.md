@@ -1,4 +1,4 @@
-# QuixoteBof
+# Quixote BOF
 
 ```{admonition} Legacy Wiki Page
 :class: note

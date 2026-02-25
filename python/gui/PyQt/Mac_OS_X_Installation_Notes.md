@@ -1,4 +1,4 @@
-# PyQt/Mac_OS_X_Installation_Notes
+# PyQt / Mac OS X Installation Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

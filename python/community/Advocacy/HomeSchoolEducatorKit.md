@@ -1,4 +1,4 @@
-# Advocacy/HomeSchoolEducatorKit
+# Advocacy / Home School Educator Kit
 
 ```{admonition} Legacy Wiki Page
 :class: note

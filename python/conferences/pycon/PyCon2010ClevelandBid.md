@@ -1,4 +1,4 @@
-# PyCon2010ClevelandBid
+# PyCon 2010 Cleveland Bid
 
 ```{admonition} Legacy Wiki Page
 :class: note

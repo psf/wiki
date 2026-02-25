@@ -1,4 +1,4 @@
-# PyQt/Widgets in a layout
+# PyQt / Widgets in a layout
 
 ```{admonition} Legacy Wiki Page
 :class: note

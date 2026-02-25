@@ -1,4 +1,4 @@
-# DistributionUtilities
+# Distribution Utilities
 
 ```{admonition} Legacy Wiki Page
 :class: note

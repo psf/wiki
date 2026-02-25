@@ -1,4 +1,4 @@
-# PythonSoftwareFoundationLicenseFaq/Apache-License-2.0
+# Python Software Foundation License FAQ / Apache-License-2.0
 
 ```{admonition} Legacy Wiki Page
 :class: note

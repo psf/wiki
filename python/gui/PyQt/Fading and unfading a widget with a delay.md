@@ -1,4 +1,4 @@
-# PyQt/Fading and unfading a widget with a delay
+# PyQt / Fading and unfading a widget with a delay
 
 ```{admonition} Legacy Wiki Page
 :class: note

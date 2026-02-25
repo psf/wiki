@@ -1,4 +1,4 @@
-# StrongVsWeakTyping
+# Strong vs Weak Typing
 
 ```{admonition} Legacy Wiki Page
 :class: note

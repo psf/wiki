@@ -1,4 +1,4 @@
-# EditPythonCodeChinese
+# Edit Python Code Chinese
 
 ```{admonition} Legacy Wiki Page
 :class: note

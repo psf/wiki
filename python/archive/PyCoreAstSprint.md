@@ -1,4 +1,4 @@
-# PyCoreAstSprint
+# PyCore Ast Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

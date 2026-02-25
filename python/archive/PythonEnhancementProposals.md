@@ -1,4 +1,4 @@
-# PythonEnhancementProposals
+# Python Enhancement Proposals
 
 ```{admonition} Legacy Wiki Page
 :class: note

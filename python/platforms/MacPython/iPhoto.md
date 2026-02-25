@@ -1,4 +1,4 @@
-# MacPython/iPhoto
+# MacPython / i Photo
 
 ```{admonition} Legacy Wiki Page
 :class: note

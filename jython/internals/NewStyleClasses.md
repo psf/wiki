@@ -1,4 +1,4 @@
-# NewStyleClasses
+# New Style Classes
 
 ```{admonition} Legacy Wiki Page
 :class: note

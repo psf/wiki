@@ -1,4 +1,4 @@
-# MartinvonLoewis/Python3ForWindowsPhone
+# Martinvon Loewis / Python 3 for Windows Phone
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# UsingDbApiWithPostgres
+# Using DB API with Postgres
 
 ```{admonition} Legacy Wiki Page
 :class: note

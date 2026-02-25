@@ -1,4 +1,4 @@
-# WikiKurs/07 Der Text-Editor
+# Wiki Kurs / 07 Der Text-Editor
 
 ```{admonition} Legacy Wiki Page
 :class: note

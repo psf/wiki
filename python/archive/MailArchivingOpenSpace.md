@@ -1,4 +1,4 @@
-# MailArchivingOpenSpace
+# Mail Archiving Open Space
 
 ```{admonition} Legacy Wiki Page
 :class: note

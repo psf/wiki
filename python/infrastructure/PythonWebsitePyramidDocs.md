@@ -1,4 +1,4 @@
-# PythonWebsitePyramidDocs
+# Python Website Pyramid Docs
 
 ```{admonition} Legacy Wiki Page
 :class: note

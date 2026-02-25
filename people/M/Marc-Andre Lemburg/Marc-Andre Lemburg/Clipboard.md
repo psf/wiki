@@ -1,4 +1,4 @@
-# MarcAndreLemburg/Clipboard
+# Marc Andre Lemburg / Clipboard
 
 ```{admonition} Legacy Wiki Page
 :class: note

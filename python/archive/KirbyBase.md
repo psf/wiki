@@ -1,4 +1,4 @@
-# KirbyBase
+# Kirby Base
 
 ```{admonition} Legacy Wiki Page
 :class: note

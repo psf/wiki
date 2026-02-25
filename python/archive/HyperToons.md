@@ -1,4 +1,4 @@
-# HyperToons
+# Hyper Toons
 
 ```{admonition} Legacy Wiki Page
 :class: note

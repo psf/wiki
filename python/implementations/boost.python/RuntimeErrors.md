@@ -1,4 +1,4 @@
-# boost.python/RuntimeErrors
+# boost.python / Runtime Errors
 
 ```{admonition} Legacy Wiki Page
 :class: note

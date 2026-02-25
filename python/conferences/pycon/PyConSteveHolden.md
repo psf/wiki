@@ -1,4 +1,4 @@
-# PyConSteveHolden
+# PyCon Steve Holden
 
 ```{admonition} Legacy Wiki Page
 :class: note

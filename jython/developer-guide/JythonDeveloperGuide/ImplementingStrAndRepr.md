@@ -1,4 +1,4 @@
-# JythonDeveloperGuide/ImplementingStrAndRepr
+# Jython Developer Guide / Implementing Str and Repr
 
 ```{admonition} Legacy Wiki Page
 :class: note

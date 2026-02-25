@@ -1,4 +1,4 @@
-# JürgenHermann
+# Jürgen Hermann
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# OutOfPrintBooks
+# Out of Print Books
 
 ```{admonition} Legacy Wiki Page
 :class: note

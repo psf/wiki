@@ -1,4 +1,4 @@
-# PythonLibraryReference/GenericOperatingSystemServices
+# Python Library Reference / Generic Operating System Services
 
 ```{admonition} Legacy Wiki Page
 :class: note

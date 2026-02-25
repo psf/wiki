@@ -1,4 +1,4 @@
-# PyCon2008/SprintSignups/MailMigration
+# PyCon 2008 / Sprint Signups / Mail Migration
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# DatabaseExamples
+# Database Examples
 
 ```{admonition} Legacy Wiki Page
 :class: note

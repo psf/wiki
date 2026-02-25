@@ -1,4 +1,4 @@
-# EpyDoc
+# Epy Doc
 
 ```{admonition} Legacy Wiki Page
 :class: note

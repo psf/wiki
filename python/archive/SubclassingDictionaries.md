@@ -1,4 +1,4 @@
-# SubclassingDictionaries
+# Subclassing Dictionaries
 
 ```{admonition} Legacy Wiki Page
 :class: note

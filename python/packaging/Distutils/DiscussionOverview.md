@@ -1,4 +1,4 @@
-# Distutils/DiscussionOverview
+# Distutils / Discussion Overview
 
 ```{admonition} Legacy Wiki Page
 :class: note

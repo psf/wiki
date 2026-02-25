@@ -1,4 +1,4 @@
-# SummerOfCode/Mentors
+# Summer of Code / Mentors
 
 ```{admonition} Legacy Wiki Page
 :class: note

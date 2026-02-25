@@ -1,4 +1,4 @@
-# EmailSigSprint
+# Email Sig Sprint
 
 ```{admonition} Legacy Wiki Page
 :class: note

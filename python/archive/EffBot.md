@@ -1,4 +1,4 @@
-# EffBot
+# Eff Bot
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# CategoryTrackerArchive
+# Category Tracker Archive
 
 ```{admonition} Legacy Wiki Page
 :class: note

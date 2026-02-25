@@ -1,4 +1,4 @@
-# TabbedExample
+# Tabbed Example
 
 ```{admonition} Legacy Wiki Page
 :class: note

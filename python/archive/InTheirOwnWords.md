@@ -1,4 +1,4 @@
-# InTheirOwnWords
+# In Their Own Words
 
 ```{admonition} Legacy Wiki Page
 :class: note

@@ -1,4 +1,4 @@
-# WikiSandLåda
+# Wiki Sand Låda
 
 ```{admonition} Legacy Wiki Page
 :class: note

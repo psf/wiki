@@ -1,4 +1,4 @@
-# PyConIndiaSpeakerNotes
+# PyCon India Speaker Notes
 
 ```{admonition} Legacy Wiki Page
 :class: note

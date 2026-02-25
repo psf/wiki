@@ -1,4 +1,4 @@
-# UsecasesOfDevelop
+# Usecases of Develop
 
 ```{admonition} Legacy Wiki Page
 :class: note

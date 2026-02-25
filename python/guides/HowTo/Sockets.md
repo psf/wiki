@@ -1,4 +1,4 @@
-# HowTo/Sockets
+# How to / Sockets
 
 ```{admonition} Legacy Wiki Page
 :class: note

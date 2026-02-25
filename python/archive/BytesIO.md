@@ -1,4 +1,4 @@
-# BytesIO
+# Bytes IO
 
 ```{admonition} Legacy Wiki Page
 :class: note

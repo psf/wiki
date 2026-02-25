@@ -1,4 +1,4 @@
-# SqlObject
+# SQLObject
 
 ```{admonition} Legacy Wiki Page
 :class: note

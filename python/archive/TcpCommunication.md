@@ -1,4 +1,4 @@
-# TcpCommunication
+# TCP Communication
 
 ```{admonition} Legacy Wiki Page
 :class: note

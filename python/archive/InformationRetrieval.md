@@ -1,4 +1,4 @@
-# InformationRetrieval
+# Information Retrieval
 
 ```{admonition} Legacy Wiki Page
 :class: note
