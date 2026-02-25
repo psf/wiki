@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: JacobCoffee/wiki
+  repo: psf/wiki
   branch: main
   base_url: https://api.wiki.python.org
 

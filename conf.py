@@ -131,7 +131,7 @@ html_context = {
 
 html_theme_options = {
     "accent_color": "blue",
-    "github_url": "https://github.com/JacobCoffee/wiki",
+    "github_url": "https://github.com/psf/wiki",
     "twitter_url": "https://x.com/ThePSF",
     "mastodon_url": "https://fosstodon.org/@ThePSF",
     "linkedin_url": "https://www.linkedin.com/company/thepsf",
@@ -149,7 +149,7 @@ html_theme_options = {
                 },
                 {
                     "title": "Edit on GitHub",
-                    "url": "https://github.com/JacobCoffee/wiki",
+                    "url": "https://github.com/psf/wiki",
                     "summary": "Fork the repository and submit changes via pull request",
                 },
             ],
