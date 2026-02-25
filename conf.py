@@ -144,7 +144,8 @@ html_theme_options = {
             "children": [
                 {
                     "title": "Edit with CMS",
-                    "url": "edit/",
+                    "url": "edit/index.html",
+                    "resource": True,
                     "summary": "Use the web-based editor to create or edit wiki pages",
                 },
                 {
