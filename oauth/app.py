@@ -36,16 +36,16 @@ CALLBACK_HTML = """<!doctype html>
   const token = "%s";
   const data = JSON.stringify({token: token, provider: "github"});
 
-  // Step 1: Tell the parent we're starting auth
-  window.opener.postMessage("authorizing:github", "*");
-
-  // Step 2: Wait for parent to acknowledge, then send the token
+  // Sveltia/Decap CMS sends "authorizing:github" to the popup;
+  // the popup replies with the token and closes itself.
   window.addEventListener("message", function(e) {
-    window.opener.postMessage(
-      "authorization:github:success:" + data,
-      e.origin
-    );
-    window.close();
+    if (e.data === "authorizing:github") {
+      window.opener.postMessage(
+        "authorization:github:success:" + data,
+        e.origin
+      );
+      window.close();
+    }
   }, false);
 })();
 </script></body></html>
