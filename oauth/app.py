@@ -35,18 +35,23 @@ CALLBACK_HTML = """<!doctype html>
 (function() {
   const token = "%s";
   const data = JSON.stringify({token: token, provider: "github"});
+  const msg = "authorization:github:success:" + data;
 
-  // Sveltia/Decap CMS sends "authorizing:github" to the popup;
-  // the popup replies with the token and closes itself.
+  function sendToken(origin) {
+    window.opener.postMessage(msg, origin || "*");
+    window.close();
+  }
+
+  // Listen for "authorizing:github" from the parent (Sveltia CMS protocol)
   window.addEventListener("message", function(e) {
     if (e.data === "authorizing:github") {
-      window.opener.postMessage(
-        "authorization:github:success:" + data,
-        e.origin
-      );
-      window.close();
+      sendToken(e.origin);
     }
   }, false);
+
+  // Also notify the parent we're ready (Decap CMS protocol),
+  // which triggers it to send "authorizing:github" back to us.
+  window.opener.postMessage("authorizing:github", "*");
 })();
 </script></body></html>
 """
@@ -94,7 +99,15 @@ async def callback(code: str) -> ASGIResponse:
             headers={"Accept": "application/json"},
         )
         resp.raise_for_status()
-        token = resp.json()["access_token"]
+        body = resp.json()
+        token = body.get("access_token")
+        if not token:
+            error = body.get("error_description", body.get("error", "unknown error"))
+            return ASGIResponse(
+                body=f"OAuth token exchange failed: {error}".encode(),
+                media_type="text/plain",
+                status_code=400,
+            )
     return ASGIResponse(body=(CALLBACK_HTML % token).encode(), media_type="text/html")
 
 
