@@ -3,7 +3,7 @@ name = "wiki-oauth"
 version = "0.1.0"
 description = "GitHub OAuth proxy for Decap CMS on the Python Wiki"
 requires-python = ">=3.13"
-license = "MIT"
+license = "MIT OR Apache-2.0"
 dependencies = [
     "litestar>=2.15",
     "httpx>=0.28",
