@@ -3,7 +3,7 @@ name = "python-wiki"
 version = "0.1.0"
 description = "The Python community wiki"
 requires-python = ">=3.14"
-license = "MIT"
+license = "MIT OR Apache-2.0"
 dependencies = []
 
 [dependency-groups]

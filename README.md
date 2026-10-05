@@ -125,3 +125,13 @@ _templates/           Sphinx HTML templates
 _static/              CSS and static assets
 conf.py               Sphinx configuration
 ```
+
+### License
+
+Unless otherwise noted, this project is dual-licensed under the
+[MIT License](LICENSE-MIT) or the [Apache License, Version 2.0](LICENSE-APACHE),
+at your option (`MIT OR Apache-2.0`).
+
+Existing third-party material, including migrated wiki content and attachments,
+retains its original copyright and licensing terms. This dual-license grant does
+not relicense that material or grant rights its contributors have not authorized.
