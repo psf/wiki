@@ -1,0 +1,11 @@
+.git/
+.github/
+.venv/
+.env
+.env.*
+_build/
+_raw/
+_exclude/
+oauth/
+!oauth/app.py
+**/__pycache__/

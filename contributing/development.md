@@ -80,13 +80,17 @@ make oauth-test
 
 ### CI/CD
 
-Three GitHub Actions workflows keep things running:
+Two GitHub Actions workflows keep things running:
 
 **`docs.yml`** -- Builds the full Sphinx site on pushes to `main` and deploys to GitHub Pages. Also runs on PRs to catch build errors before merge. Changes that can't affect the site (`scripts/`, `_exclude/`, `oauth/` apart from `app.py`, other workflows, etc.) skip it. The `_build` directory is cached per `uv.lock`, so most builds only re-render the pages that changed; a dependency update starts from scratch.
 
-**`preview.yml`** -- Generates a deploy preview for every pull request. It detects which wiki section(s) changed and scopes the build accordingly -- if you only touched files in `psf/`, it only builds the PSF wiki. The preview URL gets posted as a comment on the PR.
-
 **`linkcheck.yml`** -- Runs weekly (Monday 6am UTC) to scan for dead external links across all pages. Results get uploaded as artifacts.
+
+### PR previews
+
+Pull requests get a preview site from Cabotage's branch deploys, the same setup as the Python Insider blog. Production stays on GitHub Pages; Cabotage only builds the previews. The root `Dockerfile` runs the full Sphinx build and serves the HTML with nginx (`nginx.conf`), and `Procfile` defines the process. Cabotage posts the preview link as a PR comment and tears the environment down when the PR closes.
+
+Cabotage skips PRs from forks, because the preview environment would share the base environment's configuration and build credentials. Fork contributors should build the section they changed locally (see above).
 
 ### Project layout
 
@@ -102,6 +106,9 @@ oauth/                  GitHub OAuth proxy for Sveltia CMS
   tests/                Proxy test suite
   k8s/                  Kubernetes manifests (ingress)
 _extra/edit/            Sveltia CMS frontend (config.yml + loader HTML)
+Dockerfile              PR preview image (Sphinx build served by nginx)
+nginx.conf              nginx config for the preview image
+Procfile                Cabotage process definition for previews
 _static/                CSS and static assets
 _templates/             Sphinx HTML template overrides
 _redirects.json         All 5,400+ redirect mappings
