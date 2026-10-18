@@ -26,7 +26,7 @@ SageMath really wants to run in Linux with a some sort of interface to Python ( 
 
 ### SageMath Notebook 
 
-In this version the user uses a web browser to access \"Worksheets\". A worksheet is a series of cells each of which contains some Python code. Each cell can be executed seperately with the output appearing below the cell. Worksheets can be saved, opened, downloaded, etc.. Technically the notebook has a web server component which runs either on a seperate machine from the client, or on the same machine.
+In this version the user uses a web browser to access \"Worksheets\". A worksheet is a series of cells each of which contains some Python code. Each cell can be executed separately with the output appearing below the cell. Worksheets can be saved, opened, downloaded, etc.. Technically the notebook has a web server component which runs either on a separate machine from the client, or on the same machine.
 
 There are some free public servers for running the notebook, for example see [http://www.sagenb.org/](http://www.sagenb.org/) or you can set up your own server. Generally you need to register to get an account.
 
