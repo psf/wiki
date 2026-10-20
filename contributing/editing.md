@@ -23,6 +23,8 @@ If you're making a new subdirectory, put an `index.md` inside it with its own to
 
 Pages migrated from MoinMoin have a legacy notice at the top. You can remove it if you're substantially rewriting the content. New pages don't need one.
 
+The notice's opening fence must be `` ```{admonition} Legacy Wiki Page ``. Putting `{admonition}` inside a `plain` code block displays the directive literally instead of rendering the notice.
+
 A minimal page looks like:
 
 ```markdown
