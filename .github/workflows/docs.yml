@@ -8,7 +8,6 @@ on:
       # Not part of the built site
       - "!_exclude/**"
       - "!scripts/**"
-      - "!_redirects.json"
       - "!_redirects_moin.json"
       - "!.github/dependabot.yml"
       - "!.github/workflows/linkcheck.yml"
@@ -23,6 +22,9 @@ on:
       - "!oauth/**"
       # Rendered by autodoc in contributing/api.md
       - "oauth/app.py"
+      # Imported by Sphinx to generate legacy redirects on every build
+      - "scripts/gen_redirect_pages.py"
+      - "scripts/tests/**"
   pull_request:
     branches: [main]
     paths: *site-paths
@@ -63,6 +65,9 @@ jobs:
 
       - name: Install dependencies
         run: uv sync
+
+      - name: Test legacy redirects
+        run: uv run python -m unittest discover -s scripts/tests -v
 
       # Sphinx rewrites every page when any template is newer than the last
       # build, and uv stamps .venv files with install time. The cache key below

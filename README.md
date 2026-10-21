@@ -84,18 +84,29 @@ when you need admonitions, toctrees, or tab panels.
 
 The old MoinMoin wiki used a custom URL encoding for special characters — spaces became `(20)`, slashes became `(2f)`, umlauts like `Ä` became `(c384)`, and so on. The new site uses plain decoded filenames.
 
-All 5400+ redirects live in `_redirects.json`, handled by [sphinxext-rediraffe](https://github.com/wpilibsuite/sphinxext-rediraffe). This file covers two kinds of redirects:
+Page moves and encoded filename mappings live in `_redirects.json`. On every Sphinx build, `scripts/gen_redirect_pages.py` resolves redirect chains and regenerates static HTML redirects in `_redirects_html/`; no redirect extension or raw archive is required.
 
-- **Old MoinMoin URLs** — `/jython/Aktuelle(c384)nderungen` redirects to `/jython/AktuelleÄnderungen`
-- **Reorganization moves** — pages that were moved into subdirectories during the migration
+The generator also restores the Python wiki's public `/moin/` URLs from the mappings and surviving Python pages. For example, `/moin/BeginnersGuide/NonProgrammers` redirects directly to `/python/getting-started/BeginnersGuide/NonProgrammers.html`. Explicit `/moin/` mappings take precedence. Directory landing pages preserve parent-page bookmarks, and `/moin/` leads to the Python wiki home. Query strings and fragments survive redirects.
 
-If you reorganize pages or move files around, add entries to `_redirects.json` so old links don't break. After moving files, you can regenerate the MoinMoin URL redirects with:
+If you reorganize pages, add entries to `_redirects.json` using extensionless docnames, such as `"python/OldName": "python/guides/NewName"`. Builds automatically regenerate the HTML, and changes to the map trigger deployment.
+
+To regenerate the HTML without a Sphinx build:
+
+```bash
+uv run python scripts/gen_redirect_pages.py
+```
+
+To rescan the raw HTML archive for additional encoded filename mappings:
 
 ```bash
 make redirects
 ```
 
-This scans the raw HTML archive, builds the encoded-to-decoded mapping, and merges it with any existing reorganization redirects. It won't overwrite manual entries.
+This merges discovered mappings without overwriting manual entries, then regenerates the HTML. To run the redirect regression tests:
+
+```bash
+uv run python -m unittest discover -s scripts/tests -v
+```
 
 ### Other make targets
 
@@ -120,7 +131,9 @@ scripts/              Conversion and maintenance scripts
   strip_attrs.py      Strips pandoc attribute syntax from .md files
   gen_old_wiki_redirects.py
                       Generates MoinMoin URL → decoded path redirects
-_redirects.json       All redirect mappings (old URLs + reorganization moves)
+  gen_redirect_pages.py
+                      Generates static redirects, including legacy /moin/ aliases
+_redirects.json       Page moves and encoded filename mappings
 _templates/           Sphinx HTML templates
 _static/              CSS and static assets
 conf.py               Sphinx configuration

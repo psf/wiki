@@ -111,12 +111,12 @@ nginx.conf              nginx config for the preview image
 Procfile                Cabotage process definition for previews
 _static/                CSS and static assets
 _templates/             Sphinx HTML template overrides
-_redirects.json         All 5,400+ redirect mappings
-_redirects_html/        Generated static redirect pages
+_redirects.json         Page moves and encoded filename mappings
+_redirects_html/        Static redirects regenerated on every Sphinx build
 scripts/                Conversion and maintenance tooling
   convert.py            MoinMoin HTML → MyST Markdown converter
   gen_old_wiki_redirects.py   Builds the old-URL redirect map
-  gen_redirect_pages.py       Generates static HTML redirect files
+  gen_redirect_pages.py       Sphinx extension and CLI; includes legacy /moin/ aliases
   strip_attrs.py        Strips pandoc attribute cruft from .md files
   fix_moin_links.py     Fixes remaining MoinMoin-style links
   reorganize.py         Moves pages into subdirectories

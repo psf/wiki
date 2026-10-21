@@ -38,9 +38,11 @@ when you need admonitions, toctrees, or tab panels.
 
 #### What about redirects?
 
-The old MoinMoin wiki encoded special characters in URLs in its own way -- spaces became `(20)`, slashes became `(2f)`, German umlauts like `Ä` became `(c384)`. All 5,400+ redirects from old URLs to new paths live in `_redirects.json`.
+The old MoinMoin wiki encoded special characters in URLs in its own way -- spaces became `(20)`, slashes became `(2f)`, German umlauts like `Ä` became `(c384)`. Page moves and encoded filename mappings live in `_redirects.json`.
 
-If you move or rename a page, add an entry there so existing links don't break. You can regenerate the full redirect map with:
+If you move or rename a page, add an entry there using extensionless docnames, such as `"python/OldName": "python/guides/NewName"`. Every Sphinx build regenerates the static redirects and the Python wiki's public `/moin/` aliases automatically. Explicit `/moin/` entries override generated aliases. Map changes trigger deployment.
+
+To regenerate HTML without building the site, run `uv run python scripts/gen_redirect_pages.py`. To rescan the raw archive for additional encoded filename mappings and regenerate HTML, run:
 
 ```bash
 make redirects
