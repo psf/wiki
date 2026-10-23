@@ -28,7 +28,7 @@ To understand it more clearly, look at:
 
 - sys.stdout
 
-- sys.stdout.encoding \-- ![/!\\](/wiki/europython/img/alert.png "/!\") This seems to work on one of my computers (Vista,) but not on another of my computers (XP.) I haven\'t looked into differences of situation in detail.
+- sys.stdout.encoding \-- ⚠️ This seems to work on one of my computers (Vista,) but not on another of my computers (XP.) I haven\'t looked into differences of situation in detail.
 
 ## Windows 
 

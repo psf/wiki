@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Add your questions here and we\'ll do our best to answer them.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") If you subscribe to this page you will be notified when it changes. That way you can easily tell if/when your question has been answered.
+⚠️ If you subscribe to this page you will be notified when it changes. That way you can easily tell if/when your question has been answered.
 
 But see also:
 

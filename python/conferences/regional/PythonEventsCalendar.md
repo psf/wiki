@@ -70,7 +70,7 @@ For recurring events, please also include the recurrence information, e.g. \"mon
 
 - For *training sessions, courses, webinars and similar type of events*, please post your event on the [PythonTraining](../../archive/PythonTraining) page. We currently do not have a calendar for these.
 
-- ![/!\\](/wiki/europython/img/alert.png "/!\") **Please leave at least 4 weeks notice** when submitting events. The calendar team is volunteer driven. While we try to add new events swiftly, we cannot guarantee response times.
+- ⚠️ **Please leave at least 4 weeks notice** when submitting events. The calendar team is volunteer driven. While we try to add new events swiftly, we cannot guarantee response times.
 
 ### Bulk Submission of Events 
 
@@ -177,7 +177,7 @@ The team uses the python-events mailing list for discussion and to process event
 
 - [https://mail.python.org/mailman/listinfo/python-events](https://mail.python.org/mailman/listinfo/python-events)
 
-![/!\\](/wiki/europython/img/alert.png "/!\") As team member, it is vital for you to subscribe to this list, otherwise you won\'t get the incoming event notifications.
+⚠️ As team member, it is vital for you to subscribe to this list, otherwise you won\'t get the incoming event notifications.
 
 #### Guidelines for entries 
 

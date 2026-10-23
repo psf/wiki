@@ -23,7 +23,7 @@ Agenda:
 
   - consensus from group
 - Individual status/blockers
-  - Pradyun: yesterday was productive! ![:D](/wiki/europython/img/biggrin.png ":D") merged CI fixes which should unblock everything else. PR for flipping new resolver switch needs update re Python 2 change. Everything else: reviewing and merging PRs. Only looking at 20.3 milestone. All of this can be done in the next day assuming others are quick to respond. Reviewed many issues over the past day - nothing reproducible. So bugs likely already fixed!
+  - Pradyun: yesterday was productive! 😁 merged CI fixes which should unblock everything else. PR for flipping new resolver switch needs update re Python 2 change. Everything else: reviewing and merging PRs. Only looking at 20.3 milestone. All of this can be done in the next day assuming others are quick to respond. Reviewed many issues over the past day - nothing reproducible. So bugs likely already fixed!
 
     - knows what to do next
     - starting mid-Nov: reduced availability
@@ -33,7 +33,7 @@ Agenda:
 
   - Georgia: no blockers. Simply Secure\'s ops person will send contract amendment to PSF.
 
-  - Ernest: ![:-)](/wiki/europython/img/smile.png%20":-)")
+  - Ernest: 🙂
 
   - Sumana: yesterday, co worked w/ Pradyun. Finished first drafts for (1) docs for 20.3 new resolver (2) more details in new resolver migration guide. blocked on reviews. next up: more writing (release announcements + related things)
 

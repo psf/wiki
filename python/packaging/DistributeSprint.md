@@ -32,7 +32,7 @@ name / skills / desired date
 
 - Tarek Ziadé / zc.buildout, some distutils and setuptools internals / Any of the three dates
 
-- Toshio Kuratomi / Fedora Packaging, some paver, setuptools consumer / Thursday, Friday but none of the times ![:-(](/wiki/europython/img/sad.png ":-(") 7:00AM my time == 4:00PM CEST == 14:00 UTC. I could meet from that point on? Alternately, I could be online at 5:00UTC until I fall asleep.
+- Toshio Kuratomi / Fedora Packaging, some paver, setuptools consumer / Thursday, Friday but none of the times 🙁 7:00AM my time == 4:00PM CEST == 14:00 UTC. I could meet from that point on? Alternately, I could be online at 5:00UTC until I fall asleep.
 
 ## Tasks that will be covered 
 

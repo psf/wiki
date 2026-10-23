@@ -24,7 +24,7 @@ This will be updated regularly so check back often.
 
 - [Offical User Guide](http://www.jython.org/Project/userguide.html) (based on Jython 2.1)
 
-- [NewUsersGuide](../user-guide/NewUsersGuide) - ![/!\\](/wiki/modernized/img/alert.png "/!\") This is in the progress of being updated to version 2.2
+- [NewUsersGuide](../user-guide/NewUsersGuide) - ⚠️ This is in the progress of being updated to version 2.2
 
 **Examples:**
 

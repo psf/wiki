@@ -16,7 +16,7 @@ I have a Resume/CV at:
 
 - [http://www.siggraph.org/members/jryan/resume](http://www.siggraph.org/members/jryan/resume)
 
-Don\'t be afraid to Print. ![;)](/wiki/europython/img/smile4.png%20";)")
+Don\'t be afraid to Print. 😉
 
 Ah, also, I hope to be blogging again soon at:
 

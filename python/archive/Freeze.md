@@ -575,7 +575,7 @@ Two systems:
       File "test.py", line 2, in <module>
     ImportError: No module named time
 
-It\'s as if the dynload libraries aren\'t frozen. ![:-(](/wiki/europython/img/sad.png ":-(")
+It\'s as if the dynload libraries aren\'t frozen. 🙁
 
 \...
 

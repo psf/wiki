@@ -14,7 +14,7 @@ Is there such a thing as \"Sandboxed Python\"? Something where you can run a Pyt
 
 You could do all *sorts* of cool things with a sandboxed Python:
 
-- You could turn a wiki into an RAD development platform. You just draw up your interface with [WikiSyntax](http://c2.com/cgi/wiki?WikiSyntax "Wiki"), write up a little bit of Python code, and bam- instant application. ![:)](/wiki/europython/img/smile.png%20":)")
+- You could turn a wiki into an RAD development platform. You just draw up your interface with [WikiSyntax](http://c2.com/cgi/wiki?WikiSyntax "Wiki"), write up a little bit of Python code, and bam- instant application. 🙂
 
   - This is somewhat similar to [TiddlyWiki](http://www.tiddlywiki.com/) - a [JavaScript](./JavaScript.html)-based Wiki which behaves like a Web-based sandboxed application - although that approach utilises the [JavaScript](./JavaScript.html) sandbox functionality in the Web browser, rather than accessing a sandboxed server-side application.
 

@@ -16,7 +16,7 @@ When adding new sites to this list, please make sure that the links go straight 
 
 **For-profit job boards and recruiting agencies should not be listed on this page.**
 
-![/!\\](/wiki/europython/img/alert.png "/!\") If you want to submit individual job postings, you can do so on the [Python Job Board](https://www.python.org/jobs/).
+⚠️ If you want to submit individual job postings, you can do so on the [Python Job Board](https://www.python.org/jobs/).
 
 ### International Job Boards 
 

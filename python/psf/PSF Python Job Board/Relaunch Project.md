@@ -153,7 +153,7 @@ Please open tickets for any problems you find with the jobs app. The tickets sho
 
 - [Job board temporary installation](http://www.python.org/newjobs/) on the production site. This is a temporary location of the new Python job board, run using Django and backed by a database.
 
-  ![/!\\](/wiki/europython/img/alert.png "/!\") Please note that the database used by this temporary installation is the production one, so any changes to the database contents should be done with care!
+  ⚠️ Please note that the database used by this temporary installation is the production one, so any changes to the database contents should be done with care!
 
 - [Staging system implementation of the new job board](https://staging.python.org/newjobs/) This runs a copy of the production database on the staging branch of the python.org repository.
 

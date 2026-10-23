@@ -39,7 +39,7 @@ The buses\...
 
 In case of questions or problems: turn to the [BusManagement](http://www.usemod.com/cgi-bin/mb.pl?BusManagement "MeatBall")
 
-![\<!\>](/wiki/europython/img/attention.png "<!>") Detours: [TourBusMap](http://www.usemod.com/cgi-bin/mb.pl?TourBusMap "MeatBall")
+❗ Detours: [TourBusMap](http://www.usemod.com/cgi-bin/mb.pl?TourBusMap "MeatBall")
 
 ------------------------------------------------------------------------
 

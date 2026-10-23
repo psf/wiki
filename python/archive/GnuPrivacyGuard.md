@@ -25,7 +25,7 @@ or
 
 - build gpgme and the associated language bindings and [install from source](https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpgme.git;a=blob_plain;f=INSTALL;hb=HEAD)
 
-The manual is currently missing from the various python documentation repositories but there is an [online manual at adversary.org](https://files.au.adversary.org/crypto/gpgme-python-howto.html) ( ![/!\\](/wiki/europython/img/alert.png "/!\") bad HTTPS certificate at time of writing).
+The manual is currently missing from the various python documentation repositories but there is an [online manual at adversary.org](https://files.au.adversary.org/crypto/gpgme-python-howto.html) ( ⚠️ bad HTTPS certificate at time of writing).
 
 ### per operating system install instructions 
 

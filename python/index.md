@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Welcome to the Python Wiki, a user-editable compendium of knowledge based around the Python programming language. Some pages are protected against casual editing - see [WikiEditingGuidelines](archive/WikiEditingGuidelines) for more information about editing content.
 
-[Python](https://web.archive.orghttps://www.python.org/) is a great object-oriented, interpreted, and interactive programming language. It is often [compared](archive/LanguageComparisons) (favorably of course ![:-)](https://wiki.python.org/python/europython/img/smile.png ":-)") ) to Lisp, Tcl, Perl, Ruby, C#, Visual Basic, Visual Fox Pro, Scheme or Java\... and it\'s much more fun.
+[Python](https://web.archive.orghttps://www.python.org/) is a great object-oriented, interpreted, and interactive programming language. It is often [compared](archive/LanguageComparisons) (favorably of course 🙂 ) to Lisp, Tcl, Perl, Ruby, C#, Visual Basic, Visual Fox Pro, Scheme or Java\... and it\'s much more fun.
 
 Python combines remarkable power with very clear syntax. It has modules, classes, exceptions, very high level dynamic data types, and dynamic typing. There are interfaces to many system calls and libraries, as well as to [various windowing systems](/python/GUI%20Programming%20in%20Python.html). New built-in modules are easily written in C or C++ (or other languages, depending on the chosen [implementation](implementations/PythonImplementations)). Python is also usable as an extension language for [applications written in other languages](libraries/AppsWithPythonScripting) that need easy-to-use scripting or automation interfaces.
 

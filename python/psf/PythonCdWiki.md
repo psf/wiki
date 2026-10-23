@@ -10,7 +10,7 @@ If you have booted from the [PythonCd](PythonCd), the web pages you are looking 
 
 The software running the [PythonCd](PythonCd) wiki is a pure Python thing: [MoinMoin](MoinMoin) wiki running under [TwistedMatrix](../web/TwistedMatrix) (used as web server).
 
-![/!\\](/wiki/europython/img/alert.png "/!\") As you are running from CD, local changes to this wiki will be **lost** on reboot / power down. If you want to contribute, first go to the [master page on the Python.org wiki](http://wiki.python.org/moin/PythonCd).
+⚠️ As you are running from CD, local changes to this wiki will be **lost** on reboot / power down. If you want to contribute, first go to the [master page on the Python.org wiki](http://wiki.python.org/moin/PythonCd).
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ All the pages would be easier. So we could reference to other content about pyth
 
 Yeah, you never know when SCO is going to start contributing, and then say \"you can\'t do that!\" when you want to make use of what you wrote.
 
-It\'d be neat if wiki technology (What\'s this one running- [MoinMoin](MoinMoin)? ![;)](/wiki/europython/img/smile4.png%20";)") ) had a \"copyright switch,\" in your [UserPreferences](./UserPreferences.html) section. The default setting of the switch is \"Default Copyright.\" If you were to make a page, in that state, then the page\'s copyright is \"Default Copyright.\" People have to go into \"default copyright\" mode to use that page.
+It\'d be neat if wiki technology (What\'s this one running- [MoinMoin](MoinMoin)? 😉 ) had a \"copyright switch,\" in your [UserPreferences](./UserPreferences.html) section. The default setting of the switch is \"Default Copyright.\" If you were to make a page, in that state, then the page\'s copyright is \"Default Copyright.\" People have to go into \"default copyright\" mode to use that page.
 
 Yes, we could probably do more optimal things with diffs and what not, but this seems to me the easiest, simplest solution, but in terms of implementing it, and in terms of people being able to understand what\'s going on. And when it comes to legal stuff, we *definitely* want there to be no questions about what is going on.
 

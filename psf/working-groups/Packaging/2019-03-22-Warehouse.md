@@ -93,7 +93,7 @@ Warehouse issues to discuss:
   - Is this a problem? Priority?
     - Dustin: this is easy, we should just do it. Why aren\'t we doing it right now? Just an oversight.
 
-    - Donald: legacy PyPI didn\'t do it; ported old behavior. Tarballs implemented 15 yrs ago, gzip 10 yrs ago ![:-)](/wiki/europython/img/smile.png%20":-)")
+    - Donald: legacy PyPI didn\'t do it; ported old behavior. Tarballs implemented 15 yrs ago, gzip 10 yrs ago 🙂
 
     - Will: if easy to verify \.... in audits, people will accidentally bomb their sys in recursive validation process. Sandbox the process!
 

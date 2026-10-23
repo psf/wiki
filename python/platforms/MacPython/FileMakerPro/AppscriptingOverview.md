@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-![{i}](/wiki/europython/img/icon-info.png "{i}") *to use this script, you\'ll need the Library.fp7 and Library.tab sample files (I will post them asap) and to edit the `DBPATH` and `IMPORTFILE` variables accordingly.*
+ℹ️ *to use this script, you\'ll need the Library.fp7 and Library.tab sample files (I will post them asap) and to edit the `DBPATH` and `IMPORTFILE` variables accordingly.*
 
 :::: 
 ::: 

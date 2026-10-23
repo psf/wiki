@@ -32,7 +32,7 @@ Three examples are provided:
 
 **The PyPI Information example shows how a graphical user interface created with Qt Designer can be accessed and used in a PyQt4 application.**
 
-[![\[ATTACH\]](/wiki/europython/img/attach.png "[ATTACH]")]( "Upload new attachment "equationviewer.png"")
+[\[ATTACH\]]( "Upload new attachment "equationviewer.png"")
 
 **The Equation Viewer example uses a more realistic user interface, with menus, actions and toolbar buttons, and shows how these elements can be connected to features written in Python.**
 

@@ -368,7 +368,7 @@ This presentation shows how to best use each of these mechanisms to make your co
 
 Neal Norwitz / [MetaSlash](./MetaSlash.html)
 
-I\'ve been working on creating a new ATC system. Of course, it had to be written in Python. ![:-)](/wiki/europython/img/smile.png%20":-)") It also uses Twisted and the Tk canvas widget.
+I\'ve been working on creating a new ATC system. Of course, it had to be written in Python. 🙂 It also uses Twisted and the Tk canvas widget.
 
 - It already has modest functionality. the situation display can display
 

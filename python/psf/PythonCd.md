@@ -18,7 +18,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Contents of the Python CD 
 
-- [PythonCdDocs](PythonCdDocs) - lots of documentation (read them ![;)](/wiki/europython/img/smile4.png%20";)") )
+- [PythonCdDocs](PythonCdDocs) - lots of documentation (read them 😉 )
 
 - [PythonCdCore](PythonCdCore) - core Python packages and files
 
@@ -28,16 +28,16 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [PythonCdToDo](PythonCdToDo) - what we plan for the future
 
-- [PythonCdContributors](PythonCdContributors) - hall of fame ![;)](/wiki/europython/img/smile4.png%20";)")
+- [PythonCdContributors](PythonCdContributors) - hall of fame 😉
 
 ## Online ressources 
 
 - [PythonCdDownload](PythonCdDownload) - how to get the PythonCd from the internet
 
-- join #pythoncd@irc.freenode.net for discussion, development and support of PythonCd. The channel is brand new, so just hang out there and simply start writing. ![;)](/wiki/europython/img/smile4.png%20";)")
+- join #pythoncd@irc.freenode.net for discussion, development and support of PythonCd. The channel is brand new, so just hang out there and simply start writing. 😉
 
 - [http://wiki.python.org/moin/PythonCd](http://wiki.python.org/moin/PythonCd) for latest version of the wiki pages and other Python information
 
 - [http://python.org/](http://python.org/) for general Python information
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Developers and Contributors, please use the wiki and IRC as the main kind of collaboration.
+⚠️ Developers and Contributors, please use the wiki and IRC as the main kind of collaboration.

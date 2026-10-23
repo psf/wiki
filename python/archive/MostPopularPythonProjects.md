@@ -129,7 +129,7 @@ The download figures were last updated in March 2004.
 
 - downloads: [6K/month](http://sourceforge.net/project/stats/index.php?report=months&group_id=8482)
 
-- used by many other projects for collaboration and documentation (even right *here* ![;)](/wiki/europython/img/smile4.png%20";)") )
+- used by many other projects for collaboration and documentation (even right *here* 😉 )
 
 [NumPy](http://www.numpy.org/) / [NumArray](../people/NumArray)
 

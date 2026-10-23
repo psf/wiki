@@ -122,7 +122,7 @@ These questions will be moved to the [answered longer questions section](./Askin
 - How do I publish Python modules?
   - See [PublishingPythonModules](PublishingPythonModules) - [Philip](Philip), 2005-09-19
 
-    [lwickjr](lwickjr): My question, \"my\" page. I created that page, empty, in hopes that someone would populate it. They have, and I\'ve read it. They hadn\`t yet when I created \*this\* page for posting how-to questions, at about the same time, so I included the question here in the seed page. See the attachments to [my page](lwickjr) for my final solution to the problem. ![;)](/wiki/europython/img/smile4.png%20";)") By the way, \"How to publish Python modules\" has been renamed \"[PublishingPythonModules](PublishingPythonModules)\", to be more Wiki-style. \[Me, again.\] 2005-11-24.
+    [lwickjr](lwickjr): My question, \"my\" page. I created that page, empty, in hopes that someone would populate it. They have, and I\'ve read it. They hadn\`t yet when I created \*this\* page for posting how-to questions, at about the same time, so I included the question here in the seed page. See the attachments to [my page](lwickjr) for my final solution to the problem. 😉 By the way, \"How to publish Python modules\" has been renamed \"[PublishingPythonModules](PublishingPythonModules)\", to be more Wiki-style. \[Me, again.\] 2005-11-24.
 
 - i got winxp. i make a simple program like print \"hello\". i save it as whatever.py. then i double-click it. nothing happens just the windows cmd appears for a blink. Additionally you can go to Start -\> Run, type \'cmd\', and hit enter. Now cd to your foo.py file, and execute it.
 

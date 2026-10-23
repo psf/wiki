@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Coverage of Tools, editors and IDE\'s that support Jython or at least Python to some degree or another. Some of these may have better support for Jython then others. As with most things [YMMV](http://www.urbandictionary.com/define.php?term=YMMV) and all of these can be tried for free.
 
-- ![/!\\](/wiki/modernized/img/alert.png "/!\") *Please dont hesitate if you have anything to add to this list. Thanks*
+- ⚠️ *Please dont hesitate if you have anything to add to this list. Thanks*
 
 **Editors**
 

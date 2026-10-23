@@ -38,7 +38,7 @@ Agenda
 
 - future plans for PSF, hiring/funding, packaging & product management
 
-  - money ![:-(](/wiki/europython/img/sad.png ":-(") this year ![:-(](/wiki/europython/img/sad.png ":-(")
+  - money 🙁 this year 🙁
 
   - if we could get a multiyear grant for this that would be awesome
 

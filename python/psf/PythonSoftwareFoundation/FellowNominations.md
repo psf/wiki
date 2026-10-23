@@ -3352,7 +3352,7 @@ He\'s also broadly advanced the role of Python in the cloud automation world thr
 
 Anthony has worked tirelessly to help arrange behind-the-scenes funding for Python organizations such as [ZimboPy](./ZimboPy.html) \[zimbopy.com\] and for his work in creating (non-free) Python tutorials for people. \[[https://www.pluralsight.com/courses/python-2-to-python-3](https://www.pluralsight.com/courses/python-2-to-python-3)\].
 
-Anthony is a frequent attendee at [PyCon](../../conferences/pycon/PyCon) and will talk about his love for Python until even the most dedicated Pythonista might not want to listen any longer. ![;)](/wiki/europython/img/smile4.png%20";)") He\'s a wonderful asset to the Python community.
+Anthony is a frequent attendee at [PyCon](../../conferences/pycon/PyCon) and will talk about his love for Python until even the most dedicated Pythonista might not want to listen any longer. 😉 He\'s a wonderful asset to the Python community.
 
 #### Wes McKinney (elected 2018) 
 

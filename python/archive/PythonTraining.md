@@ -28,7 +28,7 @@ and this format for the GUI version of the page:
 
 Please *avoid excessive emphasis* and *keep the entries short* to give everyone a chance to promote their training classes.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Entries which are too long will be flagged as such from time to time to gently make the authors aware.
+⚠️ Entries which are too long will be flagged as such from time to time to gently make the authors aware.
 
 ### USA 
 

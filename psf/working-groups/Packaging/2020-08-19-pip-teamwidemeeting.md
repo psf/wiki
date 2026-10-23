@@ -57,7 +57,7 @@ Agenda:
 
     - Nicole: Not ideal, but reasonable
 
-    - Bernard: Given the constraint of time, it\'s \[best/good\]. Pradyun, please only mock this up (don\'t implement it in code). Low fidelity is better ![:)](/wiki/europython/img/smile.png%20":)")
+    - Bernard: Given the constraint of time, it\'s \[best/good\]. Pradyun, please only mock this up (don\'t implement it in code). Low fidelity is better 🙂
 
     - Sumana: \"sketches\", not prototypes.
       - If I can think abotu what a decoration might be, two distinct approaches (examples of decorations)
@@ -83,7 +83,7 @@ Agenda:
 
   - Pradyun: I think this is closely tied to [https://github.com/pypa/pip/issues/8380](https://github.com/pypa/pip/issues/8380) (`ResolutionTooDeep` error).
 
-  - Pradyun: I will be posting more thoughts in a comment on #8664 (what performance is acceptable) issue \-- not done yet. ![:(](/wiki/europython/img/sad.png ":(")
+  - Pradyun: I will be posting more thoughts in a comment on #8664 (what performance is acceptable) issue \-- not done yet. 🙁
 
     - `ResolutiontooDeep` happens when pip is trying multiple options because of conflicts. Ths is closely tied to being perceived as too slow. The heuristic we need to figure out to determine when we are taking too long will inform the error message, and vice versa: feedback from users on when pip is too slow will help us set the threshold. We are not 100% sure of how to determine the threshhold for too-slow perf or trying too many options and being slow.
 
@@ -120,7 +120,7 @@ Agenda:
   - Bernard has a question: after the pip resolution has started, can we prompt the user after X period of time to ask \"do you want me to keep going\"?
     - back to the \"interactive mode\" problem \.....
 
-    - also, is time the correct \"thing\" to measure \-- eg: I have a slow network and am downloading tensorflow ( \>300MB ) ![:(](/wiki/europython/img/sad.png ":(")
+    - also, is time the correct \"thing\" to measure \-- eg: I have a slow network and am downloading tensorflow ( \>300MB ) 🙁
 
   - Bernard:
     - This seems like a really reasonable approach, particularly as we are not able to test every permutation

@@ -42,7 +42,7 @@ If the package\'s *setup.py* (still) uses *distutils* rather than the [recommend
 
 Compatible architectures are specified for each compiler in brackets.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Before do anything, install or upgrade the *Setuptools* Python package. It contain compatibility improvements and add automatic use of compilers:
+⚠️ Before do anything, install or upgrade the *Setuptools* Python package. It contain compatibility improvements and add automatic use of compilers:
 
     pip install --upgrade setuptools
 
@@ -72,7 +72,7 @@ This is a standalone version of *Visual C++ 14.2* compiler, you don\'t need to i
 
 - The *setuptools* Python package version must be at least 34.4.0.
 
-![{i}](/wiki/europython/img/icon-info.png "{i}") Build Tools also allows to install any previous Visual C++ 14 version (Including 2015, 2017 ones).
+ℹ️ Build Tools also allows to install any previous Visual C++ 14 version (Including 2015, 2017 ones).
 
 ### Microsoft Visual C++ 14.2 with Visual Studio 2019 (x86, x64, ARM, ARM64) 
 
@@ -86,13 +86,13 @@ This is a standalone version of *Visual C++ 14.1* compiler, you don\'t need to i
 
 - The *setuptools* Python package version must be at least 34.4.0.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Build Tools for Visual Studio 2017 was upgraded by Microsoft to Build Tools for Visual Studio 2019. See the previous paragraph to install it.
+⚠️ Build Tools for Visual Studio 2017 was upgraded by Microsoft to Build Tools for Visual Studio 2019. See the previous paragraph to install it.
 
 ### Microsoft Visual C++ 14.1 with Visual Studio 2017 (x86, x64, ARM, ARM64) 
 
 *Visual Studio 2017* contains *Visual C++ 14.1* compiler. The *setuptools* Python package version must be at least 34.4.0.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Visual Studio 2017 was upgraded by Microsoft to Visual Studio 2019. See the previous paragraph to install it.
+⚠️ Visual Studio 2017 was upgraded by Microsoft to Visual Studio 2019. See the previous paragraph to install it.
 
 ### Microsoft Visual C++ 14.0 standalone: Visual C++ Build Tools 2015 (x86, x64, ARM) 
 
@@ -102,13 +102,13 @@ This is a standalone version of *Visual C++ 14.0* compiler, you don\'t need to i
 
 - The *setuptools* Python package version must be at least 24.0.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Visual C++ Build Tools 2015 was upgraded by Microsoft to Build Tools for Visual Studio 2017. See the previous paragraph to install it.
+⚠️ Visual C++ Build Tools 2015 was upgraded by Microsoft to Build Tools for Visual Studio 2017. See the previous paragraph to install it.
 
 ### Microsoft Visual C++ 14.0 with Visual Studio 2015 (x86, x64, ARM) 
 
 *Visual Studio 2015* contains *Visual C++ 14.0* compiler. *Distutils* will automatically detect the compiler and use it.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Visual Studio 2015 was upgraded by Microsoft to Visual Studio 2017. See the previous paragraph to install it.
+⚠️ Visual Studio 2015 was upgraded by Microsoft to Visual Studio 2017. See the previous paragraph to install it.
 
 ### Microsoft Visual C++ 10.0 standalone: Windows SDK 7.1 (x86, x64, ia64) 
 
@@ -138,15 +138,15 @@ This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to in
 
 - The *setuptools* Python package version must be at least 6.0.
 
-![{i}](/wiki/europython/img/icon-info.png "{i}") Even though this package\'s name refers to Python 2.7 specifically, you can use it with all Python versions that use *Visual C++ 9.0*.
+ℹ️ Even though this package\'s name refers to Python 2.7 specifically, you can use it with all Python versions that use *Visual C++ 9.0*.
 
-![{i}](/wiki/europython/img/icon-info.png "{i}") This package always installs its start menu shortcuts for the installing user (i.e. an administrator) only. To get them for all users, run the installation like this: *msiexec /i \<full path to .msi\> ALLUSERS=1*.
+ℹ️ This package always installs its start menu shortcuts for the installing user (i.e. an administrator) only. To get them for all users, run the installation like this: *msiexec /i \<full path to .msi\> ALLUSERS=1*.
 
 ### Microsoft Visual C++ 9.0 standalone: Windows SDK 7.0 (x86, x64, ia64) 
 
 This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to install *Visual Studio 2008*.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") The use of *Microsoft Visual C++ Compiler for Python 2.7* is recommended (If you don\'t need to compile for ia64). See the previous paragraph to install it.
+⚠️ The use of *Microsoft Visual C++ Compiler for Python 2.7* is recommended (If you don\'t need to compile for ia64). See the previous paragraph to install it.
 
 - Install *[Microsoft .NET Framework 3.5 SP1](https://www.microsoft.com/download/details.aspx?id=25150)* if not present.
 
@@ -158,7 +158,7 @@ This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to in
 
 This is a standalone version of *Visual C++ 9.0* compiler, you don\'t need to install *Visual Studio 2008*.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Windows SDK 6.1 was upgraded by Microsoft to Windows SDK 7.0. See the previous paragraph to install it.
+⚠️ Windows SDK 6.1 was upgraded by Microsoft to Windows SDK 7.0. See the previous paragraph to install it.
 
 - Install *[Microsoft .NET Framework 3.5 SP1](https://www.microsoft.com/download/details.aspx?id=25150)* if not present.
 

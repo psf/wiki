@@ -238,7 +238,7 @@ The Diversity discussions and mailing list are in English, but there is a listin
 
 [On the HARD work of reaching out (Science Fiction editorships)](http://preview.tinyurl.com/l5cqgd) - also suggested as being insightful/inspirational. [(link is tinyurl preview link because the real URL contains a word banned on this wiki)]
 
-[Gr8 Designs for Gr8 Girls](https://www.gr8-designs.ca/) - A computer science activity day for Grade 8 Girls. [(NOTE: Browser security certificate has expired. ![:(](/wiki/europython/img/sad.png ":(") )]
+[Gr8 Designs for Gr8 Girls](https://www.gr8-designs.ca/) - A computer science activity day for Grade 8 Girls. [(NOTE: Browser security certificate has expired. 🙁 )]
 
 [Women and FOSS](http://worldgame.blogspot.com/2008/07/women-and-foss.html) - blog post with a number of good links to resources re: feminism and/or technology. [EduPython post also with a number of links](http://www.mail-archive.com/edupython@googlegroups.com/msg00152.html) [(Note: not sure how to classify this or if links from it should be promoted to this page directly\... -[DougPhilips](./DougPhilips.html))]
 

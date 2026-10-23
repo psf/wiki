@@ -78,4 +78,4 @@ Here is an overview of popular packages installed on the [PythonCd](PythonCd).
 
 ------------------------------------------------------------------------
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Check against [PythonCdRawPackageList](PythonCdRawPackageList) before putting on this page! If unsure, put a ? in front of the entry here.
+⚠️ Check against [PythonCdRawPackageList](PythonCdRawPackageList) before putting on this page! If unsure, put a ? in front of the entry here.

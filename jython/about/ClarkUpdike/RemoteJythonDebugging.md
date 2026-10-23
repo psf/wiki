@@ -77,7 +77,7 @@ I have used this technique also for debugging a development Tomcat server remote
 
 - \[\^[http://java.sun.com/j2se/1.4.2/docs/guide/jpda/architecture.html](http://java.sun.com/j2se/1.4.2/docs/guide/jpda/architecture.html) 1.4.2 jdpa architecture (high level)\]
 
-- \[\^[http://www.ftponline.com/javapro/2003_06/online/debugging_kjones_06_23_03](http://www.ftponline.com/javapro/2003_06/online/debugging_kjones_06_23_03) javapro article on debugging servlets (login required)\] ![:\\](/wiki/modernized/img/ohwell.png ":\")
+- \[\^[http://www.ftponline.com/javapro/2003_06/online/debugging_kjones_06_23_03](http://www.ftponline.com/javapro/2003_06/online/debugging_kjones_06_23_03) javapro article on debugging servlets (login required)\] 😕
 
 ------------------------------------------------------------------------
 

@@ -68,7 +68,7 @@ Performance might not have been a concern at all for jarray. But I know I have u
 
 I\'ve been assuming that since PyArray is a sequence, it should also implement `List`. But the reasons not do this are:
 
-- The use case for treating arrays as `List`s seems weak. Java uses the `Array.asList(Object[] a)` method to get a `List` from an array, and that is all I think is really required from a collection interoperability standpoint. Python offers the `tolist()` method, and PyArray should offer the same thing. Remember, `list` *will* implement `List`, so your only 9 keystrokes away ![:)](/wiki/modernized/img/smile.png%20":)")
+- The use case for treating arrays as `List`s seems weak. Java uses the `Array.asList(Object[] a)` method to get a `List` from an array, and that is all I think is really required from a collection interoperability standpoint. Python offers the `tolist()` method, and PyArray should offer the same thing. Remember, `list` *will* implement `List`, so your only 9 keystrokes away 🙂
 
 - Python arrays are list-like: append, extend, slice, etc. I think we can make PyArray do the same tricks.
 

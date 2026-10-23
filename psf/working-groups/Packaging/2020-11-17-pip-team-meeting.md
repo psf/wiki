@@ -20,7 +20,7 @@ Agenda
 - status and blockers
   - Georgia \[absent\] - making progress on training
 
-  - Sumana has not done outreach to package manager maintainers ![:(](/wiki/europython/img/sad.png ":(") \-- to do immediately after this meeting \[DONE\]
+  - Sumana has not done outreach to package manager maintainers 🙁 \-- to do immediately after this meeting \[DONE\]
 
     - also need to write some draft release material
     - need to approve Simply Secure invoice

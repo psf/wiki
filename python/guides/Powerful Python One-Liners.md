@@ -38,7 +38,7 @@ So, use your one-liner superpower wisely!
 
 ### Overview: 10 one-liners that fit into a tweet 
 
-I visited this page oftentimes and I loved studying the one-liners presented above. Thanks for creating this awesome resource, JAM, and RJW! ![:)](/wiki/europython/img/smile.png%20":)")
+I visited this page oftentimes and I loved studying the one-liners presented above. Thanks for creating this awesome resource, JAM, and RJW! 🙂
 
 Because I learned a lot from studying the one-liners, I thought why not revive the page (after almost ten years since the last change happened)?
 

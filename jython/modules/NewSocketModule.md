@@ -224,7 +224,7 @@ In java, there is no concept of a file descriptor table. Instead, java deals wit
 
 Also, the only reason why one might need the return value from the **socket.fileno()** method is to pass it to one of the functions in the [select module](SelectModule). However, the portable way to do this, i.e. the way to write code that works portably across cpython and jython (and other pythons such as ironpython, pypy, etc) is to **pass the socket object directly to the select call**. This is approved by Guido, the python BDFL, as you can see from this email discussion on python-dev: [python-dev: return value of socket.fileno()](http://mail.python.org/pipermail/python-dev/2007-May/073409.html).
 
-The **socket.fileno()** method has been added to jython purely for code compatibility, i.e. to prevent exceptions from code that was not written to be portable (we try hard to be good citizens in jython-land {{/wiki/modernized/img/smile4.png\|;-) )
+The **socket.fileno()** method has been added to jython purely for code compatibility, i.e. to prevent exceptions from code that was not written to be portable (we try hard to be good citizens in jython-land 😉)
 
 For a much more detailed discussion of this subject, see this email discussion: [fileno support is not in jython. Reason?](http://comments.gmane.org/gmane.comp.lang.jython.devel/3994)
 

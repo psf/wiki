@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 All books in this category are out of print. They may contain outdated information and are listed here only for historical reference.
 :::
 
-![{i}](/wiki/europython/img/icon-info.png "{i}") Ordered by publication date.
+ℹ️ Ordered by publication date.
 
 ### Internet Programming with Python 
 

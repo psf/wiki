@@ -24,9 +24,9 @@ Know of a solution that\'s not listed here or information about a listed service
 
 If you are new to editing Wikis, please check [HelpOnTables](HelpOnTables) for hints about editing tables. If you need to create a cell with no content, use \" \".
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Attempts to remove your competition from the lists are futile!
+⚠️ Attempts to remove your competition from the lists are futile!
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Also, this is not an advertising service, so please restrict yourself to information relevant to Python users!
+⚠️ Also, this is not an advertising service, so please restrict yourself to information relevant to Python users!
 
 ### Hosting Options 
 

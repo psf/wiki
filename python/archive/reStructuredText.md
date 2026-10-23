@@ -28,7 +28,7 @@ More information:
 
 - [Brett Cannon\'s PyCon Tutorial](http://www.ocf.berkeley.edu/~bac/rest_tutorial.html)
 
-![{i}](/wiki/europython/img/icon-info.png "{i}") [MoinMoin](MoinMoin) contains an (incomplete) bridge to the docutils\'s parser, you can try this by using \"#format rst\" as the first line of a wiki page. See [RestSample](http://moinmo.in/RestSample "MoinMoin") for an example. This of course only works when you use the current CVS version, and when docutils is installed.
+ℹ️ [MoinMoin](MoinMoin) contains an (incomplete) bridge to the docutils\'s parser, you can try this by using \"#format rst\" as the first line of a wiki page. See [RestSample](http://moinmo.in/RestSample "MoinMoin") for an example. This of course only works when you use the current CVS version, and when docutils is installed.
 
 ### Reading reST, Writing HTML 
 

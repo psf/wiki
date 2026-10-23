@@ -20,7 +20,7 @@ Participants:
 
 - Bernard
 
-- The Uber Conference AI-bot ![:)](/wiki/europython/img/smile.png%20":)")
+- The Uber Conference AI-bot 🙂
 
 Agenda:
 
@@ -39,7 +39,7 @@ Agenda:
 
   - Would make the dependency resolution process faster, since it\'s doing a metadata lookup via a partial download (instead of the entire file).
 
-  - I realized we could do this when reading the survey responses. I don\'t recall if I brought this up before. ![:)](/wiki/europython/img/smile.png%20":)")
+  - I realized we could do this when reading the survey responses. I don\'t recall if I brought this up before. 🙂
 
   - What options are we considering?
     - a\) roll it out in 20.3
@@ -73,7 +73,7 @@ Agenda:
   - Add email link on pip\'s documentation
   - SH: yes. Maybe ask Yeray? Sviatoslav (@webknjaz)
 
-- NH: Thank you to dev team for providing feedback on pip functionality surveys! ![:D](/wiki/europython/img/biggrin.png ":D")
+- NH: Thank you to dev team for providing feedback on pip functionality surveys! 😁
 
 - podcasts
   - FLOSS Weekly Wed Sept 2nd - every Wednesday morning at 9:30am Pacific, 12:30pm Eastern - via Skype
@@ -154,7 +154,7 @@ Pradyun\'s notes from looking at the feedback survey (989272)
 
   - -\> Action:deal with this in the GH issue they\'ve opened.
 
-- Issue 4: Speed ![:(](/wiki/europython/img/sad.png ":(")
+- Issue 4: Speed 🙁
 
   - \"Never had any issues with the old resolver, but the new one is more than 5 times slower.\"
 

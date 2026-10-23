@@ -10,7 +10,7 @@ If you have anything to contribute \-- e.g. configurations for editors, new edit
 
 There\'s an [EditorConfigurationHowto](../archive/EditorConfigurationHowto) available.
 
-![(!)](/wiki/europython/img/idea.png%20"(!)") Please keep wiki links as wiki links, use external links only if there is no existing page for the editor. Please add pages like [BoaConstructor](../people/BoaConstructor) also to page [IntegratedDevelopmentEnvironments](IntegratedDevelopmentEnvironments).
+💡 Please keep wiki links as wiki links, use external links only if there is no existing page for the editor. Please add pages like [BoaConstructor](../people/BoaConstructor) also to page [IntegratedDevelopmentEnvironments](IntegratedDevelopmentEnvironments).
 
 ### Multiplatform Editors 
 
@@ -80,7 +80,7 @@ There\'s an [EditorConfigurationHowto](../archive/EditorConfigurationHowto) avai
 
 | Name | Platform | [FreeSoftware](../people/FreeSoftware)? | [ZeroPrice](../people/ZeroPrice)? | Notes |
 |---|---|---|---|---|
-| [Beaver](http://beaver-editor.sourceforge.net/) | Unix + GTK | ![(./)](/wiki/europython/img/checkmark.png%20"(./)") | X | Supports debugging Python, Tcl, Ruby, Perl, Lua scripts. Code intelligence (Code completion, folding, auto-complete, code snippets, syntax highlighting matching tags, show keyword or variable information when mouse over\...). Keyword help and improved script document. Integrated commonly-used scripting libraries (Tk, wxPython, Pygame, Pmw, Numeric\...). Supports compiling python scripts to Windows EXE files. |
+| [Beaver](http://beaver-editor.sourceforge.net/) | Unix + GTK | ✔️ | X | Supports debugging Python, Tcl, Ruby, Perl, Lua scripts. Code intelligence (Code completion, folding, auto-complete, code snippets, syntax highlighting matching tags, show keyword or variable information when mouse over\...). Keyword help and improved script document. Integrated commonly-used scripting libraries (Tk, wxPython, Pygame, Pmw, Numeric\...). Supports compiling python scripts to Windows EXE files. |
 
 ### Windows-Only Editors 
 

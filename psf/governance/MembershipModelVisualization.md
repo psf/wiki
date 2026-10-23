@@ -18,7 +18,7 @@ This is by no means complete but can serve as a basis for coming up with further
 
 So far there is no code in methods. It should be possible to add algorithms and make the membership rules executable. Since code is primarily a means of communication between humans and only in the second place instructions for the computer, this little program may help to better understand what we want to express.
 
-- [![\[ATTACH\]](/wiki/europython/img/attach.png "[ATTACH]")]( "Upload new attachment "classes_membership_model.png"")
+- [\[ATTACH\]]( "Upload new attachment "classes_membership_model.png"")
 
 :::: 
 ::: 

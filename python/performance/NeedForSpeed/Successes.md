@@ -143,7 +143,7 @@ Speedups at various lengths for decimal inputs, comparing 2.4.3 with current tru
         ------------------    -------------    -----------   -----------
         int(round(5.375))     0.975            0.461         0.015
 
-- ![/!\\](/wiki/europython/img/alert.png "/!\") NB. These operations now all take 0.016 seconds because they are constant-folded! You need examples with non-constant arguments in the branchmarks. Also, you need to compile Psyco in debugging mode for testing - some of these examples generate fatal assertion errors in the Psyco-NFS branch. ([ArminRigo](./ArminRigo.html))
+- ⚠️ NB. These operations now all take 0.016 seconds because they are constant-folded! You need examples with non-constant arguments in the branchmarks. Also, you need to compile Psyco in debugging mode for testing - some of these examples generate fatal assertion errors in the Psyco-NFS branch. ([ArminRigo](./ArminRigo.html))
 
 <!-- -->
 

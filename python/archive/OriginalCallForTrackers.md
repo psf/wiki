@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Results 
 
-![/!\\](/wiki/europython/img/alert.png "/!\") **The infrastructure commitee made a recommendation on Oct 3rd, 2006. See [python-dev posting](http://mail.python.org/pipermail/python-dev/2006-October/069139.html) for more (selected: Jira & Roundup).**
+⚠️ **The infrastructure commitee made a recommendation on Oct 3rd, 2006. See [python-dev posting](http://mail.python.org/pipermail/python-dev/2006-October/069139.html) for more (selected: Jira & Roundup).**
 
 Four trackers were set up by the deadline of August 7 2006; see below for the list. A committee of four people is now looking at the submitted trackers, and will recommend one for use as the new Python bug tracker. The committee will make its recommendation in the fall, perhaps in October.
 
@@ -40,7 +40,7 @@ Once a tracker has been selected, a new installation will be set up and the [Sou
   - [james.henstridge@canonical.com](mailto:james.henstridge@canonical.com)
 ```
 
-![/!\\](/wiki/europython/img/alert.png "/!\") No new trackers are being accepted for consideration. ![/!\\](/wiki/europython/img/alert.png "/!\")
+⚠️ No new trackers are being accepted for consideration. ⚠️
 
 To learn what the committee liked about various trackers participating, see [GoodTrackerFeatures](./GoodTrackerFeatures.html) (to be edited by committee members only!).
 

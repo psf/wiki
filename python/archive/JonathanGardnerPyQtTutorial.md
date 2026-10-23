@@ -78,7 +78,7 @@ This command will store the generated python code that comes from the Qt ui file
 
 Everytime we change the ui file, we need to regenerate the at_auto.py file. Let\'s add this command to a makefile.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Tabs are important!
+⚠️ Tabs are important!
 
 - $ cat > Makefile
       at_auto.py : at.ui

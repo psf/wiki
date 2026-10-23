@@ -39,7 +39,7 @@ Nicole:
   - Ernest: Eagerly Volunteers :-D
   - Laura: I can help test UI
 
-- Not blocked, needs Dustin to set up branch for reset password - \\o/ - already in progress ![:D](/wiki/europython/img/biggrin.png ":D")
+- Not blocked, needs Dustin to set up branch for reset password - \\o/ - already in progress 😁
 
 Dustin:
 

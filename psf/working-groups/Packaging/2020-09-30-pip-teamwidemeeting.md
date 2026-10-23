@@ -144,7 +144,7 @@ Agenda:
 
             - GA: a crazy idea!
               - estimated time of completion: If there\'s a way to check the dependency list, to tell how long it might take \-- a guesstimate?
-                - PG: not sure if that\'s possible by October. ![:)](/wiki/europython/img/smile.png%20":)")
+                - PG: not sure if that\'s possible by October. 🙂
 
                 - TODO: Sumana: great idea! let\'s file a ticket! but for far future \-- DONE, Georgia filed [https://github.com/pypa/pip/issues/8943](https://github.com/pypa/pip/issues/8943)
 
@@ -152,6 +152,6 @@ Agenda:
   - Q (to SH): do we only want documentation updates here? Cutting the release off master isn\'t 100% ideal (since that goes out to \*everyone\*)
 
 - go/no-go decision: performance and go/no-go decision on new resolver as default in 20.3
-  - Q: do we want a \"lame\" beta-ish release for the resolver, to ensure our changes worked? ![:o](/wiki/europython/img/redface.png ":o")
+  - Q: do we want a \"lame\" beta-ish release for the resolver, to ensure our changes worked? 😳
 
   - SH: so, over the next few days, we\'re gonna know more about performance. I\'d like our chat on Tuesday, to be focused on what do we now know and what improvements we\'ve made + what we can change \-- make a decision tree, and figure things out \-- and figure out if we\'re putting out 20.3 in October.

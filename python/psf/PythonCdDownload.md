@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## General hints 
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Currently the [PythonCd](PythonCd) is at an early stage. Although it is basically usable, it still needs some polishing, testing and bug fixing. So at this time, these download sources are intended for its developers and testers only, not for educational purposes and beginners. We will remove this comment as soon as it is ready for prime time.
+⚠️ Currently the [PythonCd](PythonCd) is at an early stage. Although it is basically usable, it still needs some polishing, testing and bug fixing. So at this time, these download sources are intended for its developers and testers only, not for educational purposes and beginners. We will remove this comment as soon as it is ready for prime time.
 
 If anybody downloads and tests the [PythonCd](PythonCd), please give some feedback here in the wiki. I expect some feedback before releasing the next version of it to make it better fit your expectations.
 
@@ -37,11 +37,11 @@ The `*.iso` ISO-image file must be burned on a CDR/CDRW media of appropriate siz
 
 Make sure you choose the right option of your CD burning software which makes a CD from an ISO image.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Do not master a fresh data CD containing the ISO file as a regular data file, this is wrong and won\'t boot nor work as intended in any other way.
+⚠️ Do not master a fresh data CD containing the ISO file as a regular data file, this is wrong and won\'t boot nor work as intended in any other way.
 
 ## Booting from the CD 
 
-![/!\\](/wiki/europython/img/alert.png "/!\") You maybe have to enter your PC\'s BIOS and change **Boot sequence** to **CDROM,C,A** (or something similar) to make your PC boot from a bootable CD before trying to boot from hard disk.
+⚠️ You maybe have to enter your PC\'s BIOS and change **Boot sequence** to **CDROM,C,A** (or something similar) to make your PC boot from a bootable CD before trying to boot from hard disk.
 
 Then you should get the boot prompt from the [PythonCd](PythonCd).
 

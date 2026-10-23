@@ -66,7 +66,7 @@ Ernest
 
 Laura
 
-- working on [https://github.com/pypa/warehouse/pull/3047](https://github.com/pypa/warehouse/pull/3047) - may need to relocate to someplace with better wifi in order to finish - Nicole to review ![:)](/wiki/europython/img/smile.png%20":)")
+- working on [https://github.com/pypa/warehouse/pull/3047](https://github.com/pypa/warehouse/pull/3047) - may need to relocate to someplace with better wifi in order to finish - Nicole to review 🙂
 
 Sumana
 
@@ -82,7 +82,7 @@ Sumana
 
 ## Ernest demo - 10min 
 
-DEMMOOOOOOOOOO Cancelled ![:(](/wiki/europython/img/sad.png ":(") Realized a screencast in #moss-grant/#packaging-wg is more useful since not everyone joins this call via the UberConference app.
+DEMMOOOOOOOOOO Cancelled 🙁 Realized a screencast in #moss-grant/#packaging-wg is more useful since not everyone joins this call via the UberConference app.
 
 ## When will we hit beta? 
 
@@ -138,7 +138,7 @@ Search does not prioritize exact match when package name contains numbers #2877 
 
 - would be fine for post-launch promotion
 
-- we should do [https://github.com/pypa/warehouse/issues/3127](https://github.com/pypa/warehouse/issues/3127) first ![:)](/wiki/europython/img/smile.png%20":)")
+- we should do [https://github.com/pypa/warehouse/issues/3127](https://github.com/pypa/warehouse/issues/3127) first 🙂
 
 - if someone has spare time, not a priority, may users don\'t log in
 

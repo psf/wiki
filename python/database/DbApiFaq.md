@@ -20,7 +20,7 @@ May do what you want, but more by accident than design. If you change it to;
 
 Then the DB-API module will make sure your value is correctly escaped and turned into an object appropriate for the database.
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Drivers differ in the way the parameters are passed to .execute();
+⚠️ Drivers differ in the way the parameters are passed to .execute();
 
 Some examples of parameter passing:
 
@@ -34,7 +34,7 @@ Some examples of parameter passing:
 
 - keyword args: `.execute ("... col = :arg", arg = "value")`
 
-![/!\\](/wiki/europython/img/alert.png "/!\") Drivers also differ in the substitution sequence used to denote a parameter. The substitution style can be inspected by reading the `paramstyle` atribute of the module being used:
+⚠️ Drivers also differ in the substitution sequence used to denote a parameter. The substitution style can be inspected by reading the `paramstyle` atribute of the module being used:
 
     >>> print module_name.paramstyle
     'qmark'
