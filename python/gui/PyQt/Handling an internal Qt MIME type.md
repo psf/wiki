@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Handling an internal Qt MIME type 
 
-On the `#pyqt`{.backtick} channel on Freenode, `reenen`{.backtick} asked if it was possible to handle the internal MIME type Qt uses for drag and drop between item views.
+On the `#pyqt` channel on Freenode, `reenen` asked if it was possible to handle the internal MIME type Qt uses for drag and drop between item views.
 
 See [Handling Qt\'s internal item MIME type](Handling%20Qt's%20internal%20item%20MIME%20type) for the details.
 

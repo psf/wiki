@@ -25,4 +25,4 @@ Homepage: [http://christophe.delord.free.fr/pylog/index.html](http://christophe.
 I was looking for a better way of using Prolog - that is: *How can I use Prolog in the 21st century ?* I think one would need an integration with an *imperative language* so that one can *glue* things together in a simple and natural way; I read some prolog books and when they started about (e.g.) *loops* it quickly got very ugly.\
 Secondly it seems to me that I couldn\'t use anything anymore that would be [ObjectOriented](http://c2.com/cgi/wiki?ObjectOriented "Wiki") that is e.g.:\
 If you have one database about one think, how can you combine that with another one with getting into name confict. (I hope someone finds a better example - to make the point that I am thinking of more than just *namespaces*!)\
-If someone reads this, please send me an email to `haase`{.backtick} *at* `msg`{.backtick} *dot* `ucsf`{.backtick} *dot* `edu`{.backtick} - Cheers. \-- [SebastianHaase](./SebastianHaase.html)
+If someone reads this, please send me an email to `haase` *at* `msg` *dot* `ucsf` *dot* `edu` - Cheers. \-- [SebastianHaase](./SebastianHaase.html)

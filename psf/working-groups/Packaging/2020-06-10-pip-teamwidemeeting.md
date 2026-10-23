@@ -202,7 +202,7 @@ Agenda:
 
     - \[from HackMD\]
 
-    - Pradyun: (regarding `~=`{.backtick}) I do think we should use a different scenario in the error message example in docs, which has more common operators (`==`{.backtick},`&lt;`{.backtick}, etc). It might make sense to separate out the explaination of version specifiers.
+    - Pradyun: (regarding `~=`) I do think we should use a different scenario in the error message example in docs, which has more common operators (`==`,`&lt;`, etc). It might make sense to separate out the explaination of version specifiers.
 
       - Paul: Error message is based on the user\'s exact issue. Do you mean the documentation here?
         - Yes! \*hides face under pillow\*
@@ -222,7 +222,7 @@ Agenda:
 
   - Nicole: what do we want to do about the force install section in the docs? \[addressed above\]
 
-  - discussion of \"ToBeAdded - `1. <, <, 2.`{.backtick} left to right - lower to higher\"
+  - discussion of \"ToBeAdded - `1. <, <, 2.` left to right - lower to higher\"
 
     - TODO: this would be deferred to packaging lib - Sumana to re-open the issue and explain
 

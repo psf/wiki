@@ -12,7 +12,7 @@ Tool for working with your Python packages in isolation:
 
 - Development: [https://github.com/pypa/virtualenv](https://github.com/pypa/virtualenv)
 
-There is also `virtualenvwrapper`{.backtick} that extends `virtualenv`{.backtick} to make it easier to work with multiple virtualenvs:
+There is also `virtualenvwrapper` that extends `virtualenv` to make it easier to work with multiple virtualenvs:
 
 - Docs: [http://www.doughellmann.com/projects/virtualenvwrapper/](http://www.doughellmann.com/projects/virtualenvwrapper/)
 

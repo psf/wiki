@@ -60,7 +60,7 @@ Python versions
 
 Actively maintained Open Source project.
 
-Precompiled binary wheels are available for Windows and macOS for Python 2.7 and 3.4+, installable using `pip install pyodbc`{.backtick}. [RedHat](../people/RedHat) Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
+Precompiled binary wheels are available for Windows and macOS for Python 2.7 and 3.4+, installable using `pip install pyodbc`. [RedHat](../people/RedHat) Enterprise Linux, Centos, and Fedora have precompiled RPMs available in their Extras repositories.
 
 #### turbodbc
 

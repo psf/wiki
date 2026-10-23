@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Adding items to a list widget 
 
-On the `#pyqt`{.backtick} channel at Freenode, `afief`{.backtick} asked for an example that showed how to add items to a list widget using QListWidgetItem rather than just plain strings.
+On the `#pyqt` channel at Freenode, `afief` asked for an example that showed how to add items to a list widget using QListWidgetItem rather than just plain strings.
 
 :::: 
 ::: 

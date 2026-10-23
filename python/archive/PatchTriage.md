@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This page records triage of patches made by the community. Please don\'t add any rationale for your assessment here, but instead record it in the patch itself. For each line, put your name or initials next to the assessment, so that it\'s easy to see who added what entry.
 
-(hint: you can link to items with `SF:Number`{.backtick}.)
+(hint: you can link to items with `SF:Number`.)
 
 ## Clear Accept 
 

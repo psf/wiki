@@ -67,7 +67,7 @@ Agenda:
 
   - [https://github.com/pypa/pip/milestone/38](https://github.com/pypa/pip/milestone/38) ? \[others?\]
 
-    - `ResolutionImpossible`{.backtick} error message - [https://github.com/pypa/pip/issues/8495#issuecomment-714771364](https://github.com/pypa/pip/issues/8495#issuecomment-714771364)
+    - `ResolutionImpossible` error message - [https://github.com/pypa/pip/issues/8495#issuecomment-714771364](https://github.com/pypa/pip/issues/8495#issuecomment-714771364)
 
   - [https://github.com/pypa/pip/issues/8785](https://github.com/pypa/pip/issues/8785) New resolver: Failure despite correct version numbers, when extras and already-installed package are encountered together
 

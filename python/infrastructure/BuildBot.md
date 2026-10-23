@@ -102,4 +102,4 @@ Here are some important points of which you should be aware when running a build
 
 The information above is a summary of a discussion that happened on python-dev regarding Buildbot security. No consensus came about, but the information is still helpful as a point of reference.
 
-.. \[1\] See the related `python-dev thread <http://mail.python.org/pipermail/python-dev/2011-October/113935.html>`{.backtick}\_.
+.. \[1\] See the related `python-dev thread <http://mail.python.org/pipermail/python-dev/2011-October/113935.html>`\_.

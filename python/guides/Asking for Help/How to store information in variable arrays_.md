@@ -29,11 +29,11 @@ I just need to do this to compare a history to make sure a number hasn\'t alread
 
 Thanks!
 
-edit: that should work now We initialize a list first with `text = []`{.backtick}. Then we just append each element to that list.
+edit: that should work now We initialize a list first with `text = []`. Then we just append each element to that list.
 
 ------------------------------------------------------------------------
 
-You can use the `in`{.backtick} operator:
+You can use the `in` operator:
 
 :::: 
 ::: 
@@ -54,7 +54,7 @@ If you choose to use a set instead of a list\...
 :::
 ::::
 
-\...then the above test still works, but you\'ll use the `add`{.backtick} method on the set when adding numbers, not an `append`{.backtick} method.
+\...then the above test still works, but you\'ll use the `add` method on the set when adding numbers, not an `append` method.
 
 ------------------------------------------------------------------------
 

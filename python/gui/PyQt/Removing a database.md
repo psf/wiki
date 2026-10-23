@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Removing a database 
 
-On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `munny`{.backtick} asked about removing a database without getting the warning: \"QSqlDatabasePrivate::removeDatabase: connection \'\...\' is still in use, all queries will cease to work.\" or similar.
+On the `#pyqt` channel on [Freenode](http://freenode.net), `munny` asked about removing a database without getting the warning: \"QSqlDatabasePrivate::removeDatabase: connection \'\...\' is still in use, all queries will cease to work.\" or similar.
 
 The following code tries to do this by ensuring that everything that uses the database connection is deleted or set to use different data sources before the connection is removed.
 
@@ -83,4 +83,4 @@ The following code tries to do this by ensuring that everything that uses the da
 :::
 ::::
 
-The `closeDatabase()`{.backtick} method sets a null model on the view, clearing it momentarily, deletes the model, closes the database and deletes the connection. Finally, the database connection can be removed by name using the QSqlDatabase\'s static `removeDatabase()`{.backtick} function.
+The `closeDatabase()` method sets a null model on the view, clearing it momentarily, deletes the model, closes the database and deletes the connection. Finally, the database connection can be removed by name using the QSqlDatabase\'s static `removeDatabase()` function.

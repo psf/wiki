@@ -476,7 +476,7 @@ My implementation ([http://cfgparse.sourceforge.net/](http://cfgparse.sourceforg
 
 ### Status of Shootout 
 
-So where are we? The wiki hasn\'t seen much activity since January of 2005. Are any of these on track for 2.5? As strictly a user, most of these seem over-engineered for the standard library (to me anyway). `cfgparse`{.backtick} (dan gass) seemed the most approachable to me. XML, or some new configuration \'language\' in the file is way too much. Keeping to a similar (or even matching) API to optparse is important to me. But where are we? \-- [HunterMatthews](./HunterMatthews.html) (showing up as 82 in the edit log)
+So where are we? The wiki hasn\'t seen much activity since January of 2005. Are any of these on track for 2.5? As strictly a user, most of these seem over-engineered for the standard library (to me anyway). `cfgparse` (dan gass) seemed the most approachable to me. XML, or some new configuration \'language\' in the file is way too much. Keeping to a similar (or even matching) API to optparse is important to me. But where are we? \-- [HunterMatthews](./HunterMatthews.html) (showing up as 82 in the edit log)
 
 [GuidoVanRossum](./GuidoVanRossum.html) has discussed possible changes to [ConfigParser](ConfigParser) in a thread on [python-dev](http://mail.python.org/pipermail/python-dev/2006-January/060138.html). He doesn\'t see a great deal of need to improve on [ConfigParser](ConfigParser). He dislikes \*most\* of the suggestions on this page because he doesn\'t want to see nested sections in configuration files.
 

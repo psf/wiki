@@ -20,7 +20,7 @@ This page contains a list of overviews and guides that aim to provide more depth
 
 - [Using Python Custom Widgets in Qt Designer](Using_Python_Custom_Widgets_in_Qt_Designer) - shows how to prepare an example widget so that it can be used in Qt Designer.
 
-- [MathTran Equation Editor](MathTran_Equation_Editor) - shows how to use `QHttp`{.backtick} to obtain data from a Web service.
+- [MathTran Equation Editor](MathTran_Equation_Editor) - shows how to use `QHttp` to obtain data from a Web service.
 
 - [Modifying a standard Qt image plugin](Modifying_a_standard_Qt_image_plugin) - more about hacking Qt than creating beautiful things with Python
 

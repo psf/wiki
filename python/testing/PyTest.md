@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 **pytest**, aka *we-don\'t-need-no-stinking-API unit test suite*, is an alternative, more pythonic way of writing your tests. The best part is, the overhead for creating unit tests is close to zero!
 
-For example, assume you have a prime generator in module `prime.py`{.backtick}, and you\'d want to write a simple test for it (if you don\'t know it, a prime is a non-negative integer being divisible only by 1 and itself, and the first prime is 2). Now, you should know that it would be probably wise to start writing test suite before you actually write any code for prime generator itself, because it makes the whole process of software development less error prone as well as less ad-hoc, but I digress. Let\'s get on with the test:
+For example, assume you have a prime generator in module `prime.py`, and you\'d want to write a simple test for it (if you don\'t know it, a prime is a non-negative integer being divisible only by 1 and itself, and the first prime is 2). Now, you should know that it would be probably wise to start writing test suite before you actually write any code for prime generator itself, because it makes the whole process of software development less error prone as well as less ad-hoc, but I digress. Let\'s get on with the test:
 
 :::: 
 ::: 
@@ -23,11 +23,11 @@ For example, assume you have a prime generator in module `prime.py`{.backtick}, 
 :::
 ::::
 
-That\'s it - you have a working, albeit far from complete, test suite you can run by giving the test file as argument for pytest. If you saved above snippet to file `test_primegen.py`{.backtick}, you could run the tests by simply saying
+That\'s it - you have a working, albeit far from complete, test suite you can run by giving the test file as argument for pytest. If you saved above snippet to file `test_primegen.py`, you could run the tests by simply saying
 
-`pytest test_primegen.py`{.backtick}
+`pytest test_primegen.py`
 
-However, let us assume you\'d like to extend the test suite a bit further - add a second test for testing primality using instance method `isprime()`{.backtick}:
+However, let us assume you\'d like to extend the test suite a bit further - add a second test for testing primality using instance method `isprime()`:
 
 :::: 
 ::: 
@@ -53,9 +53,9 @@ However, let us assume you\'d like to extend the test suite a bit further - add 
 :::
 ::::
 
-It is nice and everything, but now there are two issues. First, if you have many tests, it is bothersome to write `pg = PrimeGenerator()`{.backtick} in every method - ok, not that bothersome, but in programming, being lazy in particular way is not only elegant, but saves your from errors and other problems in the future, trust me.
+It is nice and everything, but now there are two issues. First, if you have many tests, it is bothersome to write `pg = PrimeGenerator()` in every method - ok, not that bothersome, but in programming, being lazy in particular way is not only elegant, but saves your from errors and other problems in the future, trust me.
 
-The other issue is that if your method `isprime()`{.backtick} is not working correctly, you do see the error, but you don\'t see *what* number triggered the error. Let\'s fix these two problems at next attempt.
+The other issue is that if your method `isprime()` is not working correctly, you do see the error, but you don\'t see *what* number triggered the error. Let\'s fix these two problems at next attempt.
 
 :::: 
 ::: 
@@ -88,13 +88,13 @@ The other issue is that if your method `isprime()`{.backtick} is not working cor
 :::
 ::::
 
-What happen, you say? Jokes aside, you should notice that first off, you no longer need to setup prime generator instance in every method - `setup_class()`{.backtick} takes care of instantiating needed object. Secondly, `test_isprime()`{.backtick} looks now a tad more exotic - it uses generator expression `yield`{.backtick} for generating tests on the fly. Now if your prime generator fails, you see the exact error - ie. what argument failed to give the correct, expected result.
+What happen, you say? Jokes aside, you should notice that first off, you no longer need to setup prime generator instance in every method - `setup_class()` takes care of instantiating needed object. Secondly, `test_isprime()` looks now a tad more exotic - it uses generator expression `yield` for generating tests on the fly. Now if your prime generator fails, you see the exact error - ie. what argument failed to give the correct, expected result.
 
-Oh, one little confession: I did a bit more in addition to those two changes above. For testing statements which return lists, it might be advisable to add extra `list()`{.backtick} around the statement. Then your test suite works both for list returning methods as well as those using generator expressions. Or you can circumvent the problem by using method generators - as shown in the second test method. I also added a new (keyword?) parameter `start`{.backtick} to `first_primes()`{.backtick} - thus specifying where the prime sequence should start, duh. Hmm\... perhaps `stop`{.backtick} could be specified as well, specifying the range to search primes from? Or should we introduce a whole different method for that kind of thing?
+Oh, one little confession: I did a bit more in addition to those two changes above. For testing statements which return lists, it might be advisable to add extra `list()` around the statement. Then your test suite works both for list returning methods as well as those using generator expressions. Or you can circumvent the problem by using method generators - as shown in the second test method. I also added a new (keyword?) parameter `start` to `first_primes()` - thus specifying where the prime sequence should start, duh. Hmm\... perhaps `stop` could be specified as well, specifying the range to search primes from? Or should we introduce a whole different method for that kind of thing?
 
 These are decisions you *have to* make, and perhaps you already realized one very nice aspect of [TestDrivenDevelopment](TestDrivenDevelopment) (TDD); if you write your tests before the code, you really have to think of your [API](../archive/API) quite thoroughly, which is a good thing. Just imagine fiddling with a method for days, debugging it, optimizing, documenting.. only to realise later you don\'t need the method at all! So, write tests first, if only to get your API right the first time.
 
-You may now wonder - please do! - how pytest knows which methods to run. Well, there *has* to be some magic going on behind the scenes, because you don\'t see any `testsuite.run(method)`{.backtick} or `testsuite.add(class_instance)`{.backtick} etc. Well, you\'re right. There *is* some serious magic going on and here there be dragons, but the programmer API is very simple. It\'s all transparent.
+You may now wonder - please do! - how pytest knows which methods to run. Well, there *has* to be some magic going on behind the scenes, because you don\'t see any `testsuite.run(method)` or `testsuite.add(class_instance)` etc. Well, you\'re right. There *is* some serious magic going on and here there be dragons, but the programmer API is very simple. It\'s all transparent.
 
 That is, every class starting with *Test* and every method starting with *test\_* is treated specially and considered to be part of unit test suite. Also, assert is *very* magic, but you don\'t need to know that\... just use it as you are, well, used to ![:-)](/wiki/europython/img/smile.png%20":-)") Things are that way just to give you cleaner, more informative tracebacks, and more fulfilling and rewarding unit-testing experience.
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Selecting items in unrelated views 
 
-On the `pyqt`{.backtick} channel on [freenode](http://www.freenode.net), `virousa`{.backtick} asked for a way to relate a selected item in a tree view to an item in a table view that shows completely different items.
+On the `pyqt` channel on [freenode](http://www.freenode.net), `virousa` asked for a way to relate a selected item in a tree view to an item in a table view that shows completely different items.
 
 This code uses the selection model of a tree view to discover when items are selected, then it determines which row it should highlight in a table view, using its selection model to select it.
 

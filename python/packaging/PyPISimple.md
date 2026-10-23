@@ -37,4 +37,4 @@ The following code can be used to extract the URLs from the simple API pages:
             tree = ElementTree.parse(f)
         return [a.attrib['href'] for a in tree.iter('a')]
 
-**TODO**: Add further details about links, `rel=`{.backtick}, `#md5=`{.backtick}, `#egg=`{.backtick}, links scraped from long_description and how/when to follow download links externally.
+**TODO**: Add further details about links, `rel=`, `#md5=`, `#egg=`, links scraped from long_description and how/when to follow download links externally.

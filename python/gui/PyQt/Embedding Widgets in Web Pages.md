@@ -31,7 +31,7 @@ We begin by importing the [PyQt4](../PyQt4) modules and defining a simple HTML p
     </html>
     """
 
-Note the use of the `object`{.backtick} tag with a custom `type`{.backtick} attribute. This refers to a custom MIME type that we will register later on with QtWebKit.
+Note the use of the `object` tag with a custom `type` attribute. This refers to a custom MIME type that we will register later on with QtWebKit.
 
 The widget we want to embed in Web pages is a simple custom widget that implements a paint event and provides a size hint:
 

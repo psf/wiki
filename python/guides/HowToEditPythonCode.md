@@ -66,26 +66,26 @@ Python\'s statements include (among others):
 
 ### Expressions 
 
-- In Python 3, the result of the division operator `/`{.backtick} with integer operands is always a floating-point value; the operator `//`{.backtick} may be used to perform integer division (the result truncated to an integer).
+- In Python 3, the result of the division operator `/` with integer operands is always a floating-point value; the operator `//` may be used to perform integer division (the result truncated to an integer).
 
-  - In Python 2, the `/`{.backtick} operator on integers performs integer division. Floating-point division on integers can be achieved by converting one of the integers to a float (e.g. `float(x) / y`{.backtick}), or, since 2.2, the behavior of Python 3 can be enabled using `from __future__ import division`.
+  - In Python 2, the `/` operator on integers performs integer division. Floating-point division on integers can be achieved by converting one of the integers to a float (e.g. `float(x) / y`), or, since 2.2, the behavior of Python 3 can be enabled using `from __future__ import division`.
 
-- In Python, `==`{.backtick} compares by value, in contrast to Java, where it compares by reference. (Value comparisons in Java use the equals() method.) Python\'s `is`{.backtick} operator may be used to compare object identities (comparison by reference). Comparisons may be chained, for example `a <= b <= c`{.backtick}.
+- In Python, `==` compares by value, in contrast to Java, where it compares by reference. (Value comparisons in Java use the equals() method.) Python\'s `is` operator may be used to compare object identities (comparison by reference). Comparisons may be chained, for example `a <= b <= c`.
 
-- Python uses the words **and**, **or**, **not** for its boolean operators rather than the symbolic `&&`{.backtick}, `||`{.backtick}, `!`{.backtick} used in C.
+- Python uses the words **and**, **or**, **not** for its boolean operators rather than the symbolic `&&`, `||`, `!` used in C.
 
 - Python has a type of expression known as a list comprehension. Python 2.4 extended list comprehensions into a more general expression known as a generator expression.
 
 - Anonymous functions are implemented using lambda expressions; however, these are limited in that the body can only be a single expression.
 
-- Conditional expressions in Python are written as `x if c else y`{.backtick} (different in order of operands from the ?: operator common to many other languages).
+- Conditional expressions in Python are written as `x if c else y` (different in order of operands from the ?: operator common to many other languages).
 
-- Python makes a distinction between lists and tuples. Lists, written as `[1, 2, 3]`{.backtick}, are mutable, and cannot be used as the keys of dictionaries (dictionary keys must be immutable in Python). Tuples, written as `(1, 2, 3)`{.backtick}, are immutable and thus can be used as the keys of dictionaries, provided all elements of the tuple are immutable. The parentheses around the tuple are optional in some contexts. Tuples can appear on the left side of an equal sign; hence a statement like `x, y = y, x`{.backtick} can be used to swap two variables.
+- Python makes a distinction between lists and tuples. Lists, written as `[1, 2, 3]`, are mutable, and cannot be used as the keys of dictionaries (dictionary keys must be immutable in Python). Tuples, written as `(1, 2, 3)`, are immutable and thus can be used as the keys of dictionaries, provided all elements of the tuple are immutable. The parentheses around the tuple are optional in some contexts. Tuples can appear on the left side of an equal sign; hence a statement like `x, y = y, x` can be used to swap two variables.
 
-- Multiple string-formatting operations are supported. The original **%** operator provided behavior analogous to printf format strings in C, e.g. `foo=%s bar=%d" % ("blah", 2)`{.backtick} evaluates to `foo=blah bar=2`{.backtick}. String templates were introduced in Python 2.4. Python 3.0 brought in the string `format()`{.backtick} method, with syntax like `foo={0} bar={1}".format("blah", 2)`{.backtick}. Formatted string literals (\"F-strings\") were introduced in 3.6, with syntax like `f'foo={"blah"} bar={2}'`{.backtick}\"
+- Multiple string-formatting operations are supported. The original **%** operator provided behavior analogous to printf format strings in C, e.g. `foo=%s bar=%d" % ("blah", 2)` evaluates to `foo=blah bar=2`. String templates were introduced in Python 2.4. Python 3.0 brought in the string `format()` method, with syntax like `foo={0} bar={1}".format("blah", 2)`. Formatted string literals (\"F-strings\") were introduced in 3.6, with syntax like `f'foo={"blah"} bar={2}'`\"
 
 - Python has various kinds of string literals:
-  - Strings are delimited by single or double quotation marks. Unlike in Unix shells, Perl and Perl-influenced languages, single quotation marks and double quotation marks function identically. Both kinds of strings use the backslash (`\`{.backtick}) as an escape character and there is no implicit string interpolation such as \"\$foo\".
+  - Strings are delimited by single or double quotation marks. Unlike in Unix shells, Perl and Perl-influenced languages, single quotation marks and double quotation marks function identically. Both kinds of strings use the backslash (`\`) as an escape character and there is no implicit string interpolation such as \"\$foo\".
 
   - Triple-quoted strings, which begin and end with a series of three single or double quotation marks, may span multiple lines and function like here-documents in shells, Perl and Ruby.
 

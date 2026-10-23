@@ -22,13 +22,13 @@ Search the Python reference for:
 
 - unichr builtin
 
-- string handling - example: `u'Hello\u0020World !'`{.backtick}
+- string handling - example: `u'Hello\u0020World !'`
 
 - [unicodedata](http://docs.python.org/lib/module-unicodedata.html) module
 
-- regular expressions - see the `(?u)`{.backtick} flag, and the `re.UNICODE`{.backtick} constant
+- regular expressions - see the `(?u)` flag, and the `re.UNICODE` constant
 
-- exceptions - `UnicodeEncodeError`{.backtick}
+- exceptions - `UnicodeEncodeError`
 
 ### Tutorials 
 

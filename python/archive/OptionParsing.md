@@ -14,7 +14,7 @@ Overview of Python modules for option parsing
 
 - [optparse](OptParse) - stdlib name for Optik, a revolutionary API for option parsing in Python 2.x
 
-- [argparse](http://docs.python.org/3/library/argparse.html) - `optparse`{.backtick} pumped up for Python 3.x (and included in Python 2.7)
+- [argparse](http://docs.python.org/3/library/argparse.html) - `optparse` pumped up for Python 3.x (and included in Python 2.7)
 
 ## 2. External tools 
 

@@ -31,7 +31,7 @@ Imagine I\'m writing this function:
         random.whatever()
         return n * factorial(n-1)
 
-I\'d want [DreamPie](./DreamPie.html) to autocomplete both the `whatever`{.backtick} thing and the use of `factorial`{.backtick} inside the definition. Probably hard, I know.
+I\'d want [DreamPie](./DreamPie.html) to autocomplete both the `whatever` thing and the use of `factorial` inside the definition. Probably hard, I know.
 
 As you said, this is really hard and complicated. I don\'t see this happening. Sorry! Noam
 
@@ -83,7 +83,7 @@ Imagine I\'m typing this:
 
     x = sum(my_list, sta
 
-In this case we have the `sum`{.backtick} function, which takes a keyword argument `start`{.backtick}. It\'d be nice if [DreamPie](./DreamPie.html) could autocomplete the keyword argument itself. (Ram \"cool-RR\" Rachum.)
+In this case we have the `sum` function, which takes a keyword argument `start`. It\'d be nice if [DreamPie](./DreamPie.html) could autocomplete the keyword argument itself. (Ram \"cool-RR\" Rachum.)
 
 ## Behavior of Ctrl+Something not good enough 
 

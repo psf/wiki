@@ -12,14 +12,14 @@ The official download page for Python is [python.org/downloads](https://python.o
 
 ------------------------------------------------------------------------
 
-On many systems Python comes pre-installed, you can try running the `python`{.backtick} command to start the Python interpreter to check and see if it is already installed. On windows you can try the `py`{.backtick} command which is a launcher which is more likely to work. If it is installed you will see a response which will include the version number, for example:
+On many systems Python comes pre-installed, you can try running the `python` command to start the Python interpreter to check and see if it is already installed. On windows you can try the `py` command which is a launcher which is more likely to work. If it is installed you will see a response which will include the version number, for example:
 
     Python 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.
 
 If you don\'t see this, you will need to install Python on your system.
 
-If the version number is Python 2.x.y (where `x`{.backtick} and `y`{.backtick} are any number) you are using Python 2 which is no longer supported and is not a good choice for development. You can try running `python3`{.backtick} to see if there is also a Python 3.x.y version installed, if not you\'ll want to install the latest version of Python.
+If the version number is Python 2.x.y (where `x` and `y` are any number) you are using Python 2 which is no longer supported and is not a good choice for development. You can try running `python3` to see if there is also a Python 3.x.y version installed, if not you\'ll want to install the latest version of Python.
 
 If you do not have Python installed or need a newer version you can go to:
 

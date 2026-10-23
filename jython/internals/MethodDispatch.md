@@ -6,17 +6,17 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-One pattern of ensuring that a Jython base class implemented in Java can call an `@ExposedMethod`{.backtick} that has potentially been overridden in Python is to have a pair of methods on the base class:
+One pattern of ensuring that a Jython base class implemented in Java can call an `@ExposedMethod` that has potentially been overridden in Python is to have a pair of methods on the base class:
 
-- a `public`{.backtick} method named for the method to be overridden by the derived class.
+- a `public` method named for the method to be overridden by the derived class.
 
-- an `@ExposedMethod`{.backtick} declared as `final`{.backtick} that is available in python.
+- an `@ExposedMethod` declared as `final` that is available in python.
 
 Then the derived class overrides the super class method in the [standard fashion](GeneratedDerivedClasses#Background), i.e.
 
-- \"it will check for the existence of a (Python) method redefining (the exposed name of) that method. If it fails to find one, it calls the version in the principal class (using the `super`{.backtick} keyword in Java). If it finds a Python re-definition, it invokes that using `PyObject.__call__()`{.backtick}\"
+- \"it will check for the existence of a (Python) method redefining (the exposed name of) that method. If it fails to find one, it calls the version in the principal class (using the `super` keyword in Java). If it finds a Python re-definition, it invokes that using `PyObject.__call__()`\"
 
-This is done the use of the `rest`{.backtick} directive in the derived template - e.g. a typical implementation is:
+This is done the use of the `rest` directive in the derived template - e.g. a typical implementation is:
 
 :::: 
 ::: 
@@ -54,7 +54,7 @@ So the base class now defines an **@[ExposedMethod](./ExposedMethod.html)**:
 :::
 ::::
 
-and the public method calls the `@ExposedMethod`{.backtick} directly like:
+and the public method calls the `@ExposedMethod` directly like:
 
 :::: 
 ::: 
@@ -66,4 +66,4 @@ and the public method calls the `@ExposedMethod`{.backtick} directly like:
 :::
 ::::
 
-So if any method in the base class calls the `public`{.backtick} method it will result in standard Java dynamic method dispatch to a `Py*Derived`{.backtick} class if the instance in question has derived from the base class and that will call the overridden python method if it exists or default back to the base classes implementation via `super`{.backtick}.
+So if any method in the base class calls the `public` method it will result in standard Java dynamic method dispatch to a `Py*Derived` class if the instance in question has derived from the base class and that will call the overridden python method if it exists or default back to the base classes implementation via `super`.

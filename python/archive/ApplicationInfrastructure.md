@@ -30,34 +30,34 @@ Installing an application consists of:
 
 8.  run any required sanity checks on the unpacked source
 
-9.  move the source to a configurable location to install it (currently `site-packages`{.backtick}, but apps may have different needs, e.g. Google App Engine frameworks need a plain directory as the target location)
+9.  move the source to a configurable location to install it (currently `site-packages`, but apps may have different needs, e.g. Google App Engine frameworks need a plain directory as the target location)
 
 10. optionally move documentation and tests to specific locations as well
 
 Specifics:
 
 - writing a tool that can be told to install an application (pip, easy_install, project-specific enhanced tool) should be entirely trivial with the API
-  - it should be easy for frameworks to implement e.g. `trac-admin install pluginname [pluginversion]`{.backtick} or `django-admin.py install reusableapp [appversion]`{.backtick} with the API
+  - it should be easy for frameworks to implement e.g. `trac-admin install pluginname [pluginversion]` or `django-admin.py install reusableapp [appversion]` with the API
 
-- it\'s possible to specify the location where applications are installed (to cater for virtualenv and \"lump all libs into `/some/where/lib/`{.backtick} and `sys.path.insert('/some/where/lib/')`{.backtick}\" workflows)
+- it\'s possible to specify the location where applications are installed (to cater for virtualenv and \"lump all libs into `/some/where/lib/` and `sys.path.insert('/some/where/lib/')`\" workflows)
 
 - it\'s possible to specify the package index URL, to facilitate PyPI mirrors, framework-specific \"PyPI\"s etc
 
 - there will be rigid guidelines for app versioning (see below) for sensible version parsing and ordering
 
-- there will be rigid guidelines for app directory layout to help Linux distribution packagers to put docs and tests to system-specific locations (e.g. \'/usr/share/docs` and `{.backtick}/usr/something/python/site-packages/tests\`)
+- there will be rigid guidelines for app directory layout to help Linux distribution packagers to put docs and tests to system-specific locations (e.g. \'/usr/share/docs` and `/usr/something/python/site-packages/tests\`)
 
 What is not covered:
 
 - eggs or any other binary packaging formats, assume source packages - this tool can be used for creating them (including Linux distribution-specific formats like .deb or .rpm) \-- generally needs more thinking
 
-Lets assume that the API is called `appinfra`{.backtick}.
+Lets assume that the API is called `appinfra`.
 
 ### Application descriptors 
 
-Application descriptors are instances of `App`{.backtick} class. The latter is a struct-like container class for all application meta-data. See [http://docs.python.org/distutils/setupscript.html#additional-meta-data](http://docs.python.org/distutils/setupscript.html#additional-meta-data) for the main fields, also [http://peak.telecommunity.com/DevCenter/PkgResources](http://peak.telecommunity.com/DevCenter/PkgResources).
+Application descriptors are instances of `App` class. The latter is a struct-like container class for all application meta-data. See [http://docs.python.org/distutils/setupscript.html#additional-meta-data](http://docs.python.org/distutils/setupscript.html#additional-meta-data) for the main fields, also [http://peak.telecommunity.com/DevCenter/PkgResources](http://peak.telecommunity.com/DevCenter/PkgResources).
 
-The propsed API uses the following fields that are described below: `version`{.backtick}, `depends`{.backtick}, `python_versions`{.backtick}, `download_url`{.backtick}, `platforms`{.backtick}.
+The propsed API uses the following fields that are described below: `version`, `depends`, `python_versions`, `download_url`, `platforms`.
 
 ### A sample main() that uses the API 
 
@@ -109,15 +109,15 @@ This illustrates a high-level use case for the API, both system-level tools and 
 
 ### Fetch API 
 
-The `fetch`{.backtick} or `download`{.backtick} module contains the following functions:
+The `fetch` or `download` module contains the following functions:
 
     fetch_descriptor(base_url, appname, appversion=None) -> App instance
 
-Downloads the app descriptor for central app descriptor store and converts it to an App instance. Note that the `base_url`{.backtick} concept makes it possible to create app stores that support **namespaces**, e.g. `http://foo.com/apps/`{.backtick} - the base index, `http://foo.com/django/apps/`{.backtick} - only apps coupled to Django, `http://foo.com/zope/apps/`{.backtick} - only apps coupled to Zope etc.
+Downloads the app descriptor for central app descriptor store and converts it to an App instance. Note that the `base_url` concept makes it possible to create app stores that support **namespaces**, e.g. `http://foo.com/apps/` - the base index, `http://foo.com/django/apps/` - only apps coupled to Django, `http://foo.com/zope/apps/` - only apps coupled to Zope etc.
 
 Behaviour:
 
-- urljoin `appname`{.backtick} to `base_url`{.backtick}; if `appversion`{.backtick} is not None, add it as a query parameter, resulting in e.g. `http://foo.com/appstore/appname/?version=1.2`{.backtick}
+- urljoin `appname` to `base_url`; if `appversion` is not None, add it as a query parameter, resulting in e.g. `http://foo.com/appstore/appname/?version=1.2`
 
 - urlopen the resulting URL, retrieve contents. The contents represent the App object in JSON.
 
@@ -133,27 +133,27 @@ Downloads the packaged application to local filesystem.
 
 Behaviour:
 
-- downloads the application package from `download_url`{.backtick} to system temporary directory, returns the full path to the resulting file
+- downloads the application package from `download_url` to system temporary directory, returns the full path to the resulting file
 
 ### Verification API 
 
-The `verify`{.backtick} module contains the following functions:
+The `verify` module contains the following functions:
 
     python_version_supported(python_versions) -> True, False
 
-Verifies if the running Python version is in `python_versions`{.backtick}, a list of strings.
+Verifies if the running Python version is in `python_versions`, a list of strings.
 
     platform_supported(platforms) -> True, False
 
-Verifies if the string representation of current platform is in `platforms`{.backtick}, a list of strings.
+Verifies if the string representation of current platform is in `platforms`, a list of strings.
 
     package_is_valid(digest, package_file) -> True, False
 
-Verifies if the digest matches the package file\'s digest. Digest is in the form `algoname:digest_value_in_base64`{.backtick}.
+Verifies if the digest matches the package file\'s digest. Digest is in the form `algoname:digest_value_in_base64`.
 
 ### Dependency API 
 
-The `deps`{.backtick} module contains the following functions:
+The `deps` module contains the following functions:
 
     is_installed(app_name, app_versions, additional_paths=None) -> True, False
 
@@ -161,25 +161,25 @@ Checks whether a prerequisite application is installed.
 
 Behaviour:
 
-- `app_versions`{.backtick} is a list of strings in the format `comparison_operator version_string`{.backtick}. Comparison operator can be any of `<|<=|!=|==|>=|>`{.backtick} and version string has to be in supported format for the `version`{.backtick} module (see below).
+- `app_versions` is a list of strings in the format `comparison_operator version_string`. Comparison operator can be any of `<|<=|!=|==|>=|>` and version string has to be in supported format for the `version` module (see below).
 
-- if `additonal_paths`{.backtick} is given, inserts (or appends?) them into `sys.path`{.backtick}
+- if `additonal_paths` is given, inserts (or appends?) them into `sys.path`
 
-- tries to `__import__(app_name)`{.backtick}, if that fails, returns `False`{.backtick}
+- tries to `__import__(app_name)`, if that fails, returns `False`
 
 - if import is successful, compares the installed app\'s version against the required versions with the specified comparison operator
 
-- if the version matches any of the required versions, returns `True`{.backtick}, else `False`{.backtick}
+- if the version matches any of the required versions, returns `True`, else `False`
 
 <!-- -->
 
     best_version(supported_versions) -> version string
 
-Selects the \"best\" version from `supported_version`{.backtick}, a list of strings. \"Best\" version is the highest released version (this may need more thought).
+Selects the \"best\" version from `supported_version`, a list of strings. \"Best\" version is the highest released version (this may need more thought).
 
 ### Package API 
 
-The `package`{.backtick} module contains the following functions:
+The `package` module contains the following functions:
 
     unpack(package_file) -> package_dir
 
@@ -195,19 +195,19 @@ Compiles the C/C++/whatnot sources to binaries.
 
 ### Version API 
 
-Version format will be strictly defined (both the string representation and capabilities of the `Version`{.backtick} class) according to best practices.
+Version format will be strictly defined (both the string representation and capabilities of the `Version` class) according to best practices.
 
-The responsibilities of the `Version`{.backtick} class will be to provide canonical string representation of `Version`{.backtick} objects, parser version strings and create corresponding `Version`{.backtick} objects, and consistent and intuitive ordering of versions. Strict version format makes dependency handling easy and contributes to general correctness and order.
+The responsibilities of the `Version` class will be to provide canonical string representation of `Version` objects, parser version strings and create corresponding `Version` objects, and consistent and intuitive ordering of versions. Strict version format makes dependency handling easy and contributes to general correctness and order.
 
 Possible specification:
 
-`appinfra`{.backtick}-confirming packages MUST use the `appinfra.version.Version`{.backtick} objects to declare their versions.
+`appinfra`-confirming packages MUST use the `appinfra.version.Version` objects to declare their versions.
 
 Version strings are in \"major.minor\[.patch\] \[sub\]\" format. The major number is 0 for initial, experimental releases of software. It is incremented for releases that represent major milestones in a package. The minor number is incremented when important new features are added to the package. The patch number increments when bug-fix releases are made.
 
 Additional trailing version information is used to indicate sub-releases. These are \"alpha 1, alpha 2, \..., alpha N\" for alpha releases, where functionality and API may change, \"beta 1, beta 2, \..., beta N\" for beta releases, which only fix bugs and \"pre 1, pre 2, \..., pre N\" for final pre-release release testing. The \"pre-alpha\" sub-release is special, marking a version that is currently in development and not yet in release stage. As such it cannot have a sub-release version number. A release without sub-release information is considered final.
 
-Packages have to utilise the `Version`{.backtick} class below for specifying their versions, e.g.:
+Packages have to utilise the `Version` class below for specifying their versions, e.g.:
 
     from appinfra import version
 
@@ -223,7 +223,7 @@ Packages have to utilise the `Version`{.backtick} class below for specifying the
 
 #### Version handling 
 
-`appinfra.version`{.backtick} module (tested, working code):
+`appinfra.version` module (tested, working code):
 
     import re
 
@@ -421,7 +421,7 @@ Samples of version ordering:
 
 #### Dependency handling 
 
-`deps`{.backtick} module (untested code, may break horribly):
+`deps` module (untested code, may break horribly):
 
     import re, sys, operator
 

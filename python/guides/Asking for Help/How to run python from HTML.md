@@ -12,7 +12,7 @@ I am looking for a way to link python to HTML but have not yet found one that su
 
 ------------------------------------------------------------------------
 
-The HTML will refer to the Python script using the `action`{.backtick} attribute on a `form`{.backtick} element - this is presumably what you mean by \"going to a new page\" - but you could actually publish your Python script at a particular URL and have that location as both the \"HTML\" and the script mentioned by the `action`{.backtick}. How this would work is as follows\...
+The HTML will refer to the Python script using the `action` attribute on a `form` element - this is presumably what you mean by \"going to a new page\" - but you could actually publish your Python script at a particular URL and have that location as both the \"HTML\" and the script mentioned by the `action`. How this would work is as follows\...
 
 1.  You set up your Web server to serve the script (as dynamic content, CGI, or whatever, but *not* as static content) for the chosen URL.
 
@@ -26,7 +26,7 @@ The HTML will refer to the Python script using the `action`{.backtick} attribute
 
 6.  The user fills out the form and submits it.
 
-7.  Here, if you used the URL of the script as the `action`{.backtick} (leaving it empty also works because the browser will just send the form data to the URL the form came from), the Web server will invoke your Python script again.
+7.  Here, if you used the URL of the script as the `action` (leaving it empty also works because the browser will just send the form data to the URL the form came from), the Web server will invoke your Python script again.
 
 8.  The Python script will now have some form data and can validate it. In response, it can produce the same HTML page again, or it can produce another HTML page, making it seem that the page being served has changed.
 

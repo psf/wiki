@@ -96,7 +96,7 @@ Online version at [http://www.djangobook.com/](http://www.djangobook.com/).
 
 ISBN: [1904811841](http://www.amazon.com/exec/obidos/ISBN=1904811841 "ISBN"), **Packt Publishing**, 272 pages (March 2007)
 
-Design, develop, test, and deploy your Python web applications easily: Walks through building a complete Python web application using [CherryPy](CherryPy) 3. Covers the [CherryPy](CherryPy) `HTTP:Python`{.backtick} interface, using [CherryPy](CherryPy) with other Python libraries, and design, security, testing, and deployment.
+Design, develop, test, and deploy your Python web applications easily: Walks through building a complete Python web application using [CherryPy](CherryPy) 3. Covers the [CherryPy](CherryPy) `HTTP:Python` interface, using [CherryPy](CherryPy) with other Python libraries, and design, security, testing, and deployment.
 
 More info: [http://www.packtpub.com/book/CherryPy](http://www.packtpub.com/book/CherryPy)
 

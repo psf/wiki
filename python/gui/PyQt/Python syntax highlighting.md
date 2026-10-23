@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 If you need a code editor with syntax highlighting, but don\'t want something as heavyweight as [QsciScintilla](http://www.riverbankcomputing.co.uk/static/Docs/QScintilla2/classQsciScintilla.html), you can use the [QSyntaxHighlighter](http://www.riverbankcomputing.co.uk/static/Docs/PyQt4/html/qsyntaxhighlighter.html) class to apply highlighting to a [QPlainTextEdit](http://www.riverbankcomputing.co.uk/static/Docs/PyQt4/html/qplaintextedit.html) widget.
 
-This example was based on existing work by [Carson Farmer](http://www.carsonfarmer.com/?p=333) and [Christophe Kibleur](http://lateral.netmanagers.com.ar/weblog/2009/09/21.html#BB831), and an [example on the SciPres wiki](http://artis.inrialpes.fr/Membres/Xavier.Decoret/resources/scipres/wiki/index.php/Python.py). One aspect not addressed by this prior work is handling of Python\'s triple-quoted strings, which may span multiple lines; the QSyntaxHighlighter documentation includes an example for C++ comments, but those have different beginning and ending delimiters `/* ... */`{.backtick}, whereas Python\'s triple-quoted strings have the same delimiter at the beginning and end. These are handled by the `match_multiline`{.backtick} method and by treating the triple-quotes within strings as an special case \--there may be an easier way to do this, but it seems to work pretty well.
+This example was based on existing work by [Carson Farmer](http://www.carsonfarmer.com/?p=333) and [Christophe Kibleur](http://lateral.netmanagers.com.ar/weblog/2009/09/21.html#BB831), and an [example on the SciPres wiki](http://artis.inrialpes.fr/Membres/Xavier.Decoret/resources/scipres/wiki/index.php/Python.py). One aspect not addressed by this prior work is handling of Python\'s triple-quoted strings, which may span multiple lines; the QSyntaxHighlighter documentation includes an example for C++ comments, but those have different beginning and ending delimiters `/* ... */`, whereas Python\'s triple-quoted strings have the same delimiter at the beginning and end. These are handled by the `match_multiline` method and by treating the triple-quotes within strings as an special case \--there may be an easier way to do this, but it seems to work pretty well.
 
 I have placed this code under the [Modified BSD License](http://directory.fsf.org/wiki/License:BSD_3Clause) because I believe the author intended it to be freely used. However, I don\'t believe that I originally wrote this example, though I was responsible for migrating it to the Python Wiki. \-- [DavidBoddie](../../people/DavidBoddie) 2017-01-19 20:34:17
 
@@ -215,7 +215,7 @@ I modified this code to fix a problem when triple-quotes were embedded inside st
 :::
 ::::
 
-Here\'s a simple editor application that demonstrates it (not including save/load features). Really all you need to do is instantiate the `syntax.PythonHighlighter`{.backtick} class, passing the `QPlainTextEdit`{.backtick} widget\'s document to the constructor:
+Here\'s a simple editor application that demonstrates it (not including save/load features). Really all you need to do is instantiate the `syntax.PythonHighlighter` class, passing the `QPlainTextEdit` widget\'s document to the constructor:
 
 :::: 
 ::: 

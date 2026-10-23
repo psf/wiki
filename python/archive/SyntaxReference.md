@@ -57,7 +57,7 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
 
 - ***bold italics***
 
-- `monospace`{.backtick}
+- `monospace`
 
 - `source code`
 
@@ -166,7 +166,7 @@ This page aims to introduce the most important elements of [MoinMoin](MoinMoin)\
 
 - [WikiName](WikiName)s
 
-- `http://www.example.com`{.backtick}
+- `http://www.example.com`
 
 - [http://www.example.com/](http://www.example.com/)notlinked
 
@@ -389,23 +389,23 @@ object
 
 ***see:** [HelpOnMacros](HelpOnMacros)*
 
-- `<<Anchor(anchorname)>>`{.backtick} inserts a link anchor `anchorname`{.backtick}
+- `<<Anchor(anchorname)>>` inserts a link anchor `anchorname`
 
-- `<<BR>>`{.backtick} inserts a hard line break
+- `<<BR>>` inserts a hard line break
 
-- `<<FootNote(Note)>>`{.backtick} inserts a footnote saying `Note`{.backtick}
+- `<<FootNote(Note)>>` inserts a footnote saying `Note`
 
-- `<<Include(HelpOnMacros/Include)>>`{.backtick} inserts the contents of the page `HelpOnMacros/Include`{.backtick} inline
+- `<<Include(HelpOnMacros/Include)>>` inserts the contents of the page `HelpOnMacros/Include` inline
 
-- `<<MailTo(user AT example DOT com)>>`{.backtick} obfuscates the email address `user@example.com`{.backtick} to users not logged in
+- `<<MailTo(user AT example DOT com)>>` obfuscates the email address `user@example.com` to users not logged in
 
 ### Variables 
 
 ***see:** [HelpOnVariables](HelpOnVariables)*
 
-- `@`{.backtick}`SIG`{.backtick}`@`{.backtick} inserts your login name and timestamp of modification
+- `@SIG@` inserts your login name and timestamp of modification
 
-- `@`{.backtick}`TIME`{.backtick}`@`{.backtick} inserts date and time of modification
+- `@TIME@` inserts date and time of modification
 
 ## Smileys and Icons 
 
@@ -459,7 +459,7 @@ object
     }}}
 
 ::: 
-This is wiki markup in a **div** with [css] `class="red solid"`{.backtick}.
+This is wiki markup in a **div** with [css] `class="red solid"`.
 :::
 
 ## Admonitions 

@@ -14,21 +14,21 @@ To start the installation, please proceed as follows:
 
 - download the installer .jar file and save it locally ([Download](http://www.jython.org/Project/download.html))
 
-- double-click this .jar file , or type: `java -jar jython_installer-2.2.jar`{.backtick}
+- double-click this .jar file , or type: `java -jar jython_installer-2.2.jar`
 
 This will bring up the GUI installer (BROKEN LINK [A bit older Screen shots, reflecting 2.2](http://homepage.sunrise.ch/mysunrise/ohumbel/HEAD/install-HEAD.html)).
 
-On true headless systems, the installer will automatically switch to console mode. You can force console mode using the `--console`{.backtick} switch:
+On true headless systems, the installer will automatically switch to console mode. You can force console mode using the `--console` switch:
 
-- `java -jar jython_installer-2.2.jar --console`{.backtick}
+- `java -jar jython_installer-2.2.jar --console`
 
 For command line aficionados, there is also a silent mode, which requires at least the target directory:
 
-- `java -jar jython_installer-2.2.jar -s -d /usr/lib/jython-22`{.backtick}
+- `java -jar jython_installer-2.2.jar -s -d /usr/lib/jython-22`
 
 ## Generation of start scripts 
 
-On Windows, the installer creates a `jython.bat`{.backtick} and a `jythonc.bat`{.backtick} file. On all other platforms, it creates a `jython`{.backtick} and `jythonc`{.backtick} file, which are unix like shell scripts. If you have installed a shell on Windows (like cygwin, for example), the installer in addition will create unix like shell scripts.
+On Windows, the installer creates a `jython.bat` and a `jythonc.bat` file. On all other platforms, it creates a `jython` and `jythonc` file, which are unix like shell scripts. If you have installed a shell on Windows (like cygwin, for example), the installer in addition will create unix like shell scripts.
 
 These scripts have been tested on a wide range of platforms. Please let us know if you need different scripts on a specific platform.
 

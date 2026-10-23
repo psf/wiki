@@ -24,7 +24,7 @@ Pradyun-Sumana meeting
 
 - Add \"no-deps\" suggestion to user guide - migration
   - change step 4 to \"Troubleshoot and try these workarounds\"
-    - use `--no-deps`{.backtick} when you are sure you don\'t want pip to actually resolve dependencies, because you are using a set of packages that work together in reality even though their metadata says that they conflict \[this is a workaround \-- see [https://pip.pypa.io/en/latest/user_guide/#fixing-conflicting-dependencies](https://pip.pypa.io/en/latest/user_guide/#fixing-conflicting-dependencies) re longterm solution\]
+    - use `--no-deps` when you are sure you don\'t want pip to actually resolve dependencies, because you are using a set of packages that work together in reality even though their metadata says that they conflict \[this is a workaround \-- see [https://pip.pypa.io/en/latest/user_guide/#fixing-conflicting-dependencies](https://pip.pypa.io/en/latest/user_guide/#fixing-conflicting-dependencies) re longterm solution\]
 
     - read [https://pip.pypa.io/en/latest/user_guide/#dependency-resolution-backtracking](https://pip.pypa.io/en/latest/user_guide/#dependency-resolution-backtracking) for ways to reduce the time pip spends backtracking
 

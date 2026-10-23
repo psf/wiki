@@ -12,7 +12,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### pages
 
-`Collection all my focus Python.org's pages`{.backtick}
+`Collection all my focus Python.org's pages`
 
 - [Ten things people want to know about Python](../archive/Ten%20things%20people%20want%20to%20know%20about%20Python)
 

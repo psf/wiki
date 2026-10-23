@@ -38,7 +38,7 @@ These are the initial steps to prepare before the first meeting:
 
   Standard ways of communicating meetings (i.e. you don\'t *have* to use one of the above sites):
 
-- For each meeting or other event, post an email to `mail.python.org`{.backtick} email lists \"python-announce\" and \"python-list\". While, in my experience, many are not on these lists, it reaches another subset of the Python community you can\'t reach any other way. (These are mirrored to Google groups `comp.lang.python.announce`{.backtick} and `comp.lang.python`{.backtick})
+- For each meeting or other event, post an email to `mail.python.org` email lists \"python-announce\" and \"python-list\". While, in my experience, many are not on these lists, it reaches another subset of the Python community you can\'t reach any other way. (These are mirrored to Google groups `comp.lang.python.announce` and `comp.lang.python`)
 
 - Other mailing lists, newsgroups, twitter, RSS, etc.
 

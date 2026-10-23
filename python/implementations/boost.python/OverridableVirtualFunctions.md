@@ -12,7 +12,7 @@ In the previous example we exposed a simple C++ class in Python and showed that 
 
 ### Example 
 
-In this example, it is assumed that `hello::greet()`{.backtick} is a virtual member function:
+In this example, it is assumed that `hello::greet()` is a virtual member function:
 
     class hello
     {
@@ -25,15 +25,15 @@ In this example, it is assumed that `hello::greet()`{.backtick} is a virtual mem
 
 We\'ll need a derived class^[1](#fnref-a601a5360c1e729befc29729b3bebf6a4cd6e3fd)^ to help us dispatch the call to Python. In our derived class, we need the following elements:
 
-1.  A PyObject\* data member (usually called `self`{.backtick}) that holds a pointer to the Python object corresponding to our C++ *hello* instance.
+1.  A PyObject\* data member (usually called `self`) that holds a pointer to the Python object corresponding to our C++ *hello* instance.
 
-2.  For each exposed constructor of the base class `T`{.backtick}, a constructor which takes the same parameters preceded by an initial PyObject\* argument. The initial argument should be stored in the `self`{.backtick} data member described above.
+2.  For each exposed constructor of the base class `T`, a constructor which takes the same parameters preceded by an initial PyObject\* argument. The initial argument should be stored in the `self` data member described above.
 
-3.  If the class being wrapped is ever returned *by value* from a wrapped function, be sure you do the same for the `T`{.backtick}\'s copy constructor: you\'ll need a constructor taking arguments (PyObject\*, const T&).
+3.  If the class being wrapped is ever returned *by value* from a wrapped function, be sure you do the same for the `T`\'s copy constructor: you\'ll need a constructor taking arguments (PyObject\*, const T&).
 
 4.  An implementation of each virtual function you may wish to override in Python which uses `call_method<return-type>(self, "name", args...)` to call the Python override.
 
-5.  For each non-pure virtual function meant to be overridable from Python, a static member function (or a free function) taking a reference or pointer to the `T`{.backtick} as the first parameter and which forwards any additional parameters neccessary to the default implementation of the virtual function. See below if the base class virtual function is private.
+5.  For each non-pure virtual function meant to be overridable from Python, a static member function (or a free function) taking a reference or pointer to the `T` as the first parameter and which forwards any additional parameters neccessary to the default implementation of the virtual function. See below if the base class virtual function is private.
 
 <!-- -->
 
@@ -58,14 +58,14 @@ We\'ll need a derived class^[1](#fnref-a601a5360c1e729befc29729b3bebf6a4cd6e3fd)
         PyObject* self; // 1
     };
 
-Finally, we add hello_callback to the `class_<>`{.backtick} declaration in our module initialization function, and when we define the function, we must tell Boost.Python about the *default* implementation:
+Finally, we add hello_callback to the `class_<>` declaration in our module initialization function, and when we define the function, we must tell Boost.Python about the *default* implementation:
 
     // Create the Python type object for our extension class
     class_<hello,hello_callback> ("hello", init<std::string>())
         // Add a virtual member function
         .def("greet", &hello_callback::default_greet);
 
-Now our Python subclass of `hello`{.backtick} behaves as expected:
+Now our Python subclass of `hello` behaves as expected:
 
     >>> class wordy(hello):
     ...     def greet(self):
@@ -83,7 +83,7 @@ Now our Python subclass of `hello`{.backtick} behaves as expected:
 
 ### Pure Virtual Functions 
 
-A pure virtual function with no implementation is actually a lot easier to deal with than a virtual function with a default implementation. First of all, you obviously don\'t need to supply a default implementation. Secondly, you don\'t need to call *def()* on the `extension_class<>`{.backtick} instance for the virtual function. In fact, you wouldn\'t want to: if the corresponding attribute on the Python class stays undefined, you\'ll get an *AttributeError* in Python when you try to call the function, indicating that it should have been implemented. For example:
+A pure virtual function with no implementation is actually a lot easier to deal with than a virtual function with a default implementation. First of all, you obviously don\'t need to supply a default implementation. Secondly, you don\'t need to call *def()* on the `extension_class<>` instance for the virtual function. In fact, you wouldn\'t want to: if the corresponding attribute on the Python class stays undefined, you\'ll get an *AttributeError* in Python when you try to call the function, indicating that it should have been implemented. For example:
 
     #include <boost/python/class.hpp>
     #include <boost/python/module_init.hpp>

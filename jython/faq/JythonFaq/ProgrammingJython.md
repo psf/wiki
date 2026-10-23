@@ -133,7 +133,7 @@ for more info on jythonc see [http://www.jython.org/Project/jythonc.html](http:/
 
 ### How can catch a Java exception thrown from within Jython? 
 
-How do I distinguish between different Java exceptions thrown from within jython if the `interp.exec`{.backtick} method only throws a `PyException`{.backtick} ?
+How do I distinguish between different Java exceptions thrown from within jython if the `interp.exec` method only throws a `PyException` ?
 
      PythonInterpreter interp = new PythonInterpreter();
      String jythonCodeString = "from com.example import MyJavaException\n" +

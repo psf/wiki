@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Adding auto-completion to a QLineEdit 
 
-On the `#pyqt`{.backtick} IRC channel on [Freenode](http://www.freenode.net), `filip`{.backtick} asked how to add auto-completion in a QLineEdit widget.
+On the `#pyqt` IRC channel on [Freenode](http://www.freenode.net), `filip` asked how to add auto-completion in a QLineEdit widget.
 
 The following code shows how to use a QStringListModel to supply data to a QCompleter, itself used by a QLineEdit.
 

@@ -12,7 +12,7 @@ This example was created to explore issues with clipping mentioned in [this mess
 
 ![clipper.png](attachments/PyQt(2f)Painting(20)and(20)clipping(20)demonstration/clipper.png "clipper.png")
 
-The first version ([clipper.py](attachments/PyQt(2f)Painting(20)and(20)clipping(20)demonstration/clipper.py)) uses QPainter\'s `setClipRect()`{.backtick} method to clip painting outside a given rectangle.
+The first version ([clipper.py](attachments/PyQt(2f)Painting(20)and(20)clipping(20)demonstration/clipper.py)) uses QPainter\'s `setClipRect()` method to clip painting outside a given rectangle.
 
 :::: 
 ::: 
@@ -129,7 +129,7 @@ The first version ([clipper.py](attachments/PyQt(2f)Painting(20)and(20)clipping(
 :::
 ::::
 
-The second version ([clipper_path.py](attachments/PyQt(2f)Painting(20)and(20)clipping(20)demonstration/clipper_path.py)) shows how the same effect can be achieved by using QPainterPath\'s `intersected()`{.backtick} method. Here, we show how the `paintEvent()`{.backtick} method of the example has been modified:
+The second version ([clipper_path.py](attachments/PyQt(2f)Painting(20)and(20)clipping(20)demonstration/clipper_path.py)) shows how the same effect can be achieved by using QPainterPath\'s `intersected()` method. Here, we show how the `paintEvent()` method of the example has been modified:
 
 :::: 
 ::: 

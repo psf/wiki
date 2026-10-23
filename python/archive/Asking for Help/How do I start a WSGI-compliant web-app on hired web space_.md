@@ -14,13 +14,13 @@ I have some web space to play with, and I want to use it to teach myself python 
 
 If the Apache installation doesn\'t support [mod_wsgi](http://code.google.com/p/modwsgi/), and if you can\'t have long-running processes for various [Web frameworks](../../web/WebFrameworks), then you may have to start off deploying your application using CGI and then see how you get on. Fortunately, you can write WSGI applications and then decide how to deploy them - you won\'t need to rewrite everything - so not having mod_wsgi support isn\'t necessarily a problem. Once you have an application ready, or as you\'re testing your first \"hello world\" application, you just need to find a suitable program that can launch your WSGI code from a CGI environment.
 
-For this launcher program, one thing to look at might be the [wsgiref](./stdlib(3a)wsgiref(2e)html.html) module that is available in Python from version 2.5 onwards. You can write a very simple program that uses `wsgiref`{.backtick} to launch your application, and the [CGI deployment instructions for Werkzeug](http://werkzeug.pocoo.org/docs/deployment/cgi/) provides a suitable template.
+For this launcher program, one thing to look at might be the [wsgiref](./stdlib(3a)wsgiref(2e)html.html) module that is available in Python from version 2.5 onwards. You can write a very simple program that uses `wsgiref` to launch your application, and the [CGI deployment instructions for Werkzeug](http://werkzeug.pocoo.org/docs/deployment/cgi/) provides a suitable template.
 
 So, to summarise\...
 
 1.  Get your WSGI application ready, probably starting with a \"hello world\" test.
 
-2.  Make a simple launcher program using `wsgiref`{.backtick} and customise it to use your application.
+2.  Make a simple launcher program using `wsgiref` and customise it to use your application.
 
 3.  Deploy the launcher in a CGI directory on the server.
 

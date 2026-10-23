@@ -32,7 +32,7 @@ The following modules on the Python package index make standard library function
 
 - singledispatch (in the standard library\'s functools module as of Python 3.4)
 
-- logutils (logging functionality added in 2.7 and 3.2+, such as `dictConfig`{.backtick} / `QueueHandler`{.backtick} / `QueueListener`{.backtick})
+- logutils (logging functionality added in 2.7 and 3.2+, such as `dictConfig` / `QueueHandler` / `QueueListener`)
 
 - argparse (included in the standard library since Python 2.7/3.2)
 

@@ -45,13 +45,13 @@ Agenda:
     - Bernard: relying on people\'s memory of performance is problematic\... What kinds of data are you looking for?
     - Sumana: let\'s dig into this after this call.
 
-- output on backtracking that leads to `ResolutionTooDeep`{.backtick}: [https://github.com/pypa/pip/issues/8683](https://github.com/pypa/pip/issues/8683)
+- output on backtracking that leads to `ResolutionTooDeep`: [https://github.com/pypa/pip/issues/8683](https://github.com/pypa/pip/issues/8683)
 
   - what output should pip give out when it is doing stuff? it looks like it is downloading different versions of the same package. right now \.....
 
   - what should we be printing to the user so they don\'t think pip is stuck with the new resolver? sometimes it is stuck and we need to tell user \"I need help\" \.... we need to figure out what they should be
 
-  - Diff between this and `ResolutionTooDeep`{.backtick}? This IS RTD. What happened earlier was we deferred it in some senses\.... but we do have an error message on the RTD [GitHub](./GitHub.html) ticket.
+  - Diff between this and `ResolutionTooDeep`? This IS RTD. What happened earlier was we deferred it in some senses\.... but we do have an error message on the RTD [GitHub](./GitHub.html) ticket.
 
     - [https://github.com/pypa/pip/issues/8380](https://github.com/pypa/pip/issues/8380)
 
@@ -98,7 +98,7 @@ Agenda:
 
       - who is using the new resolver? we can\'t know this from our metadata\..... telemetry not there\.... how does curve/download trend look? normal.
 
-  - there is also a Google form \.... in `ResolutionImpossible`{.backtick} message, [https://forms.gle/cWKMoDs8sUVE29hz9](https://forms.gle/cWKMoDs8sUVE29hz9) survey #cWKMoDs8sUVE29hz9 \.... not what we are talking about
+  - there is also a Google form \.... in `ResolutionImpossible` message, [https://forms.gle/cWKMoDs8sUVE29hz9](https://forms.gle/cWKMoDs8sUVE29hz9) survey #cWKMoDs8sUVE29hz9 \.... not what we are talking about
 
     - TODO: it would be good for us to keep a page of all of the active survey links + a name for each of them. Plus a column: last time we did active outreach on this survey
 

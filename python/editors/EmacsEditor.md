@@ -40,7 +40,7 @@ Some tools have been written for using Python from Emacs:
 
 ### Support for C Python core developers 
 
-Both Emacs and XEmacs have support for developers hacking on the Python C code itself. If you\'re developing Python 2.x, just use the standard `python`{.backtick} style that comes with c-mode. If you\'re hacking on Python 3.x, you\'ll want to add the following code to your `.emacs`{.backtick} file (given by [Georg Brandl](http://mail.python.org/pipermail/python-dev/2008-May/079582.html)):
+Both Emacs and XEmacs have support for developers hacking on the Python C code itself. If you\'re developing Python 2.x, just use the standard `python` style that comes with c-mode. If you\'re hacking on Python 3.x, you\'ll want to add the following code to your `.emacs` file (given by [Georg Brandl](http://mail.python.org/pipermail/python-dev/2008-May/079582.html)):
 
     (c-add-style
       "python-new"

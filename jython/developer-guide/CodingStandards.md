@@ -26,9 +26,9 @@ In general, follow [PEP 8](http://www.python.org/dev/peps/pep-0008/). When impor
 
 - Braces on all loops and if else statements
 
-- A space between an if and its parenthesis i.e. `if (`{.backtick} instead of `if(`{.backtick}.
+- A space between an if and its parenthesis i.e. `if (` instead of `if(`.
 
-- Spaces between annotation element-value pairs. i.e. `@ExposedType(name = "unicode", base = PyBaseString.class)`{.backtick} instead of `@ExposedType(name="unicode",base=PyBaseString.class)`{.backtick}
+- Spaces between annotation element-value pairs. i.e. `@ExposedType(name = "unicode", base = PyBaseString.class)` instead of `@ExposedType(name="unicode",base=PyBaseString.class)`
 
 - Methods longer than 10 lines should have whitespace and comments breaking them up into coherent operations.
 
@@ -40,7 +40,7 @@ In general, follow [PEP 8](http://www.python.org/dev/peps/pep-0008/). When impor
 
 - Fields at the top of the class.
 
-- Don\'t declare fields with their default values ie `private Object blah;`{.backtick} instead of `private Object blah = null;`{.backtick} and `int i;`{.backtick} instead of `int i = 0;`{.backtick}
+- Don\'t declare fields with their default values ie `private Object blah;` instead of `private Object blah = null;` and `int i;` instead of `int i = 0;`
 
 - Comments begin with a space unless they\'re commented out code:
 

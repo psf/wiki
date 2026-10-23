@@ -14,13 +14,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Theme-related suggestions by [LionKimbro](../people/LionKimbro) 2006-03-25 16:48:34:
 
-  - Replace current icons with more common images - for example, current edit icon `python.org/img/moin-edit.png`{.backtick} is hard to associate with action
+  - Replace current icons with more common images - for example, current edit icon `python.org/img/moin-edit.png` is hard to associate with action
 
   - If possible, make the icons text, instead of icons?
 
   - \"Toggle Line Numbers\" draws way too much attention to itself; *Especially* when you have only 2 or 3 lines of code! Remove it entirely, or make it much smaller, or (whatever.)
 
-    - Or use `numbers=disable`{.backtick} in the code regions. \-- [PaulBoddie](../people/PaulBoddie) 2009-12-09 16:07:42
+    - Or use `numbers=disable` in the code regions. \-- [PaulBoddie](../people/PaulBoddie) 2009-12-09 16:07:42
 
   - Bullet point items are spread too far apart. Less white space above and below them.
 

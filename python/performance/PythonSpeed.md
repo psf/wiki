@@ -24,7 +24,7 @@ Here are some coding guidelines for applications that demand peak performance (i
 
 - Membership testing with sets and dictionaries is much faster, O(1), than searching sequences, O(n). When testing \"a in b\", b should be a set or dictionary instead of a list or tuple.
 
-- String concatenation is best done with `''.join(seq)`{.backtick} which is an O(n) process. In contrast, using the \'+\' or \'+=\' operators can result in an O(n\*\*2) process because new strings may be built for each intermediate step. The CPython 2.4 interpreter mitigates this issue somewhat; however, `''.join(seq)`{.backtick} remains the best practice.
+- String concatenation is best done with `''.join(seq)` which is an O(n) process. In contrast, using the \'+\' or \'+=\' operators can result in an O(n\*\*2) process because new strings may be built for each intermediate step. The CPython 2.4 interpreter mitigates this issue somewhat; however, `''.join(seq)` remains the best practice.
 
 - Many tools come in both list form and iterator form (range and xrange, map and itertools.imap, list comprehensions and generator expressions, dict.items and dict.iteritems). In general, the iterator forms are more memory friendly and more scalable. They are preferred whenever a real list is not required.
 

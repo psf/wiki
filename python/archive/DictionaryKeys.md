@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Valid Python dictionary keys 
 
-The only requirement for a dictionary key is that the key is hashable. Mutable types like lists, dictionaries, and sets won't work and result in an error like `TypeError: unhashable type: ‘dict’`{.backtick}. [source](https://python.land/python-data-types/dictionaries#Valid_dictionary_values)
+The only requirement for a dictionary key is that the key is hashable. Mutable types like lists, dictionaries, and sets won't work and result in an error like `TypeError: unhashable type: ‘dict’`. [source](https://python.land/python-data-types/dictionaries#Valid_dictionary_values)
 
 ## Why Lists Can\'t Be Dictionary Keys 
 
@@ -84,11 +84,11 @@ Hash functions that can approximate this property well will distribute (key, val
 
 The discussion above should explain why Python requires that:
 
-**To be used as a dictionary key, an object must support the hash function (e.g. through `__hash__`{.backtick}), equality comparison (e.g. through `__eq__`{.backtick} or `__cmp__`{.backtick}), and must satisfy the correctness condition above.**
+**To be used as a dictionary key, an object must support the hash function (e.g. through `__hash__`), equality comparison (e.g. through `__eq__` or `__cmp__`), and must satisfy the correctness condition above.**
 
 #### Lists as Dictionary Keys 
 
-That said, the simple answer to why lists cannot be used as dictionary keys is that lists do not provide a valid `__hash__`{.backtick} method. Of course, the obvious question is, \"Why not?\"
+That said, the simple answer to why lists cannot be used as dictionary keys is that lists do not provide a valid `__hash__` method. Of course, the obvious question is, \"Why not?\"
 
 Consider what kinds of hash functions could be provided for lists.
 
@@ -119,23 +119,23 @@ If lists were hashed by their contents (as tuples are), this, too, would be a va
 :::
 ::::
 
-where the value `42`{.backtick} is no longer available because the list that hashes to the same value, `[1, 2]`{.backtick}, is not equivalent to the modified list, and the value that is equivalent to the modified list, `[1, 2, 3]`{.backtick} does not hash to the same value. Since the dictionary doesn\'t know when a key object is modified, such errors could only be produced at key lookup time, not at object modification time, which could make such errors quite hard to debug.
+where the value `42` is no longer available because the list that hashes to the same value, `[1, 2]`, is not equivalent to the modified list, and the value that is equivalent to the modified list, `[1, 2, 3]` does not hash to the same value. Since the dictionary doesn\'t know when a key object is modified, such errors could only be produced at key lookup time, not at object modification time, which could make such errors quite hard to debug.
 
 Having found that both ways of hashing lists have some undesirable side-effects, it should be more obvious why Python takes the stance that:
 
 **The built-in list type should not be used as a dictionary key.**
 
-Note that since tuples are immutable, they do not run into the troubles of lists - they can be hashed by their contents without worries about modification. Thus, in Python, they provide a valid `__hash__`{.backtick} method and are thus usable as dictionary keys.
+Note that since tuples are immutable, they do not run into the troubles of lists - they can be hashed by their contents without worries about modification. Thus, in Python, they provide a valid `__hash__` method and are thus usable as dictionary keys.
 
 #### User Defined Types as Dictionary Keys 
 
 What about instances of user-defined types?
 
-By default, all user defined types are usable as dictionary keys with `hash(object)`{.backtick} defaulting to `id(object)`{.backtick}, and `cmp(object1, object2)`{.backtick} defaulting to `cmp(id(object1), id(object2))`{.backtick}. This same suggestion was discussed above for lists and found unsatisfactory. Why are user-defined types different?
+By default, all user defined types are usable as dictionary keys with `hash(object)` defaulting to `id(object)`, and `cmp(object1, object2)` defaulting to `cmp(id(object1), id(object2))`. This same suggestion was discussed above for lists and found unsatisfactory. Why are user-defined types different?
 
 1.  In the cases where an object must be placed in a mapping, object identity is often much more important than object contents.
 
-2.  In the cases where object content really is important, the default settings can be redefined by overriding `__hash__`{.backtick} and `__cmp__`{.backtick} or `__eq__`{.backtick}.
+2.  In the cases where object content really is important, the default settings can be redefined by overriding `__hash__` and `__cmp__` or `__eq__`.
 
 Note that it is often better practice when an object is to be associated with a value, to simply assign that value as one of the object\'s attributes.
 

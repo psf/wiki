@@ -18,7 +18,7 @@ Core Python 2 flaws.
 
 - internal representation of .py file paths is not normalized (comparisons and identity checks are impossible)
 
-- `-*- coding -*-`{.backtick} header [is not used as default encoding](http://bugs.python.org/issue17439) when transforming string literals in the source file
+- `-*- coding -*-` header [is not used as default encoding](http://bugs.python.org/issue17439) when transforming string literals in the source file
 
 - can not modify variables in outer scope (see nonlocal from Python 3)
 
@@ -124,7 +124,7 @@ Dynamic data visualization examples:
 
 ### Human Language Translation Table 
 
-`Explicit is better than implicit.`{.backtick} doesn\'t apply to humans, apparently.
+`Explicit is better than implicit.` doesn\'t apply to humans, apparently.
 
 | Explicit | Implicit | Comment |
 |---|---|---|

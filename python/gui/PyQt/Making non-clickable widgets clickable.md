@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Making non-clickable widgets clickable 
 
-On the `#pyqt`{.backtick} channel on Freenode, `xh`{.backtick} asked if it was possible to make QLabel objects clickable without subclassing.
+On the `#pyqt` channel on Freenode, `xh` asked if it was possible to make QLabel objects clickable without subclassing.
 
 There are two ways to do this:
 
@@ -19,7 +19,7 @@ These are shown below.
 
 ### Event filters 
 
-The following example code shows how to use event filters to do this. It uses one filter object per label, which is created when the `clickable()`{.backtick} function is called with the widget that is to be click-enabled. The function returns a `clicked()`{.backtick} signal that actually belongs to the filter object. The caller can connect this signal to a suitable callable object.
+The following example code shows how to use event filters to do this. It uses one filter object per label, which is created when the `clickable()` function is called with the widget that is to be click-enabled. The function returns a `clicked()` signal that actually belongs to the filter object. The caller can connect this signal to a suitable callable object.
 
 :::: 
 ::: 
@@ -91,7 +91,7 @@ The following example code shows how to use event filters to do this. It uses on
 
 ### Assigning new methods 
 
-As `xh`{.backtick} pointed out, it should be possible to assign new event handler methods to instances of QLabel, and this should work as long as the labels were created in Python:
+As `xh` pointed out, it should be possible to assign new event handler methods to instances of QLabel, and this should work as long as the labels were created in Python:
 
 :::: 
 ::: 

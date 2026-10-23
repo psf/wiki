@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Windows with gradient backgrounds 
 
-On the #pyqt channel on Freenode, `felipe__`{.backtick} asked if it was possible to change the background colour of a window.
+On the #pyqt channel on Freenode, `felipe__` asked if it was possible to change the background colour of a window.
 
-This code shows how it can be done with a fixed gradient. If you are subclassing QWidget or another widget class, it may be worth reimplementing its `resizeEvent()`{.backtick} method to modify the gradient so that it changes when the window is resized.
+This code shows how it can be done with a fixed gradient. If you are subclassing QWidget or another widget class, it may be worth reimplementing its `resizeEvent()` method to modify the gradient so that it changes when the window is resized.
 
 :::: 
 ::: 

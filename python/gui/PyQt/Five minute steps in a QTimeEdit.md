@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Five minute steps in a QTimeEdit 
 
-On the `#pyqt`{.backtick} channel on Freenode, `rowinggolfer`{.backtick} asked if it was possible to make QTimeEdit step in five minute intervals.
+On the `#pyqt` channel on Freenode, `rowinggolfer` asked if it was possible to make QTimeEdit step in five minute intervals.
 
-The following subclass reimplements the `stepBy()`{.backtick} method and calls the base class implementation with an adjusted number of steps.
+The following subclass reimplements the `stepBy()` method and calls the base class implementation with an adjusted number of steps.
 
 :::: 
 ::: 

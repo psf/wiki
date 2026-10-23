@@ -135,7 +135,7 @@ Static graphs:
 
 \- (I wasn\'t talking about numbers. \"The number of X\" means \"how many Xs\" there are. - *Magnus*)
 
-\- Accessing incident edges based on their labels can also be useful (e.g. in FSAs). \"again tricky because it requires defining that a node/edge \"\"must\"\" have a label. Does this mean having `class LabeledGraph(Graph)`{.backtick}? *(nick)*\"
+\- Accessing incident edges based on their labels can also be useful (e.g. in FSAs). \"again tricky because it requires defining that a node/edge \"\"must\"\" have a label. Does this mean having `class LabeledGraph(Graph)`? *(nick)*\"
 
 \- (The access here would, of course, only be available if the edges or labels do indeed have labels; not otherwise. - *Magnus*)
 

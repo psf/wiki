@@ -58,7 +58,7 @@ Just remember about that infinite series of 1 bits in a negative number, and the
 
 ### Other Classes 
 
-One more point: Python allows operator overloading, so some classes may be written to allow the bitwise operators, but with some other meaning. For instance, operations on the Python `set`{.backtick} and `frozenset`{.backtick} types have specific meanings for `|`{.backtick} (union), `&`{.backtick} (intersection) and `^`{.backtick} (symmetric difference).
+One more point: Python allows operator overloading, so some classes may be written to allow the bitwise operators, but with some other meaning. For instance, operations on the Python `set` and `frozenset` types have specific meanings for `|` (union), `&` (intersection) and `^` (symmetric difference).
 
 ## See Also 
 

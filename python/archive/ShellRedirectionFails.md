@@ -17,7 +17,7 @@ If you try to redirect printing of non-ASCII unicode strings into a file, Python
 :::
 ::::
 
-Of course, this code is not portable since most users in the world don\'t use UTF-8 encoding for files. The `locale`{.backtick} module provides the function `getpreferredencoding()`{.backtick} that will try to guess what is the preferred encoding for text files. There are also other ways to ask user for encoding of text files: command line options of your script, parameters stored in a configuration file, and GUI dialogs are common examples.
+Of course, this code is not portable since most users in the world don\'t use UTF-8 encoding for files. The `locale` module provides the function `getpreferredencoding()` that will try to guess what is the preferred encoding for text files. There are also other ways to ask user for encoding of text files: command line options of your script, parameters stored in a configuration file, and GUI dialogs are common examples.
 
 ### References 
 

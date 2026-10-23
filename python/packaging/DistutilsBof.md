@@ -14,17 +14,17 @@ Someone should volunteer to act as a scribe for the meeting.
 
 ## Distutils BoF Topics 
 
-There have been many proposals for changes and improvements to `distutils`{.backtick}, but any actual activity on improving `distutils`{.backtick} appears to have come to a complete halt. All activity has moved to third-party tools which layer on top of `distutils`{.backtick}.
+There have been many proposals for changes and improvements to `distutils`, but any actual activity on improving `distutils` appears to have come to a complete halt. All activity has moved to third-party tools which layer on top of `distutils`.
 
-There is a case to be made for integrating the best of the enhancements directly into `distutils`{.backtick} itself, with the most important being shared maintenance and making the tools readily available for use by smaller distributions. Currently, many larger distributions of Python code are incorporating `distutils`{.backtick} extensions directly into their distributions. This isn\'t much of a problem for large distributions (like Zope and PEAK), but seems out of place for smaller distributions of a single package (like `ZConfig`{.backtick}).
+There is a case to be made for integrating the best of the enhancements directly into `distutils` itself, with the most important being shared maintenance and making the tools readily available for use by smaller distributions. Currently, many larger distributions of Python code are incorporating `distutils` extensions directly into their distributions. This isn\'t much of a problem for large distributions (like Zope and PEAK), but seems out of place for smaller distributions of a single package (like `ZConfig`).
 
 The extensions which we should consider adding directly to distutils include:
 
 - Support for installing both modules and packages from a single distribution.
 
-- Support for more easily installing data files into a package. Phillip Eby\'s `setuptools`{.backtick} has implemented one reasonable approach to this; there may be others.
+- Support for more easily installing data files into a package. Phillip Eby\'s `setuptools` has implemented one reasonable approach to this; there may be others.
 
-- The ability to install packages into other packages without having to hack around in *setup.py* scripts. (For example, the option to install `zope.app.sqlscripts`{.backtick} into an existing installation of `zope.app`{.backtick}.)
+- The ability to install packages into other packages without having to hack around in *setup.py* scripts. (For example, the option to install `zope.app.sqlscripts` into an existing installation of `zope.app`.)
 
 - Some ability to use more declarative forms of metadata from *setup.py* without having to write a pile of extension code. This is being explored some at Zope Corporation.
 

@@ -55,7 +55,7 @@ Agenda
       - \"This work possibly sits within wider scope of making the ecosystem around pip better. Georgia needs to look at budget / resources to confirm how far we can contribute to this idea.\"
         - Sumana: [Pip2020DonorFundedRoadmap](../../packaging/Pip2020DonorFundedRoadmap) \-- let\'s look at this as we embark on Phase III!
 
-    - The pip team has no understanding of when and why the pip resolver fails (`ResolutionImpossible`{.backtick} and `ResolutionTooDeep`{.backtick} exceptions). This makes it very hard to provide useful contextual information to help the user resolve their problem(s).
+    - The pip team has no understanding of when and why the pip resolver fails (`ResolutionImpossible` and `ResolutionTooDeep` exceptions). This makes it very hard to provide useful contextual information to help the user resolve their problem(s).
 
       - Something needs to do the work of figuring out which contextual info to provide to the user\... could we gather metrics on failed conflict resolution in order for pip to better understand what package combos work well/don\'t? This would all assume that these metrics were gathered consensually, transparently, etc.
         - TODO: Sumana: Are we ok to go to the Python community to ask \"what if we had specific telemetry on package dependency conflicts?\"
@@ -104,7 +104,7 @@ Agenda
     - TP: we talked about releasing another alpha
       - TODO: let\'s do this in May, Paul to do this tomorrow or Friday: 20.2b1 \-- DONE
 
-- `ResolutionTooDeep`{.backtick} \-- how about an alternative strategy of \"remove the error raising logic, and see who complains about the resolution taking too long\"
+- `ResolutionTooDeep` \-- how about an alternative strategy of \"remove the error raising logic, and see who complains about the resolution taking too long\"
 
   - Tzu-Ping filed a PR while we were talking. LOL
 

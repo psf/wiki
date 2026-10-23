@@ -87,16 +87,16 @@ Agenda:
 
       - in cases where we do backtracking, it feels like we can\'t do much on performance in those cases
 
-      - but we don\'t have a good answer to `ResolutionTooDeep`{.backtick} discussion \-- if it\'s taking too long, right now we don\'t stop and say \"we\'re taking too long\".
+      - but we don\'t have a good answer to `ResolutionTooDeep` discussion \-- if it\'s taking too long, right now we don\'t stop and say \"we\'re taking too long\".
 
     - SH: benchmarking?
-      - Pradyun has some sample `requirements.txt`{.backtick} files locally. if it\'s not 20x slower I think we should go ahead? will post in [https://github.com/pypa/pip/issues/8664](https://github.com/pypa/pip/issues/8664) and we\'ll take discussion from there
+      - Pradyun has some sample `requirements.txt` files locally. if it\'s not 20x slower I think we should go ahead? will post in [https://github.com/pypa/pip/issues/8664](https://github.com/pypa/pip/issues/8664) and we\'ll take discussion from there
 
     - uhm, the so, we have a few differnet realted problems
       - in the \"base case\" (no backtracking) \-- what level of slowdown is good enough?
 
       - in the \"complex case\" (because backtracking) \-- hey, the reason this is slow, it\'s because we\'re backtracking.
-        - related question: if the resolver is backtracking, is it the `ResolutionTooDeep`{.backtick}
+        - related question: if the resolver is backtracking, is it the `ResolutionTooDeep`
 
           - if pip is backtracking lots of choices, pip might want to present a message to the user that it\'s backtracking a lot.
 
@@ -104,7 +104,7 @@ Agenda:
 
         - TODO: Pradyun to file an issue and talk about it with Paul and TP, maybe also a PR
 
-      - Hey UX team: figuring out the `ResolutionTooDeep`{.backtick} error message/docs will be high-priority and may displace other work, because it blocks 20.3
+      - Hey UX team: figuring out the `ResolutionTooDeep` error message/docs will be high-priority and may displace other work, because it blocks 20.3
 
     - Pradyun: if we make, e.g., 20 choices that backtrack, we would tell user \"we are hitting a lot of conflicts so this might take a while\" with maybe some context and link to docs, while pip keeps working. Would this be helpful to the user who thinks \"pip is in an infinite loop?\"
       - Bernard: the issue: pip is doing something, because it needs to do this thing, trying many different options. At some point in time, user will think \"this is taking too long, what is happening?\"

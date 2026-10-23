@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-`CallPolicy`{.backtick} allows [boost.python]() to deal with raw references and pointers. Different policies specifies different strategies of managing object ownership.
+`CallPolicy` allows [boost.python]() to deal with raw references and pointers. Different policies specifies different strategies of managing object ownership.
 
 ## with_custodian_and_ward\<M,N\> 
 

@@ -89,4 +89,4 @@ Agenda
 
   - What is pip\'s personality - I\'m not really smart, I\'m a little smart
 
-  - There\'s no distinction between the easy cases and the complicated (`pip install something-simple`{.backtick} looks the same as `pip install something-really-complicated`{.backtick})
+  - There\'s no distinction between the easy cases and the complicated (`pip install something-simple` looks the same as `pip install something-really-complicated`)

@@ -27,11 +27,11 @@ Agenda:
 
     - Pradyun said \"In particular, I think the important parts for this issue, in the short term, are that we get the output correct, and communicate about these changes as best as possible (through documentation of the changes + workarounds, signal boosting etc).\"
 
-    - We have a lot of documentation-support about `ResolutionImpossible`{.backtick} but not a lot about backtracking. Do we need it?
+    - We have a lot of documentation-support about `ResolutionImpossible` but not a lot about backtracking. Do we need it?
 
     - Should be covered by [https://github.com/pypa/pip/pull/9017](https://github.com/pypa/pip/pull/9017)
 
-    - Do we need a doc to link to, from message as we do for `ResolutionImpossible`{.backtick}?
+    - Do we need a doc to link to, from message as we do for `ResolutionImpossible`?
 
       - SH: I think so, yes.
 

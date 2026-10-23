@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Customising a tab to contain a menu 
 
-On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `rowinggolfer`{.backtick} asked if it was possible to put a pop-up menu in a tab bar. The following code shows one way to approach the problem.
+On the `#pyqt` channel on [Freenode](http://freenode.net), `rowinggolfer` asked if it was possible to put a pop-up menu in a tab bar. The following code shows one way to approach the problem.
 
 :::: 
 ::: 

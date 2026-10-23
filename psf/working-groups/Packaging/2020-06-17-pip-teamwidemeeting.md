@@ -64,7 +64,7 @@ Agenda:
     - managing pip cache (from early discussion with Pradyun)
       - How urgent is this?
 
-      - we\'ve since had `pip cache`{.backtick} added, and there\'s basically 1 more request-for-functionality; for time/size based trimming/search capabilities.
+      - we\'ve since had `pip cache` added, and there\'s basically 1 more request-for-functionality; for time/size based trimming/search capabilities.
 
       - I don\'t think there\'s need for research on this anymore \-- it\'s now bounded/bottlenecked on dev-time availability.
 
@@ -175,7 +175,7 @@ Agenda:
         - in response to: user research participant: was uncomfortable about loosening his toplevel requirements, \[more details\] wanted to be able to see all compat versions and choose from them.
           - there is an open source project called \"pip conflict checker\" - would this add the functionality the user was seeking?
 
-        - this exists as `pip check`{.backtick}, for post-installation.
+        - this exists as `pip check`, for post-installation.
 
         - and pip install prints any conflicts before installing
           - possible to hypothetically have that functionality BEFORE installation? And provide option(s) that would solve the conflict.

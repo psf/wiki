@@ -16,7 +16,7 @@ You provide a default system to build this list but you know some people will pr
 
 So let\'s declare a user option, called \"manifest-makers\", where an ordered list of plugins name can be declared.
 
-We also declare a new attribute called `extensible_options`{.backtick}, to declare the list of options that are used to extend the command.
+We also declare a new attribute called `extensible_options`, to declare the list of options that are used to extend the command.
 
     class MyCmd(Command):
 

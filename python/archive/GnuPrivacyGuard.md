@@ -17,7 +17,7 @@ The GnuPG initiative recommends using GPGME because it provides a documented API
 
 ## Accessing GnuPG via gpgme 
 
-[GPGME](https://gnupg.org/software/gpgme/index.html) is the official library for accessing GNU Privacy Guard from programs. Although there are [python bindings for GPGME](https://pypi.org/project/gpg/) included within [PyPi](./PyPi.html) which could be installed with `pip`{.backtick}, this is not recommended by the GPG project and is unlikely to work since the [PyPi](./PyPi.html) library version would have to exactly match the version of GNUPG installed on your system. Instead either
+[GPGME](https://gnupg.org/software/gpgme/index.html) is the official library for accessing GNU Privacy Guard from programs. Although there are [python bindings for GPGME](https://pypi.org/project/gpg/) included within [PyPi](./PyPi.html) which could be installed with `pip`, this is not recommended by the GPG project and is unlikely to work since the [PyPi](./PyPi.html) library version would have to exactly match the version of GNUPG installed on your system. Instead either
 
 - install and use the version available with your operating system (see table below)
 
@@ -48,7 +48,7 @@ There are multiple libraries which drive the gpg binary as a program and interpr
 
 `python -m pip install pretty-bad-protocol`
 
-improvements over `python-gnupg`{.backtick} include whitelisting of `gpg`{.backtick} program output designed to protect against vulnerabilities caused by changes in the program output.
+improvements over `python-gnupg` include whitelisting of `gpg` program output designed to protect against vulnerabilities caused by changes in the program output.
 
 ### python-gnupg
 
@@ -68,7 +68,7 @@ In parallel with the GnuPG interface a separate [GnuPGInterface](https://pypi.or
 
 After four years from Steve Traugott\'s work, in July 2009 Vinay Sajip updated the module (now called gnupg.py to avoid confusion) and made it available (under the New BSD License) in tarballs on Google Code. The new version uses the subprocess module and so is easiest to use under Pythons \>= 2.4. A unittest harness was also included.
 
-In 2013, in response to vulnerabilities in python-gnupg, a fork was made by Isis Lovecruft, this was initially available on [PyPi](./PyPi.html) as `gnupg`{.backtick} but has now been [renamed to pretty-bad-protocol](https://blog.patternsinthevoid.net/pretty-bad-protocolpeople.html) to avoid any confusion. This library has now completely rewritten the original and has not been vulnerable to some vulnerabilities which have been found in python-gnupg since.
+In 2013, in response to vulnerabilities in python-gnupg, a fork was made by Isis Lovecruft, this was initially available on [PyPi](./PyPi.html) as `gnupg` but has now been [renamed to pretty-bad-protocol](https://blog.patternsinthevoid.net/pretty-bad-protocolpeople.html) to avoid any confusion. This library has now completely rewritten the original and has not been vulnerable to some vulnerabilities which have been found in python-gnupg since.
 
 ### pgpme based libraries history 
 

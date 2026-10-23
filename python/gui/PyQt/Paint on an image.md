@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Paint on an image 
 
-On the `comp.lang.python`{.backtick} newsgroup (`python-list`{.backtick}), Laszlo Nagy asked for suggestions for a library to render antialiased images using [TrueType](./TrueType.html) font files.
+On the `comp.lang.python` newsgroup (`python-list`), Laszlo Nagy asked for suggestions for a library to render antialiased images using [TrueType](./TrueType.html) font files.
 
 Here is a hurriedly written program to do that ([source code](attachments/PyQt(2f)Paint(20)on(20)an(20)image/painttext.py "source code")).
 

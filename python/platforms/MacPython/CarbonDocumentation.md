@@ -12,13 +12,13 @@ Try some or all:
 
 - Read Apple Carbon documentation
 
-- Use `dir()`{.backtick} and `help()`{.backtick}
+- Use `dir()` and `help()`
 
-- Look into [MacPython]() IDE code, or in the few Mac Python modules like `macostools`{.backtick}, `findertools`{.backtick} or other modules in `plat-mac`{.backtick}
+- Look into [MacPython]() IDE code, or in the few Mac Python modules like `macostools`, `findertools` or other modules in `plat-mac`
 
 - Look into the C modules that implement the glue between Python and Carbon.
 
-- Ask the good people at `#macpython`{.backtick} in `irc.freenode.org`{.backtick}
+- Ask the good people at `#macpython` in `irc.freenode.org`
 
 ## Recipes 
 

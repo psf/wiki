@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Python has a standard [logging](http://docs.python.org/library/logging.html) module modeled after [Apache log4j](http://logging.apache.org/log4j) - the standard logging system for Java. Here we gather additional information about logging in Python in general that is missing from the docs.
 
-- [LoggingPackage](LoggingPackage) page contains discussions about `logging`{.backtick} module features.
+- [LoggingPackage](LoggingPackage) page contains discussions about `logging` module features.
 
 - [http://sourceforge.net/projects/log4py/](http://sourceforge.net/projects/log4py/) is another log4j port to Python.
 

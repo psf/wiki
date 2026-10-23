@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## How do I get or set the modification date of a file? 
 
-use the `os`{.backtick} module.
+use the `os` module.
 
-Specifically, see `os.stat`{.backtick} and `os.utime`{.backtick} documented at [http://www.python.org/doc/2.4.2/lib/os-file-dir.html](http://www.python.org/doc/2.4.2/lib/os-file-dir.html) \--[ZacharyHamm](./ZacharyHamm.html)
+Specifically, see `os.stat` and `os.utime` documented at [http://www.python.org/doc/2.4.2/lib/os-file-dir.html](http://www.python.org/doc/2.4.2/lib/os-file-dir.html) \--[ZacharyHamm](./ZacharyHamm.html)
 
 ------------------------------------------------------------------------
 

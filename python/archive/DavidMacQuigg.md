@@ -28,4 +28,4 @@ If we do this right, the result will be win-win for both open-source and commerc
 
 ------------------------------------------------------------------------
 
-[CategoryHomepage](CategoryHomepage) `     `{.backtick}[EDAtools](EDAtools)
+[CategoryHomepage](CategoryHomepage) `     `[EDAtools](EDAtools)

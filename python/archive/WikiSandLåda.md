@@ -16,7 +16,7 @@ Här kan du experimentera med att göra ändringar. Börja efter de fyra strecke
 
 *kursiv* **fetstil** `skrivmaskinsstil`
 
-`backtick skrivmaskin`{.backtick} (configurable)
+`backtick skrivmaskin` (configurable)
 
     förformatterat
 

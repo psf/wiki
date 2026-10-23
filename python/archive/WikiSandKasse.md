@@ -14,7 +14,7 @@ Hold dig ikke tilbage med at eksperimentere her, under de fire streger nedenfor\
 
 *kursiv* **fed** `skrivemaskine`
 
-`accent grave skrivemaskine`{.backtick} (hvis det er aktiveret i opsætningen)
+`accent grave skrivemaskine` (hvis det er aktiveret i opsætningen)
 
     forudformateret
 

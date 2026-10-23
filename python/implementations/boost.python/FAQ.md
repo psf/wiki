@@ -37,9 +37,9 @@ If you look at libs/python/test/test_pointer_adoption.cpp you\'ll see the factor
 
 The only relationship is that they both deal with constructors.
 
-- `no_init`{.backtick} means \"do not try to create an instance of that Python object, create `__init__`{.backtick} function that throws an exception\"
+- `no_init` means \"do not try to create an instance of that Python object, create `__init__` function that throws an exception\"
 
-- `noncopyable`{.backtick} means \"do not try to register a converter which can convert C++ return values of that class to Python\".
+- `noncopyable` means \"do not try to register a converter which can convert C++ return values of that class to Python\".
 
 When wrapping an abstract class, it\'s necessary to specify both.
 

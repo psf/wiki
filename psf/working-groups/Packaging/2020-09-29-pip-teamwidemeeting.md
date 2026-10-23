@@ -24,7 +24,7 @@ Status & blockers
 
   - TODO: actually adding flag for rollout. Including filing a flag for it. \-- DONE [https://github.com/pypa/pip/issues/8937](https://github.com/pypa/pip/issues/8937)
 - Nicole:
-  - been continuing to conduct user interviews. blocker: no-shows ![:(](/wiki/europython/img/sad.png ":(") not unusual. Also: had an interview where we talked about `pip wheel`{.backtick} and would like to better understand (talk with Pradyun).
+  - been continuing to conduct user interviews. blocker: no-shows ![:(](/wiki/europython/img/sad.png ":(") not unusual. Also: had an interview where we talked about `pip wheel` and would like to better understand (talk with Pradyun).
 
   - now promoting the survey on pip install. numbers are good - response rate and promoting/outreach seems to be working! \"buy a feature\" - waded into Reddit, may not do that again.
     - Sumana: disclaimer that she doesn\'t know about efficacy of Reddit, Instagram, Facebook, Hacker News

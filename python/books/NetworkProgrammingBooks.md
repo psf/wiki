@@ -34,7 +34,7 @@ This second edition of Foundations of Python Network Programming targets Python 
 
 [1590593715](http://www.amazon.com/exec/obidos/ISBN=1590593715 "ISBN"), APress, 512 pages (August 2004)
 
-Discusses many aspects of network programming in Python, from basic socket operations to standard library modules such as `xmlrpclib`{.backtick}.
+Discusses many aspects of network programming in Python, from basic socket operations to standard library modules such as `xmlrpclib`.
 
 - [Table of contents](http://changelog.complete.org/articles/2004/08/25/foundations-of-python-network-programming/#more-86)
 

@@ -18,7 +18,7 @@ In these cases, you can try `gdb`.
 
 ## Prerequisites 
 
-You need to have `gdb`{.backtick} on your system and Python debugging extensions. Extensions package includes debugging symbols and adds Python-specific commands into `gdb`{.backtick}. On a modern Linux system, you can easily install these with:
+You need to have `gdb` on your system and Python debugging extensions. Extensions package includes debugging symbols and adds Python-specific commands into `gdb`. On a modern Linux system, you can easily install these with:
 
 Fedora:
 
@@ -38,13 +38,13 @@ Centos\*:
 
 ##### \* tested on Centos 7. python-debuginfo is installable after the first two commands. 
 
-For `gdb`{.backtick} support on legacy systems, look at the end of this page.
+For `gdb` support on legacy systems, look at the end of this page.
 
 ## Running with \`gdb\` 
 
 There are two possible ways:
 
-1.  run python under `gdb`{.backtick} from the start. Note: the python executable needs to have debug symbols in it which may be another exe python2.7-dbg depending on your system
+1.  run python under `gdb` from the start. Note: the python executable needs to have debug symbols in it which may be another exe python2.7-dbg depending on your system
 
 2.  attach to already running python process
 
@@ -66,13 +66,13 @@ If the process is already running, you can attach to it provided you know the pr
 
 - $ gdb python <pid of running process>
 
-Attaching to a running process like this will cause it to stop. You can tell it to continue running with `c`{.backtick} command.
+Attaching to a running process like this will cause it to stop. You can tell it to continue running with `c` command.
 
 ## Debugging process 
 
-If your program segfaulted, `gdb`{.backtick} will automatically pause the program, so you can switch into `gdb`{.backtick} console to inspect its state. You can also manually interrupt program execution by pressing Ctrl+C in the console.
+If your program segfaulted, `gdb` will automatically pause the program, so you can switch into `gdb` console to inspect its state. You can also manually interrupt program execution by pressing Ctrl+C in the console.
 
-See the page [EasierPythonDebugging](https://fedoraproject.org/wiki/Features/EasierPythonDebugging) for the list of Python helper commands for `gdb`{.backtick}.
+See the page [EasierPythonDebugging](https://fedoraproject.org/wiki/Features/EasierPythonDebugging) for the list of Python helper commands for `gdb`.
 
 ### Getting a C Stack Trace 
 
@@ -128,7 +128,7 @@ If the hang occurs in some thread, the following commands may be handy:
         2    Thread 0xac7b7b40 (LWP 17875) "dconf worker" 0xb7fdd424 in __kernel_vsyscall ()
       * 1    Thread 0xb7d876c0 (LWP 17863) "python2.7" 0xb7fdd424 in __kernel_vsyscall ()
 
-Current thread is marked with `*`{.backtick}. To see where it is in Python code, use `py-list`{.backtick}:
+Current thread is marked with `*`. To see where it is in Python code, use `py-list`:
 
 - (gdb) py-list
       2025        # Open external files with our Mac app
@@ -177,11 +177,11 @@ To see Python code positions for all threads, use:
 
 ## GDB on Legacy systems 
 
-It may happen that you need to use `gdb`{.backtick} on a legacy system without advanced Python support. In this case you may find the following information useful.
+It may happen that you need to use `gdb` on a legacy system without advanced Python support. In this case you may find the following information useful.
 
 #### GDB Macros 
 
-A set of GDB macros are distributed with Python that aid in debugging the Python process. You can install them by adding the contents of `Misc/gdbinit`{.backtick} in the Python sources to `~/.gdbinit`{.backtick} \-- or copy it [from Subversion](http://svn.python.org/view/python/branches/release27-maint/Misc/gdbinit?view=log). Be sure to use the correct version for your version of Python or some features will not work.
+A set of GDB macros are distributed with Python that aid in debugging the Python process. You can install them by adding the contents of `Misc/gdbinit` in the Python sources to `~/.gdbinit` \-- or copy it [from Subversion](http://svn.python.org/view/python/branches/release27-maint/Misc/gdbinit?view=log). Be sure to use the correct version for your version of Python or some features will not work.
 
 Note that the new GDB commands this file adds will only work correctly if debugging symbols are available.
 

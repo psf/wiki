@@ -23,7 +23,7 @@ First encounter problems (can those be solved?):
     - acquire did download some stuff that I saved into \~/gutenberg.xml
     - but loading that file still doesn\'t show anything
   - then read the hint about using the !SampleData/ directory
-    - but where is it? Had to use `dpkg -L pyge`{.backtick} to find out that it is /usr/share/PyGE/SampleData/. Of course I first tried /usr/share/doc/pyge, /usr/lib/pyge, and some others unsuccessfully.
+    - but where is it? Had to use `dpkg -L pyge` to find out that it is /usr/share/PyGE/SampleData/. Of course I first tried /usr/share/doc/pyge, /usr/lib/pyge, and some others unsuccessfully.
   - OK, that helped, now I have at least a list of stuff on the screen.
   - But it shows me year and author by default, not the (maybe more interesting TITLE), so I switched to title view (but it then shows the title ONLY!?).
   - Tried to download some title, doesn\'t work, \"download\" button is greyed.

@@ -15,7 +15,7 @@ Pyarmor is a command line tool used to obfuscate python scripts, bind obfuscated
 - Clear f_locals of frame as soon as code object completed execution.
 - Expired obfuscated scripts, or bind to fixed machine.
 
-Look at what happened after `foo.py`{.backtick} is obfuscated by Pyarmor. Here are the files list in the output path `dist`{.backtick}
+Look at what happened after `foo.py` is obfuscated by Pyarmor. Here are the files list in the output path `dist`
 
         foo.py
 
@@ -27,7 +27,7 @@ Look at what happened after `foo.py`{.backtick} is obfuscated by Pyarmor. Here a
         product.key
         license.lic
 
-`dist/foo.py`{.backtick} is obfuscated script, the content is
+`dist/foo.py` is obfuscated script, the content is
 
 :::: 
 ::: 
@@ -40,7 +40,7 @@ Look at what happened after `foo.py`{.backtick} is obfuscated by Pyarmor. Here a
 :::
 ::::
 
-All the other extra files called `Runtime Files`{.backtick}, which are required to run or import obfuscated scripts. So long as runtime files are in any Python path, obfuscated script `dist/foo.py`{.backtick} can be used as normal Python script. That is to say, `the original python scripts can be replaced with obfuscated scripts seamlessly.`{.backtick}
+All the other extra files called `Runtime Files`, which are required to run or import obfuscated scripts. So long as runtime files are in any Python path, obfuscated script `dist/foo.py` can be used as normal Python script. That is to say, `the original python scripts can be replaced with obfuscated scripts seamlessly.`
 
 ### Obfuscate Scripts 
 
@@ -54,7 +54,7 @@ First compile Python script to code object
 
 Next change this code object as the following ways
 
-- Wrap byte code `co_code`{.backtick} within a `try...finally`{.backtick} block
+- Wrap byte code `co_code` within a `try...finally` block
 
           wrap header:
 
@@ -78,13 +78,13 @@ Next change this code object as the following ways
                   POP_TOP
                   END_FINALLY
 
-- Append function names `__armor_enter`{.backtick}, `__armor_exit__`{.backtick} to `co_consts`{.backtick}
+- Append function names `__armor_enter`, `__armor_exit__` to `co_consts`
 
-- Increase `co_stacksize`{.backtick} to 4 if it\'s less than 4
+- Increase `co_stacksize` to 4 if it\'s less than 4
 
-- Set CO_OBFUSCAED (0x80000000) flag in `co_flags`{.backtick}
+- Set CO_OBFUSCAED (0x80000000) flag in `co_flags`
 
-- Change all code objects in the `co_consts`{.backtick} recursively
+- Change all code objects in the `co_consts` recursively
 
 Then serialize this reformed code object, obfuscate it to protect constants and literal strings
 
@@ -108,9 +108,9 @@ The obfuscated script is a normal Python script, it looks like this
 
 ### Run Obfuscated Scripts 
 
-What happens to run obfuscated script `dist/foo.py`{.backtick} by Python Interpreter?
+What happens to run obfuscated script `dist/foo.py` by Python Interpreter?
 
-The first 2 lines, which called `Bootstrap Code`{.backtick}
+The first 2 lines, which called `Bootstrap Code`
 
 :::: 
 ::: 
@@ -123,17 +123,17 @@ The first 2 lines, which called `Bootstrap Code`{.backtick}
 
 It will fulfil the following tasks
 
-- Validate `dist/license.lic`{.backtick}, check whether it\'s expired or not etc.
+- Validate `dist/license.lic`, check whether it\'s expired or not etc.
 
-- Add 3 functions to module `builtins`{.backtick}:
+- Add 3 functions to module `builtins`:
 
-  - `__pyarmor__`{.backtick}
+  - `__pyarmor__`
 
-  - `__armor_enter__`{.backtick}
+  - `__armor_enter__`
 
-  - `__armor_exit__`{.backtick}
+  - `__armor_exit__`
 
-The next code line in `dist/foo.py`{.backtick} is
+The next code line in `dist/foo.py` is
 
 :::: 
 ::: 
@@ -145,7 +145,7 @@ The next code line in `dist/foo.py`{.backtick} is
 :::
 ::::
 
-`__pyarmor__`{.backtick} is called, it will import original module from obfuscated code
+`__pyarmor__` is called, it will import original module from obfuscated code
 
         static PyObject *
         __pyarmor__(char *name, char *pathname, unsigned char *obfuscated_code)
@@ -157,7 +157,7 @@ The next code line in `dist/foo.py`{.backtick} is
 
 After that, in the runtime of this python process
 
-- `__armor_enter__`{.backtick} is called as soon as any code object is executed, it will restore byte-code of this code object
+- `__armor_enter__` is called as soon as any code object is executed, it will restore byte-code of this code object
 
           static PyObject *
           __armor_enter__(PyObject *self, PyObject *args)
@@ -181,7 +181,7 @@ After that, in the runtime of this python process
               Py_RETURN_NONE;
           }
 
-- `__armor_exit__`{.backtick} is called so long as code object completed execution, it will obfuscate byte-code again
+- `__armor_exit__` is called so long as code object completed execution, it will obfuscate byte-code again
 
           static PyObject *
           __armor_exit__(PyObject *self, PyObject *args)
@@ -224,7 +224,7 @@ Run Obfuscated Scripts
         cd dist
         python queens.py
 
-Bind obfuscated scripts to fixed machine and expire it on some day. By default the obfuscated scripts can run in any machine and never expired, this behavior can be changed by replacing runtime file `dist/license.lic`{.backtick}
+Bind obfuscated scripts to fixed machine and expire it on some day. By default the obfuscated scripts can run in any machine and never expired, this behavior can be changed by replacing runtime file `dist/license.lic`
 
         cd /path/to/pyarmor
         python pyarmor.py licenses --expired "2018-12-31" --bind-mac "70:f1:a1:23:f0:94" Jondy

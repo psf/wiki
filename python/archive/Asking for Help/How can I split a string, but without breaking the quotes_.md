@@ -25,7 +25,7 @@ Answer: No, it is doing what you told it to do. To realize this you must know th
 
     "\g<1>".replace(",", "|")
 
-It is `"\g<1>"`{.backtick}, of course, as there are no commas to replace in `"\g<1>"`{.backtick}. re.sub therefore receives `'"([^"]*)"'`{.backtick} and `"\g<1>"`{.backtick} as arguments, which is the exact equivalent of the first call.
+It is `"\g<1>"`, of course, as there are no commas to replace in `"\g<1>"`. re.sub therefore receives `'"([^"]*)"'` and `"\g<1>"` as arguments, which is the exact equivalent of the first call.
 
 ------------------------------------------------------------------------
 

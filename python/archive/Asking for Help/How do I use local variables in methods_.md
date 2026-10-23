@@ -17,9 +17,9 @@ Local variables only ever define names within their scope, and these names do no
         print "Done!"
         return a
 
-The names `x`{.backtick}, `y`{.backtick} and `z`{.backtick} come to life as the function `f`{.backtick} is called, pointing to the objects supplied as arguments to `f`{.backtick}. When `f`{.backtick} is finished executing, the names `x`{.backtick}, `y`{.backtick} and `z`{.backtick} are forgotten, but the objects they pointed to might still be around, of course. Here, we use a variable `a`{.backtick} in the function; this also gets forgotten at the end of the function, but the object `a`{.backtick} pointed to is returned to the caller.
+The names `x`, `y` and `z` come to life as the function `f` is called, pointing to the objects supplied as arguments to `f`. When `f` is finished executing, the names `x`, `y` and `z` are forgotten, but the objects they pointed to might still be around, of course. Here, we use a variable `a` in the function; this also gets forgotten at the end of the function, but the object `a` pointed to is returned to the caller.
 
-In short, you always get local variables in Python unless you use the `global`{.backtick} keyword. You can always use `del`{.backtick} to make Python forget names, but this is done automatically at the end of function execution for all names in the local scope of that function.
+In short, you always get local variables in Python unless you use the `global` keyword. You can always use `del` to make Python forget names, but this is done automatically at the end of function execution for all names in the local scope of that function.
 
 ------------------------------------------------------------------------
 

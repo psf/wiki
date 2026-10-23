@@ -31,11 +31,11 @@ To avoid spamming uninterested people, the outgoing email for the demo Launchpad
 
 ## Accounts 
 
-Accounts for each bug reporter, assignee or commenter have been created using the `$USERNAME@users.sourceforge.net`{.backtick} address. People can claim the account using the password recovery page:
+Accounts for each bug reporter, assignee or commenter have been created using the `$USERNAME@users.sourceforge.net` address. People can claim the account using the password recovery page:
 
 - [https://demo.launchpad.net/+forgottenpassword](https://demo.launchpad.net/+forgottenpassword)
 
-For people who already had launchpad accounts, the `$USERNAME@users.sourceforge.net`{.backtick} account can be merged here:
+For people who already had launchpad accounts, the `$USERNAME@users.sourceforge.net` account can be merged here:
 
 - [https://demo.launchpad.net/people/+requestmerge](https://demo.launchpad.net/people/+requestmerge)
 
@@ -49,7 +49,7 @@ The Launchpad email interface is described here:
 
 - [https://help.launchpad.net/UsingMaloneEmail](https://help.launchpad.net/UsingMaloneEmail)
 
-For the demonstration launchpad instance, the bug submission email address is `new@bugs.demo.launchpad.net`{.backtick} and bugs can be updated with `NNNN@bugs.demo.launchpad.net`{.backtick} addresses.
+For the demonstration launchpad instance, the bug submission email address is `new@bugs.demo.launchpad.net` and bugs can be updated with `NNNN@bugs.demo.launchpad.net` addresses.
 
 Submitting new bugs or changing the status of a bug by email requires that the message be PGP signed with a key registered to your Launchpad account.
 
@@ -63,13 +63,13 @@ Note that this URL is for the production Launchpad instance. Bugs filed against 
 
 ## Coming Soon 
 
-- Shorter bug URLs \-- the main python bug listing URL will be shortened to `https://demo.launchpad.net/python/+bugs`{.backtick}
+- Shorter bug URLs \-- the main python bug listing URL will be shortened to `https://demo.launchpad.net/python/+bugs`
 
 ## Status 
 
 - ownership of python product set to python-infrastructure team
 
-- bug contact set to python-dev team, whose email address is set to the existing `python-bugs-list@python.org`{.backtick} (not added to the outgoing email filter though, so won\'t receive email).
+- bug contact set to python-dev team, whose email address is set to the existing `python-bugs-list@python.org` (not added to the outgoing email filter though, so won\'t receive email).
 
 - [SourceForge](SourceForge) bug data imported.
 

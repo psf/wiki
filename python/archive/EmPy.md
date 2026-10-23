@@ -10,19 +10,19 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### Introduction: Welcome to EmPy! 
 
-[EmPy](http://www.alcyone.com/software/empy/) is a powerful, robust and mature [templating](../archive/Templating) system for inserting Python code in template text. EmPy takes a source document, processes it, and produces output. This is accomplished via expansions, which are signals to the EmPy system where to act and are indicated with markup. Markup is set off by a customizable prefix (by default the at sign, `@`{.backtick}). EmPy can expand arbitrary Python expressions, statements and control structures in this way, as well as a variety of additional special forms. The remaining textual data is sent to the output, allowing Python to be used in effect as a markup language.
+[EmPy](http://www.alcyone.com/software/empy/) is a powerful, robust and mature [templating](../archive/Templating) system for inserting Python code in template text. EmPy takes a source document, processes it, and produces output. This is accomplished via expansions, which are signals to the EmPy system where to act and are indicated with markup. Markup is set off by a customizable prefix (by default the at sign, `@`). EmPy can expand arbitrary Python expressions, statements and control structures in this way, as well as a variety of additional special forms. The remaining textual data is sent to the output, allowing Python to be used in effect as a markup language.
 
 EmPy also supports hooks, which can intercept and modify the behavior of a running interpreter; diversions, which allow recording and playback; filters, which can alter output and can be chained together. The system is highly configurable via command line options, configuration files, and environment variables. EmPy documents can also be imported as modules, and an extensive API is also available for embedding EmPy functionality in your own Python programs.
 
-EmPy also has a supplemental library for additional non-essential features (`emlib`{.backtick}), a documentation building library used to create this documentation (`emdoc`{.backtick}), and an extensive help system (`emhelp`{.backtick}) which can be queried from the command line with the main executable `em.py`{.backtick} (`-h/--help`{.backtick}, `-H/--topics=TOPICS`{.backtick}). The base EmPy interpreter can function with only the `em.py`{.backtick}/`em`{.backtick} file/module available.
+EmPy also has a supplemental library for additional non-essential features (`emlib`), a documentation building library used to create this documentation (`emdoc`), and an extensive help system (`emhelp`) which can be queried from the command line with the main executable `em.py` (`-h/--help`, `-H/--topics=TOPICS`). The base EmPy interpreter can function with only the `em.py`/`em` file/module available.
 
 EmPy can be used in a variety of roles, including as a templating system, a text processing system (preprocessing and/or postprocessing), a simple macro processor, a frontend for a content management system, annotating documents, for literate programming, as a souped-up text encoding converter, a text beautifier (with macros and filters), and many other purposes.
 
 ### Markup overview 
 
-Expressions are embedded in text with the `@(...)`{.backtick} notation; variations include conditional expressions with `@(...?...!...)`{.backtick} and the ability to handle thrown exceptions with `@(...$...)`{.backtick}. As a shortcut, simple variables and expressions can be abbreviated as `@variable`{.backtick}, `@object.attribute`{.backtick}, `@sequence[index]`{.backtick}, `@function(arguments...)`{.backtick}, and combinations. Functions can be called with expanded markup as arguments using `@function{markup}`{.backtick}. Full-fledged statements are embedded with `@`{.backtick}. Control flow in terms of conditional or repeated expansion is available with `@[...]`{.backtick}. A `@`{.backtick} followed by any whitespace character (including a newline) expands to nothing, allowing string concatenations and line continuations. Line comments are indicated with `@#...`{.backtick} including the trailing newline. `@*...*`{.backtick} allows inline comments. Output can be disabled and re-enabled with `@-...`{.backtick} and `@+...`{.backtick}, including the trailing newlines. Escapes are indicated with `@\...`{.backtick}; diacritics with `@^...`{.backtick}; icons with `@|...`{.backtick}; and emoji with `@:...:`{.backtick}. `@%...`{.backtick}, `@%!...`{.backtick}, `@%%...%%`{.backtick} and `@%%!...%%`{.backtick} indicate \"significators,\" which are distinctive forms of variable assignment intended to specify document metadata in a format easy to parse externally. In-place expressions are specified with `@$...$...$`{.backtick}. Context name and line number changes can be made with `@?...`{.backtick} and `@!...`{.backtick}, respectively. A set of markups (`@((...))`{.backtick}, `@[[...]]`{.backtick}, `@{}`{.backtick}, `@<...>`{.backtick}) are customizable by the user and can be used for any desired purpose. @`...`{.backtick} allows literal escaping of any EmPy markup. Output can be toggled on and off with `@+`{.backtick} and `@-`{.backtick}, respectively. And finally, a `@@`{.backtick} sequence (the prefix repeated once) expands to a single literal at sign.
+Expressions are embedded in text with the `@(...)` notation; variations include conditional expressions with `@(...?...!...)` and the ability to handle thrown exceptions with `@(...$...)`. As a shortcut, simple variables and expressions can be abbreviated as `@variable`, `@object.attribute`, `@sequence[index]`, `@function(arguments...)`, and combinations. Functions can be called with expanded markup as arguments using `@function{markup}`. Full-fledged statements are embedded with `@`. Control flow in terms of conditional or repeated expansion is available with `@[...]`. A `@` followed by any whitespace character (including a newline) expands to nothing, allowing string concatenations and line continuations. Line comments are indicated with `@#...` including the trailing newline. `@*...*` allows inline comments. Output can be disabled and re-enabled with `@-...` and `@+...`, including the trailing newlines. Escapes are indicated with `@\...`; diacritics with `@^...`; icons with `@|...`; and emoji with `@:...:`. `@%...`, `@%!...`, `@%%...%%` and `@%%!...%%` indicate \"significators,\" which are distinctive forms of variable assignment intended to specify document metadata in a format easy to parse externally. In-place expressions are specified with `@$...$...$`. Context name and line number changes can be made with `@?...` and `@!...`, respectively. A set of markups (`@((...))`, `@[[...]]`, `@{}`, `@<...>`) are customizable by the user and can be used for any desired purpose. @`...` allows literal escaping of any EmPy markup. Output can be toggled on and off with `@+` and `@-`, respectively. And finally, a `@@` sequence (the prefix repeated once) expands to a single literal at sign.
 
-The prefix defaults to `@`{.backtick} but can be changed with the command line option `-p/--prefix=CHAR`{.backtick} (*environment variable:* `EMPY_PREFIX`{.backtick}, *configuration variable:* `prefix`{.backtick}).
+The prefix defaults to `@` but can be changed with the command line option `-p/--prefix=CHAR` (*environment variable:* `EMPY_PREFIX`, *configuration variable:* `prefix`).
 
 ### Getting the software 
 
@@ -32,11 +32,11 @@ The latest version of the software is available in a tarball here: [http://www.a
 
 The software can be installed through PIP via this shell command:
 
-`% python3 -m pip install empy`{.backtick}
+`% python3 -m pip install empy`
 
 For information about upgrading from 3.*x* to 4.*x*, see [http://www.alcyone.com/software/empy/ANNOUNCE.html#changes](http://www.alcyone.com/software/empy/ANNOUNCE.html#changes).
 
-EmPy works with any modern version of Python. Python version 3.*x* is expected to be the default and all source file references to the Python interpreter (*e.g.*, the bangpath of the .py scripts) use `python3`{.backtick}. EmPy also has legacy support for versions of Python going back all the way to 2.4, with special emphasis on 2.7 regardless of its end-of-life status. It has no dependency requirements on any third-party modules and can run directly off of a stock Python interpreter.
+EmPy works with any modern version of Python. Python version 3.*x* is expected to be the default and all source file references to the Python interpreter (*e.g.*, the bangpath of the .py scripts) use `python3`. EmPy also has legacy support for versions of Python going back all the way to 2.4, with special emphasis on 2.7 regardless of its end-of-life status. It has no dependency requirements on any third-party modules and can run directly off of a stock Python interpreter.
 
 EmPy will run on any operating system with a full-featured Python interpreter; this includes, but is probably not limited to, the operating systems Linux, Windows and macOS (Darwin). Using EmPy requires knowledge of the [Python language](https://www.python.org/).
 
@@ -58,23 +58,23 @@ EmPy is compatible with many different Python implementations, interpreter varia
 
 EmPy is also compatible with scaled-down implementations of Python, provided they support the set of standard modules that EmPy requires, namely:
 
-- `codecs`{.backtick}
+- `codecs`
 
-- `copy`{.backtick}
+- `copy`
 
-- `getopt`{.backtick}
+- `getopt`
 
-- `os`{.backtick}
+- `os`
 
-- `platform`{.backtick}
+- `platform`
 
-- `re`{.backtick}
+- `re`
 
-- `sys`{.backtick}
+- `sys`
 
-- `unicodedata`{.backtick}
+- `unicodedata`
 
-Only a few .py module file(s) are needed to use EmPy; they can be installed system-wide through a distribution package, via PIP, or just dropped into any desired directory in the `PYTHONPATH`{.backtick} (as a module) and/or `PATH`{.backtick} (as an executable). A minimal installation need only install the em.py file, either as an importable module or an executable, or both, depending on the user\'s needs.
+Only a few .py module file(s) are needed to use EmPy; they can be installed system-wide through a distribution package, via PIP, or just dropped into any desired directory in the `PYTHONPATH` (as a module) and/or `PATH` (as an executable). A minimal installation need only install the em.py file, either as an importable module or an executable, or both, depending on the user\'s needs.
 
 EmPy also has optional support for several [third-party emoji modules](http://www.alcyone.com/software/empy/README.html#third-party-emoji-modules); see [Emoji markup](http://www.alcyone.com/software/empy/README.html#emoji-markup) for details.
 

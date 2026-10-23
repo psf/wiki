@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Adding tab-completion to a QLineEdit 
 
-On the `#pyqt`{.backtick} IRC channel on [Freenode](http://www.freenode.net), `sonic`{.backtick} asked how to handle key events for a QLineEdit widget to enable tab-completion.
+On the `#pyqt` IRC channel on [Freenode](http://www.freenode.net), `sonic` asked how to handle key events for a QLineEdit widget to enable tab-completion.
 
-The following code shows how to subclass QLineEdit and reimplement the `keyPressEvent()`{.backtick} method. The tab-completion code isn\'t ideal - you should probably consider using a QCompleter object to handle the process of completing an incomplete piece of text.
+The following code shows how to subclass QLineEdit and reimplement the `keyPressEvent()` method. The tab-completion code isn\'t ideal - you should probably consider using a QCompleter object to handle the process of completing an incomplete piece of text.
 
 :::: 
 ::: 

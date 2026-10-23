@@ -19,12 +19,12 @@ Tools that generate documentation from user-provided input typically use plain t
 
 ### Python docstrings 
 
-Python modules are usually documented using docstrings. You can read a module\'s docstrings from the Python interactive prompt with the `help()`{.backtick} function. For example:
+Python modules are usually documented using docstrings. You can read a module\'s docstrings from the Python interactive prompt with the `help()` function. For example:
 
     import distutils
     help(distutils)
 
-The `help()`{.backtick} function uses Python\'s standard pydoc module, as does the `pydoc`{.backtick} command that comes with Python.
+The `help()` function uses Python\'s standard pydoc module, as does the `pydoc` command that comes with Python.
 
 ### Automatic Python API documentation generation tools 
 

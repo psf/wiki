@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Yapps supports attributes in grammar rules. Attributes allow you to pass information from the top level rules down to the lower level rules. For example, you might want to pass a variable lookup table down from a rule for parsing blocks (where variables are declared) down to a rule for evaluating expressions (where variables are looked up).
 
-Something that may also be of interest is that Yapps can use a context-sensitive scanner. For example, if there are tokens `num = '\d+'`{.backtick} and `name = '\w+'`{.backtick}, then there\'s an ambiguity --- `'123'`{.backtick} could match either. In Yapps, the parser drives the scanner, and can tell the scanner what tokens to look for. So if there\'s a context where only names are allowed, then the Yapps scanner would treat `'123'`{.backtick} as a name.
+Something that may also be of interest is that Yapps can use a context-sensitive scanner. For example, if there are tokens `num = '\d+'` and `name = '\w+'`, then there\'s an ambiguity --- `'123'` could match either. In Yapps, the parser drives the scanner, and can tell the scanner what tokens to look for. So if there\'s a context where only names are allowed, then the Yapps scanner would treat `'123'` as a name.
 
 Yapps produces [LL(1)](http://en.wikipedia.org/wiki/LL_parser) analyzers, so it\'s unable to handle left-recursive grammars.
 
@@ -34,6 +34,6 @@ However, in Yapps, you would write typically use loops instead of recursion:
     T -> F ( '*' F )*
     F -> '(' E ')' | digit 
 
-where `*`{.backtick} is used to express repetition of a pattern, just as in regular expressions.
+where `*` is used to express repetition of a pattern, just as in regular expressions.
 
 In some cases, a LL(1) grammar is much less readable than a corresponding LALR or LR one. Furthermore, some languages can be expressed by LALR grammars but not by LL(x) grammars.

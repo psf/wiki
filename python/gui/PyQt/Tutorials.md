@@ -100,6 +100,6 @@ These tutorials and resources are for Qt 3:
 
 - [PyQT-tutorial](http://www.cs.usfca.edu/~afedosov/qttut/) - uses Qt Designer, very good for beginners.
 
-- [Jonathan Gardner\'s PyQt tutorial](http://wiki.python.org/moin/JonathanGardnerPyQtTutorial) - writing a GUI for the `at`{.backtick} utility.
+- [Jonathan Gardner\'s PyQt tutorial](http://wiki.python.org/moin/JonathanGardnerPyQtTutorial) - writing a GUI for the `at` utility.
 
 - [GUI Programming with Python: QT Edition](http://www.commandprompt.com/community/pyqt) - A very complete document about PyQt development (also mentioned in [Books](Books))

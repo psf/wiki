@@ -433,7 +433,7 @@ and use it to conclude that Python must be much slower than Perl. As others have
 
 ## Use xrange instead of range 
 
-This section no longer applies if you\'re using Python 3, where `range`{.backtick} now provides an iterator over ranges of arbitrary size, and where `xrange`{.backtick} no longer exists.
+This section no longer applies if you\'re using Python 3, where `range` now provides an iterator over ranges of arbitrary size, and where `xrange` no longer exists.
 
 Python has two ways to get a range of numbers: `range` and `xrange`. Most people know about `range`, because of its obvious name. `xrange`, being way down near the end of the alphabet, is much less well-known.
 
@@ -514,20 +514,20 @@ The first step to speeding up your program is learning where the bottlenecks lie
 
 ### Profiling 
 
-There are a number of [profiling modules](http://docs.python.org/library/profile.html) included in the Python distribution. Using one of these to profile the execution of a set of functions is quite easy. Suppose your main function is called `main`{.backtick}, takes no arguments and you want to execute it under the control of the `profile`{.backtick} module. In its simplest form you just execute
+There are a number of [profiling modules](http://docs.python.org/library/profile.html) included in the Python distribution. Using one of these to profile the execution of a set of functions is quite easy. Suppose your main function is called `main`, takes no arguments and you want to execute it under the control of the `profile` module. In its simplest form you just execute
 
     import profile
     profile.run('main()')
 
-When `main()`{.backtick} returns, the `profile`{.backtick} module will print a table of function calls and execution times. The output can be tweaked using the `Stats`{.backtick} class included with the module. From Python 2.4, `profile`{.backtick} has permitted the time consumed by Python builtins and functions in extension modules to be profiled as well.
+When `main()` returns, the `profile` module will print a table of function calls and execution times. The output can be tweaked using the `Stats` class included with the module. From Python 2.4, `profile` has permitted the time consumed by Python builtins and functions in extension modules to be profiled as well.
 
-A slightly longer description of profiling using the `profile`{.backtick} and `pstats`{.backtick} modules can be found here (archived version):
+A slightly longer description of profiling using the `profile` and `pstats` modules can be found here (archived version):
 
 [http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code](http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code)
 
 ### The cProfile Module 
 
-The [\`cProfile\` module](https://docs.python.org/3/library/profile.html) is an alternative to `profile`{.backtick} written in C that generally runs *much* faster. It uses the same interface.
+The [\`cProfile\` module](https://docs.python.org/3/library/profile.html) is an alternative to `profile` written in C that generally runs *much* faster. It uses the same interface.
 
 ### Trace Module 
 

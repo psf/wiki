@@ -8,17 +8,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Handling context menus 
 
-On the #pyqt channel on Freenode, `jams`{.backtick} asked about adding a context menu to a table widget.
+On the #pyqt channel on Freenode, `jams` asked about adding a context menu to a table widget.
 
-The context menu policy described by [Qt.ContextMenuPolicy](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/qt.html#ContextMenuPolicy-enum) determines how context menus are handled by each widget. To choose a policy, we call its [setContextMenuPolicy()](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/qwidget.html#setContextMenuPolicy) method with one of the policy values. The useful policies are `DefaultContextMenu`{.backtick}, `ActionsContextMenu`{.backtick} and `CustomContextMenu`{.backtick}.
+The context menu policy described by [Qt.ContextMenuPolicy](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/qt.html#ContextMenuPolicy-enum) determines how context menus are handled by each widget. To choose a policy, we call its [setContextMenuPolicy()](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/qwidget.html#setContextMenuPolicy) method with one of the policy values. The useful policies are `DefaultContextMenu`, `ActionsContextMenu` and `CustomContextMenu`.
 
 This means that there are basically three ways to add a context menu to a widget:
 
 1.  Subclass the widget and reimplement its [contextMenuEvent()](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/qwidget.html#contextMenuEvent) handler method, using the default context menu policy.
 
-2.  Add actions to the widget and set the context menu policy to `ActionsContextMenu`{.backtick}.
+2.  Add actions to the widget and set the context menu policy to `ActionsContextMenu`.
 
-3.  Set the context menu policy to `CustomContextMenu`{.backtick} and connect the widget\'s [customContextMenuRequested()](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/qwidget.html#customContextMenuRequested) signal to a slot or method where a menu can be opened.
+3.  Set the context menu policy to `CustomContextMenu` and connect the widget\'s [customContextMenuRequested()](http://www.riverbankcomputing.com/static/Docs/PyQt4/html/qwidget.html#customContextMenuRequested) signal to a slot or method where a menu can be opened.
 
 The code for the examples shown here can be found as attachments to this page:
 
@@ -34,7 +34,7 @@ The code for the examples shown here can be found as attachments to this page:
 
 If you are writing a custom widget or are subclassing a standard widget, the default subclassing approach is quite convenient.
 
-We reimplement the context menu event and create our own menu, making sure that we convert the position passed in the `event`{.backtick} object from local widget coordinates to global screen coordinates.
+We reimplement the context menu event and create our own menu, making sure that we convert the position passed in the `event` object from local widget coordinates to global screen coordinates.
 
 :::: 
 ::: 
@@ -67,7 +67,7 @@ We reimplement the context menu event and create our own menu, making sure that 
 
 ### Actions 
 
-For widgets with built-in actions, we can change the policy to `ActionsContextMenu`{.backtick} and the widget will automatically obtain its own context menu. For widgets without built-in actions, we can add new ones.
+For widgets with built-in actions, we can change the policy to `ActionsContextMenu` and the widget will automatically obtain its own context menu. For widgets without built-in actions, we can add new ones.
 
 :::: 
 ::: 
@@ -120,7 +120,7 @@ We can even add actions to standard widgets without having to subclass them:
 
 ### Signal and Slot 
 
-Sometimes, when we do not want to subclass a standard widget or use actions, it is easier to handle the context menu in a separate component, so we need a way for the widget to notify us when a context menu has been requested. We can do this by changing the policy to `CustomContextMenu`{.backtick} and connecting the widget\'s `customContextMenuRequested()`{.backtick} signal to a slot, method or function.
+Sometimes, when we do not want to subclass a standard widget or use actions, it is easier to handle the context menu in a separate component, so we need a way for the widget to notify us when a context menu has been requested. We can do this by changing the policy to `CustomContextMenu` and connecting the widget\'s `customContextMenuRequested()` signal to a slot, method or function.
 
 :::: 
 ::: 

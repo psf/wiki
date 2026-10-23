@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-**Routing** (also known as `request routing`{.backtick} or `URL dispatching`{.backtick}) is mapping URLs to code that handles them.
+**Routing** (also known as `request routing` or `URL dispatching`) is mapping URLs to code that handles them.
 
 Why routing is important? By directly connecting the content that you see on a web page (especially if it is an error), good routing drastically reduces time (and money) that required to improve this content (or fix the error). That\'s why Django has [this link](https://docs.djangoproject.com/en/1.6/topics/http/urls/) on its front page.
 
@@ -60,7 +60,7 @@ Get overview of URLs handled: search for \".route(\"
         url(r'^articles/(\d{4})/(\d{2})/(\d+)/$', 'news.views.article_detail'),
     )
 
-Get overview of URLs handled: find settings.py, look for ROOT_URLCONF for name of Python modules with the location of URL map (usually named \'urls\'), find referenced module (\'urls.py\'), read urls.py to understand how `urlpatterns`{.backtick} is constructed (it may contain [included apps](https://docs.djangoproject.com/en/dev/intro/reusable-apps/)).
+Get overview of URLs handled: find settings.py, look for ROOT_URLCONF for name of Python modules with the location of URL map (usually named \'urls\'), find referenced module (\'urls.py\'), read urls.py to understand how `urlpatterns` is constructed (it may contain [included apps](https://docs.djangoproject.com/en/dev/intro/reusable-apps/)).
 
 [https://docs.djangoproject.com/en/1.6/topics/http/urls/](https://docs.djangoproject.com/en/1.6/topics/http/urls/)
 

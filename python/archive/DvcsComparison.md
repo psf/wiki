@@ -135,7 +135,7 @@ Some VCSs support end-of-line (EOL) conversions on checkout/checkin.
 
 #### svn
 
-None required, but it is recommended you follow the `guidelines <http://www.python.org/dev/faq/#what-configuration-settings-should-i-use>`{.backtick}\_ in the dev FAQ.
+None required, but it is recommended you follow the `guidelines <http://www.python.org/dev/faq/#what-configuration-settings-should-i-use>`\_ in the dev FAQ.
 
 #### bzr
 
@@ -246,7 +246,7 @@ As a non-core developer, I want to create and publish a one-off patch that fixes
       bzr send -o bundle
       # Upload updated bundle to bugs.python.org
 
-The bundle file is like a super-patch. It can be read by patch(1) but it contains additional metadata so that it can be fed to bzr merge to produce a fully usable branch completely with history. See `Patch Review`{.backtick}\_ section below.
+The bundle file is like a super-patch. It can be read by patch(1) but it contains additional metadata so that it can be fed to bzr merge to produce a fully usable branch completely with history. See `Patch Review`\_ section below.
 
 #### hg
 

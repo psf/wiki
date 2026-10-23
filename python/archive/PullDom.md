@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## The pulldom Module 
 
-The `xml.dom.pulldom`{.backtick} module [(API)](http://docs.python.org/lib/module-xml.dom.pulldom.html) provides a \"pull parser\" which can also be asked to produce DOM-accessible fragments of the document where necessary. The basic concept involves pulling \"events\" from a stream of incoming XML and processing them, although in contrast to [SAX](./self(3a)Sax.html) which also employs an event-driven processing model together with callbacks, the user of a pull parser is responsible for explicitly pulling events from the stream, looping over those events until either processing is finished or an error condition occurs.
+The `xml.dom.pulldom` module [(API)](http://docs.python.org/lib/module-xml.dom.pulldom.html) provides a \"pull parser\" which can also be asked to produce DOM-accessible fragments of the document where necessary. The basic concept involves pulling \"events\" from a stream of incoming XML and processing them, although in contrast to [SAX](./self(3a)Sax.html) which also employs an event-driven processing model together with callbacks, the user of a pull parser is responsible for explicitly pulling events from the stream, looping over those events until either processing is finished or an error condition occurs.
 
 The example below corresponds to the \"Find Elements\" example in the [MiniDom](MiniDom) introduction.
 
@@ -26,7 +26,7 @@ The example below corresponds to the \"Find Elements\" example in the [MiniDom](
 :::
 ::::
 
-Since the document is treated as a \"flat\" stream of events, the document \"tree\" is implicitly traversed and the desired elements are found regardless of their depth in the tree. In other words, one need not consider hierarchical issues such as recursive searching of the document nodes, although if the context of elements were important, one would either need to maintain some context-related state (ie. remembering where one is in the document at any given point) or to make use of the `expandNode`{.backtick} method and switch to DOM-related processing.
+Since the document is treated as a \"flat\" stream of events, the document \"tree\" is implicitly traversed and the desired elements are found regardless of their depth in the tree. In other words, one need not consider hierarchical issues such as recursive searching of the document nodes, although if the context of elements were important, one would either need to maintain some context-related state (ie. remembering where one is in the document at any given point) or to make use of the `expandNode` method and switch to DOM-related processing.
 
 ### Resources 
 

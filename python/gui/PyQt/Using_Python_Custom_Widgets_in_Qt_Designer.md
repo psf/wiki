@@ -26,7 +26,7 @@ In Python, an additional plugin class is also needed, but developers only need t
 
 ## An Example Custom Widget 
 
-The `PyAnalogClock`{.backtick} widget is a version of the [Analog Clock example](http://doc.trolltech.com/4.3/widgets-analogclock.html) supplied with Qt 4 and [PyQt4](../PyQt4) which provides a property to allow the clock to show the time in different time zones, a slot to enable the time zone to be changed in response to signals from other components, and two signals of its own to report changes to the time and time zone.
+The `PyAnalogClock` widget is a version of the [Analog Clock example](http://doc.trolltech.com/4.3/widgets-analogclock.html) supplied with Qt 4 and [PyQt4](../PyQt4) which provides a property to allow the clock to show the time in different time zones, a slot to enable the time zone to be changed in response to signals from other components, and two signals of its own to report changes to the time and time zone.
 
 ![designer-analog-clock-shadow.png](attachments/PyQt(2f)Using_Python_Custom_Widgets_in_Qt_Designer/designer-analog-clock-shadow.png "designer-analog-clock-shadow.png")
 
@@ -40,9 +40,9 @@ The first change we make to the original widget is to declare the signals the wi
 
         __pyqtSignals__ = ("timeChanged(QTime)", "timeZoneChanged(int)")
 
-We use the `__pyqtSignals__`{.backtick} class variable to define two signals that are used to inform other components of changes to the clock\'s time and time zone. The variable must refer to a sequence of strings - we could have used a list instead of a tuple, for example. Signals that are declared in this way are emitted in the same way as any other signal.
+We use the `__pyqtSignals__` class variable to define two signals that are used to inform other components of changes to the clock\'s time and time zone. The variable must refer to a sequence of strings - we could have used a list instead of a tuple, for example. Signals that are declared in this way are emitted in the same way as any other signal.
 
-We change the class\'s `__init__()`{.backtick} method to define an attribute to hold the time zone and, as well as connecting the timer to the widget\'s `update()`{.backtick} slot, we also connect it to the newly added `updateTime()`{.backtick} method.
+We change the class\'s `__init__()` method to define an attribute to hold the time zone and, as well as connecting the timer to the widget\'s `update()` slot, we also connect it to the newly added `updateTime()` method.
 
         def __init__(self, parent = None):
 
@@ -60,13 +60,13 @@ We change the class\'s `__init__()`{.backtick} method to define an attribute to 
 
             self.emit(QtCore.SIGNAL("timeChanged(QTime)"), QtCore.QTime.currentTime())
 
-The `updateTime()`{.backtick} method simply emits the current time every second when a time out occurs.
+The `updateTime()` method simply emits the current time every second when a time out occurs.
 
-The `timeZoneChanged()`{.backtick} signal is emitted whenever the user, or another component, changes the time zone property. This is shown in the following section.
+The `timeZoneChanged()` signal is emitted whenever the user, or another component, changes the time zone property. This is shown in the following section.
 
 ### Adding a Property 
 
-The `timeZone`{.backtick} property is implemented using the `getTimeZone()`{.backtick} getter method, the `setTimeZone()`{.backtick} setter method, and the `resetTimeZone()`{.backtick} method.
+The `timeZone` property is implemented using the `getTimeZone()` getter method, the `setTimeZone()` setter method, and the `resetTimeZone()` method.
 
         def getTimeZone(self):
 
@@ -74,7 +74,7 @@ The `timeZone`{.backtick} property is implemented using the `getTimeZone()`{.bac
 
 The getter just returns the internal time zone value.
 
-The `setTimeZone()`{.backtick} method is also defined to be a slot \-- we show this in the next section.
+The `setTimeZone()` method is also defined to be a slot \-- we show this in the next section.
 
         def setTimeZone(self, value):
 
@@ -83,9 +83,9 @@ The `setTimeZone()`{.backtick} method is also defined to be a slot \-- we show t
                 self.emit(QtCore.SIGNAL("timeZoneChanged(int)"), value)
                 self.update()
 
-Note that we only change the internal `timeZoneOffset`{.backtick} attribute, emit the `timeZoneChanged()`{.backtick} signal and update the widget if the new value is different to the old one. It is especially important to avoid infinite loops with signal emissions --- for example, if we connected two clocks together to keep them in sync.
+Note that we only change the internal `timeZoneOffset` attribute, emit the `timeZoneChanged()` signal and update the widget if the new value is different to the old one. It is especially important to avoid infinite loops with signal emissions --- for example, if we connected two clocks together to keep them in sync.
 
-Qt\'s property system supports properties that can be reset to their original values. This method enables the `timeZone`{.backtick} property to be reset.
+Qt\'s property system supports properties that can be reset to their original values. This method enables the `timeZone` property to be reset.
 
         def resetTimeZone(self):
 
@@ -94,17 +94,17 @@ Qt\'s property system supports properties that can be reset to their original va
                 self.emit(QtCore.SIGNAL("timeZoneChanged(int)"), 0)
                 self.update()
 
-Again, we guard against unnecessary signal emission by ensuring that the time zone is not already zero before emitting the `timeZoneChanged()`{.backtick} signal and updating the widget.
+Again, we guard against unnecessary signal emission by ensuring that the time zone is not already zero before emitting the `timeZoneChanged()` signal and updating the widget.
 
-Qt-style properties are defined differently to Python\'s properties. To declare a property, we call `pyqtProperty()`{.backtick} to specify the type and, in this case, getter, setter and resetter methods.
+Qt-style properties are defined differently to Python\'s properties. To declare a property, we call `pyqtProperty()` to specify the type and, in this case, getter, setter and resetter methods.
 
         timeZone = QtCore.pyqtProperty("int", getTimeZone, setTimeZone, resetTimeZone)
 
 ### Adding a Slot 
 
-Since it may be useful to be able to update the clock\'s time zone from other input widgets, we want to make the `setTimeZone()`{.backtick} method a slot. Normally, we don\'t have to do anything special to use methods as slots with [PyQt](), but Qt Designer needs this information to allow users to select suitable slots when connecting components together.
+Since it may be useful to be able to update the clock\'s time zone from other input widgets, we want to make the `setTimeZone()` method a slot. Normally, we don\'t have to do anything special to use methods as slots with [PyQt](), but Qt Designer needs this information to allow users to select suitable slots when connecting components together.
 
-We use the [standard decorator syntax](http://www.riverbankcomputing.com/Docs/PyQt4/pyqt4ref.html#the-qtcore-pyqtsignature-decorator) that is used to annotate methods for use with `pyuic4`{.backtick} and [PyQt4](../PyQt4)\'s `uic`{.backtick} module. Here\'s the annotated `setTimeZone()`{.backtick} method:
+We use the [standard decorator syntax](http://www.riverbankcomputing.com/Docs/PyQt4/pyqt4ref.html#the-qtcore-pyqtsignature-decorator) that is used to annotate methods for use with `pyuic4` and [PyQt4](../PyQt4)\'s `uic` module. Here\'s the annotated `setTimeZone()` method:
 
         @QtCore.pyqtSignature("setTimeZone(int)")
         def setTimeZone(self, value):
@@ -114,13 +114,13 @@ We use the [standard decorator syntax](http://www.riverbankcomputing.com/Docs/Py
                 self.emit(QtCore.SIGNAL("timeZoneChanged(int)"), value)
                 self.update()
 
-The `@pyqtSignature`{.backtick} decorator is used to tell [PyQt]() which argument type the method expects, and is especially useful when you want to define slots with the same name that accept different argument types. This allows the method to be a Qt slot, which means that it can be found by Qt Designer (and other C++ components) via Qt\'s meta-object system.
+The `@pyqtSignature` decorator is used to tell [PyQt]() which argument type the method expects, and is especially useful when you want to define slots with the same name that accept different argument types. This allows the method to be a Qt slot, which means that it can be found by Qt Designer (and other C++ components) via Qt\'s meta-object system.
 
 ## Defining the Widget\'s Plugin Interface 
 
 Before the widget can be used in Qt Designer, we need to prepare another class that describes our custom widget and tells Qt Designer how to instantiate it. The approach used is the same as that used for C++ plugins; the only difference being that we derive our plugin class from a [PyQt]()-specific base class. Nonetheless, we must still implement the interface required of custom widget plugins, even if we use Python instead of C++ to do so.
 
-The `__init__()`{.backtick} method is only used to set up the plugin and define its `initialized`{.backtick} attribute.
+The `__init__()` method is only used to set up the plugin and define its `initialized` attribute.
 
     from PyQt4 import QtGui, QtDesigner
     from analogclock import PyAnalogClock
@@ -133,7 +133,7 @@ The `__init__()`{.backtick} method is only used to set up the plugin and define 
 
             self.initialized = False
 
-The `initialize()`{.backtick} and `isInitialized()`{.backtick} methods allow the plugin to set up any required resources, ensuring that this can only happen once for each plugin.
+The `initialize()` and `isInitialized()` methods allow the plugin to set up any required resources, ensuring that this can only happen once for each plugin.
 
         def initialize(self, core):
 
@@ -146,17 +146,17 @@ The `initialize()`{.backtick} and `isInitialized()`{.backtick} methods allow the
 
             return self.initialized
 
-The `createWidget()`{.backtick} factory method creates new instances of our custom widget with the appropriate parent.
+The `createWidget()` factory method creates new instances of our custom widget with the appropriate parent.
 
         def createWidget(self, parent):
             return PyAnalogClock(parent)
 
-The `name()`{.backtick} method returns the name of the custom widget class that is provided by the plugin.
+The `name()` method returns the name of the custom widget class that is provided by the plugin.
 
         def name(self):
             return "PyAnalogClock"
 
-The `group()`{.backtick} method returns the name of the group in Qt Designer\'s widget box that the custom widget belongs to, and the `icon()`{.backtick} method returns the icon used to represent the custom widget in Qt Designer\'s widget box.
+The `group()` method returns the name of the group in Qt Designer\'s widget box that the custom widget belongs to, and the `icon()` method returns the icon used to represent the custom widget in Qt Designer\'s widget box.
 
         def group(self):
             return "PyQt Examples"
@@ -164,11 +164,11 @@ The `group()`{.backtick} method returns the name of the group in Qt Designer\'s 
         def icon(self):
             return QtGui.QIcon(_logo_pixmap)
 
-The `_logo_pixmap`{.backtick} variable refers to a QPixmap object. This is created by including an ASCII XPM image in the source code as the `_logo_16x16_xpm`{.backtick} variable, and instantiating the QPixmap in the following way:
+The `_logo_pixmap` variable refers to a QPixmap object. This is created by including an ASCII XPM image in the source code as the `_logo_16x16_xpm` variable, and instantiating the QPixmap in the following way:
 
     _logo_pixmap = QtGui.QPixmap(_logo_16x16_xpm)
 
-The `toolTip()`{.backtick} method returns a short description of the custom widget for use in a tool tip. The `whatsThis()`{.backtick} method returns a longer description of the custom widget for use in a \"What\'s This?\" help message.
+The `toolTip()` method returns a short description of the custom widget for use in a tool tip. The `whatsThis()` method returns a longer description of the custom widget for use in a \"What\'s This?\" help message.
 
         def toolTip(self):
             return ""
@@ -176,14 +176,14 @@ The `toolTip()`{.backtick} method returns a short description of the custom widg
         def whatsThis(self):
             return ""
 
-Qt Designer treats container widgets differently to other types of widget. If the custom widget is intended to be used as a container for other widgets, the `isContainer()`{.backtick} method should return `True`{.backtick}, and we would need to provide another plugin class in addition to this one if we wanted to add custom editing support for this widget.
+Qt Designer treats container widgets differently to other types of widget. If the custom widget is intended to be used as a container for other widgets, the `isContainer()` method should return `True`, and we would need to provide another plugin class in addition to this one if we wanted to add custom editing support for this widget.
 
         def isContainer(self):
             return False
 
-Since our custom widget is not a specialized container widget, this method returns `False`{.backtick} instead.
+Since our custom widget is not a specialized container widget, this method returns `False` instead.
 
-The `domXml()`{.backtick} method returns an XML description of a custom widget instance that describes default values for its properties. Each custom widget created by this plugin will be configured using this description. The XML schema can be found at [http://doc.trolltech.com/designer-ui-file-format.html](http://doc.trolltech.com/designer-ui-file-format.html).
+The `domXml()` method returns an XML description of a custom widget instance that describes default values for its properties. Each custom widget created by this plugin will be configured using this description. The XML schema can be found at [http://doc.trolltech.com/designer-ui-file-format.html](http://doc.trolltech.com/designer-ui-file-format.html).
 
         def domXml(self):
             return (
@@ -200,18 +200,18 @@ The `domXml()`{.backtick} method returns an XML description of a custom widget i
 
 Here, we provide tool tip and \"What\'s This?\" property values. These will be used for widgets placed on forms in Qt Designer.
 
-The `includeFile()`{.backtick} method returns the module containing the custom widget class. It may include a module path in cases where the module is part of a Python package.
+The `includeFile()` method returns the module containing the custom widget class. It may include a module path in cases where the module is part of a Python package.
 
         def includeFile(self):
             return "analogclock"
 
 ## Extending a Qt widget while maintaining Designer features 
 
-For example suppose you want to extend a `QStackedWidget`{.backtick} while maintaining useful designer features like the *Insert new page* menu. This is easily achieved by supplying a special XML structure (described [in the schema](http://doc.trolltech.com/designer-ui-file-format.html)) with the `domXML`{.backtick} method.
+For example suppose you want to extend a `QStackedWidget` while maintaining useful designer features like the *Insert new page* menu. This is easily achieved by supplying a special XML structure (described [in the schema](http://doc.trolltech.com/designer-ui-file-format.html)) with the `domXML` method.
 
-Key concept is the usage of `customWidgets`{.backtick} and `customWidget`{.backtick} elements and `extends`{.backtick} attribute of `customWidget`{.backtick}.
+Key concept is the usage of `customWidgets` and `customWidget` elements and `extends` attribute of `customWidget`.
 
-Here comes a full example: we are defining a new `CSlidingPanel`{.backtick} class which inherits `QStackedWidget`{.backtick}
+Here comes a full example: we are defining a new `CSlidingPanel` class which inherits `QStackedWidget`
 
         def domXml(self):
             return ("""
@@ -240,6 +240,6 @@ Here comes a full example: we are defining a new `CSlidingPanel`{.backtick} clas
 
 [PyQt4](../PyQt4) includes a common plugin loader for Qt Designer that enables widgets written in Python, with corresponding plugin interfaces defined in the way shown above, to be automatically loaded by Qt Designer when it is run. However, in order for this to work, we need to place the modules containing the custom widget and its plugin class in the appropriate locations in the file system.
 
-By default, modules containing plugin classes should be located in the `python`{.backtick} directory inside the directory containing the other Qt plugins for Qt Designer. For testing purposes, the `PYQTDESIGNERPATH`{.backtick} environment variable can be used to refer to the location of the modules containing the plugin classes.
+By default, modules containing plugin classes should be located in the `python` directory inside the directory containing the other Qt plugins for Qt Designer. For testing purposes, the `PYQTDESIGNERPATH` environment variable can be used to refer to the location of the modules containing the plugin classes.
 
-The modules containing the custom widgets themselves only need to be located on one of the standard paths recognized by Python, and can therefore be installed in the user\'s `site-packages`{.backtick} directory, or the `PYTHONPATH`{.backtick} environment variable can be set to refer to their location.
+The modules containing the custom widgets themselves only need to be located on one of the standard paths recognized by Python, and can therefore be installed in the user\'s `site-packages` directory, or the `PYTHONPATH` environment variable can be set to refer to their location.

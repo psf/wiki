@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-\* You can no longer do `PyFile`{.backtick}(inputStream) directly from Jython code. This is because a `PyFile`{.backtick} that gets an `InputStream`{.backtick} \[INSERT REAL REASON\], so that the recommended approach is to replace code like:
+\* You can no longer do `PyFile`(inputStream) directly from Jython code. This is because a `PyFile` that gets an `InputStream` \[INSERT REAL REASON\], so that the recommended approach is to replace code like:
 
     from java.io import FileInputStream
     from org.python.core import PyFile

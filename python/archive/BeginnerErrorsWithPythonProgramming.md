@@ -14,13 +14,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - Forgetting to add a colon (:) at the end of if statements, class declarations, etc.
 
-- Changing lists during iteration. A common example is to loop over a list to check an entry for some condition, which, if met, leads to deleting the entry. This will mess up the iteration. To do this safely, iterate over a copy. With Python 3, this can also happen with dicts, since the `keys`{.backtick}, `values`{.backtick} and `items`{.backtick} method of a dict, often used to generate something to iterate over, actually produce views into the dict, and thus are subject to change if the dict changes.
+- Changing lists during iteration. A common example is to loop over a list to check an entry for some condition, which, if met, leads to deleting the entry. This will mess up the iteration. To do this safely, iterate over a copy. With Python 3, this can also happen with dicts, since the `keys`, `values` and `items` method of a dict, often used to generate something to iterate over, actually produce views into the dict, and thus are subject to change if the dict changes.
 
 - Not understanding scoping rules, such as \"is this global or not?\". The classic instance of this is that assigning a value to a name in a function-local scope that is also defined in the global scope will create a new name in the local scope and not change the global name unless the function has explicitly declared that the reference is to be to the global one. Meanwhile only reading from it will access the global one if there was nothing to cause a local version to be created.
 
 - Widely known as the \"No Module named\...\" error, this is an issue all programmers face at some point (sometimes multiple times). This article([The \"No Module Named\" Error](https://coderslegacy.com/python-no-module-named-import-error/)) addresses this issue, going through every possible scenario in which this error occurs and how to avoid running into it again.
 
-- Subtle errors\--which may cause some fairly difficult to follow messages\--happen when built-in type and function names are \"shadowed\" (i.e., redefined). For example, using `str`{.backtick} as a variable name in a scope (i.e., a function or class) will prevent the built-in function of the same name from being usable, producing an error like this: `TypeError: 'str' object is not callable`{.backtick}
+- Subtle errors\--which may cause some fairly difficult to follow messages\--happen when built-in type and function names are \"shadowed\" (i.e., redefined). For example, using `str` as a variable name in a scope (i.e., a function or class) will prevent the built-in function of the same name from being usable, producing an error like this: `TypeError: 'str' object is not callable`
 
 - Even for advanced users there are features of the Python language that can cause difficulties. See [PythonWarts](PythonWarts) for resources and observations on such matters. These observations have in part been used to suggest refinements in future Python versions.
 

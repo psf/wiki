@@ -48,7 +48,7 @@ This survey will be put online in a [SurveyMonkey](./SurveyMonkey.html)-like sys
 
   2.  I use pip
 
-  3.  I download it and manually run the `python setup.py install`{.backtick} command
+  3.  I download it and manually run the `python setup.py install` command
 
   4.  I use the packaging tool provided in my system (apt, yum, etc)
 

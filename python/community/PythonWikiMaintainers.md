@@ -18,13 +18,13 @@ Of course, you don\'t have to be an \"administrator\" to leave a comment here, b
 
 Related info:
 
-- [SiteImprovements](../infrastructure/SiteImprovements) - general `python.org`{.backtick} improvements, including Wiki improvements
+- [SiteImprovements](../infrastructure/SiteImprovements) - general `python.org` improvements, including Wiki improvements
 
 - [PythonWikiTasks](../archive/PythonWikiTasks) - specific work done on the Wiki
 
 ## Discussion 
 
-BTW, the [InterWiki](InterWiki) name of this Wiki is `PythonInfo`{.backtick}.
+BTW, the [InterWiki](InterWiki) name of this Wiki is `PythonInfo`.
 
 \-- [JürgenHermann](../archive/JürgenHermann) 2002-07-13 01:15:19
 

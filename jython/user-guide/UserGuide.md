@@ -619,7 +619,7 @@ As of Jython 2.5.1 an implementation of JSR 223 is bundled in jython.jar. Simply
 To customize the path and other variables in sys for a ScriptEngine instance, you need to create a PySystemState and make it active before creating the engine:
 
 ::: system-message
-System Message: ERROR/3 (`<string>`{.docutils}, line 702)
+System Message: ERROR/3 (`<string>`, line 702)
 
 Unexpected indentation.
 :::
@@ -1048,7 +1048,7 @@ display(self)
     >>>
 
 ::: system-message
-System Message: WARNING/2 (`<string>`{.docutils}, line 1184); *[backlink](#id2)*
+System Message: WARNING/2 (`<string>`, line 1184); *[backlink](#id2)*
 
 Duplicate explicit target name: \"javadoc documentation\".
 :::

@@ -37,7 +37,7 @@ The trailing \".dev123\" is for pre-releases. The \".post123\" is for post-relea
 
 The attached verlib.py has the parsing and comparison (using [lt], [eq], et al on the RationalVersion class). There are a lot of doctests in the main docstring with examples.
 
-There is also a `suggest_rational_version(s)`{.backtick} method that can be used to suggest a rational version string for a lot of version strings that are close. Using this suggest method I managed to get 81% of the versions currently on PyPI (from Martin\'s list) to match the RationalVersion scheme \-- which I think is pretty good.
+There is also a `suggest_rational_version(s)` method that can be used to suggest a rational version string for a lot of version strings that are close. Using this suggest method I managed to get 81% of the versions currently on PyPI (from Martin\'s list) to match the RationalVersion scheme \-- which I think is pretty good.
 
 Implementation : [verlib.py](attachments/Distutils(2f)VersionComparison/verlib.py)
 
@@ -154,7 +154,7 @@ This obviously trades away the flexibility of roll-your-own naming entirely, but
 
 Run the script to run all its doctests.
 
-Some stats against the list of current `PyPI`{.backtick} versions that MvL provided:
+Some stats against the list of current `PyPI` versions that MvL provided:
 
     -- matches againsts current PyPI versions
     count: 4975
@@ -267,9 +267,9 @@ Something that could be important is specifying a meaning for the version number
 
 <!-- -->
 
-- Version numbers then provide a clue to consumers (users, app developers, packagers) whether the new version is compatible with the former version. \[Could easily add `major`{.backtick}, `minor`{.backtick}, `patch`{.backtick} attributes to the `RationalVersion`{.backtick} class in my `verlib.py`{.backtick} above. \--[TrentMick](./TrentMick.html)\]
+- Version numbers then provide a clue to consumers (users, app developers, packagers) whether the new version is compatible with the former version. \[Could easily add `major`, `minor`, `patch` attributes to the `RationalVersion` class in my `verlib.py` above. \--[TrentMick](./TrentMick.html)\]
 
-- Using this scheme will let people specify version dependencies in the metadata better by reliably being able to say you\'re dependent on `foo >= X.Y foor < (X+1).0`{.backtick}.
+- Using this scheme will let people specify version dependencies in the metadata better by reliably being able to say you\'re dependent on `foo >= X.Y foor < (X+1).0`.
 
 - If we ever get to the point where we use this consistently, we can write more intelligent import loaders that can use the MAJOR/MINOR version to load different versions automatically.
 

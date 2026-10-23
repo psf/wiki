@@ -78,7 +78,7 @@ The legacy version of PyPI is the code that was running on [http://pypi.python.o
 
 ### Legacy PyPI architecture and endpoints 
 
-PyPI is a WSGI application that can be executed standalone using `python pypi.wsgi`{.backtick} command if all requirements are met. `pypi.wsgi`{.backtick} contains usual WSGI wrapper code and delegates request processing to `WebUI.run()`{.backtick} method from `webui.py`{.backtick}. This method just opens DB and handles exceptions, actual request processing is done in `WebUI.inner_run()`{.backtick}. This method analyzes URL endpoint and executes appropriate handler. As of 2011-04, the rules to match endpoints to handlers are the following:
+PyPI is a WSGI application that can be executed standalone using `python pypi.wsgi` command if all requirements are met. `pypi.wsgi` contains usual WSGI wrapper code and delegates request processing to `WebUI.run()` method from `webui.py`. This method just opens DB and handles exceptions, actual request processing is done in `WebUI.inner_run()`. This method analyzes URL endpoint and executes appropriate handler. As of 2011-04, the rules to match endpoints to handlers are the following:
 
 ```{list-table}
 
@@ -101,7 +101,7 @@ PyPI is a WSGI application that can be executed standalone using `python pypi.w
 
 \...
 
-XML-RPC requests are detected by CONTENT_TYPE=`text/xml`{.backtick} variable in CGI environment and processed by `rpc.RequestHandler().__call__()`{.backtick}. List of XML-RPC \"endpoints\" is available on [PyPIXmlRpc](PyPIXmlRpc) page.
+XML-RPC requests are detected by CONTENT_TYPE=`text/xml` variable in CGI environment and processed by `rpc.RequestHandler().__call__()`. List of XML-RPC \"endpoints\" is available on [PyPIXmlRpc](PyPIXmlRpc) page.
 
 ### Legacy PyPI Development Environment Hints 
 

@@ -10,11 +10,11 @@ These are straightforward, finite-effort coding or writing projects.
 
 ### Use Py_VISIT 
 
-The `Py_VISIT()`{.backtick} macro in `objimpl.h`{.backtick} was introduced to make coding of most `tp_traverse`{.backtick} slots straightforward, uniform, and obviously correct. For example, see `cycle_traverse()`{.backtick} in `itertoolsmodule.c`{.backtick}. Most older modules that define `tp_traverse`{.backtick} copy/paste/edit the tedious callback dance by hand, and several even define their own work-alike macros. These should be rewritten to use the standard `Py_VISIT`{.backtick} macro.
+The `Py_VISIT()` macro in `objimpl.h` was introduced to make coding of most `tp_traverse` slots straightforward, uniform, and obviously correct. For example, see `cycle_traverse()` in `itertoolsmodule.c`. Most older modules that define `tp_traverse` copy/paste/edit the tedious callback dance by hand, and several even define their own work-alike macros. These should be rewritten to use the standard `Py_VISIT` macro.
 
 ### Use Py_CLEAR 
 
-The `Py_CLEAR`{.backtick} macro in `object.h`{.backtick} was introduced to make coding of \"decref and NULL out a containee pointer\" operations safe. The reasons for why this is important but tricky to achieve are explained in a comment block before that macro in current trunk source. `tp_clear`{.backtick} and even `tp_dealloc`{.backtick} slot implementations should generally use `Py_CLEAR`{.backtick} now.
+The `Py_CLEAR` macro in `object.h` was introduced to make coding of \"decref and NULL out a containee pointer\" operations safe. The reasons for why this is important but tricky to achieve are explained in a comment block before that macro in current trunk source. `tp_clear` and even `tp_dealloc` slot implementations should generally use `Py_CLEAR` now.
 
 ### Clean up 64-bit compiler warnings 
 
@@ -22,17 +22,17 @@ There are many 64-bit warnings produced by icc when using the -Wp64 flag. icc is
 
 ### Make modules Py_ssize_t clean 
 
-Some modules don\'t use `Py_ssize_t`{.backtick}. They need a code review. Any module which declares an int (rather than a `Py_ssize_t`{.backtick}) for size and passes its address to `PyArgs_ParseTuple(args, "s#", &str, &size)`{.backtick} needs to be updated. An example of a module that has already been updated is `Modules/_codecsmodule.c`{.backtick}
+Some modules don\'t use `Py_ssize_t`. They need a code review. Any module which declares an int (rather than a `Py_ssize_t`) for size and passes its address to `PyArgs_ParseTuple(args, "s#", &str, &size)` needs to be updated. An example of a module that has already been updated is `Modules/_codecsmodule.c`
 
 ### Check for consistent memory API usage 
 
 [http://mail.python.org/pipermail/python-dev/2006-March/062848.html](http://mail.python.org/pipermail/python-dev/2006-March/062848.html)
 
-Verify that if `PyMem_*`{.backtick} APIs are used to (re)allocate memory, that `PyMem_*`{.backtick} APIs are used to free memory. Same deal with `PyObject_*`{.backtick} APIs. (ie, ensure that `PyMem_*`{.backtick} and `PyObject_*`{.backtick} memory APIs aren\'t mixed.)
+Verify that if `PyMem_*` APIs are used to (re)allocate memory, that `PyMem_*` APIs are used to free memory. Same deal with `PyObject_*` APIs. (ie, ensure that `PyMem_*` and `PyObject_*` memory APIs aren\'t mixed.)
 
 ### Verify all int/long C APIs are correct 
 
-With the conversion to use `Py_ssize_t`{.backtick}, it\'s important that we didn\'t miss any APIs. There are very few APIs which take (or return) a long. But there are still quite a few that take/return an int. All of these are believed to be correct, but more reviewers could help. Any API which returns an int is fine if the value is known to fit in 32 bits (like APIs that return a value between -2 and 2).
+With the conversion to use `Py_ssize_t`, it\'s important that we didn\'t miss any APIs. There are very few APIs which take (or return) a long. But there are still quite a few that take/return an int. All of these are believed to be correct, but more reviewers could help. Any API which returns an int is fine if the value is known to fit in 32 bits (like APIs that return a value between -2 and 2).
 
 ### Add Py_LOCAL, Py_LOCAL_INLINE declarations 
 

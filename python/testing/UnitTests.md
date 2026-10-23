@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [PyTest](https://docs.pytest.org) \-- alternative to [PyUnit](../people/PyUnit) and with a simpler syntax.
 
-- [nose2](https://docs.nose2.io/en/latest/) \-- a discovery-based framwork that extends unittest (successor to `nose`{.backtick}).
+- [nose2](https://docs.nose2.io/en/latest/) \-- a discovery-based framwork that extends unittest (successor to `nose`).
 
 - [Testify](https://github.com/Yelp/Testify/wiki) \-- Pythonic testing framework compatible with unittest tests.
 

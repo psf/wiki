@@ -12,7 +12,7 @@ I want to use [ElementTree](../../people/ElementTree) to parse a text object, bu
 
 ### Answer 
 
-The `StringIO`{.backtick} module provides support for treating strings like file objects. Since there\'s a faster version of the module, the idiom to use to access the all-important `StringIO`{.backtick} class (yes, it has the same name) is as follows:
+The `StringIO` module provides support for treating strings like file objects. Since there\'s a faster version of the module, the idiom to use to access the all-important `StringIO` class (yes, it has the same name) is as follows:
 
 :::: 
 ::: 
@@ -25,7 +25,7 @@ The `StringIO`{.backtick} module provides support for treating strings like file
 :::
 ::::
 
-In fact, for the exact problem you\'re having, the example \"21 lines: XML/HTML parsing (using Python 2.5 or third-party library)\" from the [SimplePrograms](../../getting-started/SimplePrograms) page should at least help you with the parsing problem. For serialising (\"going the other way\"), you probably want to create a `StringIO`{.backtick} object and then pass it to the appropriate [ElementTree](../../people/ElementTree) node method.
+In fact, for the exact problem you\'re having, the example \"21 lines: XML/HTML parsing (using Python 2.5 or third-party library)\" from the [SimplePrograms](../../getting-started/SimplePrograms) page should at least help you with the parsing problem. For serialising (\"going the other way\"), you probably want to create a `StringIO` object and then pass it to the appropriate [ElementTree](../../people/ElementTree) node method.
 
 ------------------------------------------------------------------------
 

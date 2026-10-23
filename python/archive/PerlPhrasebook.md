@@ -59,7 +59,7 @@ There are many Integrated Development Environments, (IDEs), for Python that are 
 
     s = 'a string'
 
-The `$`{.backtick} in Perl indicates a scalar variable, which may hold a string, a number, or a reference. There\'s no such thing as a string variable in Python, where variables may *only* hold references.
+The `$` in Perl indicates a scalar variable, which may hold a string, a number, or a reference. There\'s no such thing as a string variable in Python, where variables may *only* hold references.
 
 - You can program in a Pythonesque subset of Perl by restricting yourself to scalar variables and references. The main difference is that Perl doesn\'t do implicit dereferencing like Python does.
 
@@ -95,7 +95,7 @@ Both languages provide other quoting mechanisms; Python uses triple quotes (sing
 
 Quoting is definitely one of the areas where Perl excels.
 
-Note that in Perl you can always replace `foreach`{.backtick} with `for`{.backtick}, which is shorter; but explicitly writing `foreach`{.backtick} is clearer, so you don\'t confuse it with the other kind of `for`{.backtick}.
+Note that in Perl you can always replace `foreach` with `for`, which is shorter; but explicitly writing `foreach` is clearer, so you don\'t confuse it with the other kind of `for`.
 
 ##### Interpolation 
 
@@ -113,16 +113,16 @@ Note that in Perl you can always replace `foreach`{.backtick} with `for`{.backti
 
     print(f"{header1}\n{header2}")  # Don't need final \n.
 
-Perl\'s interpolation is slightly more convenient (don\'t need a special string modifier), though slightly less powerful than Python\'s `%`{.backtick} operator. Remember that in Perl variables are interpolated within double-quoted strings, but not single-quoted strings.
+Perl\'s interpolation is slightly more convenient (don\'t need a special string modifier), though slightly less powerful than Python\'s `%` operator. Remember that in Perl variables are interpolated within double-quoted strings, but not single-quoted strings.
 
-Perl has a function `sprintf`{.backtick} that uses the % conversion á la C; so the above lines could have been written:
+Perl has a function `sprintf` that uses the % conversion á la C; so the above lines could have been written:
 
     $name    = "Fred";
     $header1 = sprintf "Dear %s,", $name;
     $title   = "Dr.";
     $header2 = sprintf "Dear %s %s,", $name, $title;
 
-Python\'s `%`{.backtick} (format) operator is generally the way to go when you have more than minimal string formatting to do (you can use `+`{.backtick} for concatenation, and `[:]`{.backtick} for slicing). It has three forms. In the first, there is a single `%`{.backtick} specifier in the string; the specifiers are roughly those of C\'s sprintf. The right-hand side of the format operator specifies the value to be used at that point:
+Python\'s `%` (format) operator is generally the way to go when you have more than minimal string formatting to do (you can use `+` for concatenation, and `[:]` for slicing). It has three forms. In the first, there is a single `%` specifier in the string; the specifiers are roughly those of C\'s sprintf. The right-hand side of the format operator specifies the value to be used at that point:
 
     x = 1.0/3.0
     s = 'the value of x is roughly %.4f' % x
@@ -139,7 +139,7 @@ Finally, you can give a name and a format specifier:
     y = 1.0/4.0
     s = 'the value of x,y is roughly %(x).4f,%(y).4f' % vars()
 
-The name in parentheses is used as a key into the dictionary you provide on the right-hand side; its value is formatted according to the specifier following the parentheses. Some useful dictionaries are `locals()`{.backtick} (the local symbol table), `globals()`{.backtick} (the global symbol table), and `vars()`{.backtick} (equivalent to `locals()`{.backtick} except when an argument is given, in which case it returns `arg.__dict__`).
+The name in parentheses is used as a key into the dictionary you provide on the right-hand side; its value is formatted according to the specifier following the parentheses. Some useful dictionaries are `locals()` (the local symbol table), `globals()` (the global symbol table), and `vars()` (equivalent to `locals()` except when an argument is given, in which case it returns `arg.__dict__`).
 
 [PEP215](http://www.python.org/peps/pep-0215.html) proposed a `$"$var"` substitution mode as an alternative to `"%(var)s" % locals()`, but was rejected in favour of the explicit Template class proposed in [PEP292](http://www.python.org/peps/pep-0292.html), which required no syntax changes.
 
@@ -159,11 +159,11 @@ The name in parentheses is used as a key into the dictionary you provide on the 
 
     print(f"{s1}\n{s2}")
 
-In Perl, strings are mutable; the third assignment modifies `s2`{.backtick}. In Python, strings are immutable, so you have to do this operation a little differently, by slicing the string into the appropriate pieces.
+In Perl, strings are mutable; the third assignment modifies `s2`. In Python, strings are immutable, so you have to do this operation a little differently, by slicing the string into the appropriate pieces.
 
-A Python string is just an array of characters, so all of the array operations are applicable to strings. In particular, if `a`{.backtick} is an array, `a[x:y]`{.backtick} is the slice of `a`{.backtick} from index `x`{.backtick} up to, but not including, index `y`{.backtick}. If `x`{.backtick} is omitted, the slice starts at the beginning of the array; if `y`{.backtick} is omitted, the slice ends at the last element. If either index is negative, the length of the array is added to it. So a\[-4:\] is the last four characters of a.
+A Python string is just an array of characters, so all of the array operations are applicable to strings. In particular, if `a` is an array, `a[x:y]` is the slice of `a` from index `x` up to, but not including, index `y`. If `x` is omitted, the slice starts at the beginning of the array; if `y` is omitted, the slice ends at the last element. If either index is negative, the length of the array is added to it. So a\[-4:\] is the last four characters of a.
 
-In Perl, slicing is performed by giving the array a list of indices to be included in the slice. This list can be any arbitrary list and by using the range operator `...`{.backtick}, you can get Python like slicing. If any of the indices in the list is out of bounds an `undef`{.backtick} is inserted there.
+In Perl, slicing is performed by giving the array a list of indices to be included in the slice. This list can be any arbitrary list and by using the range operator `...`, you can get Python like slicing. If any of the indices in the list is out of bounds an `undef` is inserted there.
 
     @array = ('zero', 'one', 'two', 'three', 'four')
 
@@ -216,9 +216,9 @@ In Perl a module is simply a package with a package name. ( see: perldoc -f pack
                        # understandable as "can't open $filename:"
     lines = f.readlines()
 
-In Perl, variables are always preceded by a symbol that indicates their type. A `$`{.backtick} indicates a simple type (number, string or reference), an `@`{.backtick} indicates an array, a `%`{.backtick} indicates a hash (dictionary).
+In Perl, variables are always preceded by a symbol that indicates their type. A `$` indicates a simple type (number, string or reference), an `@` indicates an array, a `%` indicates a hash (dictionary).
 
-In Python, objects must be initialized before they are used, and the initialization determines the type. For example, `a = []`{.backtick} creates an empty array `a`{.backtick}, `d = {}`{.backtick} creates an empty dictionary.
+In Python, objects must be initialized before they are used, and the initialization determines the type. For example, `a = []` creates an empty array `a`, `d = {}` creates an empty dictionary.
 
 #### looping over files given on the command line or stdin 
 
@@ -266,7 +266,7 @@ This section is under construction; for the moment I am just putting random note
 
 - I find Python\'s syntax much cleaner than Perl\'s
 
-- I find Perl\'s syntax too flexible, leading to silent errors. The -w flag and `use strict`{.backtick} helps quite a bit, but still not as much as Python.
+- I find Perl\'s syntax too flexible, leading to silent errors. The -w flag and `use strict` helps quite a bit, but still not as much as Python.
 
 - I like Python\'s small core with a large number of standard libraries. Perl has a much larger core, and though many libraries are available, since they are not standard, it is often best to avoid them for portability.
 
@@ -274,7 +274,7 @@ While most of the concerns are subjective here this one is obviously wrong. Perl
 
 - Python\'s object model is very uniform, allowing you, for example, to define types that can be used wherever a standard file object can be used.
 
-- Python allows you to define operators for user-defined types. The operator overloading facility in Perl is provided as an add-on\-\--the `overload`{.backtick} module.
+- Python allows you to define operators for user-defined types. The operator overloading facility in Perl is provided as an add-on\-\--the `overload` module.
 
 ### Lists of lists 
 
@@ -320,11 +320,11 @@ The Perl code in this section is taken, with permission, almost directly from To
     def somefunc(i):
         return str(i)  # string representation of i
 
-`printLoL`{.backtick} pretty-prints a list of lists.
+`printLoL` pretty-prints a list of lists.
 
-`printSep`{.backtick} prints a line of equal signs as a separator.
+`printSep` prints a line of equal signs as a separator.
 
-`somefunc`{.backtick} is a function that is used in various places below.
+`somefunc` is a function that is used in various places below.
 
 ##### Lost in the translation 
 
@@ -344,13 +344,13 @@ to substitute for all cases of printLol in a more \'pythonic\' way. (`pprint` gi
 
     import sys
 
-Perl\'s `use`{.backtick} is roughly equivalent to Python\'s `import`{.backtick}.
+Perl\'s `use` is roughly equivalent to Python\'s `import`.
 
 Perl has much more built in, so nothing here requires importing.
 
 - \"Some people, when confronted with a problem, think \'I know, I\'ll use regular expressions.\' Now they have two problems.\" - Jamie Zawinski
 
-For many simple operations, Perl will use a regular expression where Pythonic code won\'t. Should you really need to use regular expressions, import the `re`{.backtick} module.
+For many simple operations, Perl will use a regular expression where Pythonic code won\'t. Should you really need to use regular expressions, import the `re` module.
 
 #### Declaration of a list of lists 
 
@@ -375,7 +375,7 @@ In Python, you are always dealing with references to objects. If you just assign
     a = [1, 2, 3]
     b = a
 
-you have just made `b`{.backtick} refer to the same array as `a`{.backtick}. Changing the values in `b`{.backtick} will affect `a`{.backtick}.
+you have just made `b` refer to the same array as `a`. Changing the values in `b` will affect `a`.
 
 Sometimes what you want is to make a copy of a list, so you can manipulate it without changing the original. In this case, you want to make a new list whose elements are copies of the elements of the original list. This is done with a full array slice \-\-- the start of the range defaults to the beginning of the list and the end defaults to the end of the list, so
 
@@ -418,7 +418,7 @@ You can make a deep copy using the copy module:
 
 Unless you expect to be reading huge files, or want feedback as you read the file, it is easier to slurp the file in in one go.
 
-In Perl, reading from a file-handle, e.g., `<STDIN>`{.backtick}, has a context-dependent effect. If the handle is read from in a scalar context, like `$a = <STDIN>;`{.backtick}, one line is read. If it is read in a list context, like `@a = <STDIN>;`{.backtick}the whole file is read, and the call evaluates to a list of the lines in the file.
+In Perl, reading from a file-handle, e.g., `<STDIN>`, has a context-dependent effect. If the handle is read from in a scalar context, like `$a = <STDIN>;`, one line is read. If it is read in a list context, like `@a = <STDIN>;`the whole file is read, and the call evaluates to a list of the lines in the file.
 
 ##### Reading from a file in one go 
 
@@ -511,7 +511,7 @@ or
     LoL[0] += ["wilma", "betty"]
     printLoL('after appending to first element:', LoL)
 
-In python, the `+`{.backtick} operator is defined to mean concatenation for sequences. The `+`{.backtick} operator returns a new list object. Alternative to the above code that modify the original list object is to append each element of the list to `LoL[0]`{.backtick}:
+In python, the `+` operator is defined to mean concatenation for sequences. The `+` operator returns a new list object. Alternative to the above code that modify the original list object is to append each element of the list to `LoL[0]`:
 
     LoL[0].append("wilma")
     LoL[0].append("betty")
@@ -547,13 +547,13 @@ Or to extend:
 
 Perl\'s regexp matching and substitution is enormously powerful; see especially the new syntax for comments and whitespace inside regular expressions. Python replaced its original regular expression module some years ago with one that closely matches the capabilities of Perls, including being able to do advanced RE tasks such as calling a function to provide the data for an RE substitution, and the optional inclusion of whitespace and comments in REs.
 
-In Python, string methods are often used where Perl would use a regex. Among these string methods are `title()`{.backtick} and `capitalize()`{.backtick}.
+In Python, string methods are often used where Perl would use a regex. Among these string methods are `title()` and `capitalize()`.
 
-In the context of names, `title()`{.backtick} will be used as it correctly changes \"smith-jones\" to \"Smith-Jones\" whereas `capitalize()`{.backtick} would produce \"Smith-jones\".
+In the context of names, `title()` will be used as it correctly changes \"smith-jones\" to \"Smith-Jones\" whereas `capitalize()` would produce \"Smith-jones\".
 
-`str2 = str1.capitalize()`{.backtick} in Python is equivalent to `$str2 = ucfirst(lc($str1))`{.backtick} in Perl.
+`str2 = str1.capitalize()` in Python is equivalent to `$str2 = ucfirst(lc($str1))` in Perl.
 
-Python\'s `str2 = str1.title()`{.backtick} is equivalent to Perl\'s:
+Python\'s `str2 = str1.title()` is equivalent to Perl\'s:
 
     $str2 = $str1;
     $str2 =~ s{\b(\w)(\w*)\b}{\u$1\L$2\E}g;
@@ -584,29 +584,29 @@ This is because regular expression search and replace operations modify the stri
       print("\t [ {Lol[i]} ],"
     printSep()
 
-The highest valid index of an array `A`{.backtick}:
+The highest valid index of an array `A`:
 
-- Perl: `$#A`{.backtick}.
+- Perl: `$#A`.
 
-- Python: `len(A) - 1`{.backtick}.
+- Python: `len(A) - 1`.
 
 But note: The highest valid upper bound to a python range is len(A) as in
 
     A[0:len(A)]
 
-Size of an array `A`{.backtick}:
+Size of an array `A`:
 
-- Perl: `scalar(@A)`{.backtick}
+- Perl: `scalar(@A)`
 
-- Python: `len(A)`{.backtick}
+- Python: `len(A)`
 
-Note: Perl does not really have a length operator like Python. `scalar()`{.backtick} simply provides a scalar context, and in a scalar context an array returns its size. (Perl is context-sensitive and things behave differently based on their context.)
+Note: Perl does not really have a length operator like Python. `scalar()` simply provides a scalar context, and in a scalar context an array returns its size. (Perl is context-sensitive and things behave differently based on their context.)
 
 Generate range of numbers:
 
-- Perl: `(0..9)`{.backtick}
+- Perl: `(0..9)`
 
-- Python: `range(0, 10)`{.backtick} or simply `range(10)`{.backtick} (assumes 0 as initial)
+- Python: `range(0, 10)` or simply `range(10)` (assumes 0 as initial)
 
 Note: Perl uses a closed interval, while Python uses a closed-open interval. You will notice that this pattern is quite consistently applied in both languages.
 
@@ -723,13 +723,13 @@ Associative arrays are sometimes called maps, dictionaries (Python, Smalltalk), 
       group = group.title()
       return ["Mr-" + group, "Mrs-" + group, group + "-Jr"]
 
-`printHoL`{.backtick} pretty-prints a hash/dictionary of lists.
+`printHoL` pretty-prints a hash/dictionary of lists.
 
-`printSep`{.backtick} prints a line of equal signs as a separator.
+`printSep` prints a line of equal signs as a separator.
 
-`get_family`{.backtick} makes a list of names from a \"group name\", e.g., `flintstones`{.backtick} becomes `[ "Mr-Flintstone", "Mrs-Flintstone", "Flintstone-Jr" ]`{.backtick} This is for generating lists to fill a hash/dictionary.
+`get_family` makes a list of names from a \"group name\", e.g., `flintstones` becomes `[ "Mr-Flintstone", "Mrs-Flintstone", "Flintstone-Jr" ]` This is for generating lists to fill a hash/dictionary.
 
-hol.items()\` converts a dictionary to a list of (key, value) pairs, eg: `[('flintstones', ['fred', 'barney']), ('jetsons', ['george', 'jane', 'elroy']), ('simpsons', ['homer', 'marge', 'bart'])]`{.backtick} This list is then sorted (sorting is in-place in python) and then the pairs in the list are unpacked and used.
+hol.items()\` converts a dictionary to a list of (key, value) pairs, eg: `[('flintstones', ['fred', 'barney']), ('jetsons', ['george', 'jane', 'elroy']), ('simpsons', ['homer', 'marge', 'bart'])]` This list is then sorted (sorting is in-place in python) and then the pairs in the list are unpacked and used.
 
 If you didn\'t care for the results to be sorted (which is often true), you would simply do this:
 
@@ -765,7 +765,7 @@ If you didn\'t care for the results to be sorted (which is often true), you woul
 
     printHoL('names', HoL)
 
-In python, the print statement has very good default semantics \-\-- most of the time, it does exactly what you want, putting a space between the arguments, and a newline at the end. If you want more control over the formatting, use the `%`{.backtick} operator \[link to % operator\]: rather than
+In python, the print statement has very good default semantics \-\-- most of the time, it does exactly what you want, putting a space between the arguments, and a newline at the end. If you want more control over the formatting, use the `%` operator \[link to % operator\]: rather than
 
     print(k, ':', " ".join(v))
 
@@ -791,7 +791,7 @@ Larry Wall says:
     };
     printHoL (\'names\', $HoL);
 
-Note that since `$HoL`{.backtick} is already a ref, the `\\`{.backtick} is no longer necessary.
+Note that since `$HoL` is already a ref, the `\\` is no longer necessary.
 
 #### Initializing hashes of lists 
 
@@ -878,7 +878,7 @@ The Perl section could have been written:
     my %Hol;
     map {$HoL{$_} = [ get_family $_ ]} qw/simpsons jetsons flintstones/;
 
-The Perl section could also have been written like this (each of the control statements, `if`{.backtick}, `unless`{.backtick}, `while`{.backtick}, `until`{.backtick}, `foreach`{.backtick}, etc., can be written as a \"modifier\" at the end of a statement):
+The Perl section could also have been written like this (each of the control statements, `if`, `unless`, `while`, `until`, `foreach`, etc., can be written as a \"modifier\" at the end of a statement):
 
     my %HoL;
     $HoL{$_} = [get_family $_] foreach (qw/simpsons jetsons flintstones/);
@@ -904,7 +904,7 @@ For each key of the hash, we call a function that creates a list, and associate 
 
 #### Append to a list in a hash of lists 
 
-We want to add two strings to the list of strings indexed by the name `flintstones`{.backtick}.
+We want to add two strings to the list of strings indexed by the name `flintstones`.
 
     push @{ $HoL{flintstones} }, "wilma", "betty";
     print "@{$HoL{flintstones}}\n");
@@ -928,7 +928,7 @@ Note: There is a big difference between the above two examples, which create a n
 
 ##### Access a single element 
 
-Assign to the first element of the list indexed by `flintstones`{.backtick}.
+Assign to the first element of the list indexed by `flintstones`.
 
     $HoL{flintstones}[0] = "Fred";
     print $HoL{flintstones}[0], "\n";
@@ -942,13 +942,13 @@ Tom Christiansen explains when you don\'t need quotes around strings in Perl:
 
 - It\'s whenever you have a bareword (identifier token) in braces. Thus
 
-  `${blah} and $something{blah}`{.backtick} don\'t need quotes.
+  `${blah} and $something{blah}` don\'t need quotes.
 
-If blah were a function then you would have to use `$something{blah()}`{.backtick} to overwrite the stringificiation. Barewords are autoquoted in braces and as the LHS operand of `=&rt;`{.backtick} as well.
+If blah were a function then you would have to use `$something{blah()}` to overwrite the stringificiation. Barewords are autoquoted in braces and as the LHS operand of `=&rt;` as well.
 
 ##### Change a single element 
 
-This upcases the first letter in the second element of the array indexed by `simpsons`{.backtick}.
+This upcases the first letter in the second element of the array indexed by `simpsons`.
 
 \# another element
 
@@ -1247,7 +1247,7 @@ This would be much more elegant as a class, both in python and Perl. \[add a poi
 
 ###### Generation 
 
-Call a function returning a list (in Perl) or a dictionary (in python). In Perl, the list is of the form `("lead","fred","daughter","pebbles")`{.backtick}; in python, the dictionary is of the form `{"lead" : "fred", "daughter" : "pebbles"}`{.backtick}.
+Call a function returning a list (in Perl) or a dictionary (in python). In Perl, the list is of the form `("lead","fred","daughter","pebbles")`; in python, the dictionary is of the form `{"lead" : "fred", "daughter" : "pebbles"}`.
 
     # calling a function  that returns a key,value list, like
 

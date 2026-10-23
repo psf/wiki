@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Of course not.
 
-- It is insecure. Untrusted pickles can do arbitrary things. For example, this pickle executes arbitrary Python expressions: `pickle.loads("c__builtin__\neval\n(c__builtin__\nraw_input\n(S'py> '\ntRtR.")`{.backtick}
+- It is insecure. Untrusted pickles can do arbitrary things. For example, this pickle executes arbitrary Python expressions: `pickle.loads("c__builtin__\neval\n(c__builtin__\nraw_input\n(S'py> '\ntRtR.")`
 
 - It is Python-only: pickles cannot be loaded in any other programming language / environment.
 

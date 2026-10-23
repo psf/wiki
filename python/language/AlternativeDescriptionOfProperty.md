@@ -14,11 +14,11 @@ Following is a revision of the official documentation for **property**, which ca
 
 ### property(\[getfn\[, setfn\[, delfn\[, docstr\]\]\]\]) 
 
-**property** is a built-in data type, used to implement managed (computed) attributes. You assign the property object created by the call `property(optional-args)`{.backtick} to a class attribute of a new-style class (a class that inherits from **object**). When the attribute is accessed through an instance of the class, it dispatches functions that implement the managed-attribute operations.
+**property** is a built-in data type, used to implement managed (computed) attributes. You assign the property object created by the call `property(optional-args)` to a class attribute of a new-style class (a class that inherits from **object**). When the attribute is accessed through an instance of the class, it dispatches functions that implement the managed-attribute operations.
 
 The *getfn* argument is a function or method that will be dispatched to get the attribute value; likewise, *setfn* is a function for setting the value, and *delfn* is a function for deleting the attribute. *docstr* is a string that becomes the managed attribute\'s doc string; if you omit this argument, *getfn* \'s doc string, if any, is used instead.
 
-This example creates a managed attribute named `x`{.backtick} in class `Cls`{.backtick}:
+This example creates a managed attribute named `x` in class `Cls`:
 
     class Cls(object):
         def __init__(self):
@@ -38,7 +38,7 @@ This example creates a managed attribute named `x`{.backtick} in class `Cls`{.ba
     print obj.x + 5   # executes get_val(obj)
     obj.x = 55        # executes set_val(obj, 55)
 
-A minimal usable property has a \"get the value\" function only, specified as the sole argument to `property()`{.backtick}. This makes it easy to create a read-only property using the decorator `@property`{.backtick}:
+A minimal usable property has a \"get the value\" function only, specified as the sole argument to `property()`. This makes it easy to create a read-only property using the decorator `@property`:
 
     class Cls(object):
         def __init__(self):
@@ -51,9 +51,9 @@ A minimal usable property has a \"get the value\" function only, specified as th
         # decorator invocation above is equivalent to placing
         # the statement "x = property(x)" here
 
-The decorator effectively converts the \"get the value\" method `x`{.backtick} into a read-only managed attribute with the same name.
+The decorator effectively converts the \"get the value\" method `x` into a read-only managed attribute with the same name.
 
-Although you typically don\'t need to use them, a property object has its own attributes, `fget`{.backtick}, `fset`{.backtick}, and `fdel`{.backtick}, which provide direct access to the functions that it dispatches. You can use these attributes only if you access the property object through the class itself (not through an instance):
+Although you typically don\'t need to use them, a property object has its own attributes, `fget`, `fset`, and `fdel`, which provide direct access to the functions that it dispatches. You can use these attributes only if you access the property object through the class itself (not through an instance):
 
     >>> Cls().x
     100
@@ -62,7 +62,7 @@ Although you typically don\'t need to use them, a property object has its own at
     >>> Cls.x.fget
     <function get_val at 0x00E6F7F0>
 
-These attributes are read-only, but a property object also has `getter`{.backtick}, `setter`{.backtick}, and `deleter`{.backtick} methods, designed to be used as decorators, that populate or modify its `fget`{.backtick}, `fset`{.backtick}, and `fdel`{.backtick} attributes. For example, an existing property object\'s `setter`{.backtick} method accepts a single function/method argument and returns a *new* property object that is a copy of the existing one, but with its `fset`{.backtick} attribute set to the specified function/method. Thus, class `Cls`{.backtick} in the example above could be reimplemented like this::
+These attributes are read-only, but a property object also has `getter`, `setter`, and `deleter` methods, designed to be used as decorators, that populate or modify its `fget`, `fset`, and `fdel` attributes. For example, an existing property object\'s `setter` method accepts a single function/method argument and returns a *new* property object that is a copy of the existing one, but with its `fset` attribute set to the specified function/method. Thus, class `Cls` in the example above could be reimplemented like this::
 
     class Cls(object):
         def __init__(self):
@@ -83,4 +83,4 @@ These attributes are read-only, but a property object also has `getter`{.backtic
         def x(self):
             del self._x
 
-Using the same name `x`{.backtick} for all the methods causes this name to be repeatedly rebound, to a series of property objects created by the decorators. The process starts with an \"empty\" property, and gradually builds up to a property that is \"full\" of dispatch functions.
+Using the same name `x` for all the methods causes this name to be repeatedly rebound, to a series of property objects created by the decorators. The process starts with an \"empty\" property, and gradually builds up to a property that is \"full\" of dispatch functions.

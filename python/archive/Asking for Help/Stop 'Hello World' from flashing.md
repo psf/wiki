@@ -12,7 +12,7 @@ Ok so, Let\'s say I want to run a program with a simple Print(\"hello world\"). 
 
 ------------------------------------------------------------------------
 
-Are you running the program from the file manager or do you already have the console open when running the program (by typing `python hello.py`{.backtick}, for example)? If the former is involved, which I suspect is the case, you could prevent the program from finishing by inserting something like the following at the end:
+Are you running the program from the file manager or do you already have the console open when running the program (by typing `python hello.py`, for example)? If the former is involved, which I suspect is the case, you could prevent the program from finishing by inserting something like the following at the end:
 
 :::: 
 ::: 

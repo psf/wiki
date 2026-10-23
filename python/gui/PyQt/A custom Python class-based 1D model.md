@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## A custom Python class-based 1D model 
 
-On 2010-04-12, on the `#pyqt`{.backtick} channel on Freenode, `rowinggolfer`{.backtick} [pasted](http://paste.debian.net/68590/) the following model with these remarks:
+On 2010-04-12, on the `#pyqt` channel on Freenode, `rowinggolfer` [pasted](http://paste.debian.net/68590/) the following model with these remarks:
 
     [18:20] <rowinggolfer> I played with a custom python class based 1d model, attached to a listview, and accessed via drag/drop.
     [18:20] <rowinggolfer> I put the code up here for anyone to play with / fine tune.

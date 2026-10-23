@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Python raises a **KeyError** whenever a dict() object is requested (using the format `a = adict[key]`) and the key is not in the dictionary.
 
-If you don\'t want to have an exception but would rather a default value used instead, you can use the `get()`{.backtick} method:
+If you don\'t want to have an exception but would rather a default value used instead, you can use the `get()` method:
 
 :::: 
 ::: 
@@ -19,7 +19,7 @@ If you don\'t want to have an exception but would rather a default value used in
 :::
 ::::
 
-Even more handy is somewhat controversially-named `setdefault(key, val)`{.backtick} which sets the value of the key only if it is not already in the dict, and returns that value in any case:
+Even more handy is somewhat controversially-named `setdefault(key, val)` which sets the value of the key only if it is not already in the dict, and returns that value in any case:
 
 :::: 
 ::: 

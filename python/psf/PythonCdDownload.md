@@ -20,20 +20,20 @@ If anybody downloads and tests the [PythonCd](PythonCd), please give some feedba
 
 - (please make some additional mirrors in other parts of the world)
 
-You will find a README there with some words about what you will get by downloading the `*.iso`{.backtick} file and a `*.iso.md5`{.backtick} file which is used for checking if your download was successful. If there are multiple `*.iso`{.backtick} files, you only need to get the latest release, there is a `yyyy-mm-dd`{.backtick} timestamp in the file name.
+You will find a README there with some words about what you will get by downloading the `*.iso` file and a `*.iso.md5` file which is used for checking if your download was successful. If there are multiple `*.iso` files, you only need to get the latest release, there is a `yyyy-mm-dd` timestamp in the file name.
 
 ## Checking integrity of the ISO image 
 
-After downloading `pythoncd-xxxx-xx-xx.iso`{.backtick} and `pythoncd-xxxx-xx-xx.iso.md5`{.backtick} use this Linux command to check if the download is OK:
+After downloading `pythoncd-xxxx-xx-xx.iso` and `pythoncd-xxxx-xx-xx.iso.md5` use this Linux command to check if the download is OK:
 
     md5sum -c pythoncd-xxxx-xx-xx.iso.md5
     # if it doesn't complain, everything is ok
 
-`xxxx-xx-xx`{.backtick} has to be replaced by the real date in the file name, e.g. `2004-07-02`{.backtick}, of course.
+`xxxx-xx-xx` has to be replaced by the real date in the file name, e.g. `2004-07-02`, of course.
 
 ## Burning the CD 
 
-The `*.iso`{.backtick} ISO-image file must be burned on a CDR/CDRW media of appropriate size (currently 700MB). Better use CDRW media to be able to overwrite them again when a new version is released.
+The `*.iso` ISO-image file must be burned on a CDR/CDRW media of appropriate size (currently 700MB). Better use CDRW media to be able to overwrite them again when a new version is released.
 
 Make sure you choose the right option of your CD burning software which makes a CD from an ISO image.
 
@@ -59,6 +59,6 @@ Just enter one of these boot options and hit \<ENTER\>:
   - german and kernel 2.6
 ```
 
-The function keys F2 and F3 also show some other options. Use `desktop=fluxbox`{.backtick} in any case (there is no KDE).
+The function keys F2 and F3 also show some other options. Use `desktop=fluxbox` in any case (there is no KDE).
 
 The [PythonCd](PythonCd) then should boot and show a fluxbox windowmanager (try right mouse button!) and a mozilla browser to you. Have fun!

@@ -38,17 +38,17 @@ Agenda:
       - Upon re-look: hairy problem. Bunch of edge case. Surfacing more often than we had expected. Needs to be fixed before 20.3.
       - TODO: Will need 3-4 hrs of Pradyun diving into it, connecting in currently unresolved issues.
 
-  - [https://github.com/pypa/pip/issues/8380](https://github.com/pypa/pip/issues/8380) `ResolutionTooDeep`{.backtick} error message
+  - [https://github.com/pypa/pip/issues/8380](https://github.com/pypa/pip/issues/8380) `ResolutionTooDeep` error message
 
     - Have we resolved this with some other PR that maybe didn\'t get attached?
 
-    - We basically removed the `ResolutionTooDeep`{.backtick} error in [https://github.com/pypa/pip/pull/8275](https://github.com/pypa/pip/pull/8275), because we figured \"how many package names have we looked at\" is a bad metric. ![:)](/wiki/europython/img/smile.png%20":)")
+    - We basically removed the `ResolutionTooDeep` error in [https://github.com/pypa/pip/pull/8275](https://github.com/pypa/pip/pull/8275), because we figured \"how many package names have we looked at\" is a bad metric. ![:)](/wiki/europython/img/smile.png%20":)")
 
       - We should probably to reintroduce this, as a hard-stop error at 1000 backtracks on the same package name.
 
       - should this block the 20.3 release? It\'s nice-to-have for when resolver behaves badly, as in #9011\.... current threshold of 2 million is A LOT.
 
-      - `ResolutionTooDeep`{.backtick} \-- we changed it to 2 million package names, so no one ever sees it
+      - `ResolutionTooDeep` \-- we changed it to 2 million package names, so no one ever sees it
 
         - but users will get backtracking error message
 

@@ -8,9 +8,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Sending Python values with signals and slots 
 
-On the `#pyqt`{.backtick} channel on Freenode, `Khertan`{.backtick} asked about sending Python values via Qt\'s signals and slots mechanism.
+On the `#pyqt` channel on Freenode, `Khertan` asked about sending Python values via Qt\'s signals and slots mechanism.
 
-The following example uses the `PyQt_PyObject`{.backtick} value declaration with an old-style signal-slot connection, and again when the signal is emitted, to communicate a Python dictionary.
+The following example uses the `PyQt_PyObject` value declaration with an old-style signal-slot connection, and again when the signal is emitted, to communicate a Python dictionary.
 
 **Note:** The comments about new style connections in the code are incorrect.
 

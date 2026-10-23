@@ -27,27 +27,27 @@ Unfortunately there does not appear to be a well-maintained single point of entr
 
 ## Core Language Changes 
 
-- Remove distinction between `int`{.backtick} and `long`{.backtick} types. [\[4](./Python3(2e)0.html#d)\]
+- Remove distinction between `int` and `long` types. [\[4](./Python3(2e)0.html#d)\]
 
 - Make true division the default behavior. [\[4](./Python3(2e)0.html#d)\]
 
-- Make all strings unicode [\[4](./Python3(2e)0.html#d)\], and have a separate `bytes`{.backtick} [\[2](./Python3(2e)0.html#b)\] type. [\[13](./Python3(2e)0.html#m)\]
+- Make all strings unicode [\[4](./Python3(2e)0.html#d)\], and have a separate `bytes` [\[2](./Python3(2e)0.html#b)\] type. [\[13](./Python3(2e)0.html#m)\]
 
-- Make the `exec`{.backtick} statement a function again. [\[1](./Python3(2e)0.html#a)\]
+- Make the `exec` statement a function again. [\[1](./Python3(2e)0.html#a)\]
 
 - Remove old-style classes. [\[4](./Python3(2e)0.html#d)\]
 
-- Replace the `print`{.backtick} statement with a function or functions. (e.g. `write(x, y, z), writeline(x, y, z)`{.backtick}) [\[1](./Python3(2e)0.html#a)\] [\[21](./Python3(2e)0.html#u)\]
+- Replace the `print` statement with a function or functions. (e.g. `write(x, y, z), writeline(x, y, z)`) [\[1](./Python3(2e)0.html#a)\] [\[21](./Python3(2e)0.html#u)\]
 
-- Make `as`{.backtick} a real keyword. [\[7](./Python3(2e)0.html#g)\]
+- Make `as` a real keyword. [\[7](./Python3(2e)0.html#g)\]
 
 - Add an attribute to exceptions for storing the traceback. [\[22](./Python3(2e)0.html#v)\]
 
-- Remove `raise Exception, 'message'`{.backtick} syntax in favor of `raise Exception('message')`{.backtick}. [\[11](./Python3(2e)0.html#k)\] [\[20](./Python3(2e)0.html#t)\]
+- Remove `raise Exception, 'message'` syntax in favor of `raise Exception('message')`. [\[11](./Python3(2e)0.html#k)\] [\[20](./Python3(2e)0.html#t)\]
 
 - Require that the first statement of a suite be on its own line. [\[1](./Python3(2e)0.html#a)\]
 
-- Make `True`{.backtick} and `False`{.backtick} keywords. [\[6](./Python3(2e)0.html#f)\]
+- Make `True` and `False` keywords. [\[6](./Python3(2e)0.html#f)\]
 
   - Reason: make assignment to them impossible.
 
@@ -65,19 +65,19 @@ Unfortunately there does not appear to be a well-maintained single point of entr
 
 - Remove `` `x` ``. [\[1](./Python3(2e)0.html#a)\]
 
-  - Instead: use `repr(x)`{.backtick}.
+  - Instead: use `repr(x)`.
 
   - Reason: backticks are hard to read in many fonts and can be mangled by typesetting software.
 
-- Remove the `<>`{.backtick} operator.
+- Remove the `<>` operator.
 
-  - Instead: use `!=`{.backtick}.
+  - Instead: use `!=`.
 
 - Remove support for string exceptions. [\[1](./Python3(2e)0.html#a)\]
 
   - Instead: use a class.
 
-- Add a mechanism so that multiple exceptions can be caught using `except E1, E2, E3:`{.backtick}. For instance:
+- Add a mechanism so that multiple exceptions can be caught using `except E1, E2, E3:`. For instance:
 
   :::: 
   ::: 
@@ -104,7 +104,7 @@ Unfortunately there does not appear to be a well-maintained single point of entr
     :::
     ::::
 
-    The `except`{.backtick} code would then basically do the equivalent of `if issubclass(arg1, Exception) or isinstance(arg1, Exception): ... else if len(arg1): ...`{.backtick} (excepting, obviously, that this is implemented at a lower level in the C core). \--JimD
+    The `except` code would then basically do the equivalent of `if issubclass(arg1, Exception) or isinstance(arg1, Exception): ... else if len(arg1): ...` (excepting, obviously, that this is implemented at a lower level in the C core). \--JimD
 
 - Perhaps have optional declarations for static typing.
   - GvR suggested the syntax [\[17](./Python3(2e)0.html#q)\]: (but NOT for static typing - for declaring type information that would be checked at runtime, not compile time)
@@ -144,69 +144,69 @@ Unfortunately there does not appear to be a well-maintained single point of entr
 
 ## Built-In Changes 
 
-- Have `range()`{.backtick}, `zip()`{.backtick}, `dict.keys()`{.backtick}, `dict.items()`{.backtick}, and `dict.values()`{.backtick} return iterators.
+- Have `range()`, `zip()`, `dict.keys()`, `dict.items()`, and `dict.values()` return iterators.
 
-- Move `compile()`{.backtick}, `intern()`{.backtick} and `id()`{.backtick} to the `sys`{.backtick} module. [\[1](./Python3(2e)0.html#a)\]
+- Move `compile()`, `intern()` and `id()` to the `sys` module. [\[1](./Python3(2e)0.html#a)\]
 
-- Change `max()`{.backtick} and `min()`{.backtick} to consume iterators.
+- Change `max()` and `min()` to consume iterators.
 
-- Remove `coerce()`{.backtick} as it is obsolete. [\[1](./Python3(2e)0.html#a)\]
+- Remove `coerce()` as it is obsolete. [\[1](./Python3(2e)0.html#a)\]
 
-- Introduce `trunc()`{.backtick}, which would call the `__trunc__()`{.backtick} method on its argument.
+- Introduce `trunc()`, which would call the `__trunc__()` method on its argument.
 
-  - Reason: used for objects like `float`{.backtick}s where calling `__int__()`{.backtick} has data loss but an integral representation is still desired. [\[25](./Python3(2e)0.html#y)\]
+  - Reason: used for objects like `float`s where calling `__int__()` has data loss but an integral representation is still desired. [\[25](./Python3(2e)0.html#y)\]
 
-- Remove `dict.iteritems()`{.backtick}, `dict.iterkeys()`{.backtick}, and `dict.itervalues()`{.backtick}.
+- Remove `dict.iteritems()`, `dict.iterkeys()`, and `dict.itervalues()`.
 
-  - Instead: use `dict.items()`{.backtick}, `dict.keys()`{.backtick}, and `dict.values()`{.backtick} respectively.
+  - Instead: use `dict.items()`, `dict.keys()`, and `dict.values()` respectively.
 
-- Remove `apply()`{.backtick}. [\[1](./Python3(2e)0.html#a)\]
+- Remove `apply()`. [\[1](./Python3(2e)0.html#a)\]
 
-  - Instead: use `f(*args, **kw)`{.backtick}.
+  - Instead: use `f(*args, **kw)`.
 
-- Remove `xrange()`{.backtick}. [\[1](./Python3(2e)0.html#a)\] [\[4](./Python3(2e)0.html#d)\]
+- Remove `xrange()`. [\[1](./Python3(2e)0.html#a)\] [\[4](./Python3(2e)0.html#d)\]
 
-  - Instead: use `range()`{.backtick}.
+  - Instead: use `range()`.
 
-- Remove `reduce()`{.backtick}. [\[1](./Python3(2e)0.html#a)\]
+- Remove `reduce()`. [\[1](./Python3(2e)0.html#a)\]
 
-  - Instead: use `functools.reduce()`{.backtick}.
+  - Instead: use `functools.reduce()`.
 
-- Remove `callable()`{.backtick}. [\[1](./Python3(2e)0.html#a)\]
+- Remove `callable()`. [\[1](./Python3(2e)0.html#a)\]
 
-  - Instead: use `hasattr`{.backtick} to check for `__call__`{.backtick} attribute.
+  - Instead: use `hasattr` to check for `__call__` attribute.
 
-- Remove `buffer()`{.backtick}. [\[1](./Python3(2e)0.html#a)\] [\[2](./Python3(2e)0.html#b)\]
+- Remove `buffer()`. [\[1](./Python3(2e)0.html#a)\] [\[2](./Python3(2e)0.html#b)\]
 
-  - Instead: use new `bytes`{.backtick} type.
+  - Instead: use new `bytes` type.
 
-- Remove `raw_input()`{.backtick}. [\[1](./Python3(2e)0.html#a)\]
+- Remove `raw_input()`. [\[1](./Python3(2e)0.html#a)\]
 
-  - Instead: use `input()`{.backtick}.
+  - Instead: use `input()`.
 
-- Remove `input()`{.backtick}. [\[1](./Python3(2e)0.html#a)\]
+- Remove `input()`. [\[1](./Python3(2e)0.html#a)\]
 
-  - Instead: use `eval(input())`{.backtick}.
+  - Instead: use `eval(input())`.
 
-- Remove `execfile()`{.backtick} and `reload()`{.backtick}. [\[1](./Python3(2e)0.html#a)\]
+- Remove `execfile()` and `reload()`. [\[1](./Python3(2e)0.html#a)\]
 
-  - Instead: use `exec()`{.backtick}.
+  - Instead: use `exec()`.
 
-- Remove `basestring.find()`{.backtick} and `basestring.rfind()`{.backtick}. [\[23](./Python3(2e)0.html#w)\]
+- Remove `basestring.find()` and `basestring.rfind()`. [\[23](./Python3(2e)0.html#w)\]
 
-  - Instead: use `basestring.index()`{.backtick} and `basestring.rindex()`{.backtick} in a `try/except`{.backtick} block.
+  - Instead: use `basestring.index()` and `basestring.rindex()` in a `try/except` block.
 
 ## Standard Library Changes 
 
-- Remove `types`{.backtick} module.
+- Remove `types` module.
 
-  - Instead: use the types in `__builtins__`{.backtick}.
+  - Instead: use the types in `__builtins__`.
 
 - Remove other deprecated modules. [\[3](./Python3(2e)0.html#c)\]
 
-- Remove `sys.exc_type`{.backtick}. [\[1](./Python3(2e)0.html#a)\]
+- Remove `sys.exc_type`. [\[1](./Python3(2e)0.html#a)\]
 
-  - Instead: use `sys.exc_info`{.backtick}.
+  - Instead: use `sys.exc_info`.
 
   - Reason: it is not thread safe.
 
@@ -215,35 +215,35 @@ Unfortunately there does not appear to be a well-maintained single point of entr
 
 ## Open Issues 
 
-- `L += x`{.backtick} and `L.extend(x)`{.backtick} are equivalent. *No, they are not. The former creates a new list without modifying the original list (which other people might have references to). The latter modifies the original list.*
+- `L += x` and `L.extend(x)` are equivalent. *No, they are not. The former creates a new list without modifying the original list (which other people might have references to). The latter modifies the original list.*
 
-- Can the parameter order of the `insert`{.backtick} method be changed so the the index parameter is optional and `list.append`{.backtick} may be removed?
+- Can the parameter order of the `insert` method be changed so the the index parameter is optional and `list.append` may be removed?
 
-- If only `Exception`{.backtick} subclasses can be `raise`{.backtick}d [\[9](./Python3(2e)0.html#i)\], should the `raise`{.backtick} statement be kept? Could `x(y).raise()`{.backtick} be used instead?
+- If only `Exception` subclasses can be `raise`d [\[9](./Python3(2e)0.html#i)\], should the `raise` statement be kept? Could `x(y).raise()` be used instead?
 
-- Are `repr()`{.backtick} and `str()`{.backtick} both needed? [\[1](./Python3(2e)0.html#a)\]
+- Are `repr()` and `str()` both needed? [\[1](./Python3(2e)0.html#a)\]
 
-- Should `globals()`{.backtick}, `locals()`{.backtick} and `vars()`{.backtick} be removed? [\[1](./Python3(2e)0.html#a)\]
+- Should `globals()`, `locals()` and `vars()` be removed? [\[1](./Python3(2e)0.html#a)\]
 
 - Should there be a keyword for allowing the shadowing of built-ins?
 
 - Should injecting into another module\'s global namespace be prevented?
 
-- If line continuations (`\`{.backtick}) are removed from the language [\[1](./Python3(2e)0.html#a)\], what should be done about the instances where statements do not allow parentheses? Furthermore, the Python style guide [\[11](./Python3(2e)0.html#k)\] recommends their usage in some cases.
+- If line continuations (`\`) are removed from the language [\[1](./Python3(2e)0.html#a)\], what should be done about the instances where statements do not allow parentheses? Furthermore, the Python style guide [\[11](./Python3(2e)0.html#k)\] recommends their usage in some cases.
 
-- Should `__cmp__`{.backtick} (and possibly `cmp()`{.backtick}) be removed? [\[8](./Python3(2e)0.html#h)\]
+- Should `__cmp__` (and possibly `cmp()`) be removed? [\[8](./Python3(2e)0.html#h)\]
 
   - Reason: [TOOWTDI](../archive/TOOWTDI) and rich comparisons are another way.
 
-- Should list comprehensions be equivalent to passing a generator expression to `list()`{.backtick}?
+- Should list comprehensions be equivalent to passing a generator expression to `list()`?
 
   - Reason: they are essentially the same and it would remove edge-case differences between them.
 
-- With a new string substitution scheme [\[14](./Python3(2e)0.html#n)\], will old-style (`%(var)s`{.backtick}) substitutions be removed?
+- With a new string substitution scheme [\[14](./Python3(2e)0.html#n)\], will old-style (`%(var)s`) substitutions be removed?
 
-- There are things in the `string`{.backtick} module that I think belong there, for example `string.letters`{.backtick} and `string.digits`{.backtick}. I don\'t think that all the string manipulations that we might include with the standard libraries need to be in the core interpreter (any more than I would condone putting the regular expression engine into the core). \-- JimD
+- There are things in the `string` module that I think belong there, for example `string.letters` and `string.digits`. I don\'t think that all the string manipulations that we might include with the standard libraries need to be in the core interpreter (any more than I would condone putting the regular expression engine into the core). \-- JimD
 
-- Should a `with`{.backtick} (or `using`{.backtick}) statement be added? [\[10](./Python3(2e)0.html#j)\] [\[19](./Python3(2e)0.html#s)\]
+- Should a `with` (or `using`) statement be added? [\[10](./Python3(2e)0.html#j)\] [\[19](./Python3(2e)0.html#s)\]
 
   :::: 
   ::: 

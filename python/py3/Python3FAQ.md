@@ -38,15 +38,15 @@ We suggest the following steps for porting a package to 3.x:
 
 \* Have a test suite that exercises significant portions of your library or application\'s functionality, the more the better.
 
-\* Run the test suite using Python 2.6+ and specifying the `-3`{.backtick} switch, which enables warnings about code that\'s incompatible with Python 3. Modify the code to avoid triggering the warnings.
+\* Run the test suite using Python 2.6+ and specifying the `-3` switch, which enables warnings about code that\'s incompatible with Python 3. Modify the code to avoid triggering the warnings.
 
-\* Run the `2to3`{.backtick} script over the code. If `2to3`{.backtick} can\'t perform the conversion due to code constructs that can\'t be automatically translated, modify your 2.x code to use 3.x-compatible features.
+\* Run the `2to3` script over the code. If `2to3` can\'t perform the conversion due to code constructs that can\'t be automatically translated, modify your 2.x code to use 3.x-compatible features.
 
-\* Once `2to3`{.backtick} can convert your code without complaint, try running the test suite using the 3.x-transformed version. Examine any test failures and modify the 2.x code responsible to be 3.x-compatible until the test suite succeeds using the transformed version.
+\* Once `2to3` can convert your code without complaint, try running the test suite using the 3.x-transformed version. Examine any test failures and modify the 2.x code responsible to be 3.x-compatible until the test suite succeeds using the transformed version.
 
 Consult [the 2to3 documentation](http://docs.python.org/3/library/2to3.html) for more information about the conversion tool, and [PortingPythonToPy3k](PortingPythonToPy3k) for more general suggestions.
 
-One approach to distributing your 3.x package is to use 3.x\'s build_py_2to3 implementation of the build_py command. See `Demo/distutils/test2to3`{.backtick} for an example.
+One approach to distributing your 3.x package is to use 3.x\'s build_py_2to3 implementation of the build_py command. See `Demo/distutils/test2to3` for an example.
 
 You will have a single lib.py, written in 2.x. When you install in 3.x, lib2to3 will convert it to 3.x in the build area, and then install the 3.x version.
 
@@ -65,11 +65,11 @@ Benjamin Peterson\'s [Porting Extension Modules to 3.0](http://docs.python.org/h
 
 ## How do I find out what packages have been ported to 3.x? 
 
-Packages listed in the [Python Package Index](http://pypi.python.org) can indicate whether they support Python 3.x. You can view [a list of 3.x-compatible packages](http://pypi.python.org/pypi?:action=browse&c=533) by searching for the `"Programming Language :: Python :: 3"`{.backtick} classifier in the package index.
+Packages listed in the [Python Package Index](http://pypi.python.org) can indicate whether they support Python 3.x. You can view [a list of 3.x-compatible packages](http://pypi.python.org/pypi?:action=browse&c=533) by searching for the `"Programming Language :: Python :: 3"` classifier in the package index.
 
 ## My new release supports Python 3.x. How do I indicate that? 
 
-If you\'re using your `setup.py`{.backtick} file to upload a package to the [Python Package Index](http://pypi.python.org), include `"Programming Language :: Python :: 3"`{.backtick} as one of the classifiers.
+If you\'re using your `setup.py` file to upload a package to the [Python Package Index](http://pypi.python.org), include `"Programming Language :: Python :: 3"` as one of the classifiers.
 
 ## I want to start learning/teaching Python. What version should I use? 
 

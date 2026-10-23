@@ -31,7 +31,7 @@ Any idea how I can do this?
 
 [lwickjr](../archive/lwickjr): I\'d have to research for details, but you\`d have to pickle the data to a string, then save the string to a file through gzip, and read the file from gzip into a string which is then unpickled.
 
-[MarcChr](../people/MarcChr): There is no need for an temporary string. Just `import gzip`{.backtick} and use `gzip.open`{.backtick} instead of `open`{.backtick}:
+[MarcChr](../people/MarcChr): There is no need for an temporary string. Just `import gzip` and use `gzip.open` instead of `open`:
 
     import gzip, cPickle
 
@@ -45,4 +45,4 @@ Any idea how I can do this?
     cPickle.dump(ListOfPrimes,fp)
     fp.close()
 
-You could also use the binary pickle format which is more compact: `cPickle.dump(ListOfPrimes,fp,1)`{.backtick}.
+You could also use the binary pickle format which is more compact: `cPickle.dump(ListOfPrimes,fp,1)`.

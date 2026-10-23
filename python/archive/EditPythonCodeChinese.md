@@ -37,7 +37,7 @@ This leads us to introduce the golden rule\...
 
 ### 不要混合使用Tab和空格! Do Not Mix Tabs and Spaces! 
 
-Now, this doesn\'t mean that you can\'t use the `Tab`{.backtick} key on your keyboard: it just means that your editor has to be set up properly so that tab characters aren\'t mixed in with space characters. Tab characters often appear as very wide spaces in text, typically making the cursor jump to a position further across in the editor window or terminal.
+Now, this doesn\'t mean that you can\'t use the `Tab` key on your keyboard: it just means that your editor has to be set up properly so that tab characters aren\'t mixed in with space characters. Tab characters often appear as very wide spaces in text, typically making the cursor jump to a position further across in the editor window or terminal.
 
 当然，这并不意味着你不能使用键盘上的Tab键：只是说需要恰当配置你的编辑器以使Tab字符不至于与空格字符混在一块儿。Tab字符通常在文本中以较宽的空格显示，代表性的是使光标在编辑器窗口或终端命令行窗口中跳至一个较远的位置。
 
@@ -45,15 +45,15 @@ This leads us to a simple choice:
 
 这引导我们做一个简单的选择：
 
-- **Either** your editor should *always* add spaces when you press the `Tab`{.backtick} key\...
+- **Either** your editor should *always* add spaces when you press the `Tab` key\...
 
 - **要么** 在按下\'Tab\'键时你的编辑器**总是**添加空格；
 
-- **Or** your editor should *always* add tabs when you press the `Tab`{.backtick} key, and you should yourself *always* use tabs when indenting.
+- **Or** your editor should *always* add tabs when you press the `Tab` key, and you should yourself *always* use tabs when indenting.
 
 - **要么** 在按下\'Tab\'键时你的编辑器**总是**添加Tab字符，并且你**总是**使用Tab字符进行缩进。
 
-Many people recommend the first choice since you can use the `Tab`{.backtick} key as much as you like, and it does no harm to add spaces manually, although your indentation must always be consistent.
+Many people recommend the first choice since you can use the `Tab` key as much as you like, and it does no harm to add spaces manually, although your indentation must always be consistent.
 
 许多人推荐选择第一项，因为可以尽可能多的使用\'Tab\'键，而且不会对手动添加空格带来有危害，然而你的缩进方法自始至终必须保持一致。
 

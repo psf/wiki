@@ -16,7 +16,7 @@ Agenda:
   - [https://github.com/pypa/pip/projects/6](https://github.com/pypa/pip/projects/6)
 
     - 7871 - testing the new resolver - tracking issue for the remaining tests that are still failing. Needs to be finished before prod. Would love to have it before beta, but it will get finished by spinoff tickets. Paul\'s remaining paid work days are tomorrow (25th June 2020).
-      - TP: FYI the count of `fails_on_new_resolver`{.backtick} in master is now 3, and all are actively being addressed.
+      - TP: FYI the count of `fails_on_new_resolver` in master is now 3, and all are actively being addressed.
 
     - Go through the list of how we communicated about Warehouse and start reaching out to them re: pip;  making blog posts at fairly visible locations (i.e. not my personal blog), possibly going on podcasts, well-timed actionable emails etc.  \-- this is Sumana
 
@@ -107,7 +107,7 @@ Agenda:
     - More verbose explanation why \"Could not find a version that satisfies the requirement\"            #6526
       - [https://github.com/pypa/pip/issues/6526](https://github.com/pypa/pip/issues/6526) - Maybe need to remind the user pip ignores incompatible distributions (data-requires-python, wheel tags, eggs, etc.); files they see on PyPI is not always installable
 
-        - TP: current `ResolutionImpossible`{.backtick} message \.... the union of all the specifiers results in an empty set. But user may be confused if they do not think it is an empty set! Version 1.0 with only wheel for Windows. They install on Linux and pip will not select a Windows wheel and we do not know why. Address in REsolutionImpossible message
+        - TP: current `ResolutionImpossible` message \.... the union of all the specifiers results in an empty set. But user may be confused if they do not think it is an empty set! Version 1.0 with only wheel for Windows. They install on Linux and pip will not select a Windows wheel and we do not know why. Address in REsolutionImpossible message
 
         - Bernard: is this a case, like with RsImpos, where we can add some documentation to explain that situation?
 

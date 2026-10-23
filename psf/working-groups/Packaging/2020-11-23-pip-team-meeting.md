@@ -21,7 +21,7 @@ Agenda
   - Pradyun: can join tomorrow\'s meeting in its entirety
     - only 1 blocker, #9011. Not been able to wrap his head around why resolvelib is misbehaving. Stuck. Need to tag and work with TP.
 
-    - also, would be nice to have if we could do it in time: Mac OS Big Sur changed things, including how Mac OS tags work. That then requires an update in `packaging`{.backtick} + pip. But it\'s ok to go without.
+    - also, would be nice to have if we could do it in time: Mac OS Big Sur changed things, including how Mac OS tags work. That then requires an update in `packaging` + pip. But it\'s ok to go without.
 
       - this will go in 20.3.1
 

@@ -44,7 +44,7 @@ This started as a list of Python developers who had a known presence on [LinkedI
 
 - Rob Cakebread (rob at doapspace dot org)
 
-- Pablo Hoffman ([http://www.linkedin.com/in/pablohoffman](http://www.linkedin.com/in/pablohoffman) \| `http://pablohoffman.com`{.backtick})
+- Pablo Hoffman ([http://www.linkedin.com/in/pablohoffman](http://www.linkedin.com/in/pablohoffman) \| `http://pablohoffman.com`)
 
 - Batiste Bieler (batiste.bieler at gmail dot com)
 

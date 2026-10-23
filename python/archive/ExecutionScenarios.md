@@ -35,9 +35,9 @@ Algorithm:
 
 Problems:
 
-- type of `command`{.backtick} argument affects crossplatform behavior
+- type of `command` argument affects crossplatform behavior
 
-  - \[ \] here should be a table of `shell=True`{.backtick}, typeof(command), unix, windows, mac os
+  - \[ \] here should be a table of `shell=True`, typeof(command), unix, windows, mac os
 
 - child Python exceptions: affected\|unaffected
 

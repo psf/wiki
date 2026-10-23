@@ -67,7 +67,7 @@ Before we can do that, let\'s define a simple C++ class that we want the Python 
 :::
 ::::
 
-Now for the fun stuff, providing the embedded Python script with access to our new class. In our previous main() function, add after the `object main_namespace`{.backtick} is declared:
+Now for the fun stuff, providing the embedded Python script with access to our new class. In our previous main() function, add after the `object main_namespace` is declared:
 
 :::: 
 ::: 
@@ -78,7 +78,7 @@ Now for the fun stuff, providing the embedded Python script with access to our n
 :::
 ::::
 
-Of course, if the `CppClass`{.backtick} were more complicated, it would be necessary to use a more complicated series of `def`{.backtick}s. Now you can replace the \"print Hello, World\" Python code with the following, to call the getNum(), and you should see \"7\" printed to the console:
+Of course, if the `CppClass` were more complicated, it would be necessary to use a more complicated series of `def`s. Now you can replace the \"print Hello, World\" Python code with the following, to call the getNum(), and you should see \"7\" printed to the console:
 
 :::: 
 ::: 
@@ -89,7 +89,7 @@ Of course, if the `CppClass`{.backtick} were more complicated, it would be neces
 :::
 ::::
 
-So, now you can create C++ objects in Python, but you will probably want the Python code to be able to access existing C++ data. To do this, first create an instance of `CppClass`{.backtick} (we\'ll call ours `cpp`{.backtick}) at the beginning of `main()`{.backtick}. Now, after the `class_`{.backtick} declaration, add:
+So, now you can create C++ objects in Python, but you will probably want the Python code to be able to access existing C++ data. To do this, first create an instance of `CppClass` (we\'ll call ours `cpp`) at the beginning of `main()`. Now, after the `class_` declaration, add:
 
 :::: 
 ::: 
@@ -99,11 +99,11 @@ So, now you can create C++ objects in Python, but you will probably want the Pyt
 :::
 ::::
 
-Now, you should be able to change your Python code to `"print cpp.getNum()"`{.backtick}, and the number 7 should again be printed to the command line. The difference here is that the Python code and C++ code all share the same object. We passed a `ptr`{.backtick} into the Python interpreter to prevent a copy of the object from being made. We could have directly assigned `cpp`{.backtick} to the namespace, but any changes made to the object by the Python code would have been made to a local version of the object, not the instance which the C++ code has access to.
+Now, you should be able to change your Python code to `"print cpp.getNum()"`, and the number 7 should again be printed to the command line. The difference here is that the Python code and C++ code all share the same object. We passed a `ptr` into the Python interpreter to prevent a copy of the object from being made. We could have directly assigned `cpp` to the namespace, but any changes made to the object by the Python code would have been made to a local version of the object, not the instance which the C++ code has access to.
 
 Now would also be a good time to point out that while Python manages memory for you, C++ does not. Always make sure that data available to the Python interpreter is actually available, or you will get mysterious crashes which may be hard to track down.
 
-So, we finally have access to our C++ application\'s data, but now the script programmers are complaining that all of the data is in the global namespace, mucking up their scripts and generally getting in the way. To avoid this, and provide proper encapsulation, we should put all of our classes and data into a module. The first step is to remove all the lines which modify the `main_namespace`{.backtick} object, and then add a standard Boost module definition:
+So, we finally have access to our C++ application\'s data, but now the script programmers are complaining that all of the data is in the global namespace, mucking up their scripts and generally getting in the way. To avoid this, and provide proper encapsulation, we should put all of our classes and data into a module. The first step is to remove all the lines which modify the `main_namespace` object, and then add a standard Boost module definition:
 
 :::: 
 ::: 
@@ -116,9 +116,9 @@ So, we finally have access to our C++ application\'s data, but now the script pr
 :::
 ::::
 
-Now, inside `main()`{.backtick} and **before** the call to `Py_Initialize()`{.backtick} we want to call `PyImport_AppendInittab( "CppMod", &initCppMod );`{.backtick} `initCppMod`{.backtick} is a function created by the `BOOST_PYTHON_MODULE`{.backtick} macro which is used to initialize the Python module `CppMod`{.backtick}. At this point, your embedded python script may call `import CppMod`{.backtick} and then access `CppClass`{.backtick} as a member of the module.
+Now, inside `main()` and **before** the call to `Py_Initialize()` we want to call `PyImport_AppendInittab( "CppMod", &initCppMod );` `initCppMod` is a function created by the `BOOST_PYTHON_MODULE` macro which is used to initialize the Python module `CppMod`. At this point, your embedded python script may call `import CppMod` and then access `CppClass` as a member of the module.
 
-It would be convenient, however, if the module was already imported, so that the programmer does not have to manually load the module at the beginning of each script. To do this, add the following after the `main_namespace`{.backtick} object has been initialized:
+It would be convenient, however, if the module was already imported, so that the programmer does not have to manually load the module at the beginning of each script. To do this, add the following after the `main_namespace` object has been initialized:
 
 :::: 
 ::: 
@@ -129,9 +129,9 @@ main_namespace["CppMod"] = cpp_module;
 :::
 ::::
 
-The first line loads the module, executing the `initCppMod`{.backtick} function, and the second line makes the loaded module available in the main namespace. Scripts may now refer to `CppMod`{.backtick} without needing to manually import it.
+The first line loads the module, executing the `initCppMod` function, and the second line makes the loaded module available in the main namespace. Scripts may now refer to `CppMod` without needing to manually import it.
 
-This also allows us to add data to the already-imported module. We can do this from within `main()`{.backtick} with the following line:
+This also allows us to add data to the already-imported module. We can do this from within `main()` with the following line:
 
 :::: 
 ::: 
@@ -141,7 +141,7 @@ scope(cpp_module).attr("cpp") = ptr(&cpp);
 :::
 ::::
 
-Scripts are now able to access the `cpp`{.backtick} instance of `CppClass`{.backtick} from the `CppMod`{.backtick} module.
+Scripts are now able to access the `cpp` instance of `CppClass` from the `CppMod` module.
 
 While this is certainly not complete, hopefully it will provide a starting point for using Boost.Python to embed Python scripts in your applications.
 

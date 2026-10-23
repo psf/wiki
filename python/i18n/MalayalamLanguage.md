@@ -42,11 +42,11 @@ This page provides **Python-related resources in Malayalam** for learners and de
 
 - **ISO Codes**:
 
-  - **ISO 639-1**: `ml`{.backtick}
+  - **ISO 639-1**: `ml`
 
-  - **ISO 639-2**: `mal`{.backtick}
+  - **ISO 639-2**: `mal`
 
-  - **ISO 639-3**: `mal`{.backtick}
+  - **ISO 639-3**: `mal`
 
 - **Unicode Range**: [0D00-0D7F](http://unicode.org/charts/PDF/U0D00.pdf)
 

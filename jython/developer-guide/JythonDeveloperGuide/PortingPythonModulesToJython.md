@@ -50,12 +50,12 @@ The table below contains modules implemented in C in Python that are missing in 
 
 **Why have you called the Java file \_csv.java instead of just csv.java? Is there a convention here and if so, why don\'t all the classes follow the same convention.**
 
-*pdrummond*: Short answer: It\'s called `_csv`{.backtick} because that is what it\'s called in CPython!
+*pdrummond*: Short answer: It\'s called `_csv` because that is what it\'s called in CPython!
 
-Long answer: Hmmm. Will have to swat up on CPython\'s module naming conventions to answer this properly! I think CPython\'s general convention is \"`<name>module.c`{.backtick}\" so `csv`{.backtick} really should be \"`csvmodule.c`{.backtick}\" shouldn\'t it? I guess the underscore is necessary because there is a `csv.py`{.backtick} wrapper so the \"csv\" name is already taken, but I need to check this to be sure!
+Long answer: Hmmm. Will have to swat up on CPython\'s module naming conventions to answer this properly! I think CPython\'s general convention is \"`<name>module.c`\" so `csv` really should be \"`csvmodule.c`\" shouldn\'t it? I guess the underscore is necessary because there is a `csv.py` wrapper so the \"csv\" name is already taken, but I need to check this to be sure!
 
 *[FrankWierzbicki](../../people/FrankWierzbicki)*: This is actually a CPython convention \-- but one that is inconsistently applied \-- the 2.6 version is making this more consistent. The convention is: for a given module x, there is usually an implementation in python called x.py and a c implementation called \_x.c. Generally x.py tries to import \_x.c at the beginning \-- this way implementations like Jython can get a pure python implementation right away, but can also implement a faster version that we should call \_x.java later. I\'d like to add that I would recommend looking at the CPython implementation as you go \-- there are almost always subtleties that the tests miss - I used to assume the tests where good enough but got burned a couple of times this way.
 
-**Will the `test_csv.py`{.backtick} file automatically appear after a build or do we have to implement this ourself?**
+**Will the `test_csv.py` file automatically appear after a build or do we have to implement this ourself?**
 
-*pdrummond*: `test_csv.py`{.backtick} will appear auto-magically after a build in `dist/Lib/test`{.backtick} (at least, it will in the 2.3 branch) and it is a CPython test script.
+*pdrummond*: `test_csv.py` will appear auto-magically after a build in `dist/Lib/test` (at least, it will in the 2.3 branch) and it is a CPython test script.

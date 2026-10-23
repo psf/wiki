@@ -25,7 +25,7 @@ Also it can be used explicitly to create class instances from C++:
       object instance_a = class_a();
     }
 
-If you want to forbid creating class instancies from python, you now must pass `no_init`{.backtick} to class\_\<\> definition. Default, as in python, will be init with no arguments. There is no limit to number of init\<\>\'s in the boost.python.
+If you want to forbid creating class instancies from python, you now must pass `no_init` to class\_\<\> definition. Default, as in python, will be init with no arguments. There is no limit to number of init\<\>\'s in the boost.python.
 
 **Abstract class**
 

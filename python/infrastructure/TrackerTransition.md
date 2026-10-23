@@ -39,7 +39,7 @@ XXX IRC or Google Talk/Jabber chat room.
 
 7.  Put tracker in \"Visible to project members only\" mode; completely hiding it would break the export. Change the \"Submit new item\" and \"browse items\" texts to
 
-    - `<b style="color:red">This tracker is CLOSED</b>. Please use the <a href="http://bugs.python.org/">new tracker</a> instead.`{.backtick}
+    - `<b style="color:red">This tracker is CLOSED</b>. Please use the <a href="http://bugs.python.org/">new tracker</a> instead.`
 
       [Bugs](http://tinyurl.com/yw53zr) [Patches](http://tinyurl.com/ynw6uq) [Feature Requests](http://tinyurl.com/28lphd)
 

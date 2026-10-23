@@ -24,7 +24,7 @@ It is convenient to examine the source code as it is written in the *kio_adfs.py
 
 #### Initialisation 
 
-Various classes and namespaces are required in order to communicate with the KIOSlave framework. These are drawn from the `qt`{.backtick}, `kio`{.backtick} and `kdecore`{.backtick} modules:
+Various classes and namespaces are required in order to communicate with the KIOSlave framework. These are drawn from the `qt`, `kio` and `kdecore` modules:
 
 :::: 
 ::: 
@@ -36,7 +36,7 @@ from kdecore import KURL
 :::
 ::::
 
-The `os`{.backtick} and `time`{.backtick} modules provide functions which are relevant to the operation of the IOSlave; the `sys`{.backtick} and `traceback`{.backtick} modules are useful for debugging the IOSlave:
+The `os` and `time` modules provide functions which are relevant to the operation of the IOSlave; the `sys` and `traceback` modules are useful for debugging the IOSlave:
 
 :::: 
 ::: 
@@ -46,7 +46,7 @@ import os, sys, traceback, time
 :::
 ::::
 
-The `ADFSlib`{.backtick} module is imported. This provides the functionality required to read disk images:
+The `ADFSlib` module is imported. This provides the functionality required to read disk images:
 
 :::: 
 ::: 
@@ -60,7 +60,7 @@ We omit the debugging code to keep this tutorial fairly brief. This can be exami
 
 #### The slave class 
 
-We define a class which will be used to create instances of this IOSlave. The class must be derived from the `KIO.SlaveBase`{.backtick} class so that it can communicate with clients via the DCOP mechanism. Various operations are supported if the appropriate method (represented as virtual functions in C++) are reimplemented in our subclass.
+We define a class which will be used to create instances of this IOSlave. The class must be derived from the `KIO.SlaveBase` class so that it can communicate with clients via the DCOP mechanism. Various operations are supported if the appropriate method (represented as virtual functions in C++) are reimplemented in our subclass.
 
 Note that the name of the class is also declared in the *details.py* file so that the library which launches the Python interpreter knows which class to instantiate.
 
@@ -77,7 +77,7 @@ class SlaveClass(KIO.SlaveBase):
 :::
 ::::
 
-An initialisation method, or constructor, is written which calls the base class and initialises some useful attributes, or instance variables. Note that the name of the IOSlave is passed to the base class\'s `__init__`{.backtick} method:
+An initialisation method, or constructor, is written which calls the base class and initialises some useful attributes, or instance variables. Note that the name of the IOSlave is passed to the base class\'s `__init__` method:
 
 :::: 
 ::: 
@@ -97,7 +97,7 @@ An initialisation method, or constructor, is written which calls the base class 
 :::
 ::::
 
-We create a method to parse any URLs passed to the IOSlave and return a path into a disk image. This initially extracts the path from the `KURL`{.backtick} object passed as an argument and converts it to a unicode string:
+We create a method to parse any URLs passed to the IOSlave and return a path into a disk image. This initially extracts the path from the `KURL` object passed as an argument and converts it to a unicode string:
 
 :::: 
 ::: 
@@ -138,7 +138,7 @@ If the disk image has been cached then return the path within the image:
 :::
 ::::
 
-An uncached URL must be examined element by element, as far as possible, comparing the path with the local filesystem. Since a valid path will contain at least one slash character then we can immediately discard any paths which do not contain one, returning `None`{.backtick} to the caller:
+An uncached URL must be examined element by element, as far as possible, comparing the path with the local filesystem. Since a valid path will contain at least one slash character then we can immediately discard any paths which do not contain one, returning `None` to the caller:
 
 :::: 
 ::: 
@@ -152,7 +152,7 @@ An uncached URL must be examined element by element, as far as possible, compari
 :::
 ::::
 
-Starting from the root directory, we apply each new path element to the constructed path, testing for the presence of the objects it refers to. If no object can be found at the path given then `None`{.backtick} is returned to the caller to indicate that the URL was invalid. If a file is found then it is assumed that an ADFS disk image has been located; a check could be performed to verify this. Finally, if all the path elements are added to the root directory, and the object referred to is itself a directory, then the URL is treated as invalid; it should have referred to a file.
+Starting from the root directory, we apply each new path element to the constructed path, testing for the presence of the objects it refers to. If no object can be found at the path given then `None` is returned to the caller to indicate that the URL was invalid. If a file is found then it is assumed that an ADFS disk image has been located; a check could be performed to verify this. Finally, if all the path elements are added to the root directory, and the object referred to is itself a directory, then the URL is treated as invalid; it should have referred to a file.
 
 :::: 
 ::: 
@@ -192,7 +192,7 @@ At this point, it is assumed that a suitable image has been found at the constru
 :::
 ::::
 
-If not already open, it is necessary to open the image file, returning `None`{.backtick} if the file cannot be found. (Its presence was detected earlier but it is better to catch any exceptions.)
+If not already open, it is necessary to open the image file, returning `None` if the file cannot be found. (Its presence was detected earlier but it is better to catch any exceptions.)
 
 :::: 
 ::: 
@@ -208,7 +208,7 @@ If not already open, it is necessary to open the image file, returning `None`{.b
 :::
 ::::
 
-We attempt to open the disk image using a class from the support module. This will read and catalogue the files within the image, storing them in an internal structure. However, if a problem is found with the image, then an exception will be raised. We tidy up and return `None`{.backtick} to signal failure in such a case, but otherwise return the path within the image:
+We attempt to open the disk image using a class from the support module. This will read and catalogue the files within the image, storing them in an internal structure. However, if a problem is found with the image, then an exception will be raised. We tidy up and return `None` to signal failure in such a case, but otherwise return the path within the image:
 
 :::: 
 ::: 
@@ -229,7 +229,7 @@ We attempt to open the disk image using a class from the support module. This wi
 
 #### The get file operation 
 
-Various fundamental operations are required if the IOSlave is going to perform a useful function. The first of these is provided by the `get`{.backtick} method which reads files in the disk image and sends their contents to the client. The first thing this method does is check the URL supplied using the previously defined `parse_url`{.backtick} method, reporting an error if the URL is unusable:
+Various fundamental operations are required if the IOSlave is going to perform a useful function. The first of these is provided by the `get` method which reads files in the disk image and sends their contents to the client. The first thing this method does is check the URL supplied using the previously defined `parse_url` method, reporting an error if the URL is unusable:
 
 :::: 
 ::: 
@@ -246,7 +246,7 @@ Various fundamental operations are required if the IOSlave is going to perform a
 :::
 ::::
 
-Having established that the disk image referred to is valid, we now have a path which is supposed to refer to a file within the image. It is now necessary to attempt to find this file. This is achieved by the use of the as yet undeclared `find_file_within_image`{.backtick} method which will return `None`{.backtick} if a suitable file cannot be found:
+Having established that the disk image referred to is valid, we now have a path which is supposed to refer to a file within the image. It is now necessary to attempt to find this file. This is achieved by the use of the as yet undeclared `find_file_within_image` method which will return `None` if a suitable file cannot be found:
 
 :::: 
 ::: 
@@ -278,7 +278,7 @@ If the second element in the tuple is a list then the object found is a director
 :::
 ::::
 
-For files, the second element of the tuple contains a string. In this method, we are only interested in the file data. Using the base class\'s `data`{.backtick} method, which we can access through the current instance, we send a `QByteArray`{.backtick} to the client:
+For files, the second element of the tuple contains a string. In this method, we are only interested in the file data. Using the base class\'s `data` method, which we can access through the current instance, we send a `QByteArray` to the client:
 
 :::: 
 ::: 
@@ -288,7 +288,7 @@ For files, the second element of the tuple contains a string. In this method, we
 :::
 ::::
 
-The end of the data string is indicated by an empty `QByteArray`{.backtick} before we indicate completion of the operation by calling the base class\'s `finished`{.backtick} method:
+The end of the data string is indicated by an empty `QByteArray` before we indicate completion of the operation by calling the base class\'s `finished` method:
 
 :::: 
 ::: 
@@ -302,9 +302,9 @@ The end of the data string is indicated by an empty `QByteArray`{.backtick} befo
 
 #### The stat operation 
 
-The `stat`{.backtick} method returns information about files and directories within the disk image. It is very important that this method works properly as, otherwise, the IOSlave will not work as expected and may appear to be behaving in an unpredictable manner. For example, clients such as Konqueror often use the `stat`{.backtick} method to find out information about objects before calling `get`{.backtick}, so failure to read a file may actually be the result of a misbehaving `stat`{.backtick} operation.
+The `stat` method returns information about files and directories within the disk image. It is very important that this method works properly as, otherwise, the IOSlave will not work as expected and may appear to be behaving in an unpredictable manner. For example, clients such as Konqueror often use the `stat` method to find out information about objects before calling `get`, so failure to read a file may actually be the result of a misbehaving `stat` operation.
 
-As for the `get`{.backtick} method, the `stat`{.backtick} method initially verifies that the URL supplied is referring to a valid disk image, and that there is a path within the image to use. Unlike the `get`{.backtick} method, it will redirect the client to the path contained within the URL if the `parse_url`{.backtick} fails to handle it. This allows the user to use URL autocompletion on ordinary filesystems while searching for images to read.
+As for the `get` method, the `stat` method initially verifies that the URL supplied is referring to a valid disk image, and that there is a path within the image to use. Unlike the `get` method, it will redirect the client to the path contained within the URL if the `parse_url` fails to handle it. This allows the user to use URL autocompletion on ordinary filesystems while searching for images to read.
 
 :::: 
 ::: 
@@ -381,7 +381,7 @@ If the URL referred to a directory then a description can be returned to the cli
 :::
 ::::
 
-After a description of the object found has been constructed, it only remains for us to return the description (or entry in the filesystem) to the client by submitting it to the KIOSlave framework. This is performed by the following operation to the `statEntry`{.backtick} method, and is followed by a `finished`{.backtick} call to indicate that there are no more entries to process:
+After a description of the object found has been constructed, it only remains for us to return the description (or entry in the filesystem) to the client by submitting it to the KIOSlave framework. This is performed by the following operation to the `statEntry` method, and is followed by a `finished` call to indicate that there are no more entries to process:
 
 :::: 
 ::: 
@@ -401,13 +401,13 @@ After a description of the object found has been constructed, it only remains fo
 
 #### The mimetype operation 
 
-In many virtual filesystems, the `mimetype`{.backtick} operation would require a certain amount of work to determine MIME types of files, or sufficient planning to ensure that data is returned in a format in line with a predetermined MIME type. Since its use is optional, we do not define a method to determine the MIME types of any files within our virtual filesystem. The client will have to inspect the contents of such files in order to determine their MIME types.
+In many virtual filesystems, the `mimetype` operation would require a certain amount of work to determine MIME types of files, or sufficient planning to ensure that data is returned in a format in line with a predetermined MIME type. Since its use is optional, we do not define a method to determine the MIME types of any files within our virtual filesystem. The client will have to inspect the contents of such files in order to determine their MIME types.
 
 #### The listDir operation 
 
-The contents of a directory on our virtual filesystem are returned by the `listDir`{.backtick} method. This works like the `stat`{.backtick} method, but returns information on multiple objects within a directory.
+The contents of a directory on our virtual filesystem are returned by the `listDir` method. This works like the `stat` method, but returns information on multiple objects within a directory.
 
-As for the previous methods the validity of the URL is checked. If no suitable directory found within the disk image, the path component of the original URL is extracted and the client redirected to this location. Note that the `url`{.backtick} argument is a `kdecore.KURL`{.backtick} object.
+As for the previous methods the validity of the URL is checked. If no suitable directory found within the disk image, the path component of the original URL is extracted and the client redirected to this location. Note that the `url` argument is a `kdecore.KURL` object.
 
 :::: 
 ::: 
@@ -470,7 +470,7 @@ If a file is referenced then an error is returned to the client because we can o
 :::
 ::::
 
-A list of files is kept in the second item of the object returned from the support module. For each of these files, we must construct an entry which is understandable to the KIOSlave infrastructure in a manner similar to that used in the method for the `stat`{.backtick} operation.
+A list of files is kept in the second item of the object returned from the support module. For each of these files, we must construct an entry which is understandable to the KIOSlave infrastructure in a manner similar to that used in the method for the `stat` operation.
 
 :::: 
 ::: 
@@ -513,7 +513,7 @@ A list of files is kept in the second item of the object returned from the suppo
 
 #### The dispatch loop 
 
-Although not entirely necessary, we implement a `dispatchLoop`{.backtick} method which simply calls the corresponding method of the base class:
+Although not entirely necessary, we implement a `dispatchLoop` method which simply calls the corresponding method of the base class:
 
 :::: 
 ::: 
@@ -531,7 +531,7 @@ We define some methods which, although necessary for this IOSlave to work, are n
 
 #### Building file system entries 
 
-We create a method to assist in building filesystem entries to return to the client via the KIOSlave infrastructure. For this example, some basic details of each file or directory in the disk image is derived from information contained within and stored within standard `KIO.UDSAtom`{.backtick} instances.
+We create a method to assist in building filesystem entries to return to the client via the KIOSlave infrastructure. For this example, some basic details of each file or directory in the disk image is derived from information contained within and stored within standard `KIO.UDSAtom` instances.
 
 :::: 
 ::: 
@@ -680,9 +680,9 @@ The following two internal methods deal with the translation of paths and filena
 
 A key element in the construction of an IOSlave is the method used to map between the URLs given by client applications and the conventions of the virtual filesystems represented by the IOSlave. In this instance, the disk image contains a working snapshot of an ADFS filesystem which must be navigated in order to extract objects referenced by the client.
 
-Since the `ADFSlib`{.backtick} support module provides objects to contain the directory structure contained within the disk image, only a minimal amount of work is required to locate objects, and this mainly involves a recursive examination of a tree structure. However, there are a few special cases which are worth mentioning.
+Since the `ADFSlib` support module provides objects to contain the directory structure contained within the disk image, only a minimal amount of work is required to locate objects, and this mainly involves a recursive examination of a tree structure. However, there are a few special cases which are worth mentioning.
 
-In this method, the `path`{.backtick} argument contains the path component of the URL supplied by the client in the standard form used in URLs.
+In this method, the `path` argument contains the path component of the URL supplied by the client in the standard form used in URLs.
 
 :::: 
 ::: 
@@ -692,7 +692,7 @@ In this method, the `path`{.backtick} argument contains the path component of th
 :::
 ::::
 
-A convention we have adopted is the use of a default value of `None`{.backtick} for the final argument of this method. Omission of this argument indicates that we are starting a search from the root directory of the disk image. As we descend into the directory structure, recursive calls to this method will supply suitable values for this argument but, for now, a reasonable value needs to be substituted for `None`{.backtick}; this is a structure containing the entire filesystem:
+A convention we have adopted is the use of a default value of `None` for the final argument of this method. Omission of this argument indicates that we are starting a search from the root directory of the disk image. As we descend into the directory structure, recursive calls to this method will supply suitable values for this argument but, for now, a reasonable value needs to be substituted for `None`; this is a structure containing the entire filesystem:
 
 :::: 
 ::: 
@@ -788,7 +788,7 @@ If a direct match between names is not possible then, for old-style disk images,
 :::
 ::::
 
-If successfully matched, a *.inf* file is created and returned, otherwise a `None`{.backtick} value is returned to indicate failure:
+If successfully matched, a *.inf* file is created and returned, otherwise a `None` value is returned to indicate failure:
 
 :::: 
 ::: 
@@ -857,7 +857,7 @@ Unlike files, directories can occur at any point in the descent into the filesys
 :::
 ::::
 
-At this point, no matching objects were found, therefore we return `None`{.backtick} to indicate failure:
+At this point, no matching objects were found, therefore we return `None` to indicate failure:
 
 :::: 
 ::: 

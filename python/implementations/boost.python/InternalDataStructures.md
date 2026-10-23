@@ -38,7 +38,7 @@ You can see this in `boost/python/object/instance.hpp`. Most Python objects are 
 
 All the code for implementing C++ object wrappers is in `libs/python/src/object/class.cpp`.
 
-Instance dictionaries are created only \"on demand\", the first time the instance\'s `__dict__`{.backtick} attribute is accessed (see instance_get_dict).
+Instance dictionaries are created only \"on demand\", the first time the instance\'s `__dict__` attribute is accessed (see instance_get_dict).
 
         >>> a = A()  # some extension class A, no instance dict
         >>> a.x      # Attribute lookup fails, still no instance dict

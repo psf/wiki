@@ -103,18 +103,18 @@ For additional info I would strongly suggest you review Oti\'s notes at [http://
 
 For me personally I found the jar method worked best for me. I had the supporting jars and scripts in the standalone Jython jar and then the primary script separately. So I had 2 files that I distributed: one .jar and one .py. Because the support files were pretty stable and didn\'t change this allowed me to easily improve and fix bugs in the main .py file.
 
-I could have only distributed a single jar file by renaming my main .py file to `__run__.py` and putting it into the root directory of the jar file. **But** note that you will have to remove the `if __name__ == '__main__'`{.backtick} check from `__run__.py`{.backtick}, since the `__name__`{.backtick} is set to the jar file name. So, for example, if your original main script looks like:
+I could have only distributed a single jar file by renaming my main .py file to `__run__.py` and putting it into the root directory of the jar file. **But** note that you will have to remove the `if __name__ == '__main__'` check from `__run__.py`, since the `__name__` is set to the jar file name. So, for example, if your original main script looks like:
 
     import foo
     if __name__ == "__main__":
         foo.do_something()
 
-Then `__run__.py`{.backtick} will look like this:
+Then `__run__.py` will look like this:
 
     import foo
     foo.do_something()
 
-Then, after packaging `__run__.py`{.backtick} inside the JAR file, the command simply becomes:
+Then, after packaging `__run__.py` inside the JAR file, the command simply becomes:
 
     $ java org.python.util.jython -jar myapp.jar
 
@@ -160,7 +160,7 @@ The file `testmyapp.py` imports modules that I have added to `myapp.jar` and `ot
 
 Now suppose you want to package your \"start-up\" script in the (main) jar itself. In order to do so, follow the above instructions plus:
 
-- Rename (or copy) your start-up script to `__run__.py` (but removing the `if __name__ == '__main__'`{.backtick} check, as described above). Add it to the (main) jar file at the root. (On Linux/UNIX you could also do this by using the `ln -s` command to create a symbolic link.) For example, you might do something like this:
+- Rename (or copy) your start-up script to `__run__.py` (but removing the `if __name__ == '__main__'` check, as described above). Add it to the (main) jar file at the root. (On Linux/UNIX you could also do this by using the `ln -s` command to create a symbolic link.) For example, you might do something like this:
 
       $ zip myapp.jar __run__.py
 
@@ -306,7 +306,7 @@ The entrypoint.py mentioned above must be provided by you. It is a python script
 
     from my_prog import main
 
-With all this, `java -jar output.jar`{.backtick} should run your code.
+With all this, `java -jar output.jar` should run your code.
 
 **NOTE**: Please email charlieATcharliedyson.net if this does or does not work for you, I\'ve only just come up with it as I wanted a single jar that could be executed without any arguments. The Main.java code above was hacked to support readline (if possible) by msdemleiATari uni-heidelberg.de, so if that bugs you, don\'t bother Charlie, ask Markus. Also, an ant build as well as a sample project that implements this method is available [here](https://github.com/jsbruneau/jython-selfcontained-jar).
 

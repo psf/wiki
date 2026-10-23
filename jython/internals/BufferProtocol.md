@@ -12,7 +12,7 @@ This page proposes (now begins to document) a design for a Jython equivalent to 
 
 ### What is the Buffer API? 
 
-The Jython Buffer API is an interface you can use in Java when accessing or implementing certain built-in types, or your own. It is the basis of the type `memoryview`{.backtick} with which it shares many features.
+The Jython Buffer API is an interface you can use in Java when accessing or implementing certain built-in types, or your own. It is the basis of the type `memoryview` with which it shares many features.
 
 In CPython, certain objects are based on an underlying memory array or buffer. The CPython designers judged it desirable to be able to access that buffer directly, without intermediate copying. CPython provides this at the C level in the form of the *buffer protocol*. This is used heavily in the implementation of some core types and standard library modules.
 
@@ -32,7 +32,7 @@ Objects flag their willingness to provide a buffer by implementing the following
 :::
 ::::
 
-Here is a simple example of the API used, adapted from the implementation of `bytearray`{.backtick}:
+Here is a simple example of the API used, adapted from the implementation of `bytearray`:
 
 :::: 
 ::: 
@@ -52,15 +52,15 @@ Here is a simple example of the API used, adapted from the implementation of `by
 :::
 ::::
 
-The reason for the try-with-resources construct is to ensure the view is released when the client has finished with it. (Some objects change behaviour for the lifetime of the exported view. Notably, a `bytearray`{.backtick} cannot be resized while exporting.)
+The reason for the try-with-resources construct is to ensure the view is released when the client has finished with it. (Some objects change behaviour for the lifetime of the exported view. Notably, a `bytearray` cannot be resized while exporting.)
 
-The `flags`{.backtick} argument indicates the buffer characteristics wanted by the consumer, and what kind of data organisation the consumer can cope with. The return is an implementation of `PyBuffer`{.backtick} appropriate to the storage organisation of the exporter. In the example, the consumer says it can cope with any organisation (FULL), but that it will only be reading (RO).
+The `flags` argument indicates the buffer characteristics wanted by the consumer, and what kind of data organisation the consumer can cope with. The return is an implementation of `PyBuffer` appropriate to the storage organisation of the exporter. In the example, the consumer says it can cope with any organisation (FULL), but that it will only be reading (RO).
 
-The business about exporter storage organisation is only relevant if you are going to access the actual byte array. Here, the client says it can cope with any organisation, because it is only going to use the buffer\'s own `copyTo`{.backtick} method. Every buffer implementation has to understand its own storage and provide `copyTo`{.backtick}, `charAt`{.backtick}, `storeAt`{.backtick}, and several other methods.
+The business about exporter storage organisation is only relevant if you are going to access the actual byte array. Here, the client says it can cope with any organisation, because it is only going to use the buffer\'s own `copyTo` method. Every buffer implementation has to understand its own storage and provide `copyTo`, `charAt`, `storeAt`, and several other methods.
 
-This interface is quite rich, but the Javadoc is thorough. In fact, the interface is defined in two stages: a part that is independent of the type of unit in the buffer, and a part that is definite that the units are `byte`{.backtick}s.
+This interface is quite rich, but the Javadoc is thorough. In fact, the interface is defined in two stages: a part that is independent of the type of unit in the buffer, and a part that is definite that the units are `byte`s.
 
-The type-agnostic part of the interface is `PyBUF`{.backtick}:
+The type-agnostic part of the interface is `PyBUF`:
 
 :::: 
 ::: 
@@ -106,7 +106,7 @@ The type-agnostic part of the interface is `PyBUF`{.backtick}:
 :::
 ::::
 
-The byte-oriented part of the interface is `PyBuffer`{.backtick}. For the most part, you can ignore the difference between `PyBUF`{.backtick} and `PyBuffer`{.backtick} and think of all the methods as belonging to `PyBuffer`{.backtick}:
+The byte-oriented part of the interface is `PyBuffer`. For the most part, you can ignore the difference between `PyBUF` and `PyBuffer` and think of all the methods as belonging to `PyBuffer`:
 
 :::: 
 ::: 
@@ -156,13 +156,13 @@ The byte-oriented part of the interface is `PyBuffer`{.backtick}. For the most p
 :::
 ::::
 
-Notice that an object that implements `PyBuffer`{.backtick} must itself implement the `BufferProtocol`{.backtick}. A buffer can give you a buffer, which may just be itself or could be an independent object, depending on the implementation.
+Notice that an object that implements `PyBuffer` must itself implement the `BufferProtocol`. A buffer can give you a buffer, which may just be itself or could be an independent object, depending on the implementation.
 
-Note that `PyBuffer`{.backtick} extends the `AutoCloseable`{.backtick} interface, so that you can use the try-with-resources construct to manage buffer lifetime. (This was added shortly after Java 7 became the minimum platform.)
+Note that `PyBuffer` extends the `AutoCloseable` interface, so that you can use the try-with-resources construct to manage buffer lifetime. (This was added shortly after Java 7 became the minimum platform.)
 
 ### Adding the Buffer API to an Object 
 
-The core package org.python.core only defines the interfaces. Several `PyBuffer`{.backtick} implementations that could be exported by object implementations are provided in `org.python.core.buffer`{.backtick}. The place to start is with one of these basic types:
+The core package org.python.core only defines the interfaces. Several `PyBuffer` implementations that could be exported by object implementations are provided in `org.python.core.buffer`. The place to start is with one of these basic types:
 
 | Buffer Type | Suitable for \... |
 |---|---|
@@ -170,30 +170,30 @@ The core package org.python.core only defines the interfaces. Several `PyBuffer`
 | SimpleWritableBuffer | 1D array of bytes |
 | SimpleStringBuffer | Java String (representing bytes) |
 
-These could all be extended or for a more sophisticated behaviour, consider extending `BaseBuffer`{.backtick}.
+These could all be extended or for a more sophisticated behaviour, consider extending `BaseBuffer`.
 
 ### Converting from CPython 
 
 #### Similarities with CPython 
 
-- The navigational arrays (`shape`{.backtick}, `strides`{.backtick}, `suboffsets`{.backtick}) and `format`{.backtick}, `unitsize`{.backtick} are present with the same meanings.
+- The navigational arrays (`shape`, `strides`, `suboffsets`) and `format`, `unitsize` are present with the same meanings.
 
-- The \"request flags\" have the same values, with similar names `PyBUF.STRIDED`{.backtick} in place of `PyBUF_STRIDED`{.backtick}.
+- The \"request flags\" have the same values, with similar names `PyBUF.STRIDED` in place of `PyBUF_STRIDED`.
 
-- The discipline of matching `get`{.backtick} and `release`{.backtick} applies also in Jython.
+- The discipline of matching `get` and `release` applies also in Jython.
 
 #### Differences from CPython 
 
-- `PyBuffer`{.backtick} is a Java interface: quantities that were struct members become `getXXX()`{.backtick} methods.
+- `PyBuffer` is a Java interface: quantities that were struct members become `getXXX()` methods.
 
-- `PyBuffer`{.backtick} always supplies full information (`shape`{.backtick}, `strides`{.backtick}, `format`{.backtick}).
+- `PyBuffer` always supplies full information (`shape`, `strides`, `format`).
 
 - The different buffer organisations are expressed through different classes implementing the interface.
 
-- Library functions taking `PyObject`{.backtick} or `PyBuffer`{.backtick} arguments in CPython become methods on those types.
+- Library functions taking `PyObject` or `PyBuffer` arguments in CPython become methods on those types.
 
-- A `PyBuffer`{.backtick} manages the get-release accounting for exporters.
+- A `PyBuffer` manages the get-release accounting for exporters.
 
 - And you have try-with-resources to help you keep your end of the bargain.
 
-- Wherever CPython uses a `char*`{.backtick} pointer, Jython reference a buffer of bytes and an offset within it.
+- Wherever CPython uses a `char*` pointer, Jython reference a buffer of bytes and an offset within it.

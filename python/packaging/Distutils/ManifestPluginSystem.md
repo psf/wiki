@@ -46,11 +46,11 @@ Let\'s add in Distutils:
 
 - a generic plugin system in the core
 - some plugins to build a file list :
-  - a `template`{.backtick} plugin that knows how to build a filelist using the MANIFEST.in templating system
+  - a `template` plugin that knows how to build a filelist using the MANIFEST.in templating system
 
-  - a `default`{.backtick} plugin that uses the `template`{.backtick}plugin and do extra things (to provide what Distutils provides today)
+  - a `default` plugin that uses the `template`plugin and do extra things (to provide what Distutils provides today)
 
-  - a `static`{.backtick} plugin, that points to a MANIFEST static file
+  - a `static` plugin, that points to a MANIFEST static file
 - a new manifest metadata
 
 ### plugin system 
@@ -67,19 +67,19 @@ Some functions are added in Distutils, in a module called plugins:
 - list_plugins(group=None, doc=False): returns a list of all objects for the given group.
 - list_groups(): return a list of all groups
 
-The filelist module implements a `default`{.backtick} plugin, in the `distutils:filelist`{.backtick} group, that contains the current Distutils algorithm that builds the MANIFEST file:
+The filelist module implements a `default` plugin, in the `distutils:filelist` group, that contains the current Distutils algorithm that builds the MANIFEST file:
 
         >>> register_plugin('distutils:filelist', 'default',
         ...                 distutils.filelist.FileList)
 
-Distutils is refactored in order to use this plugin. For instance the `default`{.backtick} plugin is the `FileList`{.backtick} class. It\'s used by the `sdist`{.backtick} command for example.
+Distutils is refactored in order to use this plugin. For instance the `default` plugin is the `FileList` class. It\'s used by the `sdist` command for example.
 
-The `default`{.backtick} plugin uses another plugin called `template`{.backtick}, that uses the MANIFEST.in templating system:
+The `default` plugin uses another plugin called `template`, that uses the MANIFEST.in templating system:
 
         >>> register_plugin('distutils:filelist', 'template',
         ...                 distutils.filelist.ManifestTemplate)
 
-Another plugin is also provided, called `static`{.backtick}:
+Another plugin is also provided, called `static`:
 
         >>> register_plugin('distutils:filelist', 'static',
                             distutils.filelist.StaticFile)
@@ -101,27 +101,27 @@ Without parameters, list_plugins() returns all objects.
 
 ### How a plugin is called and used ? 
 
-A plugin is called with a in-out argument called `filelist`{.backtick}, an optional `root_path`{.backtick} argument and a list of keywords:
+A plugin is called with a in-out argument called `filelist`, an optional `root_path` argument and a list of keywords:
 
         >>> get_plugin('distutils:filelist', 'default')(filelist, root_path='/somewhere')
 
-If `root_path`{.backtick} is None, the plugin might want to use the current working directory to start his scanning work.
+If `root_path` is None, the plugin might want to use the current working directory to start his scanning work.
 
-In `sdist`{.backtick}, the plugin is called with the current working directory and all options passed to `sdist`{.backtick}.
+In `sdist`, the plugin is called with the current working directory and all options passed to `sdist`.
 
 ### How to choose one or several plugin 
 
-`sdist`{.backtick} will have a new option, called `manifest`{.backtick}, this option is a list of plugin names. If not given, \[\'default\'\] is used by default.
+`sdist` will have a new option, called `manifest`, this option is a list of plugin names. If not given, \[\'default\'\] is used by default.
 
 Someone that wants to use another plugin will simply add it in the list:
 
         >>> setup(name='foo', manifest=['hg'])
 
-He might also want to use several plugins. For instance, build a file list with the `hg`{.backtick} plugin, then exclude some files with the `template`{.backtick} plugin:
+He might also want to use several plugins. For instance, build a file list with the `hg` plugin, then exclude some files with the `template` plugin:
 
         >>> setup(name='foo', manifest=['hg', 'template'])
 
-The `sdist`{.backtick} command will loop over all plugins to build the file list using this simple code::
+The `sdist` command will loop over all plugins to build the file list using this simple code::
 
         >>> def get_filelist():
         ...    filelist = []
@@ -134,10 +134,10 @@ Each plugin is able to add or remove a file from the file list.
 
 ### the manifest metadata 
 
-The manifest metadata already exists in a sense. It\'s not in PKG-INFO itself, but lands into the `.egg-info`{.backtick} directory once it\'s built.
+The manifest metadata already exists in a sense. It\'s not in PKG-INFO itself, but lands into the `.egg-info` directory once it\'s built.
 
-A new display option will allow people to get it without having to call `sdist`{.backtick} or `egg_info`{.backtick}, exactly like `--long-description`{.backtick} provides:
+A new display option will allow people to get it without having to call `sdist` or `egg_info`, exactly like `--long-description` provides:
 
         $ python setup.py --manifest
 
-This will call the `get_filelist()`{.backtick} function and display its result in the standard output.
+This will call the `get_filelist()` function and display its result in the standard output.

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Using a translation of Qt 
 
-On the `#pyqt`{.backtick} channel on [freenode](http://freenode.net), `Fisiu`{.backtick} asked about getting localized versions of the Qt dialogs.
+On the `#pyqt` channel on [freenode](http://freenode.net), `Fisiu` asked about getting localized versions of the Qt dialogs.
 
 :::: 
 ::: 

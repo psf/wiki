@@ -14,7 +14,7 @@ NOTE: The source code of Jython is now mirrored to [Github](http://github.com/jy
 
 - Check out a copy of the Jython source with [Mercurial](http://mercurial.selenic.com/), available on most \*nix systems or with Cygwin on Windows.
 
-- You can use the command line tool `hg`{.backtick}, or [GUI clients are available](http://mercurial.selenic.com/wiki/OtherTools#Graphical_user_interfaces) on most platforms.
+- You can use the command line tool `hg`, or [GUI clients are available](http://mercurial.selenic.com/wiki/OtherTools#Graphical_user_interfaces) on most platforms.
 
 - [NetBeans](./NetBeans.html), Eclipse and other Java IDEs also integrate Mercurial support. Eclipse users should see [JythonDeveloperGuide/EclipseNotes](JythonDeveloperGuide/EclipseNotes).
 
@@ -60,26 +60,26 @@ These notes should help:
 
 - Eclipse users, see [Eclipse Ant notes](./JythonDeveloperGuide(2f)EclipseNotes.html#ANT)
 
-- Download the latest version (Jython requires Ant 1.7 or later to build) and install it so Ant\'s `bin`{.backtick} directory is somewhere in your path.
+- Download the latest version (Jython requires Ant 1.7 or later to build) and install it so Ant\'s `bin` directory is somewhere in your path.
 
-- To build Jython, run `ant`{.backtick} in the top-level Jython directory (which contains the Ant file `build.xml`{.backtick}).
+- To build Jython, run `ant` in the top-level Jython directory (which contains the Ant file `build.xml`).
 
-- The results of the build appear in the `dist`{.backtick} subdirectory.
+- The results of the build appear in the `dist` subdirectory.
 
 ## Tests 
 
-The Jython build process generates an executable Bash script, `dist/bin/jython`{.backtick}, to make it easy to launch your build of Jython. It works on Unix-like platforms (including Mac OS X and Cygwin).
+The Jython build process generates an executable Bash script, `dist/bin/jython`, to make it easy to launch your build of Jython. It works on Unix-like platforms (including Mac OS X and Cygwin).
 
-If you\'re using Windows without Cygwin, use the batch file `dist/bin/jython.bat`{.backtick} instead.
+If you\'re using Windows without Cygwin, use the batch file `dist/bin/jython.bat` instead.
 
 Now you\'re ready to run tests\...
 
 - There are a couple different places to find test cases
-  - Jython\'s `dist/Lib/test`{.backtick} (populated by the build process)
+  - Jython\'s `dist/Lib/test` (populated by the build process)
 
-  - Jython\'s `bugtests`{.backtick} subdirectory (included with the development sources)
+  - Jython\'s `bugtests` subdirectory (included with the development sources)
 
-- Run a particular test, or the whole Python test suite with `ant regrtest`{.backtick}.
+- Run a particular test, or the whole Python test suite with `ant regrtest`.
 
 See [TestingJython](TestingJython) for some more details.
 
@@ -87,29 +87,29 @@ See [TestingJython](TestingJython) for some more details.
 
 Note the following describes the current trunk/jython. If you are working from an older tag, src doesn\'t exist and src/com and src/org are moved up a level.
 
-- `src/org`{.backtick} : top level package for python
+- `src/org` : top level package for python
 
-- `src/com`{.backtick} : zxJDBC related sources
+- `src/com` : zxJDBC related sources
 
-- `src/shell`{.backtick} : launcher scripts
+- `src/shell` : launcher scripts
 
-- `src/templates`{.backtick}: java source generator & related templates, used to update portions of java classes elsewhere in the source tree
+- `src/templates`: java source generator & related templates, used to update portions of java classes elsewhere in the source tree
 
-- `Demo`{.backtick} : demo sources for the website and such
+- `Demo` : demo sources for the website and such
 
-- `Doc`{.backtick} : the website documentation (see [JythonDeveloperGuide/WebsiteBuilderSetup](./JythonDeveloperGuide(2f)WebsiteBuilderSetup.html) to build the [http://jython.org](http://jython.org) website)
+- `Doc` : the website documentation (see [JythonDeveloperGuide/WebsiteBuilderSetup](./JythonDeveloperGuide(2f)WebsiteBuilderSetup.html) to build the [http://jython.org](http://jython.org) website)
 
-- `Lib`{.backtick} : the python source files for Jython standard library implementations
+- `Lib` : the python source files for Jython standard library implementations
 
-- `Lib/test`{.backtick} : test cases
+- `Lib/test` : test cases
 
-- `Misc`{.backtick} : random scripts which are not all used; some generate source
+- `Misc` : random scripts which are not all used; some generate source
 
-- `Tools`{.backtick} : JythonC and Freeze
+- `Tools` : JythonC and Freeze
 
-- `lib-python/<version>`{.backtick} : Lib directory from the corresponding version of cpython
+- `lib-python/<version>` : Lib directory from the corresponding version of cpython
 
-- `bugtests`{.backtick} : additional test cases covering bug reports
+- `bugtests` : additional test cases covering bug reports
 
 ## Coding guidance 
 
@@ -133,7 +133,7 @@ Note the following describes the current trunk/jython. If you are working from a
 
 - [JythonDeveloperGuide/AttributeLookupMethods](JythonDeveloperGuide/AttributeLookupMethods) : Some explanation for the different methods to lookup attributes on [PyObject](./PyObject.html).
 
-- [JythonDeveloperGuide/ImplementingStrAndRepr](JythonDeveloperGuide/ImplementingStrAndRepr) : Tips for implementation of `__str__`{.backtick} and `__unicode__`{.backtick} in Java.
+- [JythonDeveloperGuide/ImplementingStrAndRepr](JythonDeveloperGuide/ImplementingStrAndRepr) : Tips for implementation of `__str__` and `__unicode__` in Java.
 
 - [IntegerConversion](../internals/IntegerConversion) : Basics of converting [PyObject](./PyObject.html) numbers to Java primitives
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## EuroPython2007 Sprints 
 
-Add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2007/MySprint`{.backtick}.
+Add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2007/MySprint`.
 
 | Group/Topic | Approx. number of people | Pre/Post EP | Room (see \"Sprint locations\" below) |
 |---|---|---|---|

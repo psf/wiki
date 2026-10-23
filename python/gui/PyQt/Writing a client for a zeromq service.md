@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Writing a client for a zeromq service 
 
-On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `Nils^`{.backtick} asked for a way to write a GUI client for a [zeromq](http://www.zeromq.org) service, using the [Python bindings](http://www.zeromq.org/bindings:python).
+On the `#pyqt` channel on [Freenode](http://freenode.net), `Nils^` asked for a way to write a GUI client for a [zeromq](http://www.zeromq.org) service, using the [Python bindings](http://www.zeromq.org/bindings:python).
 
 We decided to try using a worker thread to monitor the socket that connects the client to the server, emitting a signal whenever new data is received.
 

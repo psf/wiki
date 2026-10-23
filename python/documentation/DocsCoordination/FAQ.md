@@ -14,9 +14,9 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   [https://github.com/python/cpython](https://github.com/python/cpython) and [https://github.com/sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx)
 
-  The sphinx repository appears to be the current project with `doctools`{.backtick} directory contains all the toolset that\'s been written so far (moved there from the docutils berlios SVN).
+  The sphinx repository appears to be the current project with `doctools` directory contains all the toolset that\'s been written so far (moved there from the docutils berlios SVN).
 
-  The Python directory contains the source code of Python and has a subdirectory called `Doc/`{.backtick}, in which the reST sources lie. The README there tells you how to build the docs.
+  The Python directory contains the source code of Python and has a subdirectory called `Doc/`, in which the reST sources lie. The README there tells you how to build the docs.
 
 **What time commitment is necessary?**
 
@@ -32,7 +32,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - While a mailing list is a very nice thing to have, sometimes a Wiki page is better suited to coordinating a task. For now, we have the subhierarchy of the Python wiki here \-- if this is found impractical, we\'ll have to think about some other solution. As a bug tracker, we\'ll use SF for now, and the new bugs.python.org tracker as soon as it goes live. There will be a new category \"doctools\" in the latter, so that content and toolset bugs can be separated.
 
-  There is also an IRC channel `#python-docs`{.backtick} at `irc.freenode.net`{.backtick}. I (Georg) will be there most of the time, so short questions can be settled there as well with private email; everyone is welcome to join and idle there.
+  There is also an IRC channel `#python-docs` at `irc.freenode.net`. I (Georg) will be there most of the time, so short questions can be settled there as well with private email; everyone is welcome to join and idle there.
 
   Finally, for those who don\'t like IRC for direct contact, my Jabber address is [gbrandl@pocoo.org](mailto:gbrandl@pocoo.org).
 

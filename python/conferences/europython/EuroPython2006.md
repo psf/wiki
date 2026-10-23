@@ -38,7 +38,7 @@ The following information is retained for reference.
 
 ### Sprints 
 
-Add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2006/MySprint`{.backtick}.
+Add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2006/MySprint`.
 
 | Group/Topic | Approx. number of people | Pre/Post EP | Room (see \"Sprint locations\" below) |
 |---|---|---|---|

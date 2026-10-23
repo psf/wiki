@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### Use with statement to manage locks 
 
-Starting in Python 2.5, the `with`{.backtick} statement is a far easier way to manage locks:
+Starting in Python 2.5, the `with` statement is a far easier way to manage locks:
 
 :::: 
 ::: 

@@ -16,12 +16,12 @@ My email: Spam is largely out of control on the internet. Sometimes I check emai
 
 #37: Actually check that download checksum: Most people I know, even most programmer, have never actually checked that checksum that is published with a download (for example: [https://code.google.com/p/pyodbc/downloads/detail?name=pyodbc-3.0.7.win-amd64-py2.7.exe](https://code.google.com/p/pyodbc/downloads/detail?name=pyodbc-3.0.7.win-amd64-py2.7.exe)). That\'s perhaps understandable, as its not immediately apparent how you would do this. Most programmers can find a way if they want to (like Google some tool), but have you ever actually done it? If you have Python installed, you\'ve got a major power tool at your disposal.
 
-Assuming I have the file `pyodbc-3.0.7.win-amd64-py2.7.exe`{.backtick} sitting in the local directory, start the interactive python interpreter in that directory:
+Assuming I have the file `pyodbc-3.0.7.win-amd64-py2.7.exe` sitting in the local directory, start the interactive python interpreter in that directory:
 
     >>> import hashlib
     >>> hashlib.sha1(open('pyodbc-3.0.7.win-amd64-py2.7.exe', 'rb').read()).hexdigest()
 
-Should print out: `cc409b505428091e446316d87701d423eb984e8f`{.backtick}
+Should print out: `cc409b505428091e446316d87701d423eb984e8f`
 
 (NB: 2016-Oct-02 The link above used to go to a page that had a link for the file and showed the checksum you should be getting. It looks like the structure of that page has changed such that the link goes directly to the file. I\'m not seeing the published hash now.)
 
@@ -75,7 +75,7 @@ It\'s not a convincing argument that something is wrong with Python. Python wasn
 
 It is, however, a compelling argument not to store your Python source in PDFs. Leading white space in Python is significant - you can\'t get around that. If you\'ve lost all your source formatting, I would say that\'s a problem whether your source still compiles and executes properly or not. (Other languages will have a slight advantage in this situation, but now you are confined to only running the code. If you intend to read, understand, maintain and/or develop the recovered source, you\'re going to have to reformat it anyway. [PrettyPrinters](./PrettyPrinters.html), formatting options of Eclipse and so on can help, but these are generally less than ideal.)
 
-Using this `.vimrc`{.backtick} (or `_vimrc`{.backtick} on Windows), except for writing this, I\'ve hardly thought about this indentation issue for over a decade:
+Using this `.vimrc` (or `_vimrc` on Windows), except for writing this, I\'ve hardly thought about this indentation issue for over a decade:
 
     set tabstop:4
     set shiftwidth:4
@@ -87,11 +87,11 @@ Using this `.vimrc`{.backtick} (or `_vimrc`{.backtick} on Windows), except for w
 
 Some other vim tricks/settings I don\'t want to lose track of:
 
-- `cd %:p:h`{.backtick} Make it so you can edit files in cwd w/ `:e filename`{.backtick}
+- `cd %:p:h` Make it so you can edit files in cwd w/ `:e filename`
 
-- `/pattern\c`{.backtick} Case insensitve search
+- `/pattern\c` Case insensitve search
 
-  - see also `:set smartcase`{.backtick} [http://stackoverflow.com/questions/2287440/how-to-do-case-insensitive-search-in-vim](http://stackoverflow.com/questions/2287440/how-to-do-case-insensitive-search-in-vim)
+  - see also `:set smartcase` [http://stackoverflow.com/questions/2287440/how-to-do-case-insensitive-search-in-vim](http://stackoverflow.com/questions/2287440/how-to-do-case-insensitive-search-in-vim)
 
 - [http://vim.wikia.com/wiki/Count_number_of_matches_of_a_pattern](http://vim.wikia.com/wiki/Count_number_of_matches_of_a_pattern)
 
@@ -99,7 +99,7 @@ Some other vim tricks/settings I don\'t want to lose track of:
 
 - [http://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-vim-command-line](http://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-vim-command-line)
 
-- problem: You open a file but the line endings are all jacked up (e.g., you see a bunch of `^M`{.backtick} embedded in your file). You can check what fileformat (ff) mode you are in with: `:set ff?`{.backtick} You can re-edit the file, telling it what mode you want to be in. For example, Mac uses CR (\^M) only, but you are opening files by default in dos mode.
+- problem: You open a file but the line endings are all jacked up (e.g., you see a bunch of `^M` embedded in your file). You can check what fileformat (ff) mode you are in with: `:set ff?` You can re-edit the file, telling it what mode you want to be in. For example, Mac uses CR (\^M) only, but you are opening files by default in dos mode.
 
 <!-- -->
 

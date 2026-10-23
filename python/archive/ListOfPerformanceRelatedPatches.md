@@ -28,7 +28,7 @@ Addressed:
 
 - [\[ 1145039](http://www.python.org/sf/1145039) \] Remove some invariant conditions and assert in ceval TP
 
-- [\[ 1442927](http://www.python.org/sf/1442927) \] `PyLong_FromString`{.backtick} optimization
+- [\[ 1442927](http://www.python.org/sf/1442927) \] `PyLong_FromString` optimization
 
 - [\[ 1335972](http://www.python.org/sf/1335972) \] combo speedup and bugfix for string-\>int conversion
 

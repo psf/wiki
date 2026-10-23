@@ -12,7 +12,7 @@ jythonc doesn\'t handle generators and is difficult to debug and improve. The cu
 - statically compile proxy classes for Python classes that extend Java classes
 - remove code from core that is only there to support jythonc
 
-The annotation goes on any method in a Python class that needs to be visible from Java and `__init__`{.backtick} for the constructor. Given the following annotated Python class
+The annotation goes on any method in a Python class that needs to be visible from Java and `__init__` for the constructor. Given the following annotated Python class
 
 :::: 
 ::: 

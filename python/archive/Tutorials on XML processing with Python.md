@@ -18,7 +18,7 @@ Dive into Python 3, chapter on XML processing: [https://www.cmi.ac.in/\~madhavan
 
 ## DOM/SAX: 
 
-*Start here if you need to maintain existing DOM/SAX code that uses the `xml.dom`{.backtick} and `xml.sax`{.backtick} packages, or want to process XML using these packages*
+*Start here if you need to maintain existing DOM/SAX code that uses the `xml.dom` and `xml.sax` packages, or want to process XML using these packages*
 
 **Note**: some of these also describe the use of PyXML, which is an outdated XML package that is no longer maintained and should not be used in new code.
 

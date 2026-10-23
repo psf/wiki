@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Movie splash screen 
 
-On the `#pyqt`{.backtick} channel on freenode, iTayb asked if it was possible to show a movie instead of a static image in a splash screen.
+On the `#pyqt` channel on freenode, iTayb asked if it was possible to show a movie instead of a static image in a splash screen.
 
 The following code shows one way to do this, but it is implemented slightly differently to the way you might expect. Ideally, the drawContents() method of the QSplashScreen class would be reimplemented. However, this does not seem to get called, so we reimplement the paintEvent() method instead. This means that we can\'t use the showMessage() method to update the information in the splash screen.
 

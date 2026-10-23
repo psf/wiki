@@ -69,7 +69,7 @@ Only people who don\'t know how C pointer arithmatic works will get unexpected r
 
 From: [mwilson@the-wire.com](mailto:mwilson@the-wire.com) (Mel Wilson)
 
-One effect of weak typing is to put more reliance on operators. In Perl, for instance the string operator `lt`{.backtick} does a string compare to find that \"10\" is less than 2 (lexically) and the numeric operator `<`{.backtick} finds that \"10\" is not less than 2 (numerically). Nothing to do with pointers at all.
+One effect of weak typing is to put more reliance on operators. In Perl, for instance the string operator `lt` does a string compare to find that \"10\" is less than 2 (lexically) and the numeric operator `<` finds that \"10\" is not less than 2 (numerically). Nothing to do with pointers at all.
 
 ## Definition based on reinterpretation 
 

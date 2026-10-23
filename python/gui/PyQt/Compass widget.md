@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Compass widget 
 
-On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `epifanio`{.backtick} was creating a compass widget. Although he eventually decided to use Graphics View for this, the following code could be used as the starting point for a simple custom widget with a custom signal and a property for controlling the angle.
+On the `#pyqt` channel on [Freenode](http://freenode.net), `epifanio` was creating a compass widget. Although he eventually decided to use Graphics View for this, the following code could be used as the starting point for a simple custom widget with a custom signal and a property for controlling the angle.
 
 ![compasswidget.png](attachments/PyQt(2f)Compass(20)widget/compasswidget.png "compasswidget.png")
 

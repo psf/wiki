@@ -13,7 +13,7 @@ Frequently Rejected Ideas is a collection of ideas discussed and rejected multip
 
   - [http://mail.python.org/pipermail/python-dev/2011-August/112764.html](http://mail.python.org/pipermail/python-dev/2011-August/112764.html)
 
-- Deprecate `str`{.backtick} methods
+- Deprecate `str` methods
 
   - [http://mail.python.org/pipermail/python-dev/2011-September/113488.html](http://mail.python.org/pipermail/python-dev/2011-September/113488.html)
 

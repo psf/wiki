@@ -38,7 +38,7 @@ Agenda:
 
   - [https://github.com/pypa/pip/pull/9040](https://github.com/pypa/pip/pull/9040) - Bernard, backtracking error message
 
-    - run `nox -s lint`{.backtick} locally to print the error message locally and then fix things up
+    - run `nox -s lint` locally to print the error message locally and then fix things up
 
     - TODO: help Bernard grab Sumana\'s commit \-- DONE
       - [https://github.com/pypa/pip/commit/e6acca646abcaaac7515da9b964d5b5291264142](https://github.com/pypa/pip/commit/e6acca646abcaaac7515da9b964d5b5291264142)

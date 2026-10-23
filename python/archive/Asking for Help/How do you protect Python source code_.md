@@ -20,9 +20,9 @@ It is, however, assumed that the questioner would like to hide their code from t
 
 ### Use Compiled Bytecode 
 
-Python produces `.pyc`{.backtick} files when programs are run for imported modules. This bytecode is not trivially understandable by most developers, and supplying only the bytecode might be sufficient in deterring modification of the code, but there are ways to \"decompile\" the bytecode and recover a human-readable program. The [decompyle](http://sourceforge.net/projects/decompyle/) program is probably the best known tool for this task.
+Python produces `.pyc` files when programs are run for imported modules. This bytecode is not trivially understandable by most developers, and supplying only the bytecode might be sufficient in deterring modification of the code, but there are ways to \"decompile\" the bytecode and recover a human-readable program. The [decompyle](http://sourceforge.net/projects/decompyle/) program is probably the best known tool for this task.
 
-Note that `.pyc`{.backtick} files are not portable between different versions of Python.
+Note that `.pyc` files are not portable between different versions of Python.
 
 ### Executable Creators (or Installers) 
 

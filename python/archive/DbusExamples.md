@@ -26,7 +26,7 @@ There are multiple Python bindings for DBus:
 
 See also: [DBusBindings](https://www.freedesktop.org/wiki/Software/DBusBindings/#python) on Freedesktop wiki.
 
-The `dbus-viewer`{.backtick} and `qdbusviewer`{.backtick} programs let you browse through the services and interfaces available on your system.
+The `dbus-viewer` and `qdbusviewer` programs let you browse through the services and interfaces available on your system.
 
 ## pydbus
 

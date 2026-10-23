@@ -36,7 +36,7 @@ This page contains links to some useful code snippets. Longer, more detailed cod
 
 - [Binding widget properties to Python variables](Binding%20widget%20properties%20to%20Python%20variables): Using Python\'s property system to access Qt properties and bind them to variables.
 
-- [Making non-clickable widgets clickable](Making%20non-clickable%20widgets%20clickable): How to misuse event filters to add `clicked()`{.backtick} signals to widgets.
+- [Making non-clickable widgets clickable](Making%20non-clickable%20widgets%20clickable): How to misuse event filters to add `clicked()` signals to widgets.
 
 - [Undo and redo with line edits](Undo%20and%20redo%20with%20line%20edits): An incomplete example showing basic undo/redo handling.
 

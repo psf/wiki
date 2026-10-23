@@ -64,7 +64,7 @@ Notes:
 
 - Any function added to a class whose initial argument matches the class (or any base) will act like a member function in Python.
 
-- To define a nested class, just place class\_\<\> builder inside another class `scope`{.backtick}:
+- To define a nested class, just place class\_\<\> builder inside another class `scope`:
 
       BOOST_PYTHON_MODULE(nested_ext)
       {

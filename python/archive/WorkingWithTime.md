@@ -74,7 +74,7 @@ To account for both common inputs, you could use:
 
 I seem to require receiving both while working with [XmlRpc](../networking/XmlRpc) produced by a mix of both Python and Perl code. The [XmlRpc](../networking/XmlRpc) specification is not very particular about the ISO8601 variant used for it\'s DateTime.
 
-Note that this method does not handle time zones, so trying to parse `2004-06-03T12:34:56-0700`{.backtick} or `2004-06-03T12:34:56Z`{.backtick} will fail. This is a fundamental limitation of `time.strptime`{.backtick} for which there is no easy workaround.
+Note that this method does not handle time zones, so trying to parse `2004-06-03T12:34:56-0700` or `2004-06-03T12:34:56Z` will fail. This is a fundamental limitation of `time.strptime` for which there is no easy workaround.
 
 ### Parsing ISO 8601 with xml.utils.iso8601 
 
@@ -96,7 +96,7 @@ If you have `xml.utils.iso8601`, you can do the following:
 :::
 ::::
 
-The module isn\'t perfect; If you omit the dashes, (perfectly valid ISO8601,) you\'ll get a `ValueError` exception. However, unlike `time.strptime`{.backtick}, `xml.utils.iso8601.parse`{.backtick} will handle the timezone specification correctly.
+The module isn\'t perfect; If you omit the dashes, (perfectly valid ISO8601,) you\'ll get a `ValueError` exception. However, unlike `time.strptime`, `xml.utils.iso8601.parse` will handle the timezone specification correctly.
 
 xml.utils is distributed in *python-xml* in debian and ubuntu, but appears to be unmaintained.
 

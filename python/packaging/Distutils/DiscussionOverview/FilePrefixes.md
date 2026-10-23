@@ -16,11 +16,11 @@ It is not possible to retrieve the installation paths of data, or other, files f
 
 The RECORD file is a CSV file, composed of records, one line per prefix. The csv module is used to read the file, with these options:
 
-- field delimiter : `,`{.backtick}
+- field delimiter : `,`
 
-- quoting char : `"`{.backtick}
+- quoting char : `"`
 
-- line terminator : `os.linesep`{.backtick} (so `\r\n`{.backtick} or `\n`{.backtick})
+- line terminator : `os.linesep` (so `\r\n` or `\n`)
 
 Each record is composed of two elements:
 
@@ -28,29 +28,29 @@ Each record is composed of two elements:
 
   - Prefix identifiers differentiate between the various prefixes used within the installation process.
 
-    Valid identifiers must adhere to the regular expression `^[a-z_]+`{.backtick}, i.e any combination of lowercase ASCII characters and the underscore.
+    Valid identifiers must adhere to the regular expression `^[a-z_]+`, i.e any combination of lowercase ASCII characters and the underscore.
 
 - **path**
 
   - The path for the prefix identifier for this distribution.
 
-    A `/`{.backtick} seperated path will be used regardless of the target system. The path definition can be either absolute or prefixed with one of the identifiers defined below. An absolute path is only used if the installation location is not relative to sys.prefix (\$base) or sys.exec_prefix (\$platbase).
+    A `/` seperated path will be used regardless of the target system. The path definition can be either absolute or prefixed with one of the identifiers defined below. An absolute path is only used if the installation location is not relative to sys.prefix (\$base) or sys.exec_prefix (\$platbase).
 
 #### Identifiers 
 
 The list of standard identifiers comprises:
 
-- `$base`{.backtick} - Base prefix
+- `$base` - Base prefix
 
-- `$platbase`{.backtick} - Platform specific base prefix
+- `$platbase` - Platform specific base prefix
 
-- `$purelib`{.backtick} - Pure Python distribution
+- `$purelib` - Pure Python distribution
 
-- `$platlib`{.backtick} - Non-pure Python distribution (i.e one with extensions)
+- `$platlib` - Non-pure Python distribution (i.e one with extensions)
 
-- `$scripts`{.backtick} - Executable Python scripts
+- `$scripts` - Executable Python scripts
 
-- `$data`{.backtick} - Data files
+- `$data` - Data files
 
 #### Example 
 
@@ -119,7 +119,7 @@ Tables summarising the default values on different operating systems:
 
 ### API 
 
-The Distribution class will get a new attribute `prefixes`{.backtick} which holds a dictionary mapping prefix identifiers to their absolute paths.
+The Distribution class will get a new attribute `prefixes` which holds a dictionary mapping prefix identifiers to their absolute paths.
 
 Usage example:
 

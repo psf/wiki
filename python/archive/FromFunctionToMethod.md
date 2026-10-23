@@ -12,7 +12,7 @@ Bruno Desthuilliers / John Posner
 
 Python newcomers often have hard time understanding the \"magic\" behind Python\'s methods. And the truth is that Python\'s object model can be a bit peculiar when compared to most mainstream (or not-so-mainstream) object-oriented programming languages. (There are quite a few threads on c.l.py with either direct or indirect questions about what makes a Python method.)
 
-Here\'s a brief \-- but hopefully helpful \-- overview of what exactly *is* a Python method, showing how Python magically inserts `self`{.backtick} or `cls`{.backtick} into the argument list of a method call.
+Here\'s a brief \-- but hopefully helpful \-- overview of what exactly *is* a Python method, showing how Python magically inserts `self` or `cls` into the argument list of a method call.
 
 ### From Function \... 
 
@@ -25,11 +25,11 @@ The **def** statement *always* yields a function object. Always. If you don\'t b
     print type(Foo.bar)               # <type 'instancemethod'>
     print type(Foo.__dict__['bar'])   # <type 'function'>
 
-So, why is it that `type(Foo.bar)`{.backtick} is not the same as `type(Foo.__dict__['bar'])`{.backtick}? The answer is: attribute lookup rules and the descriptor protocol.
+So, why is it that `type(Foo.bar)` is not the same as `type(Foo.__dict__['bar'])`? The answer is: attribute lookup rules and the descriptor protocol.
 
 ### \... To Method, via the Descriptor Protocol 
 
-The descriptor protocol specifies that during an attribute lookup, if a name resolves to a class attribute *and* this attribute has a `__get__`{.backtick} method, then this `__get__`{.backtick} method is called. The argument list to this call includes either:
+The descriptor protocol specifies that during an attribute lookup, if a name resolves to a class attribute *and* this attribute has a `__get__` method, then this `__get__` method is called. The argument list to this call includes either:
 
 - the instance and the class itself, or
 
@@ -37,7 +37,7 @@ The descriptor protocol specifies that during an attribute lookup, if a name res
 
 The return value of this call becomes the result of the attribute lookup. This mechanism is what provides support for computed attributes.
 
-The **function** type implements this descriptor protocol. So when a function is an attribute of a class object and you access it as an attribute of the class itself, its `__get__`{.backtick} method is called with **None** and the class as arguments. When you access it as an attribute of an instance of the class, its `__get__`{.backtick} method is called with the instance and the class as arguments.
+The **function** type implements this descriptor protocol. So when a function is an attribute of a class object and you access it as an attribute of the class itself, its `__get__` method is called with **None** and the class as arguments. When you access it as an attribute of an instance of the class, its `__get__` method is called with the instance and the class as arguments.
 
 With the instance object (if any) and class object available, it\'s easy to create a method object that wraps the function object. This is itself a callable object; calling it mostly injects the instance as the first item in the argument list and returns the result of calling the wrapped function object.
 

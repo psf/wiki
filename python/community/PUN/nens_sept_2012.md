@@ -16,23 +16,23 @@ See also [http://lanyrd.com/2012/dutch-python-meeting/](http://lanyrd.com/2012/d
 
 ### Presentations 
 
-- `30 min -`{.backtick} How 2Style4You uses Pyramid (and more Python), Wichert Akkerman
+- `30 min -` How 2Style4You uses Pyramid (and more Python), Wichert Akkerman
 
-- ` 5 min -`{.backtick} Disco - Guido Kollerie
+- ` 5 min -` Disco - Guido Kollerie
 
-- ` 5 min -`{.backtick} [(Really) naive data mining](https://speakerdeck.com/u/joelcox/p/really-naive-data-mining), Joël Cox
+- ` 5 min -` [(Really) naive data mining](https://speakerdeck.com/u/joelcox/p/really-naive-data-mining), Joël Cox
 
-- ` 5 min -`{.backtick} \"Requests\" library for easy json api access + testing dikes, [ReinoutVanRees](../../archive/ReinoutVanRees)
+- ` 5 min -` \"Requests\" library for easy json api access + testing dikes, [ReinoutVanRees](../../archive/ReinoutVanRees)
 
 - break
 
-- `30 min -`{.backtick}[MongoEngine+Relational+Privileges (on Pyramid!)](http://github.com/ProgressiveCompany)([prezi slides](http://prezi.com/_hx6kdevlxab/mongoengine-relational-privileges-goodness/)), Marcel van den Elst
+- `30 min -`[MongoEngine+Relational+Privileges (on Pyramid!)](http://github.com/ProgressiveCompany)([prezi slides](http://prezi.com/_hx6kdevlxab/mongoengine-relational-privileges-goodness/)), Marcel van den Elst
 
-- ` 5 min -`{.backtick} Python for those little throwaway scripts (that you end up not throwing away), Tikitu de Jager
+- ` 5 min -` Python for those little throwaway scripts (that you end up not throwing away), Tikitu de Jager
 
-- ` 5 min -`{.backtick} Some stuff I did at Hacker School, and why you should apply, Pepijn de Vos
+- ` 5 min -` Some stuff I did at Hacker School, and why you should apply, Pepijn de Vos
 
-- ` 5 min -`{.backtick} [Shell pearls (not to be confused with Perl shells)](http://www.slideshare.net/sshanx/shell-pearls-not-perl-shells-pun-21092012) ([cheatsheet](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)), [Remco Wendt](https://twitter.com/sshanx) - [Maykin Media](http://www.maykinmedia.nl/)
+- ` 5 min -` [Shell pearls (not to be confused with Perl shells)](http://www.slideshare.net/sshanx/shell-pearls-not-perl-shells-pun-21092012) ([cheatsheet](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)), [Remco Wendt](https://twitter.com/sshanx) - [Maykin Media](http://www.maykinmedia.nl/)
 
 ## Confirmed 
 

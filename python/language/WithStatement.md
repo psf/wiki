@@ -163,7 +163,7 @@ I think it may be useful because WITH statement would be often used like ` with
 
 ## Flow Control macros 
 
-I was very impressed with this and associated PEPs (340, 346, etc), but sorely disappointed when it was decided to remove the looping capabilities from the `with`{.backtick} statement. Having read Raymond Chen\'s linked rant about flow control macros, I felt I had to point out some of the differences between the flow control macros he was (quite rightly) complaining about, and those proposed here.
+I was very impressed with this and associated PEPs (340, 346, etc), but sorely disappointed when it was decided to remove the looping capabilities from the `with` statement. Having read Raymond Chen\'s linked rant about flow control macros, I felt I had to point out some of the differences between the flow control macros he was (quite rightly) complaining about, and those proposed here.
 
 A block statement (`def, class, for, if, etc`) in Python (or most other languages) means \"start at the top of this block, run through it X times, let control flow off the end\". For if statements, X is 0 or 1, for defs and classes it\'s 0 (but the code is given a name for later) and for loops it\'s anything. Constructs that can \"jump\", such as break, continue, and return, break this reasoning, so it\'s important that you can see them clearly, and that they\'re not hidden behind macros (this is the gist of Raymond Chen\'s piece).
 

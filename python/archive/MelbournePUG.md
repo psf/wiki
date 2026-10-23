@@ -611,7 +611,7 @@ Monday, 7 September 2015, 6:00pm **at *Inspire 9: Level 1, 41 Stewart Street, Ri
 
 - Tyson Clugg - Selenium Page Adapter: [https://github.com/tysonclugg/selenium-page-adapter](https://github.com/tysonclugg/selenium-page-adapter)
 
-- Ed Schofield - Towards solving the Python 2/3 split with the `past`{.backtick} package: when backward compatibility is more important than forward compatibility, and how Python 3.x can run Python 2.x code automatically
+- Ed Schofield - Towards solving the Python 2/3 split with the `past` package: when backward compatibility is more important than forward compatibility, and how Python 3.x can run Python 2.x code automatically
 
 August meeting - Cancelled for Pycon AU: Monday, 3 August 2015: no meeting
 

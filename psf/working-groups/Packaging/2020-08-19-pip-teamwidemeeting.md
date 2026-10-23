@@ -33,7 +33,7 @@ Agenda:
       - TODO: Pradyun to opt in to RTD beta. Nicole to ask Jan if this is enough. If not, we will fall back to Matomo.
 
   - FYI, we are going to add an email link to the pip docs for collecting user feedback. See \# Ernest - can we have a PYPA email for this?
-    - GA: We have `pip-research@simplysecure.org`{.backtick} or we could make a group on pypa.io, e.g. `ux@pypa.io`{.backtick} or `.org`{.backtick} ?
+    - GA: We have `pip-research@simplysecure.org` or we could make a group on pypa.io, e.g. `ux@pypa.io` or `.org` ?
 
     - TODO: Sumana to ping Ernest about this
 
@@ -81,11 +81,11 @@ Agenda:
 
 - [https://github.com/pypa/pip/issues/8664](https://github.com/pypa/pip/issues/8664) New resolver: What performance is acceptable, and are we there yet? #8664
 
-  - Pradyun: I think this is closely tied to [https://github.com/pypa/pip/issues/8380](https://github.com/pypa/pip/issues/8380) (`ResolutionTooDeep`{.backtick} error).
+  - Pradyun: I think this is closely tied to [https://github.com/pypa/pip/issues/8380](https://github.com/pypa/pip/issues/8380) (`ResolutionTooDeep` error).
 
   - Pradyun: I will be posting more thoughts in a comment on #8664 (what performance is acceptable) issue \-- not done yet. ![:(](/wiki/europython/img/sad.png ":(")
 
-    - `ResolutiontooDeep`{.backtick} happens when pip is trying multiple options because of conflicts. Ths is closely tied to being perceived as too slow. The heuristic we need to figure out to determine when we are taking too long will inform the error message, and vice versa: feedback from users on when pip is too slow will help us set the threshold. We are not 100% sure of how to determine the threshhold for too-slow perf or trying too many options and being slow.
+    - `ResolutiontooDeep` happens when pip is trying multiple options because of conflicts. Ths is closely tied to being perceived as too slow. The heuristic we need to figure out to determine when we are taking too long will inform the error message, and vice versa: feedback from users on when pip is too slow will help us set the threshold. We are not 100% sure of how to determine the threshhold for too-slow perf or trying too many options and being slow.
 
   - Bernard has a question: Is this connected to the number of iterations the resolver goes thru resolutions? Previously (from memory!) it was set to a \"low\" (hundred?) number, it was then set high (millions?).
     - Was 100, is 2,000,000 now. [https://github.com/pypa/pip/pull/8275](https://github.com/pypa/pip/pull/8275)

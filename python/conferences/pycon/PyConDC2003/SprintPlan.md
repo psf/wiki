@@ -54,7 +54,7 @@ See also the section \"Sprinting Explained\" at the bottom of this page: [http:/
 
 - Improve the byte code optimizer. Several new transformations can be added after checking for basic blocks and if the jump targets can be fixed up when the total number of bytes changes. Also, the line numbering has to be kept intact during the transformations.
 
-- Speedup list comprehensions by pre-allocating blocks of 100 list elements, writing using `PyList_SET_ITEM`{.backtick}, and adjusting the total size at the end of the comprehension.
+- Speedup list comprehensions by pre-allocating blocks of 100 list elements, writing using `PyList_SET_ITEM`, and adjusting the total size at the end of the comprehension.
 
 - Update, pare-down, and clean-up Demo and Tools/Scripts
 

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## EuroPython 2019 Sprints 
 
-Please add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2019/MySprint`{.backtick}.
+Please add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2019/MySprint`.
 
 | Group/Topic | Approx. number of people | Room (see \"Sprint locations\" below) | Contact |
 |---|---|---|---|

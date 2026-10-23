@@ -30,9 +30,9 @@ Any thoughts on how to overcome ?
 
 Some questions:
 
-- Is your interactive session using the same locale as the code which uses `os.listdir`{.backtick}?
+- Is your interactive session using the same locale as the code which uses `os.listdir`?
 
-- Have you tried using `os.listdir`{.backtick} in the interactive session and capturing the filename directly? For example:
+- Have you tried using `os.listdir` in the interactive session and capturing the filename directly? For example:
 
   :::: 
   ::: 
@@ -44,7 +44,7 @@ Some questions:
   :::
   ::::
 
-In my console, doing `'Olá Mundo'.decode('latin-1')`{.backtick} gives `u'Ol\xe1 Mundo'`{.backtick}, but then my locale looks like this:
+In my console, doing `'Olá Mundo'.decode('latin-1')` gives `u'Ol\xe1 Mundo'`, but then my locale looks like this:
 
 :::: 
 ::: 
@@ -58,7 +58,7 @@ In my console, doing `'Olá Mundo'.decode('latin-1')`{.backtick} gives `u'Ol\xe
 :::
 ::::
 
-The `latin-1`{.backtick} encoding is virtually the same as this one. Maybe you should see which locale you\'re using. \-- [PaulBoddie](../../people/PaulBoddie) 2011-11-13 17:16:11
+The `latin-1` encoding is virtually the same as this one. Maybe you should see which locale you\'re using. \-- [PaulBoddie](../../people/PaulBoddie) 2011-11-13 17:16:11
 
 ::: note
 When *answering* questions, add the [CategoryAskingForHelpAnswered](CategoryAskingForHelpAnswered) category when saving the page. This will move the link to this page from the questions section to the answers section on the [Asking for Help]() page.

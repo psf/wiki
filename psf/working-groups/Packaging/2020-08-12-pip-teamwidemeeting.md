@@ -68,7 +68,7 @@ Agenda:
   - request to advertise it as widely as possible
     - We need to get more people to sign up for the UX Studies panel (instead of sending out this particular survey to everyone)\... more organized and structured approach.
 
-    - In general, in wide-ranging publicity, let\'s get people to sign up for the panel. In a few limited circumstances, we will direct specific audiences to specific surveys, e.g., in `ResolutionImpossible`{.backtick} error message. But that will be the exception.
+    - In general, in wide-ranging publicity, let\'s get people to sign up for the panel. In a few limited circumstances, we will direct specific audiences to specific surveys, e.g., in `ResolutionImpossible` error message. But that will be the exception.
 
   - Sumana: want to write the script for the video over the next few days (ideating right now, thanks for the inputs)
 

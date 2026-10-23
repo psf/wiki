@@ -22,7 +22,7 @@ Agenda
 
   - Pradyun: Yesterday, worked though surveys + project board. Wants help deciding order to do things in. Prioritization.
 
-  - Georgia: No particular blockers. TODO: give Ernest a tweet. And: `ResolutionImpossible`{.backtick} error, backtracking message, clarifying what\'s needed.
+  - Georgia: No particular blockers. TODO: give Ernest a tweet. And: `ResolutionImpossible` error, backtracking message, clarifying what\'s needed.
 
   - Bernard: no real blockers. We have been getting more signups for UX Studies panel, and 20+ signups for \"who uses pip?\"
 

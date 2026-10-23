@@ -64,7 +64,7 @@ Data files shipped within a distribution are not further classified. This makes 
 
 ## Change the default installation scheme 
 
-Distribute packaged distributions get installed into paths that are typically under the aegis of the system\'s package manager. I propose to change the default installation scheme to the (PEP 370) `--user`{.backtick} one.
+Distribute packaged distributions get installed into paths that are typically under the aegis of the system\'s package manager. I propose to change the default installation scheme to the (PEP 370) `--user` one.
 
 **Discussion**: [Distutils/DiscussionOverview/DefaultInstallScheme](./Distutils(2f)DiscussionOverview(2f)DefaultInstallScheme.html)
 
@@ -74,7 +74,7 @@ Distribute packaged distributions get installed into paths that are typically un
 
 ## User defined prefix identifiers 
 
-It could be advantageous to provide a method to define arbitrary installation prefixes. This would enable users to split a package into `foo`{.backtick} and `foo-plugin`{.backtick} while still being able to install the data files shipped with `foo-plugin`{.backtick} into the correct location.
+It could be advantageous to provide a method to define arbitrary installation prefixes. This would enable users to split a package into `foo` and `foo-plugin` while still being able to install the data files shipped with `foo-plugin` into the correct location.
 
 **Discussion**: [Distutils/DiscussionOverview/UserPrefixes](./Distutils(2f)DiscussionOverview(2f)UserPrefixes.html)
 

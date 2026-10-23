@@ -12,9 +12,9 @@ the peanut gallery: \"Who is doing the SSL support?\"
 
 Some of the developers update their [task lists](https://jython.basecamphq.com/login) online. Anonymous login is as follows:
 
-- user: `jythonbasecampguest`{.backtick}
+- user: `jythonbasecampguest`
 
-- password: `jythonguest`{.backtick}
+- password: `jythonguest`
 
 If you\'d like to have a personal account, please [request one](mailto:jython@extreme.st).
 

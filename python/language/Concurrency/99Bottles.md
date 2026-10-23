@@ -27,7 +27,7 @@ Implement
     #!/bin/sh
     tail -f /var/log/system.log |grep pants
 
-in concurrent Python. On unix, you can send syslog messages via `logger`{.backtick}; filenames may vary.
+in concurrent Python. On unix, you can send syslog messages via `logger`; filenames may vary.
 
 ### Errata 
 
@@ -460,7 +460,7 @@ Greenlets are similar to coroutines.
 
 #### pprocess
 
-This example needs pprocess 0.5. The activity functions are similar to the generator (and other) solutions, and the differences lie in the use of the `multigrep`{.backtick} function, which is invoked to provide `grep`{.backtick} functionality for each pattern in a separate process, and in the way the `multigrep`{.backtick} function itself follows several files using the `multifollow`{.backtick} callable (the `follow`{.backtick} function invoked in a separate process). A channel is used in the `follow`{.backtick} function to communicate new lines which are then consumed via a queue in the `grep`{.backtick} function, which in turn communicates matching lines via a channel which are then consumed by the `printer`{.backtick} function.
+This example needs pprocess 0.5. The activity functions are similar to the generator (and other) solutions, and the differences lie in the use of the `multigrep` function, which is invoked to provide `grep` functionality for each pattern in a separate process, and in the way the `multigrep` function itself follows several files using the `multifollow` callable (the `follow` function invoked in a separate process). A channel is used in the `follow` function to communicate new lines which are then consumed via a queue in the `grep` function, which in turn communicates matching lines via a channel which are then consumed by the `printer` function.
 
 :::: 
 ::: 

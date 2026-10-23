@@ -26,7 +26,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - 2003-03-07 - update from cvs should have fixed [RecentChanges](RecentChanges) problems for anon users; installing PyXML should have fixed any RSS problems
 
-- 2003-02-13 - update to rev 1.168, which especially means backups on editor submits for people having a homepage, and spam protection via the `MailTo`{.backtick} macro
+- 2003-02-13 - update to rev 1.168, which especially means backups on editor submits for people having a homepage, and spam protection via the `MailTo` macro
 
 - 2003-02-07 - update to CVS head
 
@@ -38,11 +38,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
   - Friday the 13th lived up to the promise\... several bugs fixed
 
-  - linksThatStartWithLowerCase are not links anymore, thus boost.python/InternalDataStructures stopped to work; but [boost.python/InternalDataStructures](../implementations/boost.python/InternalDataStructures) works, and on the [boost.python](../implementations/boost.python) page, `/InternalDataStructures`{.backtick} works too (i.e. use the short form of subpage links).
+  - linksThatStartWithLowerCase are not links anymore, thus boost.python/InternalDataStructures stopped to work; but [boost.python/InternalDataStructures](../implementations/boost.python/InternalDataStructures) works, and on the [boost.python](../implementations/boost.python) page, `/InternalDataStructures` works too (i.e. use the short form of subpage links).
 
 - 2002-11-21 - updated to CVS current (rev 1.163)
 
-- 2002-11-06 - You can now refer to PEPs like so: **`PEP:0001`{.backtick}** -\> [0001](http://www.python.org/dev/peps/pep-0001 "PEP")
+- 2002-11-06 - You can now refer to PEPs like so: **`PEP:0001`** -\> [0001](http://www.python.org/dev/peps/pep-0001 "PEP")
 
 - 2002-08-02 - Outgoing mail works now
 

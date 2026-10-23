@@ -156,7 +156,7 @@ Who\'s available & interested in being on podcasts in April?
 
   - Not urgent - defense in depth - nice to have but we can wait until Pyramid supports it
 
-should Warehouse guard against people uploading broken-description wheels made with an old version of `wheel`{.backtick}? [https://github.com/pypa/warehouse/issues/3084](https://github.com/pypa/warehouse/issues/3084)
+should Warehouse guard against people uploading broken-description wheels made with an old version of `wheel`? [https://github.com/pypa/warehouse/issues/3084](https://github.com/pypa/warehouse/issues/3084)
 
 - Sumana asks: want Twine to check for this? How urgent? Doesn\'t feel like MOSS work
 - Not twine\'s job, not in scope of MOSS, not a priority, but a nice-to-have

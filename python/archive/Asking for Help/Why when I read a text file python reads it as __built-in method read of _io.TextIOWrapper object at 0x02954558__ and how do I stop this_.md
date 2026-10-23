@@ -25,7 +25,7 @@ and when I ran it on Idle it printed: \<built-in method read of \_io.TextIOWrapp
 
 ------------------------------------------------------------------------
 
-You have to actually call the `read`{.backtick} method as follows:
+You have to actually call the `read` method as follows:
 
 :::: 
 ::: 
@@ -35,9 +35,9 @@ a = f.read()
 :::
 ::::
 
-The brackets are important because they tell Python to actually *call* the method, and this produces the content of the file to be assigned to `a`{.backtick}. If you don\'t have the brackets, all you are doing is obtaining the `read`{.backtick} method and assigning it to `a`{.backtick}. Thus, when you print `a`{.backtick} you see a piece of text describing the method (which is what `<built-in method read of _io.TextIOWrapper object at 0x02954558>`{.backtick} means) instead of the content of the file.
+The brackets are important because they tell Python to actually *call* the method, and this produces the content of the file to be assigned to `a`. If you don\'t have the brackets, all you are doing is obtaining the `read` method and assigning it to `a`. Thus, when you print `a` you see a piece of text describing the method (which is what `<built-in method read of _io.TextIOWrapper object at 0x02954558>` means) instead of the content of the file.
 
-So the point to remember is this: referring to the method (like with `f.read`{.backtick}) just lets you obtain the method, but if you want to call the method, you have to add brackets. The following also works:
+So the point to remember is this: referring to the method (like with `f.read`) just lets you obtain the method, but if you want to call the method, you have to add brackets. The following also works:
 
 :::: 
 ::: 

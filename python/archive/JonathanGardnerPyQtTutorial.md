@@ -150,7 +150,7 @@ chmod 700 myscript and you\'re set !
 
 Let\'s set a default value for the QDateTimeEdit widget. The QDateTimeEdit widget expects a QDateTime for an argument to the setDateTime method, so we\'ll have to create one. But how to set the time of the QDateTime? Examination of the documentation reveals that the setTime_t method will allow us to set the date with the time in seconds from the Unix epoch. We can get that from the time() function in the built-in time module.
 
-Here\'s the code that does that. We\'ll put this in the `__init__`{.backtick} method so that it gets populated correctly from the beginnin. Remember to import time!
+Here\'s the code that does that. We\'ll put this in the `__init__` method so that it gets populated correctly from the beginnin. Remember to import time!
 
 -         # Set the date to now
               now = QDateTime()

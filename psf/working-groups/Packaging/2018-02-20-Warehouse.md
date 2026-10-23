@@ -78,7 +78,7 @@ Sumana:
 
 - Currently milestone 4 (launch). Need to coordinate with: who? Packaging guide, twine, who else? And should we do this earlier, during the beta, to shake bugs out?
 
-- Ernest: Problem is client support, we\'ve already changed the URL once\... with much confusion/frustration. Making `/v0`{.backtick} an alias to `/legacy`{.backtick} seems fine though (also trivial)
+- Ernest: Problem is client support, we\'ve already changed the URL once\... with much confusion/frustration. Making `/v0` an alias to `/legacy` seems fine though (also trivial)
 
 - Dustin: Personally, I don\'t think we should do this
 

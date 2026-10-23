@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Painting an overlay on an image 
 
-On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `hugo___`{.backtick} asked for a way to paint an overlay onto an image.
+On the `#pyqt` channel on [Freenode](http://freenode.net), `hugo___` asked for a way to paint an overlay onto an image.
 
 The following code reads two images, painting the second onto the first using a QPainter instance. QPainter allows various painting operations to be performed, and can apply transformations to a group of operations, making it quite easy to produce more complex overlays.
 

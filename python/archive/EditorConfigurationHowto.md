@@ -12,7 +12,7 @@ See also [HowToEditPythonCode](../guides/HowToEditPythonCode) for concrete examp
 
 ## Indentation 
 
-Python uses indentation to group statements. A well-designed mode should offer support for smart indentation of code. For example, a line beginning with the keyword `def`{.backtick} and ending with `:`{.backtick} should cause the editor to indent the following line upon hitting of the return key.
+Python uses indentation to group statements. A well-designed mode should offer support for smart indentation of code. For example, a line beginning with the keyword `def` and ending with `:` should cause the editor to indent the following line upon hitting of the return key.
 
 The most widely used standard is four-space indent. Using tabs is discouraged, so the editor should be configured to convert tabs to spaces.
 
@@ -20,9 +20,9 @@ Code examples or references on how to deal with indentation should follow.
 
 ## Strings 
 
-Python supports three types of string literals. Strings can be enclosed in single quotes (`'`{.backtick}), double quotes (`"`{.backtick}) and in groups of three single or double quotes (referred to as triple-quoted strings). A well-designed mode should support all three types. In particular, a mode should correctly recognize that triple-quoted strings can include unescaped newlines and quotes.
+Python supports three types of string literals. Strings can be enclosed in single quotes (`'`), double quotes (`"`) and in groups of three single or double quotes (referred to as triple-quoted strings). A well-designed mode should support all three types. In particular, a mode should correctly recognize that triple-quoted strings can include unescaped newlines and quotes.
 
-Python allows for raw strings without \\-escape sequences (written with a preceding r: `r"c:\dir1\dir2"`{.backtick}). A well-designed mode should support this feature as well.
+Python allows for raw strings without \\-escape sequences (written with a preceding r: `r"c:\dir1\dir2"`). A well-designed mode should support this feature as well.
 
 ## EditorConfig 
 

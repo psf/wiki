@@ -596,4 +596,4 @@ How can I fix it?
 
 ------------------------------------------------------------------------
 
-You probably need to install the `python-dev`{.backtick} or `python-devel`{.backtick} package for your system. For example, on Debian the [python2.7-dev](http://packages.debian.org/wheezy/python2.7-dev) package provides the `/usr/lib/python2.7/config`{.backtick} directory (amongst [other things](http://packages.debian.org/wheezy/i386/python2.7-dev/filelist)), and will itself be installed if you install the `python-dev`{.backtick} package in this case. \-- [PaulBoddie](../people/PaulBoddie) 2013-12-01 23:13:20
+You probably need to install the `python-dev` or `python-devel` package for your system. For example, on Debian the [python2.7-dev](http://packages.debian.org/wheezy/python2.7-dev) package provides the `/usr/lib/python2.7/config` directory (amongst [other things](http://packages.debian.org/wheezy/i386/python2.7-dev/filelist)), and will itself be installed if you install the `python-dev` package in this case. \-- [PaulBoddie](../people/PaulBoddie) 2013-12-01 23:13:20

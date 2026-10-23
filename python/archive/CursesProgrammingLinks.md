@@ -16,4 +16,4 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - [urwid](http://excess.org/urwid/) Python/curses widget/interface library
 
-- [tput/raw_sample.py](http://bitbucket.org/jimd/trite-snippets/src/tip/tput/raw_sample.py) (Example of using Python curses for `tput`{.backtick} like functions)
+- [tput/raw_sample.py](http://bitbucket.org/jimd/trite-snippets/src/tip/tput/raw_sample.py) (Example of using Python curses for `tput` like functions)

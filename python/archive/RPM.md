@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 RPM is a package format used by Fedora, Red Hat and some other Linux distributions. So if you want to make your package available there, you need to know how to create RPMs.
 
-Before Python 3 there was a `bdist_rpm`{.backtick} command, which had gone in `packaging`{.backtick} (Distutils2). If you\'re interested to know - ask Tarek (and don\'t forget to update the info here). Now there are two packages to help make .rpm out of Python package (setup.py?):
+Before Python 3 there was a `bdist_rpm` command, which had gone in `packaging` (Distutils2). If you\'re interested to know - ask Tarek (and don\'t forget to update the info here). Now there are two packages to help make .rpm out of Python package (setup.py?):
 
 - Tarek\'s [pypi2rpm](https://bitbucket.org/tarek/pypi2rpm) - aims at providing the same features and much more
 

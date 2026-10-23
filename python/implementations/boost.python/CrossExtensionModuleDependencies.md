@@ -16,7 +16,7 @@ There are three basic dynamic linking models; I\'ll call these
   Explicit - explicitly marked symbols are shared across the link boundary.
   - This is what Windows compilers do with DLLs
 
-    using `__declspec(dllexport)/__declspec(dllimport)`{.backtick}. Although the explicit model is technically available on many Unices, it\'s usually very cumbersome and requires special support from scripts outside the compiler.
+    using `__declspec(dllexport)/__declspec(dllimport)`. Although the explicit model is technically available on many Unices, it\'s usually very cumbersome and requires special support from scripts outside the compiler.
 
   Insular - This is the model used for plugins where no symbols are shared.
   - Instead, you open the shared library explicitly and get (function) pointers to the symbols you\'re looking for. Python uses this model to open extension modules, so that extension module writers don\'t need to know what symbols other extension modules might be using.

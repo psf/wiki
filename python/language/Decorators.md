@@ -74,7 +74,7 @@ See also [PythonDecoratorLibrary](../archive/PythonDecoratorLibrary). And apart 
 
 ## \_\_main\_\_ 
 
-This decorator does not alter a function, but causes it to be executed if `__name__ == '__main__'`{.backtick}. This provides an experimental cleaner syntax to the traditional way of bootstrapping a python script. This should not be used on class methods.
+This decorator does not alter a function, but causes it to be executed if `__name__ == '__main__'`. This provides an experimental cleaner syntax to the traditional way of bootstrapping a python script. This should not be used on class methods.
 
 The function gets a copied list of sys.argv arguments.
 

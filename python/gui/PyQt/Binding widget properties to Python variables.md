@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Binding widget properties to Python variables 
 
-On the Freenode `#pyqt`{.backtick} channel, \'xh\' asked if there was a way to bind widget properties to Python variables.
+On the Freenode `#pyqt` channel, \'xh\' asked if there was a way to bind widget properties to Python variables.
 
 The following code ([bindable.py](attachments/PyQt(2f)Binding(20)widget(20)properties(20)to(20)Python(20)variables/bindable.py)) is a quick hack to demonstrate one way of doing this:
 
@@ -32,9 +32,9 @@ The following code ([bindable.py](attachments/PyQt(2f)Binding(20)widget(20)prope
 :::
 ::::
 
-The `bind()`{.backtick} function performs the work of creating a Python property and associated getter and setter methods that queries an instance for the object with the specified name. The getter and setter methods retrieve the object\'s named property. The getter method reads its value and performs the appropriate type conversion; the setter method sets a new value for the property.
+The `bind()` function performs the work of creating a Python property and associated getter and setter methods that queries an instance for the object with the specified name. The getter and setter methods retrieve the object\'s named property. The getter method reads its value and performs the appropriate type conversion; the setter method sets a new value for the property.
 
-We could bind the variable using a PyQt property instead (with the `QtCore.pyqtProperty`{.backtick} object). This would also expose the property to other Qt objects.
+We could bind the variable using a PyQt property instead (with the `QtCore.pyqtProperty` object). This would also expose the property to other Qt objects.
 
 :::: 
 ::: 

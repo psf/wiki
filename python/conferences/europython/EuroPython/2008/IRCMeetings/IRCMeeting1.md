@@ -43,7 +43,7 @@ The meeting took place on Monday 28th January 2008 at 1900 CET in the #europytho
 
       - [PyCon](../../../../pycon/PyCon) UK used the [PyCon](../../../../pycon/PyCon)-Tech solution, which is available for use, but some expressed satisfaction with e-mail, cards and Wikis.
 
-- Paul will take up DNS matters with the parties holding the `europython.org`{.backtick} domain.
+- Paul will take up DNS matters with the parties holding the `europython.org` domain.
 
 - Sponsorship will be discussed in a subsequent meeting.
 

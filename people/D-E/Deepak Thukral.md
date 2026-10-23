@@ -6,7 +6,7 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-Deepak Thukral `aka`{.backtick} iapain
+Deepak Thukral `aka` iapain
 
 B-161-162 First Floor, Nehru Vihar (Timar Pur), New Delhi 110054, India
 

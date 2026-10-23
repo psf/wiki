@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Handling Qt\'s internal item MIME type 
 
-Normally, to perform drag and drop between two item views, the developer would create their own model, reimplementing the `mimeData()`{.backtick} method to return a custom MIME type and the `dropMimeData()`{.backtick} method to accept data with this MIME type. However, this seems like a lot of work, especially when the data comes from a standard model.
+Normally, to perform drag and drop between two item views, the developer would create their own model, reimplementing the `mimeData()` method to return a custom MIME type and the `dropMimeData()` method to accept data with this MIME type. However, this seems like a lot of work, especially when the data comes from a standard model.
 
-The following code implements a model that you can use for the view that accepts dropped data. The `decode_data()`{.backtick} method decodes `application/x-qabstractitemmodeldatalist`{.backtick} MIME type data supplied by a standard model. The reimplementation of the `dropMimeData()`{.backtick} method takes the decoded data and either adds a new item to the top level of a tree structure or increments a counter associated with each item.
+The following code implements a model that you can use for the view that accepts dropped data. The `decode_data()` method decodes `application/x-qabstractitemmodeldatalist` MIME type data supplied by a standard model. The reimplementation of the `dropMimeData()` method takes the decoded data and either adds a new item to the top level of a tree structure or increments a counter associated with each item.
 
-Qt\'s item views pass around items using the internal `application/x-qabstractitemmodeldatalist`{.backtick} MIME type (see the [Model Subclassing Reference](http://doc.trolltech.com/4.5/model-view-model-subclassing.html#mime-data) for more information about this type). For practical purposes, it may be useful to be able to unpack data sent in this format when implementing a drop handler for a custom model. The example shown in this document shows how this can be done in Python.
+Qt\'s item views pass around items using the internal `application/x-qabstractitemmodeldatalist` MIME type (see the [Model Subclassing Reference](http://doc.trolltech.com/4.5/model-view-model-subclassing.html#mime-data) for more information about this type). For practical purposes, it may be useful to be able to unpack data sent in this format when implementing a drop handler for a custom model. The example shown in this document shows how this can be done in Python.
 
 :::: 
 ::: 
@@ -30,7 +30,7 @@ Qt\'s item views pass around items using the internal `application/x-qabstractit
 :::
 ::::
 
-The start of the `dropMimeData()`{.backtick} method queries the MIME data for the format we recognise. If it can supply data in the internal MIME type used by Qt, we call a helper method to unpack it. The helper method will return a list of dictionaries corresponding to each of the items dropped onto the view. Each dictionary maps a role number to corresponding data for that role. We are interested in the text supplied in the display role.
+The start of the `dropMimeData()` method queries the MIME data for the format we recognise. If it can supply data in the internal MIME type used by Qt, we call a helper method to unpack it. The helper method will return a list of dictionaries corresponding to each of the items dropped onto the view. Each dictionary maps a role number to corresponding data for that role. We are interested in the text supplied in the display role.
 
 :::: 
 ::: 
@@ -64,9 +64,9 @@ The start of the `dropMimeData()`{.backtick} method queries the MIME data for th
 :::
 ::::
 
-The rest of this method just does what the requester wanted: it puts the names into the model with an associated number, starting at 1, or increments the number associated with existing items if they are already present in the model. Data not handled by us is passed to the base class\'s implementation of `dropMimeData()`{.backtick}.
+The rest of this method just does what the requester wanted: it puts the names into the model with an associated number, starting at 1, or increments the number associated with existing items if they are already present in the model. Data not handled by us is passed to the base class\'s implementation of `dropMimeData()`.
 
-The `decode_data()`{.backtick} method relies on the internal format used by Qt when sending items as MIME data. The byte array is opened using a data stream and unpacked using the information that it contains a sequence of items, each stored as a pair of row and column integers followed by a map of role integers to `QVariant`{.backtick} values. (See [Format of the QDataStream Operators](http://doc.trolltech.com/4.5/datastreamformat.html) for more information about how these are serialised by Qt.)
+The `decode_data()` method relies on the internal format used by Qt when sending items as MIME data. The byte array is opened using a data stream and unpacked using the information that it contains a sequence of items, each stored as a pair of row and column integers followed by a map of role integers to `QVariant` values. (See [Format of the QDataStream Operators](http://doc.trolltech.com/4.5/datastreamformat.html) for more information about how these are serialised by Qt.)
 
 :::: 
 ::: 

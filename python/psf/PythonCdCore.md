@@ -10,7 +10,7 @@ The [PythonCd](PythonCd) includes the Python distribution in several forms:
 
 ## Installable Python packages 
 
-In the top level directory of the CD is a directory `python/`{.backtick}, containing several packages of Python:
+In the top level directory of the CD is a directory `python/`, containing several packages of Python:
 
 - Python for Linux - most Linux distributions include Python, so we don\'t provide it for them
 - Python for Mac OS X

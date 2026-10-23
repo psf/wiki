@@ -59,7 +59,7 @@ For short cases where the number of strings to be joined is known, you can use s
 :::
 ::::
 
-This is much more efficient, but is also rather more limited in the range of circumstances to which it applies. It could be made more general by constructing the formatting string as a function of `len(string_list)`{.backtick}, but this would be a bit dubious, too. It\'s also less readible, less maintainible. A better alternative is found in the next section.
+This is much more efficient, but is also rather more limited in the range of circumstances to which it applies. It could be made more general by constructing the formatting string as a function of `len(string_list)`, but this would be a bit dubious, too. It\'s also less readible, less maintainible. A better alternative is found in the next section.
 
 #### The join method of strings 
 
@@ -76,7 +76,7 @@ The join method of the string type lets you perform the concatenation as follows
 
 This is quite efficient and perfectly general as it applies to any arbitrary list of strings. (You don\'t need to know the list length in advance.)
 
-The major thing to puzzle the newcomer here is why `"".join(some_list)`{.backtick} rather than `some_list.join()`{.backtick}. The way to think of this is that you are using the string \"\" to join the elements of some_list. Hence,
+The major thing to puzzle the newcomer here is why `"".join(some_list)` rather than `some_list.join()`. The way to think of this is that you are using the string \"\" to join the elements of some_list. Hence,
 
 :::: 
 ::: 
@@ -89,7 +89,7 @@ The major thing to puzzle the newcomer here is why `"".join(some_list)`{.backtic
 
 That said, some do consider this aspect of the join method of strings odd enough to count as a [PythonWart](./PythonWart.html).
 
-If the `''.join(some_list)`{.backtick} syntax really bothers you, one option is to bind the method to a different name, e.g.
+If the `''.join(some_list)` syntax really bothers you, one option is to bind the method to a different name, e.g.
 
 :::: 
 ::: 
@@ -145,7 +145,7 @@ Among the most common tasks in programming is to test if a condition obtains and
 
 ### The Problem 
 
-There is a slight speed of execution inefficiency in these examples. The first example has the overhead of an extra method lookup (`bool.__eq__`{.backtick}) and an extra name lookup (`True`{.backtick}). The second example has the overhead of an extra branch statement. The third example has the overhead of two extra method lookups (`somecontainer.__len__`{.backtick} and `int.__cmp__`{.backtick}).
+There is a slight speed of execution inefficiency in these examples. The first example has the overhead of an extra method lookup (`bool.__eq__`) and an extra name lookup (`True`). The second example has the overhead of an extra branch statement. The third example has the overhead of two extra method lookups (`somecontainer.__len__` and `int.__cmp__`).
 
 But much more important is the speed of entry and understanding inefficiency. All other things being equal, extra typing is evil. And, unless some substantial gain in clarity is purchased by the extra characters, the more characters in the code, the longer that code will take to understand. (The programming time you save could well be your own!)
 

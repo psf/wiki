@@ -46,7 +46,7 @@ Then I thought about creating a class and using it something like:
 :::
 ::::
 
-This is a bit better. I can also implement methods like **`setFactoryDefaults()`{.backtick}** and **`selectMenu()`{.backtick}** and I can have the [PhoneTest](./PhoneTest.html) class instantiate and contain a Phone object which abstracts some things (like the fact that accessing the menus on some models takes two keys rather than one key, and that the \"Enter\" key symbol is called \"OK\" on it, etc). (My function to send key sequences parses abstract common key notation into a dictionary of dictionaries keyed by each phone model and returning the real key symbols and sequences, it has to do things like press 2 three times for a letter \"c\" and detect if the next letter/digit is on the same button to pause for a full second to make the phone \"take\" that letter).
+This is a bit better. I can also implement methods like **`setFactoryDefaults()`** and **`selectMenu()`** and I can have the [PhoneTest](./PhoneTest.html) class instantiate and contain a Phone object which abstracts some things (like the fact that accessing the menus on some models takes two keys rather than one key, and that the \"Enter\" key symbol is called \"OK\" on it, etc). (My function to send key sequences parses abstract common key notation into a dictionary of dictionaries keyed by each phone model and returning the real key symbols and sequences, it has to do things like press 2 three times for a letter \"c\" and detect if the next letter/digit is on the same button to pause for a full second to make the phone \"take\" that letter).
 
 Obviously this exposes our responses and screen captures to Python\'s own conditional handling.
 
@@ -69,7 +69,7 @@ In this model, doing loops (adding 99 phone entries) is pretty easy:
 
 However, it\'s still not very good. Obviously I have to report all my results (text output for now, later posting to a MySQL database). I\'ll also need options for debugging and logging (shades of [AspectOrientedProgramming](./AspectOrientedProgramming.html)?). I suppose the [PhoneTest](./PhoneTest.html) object can also contain a reporting object to handle that abstractly.
 
-My main objection to this interface is that **all** the conditional logic is exposed. It seems silly to repeatedly type: `tst.key(...); if tst.screen(...) ...`{.backtick} and it clutters the flow of the test case. It\'s not data driven at all. Of course I can hide `tst.fail()`{.backtick}, and `tst.expect()`{.backtick} inside `tst.screen()`{.backtick}
+My main objection to this interface is that **all** the conditional logic is exposed. It seems silly to repeatedly type: `tst.key(...); if tst.screen(...) ...` and it clutters the flow of the test case. It\'s not data driven at all. Of course I can hide `tst.fail()`, and `tst.expect()` inside `tst.screen()`
 
 Then I\'m back to something more linear like:
 
@@ -98,9 +98,9 @@ Another problem is that some of these screens will have variable data embeded in
 
 Meanwhile this format looks almost like the first one, with *\<\<* and *\>\>* replaced by *tst.key()* and *tst.screen()* respectively. In other words for the simple case it\'s just more cluttered.
 
-A thought I had to address one of those issues involves building and maintaining a dictionary of screens for each phone model. Then in the the `tst.screen('XXX')`{.backtick} calls \'XXX\' becomes a key into the dictionary (or I just extend the `.screen`{.backtick} method to accept a string, a regex, **or** a key=\'keyName\' keyword argument).
+A thought I had to address one of those issues involves building and maintaining a dictionary of screens for each phone model. Then in the the `tst.screen('XXX')` calls \'XXX\' becomes a key into the dictionary (or I just extend the `.screen` method to accept a string, a regex, **or** a key=\'keyName\' keyword argument).
 
-If I use keyword arguments and since I usually need sequences of \"send this\" **and** \"expect that\" I might change things more by implementing a `.__call__()`{.backtick} methode which looks something like:
+If I use keyword arguments and since I usually need sequences of \"send this\" **and** \"expect that\" I might change things more by implementing a `.__call__()` methode which looks something like:
 
 :::: 
 ::: 
@@ -125,7 +125,7 @@ One of my objectives is to write a test harness that others will be using \-\-- 
 
 The other thing I don\'t like about this last speculative psuedo-code is that it\'s still too cluttered for the most common case. I don\'t see a way for tests to be more data driven and less entwined in the code.
 
-Another idea I\'ve been toying with is creating a mess of classes and subclasses. There\'s be a `TestCase`{.backtick} class with various descendents for different classes of tests; a `Phone`{.backtick} class with descendents for each model of phone, a `TestBaseException`{.backtick} and many descendents for each type of test failure. Each descendent of the `TestCase`{.backtick} would implement a `.run()`{.backtick} method and would `raise`{.backtick} exceptions from the `TestBaseException`{.backtick} family. I suppose that model would appeal to the OO purist in some way. However I\'m not seeing how I\'d actually instantiate and call the `.run()`{.backtick} methods of each of these subclasses.
+Another idea I\'ve been toying with is creating a mess of classes and subclasses. There\'s be a `TestCase` class with various descendents for different classes of tests; a `Phone` class with descendents for each model of phone, a `TestBaseException` and many descendents for each type of test failure. Each descendent of the `TestCase` would implement a `.run()` method and would `raise` exceptions from the `TestBaseException` family. I suppose that model would appeal to the OO purist in some way. However I\'m not seeing how I\'d actually instantiate and call the `.run()` methods of each of these subclasses.
 
 :::: 
 ::: 
@@ -158,9 +158,9 @@ I\'ve also thought of something like:
 :::
 ::::
 
-\... which looks reasonable. It doesn\'t completely hide the failures. At least it makes it obvious to a Python coder that these `tst`{.backtick} methods are expected to `raise`{.backtick} errors; and it lets me catch different subclasses of errors and handle them differently (with multiple `except`{.backtick} clauses ordered from most specific towards more general). That will be import, for example, since I will have pre-condition and setup methods and exceptions that should be raised and reported to the operator but should **not** be recorded as bugs to the developers; they are errors in the test harness or hardware set-up rather than bugs in the target of our testing.
+\... which looks reasonable. It doesn\'t completely hide the failures. At least it makes it obvious to a Python coder that these `tst` methods are expected to `raise` errors; and it lets me catch different subclasses of errors and handle them differently (with multiple `except` clauses ordered from most specific towards more general). That will be import, for example, since I will have pre-condition and setup methods and exceptions that should be raised and reported to the operator but should **not** be recorded as bugs to the developers; they are errors in the test harness or hardware set-up rather than bugs in the target of our testing.
 
-So, that\'s an overview of my thoughts. These are possible approaches. Of course I\'ve only just started. Meanwhile I will re-write my interactive shell script (probably using the [Cmd](http://docs.python.org/lib/module-cmd.html) class or something out of [IPython](http://ipython.scipy.org/)). I will create my core `TestCase`{.backtick} and `Phone`{.backtick} classes (along with `Feedback`{.backtick} and `Reporter`{.backtick} classes), and start creating tables of keys, menus and screens for each phone; and methods to load, access, compare, and manage them.
+So, that\'s an overview of my thoughts. These are possible approaches. Of course I\'ve only just started. Meanwhile I will re-write my interactive shell script (probably using the [Cmd](http://docs.python.org/lib/module-cmd.html) class or something out of [IPython](http://ipython.scipy.org/)). I will create my core `TestCase` and `Phone` classes (along with `Feedback` and `Reporter` classes), and start creating tables of keys, menus and screens for each phone; and methods to load, access, compare, and manage them.
 
 Unfortunately none of what I\'m coding here can be released to open source (grump) but I hope that the discussion will still be entertaining and maybe even a little enlighteing for all.
 

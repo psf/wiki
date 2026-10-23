@@ -30,11 +30,11 @@ Your operating system distribution may have software collections. Searching for 
 
 ### Outdated / inactive hosting sites for Python code 
 
-- *Useless Python* was a site for indiscriminate publishing of all bits of Python code you didn\'t think were *worth* publishing. Now inactive and web address (`www.uselesspython.com`{.backtick}) used to place ads.
+- *Useless Python* was a site for indiscriminate publishing of all bits of Python code you didn\'t think were *worth* publishing. Now inactive and web address (`www.uselesspython.com`) used to place ads.
 
 - *Vaults of Parnassus* - a former link store for Python modules. You had to host files elsewhere, but this was one of the oldest and largest lists of available Python code. Now non-existent.
 
-- *PyCode* - an older site where you could share modules. Site (`www.pycode.com`{.backtick}) now used for unrelated blogging.
+- *PyCode* - an older site where you could share modules. Site (`www.pycode.com`) now used for unrelated blogging.
 
 ------------------------------------------------------------------------
 

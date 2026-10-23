@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Showing a subset of a model in a view 
 
-On the `pyqt`{.backtick} channel on [freenode](http://www.freenode.net), `frankRojas`{.backtick} asked for a way to show child items from a tree view in a table view.
+On the `pyqt` channel on [freenode](http://www.freenode.net), `frankRojas` asked for a way to show child items from a tree view in a table view.
 
 This code uses the selection model of a tree view to discover when items are selected, then it creates a new model to contain the data for the children of the top-level item and displays it in the table view.
 

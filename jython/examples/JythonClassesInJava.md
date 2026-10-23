@@ -10,11 +10,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Magic fields for Jython objects 
 
-- `__class__`{.backtick}
+- `__class__`
 
-- `__methods__`{.backtick} This is a list of methods initially exposed by the class. This list can be modified by an instance.
+- `__methods__` This is a list of methods initially exposed by the class. This list can be modified by an instance.
 
-- `__members__`{.backtick} This is a list of attributes for a class. This list can be modified by an instance.
+- `__members__` This is a list of attributes for a class. This list can be modified by an instance.
 
 ## Hiding functionality from Jython 
 

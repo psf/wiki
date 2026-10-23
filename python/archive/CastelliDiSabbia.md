@@ -16,7 +16,7 @@ Modifica a tuo piacimento questa pagina, facendo tutti gli esperimenti che desid
 
 *corsivo* **grassetto** `spaziatura fissa`
 
-`altra notazione per spaziatura fissa`{.backtick} (configurabile)
+`altra notazione per spaziatura fissa` (configurabile)
 
     testo preformattato
 

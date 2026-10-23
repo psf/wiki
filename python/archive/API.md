@@ -17,6 +17,6 @@ A programmer should always write against interface (API), **not** against implem
     else:
         well_do_something_else
 
-instead of using `isinstance(obj, SomeSpecificClass)`{.backtick}. Effectively, this is applying idiom \"if it walks like a duck, quacks like a duck\...\" it\'s a duck alright. Controlling behaviour depending on class instance used is more like programming to implementation, whereas programming against \"signature\" is more like programming against interface.
+instead of using `isinstance(obj, SomeSpecificClass)`. Effectively, this is applying idiom \"if it walks like a duck, quacks like a duck\...\" it\'s a duck alright. Controlling behaviour depending on class instance used is more like programming to implementation, whereas programming against \"signature\" is more like programming against interface.
 
 An example of API can be found at [Voicent Simple Telephone Call API](../people/Voicent%20Simple%20Telephone%20Call%20API). The published class is used to encapsulate the implementation details.

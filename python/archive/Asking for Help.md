@@ -136,7 +136,7 @@ These questions will be moved to the [answered longer questions section](./Askin
   - Have you tried using the [pyParallel](http://pyserial.sourceforge.net/pyparallel.html) module? \-- [DavidBoddie](../people/DavidBoddie)
 
 - I was browsing the Python source code, trying to find out how str.strip() is implemented as a string method. I found string.py in the Lib directory, but that didn\'t seem to hold the answer. Could you please help me learn where to look?
-  - Take a look in the `Objects`{.backtick} directory for built-in types. The `stringobject.c`{.backtick} file contains the implementations of string methods, and the `string_strip`{.backtick} function should provide some details of the underlying functions used to provide the `strip`{.backtick} method\'s functionality.
+  - Take a look in the `Objects` directory for built-in types. The `stringobject.c` file contains the implementations of string methods, and the `string_strip` function should provide some details of the underlying functions used to provide the `strip` method\'s functionality.
 
 - How (aside from reading gobs and gobs of source code) can I find out the asymptotic time behaviour of various primitive Python operations? For example, for list xs, does xs.append(x) take amortized O(1) time or O(n) time?
   - Perhaps the [Time Complexity](../language/TimeComplexity) page might offer some indications. \-- [PaulBoddie](../people/PaulBoddie) 2011-03-26 23:34:53

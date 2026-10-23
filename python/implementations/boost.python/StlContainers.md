@@ -145,7 +145,7 @@ But it\'s only very basic functionality. Let\'s add some convinience.
 
 ### key in container 
 
-To use python construct `key in container` we need to implement `__contains__`{.backtick}:
+To use python construct `key in container` we need to implement `__contains__`:
 
 - for vector (list, queue)
 

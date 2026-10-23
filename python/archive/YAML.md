@@ -12,7 +12,7 @@ YAML is a human-friendly format for structured data, that is both easy to write 
 
 [PyYAML](http://pyyaml.org/) is the most-used and go-to YAML package, which tries to be as compliant as possible with the YAML specs. It is, at its core, C-based. It can both read and write YAML. You can read the [official documentation](https://pyyaml.org/wiki/PyYAMLDocumentation), or try the condensed/simplified version of these docs, with usable example code on this [Python YAML tutorial](https://python.land/data-processing/python-yaml).
 
-When using this package, be careful which function you use. The `load()`{.backtick} function is very powerful and allows arbitrary code execution, while the `safe_load()`{.backtick} function is enough for most use cases. It only allows a subset of the load function, making it a much safer choice. For more details, see also the [load deprecation notice](https://github.com/yaml/pyyaml/wiki/PyYAML-yaml.load(input)-Deprecation).
+When using this package, be careful which function you use. The `load()` function is very powerful and allows arbitrary code execution, while the `safe_load()` function is enough for most use cases. It only allows a subset of the load function, making it a much safer choice. For more details, see also the [load deprecation notice](https://github.com/yaml/pyyaml/wiki/PyYAML-yaml.load(input)-Deprecation).
 
 ### YAML examples and usage in notable Python apps 
 

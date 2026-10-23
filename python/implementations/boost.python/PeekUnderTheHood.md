@@ -30,7 +30,7 @@ Dave Abrahams explains:
 
     Because you didn\'t specify `class<boring, non_copyable, ...>`, a to-python converter for *boring* is registered which copies its argument into a value_holder held by the the Python *boring* object.
 
-    Because you didn\'t specify `class<boring ...>(no_init)`, an `_init_`{.backtick} function object is added to the class dictionary which default-constructs a *boring* in a value_holder (because you didn\'t specify some smart pointer or derived wrapper class as a holder) held by the Python *boring* object. register_class_from_python is used to register a from-python
+    Because you didn\'t specify `class<boring ...>(no_init)`, an `_init_` function object is added to the class dictionary which default-constructs a *boring* in a value_holder (because you didn\'t specify some smart pointer or derived wrapper class as a holder) held by the Python *boring* object. register_class_from_python is used to register a from-python
 
     converter for `shared_ptr<boring>`. boost::shared_ptrs are special among smart pointers because their *Deleter* argument can be made to manage the whole Python object, not just the C++ object it contains, no matter how the C++ object is held.
 

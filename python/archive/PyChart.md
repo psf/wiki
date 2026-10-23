@@ -49,6 +49,6 @@ Here\'s a quick example of using PyChart in a CGI script to dynamically create a
 :::
 ::::
 
-You could place a link to this CGI script directly in your html, like so: `<img src="cgi-bin/generate_plot.py">`{.backtick}. If you used the cgi module in the above script, you could parse URL-encoded values and generate an image based on what the browser asked for, say: `<img src="cgi-bin/generate_image.py?plot_type=disk_usage">`{.backtick}.
+You could place a link to this CGI script directly in your html, like so: `<img src="cgi-bin/generate_plot.py">`. If you used the cgi module in the above script, you could parse URL-encoded values and generate an image based on what the browser asked for, say: `<img src="cgi-bin/generate_image.py?plot_type=disk_usage">`.
 
 [http://home.gna.org/pychart/](http://home.gna.org/pychart/) (new)

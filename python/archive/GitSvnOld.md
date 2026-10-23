@@ -24,11 +24,11 @@ Python\'s source code currently maintained under the [Subversion](http://subvers
 
 \* Git has some nice tools for dealing with local branches (rebasing them, for example).
 
-\* Operations like `git diff`{.backtick} and `git log`{.backtick} are much faster than the Subversion equivalents.
+\* Operations like `git diff` and `git log` are much faster than the Subversion equivalents.
 
 ### Doing the initial checkout 
 
-Git\'s pack format is efficient but the entire VC history of Python still consumes a lot of space (currently around 90 MB). You could use `git-svn`{.backtick} to create a local repository (please don\'t do that) but it\'s much faster to use the native git protocol. To allow that, there are Git repositories on svn.python.org that are updated every hour. Changes since that time can be pulled using `git-svn`{.backtick}.
+Git\'s pack format is efficient but the entire VC history of Python still consumes a lot of space (currently around 90 MB). You could use `git-svn` to create a local repository (please don\'t do that) but it\'s much faster to use the native git protocol. To allow that, there are Git repositories on svn.python.org that are updated every hour. Changes since that time can be pulled using `git-svn`.
 
 Ensure that you have a recent Git (at least version 1.5.1). The following commands will initialize an empty repository::
 
@@ -45,27 +45,27 @@ Tell Git where the data can be fetched using the Git protocol. This is more effi
         git remote add git-svn git://code.python.org/python/trunk
         git config remote.git-svn.fetch refs/heads/master:refs/remotes/git-svn
 
-The following command populates the local repository (this will download approximately 90 MB of data from code.python.org). Note that you can use the `git clone`{.backtick} command to efficiently make local copies of the repository. To fetch that data into the local `git-svn`{.backtick} branch::
+The following command populates the local repository (this will download approximately 90 MB of data from code.python.org). Note that you can use the `git clone` command to efficiently make local copies of the repository. To fetch that data into the local `git-svn` branch::
 
         git fetch git-svn
 
-We don\'t do our development on the git-svn branch since that follows the head of the public Subversion repository. Our main development branch is called \'master\', athough we can create as many others as we like. Merge the changes from the `git-svn`{.backtick} branch into our development branch (normally you would first rebase your changes in master on top of git-svn but right now we don\'t have any)::
+We don\'t do our development on the git-svn branch since that follows the head of the public Subversion repository. Our main development branch is called \'master\', athough we can create as many others as we like. Merge the changes from the `git-svn` branch into our development branch (normally you would first rebase your changes in master on top of git-svn but right now we don\'t have any)::
 
          git pull git-svn master
 
-The local branch `master`{.backtick} and the remote branch `git-svn`{.backtick} now contain identical trees. Use `git-svn`{.backtick} to get up to the minute changes from the SVN server::
+The local branch `master` and the remote branch `git-svn` now contain identical trees. Use `git-svn` to get up to the minute changes from the SVN server::
 
         git svn fetch
 
-This should complete quickly because nearly all the data is already local and the `git-svn`{.backtick} command will merely go through the logs and extract the Subversion revision numbers.
+This should complete quickly because nearly all the data is already local and the `git-svn` command will merely go through the logs and extract the Subversion revision numbers.
 
 ### Keeping up-to-date 
 
-Using the `git svn fetch`{.backtick} command closely matches the behavior of the `svn update`{.backtick} command. It will fetch new versions from the Subversion repository and then rebase your local changes on top of them::
+Using the `git svn fetch` command closely matches the behavior of the `svn update` command. It will fetch new versions from the Subversion repository and then rebase your local changes on top of them::
 
         git svn fetch
 
-Note that this can be slow if your repository is far behind the Subversion repository. The most efficient method to update your local respository is to use the Git protocol before using `git svn`{.backtick}. To fetch new commits, run::
+Note that this can be slow if your repository is far behind the Subversion repository. The most efficient method to update your local respository is to use the Git protocol before using `git svn`. To fetch new commits, run::
 
         git fetch git-svn
 
@@ -73,15 +73,15 @@ If you have no local changes, you can do a fast-forward merge of upstream commit
 
         git merge git-svn
 
-However, if you have local changes then you probably want to use `rebase`{.backtick} as it more closely matches the behavior of `svn up`{.backtick}. This will essentially extract your changes as a series of patches and reapply them to the git-svn (i.e. most recent) version of the tree::
+However, if you have local changes then you probably want to use `rebase` as it more closely matches the behavior of `svn up`. This will essentially extract your changes as a series of patches and reapply them to the git-svn (i.e. most recent) version of the tree::
 
         git rebase git-svn
 
 ### Sharing work 
 
-Please refer to the [Git SVN tutorial](http://git.or.cz/course/svn.html) for general instructions on how to interact with a Subversion repository. The `git format-patch`{.backtick}, `git am`{.backtick} and `git apply`{.backtick} commands are very useful when dealing with patches.
+Please refer to the [Git SVN tutorial](http://git.or.cz/course/svn.html) for general instructions on how to interact with a Subversion repository. The `git format-patch`, `git am` and `git apply` commands are very useful when dealing with patches.
 
-If you have write access to the SVN repository then you can use `git svn dcommit`{.backtick} to push your local commits directly into the public SVN repository. Take extra care before using `dcommit`{.backtick}. It\'s a good idea to use `git log`{.backtick} or `gitk`{.backtick} to check what will be sent before actually running `dcommit`{.backtick}. Also note that your local copy must be up-to-date (e.g. via `git svn rebase`{.backtick}) for `dcommit`{.backtick} to work.
+If you have write access to the SVN repository then you can use `git svn dcommit` to push your local commits directly into the public SVN repository. Take extra care before using `dcommit`. It\'s a good idea to use `git log` or `gitk` to check what will be sent before actually running `dcommit`. Also note that your local copy must be up-to-date (e.g. via `git svn rebase`) for `dcommit` to work.
 
 ### Python 3 branch 
 

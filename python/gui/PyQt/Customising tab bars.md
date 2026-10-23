@@ -8,11 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Customising tab bars 
 
-On the `#pyqt`{.backtick} channel on Freenode, `felipe__`{.backtick} asked if it was possible to make the tabs in a QTabBar widget fill the available space.
+On the `#pyqt` channel on Freenode, `felipe__` asked if it was possible to make the tabs in a QTabBar widget fill the available space.
 
 There is a property to do this in Qt 4.5 ([http://doc.trolltech.com/4.5/qtabbar.html#expanding-prop](http://doc.trolltech.com/4.5/qtabbar.html#expanding-prop)), but earlier versions require some trickery.
 
-In the following example, we subclass QTabBar and reimplement `tabSizeHint()`{.backtick} to treat the last tab differently to the others, calculating the available space left by the other tabs and returning this value instead of the tab\'s normal size.
+In the following example, we subclass QTabBar and reimplement `tabSizeHint()` to treat the last tab differently to the others, calculating the available space left by the other tabs and returning this value instead of the tab\'s normal size.
 
 :::: 
 ::: 
@@ -62,7 +62,7 @@ In the following example, we subclass QTabBar and reimplement `tabSizeHint()`{.b
 :::
 ::::
 
-`felipe__`{.backtick} also asked if it was possible to just split the available space equally between all tabs.
+`felipe__` also asked if it was possible to just split the available space equally between all tabs.
 
 The following code does this, but does not take into account the space required to display the label of each tab. As a result, the tabs may not appear quite as you might wish.
 

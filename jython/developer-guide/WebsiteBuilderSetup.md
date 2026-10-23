@@ -17,19 +17,19 @@ Jython uses reStructuredText and a custom writer to build its site. This describ
           cd jysite
           python setup.py install
 
-3.  Check out the actual website code from `https://jython.svn.sourceforge.net/svnroot/jython/trunk/website`{.backtick}
+3.  Check out the actual website code from `https://jython.svn.sourceforge.net/svnroot/jython/trunk/website`
 
-4.  Make sure a Jython trunk checkout is available as `jython`{.backtick} at the same level as `website`{.backtick}.
+4.  Make sure a Jython trunk checkout is available as `jython` at the same level as `website`.
 
-Now you can build the site using Ant. Change into your checkout directory and run `ant`{.backtick} to build the site. The reStructuredText files that comprise most of the site are in the `Project`{.backtick} directory.
+Now you can build the site using Ant. Change into your checkout directory and run `ant` to build the site. The reStructuredText files that comprise most of the site are in the `Project` directory.
 
 To deploy the site:
 
-1.  Edit `build.xml`{.backtick} to change the `scp.user`{.backtick} property (if your name isn\'t Frank Wierzbicki).
+1.  Edit `build.xml` to change the `scp.user` property (if your name isn\'t Frank Wierzbicki).
 
-2.  Run `ant copy2sf`{.backtick} to build a tar.bz2 of the site and scp it to sourceforge
+2.  Run `ant copy2sf` to build a tar.bz2 of the site and scp it to sourceforge
 
-3.  `ssh shell.sourceforge.net`{.backtick}
+3.  `ssh shell.sourceforge.net`
 
 4.  Unpack the site
 
@@ -38,4 +38,4 @@ To deploy the site:
     cd /home/groups/j/jy/jython/htdocs
     tar xfj ../website.tar.bz2
 
-You\'ll want to have `umask 002`{.backtick} and `newgrp jython`{.backtick} in your .bash_login so the site is updatable by others as well.
+You\'ll want to have `umask 002` and `newgrp jython` in your .bash_login so the site is updatable by others as well.

@@ -59,7 +59,7 @@ My answer: In case someone reads this, the third example has got \"for\" loops i
 
 Answer from [PaulBoddie](../../people/PaulBoddie):
 
-- In the second example, you get generator objects because that is what a generator comprehension produces, and these generators must then be \"materialised\" (or consumed by something like `list`{.backtick} in order to get a list of objects).
+- In the second example, you get generator objects because that is what a generator comprehension produces, and these generators must then be \"materialised\" (or consumed by something like `list` in order to get a list of objects).
 
 - In the third example, you have to remember that the loops read from left to right, starting with the outermost loop and ending at the innermost. The way to think about this is to move the expression from the beginning to the end and then write the loops out as you normally would:
 
@@ -83,7 +83,7 @@ Answer from [PaulBoddie](../../people/PaulBoddie):
   :::
   ::::
 
-  Here, `...`{.backtick} refers to the operation which yields the results of the comprehension. Now, it should be obvious why `S`{.backtick} is not defined.
+  Here, `...` refers to the operation which yields the results of the comprehension. Now, it should be obvious why `S` is not defined.
 
 ------------------------------------------------------------------------
 

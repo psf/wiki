@@ -38,7 +38,7 @@ Less maintained:
 
 ## Tools / Extensions 
 
-- [iw.dist](http://pypi.python.org/pypi/iw.dist/) - Extension that implements the [EnhancedPyPI](EnhancedPyPI) changes to `.pypirc`{.backtick}.
+- [iw.dist](http://pypi.python.org/pypi/iw.dist/) - Extension that implements the [EnhancedPyPI](EnhancedPyPI) changes to `.pypirc`.
 
 ## Simple repository with fallback using Apache 
 

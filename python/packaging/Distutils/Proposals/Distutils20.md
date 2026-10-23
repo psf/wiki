@@ -16,7 +16,7 @@ The ultimate goal:
 
 Quick things from [PyCon](../../../conferences/pycon/PyCon):
 
-- Some people want to run a build command (or whatever) programmatically; the only way to do this is to poke the right arguments into sys.argv. (Not true! Use `setup(script_args=[...])`{.backtick}! \--PJE)
+- Some people want to run a build command (or whatever) programmatically; the only way to do this is to poke the right arguments into sys.argv. (Not true! Use `setup(script_args=[...])`! \--PJE)
 
 - building tar archives could use the 2.3 tarfile module instead of requiring the platform have a tar command.
 

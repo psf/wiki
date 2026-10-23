@@ -12,15 +12,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 After an 8-hour bug hunt, Tim Peters [noted this bit of wisdom](http://mail.python.org/pipermail/python-dev/2003-April/034557.html)
 
-- *Word to the wise: don\'t ever try to reuse a variable whose address is passed to `PyArg_ParseTuple`{.backtick} for anything other than holding what `PyArg_ParseTuple`{.backtick} does or doesn\'t store into it. You\'ll never get the decrefs straight (and even if you manage to at first, the next person to modify your code will break it).*
+- *Word to the wise: don\'t ever try to reuse a variable whose address is passed to `PyArg_ParseTuple` for anything other than holding what `PyArg_ParseTuple` does or doesn\'t store into it. You\'ll never get the decrefs straight (and even if you manage to at first, the next person to modify your code will break it).*
 
-Qualification: this really refers just to `PyObject*`{.backtick} pointers.
+Qualification: this really refers just to `PyObject*` pointers.
 
-Reason: if p is `PyObject*`{.backtick}, and &p is passed to `PyArg_ParseTuple`{.backtick}, p either retains its initial value (probably NULL), or gets a **borrowed** reference to an object. In the former case `Py_DECREF()`{.backtick} is wrong, and in the latter case a potential disaster (p will eventually get decrefed to 0, and the memory will get recycled then, earlier than it should \-- which may be gazillions of cycles after you screwed up in the function calling `PyArg_ParseTuple`{.backtick}). If on some other path thru the code, you decide to reuse the vrbl name to hold a new, temporary Python object, you almost certainly need to decref that one before returning (else its memory will leak). Then you\'ve got one name that must, or must not, be decrefed upon exit, \"depending\". The real bitch is that screwups here usually occur on error paths, so are rare.
+Reason: if p is `PyObject*`, and &p is passed to `PyArg_ParseTuple`, p either retains its initial value (probably NULL), or gets a **borrowed** reference to an object. In the former case `Py_DECREF()` is wrong, and in the latter case a potential disaster (p will eventually get decrefed to 0, and the memory will get recycled then, earlier than it should \-- which may be gazillions of cycles after you screwed up in the function calling `PyArg_ParseTuple`). If on some other path thru the code, you decide to reuse the vrbl name to hold a new, temporary Python object, you almost certainly need to decref that one before returning (else its memory will leak). Then you\'ve got one name that must, or must not, be decrefed upon exit, \"depending\". The real bitch is that screwups here usually occur on error paths, so are rare.
 
 ### Don\'t be overly afraid of goto. 
 
-Refcounts are much easier to keep straight if you use forward gotos for error exits. Initialize your `PyObject*`{.backtick} locals to NULL, and write a sequence of matching `Py_XDECREF`{.backtick} calls following the error label. This is essentially compiling a `try/except`{.backtick} block by hand.
+Refcounts are much easier to keep straight if you use forward gotos for error exits. Initialize your `PyObject*` locals to NULL, and write a sequence of matching `Py_XDECREF` calls following the error label. This is essentially compiling a `try/except` block by hand.
 
 ## Other snippets 
 

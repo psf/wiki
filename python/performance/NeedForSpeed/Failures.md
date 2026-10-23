@@ -18,7 +18,7 @@ Adding the ability to pre-allocate builtin list storage. At best we can speed up
 
 **Out-thinking exceptions**
 
-CPython spends considerable time moving exception info around among thread states, frame objects, and the `sys`{.backtick} module. This code is complicated and under-documented. Patch [1145039](http://bugs.python.org/issue1145039 "SF") took a stab at reverse-engineering a weak invariant, and exploited it for a bit of speed. That worked fine so far as it went (and a variant was checked in), but it\'s likely more remains to be gotten. Alas, the `tim-exc_sanity`{.backtick} branch set up to try that consumed a lot of time fighting mysteries, and looks like it\'s more trouble than it\'s worth.
+CPython spends considerable time moving exception info around among thread states, frame objects, and the `sys` module. This code is complicated and under-documented. Patch [1145039](http://bugs.python.org/issue1145039 "SF") took a stab at reverse-engineering a weak invariant, and exploited it for a bit of speed. That worked fine so far as it went (and a variant was checked in), but it\'s likely more remains to be gotten. Alas, the `tim-exc_sanity` branch set up to try that consumed a lot of time fighting mysteries, and looks like it\'s more trouble than it\'s worth.
 
 **Singleton of [StopIteration](./StopIteration.html)**
 

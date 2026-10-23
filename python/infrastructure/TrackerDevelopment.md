@@ -33,13 +33,13 @@ This configuration is deployed on production server, so it is good to stick it f
 
 - pyoidc (OpenID Connect library from [https://github.com/rohe/pyoidc](https://github.com/rohe/pyoidc))
 
-[http://bugs.python.org/](http://bugs.python.org/) (`python-dev`{.backtick} tracker instance or configuration) is running PostgreSQL on backed, because it has the best performance for large installations. Besides, there is at least one place in the `python-dev`{.backtick} config with hardcoded dependency on the SQL-based backed.
+[http://bugs.python.org/](http://bugs.python.org/) (`python-dev` tracker instance or configuration) is running PostgreSQL on backed, because it has the best performance for large installations. Besides, there is at least one place in the `python-dev` config with hardcoded dependency on the SQL-based backed.
 
 ### Getting the source 
 
 Get patched version of [Roundup tracker](http://www.roundup-tracker.org/) from here:
 
-- [http://hg.python.org/tracker/roundup/](http://hg.python.org/tracker/roundup/) (the changes are in the `bugs.python.org`{.backtick} branch)
+- [http://hg.python.org/tracker/roundup/](http://hg.python.org/tracker/roundup/) (the changes are in the `bugs.python.org` branch)
 
 Tracker configuration for [http://bugs.python.org/](http://bugs.python.org/) (called \'tracker home\', \'instance\' or \`environment) is here:
 
@@ -69,7 +69,7 @@ There are several Roundup trackers used for Python development. Configuration fo
 
 ### Install patched Roundup 
 
-Clone code and switch to `bugs.python.org`{.backtick} branch before installing. Here it is installed to hardcoded system-wide location at `/opt/tracker-roundup/`{.backtick}.
+Clone code and switch to `bugs.python.org` branch before installing. Here it is installed to hardcoded system-wide location at `/opt/tracker-roundup/`.
 
 - Read-only clone
 

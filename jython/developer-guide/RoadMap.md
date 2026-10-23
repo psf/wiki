@@ -39,11 +39,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - mercurial move, abcs, exceptions, posix/ntpath, io, tarfile: pjenvey
 
-- `bytearray`{.backtick}, buffer API and a partial `memoryview`{.backtick}: Jeff
+- `bytearray`, buffer API and a partial `memoryview`: Jeff
 
 #### Towards v3.3 
 
-- Use of Java 7 `invokedynamic`{.backtick}: Jim?
+- Use of Java 7 `invokedynamic`: Jim?
 
 ### Scraps of former plans 
 
@@ -57,7 +57,7 @@ When the page bore a roadmap was for v2.6, this material was in it. Some of it i
 
 - Mark true-public APIs with a suitable annotation; deprecate and/or remove obsolete APIs
 
-- Remove all user-visible singletons in org.python.core, especially any static public fields (like those in `PySystemState`{.backtick})
+- Remove all user-visible singletons in org.python.core, especially any static public fields (like those in `PySystemState`)
 
 - Performance!
 

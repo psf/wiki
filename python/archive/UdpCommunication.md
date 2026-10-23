@@ -65,7 +65,7 @@ That being said, sometimes you *need* to use UDP, e.g. for [UDP hole punching](h
 
 ### Multicasting? 
 
-The *official* example of multicast can be found at /usr/share/doc/python2.3/examples/Demo/sockets/mcast.py (at least on Debian Sarge, after `apt-get install python-examples`{.backtick}). It worked on my machine, but I have yet to try it running on different machines. \-- \-- 200.138.245.121 2006-08-09 03:20:30
+The *official* example of multicast can be found at /usr/share/doc/python2.3/examples/Demo/sockets/mcast.py (at least on Debian Sarge, after `apt-get install python-examples`). It worked on my machine, but I have yet to try it running on different machines. \-- \-- 200.138.245.121 2006-08-09 03:20:30
 
 I\'ve been googling for some time now, and *still* have yet to find a *working* example of Python multicast listening.
 

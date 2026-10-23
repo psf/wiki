@@ -40,7 +40,7 @@ Agenda:
 
   - [https://github.com/pypa/pip/issues/8495](https://github.com/pypa/pip/issues/8495) \-- Error message update: inconsistent/conflicting dependencies
 
-    - #8495 \-- before beta or ok if it is after? implementation: Show dependency tree in `ResolutionImpossible`{.backtick} error message #9036
+    - #8495 \-- before beta or ok if it is after? implementation: Show dependency tree in `ResolutionImpossible` error message #9036
 
     - Language changes in error message, logic changes in behavior
 

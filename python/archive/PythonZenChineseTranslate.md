@@ -14,7 +14,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - **[蟒禅](http://bit.ly/2h4f5T)**
 
-- `http://wiki.woodpecker.org dot cn/moin/PythonZen`{.backtick}
+- `http://wiki.woodpecker.org dot cn/moin/PythonZen`
 
 ### ZoomQuiet禅译 
 

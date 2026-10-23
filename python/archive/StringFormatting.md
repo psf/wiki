@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 The [section of the manual on String Formatting Operations](http://docs.python.org/lib/typesseq-strings.html) is hidden in the section on [Sequence types.](http://docs.python.org/lib/typesseq.html)
 
-Tutorial on the new string formatting method `format()`{.backtick} in Python 3.0: [Py3kStringFormatting](../py3/Py3kStringFormatting)
+Tutorial on the new string formatting method `format()` in Python 3.0: [Py3kStringFormatting](../py3/Py3kStringFormatting)
 
 ### Direct Variable Reference 
 
@@ -53,7 +53,7 @@ You may find it tricky to print out a feed of numbers (as output from within a l
     [1][2][3][4][5][6]
     Completed.
 
-The standard `print`{.backtick} statement automatically inserts newlines. This can be overcome with
+The standard `print` statement automatically inserts newlines. This can be overcome with
 
 :::: 
 ::: 
@@ -64,7 +64,7 @@ The standard `print`{.backtick} statement automatically inserts newlines. This c
 :::
 ::::
 
-but a space will get inserted between successive prints. One way to get around this is using `sys.stdout`{.backtick}:
+but a space will get inserted between successive prints. One way to get around this is using `sys.stdout`:
 
 :::: 
 ::: 
@@ -84,7 +84,7 @@ which will work properly.
 
 ## Discussion 
 
-You can also print a backspace (`'\b'`{.backtick}) to swallow the extra space. eg:
+You can also print a backspace (`'\b'`) to swallow the extra space. eg:
 
 :::: 
 ::: 
@@ -100,7 +100,7 @@ Unfortunately, this produces a mess if output is being directed to a file; it\'s
 
 ### Variable name substitution using format and eval 
 
-I want to print out all member of `sys`{.backtick}, then what I need is
+I want to print out all member of `sys`, then what I need is
 
 :::: 
 ::: 

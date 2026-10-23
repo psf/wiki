@@ -6,21 +6,21 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This page discusses the benefits of replacing the current `print`{.backtick} statement with an equivalent builtin. The `write`{.backtick} and `writeln`{.backtick} functions presented below do everything the `print`{.backtick} statement does without requiring any hacking of the grammar, and also make a number of things significantly easier.
+This page discusses the benefits of replacing the current `print` statement with an equivalent builtin. The `write` and `writeln` functions presented below do everything the `print` statement does without requiring any hacking of the grammar, and also make a number of things significantly easier.
 
-Guido has made it clear he wants to get rid of the `print`{.backtick} statement in [Python3.0](../py3/Python3.0). This page considers why we would want to go that way, and how we can actually get there. It should be turned into a PEP eventually.
+Guido has made it clear he wants to get rid of the `print` statement in [Python3.0](../py3/Python3.0). This page considers why we would want to go that way, and how we can actually get there. It should be turned into a PEP eventually.
 
-FYI: Python 3.0 has been released with a print function, and Python 2.6 has `from __future__ import print_function`{.backtick} to enable this on a per-module basis. Further discussion here is therefore quite futile. GvR.
+FYI: Python 3.0 has been released with a print function, and Python 2.6 has `from __future__ import print_function` to enable this on a per-module basis. Further discussion here is therefore quite futile. GvR.
 
 ### Benefits of using a function instead of a statement 
 
 - Extended call syntax provides better interaction with sequences
 
-- Keyword argument `sep`{.backtick} allows item separator to be changed easily and obviously
+- Keyword argument `sep` allows item separator to be changed easily and obviously
 
-- Keyword argument `linesep`{.backtick} could optionally allow line separator to be changed easily and obviously
+- Keyword argument `linesep` could optionally allow line separator to be changed easily and obviously
 
-- Keyword argument `stream`{.backtick} allows easy and obvious redirection
+- Keyword argument `stream` allows easy and obvious redirection
 
 - The builtin can be replaced for application wide customisation (e.g. per-thread logging)
 
@@ -68,43 +68,43 @@ Summarizing, my main problems with print as a statement are the transformations 
 
 ### Getting there from here 
 
-The example implementation below shows that creating a function with the desired behaviour is quite straightforward. However, calling the builtin `print`{.backtick} is a problem due to the fact that `print`{.backtick} is a reserved word in Python 2.x. Since the `print`{.backtick} statement will be around until Py3K allows us to break backwards compatibility, devising a transition plan that lets programmers \'get ready early\' for the Py3K transition becomes a significant challenge.
+The example implementation below shows that creating a function with the desired behaviour is quite straightforward. However, calling the builtin `print` is a problem due to the fact that `print` is a reserved word in Python 2.x. Since the `print` statement will be around until Py3K allows us to break backwards compatibility, devising a transition plan that lets programmers \'get ready early\' for the Py3K transition becomes a significant challenge.
 
-If, on the other hand, the builtin has a different name, it is quite feasible to introduce it during the 2.x series. In [PEP 3000](http://www.python.org/peps/pep-3000.html), it is suggested that the `print`{.backtick} statement be replaced by two builtins: `write`{.backtick} and `writeln`{.backtick}. These names are used in the example below. By using alternative names, and providing the builtins in the 2.x series, it is possible to \'future-proof\' code against the removal of the `print`{.backtick} statement in Py3k.
+If, on the other hand, the builtin has a different name, it is quite feasible to introduce it during the 2.x series. In [PEP 3000](http://www.python.org/peps/pep-3000.html), it is suggested that the `print` statement be replaced by two builtins: `write` and `writeln`. These names are used in the example below. By using alternative names, and providing the builtins in the 2.x series, it is possible to \'future-proof\' code against the removal of the `print` statement in Py3k.
 
-This technique of having two printing operations is not uncommon - Java has both `print`{.backtick} and `println`{.backtick} methods, and C# has `Write`{.backtick} and `WriteLine`{.backtick}. The main problem with the approach is that the `writeln`{.backtick} form will actually be more commonly used, but has the longer, less obvious name of the two proposed functions. This perception of relative use is based on a comparison of relative usage levels of the two current forms of the `print`{.backtick} statement (i.e., with and without the trailing comma) by some of the developers on python-dev.
+This technique of having two printing operations is not uncommon - Java has both `print` and `println` methods, and C# has `Write` and `WriteLine`. The main problem with the approach is that the `writeln` form will actually be more commonly used, but has the longer, less obvious name of the two proposed functions. This perception of relative use is based on a comparison of relative usage levels of the two current forms of the `print` statement (i.e., with and without the trailing comma) by some of the developers on python-dev.
 
 - [\[lwickjr](./(5b)lwickjr.html): Why TWO functions? Why can\'t we specify `printFunc(....,"\n")`?\]
 
 Some other names for the builtins which have been suggested are:
 
-- `print`{.backtick} - excellent name, but causes transition problems as described above
+- `print` - excellent name, but causes transition problems as described above
 
-- `println`{.backtick} - avoids the transition problems, reflects default behaviour of adding a line, matches Java method name
+- `println` - avoids the transition problems, reflects default behaviour of adding a line, matches Java method name
 
-- `printline`{.backtick} - alternative to `println`{.backtick}, that avoids the somewhat cryptic abbreviation
+- `printline` - alternative to `println`, that avoids the somewhat cryptic abbreviation
 
-- `writeline`{.backtick} - alternative to `writeln`{.backtick} that avoids the somewhat cryptic abbreviation
+- `writeline` - alternative to `writeln` that avoids the somewhat cryptic abbreviation
 
-- `say`{.backtick} - short alternative to `println`{.backtick} invented in Perl 6 (which uses `print`{.backtick} for no-newline output)
+- `say` - short alternative to `println` invented in Perl 6 (which uses `print` for no-newline output)
 
-- `out`{.backtick} - not a verb, and converting to it may be problematic due to shadowing by variable names
+- `out` - not a verb, and converting to it may be problematic due to shadowing by variable names
 
-- `output`{.backtick} - nice symmetry with input, but using the term as a verb is not typical
+- `output` - nice symmetry with input, but using the term as a verb is not typical
 
-- `prnt`{.backtick} - easily edited into `print`{.backtick} later on
+- `prnt` - easily edited into `print` later on
 
-- `write`{.backtick} - decent name, but confusing when compared to write() method
+- `write` - decent name, but confusing when compared to write() method
 
-- `display`{.backtick} - Can be a verb or not. Idea from Scheme.
+- `display` - Can be a verb or not. Idea from Scheme.
 
-  - Maybe file-objects should have `write()`{.backtick}- and `writeln()`{.backtick}-methods similar to the built-in functions? *\-- TS*
+  - Maybe file-objects should have `write()`- and `writeln()`-methods similar to the built-in functions? *\-- TS*
 
   [\[lwickjr](./(5b)lwickjr.html): don\'t they already have something similar?\]
 
 ### Sample implementation 
 
-This is a Python 2.4 compatible sample implementation of the approach currently in [PEP 3000](http://www.python.org/peps/pep-3000.html). This version of `writeln`{.backtick} doesn\'t provide a `linesep`{.backtick} keyword argument in order to keep things simple. Some other variations are covered further down this Wiki page.
+This is a Python 2.4 compatible sample implementation of the approach currently in [PEP 3000](http://www.python.org/peps/pep-3000.html). This version of `writeln` doesn\'t provide a `linesep` keyword argument in order to keep things simple. Some other variations are covered further down this Wiki page.
 
 :::: 
 ::: 
@@ -156,7 +156,7 @@ This is a Python 2.4 compatible sample implementation of the approach currently 
 
 ### Code comparisons 
 
-These are some comparisons of current `print`{.backtick} statements with the equivalent code using the builtins `write`{.backtick} and `writeln`{.backtick}.
+These are some comparisons of current `print` statements with the equivalent code using the builtins `write` and `writeln`.
 
 :::: 
 ::: 
@@ -349,7 +349,7 @@ Here\'s my own strawman implementation of `write()` and `writef()` using semanti
 :::
 ::::
 
-- For the code comparisons shown earlier, simply put `write`{.backtick} where `writeln`{.backtick} is currently used, and add the keyword argument `nl=False`{.backtick} for the no trailing newline case. I quite like this approach. - *Alyssa Coghlan*
+- For the code comparisons shown earlier, simply put `write` where `writeln` is currently used, and add the keyword argument `nl=False` for the no trailing newline case. I quite like this approach. - *Alyssa Coghlan*
 
   - *BDFL comments:* I like the write/writef parallel; would like it even more if it was print/printf. But please drop the Separator thing. The use case isn\'t common enough to burden people with the possibility. Also, we need to spend more time researching the formatting language. (See a post in python-dev by Steven Bethard: \"string formatting options and removing `basestring.__mod__`\".
 
@@ -359,7 +359,7 @@ Here\'s my own strawman implementation of `write()` and `writef()` using semanti
 
 ### Another variant - \`format\` builtin 
 
-Barry\'s `writef`{.backtick} builtin cuts down a little on the typing, but is somewhat inflexible in that it only supports `string %`{.backtick} or `string.Template`{.backtick} formatting when printing directly to a stream. It also causes problems by preventing the use of `to`{.backtick} or `nl`{.backtick} as keywords in the format string. A separate `format`{.backtick} builtin would deal with both of those problems, at the expense of some extra typing when using it. Such a builtin would also help with avoiding some of the tuple related quirks of the string mod operator, as well as making it easy to write code that supports both types of string formatting. The version below is based on Barry\'s, but eliminates the `Separator`{.backtick} concept, and replaces `writef`{.backtick} with `format`{.backtick} - *Alyssa Coghlan*
+Barry\'s `writef` builtin cuts down a little on the typing, but is somewhat inflexible in that it only supports `string %` or `string.Template` formatting when printing directly to a stream. It also causes problems by preventing the use of `to` or `nl` as keywords in the format string. A separate `format` builtin would deal with both of those problems, at the expense of some extra typing when using it. Such a builtin would also help with avoiding some of the tuple related quirks of the string mod operator, as well as making it easy to write code that supports both types of string formatting. The version below is based on Barry\'s, but eliminates the `Separator` concept, and replaces `writef` with `format` - *Alyssa Coghlan*
 
 :::: 
 ::: 
@@ -432,7 +432,7 @@ Barry\'s `writef`{.backtick} builtin cuts down a little on the typing, but is so
 
 ### Displaying iterators 
 
-I\'m looking into an approach which adds explicit support for displaying iterators into the string mod operator. The intent is that `"%''j" % (my_seq,)`{.backtick} will become roughly equivalent to `''.join(map(str, my_seq))`{.backtick}. - *Alyssa Coghlan*
+I\'m looking into an approach which adds explicit support for displaying iterators into the string mod operator. The intent is that `"%''j" % (my_seq,)` will become roughly equivalent to `''.join(map(str, my_seq))`. - *Alyssa Coghlan*
 
 [SF Patch #1281573](http://sourceforge.net/tracker/?func=detail&aid=1281573&group_id=5470&atid=305470) for anyone who wants to play with it. Only strings are supported so far (no Unicode), but it illustrates the concept quite well.
 
@@ -508,13 +508,13 @@ There\'s a few goals for any formatting scheme
 
 1.  Inline naming (not off to the right somewhere)
 
-2.  Expression arguments (`obj.attr`{.backtick} is common)
+2.  Expression arguments (`obj.attr` is common)
 
 3.  Gettext swapout
 
 4.  No repetition of names
 
-5.  No explicit call to `locals()`{.backtick}
+5.  No explicit call to `locals()`
 
 Our existing % formatting can do 2,3,4,5, but if you want 1 you instead get 1,3,4. My previous suggestion handles 1, but fails 4 miserably, as well as 5. My new suggestion handles all 5 goals simultaneously.
 
@@ -530,7 +530,7 @@ Most of that is optional. The most common way to use it would be:
     # Equivalent to...
     FormatString("filler {x str} filler", {'x': x})
 
-A `FormatString`{.backtick} instance does not immediately evaluate. Instead, it waits until its `__str__`{.backtick} method is called, at which point the above example becomes:
+A `FormatString` instance does not immediately evaluate. Instead, it waits until its `__str__` method is called, at which point the above example becomes:
 
     "filler %s filler" % (str(fs.args['x']),)
 

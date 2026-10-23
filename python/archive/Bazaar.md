@@ -41,13 +41,13 @@ To create the shared repo, cd to some convenient place and do the following:
     % bzr init-repo python
     % cd python
 
-This `python`{.backtick} directory is your shared repo and you will create all your branches inside of this. It doesn\'t matter which of the four branches you\'re developing; all of your work can go in the same shared repo.
+This `python` directory is your shared repo and you will create all your branches inside of this. It doesn\'t matter which of the four branches you\'re developing; all of your work can go in the same shared repo.
 
 Now, you can grab one of the branches. Let\'s say you want a copy of the Python 3k trunk; do this:
 
     % bzr branch lp:python/py3k
 
-This will create a working directory called `py3k`{.backtick} in your shared repository directory. Generally, you will want to keep this upstream branch fairly pristine, updating it occasionally, as commits are made to the Subversion master and mirrored to the Launchpad branch. Here\'s how you can pull any new revisions:
+This will create a working directory called `py3k` in your shared repository directory. Generally, you will want to keep this upstream branch fairly pristine, updating it occasionally, as commits are made to the Subversion master and mirrored to the Launchpad branch. Here\'s how you can pull any new revisions:
 
     % cd py3k
     % bzr pull
@@ -62,9 +62,9 @@ Now you hack the code. You like your changes and want to commit them. Again, Baz
 
     % bzr commit
 
-This will pop up an editor, but you could also use the `-m`{.backtick} or `-F`{.backtick} arguments to supply a commit message on the command line. You might also like to give this the `--show-diff`{.backtick} argument to see your changes in the commit buffer.
+This will pop up an editor, but you could also use the `-m` or `-F` arguments to supply a commit message on the command line. You might also like to give this the `--show-diff` argument to see your changes in the commit buffer.
 
-You can keep iterating on the hack-commit cycle as much as you want, until you are ready to share your code with someone. To do this, push your branch like so, substituting your Launchpad user name for `barry`{.backtick} of course.
+You can keep iterating on the hack-commit cycle as much as you want, until you are ready to share your code with someone. To do this, push your branch like so, substituting your Launchpad user name for `barry` of course.
 
     % bzr push py:~barry/python/bug1974
 
@@ -80,7 +80,7 @@ You can attach your branch URL to the issue in the Python bug tracker, and it wi
 
 ### Anything else? 
 
-You want to create or edit your `~/.bazaar/bazaar.conf`{.backtick} file to set a few things up. Unlike Subversion, Bazaar commits happen locally, so you have control over the email address that gets associated with your changes. You should use an email address that is identifiably you in the Python community. You may also decide to [GPG](http://www.gnupg.org) sign your commits, though this is not required. Here for example is my `bazaar.conf`{.backtick} [file::](file::)
+You want to create or edit your `~/.bazaar/bazaar.conf` file to set a few things up. Unlike Subversion, Bazaar commits happen locally, so you have control over the email address that gets associated with your changes. You should use an email address that is identifiably you in the Python community. You may also decide to [GPG](http://www.gnupg.org) sign your commits, though this is not required. Here for example is my `bazaar.conf` [file::](file::)
 
     [DEFAULT]
     email=Barry Warsaw <barry@python.org>
@@ -115,6 +115,6 @@ Start by reading the [Bazaar documentation](http://bazaar-vcs.org/Documentation)
 
 Ask your questions on the [python-dev@python.org](mailto:python-dev@python.org) mailing list. We\'ll keep an eye on things and try to help as much as possible.
 
-Log onto [irc.freenode.net](http://freenode.net/) and ask around on the `#python`{.backtick}, `#python-dev`{.backtick}, or `#bzr`{.backtick} channels. The former two are better for specific questions about Python\'s Bazaar branches, while the latter is better for more general Bazaar questions.
+Log onto [irc.freenode.net](http://freenode.net/) and ask around on the `#python`, `#python-dev`, or `#bzr` channels. The former two are better for specific questions about Python\'s Bazaar branches, while the latter is better for more general Bazaar questions.
 
 Keep refreshing this page! We\'ll try to keep it updated with new information and examples, based on your feedback.

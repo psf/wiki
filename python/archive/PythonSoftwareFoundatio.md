@@ -20,21 +20,21 @@ Content-type: text/x-rst Title: Python Software Foundation Nav:
 
 - The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of the international community of Python programmers.
 
-  \-- from the `Mission Statement page </psf/mission>`{.backtick}[ ]
+  \-- from the `Mission Statement page </psf/mission>`[ ]
 
-The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American `PyCon <http://us.pycon.org>`{.backtick}\_ conference annually, support other Python conferences around the world, and fund Python related development with our `grants program <grants>`{.backtick}\_ and by funding special projects.
+The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American `PyCon <http://us.pycon.org>`\_ conference annually, support other Python conferences around the world, and fund Python related development with our `grants program <grants>`\_ and by funding special projects.
 
-For a quick overview of the PSF\'s activities, please the `Executive Summary </psf/summary>`{.backtick}.
+For a quick overview of the PSF\'s activities, please the `Executive Summary </psf/summary>`.
 
 .. contents::
 
 PSF Details & Contacting the PSF ================================
 
-Please see `About the Python Software Foundation <about/>`{.backtick}[. ]
+Please see `About the Python Software Foundation <about/>`[. ]
 
 PSF Sponsor Members ===================
 
-The PSF would not be possible without the generous financial help of the following `sponsor members <sponsorship>`{.backtick}\_:
+The PSF would not be possible without the generous financial help of the following `sponsor members <sponsorship>`\_:
 
 .. \|[ActiveState](../platforms/ActiveState)\| image:: /images/activestate_logo.gif
 
@@ -174,49 +174,49 @@ The PSF would not be possible without the generous financial help of the followi
 
   :target: [http://www.zope.com](http://www.zope.com)
 
-\|[ActiveState](../platforms/ActiveState)\| `ActiveState <http://www.activestate.com>`{.backtick}\_ \*(founding sponsor)\*
+\|[ActiveState](../platforms/ActiveState)\| `ActiveState <http://www.activestate.com>`\_ \*(founding sponsor)\*
 
-\|ASTI\| `Advanced Simulation Technology Inc. (ASTi) <http://www.asti-usa.com>`{.backtick}\_
+\|ASTI\| `Advanced Simulation Technology Inc. (ASTi) <http://www.asti-usa.com>`\_
 
-\|[ArrayBio](./ArrayBio.html)\| `Array BioPharma, Inc. <http://www.arraybiopharma.com>`{.backtick}\_
+\|[ArrayBio](./ArrayBio.html)\| `Array BioPharma, Inc. <http://www.arraybiopharma.com>`\_
 
-\|[BizRate](./BizRate.html)\| `BizRate.com <http://www.bizrate.com>`{.backtick}\_
+\|[BizRate](./BizRate.html)\| `BizRate.com <http://www.bizrate.com>`\_
 
-\|Canonical\| `Canonical <http://www.canonical.com>`{.backtick}\_
+\|Canonical\| `Canonical <http://www.canonical.com>`\_
 
-\|CCPGames\| `CCP Games. <http://www.ccpgames.com>`{.backtick}\_
+\|CCPGames\| `CCP Games. <http://www.ccpgames.com>`\_
 
-\|cPacket\| `cPacket Networks <http://www.cpacket.com>`{.backtick}\_
+\|cPacket\| `cPacket Networks <http://www.cpacket.com>`\_
 
-\|[EarnMyDegree](./EarnMyDegree.html)\| `EarnMyDegree.com <http://www.earnmydegree.com>`{.backtick}\_
+\|[EarnMyDegree](./EarnMyDegree.html)\| `EarnMyDegree.com <http://www.earnmydegree.com>`\_
 
-\|Enthought\| `Enthought, Inc. <http://www.enthought.com>`{.backtick}\_
+\|Enthought\| `Enthought, Inc. <http://www.enthought.com>`\_
 
-\|Google\| `Google <http://www.google.com>`{.backtick}\_
+\|Google\| `Google <http://www.google.com>`\_
 
-\|[HitFlip](./HitFlip.html)\| `HitFlip Inc. <http://www.hitflip.de>`{.backtick}\_
+\|[HitFlip](./HitFlip.html)\| `HitFlip Inc. <http://www.hitflip.de>`\_
 
-\|[IronPort](./IronPort.html)\| `IronPort Systems <http://www.ironport.com>`{.backtick}\_
+\|[IronPort](./IronPort.html)\| `IronPort Systems <http://www.ironport.com>`\_
 
-\|Madison Tyler\| `Madison Tyler LLC <http://www.ewtcareers.com>`{.backtick}\_
+\|Madison Tyler\| `Madison Tyler LLC <http://www.ewtcareers.com>`\_
 
 Merfin, LLC.
 
-`Microsoft <http://www.microsoft.com>`{.backtick}\_
+`Microsoft <http://www.microsoft.com>`\_
 
-\|OReilly\| `O'Reilly & Associates, Inc. <http://www.oreilly.com>`{.backtick}\_
+\|OReilly\| `O'Reilly & Associates, Inc. <http://www.oreilly.com>`\_
 
-\|Opsware\| `Opsware, Inc. <http://www.opsware.com>`{.backtick}\_
+\|Opsware\| `Opsware, Inc. <http://www.opsware.com>`\_
 
-\|Strakt\| `Strakt Holdings, Inc. <http://www.strakt.com/>`{.backtick}\_
+\|Strakt\| `Strakt Holdings, Inc. <http://www.strakt.com/>`\_
 
-\|Sun\| `Sun Microsystems <http://www.sun.com/>`{.backtick}\_
+\|Sun\| `Sun Microsystems <http://www.sun.com/>`\_
 
-\|Tabblo\| `Tabblo <http://www.tabblo.com>`{.backtick}\_
+\|Tabblo\| `Tabblo <http://www.tabblo.com>`\_
 
-\|[ZeOmega](./ZeOmega.html)\| `ZeOmega, LLC. <http://www.zeomega.com>`{.backtick}\_
+\|[ZeOmega](./ZeOmega.html)\| `ZeOmega, LLC. <http://www.zeomega.com>`\_
 
-\|Zope\| `Zope Corporation <http://www.zope.com>`{.backtick}\_ \*(founding sponsor)\*
+\|Zope\| `Zope Corporation <http://www.zope.com>`\_ \*(founding sponsor)\*
 
 Pending Sponsor Members
 
@@ -224,15 +224,15 @@ Pending Sponsor Members
 
 The following have been recommended for membership by the PSF Board, and are awaiting election at the next Members\' Meeting:
 
-\|KNMP\| `KNMP <http://www.knmp.nl>`{.backtick}\_
+\|KNMP\| `KNMP <http://www.knmp.nl>`\_
 
-\|[OpenEye](./OpenEye.html)\| `OpenEye Scientific Software <http://eyesopen.com>`{.backtick}\_
+\|[OpenEye](./OpenEye.html)\| `OpenEye Scientific Software <http://eyesopen.com>`\_
 
-\|[PropertySold](./PropertySold.html)\| `PropertySold.ca <http://propertysold.ca>`{.backtick}\_
+\|[PropertySold](./PropertySold.html)\| `PropertySold.ca <http://propertysold.ca>`\_
 
 PSF Donors ==========
 
-Additional funding is provided by our `donors <donations>`{.backtick}\_.
+Additional funding is provided by our `donors <donations>`\_.
 
 Feedback ========
 

@@ -1022,7 +1022,7 @@ display(self)
     >>>
 
 ::: system-message
-System Message: WARNING/2 (`<string>`{.docutils}, line 1183); *[backlink](#id2)*
+System Message: WARNING/2 (`<string>`, line 1183); *[backlink](#id2)*
 
 Duplicate explicit target name: \"javadoc documentation\".
 :::

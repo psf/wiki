@@ -34,7 +34,7 @@ And here\'s what the options mean:
 | `-XDebug` | Enable debugging |
 | `-Xrunjdwp:<options>` | Enable the Java Debug Wire Protocol |
 
-And here\'s the `<options>`{.backtick}:
+And here\'s the `<options>`:
 
 | JDWP Option | Meaning |
 |---|---|
@@ -52,17 +52,17 @@ For Eclipse:
 
 - Navigate into your source and set your break points.
 
-- Select `Run`{.backtick}\|`Debug`{.backtick}.
+- Select `Run`\|`Debug`.
 
-- Look for the `Remote Java Application`{.backtick} run configuration type on the `Debug`{.backtick} dialog.
+- Look for the `Remote Java Application` run configuration type on the `Debug` dialog.
 
 - Select your jython project.
 
-- The `Connection Type`{.backtick}: should be `Standard(Socket Attach)`{.backtick}. I imagine in the future there may be other options, like shared memory (if your running locally on windows).
+- The `Connection Type`: should be `Standard(Socket Attach)`. I imagine in the future there may be other options, like shared memory (if your running locally on windows).
 
-- Enter `8000`{.backtick} for the port number (or whatever port number you configure your app to listen on).
+- Enter `8000` for the port number (or whatever port number you configure your app to listen on).
 
-- Click `Debug`{.backtick}
+- Click `Debug`
 
 This will take you into the app at the first breakpoint.
 
@@ -89,15 +89,15 @@ If you have an app that you run inside eclipse and you want to run it standalone
 
 - If you don\'t already have a debug session showing for the app (live or terminated), start it up.
 
-- Click on the `+`{.backtick} to expand the debug session (if needed).
+- Click on the `+` to expand the debug session (if needed).
 
 - You should see a line like this:
   - \<path to javaw.exe\>\\javaw.exe (\<timestamp\>)
 
-  - Mine is: `C:\apps\j2sdk1.4.2\jre\bin\javaw.exe (Mar 1, 2005 4:24:02 PM)`{.backtick}
+  - Mine is: `C:\apps\j2sdk1.4.2\jre\bin\javaw.exe (Mar 1, 2005 4:24:02 PM)`
 
 - Right-click on this line and select properties.
 
-- You can then swipe/copy the `Command Line`{.backtick} info.
+- You can then swipe/copy the `Command Line` info.
 
-- You can then paste this into your shell. You\'ll typically want to convert the `javaw.exe`{.backtick} to a `java.exe`{.backtick} to receive output to the shell.
+- You can then paste this into your shell. You\'ll typically want to convert the `javaw.exe` to a `java.exe` to receive output to the shell.

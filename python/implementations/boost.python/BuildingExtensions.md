@@ -139,7 +139,7 @@ in the Jamfile.
 
 ------------------------------------------------------------------------
 
-Add -DBOOST_PYTHON_STATIC_LIB to your compiler command-line or \<define\>BOOST_PYTHON_STATIC_LIB to your bjam requirements; that will turn off exporting for win32: `__declspec(dllexport)`{.backtick}.
+Add -DBOOST_PYTHON_STATIC_LIB to your compiler command-line or \<define\>BOOST_PYTHON_STATIC_LIB to your bjam requirements; that will turn off exporting for win32: `__declspec(dllexport)`.
 
 ------------------------------------------------------------------------
 

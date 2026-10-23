@@ -35,7 +35,7 @@ A proper layout of your files and folders can really save you trouble later on. 
 
 - package - I call it this to indicate that it\'s where I am developing my package(s).
 
-  *(Packages are simply folders with modules (py files) in them. They also have a special file called `__init__.py`{.backtick} so that Python will know that this folder is a package.)*
+  *(Packages are simply folders with modules (py files) in them. They also have a special file called `__init__.py` so that Python will know that this folder is a package.)*
 
 - package/things - This is where I will keep all my things. Here I have some image files, but you can put anything your module may need here. Naturally you can use any folder name you like.
 
@@ -93,7 +93,7 @@ Next is the package. In this case there is only one module in the package (impor
     if __name__ == "__main__":
         print "Decide what to do"
 
-This uses the magic variable `__file__`{.backtick} that will return the path and name of the module. Without it you would have to jump through some hoops to locate the module on any given distro or O/S.
+This uses the magic variable `__file__` that will return the path and name of the module. Without it you would have to jump through some hoops to locate the module on any given distro or O/S.
 
 - *(If you can find this in the Python docs, then your grep-foo is better than mine. I found it by pouring through other Python apps in the site-packages folder of python2.4)*
 
@@ -101,7 +101,7 @@ It shows that it can find the data files in the things folder.
 
 #### \`\_\_init\_\_.py\` 
 
-The `__init__.py`{.backtick} file is empty.
+The `__init__.py` file is empty.
 
 #### README 
 

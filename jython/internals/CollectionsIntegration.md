@@ -50,7 +50,7 @@ Approach 2 offers the best integration options. Jython is primarily an implement
 ------------------------------------------------------------------------
 
 [ClarkUpdike](../people/ClarkUpdike) Mar 2 2005 PM\
-Reflecting further on PyArray, we may want to consider not having it implement `List`{.backtick}. When I read the docs on the jarray and array modules at the respective jython and python websites, I find the following:
+Reflecting further on PyArray, we may want to consider not having it implement `List`. When I read the docs on the jarray and array modules at the respective jython and python websites, I find the following:
 
 - jython\'s jarray moduleis primarily for interaction with java
   - as the jython object type to hold java arrays returned by java methods
@@ -66,21 +66,21 @@ Performance might not have been a concern at all for jarray. But I know I have u
 - java array integration
 - performance
 
-I\'ve been assuming that since PyArray is a sequence, it should also implement `List`{.backtick}. But the reasons not do this are:
+I\'ve been assuming that since PyArray is a sequence, it should also implement `List`. But the reasons not do this are:
 
-- The use case for treating arrays as `List`{.backtick}s seems weak. Java uses the `Array.asList(Object[] a)`{.backtick} method to get a `List`{.backtick} from an array, and that is all I think is really required from a collection interoperability standpoint. Python offers the `tolist()`{.backtick} method, and PyArray should offer the same thing. Remember, `list`{.backtick} *will* implement `List`{.backtick}, so your only 9 keystrokes away ![:)](/wiki/modernized/img/smile.png%20":)")
+- The use case for treating arrays as `List`s seems weak. Java uses the `Array.asList(Object[] a)` method to get a `List` from an array, and that is all I think is really required from a collection interoperability standpoint. Python offers the `tolist()` method, and PyArray should offer the same thing. Remember, `list` *will* implement `List`, so your only 9 keystrokes away ![:)](/wiki/modernized/img/smile.png%20":)")
 
 - Python arrays are list-like: append, extend, slice, etc. I think we can make PyArray do the same tricks.
 
-- You can\'t make PyArray implement `List`{.backtick} and still retain the performance benefits, especially for primitives. You would have to choose from one of the following:
+- You can\'t make PyArray implement `List` and still retain the performance benefits, especially for primitives. You would have to choose from one of the following:
 
   - Element data stays as-is in PyArray (including primitive arrays, but all access through collection methods converts to and from the wrapper classes on-the-fly. This would retain the performance in jython, but would be lousy in java. If you iterated over the same list 10 times you\'d create 10x the wrapper objects (they are not stored, only the primitive values). In some cases, it would really thrash the jvm. Any kind of caching scheme would greatly increase the memory needed.
 
-  - Element data is a java array, but primitive types are stored in object arrays (`Integer[]`{.backtick}, not `int[]`{.backtick}). This would allow the simplest integration with `List`{.backtick}, but performance would suffer.
+  - Element data is a java array, but primitive types are stored in object arrays (`Integer[]`, not `int[]`). This would allow the simplest integration with `List`, but performance would suffer.
 
-  - Element data is a `List`{.backtick}. Wouldn\'t make any sense (but I\'m listing it for completeness), PyArray would just exist to provide a java array when needed.
+  - Element data is a `List`. Wouldn\'t make any sense (but I\'m listing it for completeness), PyArray would just exist to provide a java array when needed.
 
-Anyway, that\'s why I think PyArray should not implement list, but should just grow the python 2.2 array behavior, and provide an easy bridge to a `List`{.backtick}, via `tolist()`{.backtick}. As always, maybe I\'m missing something obvious\...
+Anyway, that\'s why I think PyArray should not implement list, but should just grow the python 2.2 array behavior, and provide an easy bridge to a `List`, via `tolist()`. As always, maybe I\'m missing something obvious\...
 
 Here\'s what this design would look like:
 
@@ -91,15 +91,15 @@ Here\'s what this design would look like:
 ------------------------------------------------------------------------
 
 [ClarkUpdike](../people/ClarkUpdike) Mar 2 2005 AM\
-This is in response to \<waiting for post to show up on sourceforge\>. It is a work in progress\--but feel free to comment. I\'ve concentrated on the impact of implementing the `List`{.backtick} interface:
+This is in response to \<waiting for post to show up on sourceforge\>. It is a work in progress\--but feel free to comment. I\'ve concentrated on the impact of implementing the `List` interface:
 
 \`List\`
 
-:   `java.util.List`{.backtick}
+:   `java.util.List`
 
 \`list\`
 
-:   python `list`{.backtick} type (nice to be able to say \'type\', eh?)
+:   python `list` type (nice to be able to say \'type\', eh?)
 
 I\'ve been thinking on how to accomplish the \"Approach 2\" design, which is basically a delegation model, in the sense that the subject classes will continue to subclass PyObject. PySequence does not have an \"element data\" field\--which leaves the concrete classes to handle that. Here are some observations on the current 2.1 design:
 
@@ -114,7 +114,7 @@ I\'ve been thinking on how to accomplish the \"Approach 2\" design, which is bas
 | PySet | PyObject | `protected HashSet _set;` | based on [BrianZimmer](../people/BrianZimmer)\'s [SetsModule](../modules/SetsModule) |
 | PyDictionary | PyObject | `protected Hashtable table;` |  |
 
-My current thinking is that we should add a new branch to PySequence\--let\'s call it PySequenceList. PySequence would remain as is, and PySequenceList would subclass PySequence and implement the java.util.List interface. PyString and PyXRange would subclass PySequence and PyArray, PyList, PyTuple would subclass PySequenceList. This seems appropriate because, although PyXRange and PyString technically fall under the description of `List`{.backtick}, the practicality of them as a `List`{.backtick} is nil. Am I missing something obvious here? Would anyone ever use PyXRange in java? And PyString is auto-converted to a `java.lang.String`{.backtick}.
+My current thinking is that we should add a new branch to PySequence\--let\'s call it PySequenceList. PySequence would remain as is, and PySequenceList would subclass PySequence and implement the java.util.List interface. PyString and PyXRange would subclass PySequence and PyArray, PyList, PyTuple would subclass PySequenceList. This seems appropriate because, although PyXRange and PyString technically fall under the description of `List`, the practicality of them as a `List` is nil. Am I missing something obvious here? Would anyone ever use PyXRange in java? And PyString is auto-converted to a `java.lang.String`.
 
     PySequence <--+-- PySequenceList <---- (PyArray, PyList, PyTuple)
                   |
@@ -122,9 +122,9 @@ My current thinking is that we should add a new branch to PySequence\--let\'s ca
 
 Not sure about PyList and PyTuple sharing an additional base class with a predefined element data field. Could do it that way, or could use delegation on a specialized element data class, or could leave it as-is (with copied code for certain methods\--although the amount of copied code will increase.
 
-One key decision is about the element data field in PyList and PyArray. Currently, it\'s PyObject\[\]. This is efficient because it eliminates casting, but keeping it makes `List`{.backtick} implementation difficult (take a look at the source for `java.util.AbstractList`{.backtick}), and all the `System.arraycopy`{.backtick} makes `append`{.backtick} slow. If we were to switch it to an [ArrayList](./ArrayList.html), it would buy us easier collection integration, but will cost performance (who knows how much). There\'s also a \"middle-of-the-road\" approach, which is to use a specialized class to wrap a PyObject array and provide `List`{.backtick} like behavior (I have some experience with doing this). This approach might also be used with PyArray.
+One key decision is about the element data field in PyList and PyArray. Currently, it\'s PyObject\[\]. This is efficient because it eliminates casting, but keeping it makes `List` implementation difficult (take a look at the source for `java.util.AbstractList`), and all the `System.arraycopy` makes `append` slow. If we were to switch it to an [ArrayList](./ArrayList.html), it would buy us easier collection integration, but will cost performance (who knows how much). There\'s also a \"middle-of-the-road\" approach, which is to use a specialized class to wrap a PyObject array and provide `List` like behavior (I have some experience with doing this). This approach might also be used with PyArray.
 
-PyArray requires some important decisions also. The collections methods are all `Object`{.backtick} based. So anything coming or going throught these interfaces will require wrapping/boxing. If PyArray were to use an `Array`{.backtick}`List`{.backtick} and fully box everything from both java and jython, their performance (their main reason for existing?) would take a major hit. My thinking is this is not a viable option. This means there could be some difficult code to write to implement `List`{.backtick}, unless we use the specialized class mentioned above (but typed to the particular primitive array types).
+PyArray requires some important decisions also. The collections methods are all `Object` based. So anything coming or going throught these interfaces will require wrapping/boxing. If PyArray were to use an `ArrayList` and fully box everything from both java and jython, their performance (their main reason for existing?) would take a major hit. My thinking is this is not a viable option. This means there could be some difficult code to write to implement `List`, unless we use the specialized class mentioned above (but typed to the particular primitive array types).
 
 Other general improvements:
 
@@ -132,7 +132,7 @@ Other general improvements:
 
 - Replace signatures to collection implementations (Vector, HashSet, HashTable) with intefaces (List, Set, Map)
 
-- Clean up of PyXRange copies field and deprecate `repeat()`{.backtick}, `getSlice()`{.backtick}
+- Clean up of PyXRange copies field and deprecate `repeat()`, `getSlice()`
 
 ------------------------------------------------------------------------
 

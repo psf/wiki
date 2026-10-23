@@ -42,7 +42,7 @@ Schedule and decide tentative deadline for [first milestone](https://github.com/
 
 - Ernest notes: maintainers may need journal for auditing. New tickets for journal? - only need release journal for first milestone
 
-- TODO: Nicole and Donald: move issue re information from sdist [https://github.com/pypa/warehouse/issues/2734](https://github.com/pypa/warehouse/issues/2734) (conversation regarding `PKG-INFO`{.backtick} display that we currently support)
+- TODO: Nicole and Donald: move issue re information from sdist [https://github.com/pypa/warehouse/issues/2734](https://github.com/pypa/warehouse/issues/2734) (conversation regarding `PKG-INFO` display that we currently support)
 
 - TODO: Nicole/Ernest - rough in buttons for managing/deleting documentation (Ernest notes: no real blocker as he is sure Nicole can help him fix it up in a PR, after Ernest finishes current infrastructure tasks)
 

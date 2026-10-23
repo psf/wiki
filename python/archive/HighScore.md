@@ -34,7 +34,7 @@ From a private chat:
 
 The plan:
 
-- steal twisted highscores - [http://twistedmatrix.com/highscores/](http://twistedmatrix.com/highscores/) `bzr get http://twistedmatrix.com/highscores/`{.backtick}
+- steal twisted highscores - [http://twistedmatrix.com/highscores/](http://twistedmatrix.com/highscores/) `bzr get http://twistedmatrix.com/highscores/`
 
   - chromium highscores - [https://chromium-status.appspot.com/cq/top](https://chromium-status.appspot.com/cq/top)
 

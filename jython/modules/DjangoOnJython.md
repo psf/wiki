@@ -30,9 +30,9 @@ Finally, Django works on Jython, without any special patching. Here are the step
 4.  Start a project.
     - $ django-admin-jy startproject myproject
 
-5.  Edit `myproject/settings.py`{.backtick} and change the `DATABASE_ENGINE`{.backtick} to `doj.backends.zxjdbc.postgresql`{.backtick}.
+5.  Edit `myproject/settings.py` and change the `DATABASE_ENGINE` to `doj.backends.zxjdbc.postgresql`.
 
-At this point, you can follow the great [Django documentation](http://djangoproject.com/documentation/), remembering to use the `jython25`{.backtick} command instead of `python`{.backtick}, and the `JYTHONPATH`{.backtick} variable instead of `PYTHONPATH`{.backtick}. Have fun!
+At this point, you can follow the great [Django documentation](http://djangoproject.com/documentation/), remembering to use the `jython25` command instead of `python`, and the `JYTHONPATH` variable instead of `PYTHONPATH`. Have fun!
 
 ## Deployment 
 

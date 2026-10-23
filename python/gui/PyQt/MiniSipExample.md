@@ -55,8 +55,8 @@ hello.pro
 
 Now We call qmake for qt4 to generate the makefile, then make to build the example and install it. DESTDIR describes the directory in which the executable or binary file will be placed. DESTDIR ist Platform depended.
 
-`$ qmake`{.backtick}\
-`$ sudo make`{.backtick}
+`$ qmake`\
+`$ sudo make`
 
 ### Telling SIP what to do 
 
@@ -134,9 +134,9 @@ configure.py:
 
 We build the Python-Modul and install it
 
-`$ python configure.py`{.backtick}\
-`$ make`{.backtick}\
-`$ sudo make install`{.backtick}
+`$ python configure.py`\
+`$ make`\
+`$ sudo make install`
 
 ### Simple Python Example 
 

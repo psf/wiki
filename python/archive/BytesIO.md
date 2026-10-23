@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-This class is like `StringIO`{.backtick} for `bytes`{.backtick} objects. There are a few notes at the bottom.
+This class is like `StringIO` for `bytes` objects. There are a few notes at the bottom.
 
 *In Python 2.6, 2.7 and 3.x, the io module provides a standard BytesIO class.*
 
-This is a toy implementation. Known holes are marked with `XXX`{.backtick} comments.
+This is a toy implementation. Known holes are marked with `XXX` comments.
 
 :::: 
 ::: 
@@ -150,7 +150,7 @@ This is a toy implementation. Known holes are marked with `XXX`{.backtick} comme
 
 ### Notes 
 
-You\'ll need the toy `bytes`{.backtick} implementation if you want to try this out. If you\'re in an extreme hurry you can just use this (not quite perfect):
+You\'ll need the toy `bytes` implementation if you want to try this out. If you\'re in an extreme hurry you can just use this (not quite perfect):
 
 :::: 
 ::: 
@@ -162,6 +162,6 @@ You\'ll need the toy `bytes`{.backtick} implementation if you want to try this o
 :::
 ::::
 
-There is no `BytesIO.getvalue()`{.backtick} method because it\'s not needed. Instead, just keep a reference to the underlying buffer.
+There is no `BytesIO.getvalue()` method because it\'s not needed. Instead, just keep a reference to the underlying buffer.
 
 This works with lists and arrays, as well as bytes objects, but it\'s sort of a coincidence, rather than an actual design goal\...

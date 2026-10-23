@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Getting to a 2.2 release 
 
-- **proper `__del__`{.backtick} support for user-defined new style classes** [Notes as I bootstrap into Jython](http://sourceforge.net/mailarchive/forum.php?thread_id=30988615&forum_id=5587)
+- **proper `__del__` support for user-defined new style classes** [Notes as I bootstrap into Jython](http://sourceforge.net/mailarchive/forum.php?thread_id=30988615&forum_id=5587)
 
 - **metaclasses, super and others are still broken** [Re: bugs 1603312 and 1603315](http://sourceforge.net/mailarchive/message.php?msg_id=37533518)
 

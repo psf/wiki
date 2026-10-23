@@ -16,7 +16,7 @@ These things still need attention:
 
 - Internal string-\>object parsing routines (int(), float(), etc) need a way to bound the portion of the string they\'ll look at. This is partly bugfix, since passing a buffer object to such a Python-level routine results in anything from nonsense to segfaults now.
 
-- Tim intends to continue work on the `tim-exc_sanity`{.backtick} branch.
+- Tim intends to continue work on the `tim-exc_sanity` branch.
 
 - Fredrik intends to continue work on stringlib refactoring.
 
@@ -26,7 +26,7 @@ These things still need attention:
 
 - Any branches that are not intended to continue work should be removed before leaving the sprint. **DONE** - TP
 
-- Coverity\'s overnight (Saturday/Sunday) run shows a few new `NULL`{.backtick} complaints; need to investigate. **DONE** - TP
+- Coverity\'s overnight (Saturday/Sunday) run shows a few new `NULL` complaints; need to investigate. **DONE** - TP
 
 - Many tests are showing refcount leaks as of Saturday; Tim suspects the new exception code. **DONE**
 

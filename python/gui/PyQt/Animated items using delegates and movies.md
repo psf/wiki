@@ -30,7 +30,7 @@ We subclass QStandardItemModel so that we can examine items as they are added to
 :::
 ::::
 
-The delegate class uses a QMovie instance to generate images to display for waiting items. We create a custom signal, `needsRedraw`{.backtick}, that we emit every time the movie changes its current frame.
+The delegate class uses a QMovie instance to generate images to display for waiting items. We create a custom signal, `needsRedraw`, that we emit every time the movie changes its current frame.
 
 :::: 
 ::: 
@@ -68,9 +68,9 @@ The delegate class uses a QMovie instance to generate images to display for wait
 :::
 ::::
 
-We reimplement the `paint()`{.backtick} method of the delegate, adjusting the region in which the delegate draws its normal contents, and we draw a pixmap at the left-hand end of the item. We finish by calling the base class\'s implementation of the `paint()`{.backtick} method so that the rest of the item is painted normally.
+We reimplement the `paint()` method of the delegate, adjusting the region in which the delegate draws its normal contents, and we draw a pixmap at the left-hand end of the item. We finish by calling the base class\'s implementation of the `paint()` method so that the rest of the item is painted normally.
 
-The customisations to the model class are minimal. We provide a custom signal, `finished`{.backtick}, so that we can inform other components when all waiting items have finished, and we keep a dictionary that maps timers to pending items.
+The customisations to the model class are minimal. We provide a custom signal, `finished`, so that we can inform other components when all waiting items have finished, and we keep a dictionary that maps timers to pending items.
 
 :::: 
 ::: 
@@ -99,9 +99,9 @@ The customisations to the model class are minimal. We provide a custom signal, `
 :::
 ::::
 
-Reimplementing the `appendRow()`{.backtick} method, we create timers for items that are waiting (they have their [UserRole](./UserRole.html) set to True), and store them in the `pendingItems`{.backtick} dictionary. Each timer\'s `timeout`{.backtick} signal is connected to the `checkPending()`{.backtick} slot.
+Reimplementing the `appendRow()` method, we create timers for items that are waiting (they have their [UserRole](./UserRole.html) set to True), and store them in the `pendingItems` dictionary. Each timer\'s `timeout` signal is connected to the `checkPending()` slot.
 
-This method simply retrieves the corresponding item for each timer and updates its state so that the delegate no longer shows it as a waiting item. It then deletes the dictionary entry (and the timer, since it is the dictionary key). If no items remain in the dictionary, we emit the `finished`{.backtick} signal.
+This method simply retrieves the corresponding item for each timer and updates its state so that the delegate no longer shows it as a waiting item. It then deletes the dictionary entry (and the timer, since it is the dictionary key). If no items remain in the dictionary, we emit the `finished` signal.
 
 :::: 
 ::: 
@@ -147,7 +147,7 @@ The creation of the model and items is as we described in the outline. We create
 :::
 ::::
 
-The delegate is set up with an animation (see [animation.mng](attachments/PyQt(2f)Animated(20)items(20)using(20)delegates(20)and(20)movies/animation.mng)) and its `needsRedraw`{.backtick} signal is connected to the `update()`{.backtick} slot of the view\'s viewport - using the view\'s `update()`{.backtick} slot is not sufficient, it seems. We start the movie.
+The delegate is set up with an animation (see [animation.mng](attachments/PyQt(2f)Animated(20)items(20)using(20)delegates(20)and(20)movies/animation.mng)) and its `needsRedraw` signal is connected to the `update()` slot of the view\'s viewport - using the view\'s `update()` slot is not sufficient, it seems. We start the movie.
 
 :::: 
 ::: 
@@ -163,7 +163,7 @@ The delegate is set up with an animation (see [animation.mng](attachments/PyQt(2
 :::
 ::::
 
-We connect the model\'s `finished`{.backtick} slot to the delegate\'s `stopMovie()`{.backtick} slot - there is no point in running the movie if no items are waiting - and to the appropriate `update()`{.backtick} slot.
+We connect the model\'s `finished` slot to the delegate\'s `stopMovie()` slot - there is no point in running the movie if no items are waiting - and to the appropriate `update()` slot.
 
 Now we can show the view and start the event loop.
 

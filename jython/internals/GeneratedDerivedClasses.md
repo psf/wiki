@@ -12,13 +12,13 @@ These are notes on the use of `gderived.py`, a tool you need when implementing n
 
 ### Background 
 
-Many of the Java classes that implement Python types have a counterpart class with the same name but with \"Derived\" appended. For example `PyString`{.backtick} is paired with `PyStringDerived`{.backtick}, `PyType`{.backtick} with `PyTypeDerived`{.backtick}, and so on. The `*Derived`{.backtick} classes are each a sub-class of their corresponding principal class. They come into play when you create a sub-class (in Python) and override (in Python) one or more methods whose base definition is exposed from the Java implementation. They ensure that this overriding (Python) method is the version invoked, even when the call is from Java.
+Many of the Java classes that implement Python types have a counterpart class with the same name but with \"Derived\" appended. For example `PyString` is paired with `PyStringDerived`, `PyType` with `PyTypeDerived`, and so on. The `*Derived` classes are each a sub-class of their corresponding principal class. They come into play when you create a sub-class (in Python) and override (in Python) one or more methods whose base definition is exposed from the Java implementation. They ensure that this overriding (Python) method is the version invoked, even when the call is from Java.
 
-There are two parts to this remarkable feature. One is in the implementation of the principal class itself, where the static exposed `new`{.backtick} method checks to see whether the actual (Python) type of the object being created is exactly the type that the principal class implements. If it is, then a new instance of the (Java) class is returned. If it is not exactly that class, an instance of the counterpart `*Derived`{.backtick} class is returned.
+There are two parts to this remarkable feature. One is in the implementation of the principal class itself, where the static exposed `new` method checks to see whether the actual (Python) type of the object being created is exactly the type that the principal class implements. If it is, then a new instance of the (Java) class is returned. If it is not exactly that class, an instance of the counterpart `*Derived` class is returned.
 
-The second part of the feature is in the `*Derived`{.backtick} class. There, each exposed method may be overridden in a stylised way: it will check for the existence of a (Python) method redefining (the exposed name of) that method. If it fails to find one, it calls the version in the principal class (using the `super`{.backtick} keyword in Java). If it finds a Python re-definition, it invokes that using `PyObject.__call__()`{.backtick}.
+The second part of the feature is in the `*Derived` class. There, each exposed method may be overridden in a stylised way: it will check for the existence of a (Python) method redefining (the exposed name of) that method. If it fails to find one, it calls the version in the principal class (using the `super` keyword in Java). If it finds a Python re-definition, it invokes that using `PyObject.__call__()`.
 
-The `*Derived`{.backtick} counterpart of each principal class is generated using the script `gderived.py` and a brief specification. The script is in the `src/templates` directory, together with several modules it imports, and it has to be run with that as the current directory. The specification corresponding to each principal class is in the same directory.
+The `*Derived` counterpart of each principal class is generated using the script `gderived.py` and a brief specification. The script is in the `src/templates` directory, together with several modules it imports, and it has to be run with that as the current directory. The specification corresponding to each principal class is in the same directory.
 
 One of the imported modules is `gexposed.py`. This used to have a function in its own right, but it is superseded by the exposer (`org.python.expose.generate.Exposer`) and the corresponding Ant task. If you use the new exposer, even if you prohibit sub-classing with `@ExposedType(isBaseType=false)`, it will generate a reference to the sort of class `gderived.py` creates. The modern exposer is described in the article [PythonTypesInJava](PythonTypesInJava).
 
@@ -84,7 +84,7 @@ define
 
 ctr
 
-:   arguments to the constructor, after the `subtype`{.backtick} argument. For example, in `_json.Scanner.derived`{.backtick} we have `ctr: PyObject context`{.backtick}, and this leads to the constructor `ScannerDerived(PyType subtype, PyObject context)`{.backtick} which calls `super(subtype, context)`{.backtick}
+:   arguments to the constructor, after the `subtype` argument. For example, in `_json.Scanner.derived` we have `ctr: PyObject context`, and this leads to the constructor `ScannerDerived(PyType subtype, PyObject context)` which calls `super(subtype, context)`
 
 incl
 :   Include all the methods from this base class,
@@ -103,7 +103,7 @@ ibinary
 
 no_toString: \[true\|false\]
 
-:   If the parameter is **false** or the directive is not present, generated class will be given a custom `toString()` method that invokes `__repr__`{.backtick}. If **true**, or the directive is given without a parameter, the generated class will **not** be given a custom `toString()` method. Use this when you already have a satisfactory one in the base.
+:   If the parameter is **false** or the directive is not present, generated class will be given a custom `toString()` method that invokes `__repr__`. If **true**, or the directive is given without a parameter, the generated class will **not** be given a custom `toString()` method. Use this when you already have a satisfactory one in the base.
 
 rest:
 :   The rest of the file is Java code to insert (pretty much verbatim) into the derived class. Use this to provide your own custom overriding methods.

@@ -12,7 +12,7 @@ Writing a module extension Java for use by Jython can be done a couple of differ
 
 - Write a subclass of [PyObject](./PyObject.html).
 
-The advantage to writing a POJO is the class can be reused in Java without any dependency on Jython\'s runtime. The downside to this approach is the class cannot take advantage of the dynamic nature of Python. The class cannot be modified at runtime with new methods or have its `__dict__`{.backtick} modified. It also means features such as iterators must go unimplemented.
+The advantage to writing a POJO is the class can be reused in Java without any dependency on Jython\'s runtime. The downside to this approach is the class cannot take advantage of the dynamic nature of Python. The class cannot be modified at runtime with new methods or have its `__dict__` modified. It also means features such as iterators must go unimplemented.
 
 The advantage of writing the class as a [PyObject](./PyObject.html) subclass is all of the dynamic nature of Python is available for use. For example, in Python it\'s possible to call a method with keyword arguments. This is not possible in Java and therefore the use of this feature is only available if the class implements [PyObject](./PyObject.html).
 

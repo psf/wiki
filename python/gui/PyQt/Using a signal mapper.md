@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Using a signal mapper 
 
-On the `#pyqt`{.backtick} channel on Freenode, `lauri`{.backtick} asked about connecting identically-named signals with different parameters from QSignalMapper to slots.
+On the `#pyqt` channel on Freenode, `lauri` asked about connecting identically-named signals with different parameters from QSignalMapper to slots.
 
 The following example uses old-style signals and slots connections to explicitly specify the signals to be connected to slots in a Python subclass of QWidget.
 

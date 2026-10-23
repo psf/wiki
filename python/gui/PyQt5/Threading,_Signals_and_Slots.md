@@ -18,7 +18,7 @@ This example shows how to create a separate thread to perform a task - in this c
 
 ### The User Interface 
 
-We begin by importing the modules we require. We need the `math`{.backtick} and `random`{.backtick} modules to help us draw stars.
+We begin by importing the modules we require. We need the `math` and `random` modules to help us draw stars.
 
     import math, random, sys
     from PyQt5.QtCore import *
@@ -30,9 +30,9 @@ We begin by importing the modules we require. We need the `math`{.backtick} and 
             QWidget.__init__(self, parent)        
             self.thread = Worker()
 
-The main window in this example is just a QWidget. We create a single `Worker`{.backtick} instance that we can reuse as required.
+The main window in this example is just a QWidget. We create a single `Worker` instance that we can reuse as required.
 
-The user interface consists of a label, spin box and a push button that the user interacts with to configure the number of stars that the thread wil draw. The output from the thread is presented in a QLabel instance, `viewer`{.backtick}.
+The user interface consists of a label, spin box and a push button that the user interacts with to configure the number of stars that the thread wil draw. The output from the thread is presented in a QLabel instance, `viewer`.
 
             label = QLabel(self.tr("Number of stars:"))
             self.spinBox = QSpinBox()
@@ -42,14 +42,14 @@ The user interface consists of a label, spin box and a push button that the user
             self.viewer = QLabel()
             self.viewer.setFixedSize(300, 300)
 
-We connect the standard `finished()`{.backtick} and `terminated()`{.backtick} signals from the thread to the same slot in the widget. This will reset the user interface when the thread stops running. The custom `output(QRect, QImage)`{.backtick} signal is connected to the `addImage()`{.backtick} slot so that we can update the `viewer`{.backtick} label every time a new star is drawn.
+We connect the standard `finished()` and `terminated()` signals from the thread to the same slot in the widget. This will reset the user interface when the thread stops running. The custom `output(QRect, QImage)` signal is connected to the `addImage()` slot so that we can update the `viewer` label every time a new star is drawn.
 
             self.thread.finished.connect(self.updateUi)
             #self.thread.terminated.connect(self.updateUi)
             self.thread.output['QRect', 'QImage'].connect(self.addImage)
             self.startButton.clicked.connect(self.makePicture)
 
-The start button\'s `clicked()`{.backtick} signal is connected to the `makePicture()`{.backtick} slot, which is responsible for starting the worker thread.
+The start button\'s `clicked()` signal is connected to the `makePicture()` slot, which is responsible for starting the worker thread.
 
 We place each of the widgets into a grid layout and set the window\'s title:
 
@@ -61,7 +61,7 @@ We place each of the widgets into a grid layout and set the window\'s title:
             self.setLayout(layout)        
             self.setWindowTitle(self.tr("Simple Threading Example"))
 
-The `makePicture()`{.backtick} slot needs to do three things: disable the user interface widgets that are used to start a thread, clear the `viewer`{.backtick} label with a new pixmap, and start the thread with the appropriate parameters.
+The `makePicture()` slot needs to do three things: disable the user interface widgets that are used to start a thread, clear the `viewer` label with a new pixmap, and start the thread with the appropriate parameters.
 
 Since the start button is the only widget that can cause this slot to be invoked, we simply disable it before starting the thread, avoiding problems with re-entrancy.
 
@@ -73,9 +73,9 @@ Since the start button is the only widget that can cause this slot to be invoked
             self.viewer.setPixmap(pixmap)
             self.thread.render(self.viewer.size(), self.spinBox.value())
 
-We call a custom method in the `Worker`{.backtick} thread instance with the size of the `viewer`{.backtick} label and the number of stars, obtained from the spin box.
+We call a custom method in the `Worker` thread instance with the size of the `viewer` label and the number of stars, obtained from the spin box.
 
-Whenever is star is drawn by the worker thread, it will emit a signal that is connected to the `addImage()`{.backtick} slot. This slot is called with a QRect value, indicating where the star should be placed in the pixmap held by the `viewer`{.backtick} label, and an image of the star itself:
+Whenever is star is drawn by the worker thread, it will emit a signal that is connected to the `addImage()` slot. This slot is called with a QRect value, indicating where the star should be placed in the pixmap held by the `viewer` label, and an image of the star itself:
 
         def addImage(self, rect, image):    
             pixmap = self.viewer.pixmap()
@@ -87,13 +87,13 @@ Whenever is star is drawn by the worker thread, it will emit a signal that is co
 
 We use a QPainter to draw the image at the appropriate place on the label\'s pixmap.
 
-The `updateUi()`{.backtick} slot is called when a thread stops running. Since we usually want to let the user run the thread again, we reset the user interface to enable the start button to be pressed:
+The `updateUi()` slot is called when a thread stops running. Since we usually want to let the user run the thread again, we reset the user interface to enable the start button to be pressed:
 
         def updateUi(self):
             self.spinBox.setReadOnly(False)
             self.startButton.setEnabled(True)
 
-Now that we have seen how an instance of the `Window`{.backtick} class uses the worker thread, let us take a look at the thread\'s implementation.
+Now that we have seen how an instance of the `Window` class uses the worker thread, let us take a look at the thread\'s implementation.
 
 ### The Worker Thread 
 
@@ -107,7 +107,7 @@ The worker thread is implemented as a [PyQt](../PyQt) thread rather than a Pytho
             self.size = QSize(0, 0)
             self.stars = 0
 
-We define `size`{.backtick} and `stars`{.backtick} attributes that store information about the work the thread is required to do, and we assign default values to them. The `exiting`{.backtick} attribute is used to tell the thread to stop processing.
+We define `size` and `stars` attributes that store information about the work the thread is required to do, and we assign default values to them. The `exiting` attribute is used to tell the thread to stop processing.
 
 Each star is drawn using a QPainterPath that we define in advance:
 
@@ -127,7 +127,7 @@ Each star is drawn using a QPainterPath that we define in advance:
                     )
             self.path.closeSubpath()
 
-Before a `Worker`{.backtick} object is destroyed, we need to ensure that it stops processing. For this reason, we implement the following method in a way that indicates to the part of the object that performs the processing that it must stop, and waits until it does so.
+Before a `Worker` object is destroyed, we need to ensure that it stops processing. For this reason, we implement the following method in a way that indicates to the part of the object that performs the processing that it must stop, and waits until it does so.
 
         def __del__(self):    
             self.exiting = True
@@ -140,9 +140,9 @@ For convenience, we define a method to set up the attributes required by the thr
             self.stars = stars
             self.start()
 
-The `start()`{.backtick} method is a special method that sets up the thread and calls our implementation of the `run()`{.backtick} method. We provide the `render()`{.backtick} method instead of letting our own `run()`{.backtick} method take extra arguments because the `run()`{.backtick} method is called by [PyQt](../PyQt) itself with no arguments.
+The `start()` method is a special method that sets up the thread and calls our implementation of the `run()` method. We provide the `render()` method instead of letting our own `run()` method take extra arguments because the `run()` method is called by [PyQt](../PyQt) itself with no arguments.
 
-The `run()`{.backtick} method is where we perform the processing that occurs in the thread provided by the `Worker`{.backtick} instance:
+The `run()` method is where we perform the processing that occurs in the thread provided by the `Worker` instance:
 
         def run(self):        
             # Note: This is never called directly. It is called by Qt once the
@@ -154,7 +154,7 @@ The `run()`{.backtick} method is where we perform the processing that occurs in 
 
 Information stored as attributes in the instance determines the number of stars to be drawn and the area over which they will be distributed.
 
-We draw the number of stars requested *as long as the `exiting`{.backtick} attribute remains `False`{.backtick}*. This additional check allows us to terminate the thread on demand by setting the `exiting`{.backtick} attribute to `True`{.backtick} at any time.
+We draw the number of stars requested *as long as the `exiting` attribute remains `False`*. This additional check allows us to terminate the thread on demand by setting the `exiting` attribute to `True` at any time.
 
             while not self.exiting and n > 0:        
                 image = QImage(self.outerRadius * 2, self.outerRadius * 2,
@@ -180,12 +180,12 @@ We draw the number of stars requested *as long as the `exiting`{.backtick} attri
 
 The drawing code is not particularly relevant to this example. We simply draw on an appropriately-sized transparent image.
 
-For each star drawn, we send the main thread information about where it should be placed along with the star\'s image by emitting our custom `output()`{.backtick} signal:
+For each star drawn, we send the main thread information about where it should be placed along with the star\'s image by emitting our custom `output()` signal:
 
                 self.output.emit( QRect(x - self.outerRadius, y - self.outerRadius, self.outerRadius * 2, self.outerRadius * 2), image)
                 n -= 1
 
-Since `QRect`{.backtick} and `QImage`{.backtick} objects can be serialized for transmission via the signals and slots mechanism, they can be sent between threads in this way, making it convenient to use threads in a wide range of situations where built-in types are used.
+Since `QRect` and `QImage` objects can be serialized for transmission via the signals and slots mechanism, they can be sent between threads in this way, making it convenient to use threads in a wide range of situations where built-in types are used.
 
 ### Running the Example 
 

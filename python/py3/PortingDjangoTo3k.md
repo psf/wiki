@@ -38,11 +38,11 @@ A number of modules that django uses have been removed, or renamed:
 
 - cStringIO is no longer; Django should use io.BytesIO instead.
 
-- the .next method of iterators got renamed to `__next__`{.backtick}. A builtin `next()`{.backtick} was added, but is not available in 2.x; I added an emulation of it in the py3 utility module.
+- the .next method of iterators got renamed to `__next__`. A builtin `next()` was added, but is not available in 2.x; I added an emulation of it in the py3 utility module.
 
 In addition, a few functions and attributes got renamed:
 
-- to test whether something is a function, don\'t look at `func_code`{.backtick} anymore; use `__code__`{.backtick} instead.
+- to test whether something is a function, don\'t look at `func_code` anymore; use `__code__` instead.
 
 ### Bytes vs. Strings 
 
@@ -63,7 +63,7 @@ To fix these problems, I made the following changes:
 
 - introduce django.utils.py3.b, which is a function that converts its argument to an ASCII-encoded byte string. In 2.x, it is another alias for str; in 3.x, it leaves byte strings alone, and encodes regular (unicode) strings as ASCII. This function is used in all places where string literals are meant as bytes, plus all cases where str() was used to invoke the default conversion of 2.x.
 
-- Django encourages users to define `__unicode__`{.backtick} methods in models; 2to3 leaves them alone. Rather than changing them to str, I kept the Django approach of calling them explicitly. In some cases, they were called implicitly (through unicode()); these calls had to be converted.
+- Django encourages users to define `__unicode__` methods in models; 2to3 leaves them alone. Rather than changing them to str, I kept the Django approach of calling them explicitly. In some cases, they were called implicitly (through unicode()); these calls had to be converted.
 
 - md5.hexdigest returns a (unicode) string in 3.x; Django assumes the digest is a byte sequence.
 
@@ -85,7 +85,7 @@ To fix these problems, I made the following changes:
 
 - Django relies on clearing the dictionary of the class called Meta in a Model. This a) doesn\'t work anymore, as the dictionary proxy is immutable,
 
-  and b) leaves over a number of attributes in the class that are new in 3.x (`__weakref__`{.backtick} and `__dict__`{.backtick}). I copy the dict, then clear it. I don\'t understand why it is important to clear the dict, other than checking that all attributes have been processed completely, so I hope this change is correct.
+  and b) leaves over a number of attributes in the class that are new in 3.x (`__weakref__` and `__dict__`). I copy the dict, then clear it. I don\'t understand why it is important to clear the dict, other than checking that all attributes have been processed completely, so I hope this change is correct.
 
 - [cmp] cannot be used anymore for comparison; classes need to implement [lt], etc.
 
@@ -103,7 +103,7 @@ To fix these problems, I made the following changes:
 
 - The manage module has an \"import settings\", this gets fixed to \"from . import settings\" by 2to3. When manage.py is then run as the main script, Python complains that the relative import is incorrect. However, that \*would\* be correct if the script is imported as \<site\>.manage
 
-- checks for `im_func`{.backtick} need to be replaced with checks for `__func__`{.backtick}.
+- checks for `im_func` need to be replaced with checks for `__func__`.
 
 - \... (many more things; this just barely works)
 

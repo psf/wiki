@@ -113,7 +113,7 @@ I totally concur with Daniel Robbins when he said \"if you haven\'t started usin
 
 \-- [EricRadman](./EricRadman.html) 2004-10-01
 
-My evolution in web programming is similar: *Perl -\> PHP2 -\> PHP3 -\> Python CGI + HTMLgen -\> Webware -\> Webware + Cheetah* always with `PostgreSQL`{.backtick}. I totally agree with the statement concerning the maintainability of average PHP code (my own projects are definitely no exception). In my experience Python + Webware + Cheetah build a stable and performant platform for websites and applications.
+My evolution in web programming is similar: *Perl -\> PHP2 -\> PHP3 -\> Python CGI + HTMLgen -\> Webware -\> Webware + Cheetah* always with `PostgreSQL`. I totally agree with the statement concerning the maintainability of average PHP code (my own projects are definitely no exception). In my experience Python + Webware + Cheetah build a stable and performant platform for websites and applications.
 
 The often criticized diversity of the python web programming projects is a \"paradise of choice\" for me. Maybe the only thing we need is a good decision support for beginners. Something like a document or website saying:
 

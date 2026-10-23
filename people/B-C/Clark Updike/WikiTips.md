@@ -16,7 +16,7 @@ Make a page public read, [MoinPagesEditorGroup](MoinPagesEditorGroup) write, put
 
     #acl MoinPagesEditorGroup:read,write,delete,revert All:read
 
-But right now, when I try this it says: `You can't change ACLs on this page since you have no admin rights on it!`{.backtick}
+But right now, when I try this it says: `You can't change ACLs on this page since you have no admin rights on it!`
 
 - Create an anchor.
 
@@ -80,7 +80,7 @@ If your doing lots of anchors on the same page, you may want to consider using t
     print "jython rocks!"                
     } } } <-- don't include these spaces (it's just to escape them)
 
-- Or ticks for `print "jython rocks!"`{.backtick}.\
+- Or ticks for `print "jython rocks!"`.\
 
 <!-- -->
 
@@ -116,7 +116,7 @@ To delete a wiki page:
 
 - turn off the DeletePage action in moin_config.py
 
-Note: moin_config.py is probably here, `<wiki home>/moin/<wiki name>`{.backtick}
+Note: moin_config.py is probably here, `<wiki home>/moin/<wiki name>`
 
 ::: footnotes
 1.  []This is a sample footnote \[look for it at the bottom of the page\]. ([1](#fndef-1151ad7600a53a0620d4755d42af8e668e1ed7a5-0))

@@ -14,7 +14,7 @@ With just a QGraphicsScene, a QGraphicsView and a few input widgets, we can draw
 
 ### Importing Modules 
 
-We begin by importing the standard `sys`{.backtick} module and some classes from the [PyQt4](../PyQt4) package:
+We begin by importing the standard `sys` module and some classes from the [PyQt4](../PyQt4) package:
 
 :::: 
 ::: 
@@ -26,11 +26,11 @@ We begin by importing the standard `sys`{.backtick} module and some classes from
 :::
 ::::
 
-For convenience, we import all the classes in [PyQt4](../PyQt4)\'s `QtCore`{.backtick} and `QtGui`{.backtick} modules rather than listing only those we need. The only disadvantage to this is that the program\'s namespace will contain all the classes from those modules.
+For convenience, we import all the classes in [PyQt4](../PyQt4)\'s `QtCore` and `QtGui` modules rather than listing only those we need. The only disadvantage to this is that the program\'s namespace will contain all the classes from those modules.
 
 ### Creating a Window 
 
-The application\'s window will be an instance of the `Window`{.backtick} custom widget class, derived from `QWidget`{.backtick}, which we will use as a container for other widgets.
+The application\'s window will be an instance of the `Window` custom widget class, derived from `QWidget`, which we will use as a container for other widgets.
 
     class Window(QWidget):
 
@@ -42,7 +42,7 @@ The application\'s window will be an instance of the `Window`{.backtick} custom 
             self.number = 6
             self.font = QFont()
 
-The first task we need to perform in the class\'s initialisation method is to call the equivalent method in the base class. We then define some attributes that will be used to customize the text displayed by the application. We use the `tr()`{.backtick} method to follow good practice, in case we want to translate the application into different languages in the future.
+The first task we need to perform in the class\'s initialisation method is to call the equivalent method in the base class. We then define some attributes that will be used to customize the text displayed by the application. We use the `tr()` method to follow good practice, in case we want to translate the application into different languages in the future.
 
 The window will contain a number of standard widgets, arranged in a grid layout. On the left will be a QGraphicsView widget - a canvas-like widget. To the right of this will be a line edit, a spin box and a combobox, each with associated labels. The user will enter the text to be displayed on the canvas using the line edit, use the spin box to indicate how many times it should be displayed, and set the display font using the font combobox:
 
@@ -65,9 +65,9 @@ Each of the labels is associated with an input widget using the following assign
             numberLabel.setBuddy(spinBox)
             fontLabel.setBuddy(fontCombo)
 
-These enable the user to use the mnemonics specified using `&`{.backtick} characters in the labels to nagivate directly to the input widgets themselves.
+These enable the user to use the mnemonics specified using `&` characters in the labels to nagivate directly to the input widgets themselves.
 
-Since we want the view to be updated whenever the user changes the parameters influencing the text displayed there, we connect signals in each of these widgets to appropriate slots (defined later) in the `Window`{.backtick} class:
+Since we want the view to be updated whenever the user changes the parameters influencing the text displayed there, we connect signals in each of these widgets to appropriate slots (defined later) in the `Window` class:
 
             self.connect(lineEdit, SIGNAL("textChanged(const QString &)"),
                          self.setText)
@@ -77,7 +77,7 @@ Since we want the view to be updated whenever the user changes the parameters in
 
 Each signal is specified using a C++ signature that indicate the type of data that is communicated. Since the slots are just Python methods, we can specify them without providing any type information.
 
-We set up the layout of these widgets as described earlier, using a `QGridLayout`{.backtick} instance to arrange the input widgets and labels, and place this alongside the `QGraphicsView`{.backtick} widget:
+We set up the layout of these widgets as described earlier, using a `QGridLayout` instance to arrange the input widgets and labels, and place this alongside the `QGraphicsView` widget:
 
             controlsLayout = QGridLayout()
             controlsLayout.addWidget(textLabel, 0, 0)
@@ -98,7 +98,7 @@ Once the layout is set up, we create a scene for the view using the initial defa
             self.createScene()
             self.setWindowTitle(self.tr("Text Effects"))
 
-Initially, the `QGraphicsView`{.backtick} instance has no scene to display. The `createScene()`{.backtick} method is used to remove any old scene, create a new `QGraphicsScene`{.backtick} instance, populate it with text items, and add it to the view:
+Initially, the `QGraphicsView` instance has no scene to display. The `createScene()` method is used to remove any old scene, create a new `QGraphicsScene` instance, populate it with text items, and add it to the view:
 
         def createScene(self):
 
@@ -119,12 +119,12 @@ The text items will be arranged in a evenly-spaced circular formation, so we cal
                 item.rotate(i * angle)
                 item.translate(20.0, -height/2.0)
 
-Each of the text items is created with the desired text and font using a `QGraphicsScene`{.backtick} convenience method. We rotate each item by the appropriate angle before translating it along its local x-axis, and translate it upwards along its local y-axis by half the font\'s height to improve the overall visual effect.
+Each of the text items is created with the desired text and font using a `QGraphicsScene` convenience method. We rotate each item by the appropriate angle before translating it along its local x-axis, and translate it upwards along its local y-axis by half the font\'s height to improve the overall visual effect.
 
             self.scene = scene
             self.view.update()
 
-The new scene is stored in an attribute, replacing any old scene previously created, and the view is updated with a call to its `update()`{.backtick} method.
+The new scene is stored in an attribute, replacing any old scene previously created, and the view is updated with a call to its `update()` method.
 
 When any of the values in the input widgets change, the signal emitted by the widget will be delivered to one of the following slots, which will be called with the value specified in the signal:
 
@@ -143,9 +143,9 @@ When any of the values in the input widgets change, the signal emitted by the wi
             self.font = QFont(font)
             self.createScene()
 
-Each of these slots simply updates the appropriate attribute in the instance and call `createScene()`{.backtick} to update the text displayed in the view.
+Each of these slots simply updates the appropriate attribute in the instance and call `createScene()` to update the text displayed in the view.
 
-The main program is as simple as possible. We create an application instance, create a widget by instantiating the `Window`{.backtick} class, and show it:
+The main program is as simple as possible. We create an application instance, create a widget by instantiating the `Window` class, and show it:
 
     if __name__ == "__main__":
 
@@ -154,4 +154,4 @@ The main program is as simple as possible. We create an application instance, cr
         window.show()
         sys.exit(app.exec_())
 
-We call the application\'s `exec_()`{.backtick} method and pass its return value to the `sys.exit()`{.backtick} function. The application doesn\'t exit immediately because the Qt event loop is entered when `exec_()`{.backtick} is called, and control does not return to the main program until the window is closed. At this point, `sys.exit()`{.backtick} is finally called with the result from the application.
+We call the application\'s `exec_()` method and pass its return value to the `sys.exit()` function. The application doesn\'t exit immediately because the Qt event loop is entered when `exec_()` is called, and control does not return to the main program until the window is closed. At this point, `sys.exit()` is finally called with the result from the application.

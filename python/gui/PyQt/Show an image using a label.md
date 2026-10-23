@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Show an image using a label 
 
-On the `#pyqt`{.backtick} IRC channel on Freenode, `elhobab`{.backtick} asked how to show an image.
+On the `#pyqt` IRC channel on Freenode, `elhobab` asked how to show an image.
 
 :::: 
 ::: 

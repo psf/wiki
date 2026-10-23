@@ -25,11 +25,11 @@ You do know that Python has a complex number type? For example:
 
 However, you could certainly define your own for educational purposes. It sounds like you support addition where a complex number instance is on the left hand side of an addition operation, but not on the right hand side. What happens when Python tries to perform an addition operation is this:
 
-1.  Python looks for a `__add__`{.backtick} method on the left hand side operand. If this isn\'t found or if it returns `NotImplemented`{.backtick} (the method doesn\'t want to add the right hand side operand to itself), then\...
+1.  Python looks for a `__add__` method on the left hand side operand. If this isn\'t found or if it returns `NotImplemented` (the method doesn\'t want to add the right hand side operand to itself), then\...
 
-2.  Python looks for a `__radd__`{.backtick} method on the right hand side operand. If this isn\'t found or doesn\'t want to use the left hand side operand, then you get a `TypeError`{.backtick}.
+2.  Python looks for a `__radd__` method on the right hand side operand. If this isn\'t found or doesn\'t want to use the left hand side operand, then you get a `TypeError`.
 
-So perhaps your class needs to define the `__radd__`{.backtick} method. \-- [PaulBoddie](../../people/PaulBoddie) 2011-03-26 23:04:42
+So perhaps your class needs to define the `__radd__` method. \-- [PaulBoddie](../../people/PaulBoddie) 2011-03-26 23:04:42
 
 ::: note
 When *answering* questions, add the [CategoryAskingForHelpAnswered](CategoryAskingForHelpAnswered) category when saving the page. This will move the link to this page from the questions section to the answers section on the [Asking for Help]() page.

@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Creating a widget with a fixed aspect ratio 
 
-On the `#pyqt`{.backtick} channel on [Freenode](http://freenode.net), `magicblaze007`{.backtick} asked for an example of a custom widget with a fixed aspect ratio.
+On the `#pyqt` channel on [Freenode](http://freenode.net), `magicblaze007` asked for an example of a custom widget with a fixed aspect ratio.
 
 One place to look for information is the Qt Quarterly article, [Trading Height for Width](http://doc.qt.digia.com/qq/qq04-height-for-width.html) which shows how this is done using C++ and Qt 3.
 

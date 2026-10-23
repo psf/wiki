@@ -128,7 +128,7 @@ I ([VinaySajip](../people/VinaySajip)) like this syntax, except for:
 - It may be restrictive to only allow identifiers as keys.
 - It\'s a bit more limiting/verbose, if you only have one or two keys for an entry, to use the indentation approach,as opposed to e.g. { host: localhost, port: 80 } on a single line.
 
-As far as use of expressions in the config file, I am ambivalent, and curious to hear more opinions; sometimes a declarative approach is good. But more than the syntax, I\'m interested in what people think about the semantics: for example, allowing cross-references between config elements (perhaps across multiple files), and the ability to perform restricted \"special\" evaluation of some elements (e.g. `sys.stderr`{.backtick})
+As far as use of expressions in the config file, I am ambivalent, and curious to hear more opinions; sometimes a declarative approach is good. But more than the syntax, I\'m interested in what people think about the semantics: for example, allowing cross-references between config elements (perhaps across multiple files), and the ability to perform restricted \"special\" evaluation of some elements (e.g. `sys.stderr`)
 
 ------------------------------------------------------------------------
 

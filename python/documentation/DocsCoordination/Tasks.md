@@ -16,7 +16,7 @@ for those who want to develop the toolset
 
 **Get into the code**
 
-- The first task for those who want to develop the toolset is to make themselves familiar with it. There are two documents, called `doctools/README`{.backtick} and `doctools/HACKING`{.backtick}, which give a short introduction how to use the command line tools and how the code is laid out. *Feel free to amend!*
+- The first task for those who want to develop the toolset is to make themselves familiar with it. There are two documents, called `doctools/README` and `doctools/HACKING`, which give a short introduction how to use the command line tools and how the code is laid out. *Feel free to amend!*
 
 **Improvement suggestions**
 
@@ -26,7 +26,7 @@ for those who want to develop the toolset
 
 #### The TODO file 
 
-The `doctools/TODO`{.backtick} file lists some things that should be done. At the moment, these are:
+The `doctools/TODO` file lists some things that should be done. At the moment, these are:
 
 **discuss and debug comments system**
 
@@ -42,7 +42,7 @@ The `doctools/TODO`{.backtick} file lists some things that should be done. At th
 
 **look at the old tools/ scripts, what functionality should be rewritten**
 
-- There were quite a few tools in `Doc/tools/`{.backtick}, e.g. looking which modules were documented. Some of this functionality is obsolete now, some of it may be useful.
+- There were quite a few tools in `Doc/tools/`, e.g. looking which modules were documented. Some of this functionality is obsolete now, some of it may be useful.
 
 **Py-in-the-sky ideas**
 

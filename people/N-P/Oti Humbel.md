@@ -8,6 +8,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Hi,
 
-everybody calls me Oti, while my sf user name is `otmarhumbel`{.backtick}. You can reach me here:
+everybody calls me Oti, while my sf user name is `otmarhumbel`. You can reach me here:
 
 \* [ohumbel@gmail.com](mailto:ohumbel@gmail.com)

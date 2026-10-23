@@ -511,14 +511,14 @@ See [Packages in Python extension modules](http://isolation-nation.blogspot.com/
 
 ### C++ object from Python 
 
-If you have a reference, use `handle`{.backtick}:
+If you have a reference, use `handle`:
 
     handle<> x(whatever);   // new reference
     handle<> x(borrowed(whatever));  // borrowed reference
 
     object(x); // now we have an object.
 
-Than you can try to `extract`{.backtick} a value:
+Than you can try to `extract` a value:
 
     Type v = extract<Type>(x);
 

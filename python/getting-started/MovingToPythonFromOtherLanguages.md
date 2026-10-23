@@ -73,17 +73,17 @@ The following was taken from a post in comp.lang.python from Mel Wilson, which I
 
 - Strings are immutable. Whenever you think you have changed a string, remember that you really created a new string.
 
-- Where you would use `<vector T>`{.backtick}, use lists, or tuples, that is \[\] or (). Where you would use `<map T1, T2>`{.backtick}, use dictionaries, that is {} .
+- Where you would use `<vector T>`, use lists, or tuples, that is \[\] or (). Where you would use `<map T1, T2>`, use dictionaries, that is {} .
 
-- The semantics of iterators is available, but most of the syntax goes away. `for item in alist:`{.backtick} iterates over all the items in alist, one by one .. where `alist`{.backtick} is a sequence, i.e. a list, tuple, or string. To iterate over a sublist, use slices: `for item in alist[1:-1]:`{.backtick} does as above, but omits the first and last items.
+- The semantics of iterators is available, but most of the syntax goes away. `for item in alist:` iterates over all the items in alist, one by one .. where `alist` is a sequence, i.e. a list, tuple, or string. To iterate over a sublist, use slices: `for item in alist[1:-1]:` does as above, but omits the first and last items.
 
 - For trickier iterations, read and re-read the Library doc on the topic of general-purpose functions. There are some functions that apply to sequences: map, filter, reduce, zip. that can work wonders. Hidden somewhere under the documentation for sequences there is a description of string methods that you\'ll want to read.
 
 - Hidden under the docs for \'Other Types\' are the descriptions of all the file methods. There are no iostreams per se, but the class method [str] can get some of the effect for your own classes, and there are surely other angles I haven\'t thought of.
 
-- Forget overloading. You can define a function, and call it with anything you want, but if it has to behave differently for different type operands, you have to use the run-time type identification `type`{.backtick} function explicitly within the single definition of the function. Default arguments to functions are just as powerful a tool as in C++. *Actually polymorphism does work as expected, it just doesn\'t require deriving from a base class as in C++ or Java.*
+- Forget overloading. You can define a function, and call it with anything you want, but if it has to behave differently for different type operands, you have to use the run-time type identification `type` function explicitly within the single definition of the function. Default arguments to functions are just as powerful a tool as in C++. *Actually polymorphism does work as expected, it just doesn\'t require deriving from a base class as in C++ or Java.*
 
-- In class definitions the equivalents of operator methods are covered in a chapter in the Python Language Reference. (Look for the double-underscore methods like `__cmp__`{.backtick}, `__str__`{.backtick}, `__add__`{.backtick}, etc.)
+- In class definitions the equivalents of operator methods are covered in a chapter in the Python Language Reference. (Look for the double-underscore methods like `__cmp__`, `__str__`, `__add__`, etc.)
 
 - In C, the gotcha for new users is probably about pointers; they\'re tricky and they can\'t be avoided. The gotchas in Python are situations when you use different references to a single object, thinking you are using different objects. I believe the difference between mutable and immutable objects comes into play. I have no clear answers here .. I still get caught once in a while .. keep your eyes open.
 

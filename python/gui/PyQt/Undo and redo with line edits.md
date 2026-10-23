@@ -8,7 +8,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Undo and redo with line edits 
 
-On `comp.lang.python`{.backtick}, Zabin asked for some help with undo/redo and a form interface.
+On `comp.lang.python`, Zabin asked for some help with undo/redo and a form interface.
 
 :::: 
 ::: 

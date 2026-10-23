@@ -32,13 +32,13 @@ Speciell symbolik används för att beskriva speciella konstruktioner:
 
 - Text som står mellan två \'\_\'-tecken (med mellanslag före det första \'\_\' och mellanslag eller interpunktionstecken efter den andra \'\_\') visas understruken.
 
-- Text som står mellan dubbla citationstecken följt av ett kolon, eller en `URL`{.backtick}eller som avslutas med interpunktionstecken följt av mellanslag, behandlas som en hyperlänk. Till exempel:
+- Text som står mellan dubbla citationstecken följt av ett kolon, eller en `URL`eller som avslutas med interpunktionstecken följt av mellanslag, behandlas som en hyperlänk. Till exempel:
 
   - \"Zope\":[http://www.zope.org/](http://www.zope.org/) är \...
 
   Tolkas som \'\<a href=\"[http://www.zope.org/\"\>Zope\</a\>](http://www.zope.org/%22%3EZope%3C/a%3E) är \....\'
 
-  **Observera:** Detta fungerar för relativa såväl som för absoluta `URL`{.backtick}:er.
+  **Observera:** Detta fungerar för relativa såväl som för absoluta `URL`:er.
 
 - Text som står mellan dubbla citationstecken följt av ett comma, en eller flera blanktecken, en absolut URL och avslutas med interpunktionstecken och ett mellanslag, eller bara mellanslag, ses som en hyperlänk. Exempel:
 

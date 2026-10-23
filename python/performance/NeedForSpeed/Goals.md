@@ -15,7 +15,7 @@ You can add additional topics below. Please discuss the specific goals and possi
 - CPython 2.5 is slower than CPython 2.4. See [/Slowdown](Goals/Slowdown).
 
 - Can floating point ops be sped-up by avoiding flag/exception checks at every step? Can some floating point ops be in-lined in ceval.c?
-  - [TimPeters](../../people/TimPeters): By default, CPython does no flag or exception checks on float ops \-- the `PyFPE_START_PROTECT`{.backtick} and `PyFPE_END_PROTECT`{.backtick} macros normally have empty expansions. Inlining is possible but probably undesirable. Doing masses of fp ops in one gulp via the [NumPy](../../science/NumPy) (or whatever it\'s called now) extension is the sanest approach.
+  - [TimPeters](../../people/TimPeters): By default, CPython does no flag or exception checks on float ops \-- the `PyFPE_START_PROTECT` and `PyFPE_END_PROTECT` macros normally have empty expansions. Inlining is possible but probably undesirable. Doing masses of fp ops in one gulp via the [NumPy](../../science/NumPy) (or whatever it\'s called now) extension is the sanest approach.
 
 - Implement portions of the decimal module in C
   - [RichardJones](../../people/RichardJones): Looks like this has a good chance of being done in [SummerOfCode](../../soc/SummerOfCode).

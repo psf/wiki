@@ -22,7 +22,7 @@ Remember that you can always log in via OpenID. When you do so for the first tim
 
 - By all means choose a [WikiName](WikiName) as a page name. Most pages on this Wiki use this style.
 
-- *Do not* change the names of things to \"force\" a [WikiName](WikiName). For example, JEdit is not a [WikiName](WikiName), but this does not mean that you should somehow make it one by changing letters and making, say, JedIt. Instead just create a page and then use the [link syntax](HelpOnLinking) (for example, `[[JEdit]]`{.backtick}) to refer to the page.
+- *Do not* change the names of things to \"force\" a [WikiName](WikiName). For example, JEdit is not a [WikiName](WikiName), but this does not mean that you should somehow make it one by changing letters and making, say, JedIt. Instead just create a page and then use the [link syntax](HelpOnLinking) (for example, `[[JEdit]]`) to refer to the page.
 
 ### Editing Protected Pages 
 
@@ -38,7 +38,7 @@ Remember that you can always log in via OpenID. When you do so for the first tim
 
 ### Writing Pages 
 
-- Please structure long pages to sections (learn to use `== headings ==`{.backtick}). Also consider using the `<<TableOfContents>>`{.backtick} macro.
+- Please structure long pages to sections (learn to use `== headings ==`). Also consider using the `<<TableOfContents>>` macro.
 
 - Avoid duplicating information when not necessary, and respect copyrights. If you are unsure, at least credit the source, so that others can fix things if needed.
 
@@ -68,15 +68,15 @@ Remember that you can always log in via OpenID. When you do so for the first tim
   :::
   ::::
 
-  Use `numbers=disable`{.backtick} after the language declaration (such as `#!python`{.backtick}) to remove line numbering.
+  Use `numbers=disable` after the language declaration (such as `#!python`) to remove line numbering.
 
 #### Linking 
 
-- Although a [WikiName](WikiName) will link to another page, don\'t be afraid of using the [link syntax](HelpOnLinking) to link to, say, the [FrontPage](FrontPage) by writing `[[FrontPage|front page]]`{.backtick} instead, thus producing a link to the [front page](FrontPage) like this.
+- Although a [WikiName](WikiName) will link to another page, don\'t be afraid of using the [link syntax](HelpOnLinking) to link to, say, the [FrontPage](FrontPage) by writing `[[FrontPage|front page]]` instead, thus producing a link to the [front page](FrontPage) like this.
 
-- Use the `Issue:7942`{.backtick} syntax to refer to issues in the Python bug tracker. For example, here is an issue: [7942](http://bugs.python.org/issue7942 "Issue").
+- Use the `Issue:7942` syntax to refer to issues in the Python bug tracker. For example, here is an issue: [7942](http://bugs.python.org/issue7942 "Issue").
 
-- Use the `PEP:0001`{.backtick} syntax to refer to PEPs. For example, here is a PEP: [0001](http://www.python.org/dev/peps/pep-0001 "PEP").
+- Use the `PEP:0001` syntax to refer to PEPs. For example, here is a PEP: [0001](http://www.python.org/dev/peps/pep-0001 "PEP").
 
 - If a link is broken on a page, try to determine whether it is temporarily broken or whether the resource really has gone away forever. For permanently broken links, follow the instructions below.
 
@@ -88,7 +88,7 @@ Remember that you can always log in via OpenID. When you do so for the first tim
 
 - If the link pointed to a resource that has moved - perhaps it was maintained by one company but is now maintained by another - you might update it to point to the new home of that resource.
 
-- If the link referred to a description of a topic, consider using Wikipedia or another stable, well-known resource as a replacement. For example, a replacement for a link to a definition of Python could be `[[WikiPedia:Python (programming language)]]`{.backtick} producing [Python (programming language)](http://www.wikipedia.com/wiki/Python%20%28programming%20language%29 "WikiPedia") and would probably serve the intended purpose.
+- If the link referred to a description of a topic, consider using Wikipedia or another stable, well-known resource as a replacement. For example, a replacement for a link to a definition of Python could be `[[WikiPedia:Python (programming language)]]` producing [Python (programming language)](http://www.wikipedia.com/wiki/Python%20%28programming%20language%29 "WikiPedia") and would probably serve the intended purpose.
 
 #### Attachments 
 

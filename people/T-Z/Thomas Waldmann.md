@@ -10,7 +10,7 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Email: `<tw AT waldmann-edv DOT de>`
 
-IRC: I am often on #moin and #moin-dev on chat.freenode.net (and also on #python, #python.de, \...). I don\'t use a nickname, but just `ThomasWaldmann`{.backtick}.
+IRC: I am often on #moin and #moin-dev on chat.freenode.net (and also on #python, #python.de, \...). I don\'t use a nickname, but just `ThomasWaldmann`.
 
 I am the [MoinMoin wiki project](http://moinmo.in/) administrator and joined the PSF in 2009.
 
@@ -39,7 +39,7 @@ If you have any moin questions / wishes, just ask. ![:)](/wiki/europython/img/sm
 
   - does have \"Load\", but not \"Save\" - did people confuse \"Save\" with saving in the editor or why?
 
-- rst parser usage - hey, there seem to be some `ReST`{.backtick} users here! ![:)](/wiki/europython/img/smile.png%20":)") I have been (unsuccessfully) trying for a while to get some maintainer for the rst parser in [MoinMoin](MoinMoin), it definitely needs some more love but noone of the current moin devs is using it in production.
+- rst parser usage - hey, there seem to be some `ReST` users here! ![:)](/wiki/europython/img/smile.png%20":)") I have been (unsuccessfully) trying for a while to get some maintainer for the rst parser in [MoinMoin](MoinMoin), it definitely needs some more love but noone of the current moin devs is using it in production.
 
 ### PSF membership application form 
 
