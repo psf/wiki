@@ -25,6 +25,7 @@ A web application may use a combination of a base HTTP application server, a sto
 These are the most popular high-level frameworks. Many of them include components listed on the [WebComponents](../people/WebComponents) page.
 
 ```{list-table}
+:header-rows: 1
 
 * - Name
   - Latest version
@@ -107,6 +108,7 @@ These frameworks also provide most, if not all of the technology stack. However,
 These projects provide the base \"application server\", either running as its own independent process, upon Apache or in other environments. On many of these you can then introduce your own choice of templating engines and other components to run on top, although some may provide technologies for parts of the technology stack.
 
 ```{list-table}
+:header-rows: 1
 
 * - Name and home page
   - PyPI

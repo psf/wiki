@@ -13,12 +13,13 @@ Python has a huge number of GUI frameworks (or toolkits) available for it, from 
 ### Cross-Browser Frameworks 
 
 ```{list-table}
+:header-rows: 1
 
-* - **Package**
-  - **Target**
+* - Package
+  - Target
   - Latest version
   - Latest update date
-  - **Notes**
+  - Notes
 * - [Abstra Forms](https://www.abstra.io/forms)
   - All major Web Browsers
   -
@@ -79,7 +80,7 @@ The major cross-platform technologies upon which Python frameworks are based inc
 | [Kivy](https://kivy.org/) | Windows, MacOSX, Linux, [Android](../platforms/Android), iOS | 2.1.0 | 2022-03-06 | OpenGL ES 2 accelerated framework for creating innovative user interfaces. Kivy have a native multitouch support for every platform, mouse simulator, widgets multitouch ready, integrated virtual keyboard, rst renderer\... |
 | [popsicle](https://github.com/kunitoki/popsicle) | JUCE (Windows, MacOSX, Linux) | 0.9.6 | 2024-02-21 | Python 3 bindings for the [JUCE](https://juce.com/) application framework. |
 | [PyFltk](https://sourceforge.net/projects/pyfltk/) | Windows, macOS, Linux, Raspberry Pi OS (Wraps C++ [FLTK](FLTK)) | 1.3.9 | 2024-01-07 | Fast and Easy to learn. OOP extensible widgets. Provides access to OpenGL features. Stands for Fast, Light Toolkit.(Python 3) |
-| [PyForms](https://github.com/UmSenhorQualquer/pyforms) | Qt & OpenGL | \ | 2016-12-20 | A Python framework to develop GUI application, which promotes modular software design and code reusability with minimal effort. |
+| [PyForms](https://github.com/UmSenhorQualquer/pyforms) | Qt & OpenGL |  | 2016-12-20 | A Python framework to develop GUI application, which promotes modular software design and code reusability with minimal effort. |
 | [PyGame](https://pygame.org/) | [PyGame](../multimedia/PyGame) | 2.1.2 | 2021-12-27 | Pygame is a set of Python modules designed for making multimedia applications like games built on top of the SDL library. |
 | [Pyglet](https://pyglet.org) | Windows, macOS, Linux | 1.5.24 | 2022-06-12 | pyglet is a cross-platform windowing and multimedia library for Python, for developing games and other visually rich applications. |
 | [PyGObject](https://pygobject.readthedocs.io/en/latest/) | GTK | 3.42.1 | 2022-04-17 | PyGObject is a Python package which provides bindings for GObject based libraries such as GTK, GStreamer, WebKitGTK, GLib, GIO and many more. See [PyGobject](../people/PyGobject). Replacement for [PyGtk](../people/PyGtk). |
@@ -105,12 +106,13 @@ The major cross-platform technologies upon which Python frameworks are based inc
 ### GUI Design Tools and IDEs 
 
 ```{list-table}
+:header-rows: 1
 
-* - **IDE**
-  - **Target**
+* - IDE
+  - Target
   - Latest version
   - Latest update date
-  - **Notes**
+  - Notes
 * - [Abstra lib](https://www.abstra.io/editor)
   - Web
   - 1.4.0

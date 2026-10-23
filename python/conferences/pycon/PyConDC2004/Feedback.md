@@ -50,6 +50,7 @@ Gripes: poor audio; flickering projector; rooms too hot; not enough room (not al
 Question as posed: \"Assuming you attend next year, would you stay at a hotel with other [PyCon](../PyCon) attendees if we can coordinate a bulk room discount? Y/N\" \"If yes, what is your nightly room budget?\"
 
 ```{list-table}
+:header-rows: 1
 
 * - Choice
   - Votes

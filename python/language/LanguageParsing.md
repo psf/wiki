@@ -11,6 +11,7 @@ Small discussion and evaluation of different parsers.
 ![(!)](/wiki/europython/img/idea.png%20"(!)") Please keep wiki links as wiki links, use external links only if there is no existing page for the tool.
 
 ```{list-table}
+:header-rows: 1
 
 * - Name
   - Grammar

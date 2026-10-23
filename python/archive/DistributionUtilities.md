@@ -15,12 +15,13 @@ General distribution of Python code is typically done using the [Distutils](../p
 The following projects support the production of executable application from Python scripts.
 
 ```{list-table}
+:header-rows: 1
 
-* - **Package**
-  - **Target**
+* - Package
+  - Target
   - Latest update date
   - Latest version
-  - **Notes**
+  - Notes
 * - [bbfreeze](http://pypi.python.org/pypi/bbfreeze/)
   - Python 2
   - 2014-01-20
