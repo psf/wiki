@@ -46,6 +46,8 @@ Here are some sites that focus on beginners and offer in-browser coding:
 
 - [Beginners Python tutorial](https://python.land/python-tutorial) at Python Land (free)
 
+- [Coddy](https://coddy.tech/landing/python) interactive Python course with hints, running in the browser (freemium)
+
 - [Codédex](https://www.codedex.io/python) (non-free)
 
 [Outdated, Python 2! \* [Codecademy](https://www.codecademy.com/learn/learn-python) ]

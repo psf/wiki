@@ -42,6 +42,8 @@ These sites give you instant feedback on programming problems that you can solve
 
 - [CheckiO](http://www.checkio.org) is a gamified website containing programming tasks that can be solved in Python 3.
 
+- [Coddy](https://coddy.tech/landing/python) is a free interactive Python course for beginners: you write and run code in the browser in every lesson, with hints when you get stuck.
+
 - [Codédex](https://www.codedex.io) is a learn to code platform for K-12 and college students.
 
 - [Codecademy (](https://www.codecademy.com/search?query=python)Python)
