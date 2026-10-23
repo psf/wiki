@@ -49,6 +49,8 @@ GRID_RULE = re.compile(r"^[ \t]*\+(?:[-=:]+\+)+[ \t]*$")
 CODE_FENCE = re.compile(r"^[ \t]*(`{3,}|~{3,})")
 NON_CODE_DIRECTIVE = re.compile(r"\{(?!code\}|code-block\}|sourcecode\}|raw\})[\w-]+\}")
 # Pandoc attribute residue that strip_attrs.py skipped (preceded by a backtick).
+# Between two code spans it splits one MoinMoin span: `a`{.backtick}`b` is `ab`.
+ATTR_BETWEEN_SPANS = re.compile(r"`\{\.[\w-]+\}`")
 ATTR_RESIDUE = re.compile(r"(?<=`)\{\.[\w-]+\}")
 SEARCH_FORM = "Display context of search results"
 LINK_TARGET = r"\((?:[^()\s]|\([^()]*\))*(?:\s+\"[^\"]*\")?\)"
@@ -127,58 +129,76 @@ class _HTMLTables(HTMLParser):
             self.cell.append(data)
 
 
-def export_tables(paths: list[Path]) -> list[list[list[str]]]:
-    """Tables of a page's MoinMoin export(s), as normalised cell text."""
+def _squash(s: str) -> str:
+    return "".join(s.split()).lower()
+
+
+def export_tables(paths: list[Path], key=norm) -> list[list[list[str]]]:
+    """Tables of a page's MoinMoin export(s), cell text passed through ``key``."""
     out = []
     for p in paths:
         parser = _HTMLTables()
         parser.feed(p.read_text(errors="replace"))
-        out += [[[norm(c) for c in r] for r in t] for t in parser.tables]
+        out += [[[key(c) for c in r] for r in t] for t in parser.tables]
     return out
 
 
 class Guide:
     """Looks up export rows by their text to align cells against them."""
 
-    def __init__(self, tables: list[list[list[str]]]) -> None:
+    def __init__(self, paths: list[Path]) -> None:
         # A row's concatenated text does not depend on how its words are
         # split into cells, so it identifies the export row.
-        self.rows: dict[str, list[list[str]]] = {}
-        for t in tables:
-            for r in t:
-                self.rows.setdefault("".join(r), []).append(r)
+        self.rows: dict[str, list[tuple[list[str], list[str]]]] = {}
+        for t, raw in zip(export_tables(paths), export_tables(paths, key=_squash), strict=True):
+            for r, rr in zip(t, raw, strict=True):
+                self.rows.setdefault("".join(r), []).append((r, rr))
 
-    def targets(self, group: list[str], ncols: int) -> list[list[str]]:
+    def targets(self, group: list[str], ncols: int) -> list[tuple[list[str], list[str]]]:
         found = self.rows.get(norm(" ".join(group)), [])
-        return [r + [""] * (ncols - len(r)) for r in found if len(r) <= ncols]
+        pad = [""] * ncols
+        return [(r + pad[len(r) :], rr + pad[len(rr) :]) for r, rr in found if len(r) <= ncols]
 
 
-def align(group: list[str], target: list[str]) -> list[str] | None:
+def align(group: list[str], target: list[str], raw: list[str]) -> list[str] | None:
     """Assign the words of one table row (one or more lines) to cells so the
-    text of each cell matches ``target`` (normalised export cell text)."""
+    text of each cell matches ``target`` (normalised export cell text).
+
+    ``raw`` is the export cell text with only whitespace removed.  It places
+    punctuation-only words such as ``?`` (invisible to ``norm``) in the cell
+    that shows them, and requires every non-empty export cell to get a word.
+    """
     lines = [re.findall(r"\S+", ln) for ln in group]
     words = [[norm(w) for w in ws] for ws in lines]
     n = len(target)
 
+    def punct(w: str) -> str | None:
+        if norm(w) or "](" in w:
+            return None
+        return re.sub(r"[\\*`]", "", w).lower() or None
+
+    puncts = [[punct(w) for w in ws] for ws in lines]
+
     @cache
-    def solve(li: int, wi: int, col: int, filled: tuple[int, ...]) -> tuple | None:
+    def solve(li: int, wi: int, col: int, filled: tuple[int, ...], used: tuple[bool, ...]) -> tuple | None:
         if li == len(lines):
-            return () if all(filled[k] == len(target[k]) for k in range(n)) else None
+            done = all(filled[k] == len(target[k]) and (used[k] or not raw[k]) for k in range(n))
+            return () if done else None
         if wi == len(lines[li]):
-            rest = solve(li + 1, 0, -1, filled)
+            rest = solve(li + 1, 0, -1, filled, used)
             return None if rest is None else ((li, None), *rest)
-        w = words[li][wi]
+        w, p = words[li][wi], puncts[li][wi]
         # Stay in the current cell first, then try each later cell.
         for k in ([col] if col >= 0 else []) + list(range(col + 1, n)):
             end = filled[k] + len(w)
-            if target[k][filled[k] : end] != w:
+            if target[k][filled[k] : end] != w or (p and p not in raw[k]):
                 continue
-            rest = solve(li, wi + 1, k, (*filled[:k], end, *filled[k + 1 :]))
+            rest = solve(li, wi + 1, k, (*filled[:k], end, *filled[k + 1 :]), (*used[:k], True, *used[k + 1 :]))
             if rest is not None:
                 return ((li, k), *rest)
         return None
 
-    plan = solve(0, 0, -1, (0,) * n)
+    plan = solve(0, 0, -1, (0,) * n, (False,) * n)
     solve.cache_clear()
     if plan is None:
         return None
@@ -296,9 +316,14 @@ def _rows(groups: list[list[str]], cols: list[Column], guide: Guide | None) -> l
         return rows
     for r, g in enumerate(groups):
         targets = guide.targets(g, len(cols))
-        if not targets or [norm(c) for c in rows[r]] in targets:
+        # Keep the heuristic split when it already agrees with an export row:
+        # same text per cell, and no visible export cell left empty.
+        if any(
+            [norm(c) for c in rows[r]] == t and all(c or not rw for c, rw in zip(rows[r], raw, strict=True))
+            for t, raw in targets
+        ):
             continue
-        rows[r] = next((a for t in targets if (a := align(g, t))), rows[r])
+        rows[r] = next((a for t, raw in targets if (a := align(g, t, raw))), rows[r])
     return rows
 
 
@@ -413,19 +438,24 @@ def parse_grid_table(lines: list[str], i: int) -> tuple[Table, int, int] | None:
 # --------------------------------------------------------------------------
 
 
+BOLD_CELL = re.compile(r"\*\*(?P<text>[^*\n](?:.*[^*\n])?)\*\*(?P<tail>[?:.]?)")
+
+
 def _is_bold(cell: str) -> bool:
-    return not cell or bool(re.fullmatch(r"\*\*[^*].*\*\*", cell))
+    """A bold label, possibly followed by MoinMoin's ``?`` (missing page)."""
+    return not cell or bool(BOLD_CELL.fullmatch(cell))
 
 
 def render(table: Table) -> list[str]:
-    rows = [[ATTR_RESIDUE.sub("", c) for c in r] for r in table.rows]
+    rows = [[ATTR_RESIDUE.sub("", ATTR_BETWEEN_SPANS.sub("", c)) for c in r] for r in table.rows]
     if not rows:
         return []
     multiline = any("\n" in c for r in rows for c in r)
-    header_rows = table.header_rows
-    if not header_rows and not multiline and any(rows[0]) and all(_is_bold(c) for c in rows[0]):
+    # list-table rejects a header that leaves no body rows.
+    header_rows = min(table.header_rows, len(rows) - 1)
+    if not header_rows and len(rows) > 1 and any(rows[0]) and all(_is_bold(c) for c in rows[0]):
         header_rows = 1
-        rows[0] = [c[2:-2] if c else c for c in rows[0]]
+        rows[0] = [BOLD_CELL.sub(r"\g<text>\g<tail>", c) for c in rows[0]]
     if not multiline and header_rows == 1 and len(rows) > 1:
         return _render_pipe(rows)
     return _render_list_table(rows, header_rows)
@@ -609,15 +639,17 @@ def _md_tables(text: str) -> list[list[list[str]]]:
                 i += 1
             tables.append(rows)
             continue
-        m = re.match(r"^\s*(`{3,})\{list-table\}", lines[i])
+        m = re.match(r"^(\s*(?:[-*+]\s+)?)(`{3,})\{list-table\}", lines[i])
         if m:
-            fence, rows = m.group(1), []
+            base, fence, rows = len(m.group(1)), m.group(2), []
             i += 1
             while i < len(lines) and lines[i].strip() != fence:
-                t = lines[i].strip()
-                if t.startswith("* - ") or t == "* -":
+                ln, t = lines[i], lines[i].strip()
+                # Row and cell markers sit at the table's own indentation;
+                # deeper "- " lines are lists inside a cell.
+                if _indent(ln) == base and (t.startswith("* - ") or t == "* -"):
                     rows.append([t[4:]])
-                elif t.startswith("- ") or t == "-":
+                elif _indent(ln) == base + 2 and (t.startswith("- ") or t == "-"):
                     rows[-1].append(t[2:])
                 elif rows and t and not t.startswith(":"):
                     rows[-1][-1] += " " + t
@@ -700,7 +732,7 @@ def main() -> None:
         text = p.read_text(encoding="utf-8")
         if "::: {}" not in text and not re.search(r"^[ \t]*(?:-+ +-|\+[-=:]{3,}\+)", text, re.M):
             continue
-        guide = Guide(export_tables(exports.for_page(p))) if exports else None
+        guide = Guide(exports.for_page(p)) if exports else None
         new, d, t = fix_text(text, guide)
         if new != text:
             changed += 1
