@@ -1,0 +1,6 @@
+# Review is requested from these owners on pull requests touching their paths.
+# The last matching pattern wins.
+
+/psf/     @riecatnor @JacobCoffee
+
+/.github/ @JacobCoffee
