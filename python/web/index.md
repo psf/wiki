@@ -16,6 +16,7 @@ Python has been a web development language since the late 1990s, and the ecosyst
 
 - [Django](Django) -- the full-stack framework with batteries included, ORM, admin panel, and strong opinions
 - [Flask](Flask) -- Werkzeug-based microframework with Jinja2 templating
+- [Litestar](https://litestar.dev/) -- ASGI framework for building APIs, driven by type hints
 - [CherryPy](CherryPy) -- object-oriented framework with its own HTTP server
 - [TurboGears](TurboGears) -- full-stack "megaframework" aiming for rapid development
 - [Quixote](Quixote) -- lightweight framework focused on simplicity

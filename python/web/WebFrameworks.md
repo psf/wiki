@@ -143,6 +143,11 @@ These projects provide the base \"application server\", either running as its ow
   - 3.1.0
   - 2024-11-13
   - "a microframework for Python based on Werkzeug, Jinja 2 and good intentions." Includes a built-in development server, unit tesing support, and is fully Unicode-enabled with RESTful request dispatching and WSGI compliance.
+* - [Litestar](https://litestar.dev/)
+  - [litestar](https://pypi.org/project/litestar/)
+  - 2.25.0
+  - 2026-10-18
+  - a production-ready, highly performant, extensible ASGI framework for building APIs. Uses standard Python type hints for request validation, serialization and OpenAPI documentation.
 * - [Hug](https://github.com/hugapi/hug)
   - [hug](https://pypi.org/project/hug/)
   - 2.6.1
