@@ -111,7 +111,7 @@ I\'ve been thinking on how to accomplish the \"Approach 2\" design, which is bas
 | PyString | PySequence | `private String string;` | jython depends heavily on interning of String |
 | PyTuple | PySequence | \*`public PyObject[] list;` | `list` field is referenced directly by 8 classes in 14 methods |
 | PyXRange | PySequence | N/A | int attributes start, stop, step, (useless without `PySequence.__iter__()` |
-| PySet | PyObject | `protected Hash``Set _set;` | based on [BrianZimmer](../people/BrianZimmer)\'s [SetsModule](../modules/SetsModule) |
+| PySet | PyObject | `protected HashSet _set;` | based on [BrianZimmer](../people/BrianZimmer)\'s [SetsModule](../modules/SetsModule) |
 | PyDictionary | PyObject | `protected Hashtable table;` |  |
 
 My current thinking is that we should add a new branch to PySequence\--let\'s call it PySequenceList. PySequence would remain as is, and PySequenceList would subclass PySequence and implement the java.util.List interface. PyString and PyXRange would subclass PySequence and PyArray, PyList, PyTuple would subclass PySequenceList. This seems appropriate because, although PyXRange and PyString technically fall under the description of `List`{.backtick}, the practicality of them as a `List`{.backtick} is nil. Am I missing something obvious here? Would anyone ever use PyXRange in java? And PyString is auto-converted to a `java.lang.String`{.backtick}.

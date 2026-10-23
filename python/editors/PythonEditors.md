@@ -78,19 +78,9 @@ There\'s an [EditorConfigurationHowto](../archive/EditorConfigurationHowto) avai
 
 ### Unix-Only Editors 
 
-```{list-table}
-
-* - **Name**
-  - **Platform**
-  - **[FreeSoftware](../people/FreeSoftware)**?
-  - **[ZeroPrice](../people/ZeroPrice)**?
-  - **Notes**
-* - [Beaver](http://beaver-editor.sourceforge.net/)
-  - Unix + GTK
-  - ![(./)](/wiki/europython/img/checkmark.png%20"(./)")
-  - X
-  - Supports debugging Python, Tcl, Ruby, Perl, Lua scripts. Code intelligence (Code completion, folding, auto-complete, code snippets, syntax highlighting matching tags, show keyword or variable information when mouse over\...). Keyword help and improved script document. Integrated commonly-used scripting libraries (Tk, wxPython, Pygame, Pmw, Numeric\...). Supports compiling python scripts to Windows EXE files.
-```
+| Name | Platform | [FreeSoftware](../people/FreeSoftware)? | [ZeroPrice](../people/ZeroPrice)? | Notes |
+|---|---|---|---|---|
+| [Beaver](http://beaver-editor.sourceforge.net/) | Unix + GTK | ![(./)](/wiki/europython/img/checkmark.png%20"(./)") | X | Supports debugging Python, Tcl, Ruby, Perl, Lua scripts. Code intelligence (Code completion, folding, auto-complete, code snippets, syntax highlighting matching tags, show keyword or variable information when mouse over\...). Keyword help and improved script document. Integrated commonly-used scripting libraries (Tk, wxPython, Pygame, Pmw, Numeric\...). Supports compiling python scripts to Windows EXE files. |
 
 ### Windows-Only Editors 
 

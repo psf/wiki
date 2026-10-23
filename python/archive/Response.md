@@ -17,8 +17,9 @@ Building **Response** object is a common way to return information from URL hand
 - webapp2/WebOb: [http://webapp-improved.appspot.com/api/webapp2.html#webapp2.Response](http://webapp-improved.appspot.com/api/webapp2.html#webapp2.Response)
 
 ```{list-table}
+:header-rows: 1
 
-* - **Default Content-Type**
+* - Default Content-Type
   -
 * - [Django](https://docs.djangoproject.com/en/1.7/ref/request-response/#django.http.HttpResponse.__init__)
   - text/html; charset=utf-8

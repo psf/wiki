@@ -15,11 +15,12 @@ This page is for:
 - [Build automation](https://en.wikipedia.org/wiki/Build_automation) tools
 
 ```{list-table}
+:header-rows: 1
 
-* - **Name**
-  - **[365 Day Ranking](https://hugovk.github.io/top-pypi-packages/)**
-  - **Latest Release**
-  - **Description**
+* - Name
+  - [365 Day Ranking](https://hugovk.github.io/top-pypi-packages/)
+  - Latest Release
+  - Description
 * - [Bitbake](https://github.com/openembedded/bitbake)\
     (pypi: NONE)
   - None

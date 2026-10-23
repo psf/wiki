@@ -19,11 +19,12 @@ Overview of Python modules for option parsing
 ## 2. External tools 
 
 ```{list-table}
+:header-rows: 1
 
-* - **Name**
-  - **[365 Day Ranking](https://hugovk.github.io/top-pypi-packages/)**
-  - **Latest Release**
-  - **Description**
+* - Name
+  - [365 Day Ranking](https://hugovk.github.io/top-pypi-packages/)
+  - Latest Release
+  - Description
 * - [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)\
     (pypi: [absl-py](https://pypi.org/project/absl-py/))
   - 103
