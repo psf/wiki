@@ -12,7 +12,7 @@ Here\'s your chance to help. If you would be able to help test Python on non-mai
 
 | Name | Platforms Available | Email |
 |---|---|---|
-| [SkipMontanaro](../people/SkipMontanaro) |  | Mac OS X `<skip AT pobox DOT com>` |
+| [SkipMontanaro](../people/SkipMontanaro) | Mac OS X | `<skip AT pobox DOT com>` |
 | [MichaelHudson](../people/MichaelHudson) | RH 7.2, Mac OS X | mwh at python.net |
 | [FredDrake](../people/FredDrake) | RH 7.3, RH 9.0 | fdrake at acm.org |
 | [BarryWarsaw](../people/BarryWarsaw) | RH 7.3, RH 9.0, Mac OS X | barry at python.org |
