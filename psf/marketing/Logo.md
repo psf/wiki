@@ -33,12 +33,9 @@ Off and on over the past few months I have been playing with layouts and typefac
 
 The image files all have a suffix, -F or -B, depending on the typeface (font) being used. -F is for Flux Regular, which is the typeface used by the word \"python\" in the standard Python logo. Flux Regular has nice curves that go well with the blue&yellow graphic (undoubtedly they were chosen/designed to match), but I find its uppercase/capital letters unattractive, so I only used lowercase. -B is for Blair Medium, a simple sans-serif typeface that gives a feeling of solidity appropriate to a Foundation.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Flux Regular (-F)                                                                 Blair Medium (-B)
-  --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
-  ![attachment:flux-regular.png](attachments/Logo/flux-regular.png)   ![attachment:blair-medium.png](attachments/Logo/blair-medium.png)
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  | Flux Regular (-F) | Blair Medium (-B) |
+  |---|---|
+  | ![attachment:flux-regular.png](attachments/Logo/flux-regular.png) | ![attachment:blair-medium.png](attachments/Logo/blair-medium.png) |
 
 The lowercase letters in Blair Medium are really small caps, and there are some variations below (-uppercase versus -titlecase). Flux Regular is the choice if we want the PSF logo to match the Python logo. It has a softer feel. If we want the PSF logo to be distinct, a change of typeface is an easy way to do that. Either way works well IMO.
 

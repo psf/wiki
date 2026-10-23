@@ -28,14 +28,21 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### contact
 
-::: {}
-  ---- ----------------- ------------------------------------------------------------------------------------------------------------
-  \~   site              [http://zoomquiet.org](http://zoomquiet.org)
-  0    **Gmail/GTalk**   ![Zoom.Quiet4gmail.png](attachments/ZoomQuiet/Zoom.Quiet4gmail.png "Zoom.Quiet4gmail.png")
-  1    Blogging          **[blog.zoomquiet.org](http://blog.zoomquiet.org/pyblosxom/)** ^PyBlosxom^
-  2    **MSN**           ![ZoomQuiet4hotmail.png](attachments/ZoomQuiet/ZoomQuiet4hotmail.png "ZoomQuiet4hotmail.png")
-  ---- ----------------- ------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - \~
+  - site
+  - [http://zoomquiet.org](http://zoomquiet.org)
+* - 0
+  - **Gmail/GTalk**
+  - ![Zoom.Quiet4gmail.png](attachments/ZoomQuiet/Zoom.Quiet4gmail.png "Zoom.Quiet4gmail.png")
+* - 1
+  - Blogging
+  - **[blog.zoomquiet.org](http://blog.zoomquiet.org/pyblosxom/)** ^PyBlosxom^
+* - 2
+  - **MSN**
+  - ![ZoomQuiet4hotmail.png](attachments/ZoomQuiet/ZoomQuiet4hotmail.png "ZoomQuiet4hotmail.png")
+```
 
 ##  
 

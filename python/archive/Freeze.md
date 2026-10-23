@@ -491,14 +491,11 @@ The resulting list is
 
 Quite a difference\... The sizes of the resulting binaries are:
 
-::: {}
-  -------------- ---------- -------------------
-  **excluded**    **size**  **size stripped**
-  nothing         6041313   2267304
-  pydoc           5169213   1416840
-  maximum         4666109   1076264
-  -------------- ---------- -------------------
-:::
+| excluded | size | size stripped |
+|---|---|---|
+| nothing | 6041313 | 2267304 |
+| pydoc | 5169213 | 1416840 |
+| maximum | 4666109 | 1076264 |
 
 \-- [MarcChr](../people/MarcChr) 2005-02-03 16:42:03
 

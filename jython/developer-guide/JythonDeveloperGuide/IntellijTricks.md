@@ -22,14 +22,17 @@ Eclipse Code Formatter can be configured under *Settings* (shortcut: ctrl + alt 
 
 General *Run/Debug Configurations* settings:
 
-::: {}
-  --------------------- ---------------------------------------------------------------------------------------------------------------------
-  Parameter Name        Value
-  VM options            *-Dpython.home=dist -Dpython.console=org.python.util.[InteractiveConsole](./InteractiveConsole.html)*
-  Working directory     project basedir
-  Classpath of module   *jython-trunk*
-  --------------------- ---------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - Parameter Name
+  - Value
+* - VM options
+  - *-Dpython.home=dist -Dpython.console=org.python.util.[InteractiveConsole](./InteractiveConsole.html)*
+* - Working directory
+  - project basedir
+* - Classpath of module
+  - *jython-trunk*
+```
 
 #### Jython 
 
@@ -37,13 +40,15 @@ Configuration Type: **Application**
 
 Additional parameters:
 
-::: {}
-  ------------------------------ ----------------------------------------------------------
-  Parameter Name                 Value
-  Main class                     *org.python.util.jython*
-  Program arguments (optional)   Parameters for Jython, e.g. the python module to execute
-  ------------------------------ ----------------------------------------------------------
-:::
+```{list-table}
+
+* - Parameter Name
+  - Value
+* - Main class
+  - *org.python.util.jython*
+* - Program arguments (optional)
+  - Parameters for Jython, e.g. the python module to execute
+```
 
 ##### Example: Regression Tests 
 
@@ -62,13 +67,15 @@ Configuration Type: **JUnit**
 
 Additional parameters:
 
-::: {}
-  ------------------------------ ----------------------------------------------------------
-  Parameter Name                 Value
-  Main class                     *org.python.util.jython*
-  Program arguments (optional)   Parameters for Jython, e.g. the python module to execute
-  ------------------------------ ----------------------------------------------------------
-:::
+```{list-table}
+
+* - Parameter Name
+  - Value
+* - Main class
+  - *org.python.util.jython*
+* - Program arguments (optional)
+  - Parameters for Jython, e.g. the python module to execute
+```
 
 ##### Example: \_ioTest 
 

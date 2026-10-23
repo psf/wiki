@@ -12,13 +12,6 @@ To add a page to this category, add a link to this page on the last line of the 
 
 **List of pages in this category:**
 
-::: {}
-\
-
-Display context of search results\
-
-Case-sensitive searching
-:::
 
 ------------------------------------------------------------------------
 

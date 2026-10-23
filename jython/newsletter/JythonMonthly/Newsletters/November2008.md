@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  --------------------------------- ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***               ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **November 2008 \-- Issue #24**   
-  --------------------------------- ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **November 2008 \-- Issue #24**
+  -
+```
 
 First and foremost, I hope that everyone is enjoying this holiday season thus far. Hopefully you had a great Thanksgiving\...my best to you all.
 
@@ -113,14 +114,11 @@ Create Java Web Start applications with Jython and OSP.
 
 [nbPython EA Release](http://download.netbeans.org/netbeans/6.5/python/ea)
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  [Planet Jython](http://planet.jython.org/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |
+| [Planet Jython](http://planet.jython.org/) |

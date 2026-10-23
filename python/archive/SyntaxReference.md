@@ -300,22 +300,19 @@ object
     ||'''A'''||'''B'''||'''C'''||
     ||1      ||2      ||3      ||
 
-::: {}
-  ------- ------- -------
-  **A**   **B**   **C**
-  1       2       3
-  ------- ------- -------
-:::
+| A | B | C |
+|---|---|---|
+| 1 | 2 | 3 |
 
 ### Cell Width 
 
     ||minimal width ||<99%>maximal width ||
 
-::: {}
-  --------------- ---------------
-  minimal width   maximal width
-  --------------- ---------------
-:::
+```{list-table}
+
+* - minimal width
+  - maximal width
+```
 
 ### Spanning Rows and Columns 
 
@@ -324,17 +321,17 @@ object
     ||<-2> cell spanning 2 columns ||
     ||||use empty cells as a shorthand ||
 
-::: {}
 +:--------------------:+--------------------------------------:+
 | cell spanning 2 rows | cell in the 2nd column                |
 |                      +---------------------------------------+
 |                      | cell in the 2nd column of the 2nd row |
-+----------------------+---------------------------------------+
-| cell spanning 2 columns                                      |
-+--------------------------------------------------------------+
-| use empty cells as a shorthand                               |
-+--------------------------------------------------------------+
-:::
+```{list-table}
+
+* - cell spanning 2 columns
+  -
+* - use empty cells as a shorthand
+  -
+```
 
 ### Alignment of Cell Contents 
 
@@ -342,7 +339,6 @@ object
     ||<)> right ||
     ||<(> left ||
 
-::: {}
 +:--------------:+:-----------------:+:-----------------:+
 | top (combined) | center (combined) | bottom (combined) |
 |                +-------------------+                   |
@@ -350,19 +346,21 @@ object
 |                +-------------------+                   |
 |                | left              |                   |
 +----------------+-------------------+-------------------+
-:::
 
 ### Coloured Table Cells 
 
     ||<#0000FF> blue ||<#00FF00> green    ||<#FF0000> red    ||
     ||<#00FFFF> cyan ||<#FF00FF> magenta  ||<#FFFF00> yellow ||
 
-::: {}
-  ------ --------- --------
-  blue   green     red
-  cyan   magenta   yellow
-  ------ --------- --------
-:::
+```{list-table}
+
+* - blue
+  - green
+  - red
+* - cyan
+  - magenta
+  - yellow
+```
 
 ### HTML-like Options for Tables 
 
@@ -370,15 +368,15 @@ object
     ||<bgcolor="#00FF00"> like <#00FF00> ||
     ||<colspan="2"> like <-2>||
 
-::: {}
 +------------------+--------------+
 | A                | like \<\|2\> |
 +------------------+              |
 | like \<#00FF00\> |              |
-+------------------+--------------+
-| like \<-2\>                     |
-+---------------------------------+
-:::
+```{list-table}
+
+* - like \<-2\>
+  -
+```
 
 ## Macros and Variables 
 
@@ -408,21 +406,16 @@ object
 
 ***see:** [HelpOnSmileys](HelpOnSmileys)*
 
-:::: {}
-::: {}
-  ------------ --------------------------------------------------------------------------- -- ------------ -------------------------------------------------------------------------- -- ------------ ---------------------------------------------------------------------------- -- ------------ ----------------------------------------------------------------------------
-  **Markup**   **Display**                                                                    **Markup**   **Display**                                                                   **Markup**   **Display**                                                                     **Markup**   **Display**
-  `X-(`        ![X-(](/wiki/europython/img/angry.png "X-(")           `:D`         ![:D](/wiki/europython/img/biggrin.png ":D")          `<:(`        ![\<:(](/wiki/europython/img/frown.png "<:(")           `:o`         ![:o](/wiki/europython/img/redface.png ":o")
-  `:(`         ![:(](/wiki/europython/img/sad.png ":(")               `:)`         ![:)](/wiki/europython/img/smile.png%20":)")            `B)`         ![B)](/wiki/europython/img/smile2.png%20"B)")             `:))`        ![:))](/wiki/europython/img/smile3.png%20":))")
-  `;)`         ![;)](/wiki/europython/img/smile4.png%20";)")            `/!\`        ![/!\\](/wiki/europython/img/alert.png "/!\")         `<!>`        ![\<!\>](/wiki/europython/img/attention.png "<!>")      `(!)`        ![(!)](/wiki/europython/img/idea.png%20"(!)")
-  `:-?`        ![:-?](/wiki/europython/img/tongue.png ":-?")          `:\`         ![:\\](/wiki/europython/img/ohwell.png ":\")          `>:>`        ![\>:\>](/wiki/europython/img/devil.png ">:>")          `|)`         ![\|)](/wiki/europython/img/tired.png%20"|)")
-  `:-(`        ![:-(](/wiki/europython/img/sad.png ":-(")             `:-)`        ![:-)](/wiki/europython/img/smile.png%20":-)")          `B-)`        ![B-)](/wiki/europython/img/smile2.png%20"B-)")           `:-))`       ![:-))](/wiki/europython/img/smile3.png%20":-))")
-  `;-)`        ![;-)](/wiki/europython/img/smile4.png%20";-)")          `|-)`        ![\|-)](/wiki/europython/img/tired.png%20"|-)")         `(./)`       ![(./)](/wiki/europython/img/checkmark.png%20"(./)")      `{OK}`       ![{OK}](/wiki/europython/img/thumbs-up.png "{OK}")
-  `{X}`        ![{X}](/wiki/europython/img/icon-error.png "{X}")      `{i}`        ![{i}](/wiki/europython/img/icon-info.png "{i}")      `{1}`        ![{1}](/wiki/europython/img/prio1.png "{1}")            `{2}`        ![{2}](/wiki/europython/img/prio2.png "{2}")
-  `{3}`        ![{3}](/wiki/europython/img/prio3.png "{3}")           `{*}`        ![{\*}](/wiki/europython/img/star_on.png "{*}")       `{o}`        ![{o}](/wiki/europython/img/star_off.png "{o}")                       
-  ------------ --------------------------------------------------------------------------- -- ------------ -------------------------------------------------------------------------- -- ------------ ---------------------------------------------------------------------------- -- ------------ ----------------------------------------------------------------------------
-:::
-::::
+| Markup | Display |  | Markup | Display |  | Markup | Display |  | Markup | Display |
+|---|---|---|---|---|---|---|---|---|---|---|
+| `X-(` | ![X-(](/wiki/europython/img/angry.png "X-(") |  | `:D` | ![:D](/wiki/europython/img/biggrin.png ":D") |  | `<:(` | ![\<:(](/wiki/europython/img/frown.png "<:(") |  | `:o` | ![:o](/wiki/europython/img/redface.png ":o") |
+| `:(` | ![:(](/wiki/europython/img/sad.png ":(") |  | `:)` | ![:)](/wiki/europython/img/smile.png%20":)") |  | `B)` | ![B)](/wiki/europython/img/smile2.png%20"B)") |  | `:))` | ![:))](/wiki/europython/img/smile3.png%20":))") |
+| `;)` | ![;)](/wiki/europython/img/smile4.png%20";)") |  | `/!\` | ![/!\\](/wiki/europython/img/alert.png "/!\") |  | `<!>` | ![\<!\>](/wiki/europython/img/attention.png "<!>") |  | `(!)` | ![(!)](/wiki/europython/img/idea.png%20"(!)") |
+| `:-?` | ![:-?](/wiki/europython/img/tongue.png ":-?") |  | `:\` | ![:\\](/wiki/europython/img/ohwell.png ":\") |  | `>:>` | ![\>:\>](/wiki/europython/img/devil.png ">:>") |  | `\|)` | ![\|)](/wiki/europython/img/tired.png%20"\|)") |
+| `:-(` | ![:-(](/wiki/europython/img/sad.png ":-(") |  | `:-)` | ![:-)](/wiki/europython/img/smile.png%20":-)") |  | `B-)` | ![B-)](/wiki/europython/img/smile2.png%20"B-)") |  | `:-))` | ![:-))](/wiki/europython/img/smile3.png%20":-))") |
+| `;-)` | ![;-)](/wiki/europython/img/smile4.png%20";-)") |  | `\|-)` | ![\|-)](/wiki/europython/img/tired.png%20"\|-)") |  | `(./)` | ![(./)](/wiki/europython/img/checkmark.png%20"(./)") |  | `{OK}` | ![{OK}](/wiki/europython/img/thumbs-up.png "{OK}") |
+| `{X}` | ![{X}](/wiki/europython/img/icon-error.png "{X}") |  | `{i}` | ![{i}](/wiki/europython/img/icon-info.png "{i}") |  | `{1}` | ![{1}](/wiki/europython/img/prio1.png "{1}") |  | `{2}` | ![{2}](/wiki/europython/img/prio2.png "{2}") |
+| `{3}` | ![{3}](/wiki/europython/img/prio3.png "{3}") |  | `{*}` | ![{\*}](/wiki/europython/img/star_on.png "{*}") |  | `{o}` | ![{o}](/wiki/europython/img/star_off.png "{o}") |  |  |  |
 
 ## Parsers 
 

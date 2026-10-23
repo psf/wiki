@@ -69,24 +69,37 @@ If you have questions about the bug day, please add them to this section.
 
 ## Previous bug days 
 
-::: {}
-  ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Date              Accomplishments
-  2004-06-05        44 bugs
-  2004-07-10        18 bugs, 21 patches
-  2004-08-07        19 bugs, 12 patches
-  2004-11-07        12 bugs, 10 patches
-  2005-06-25        10 bugs, 7 patches
-  2005-12-04        11 bugs+patches
-  2006-03-31        19 bugs, 9 patches
-  2008-01-19        37 bugs+patches
-  2008-02-23        48 bugs+patches
-  2008-05-10 & 11   34 bugs+patches
-  2009-04-25        [39 bugs](http://bugs.python.org/issue?@columns=title&@columns=id&activity=from+2009-04-25+to+2009-04-%20%2026&@columns=activity&@sort=activity&@group=priority&status=2&@columns=status&@pagesize=50&@startwith=0&@action=search)
-  2010-11-20 & 21   [55 bugs](http://bugs.python.org/issue?@columns=title&@columns=id&activity=from+2010-11-20+to+2010-11-22&@columns=activity&@sort=activity&@group=priority&status=2&@columns=status&@pagesize=100&@startwith=0&@action=search)
-  2012-11-03        [17 bugs](http://bugs.python.org/issue?@columns=title&@columns=id&activity=from+2012-11-03+to+2012-11-04&@columns=activity&@sort=activity&@group=priority&status=2&@columns=status&@pagesize=100&@startwith=0&@action=search)
-  ----------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - Date
+  - Accomplishments
+* - 2004-06-05
+  - 44 bugs
+* - 2004-07-10
+  - 18 bugs, 21 patches
+* - 2004-08-07
+  - 19 bugs, 12 patches
+* - 2004-11-07
+  - 12 bugs, 10 patches
+* - 2005-06-25
+  - 10 bugs, 7 patches
+* - 2005-12-04
+  - 11 bugs+patches
+* - 2006-03-31
+  - 19 bugs, 9 patches
+* - 2008-01-19
+  - 37 bugs+patches
+* - 2008-02-23
+  - 48 bugs+patches
+* - 2008-05-10 & 11
+  - 34 bugs+patches
+* - 2009-04-25
+  - [39 bugs](http://bugs.python.org/issue?@columns=title&@columns=id&activity=from+2009-04-25+to+2009-04-%20%2026&@columns=activity&@sort=activity&@group=priority&status=2&@columns=status&@pagesize=50&@startwith=0&@action=search)
+* - 2010-11-20 & 21
+  - [55 bugs](http://bugs.python.org/issue?@columns=title&@columns=id&activity=from+2010-11-20+to+2010-11-22&@columns=activity&@sort=activity&@group=priority&status=2&@columns=status&@pagesize=100&@startwith=0&@action=search)
+* - 2012-11-03
+  - [17 bugs](http://bugs.python.org/issue?@columns=title&@columns=id&activity=from+2012-11-03+to+2012-11-04&@columns=activity&@sort=activity&@group=priority&status=2&@columns=status&@pagesize=100&@startwith=0&@action=search)
+```
 
 ## Preparatory Tasks 
 

@@ -12,12 +12,13 @@ My new dev page is [http://adamv.com/dev/](http://adamv.com/dev/) .\
 Items of note include [SuperHash](http://adamv.com/dev/python/superhash/) a dict/struct wrapper for MySQLdb rows\
 \
 
-::: {}
-  ---------- -----------------------------------------------
-  Location   Chapel Hill, NC
-  Homepage   [http://adamv.com/](http://adamv.com/)
-  ---------- -----------------------------------------------
-:::
+```{list-table}
+
+* - Location
+  - Chapel Hill, NC
+* - Homepage
+  - [http://adamv.com/](http://adamv.com/)
+```
 
 ------------------------------------------------------------------------
 

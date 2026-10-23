@@ -17,12 +17,5 @@ Her er en liste over alle kategorier denne wiki kender til:
 
 Her er en liste over alle sider indeholdende wiki-koden KategoriKategori:
 
-::: {}
-\
-
-Display context of search results\
-
-Case-sensitive searching
-:::
 
 Alle kategorier starter med ordet \"Kategori\". For yderligere information se [AboutCategoriesAndTopics](http://c2.com/cgi/wiki?AboutCategoriesAndTopics "Wiki").

@@ -32,27 +32,27 @@ Se caracteriza por la fluencia de su sintaxis, la cual garantiza una alta legibi
 
 Para quienes desean iniciar su aprendizaje en Python existen numerosas alternativas dentro de las cuales, sin ser las únicas, se incluyen las siguientes:
 
-::: {}
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Guía de principiantes](../getting-started/BeginnersGuide)                                                | [Documentación](../documentation/Documentation)                                                         |
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| Enlaces a tutoriales, cursos y recursos                                                       | Materiales de aprendizaje, guías y vínculos a recursos centralizados                          |
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Errores de principiante](../archive/BeginnerErrorsWithPythonProgramming)                         | [Libros de Python](../books/PythonBooks)                                                        |
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| Algunos errores comunes de principiante                                                       | Libros sobre Python y revisiones                                                              |
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Solicitando ayuda](../archive/Asking%20for%20Help)                                             | [Materiales de Audio](../archive/PythonAudioMaterial)                                             |
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| Respuestas a preguntas comunes en principiantes                                               | Una mezcla de tópicos introductorios y de tópicos especiales                                  |
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| [Idiomas](../archive/Languages)                                                                   | [Implementaciones](implementation)                                                     |
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| Recursos en otros idiomas                                                                     | Software diverso el cual se ejecuta en el lenguaje de Python                                  |
-+-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| Ver también la [categoría de documentación](CategoryDocumentation) para toda la documentación relacionada. Del mismo modo, la documentación respectiva de cada versión disponible.     |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-:::
+```{list-table}
+
+* - [Guía de principiantes](../getting-started/BeginnersGuide)
+  - [Documentación](../documentation/Documentation)
+* - Enlaces a tutoriales, cursos y recursos
+  - Materiales de aprendizaje, guías y vínculos a recursos centralizados
+* - [Errores de principiante](../archive/BeginnerErrorsWithPythonProgramming)
+  - [Libros de Python](../books/PythonBooks)
+* - Algunos errores comunes de principiante
+  - Libros sobre Python y revisiones
+* - [Solicitando ayuda](../archive/Asking%20for%20Help)
+  - [Materiales de Audio](../archive/PythonAudioMaterial)
+* - Respuestas a preguntas comunes en principiantes
+  - Una mezcla de tópicos introductorios y de tópicos especiales
+* - [Idiomas](../archive/Languages)
+  - [Implementaciones](implementation)
+* - Recursos en otros idiomas
+  - Software diverso el cual se ejecuta en el lenguaje de Python
+* - Ver también la [categoría de documentación](CategoryDocumentation) para toda la documentación relacionada. Del mismo modo, la documentación respectiva de cada versión disponible.
+  -
+```
 
 ### Documentación y tutoriales 
 

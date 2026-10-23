@@ -16,19 +16,29 @@ Once a tracker has been selected, a new installation will be set up and the [Sou
 
 ## Participating Trackers 
 
-::: {}
-+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+:-----------------:+:--------------------------------------------------------------------------------:+
-| **Tracker wiki page**                                                          | **Test Tracker URL**                                                                                         | **Contact Person** (name & email)                                                                    |
-+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
-| [TracTracker](../people/TracTracker)                                              | [http://python-trac.swapoff.org](http://python-trac.swapoff.org)                                      | Alec Thomas       | [alec@swapoff.org](mailto:alec@swapoff.org)                             |
-+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
-| [Roundup](http://www.mechanicalcat.net/tech/roundup/wiki/PythonTracker) | [http://efod.se/python-tracker/](http://efod.se/python-tracker/)                                      | Stefan Seefeld    | [seefeld@sympatico.ca](mailto:seefeld@sympatico.ca)                     |
-+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
-| [JiraTracker](../people/JiraTracker)                                              | [http://jira.python.atlassian.com](http://jira.python.atlassian.com)                                  | Jonathan Nolen    | [jonathan@atlassian.com](mailto:jonathan@atlassian.com)                 |
-+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
-| [LaunchpadTracker](../people/LaunchpadTracker)                                    | [https://demo.launchpad.net/products/python/+bugs](https://demo.launchpad.net/products/python/+bugs) | James Henstridge  | [james.henstridge@canonical.com](mailto:james.henstridge@canonical.com) |
-+--------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+-------------------+----------------------------------------------------------------------------------+
-:::
+```{list-table}
+
+* - **Tracker wiki page**
+  - **Test Tracker URL**
+  - **Contact Person** (name & email)
+  -
+* - [TracTracker](../people/TracTracker)
+  - [http://python-trac.swapoff.org](http://python-trac.swapoff.org)
+  - Alec Thomas
+  - [alec@swapoff.org](mailto:alec@swapoff.org)
+* - [Roundup](http://www.mechanicalcat.net/tech/roundup/wiki/PythonTracker)
+  - [http://efod.se/python-tracker/](http://efod.se/python-tracker/)
+  - Stefan Seefeld
+  - [seefeld@sympatico.ca](mailto:seefeld@sympatico.ca)
+* - [JiraTracker](../people/JiraTracker)
+  - [http://jira.python.atlassian.com](http://jira.python.atlassian.com)
+  - Jonathan Nolen
+  - [jonathan@atlassian.com](mailto:jonathan@atlassian.com)
+* - [LaunchpadTracker](../people/LaunchpadTracker)
+  - [https://demo.launchpad.net/products/python/+bugs](https://demo.launchpad.net/products/python/+bugs)
+  - James Henstridge
+  - [james.henstridge@canonical.com](mailto:james.henstridge@canonical.com)
+```
 
 ![/!\\](/wiki/europython/img/alert.png "/!\") No new trackers are being accepted for consideration. ![/!\\](/wiki/europython/img/alert.png "/!\")
 

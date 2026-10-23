@@ -164,14 +164,11 @@ Note that `PyBuffer`{.backtick} extends the `AutoCloseable`{.backtick} interface
 
 The core package org.python.core only defines the interfaces. Several `PyBuffer`{.backtick} implementations that could be exported by object implementations are provided in `org.python.core.buffer`{.backtick}. The place to start is with one of these basic types:
 
-::: {}
-  ---------------------- ----------------------------------
-  **Buffer Type**        **Suitable for \...**
-  SimpleBuffer           read-only 1D array of bytes
-  SimpleWritableBuffer   1D array of bytes
-  SimpleStringBuffer     Java String (representing bytes)
-  ---------------------- ----------------------------------
-:::
+| Buffer Type | Suitable for \... |
+|---|---|
+| SimpleBuffer | read-only 1D array of bytes |
+| SimpleWritableBuffer | 1D array of bytes |
+| SimpleStringBuffer | Java String (representing bytes) |
 
 These could all be extended or for a more sophisticated behaviour, consider extending `BaseBuffer`{.backtick}.
 

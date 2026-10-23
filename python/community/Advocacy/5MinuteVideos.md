@@ -12,9 +12,11 @@ Remember being inspired [\[1\]](#id2) by the original Rails [Creating a weblog i
 
 The aim is to show the breadth of possibilities that Python offers, to inspire the viewer and make it just a bit easier to spread the word. Programmers new to or skeptical about Python can easily be pointed to the video pages. Such content will certainly do the rounds in the blogosphere.
 
-  ---------------------------- --------------------------------------------------------------------------
-  [\[1\]](#id1)   References to Ruby are included to provide examples of video techniques.
-  ---------------------------- --------------------------------------------------------------------------
+  ```{list-table}
+
+  * - [\[1\]](#id1)
+    - References to Ruby are included to provide examples of video techniques.
+  ```
 
 ------------------------------------------------------------------------
 

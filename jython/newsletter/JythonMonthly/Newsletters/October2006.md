@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  ------------------------------- ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***             ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **October 2006 \-- Issue #4**   
-  ------------------------------- ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **October 2006 \-- Issue #4**
+  -
+```
 
 Welcome to the October 2006 issue of Jython Monthly. The content of this newsletter will focus on using and developing the Jython languge. I want to encourage the readers of Jython Monthly to send any articles, tips, tricks, or any other Jython related material to me if you think it should be distributed with this newsletter.
 
@@ -117,13 +118,10 @@ JExpress Forum (Jython scripting challenge: Automatic gene group multi-fss) - [h
 
 ## Useful Links 
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |

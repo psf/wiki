@@ -22,16 +22,11 @@ De bons points d\'entrée pour explorer ce wiki sont :
 
 Voici une recherche de titre. Essayer quelque chose comme *manager* :
 
-- ::: {}
-  :::
+-
 
 Voici une recherche en texte intégral.
 
-- ::: {}
-  \
-  ☒ Display context of search results\
-  ☐ Case-sensitive searching
-  :::
+-
 
 Vous pouvez également utiliser des expressions régulières comme
 
@@ -39,7 +34,4 @@ Vous pouvez également utiliser des expressions régulières comme
 
 Ou aller directement sur une page, ou créer une nouvelle page en entrant son nom ici :
 
-- :::: {}
-  ::: {}
-  :::
-  ::::
+-

@@ -67,14 +67,14 @@ Speciell symbolik används för att beskriva speciella konstruktioner:
 
   visas som följer:
 
-  - ::: {}
-    +:----------:+:----------:+
-    | \*\*Ingredienser\*\*    |
-    +------------+------------+
-    | \*Namn\*   | \*Antal\*  |
-    +------------+------------+
-    | Morötter   | 10         |
-    +------------+------------+
-    | Ägg        | 3          |
-    +------------+------------+
-    :::
+  - ```{list-table}
+
+    * - \*\*Ingredienser\*\*
+      -
+    * - \*Namn\*
+      - \*Antal\*
+    * - Morötter
+      - 10
+    * - Ägg
+      - 3
+    ```

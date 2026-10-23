@@ -22,16 +22,13 @@ The implementation of a basic servlet typically includes a number of methods whi
 
 Python has long been an obvious choice for \"dynamic\", server-side Web applications, from simple CGI scripts to more complicated applications. Whilst most frameworks provide something equivalent to servlets, some frameworks provide mechanisms which are closer to the servlet concept than others.
 
-::: {}
-  ----------------------------- --------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------
-  **Framework**                 **Equivalent**                                                                                                        **Notes**
-  mod_python                    [Request handlers](http://www.modpython.org/live/current/doc-html/pyapi-handler.html)                          
-  Webware                       [WebKit Servlets](http://webware.sourceforge.net/Webware-0.8.1/WebKit/Docs/Source/Summaries/Servlet.py.html)   Higher-level classes are also available
-  [SkunkWeb](../people/SkunkWeb)   No direct equivalent                                                                                                  Does not appear to promote the servlet model, preferring to promote \"hooks\" from STML
-  Zope                          Products and [PythonMethods/PythonScripts](./PythonMethods(2f)PythonScripts.html)                       
-  Snakelets                     [Snakelets](http://snakelets.sourceforge.net/) use snakelets as \"servlets\"                                   
-  ----------------------------- --------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------
-:::
+| Framework | Equivalent | Notes |
+|---|---|---|
+| mod_python | [Request handlers](http://www.modpython.org/live/current/doc-html/pyapi-handler.html) |  |
+| Webware | [WebKit Servlets](http://webware.sourceforge.net/Webware-0.8.1/WebKit/Docs/Source/Summaries/Servlet.py.html) | Higher-level classes are also available |
+| [SkunkWeb](../people/SkunkWeb) | No direct equivalent | Does not appear to promote the servlet model, preferring to promote \"hooks\" from STML |
+| Zope | Products and [PythonMethods/PythonScripts](./PythonMethods(2f)PythonScripts.html) |  |
+| Snakelets | [Snakelets](http://snakelets.sourceforge.net/) use snakelets as \"servlets\" |  |
 
 ### JavaServer Pages 
 
@@ -55,7 +52,6 @@ Tag libraries provide a means of extending the \"vocabulary\" available in the f
 
 Many \*SP systems have been invented for Python. Indeed, there can be a certain amount of confusion about the number of distinct frameworks available and their relation to each other. For a comparable technology, however, one would look for support for clean interaction with application components (beans), support for the extension of the \"vocabulary\" provided through tag libraries, and the ability to embed presentation-oriented logic within resources in a similar fashion to that provided by scriptlets.
 
-::: {}
 +:-------------:+:---------------------------:+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 | **Framework**                               | **Equivalent**                                                                                     | **Notes**                                                                                  |
 +---------------+-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
@@ -93,7 +89,6 @@ Many \*SP systems have been invented for Python. Indeed, there can be a certain 
 |               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
 |               | Zope                        | Iteration is supported using DTML tags, and arbitrary presentation can be coded in the tag classes | ZPT provides DTML-style iteration and other elementary control-flow concepts are supported |
 +---------------+-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-:::
 
 ### Session Beans 
 

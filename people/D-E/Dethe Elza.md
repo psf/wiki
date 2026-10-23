@@ -8,14 +8,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Dethe Elza 
 
-::: {}
-  ---------- ---------------------------------------------------------
-  Location   Vancouver, BC, Canada
-  Email      delza-\>livingcode.org
-  Homepage   [http://livingcode.org/](http://livingcode.org/)
-  Weblog     [http://livingcode.org/](http://livingcode.org/)
-  ---------- ---------------------------------------------------------
-:::
+```{list-table}
+
+* - Location
+  - Vancouver, BC, Canada
+* - Email
+  - delza-\>livingcode.org
+* - Homepage
+  - [http://livingcode.org/](http://livingcode.org/)
+* - Weblog
+  - [http://livingcode.org/](http://livingcode.org/)
+```
 
 I\'m lucky enough to spend a fair amount of my time at work coding in Python, as well as the majority of my home/hobby time. I\'m working on a game with my seven-year-old daughter using [PyGame](../multimedia/PyGame) and I participate in the [Edu-Sig](http://mail.python.org/mailman/listinfo/edu-sig) mailing list. Currently I\'m exploring the use of PyObjC to wrap some of the work I\'m doing on [data-level collaboration](http://www.svgopen.org/2003/papers/SVGAndCollaborativeWeb/). I\'ve been working extensively with XML since it was called SGML-Web and with Python for the past several years.
 

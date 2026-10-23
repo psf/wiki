@@ -9,12 +9,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 Ronald Oussoren is the maintainer of [/PyObjC](./RonaldOussoren(2f)PyObjC.html).\
 \
 
-::: {}
-  ---------- -----------------------------------------------------------
-  Location   Holland
-  Employer   [http://www.xsupport.nl/](http://www.xsupport.nl/)
-  ---------- -----------------------------------------------------------
-:::
+```{list-table}
+
+* - Location
+  - Holland
+* - Employer
+  - [http://www.xsupport.nl/](http://www.xsupport.nl/)
+```
 
 ------------------------------------------------------------------------
 

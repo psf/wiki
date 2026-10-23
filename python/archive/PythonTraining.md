@@ -467,23 +467,20 @@ A growing wealth of other \"[Audio/Video Instructional Materials for Python](htt
 
 DataCamp has recently been building a collection of cheat sheets for Python learners: right now, they have a **[Python for Data Science Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)**, a **[Pandas Cheat Sheet](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)** and a **[Bokeh Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Bokeh_Cheat_Sheet.pdf)** available.
 
-::: {}
-  -----------------------------------
-  Python Trainers, Promote Thyself
-  -----------------------------------
-:::
+```{list-table}
 
-::: {}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Many trainers are individuals or small companies, and it can be hard to get the attention of the big IT houses. While skill credentials and a portfolio of past training gigs are important, perhaps one of the best promoters is when someone has actually experienced one of your classes. They gain insight into your speaking style, how you relate to the students and your ability to explain complex technical subjects in an approachable way. No class syllabus can convey that. The Python community has a valuable resource that can give you the next best thing.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
+* - Python Trainers, Promote Thyself
+```
 
-::: {}
-  -----------------
-  Screencasting!
-  -----------------
-:::
+```{list-table}
+
+* - Many trainers are individuals or small companies, and it can be hard to get the attention of the big IT houses. While skill credentials and a portfolio of past training gigs are important, perhaps one of the best promoters is when someone has actually experienced one of your classes. They gain insight into your speaking style, how you relate to the students and your ability to explain complex technical subjects in an approachable way. No class syllabus can convey that. The Python community has a valuable resource that can give you the next best thing.
+```
+
+```{list-table}
+
+* - Screencasting!
+```
 
 *Marilyn Davis, Ph.D.*, of [PythonTrainer](./PythonTrainer.html).com, offers a free course: **Python For Programmers** Check it out:[https://www.youtube.com/watch?v=e7J0e0ovYAI](https://www.youtube.com/watch?v=e7J0e0ovYAI)
 

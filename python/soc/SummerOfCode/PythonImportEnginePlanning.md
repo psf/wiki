@@ -123,17 +123,23 @@ Similarly, `imp.NullImporter` implements a `load_module` method which is incompa
 ::: 
 ### References
 
-  ---------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [\[1\]](#id1)   PEP 302, New Import Hooks, J van Rossum, Moore ([http://www.python.org/dev/peps/pep-0302](http://www.python.org/dev/peps/pep-0302))
-  ---------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ```{list-table}
 
-  ---------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [\[2\]](#id3)   \_\_import\_\_() builtin function, The Python Standard Library documentation ([http://docs.python.org/library/functions.html#\_\_import\_\_](http://docs.python.org/library/functions.html#__import__))
-  ---------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  * - [\[1\]](#id1)
+    - PEP 302, New Import Hooks, J van Rossum, Moore ([http://www.python.org/dev/peps/pep-0302](http://www.python.org/dev/peps/pep-0302))
+  ```
 
-  ------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  \[3\]   *([1](#id2), [2](#id4))* Importlib documentation, Cannon ([http://docs.python.org/dev/library/importlib](http://docs.python.org/dev/library/importlib))
-  ------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ```{list-table}
+
+  * - [\[2\]](#id3)
+    - \_\_import\_\_() builtin function, The Python Standard Library documentation ([http://docs.python.org/library/functions.html#\_\_import\_\_](http://docs.python.org/library/functions.html#__import__))
+  ```
+
+  ```{list-table}
+
+  * - \[3\]
+    - *([1](#id2), [2](#id4))* Importlib documentation, Cannon ([http://docs.python.org/dev/library/importlib](http://docs.python.org/dev/library/importlib))
+  ```
 :::
 
 ::: 

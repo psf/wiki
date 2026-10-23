@@ -22,16 +22,11 @@ Dei buoni punti di partenza per esplorare il wiki sono:
 
 Ricerca per titolo. Prova qualche cosa tipo *manager*:
 
-- ::: {}
-  :::
+-
 
 Ricerca completa nei contenuti delle pagine.
 
-- ::: {}
-  \
-  ☒ Display context of search results\
-  ☐ Case-sensitive searching
-  :::
+-
 
 Puoi anche usare una espressione regolare, come ad esempio
 
@@ -39,7 +34,4 @@ Puoi anche usare una espressione regolare, come ad esempio
 
 Oppure andare direttamente a una pagina, o crearla immettendone qui il nome:
 
-- :::: {}
-  ::: {}
-  :::
-  ::::
+-

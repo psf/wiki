@@ -24,16 +24,27 @@ Porting an existing Python module written in C into Java that Jython understands
 
 The table below contains modules implemented in C in Python that are missing in Jython. Feel free to grab one of them and get started. If none of them catch your fancy, run dist/Lib/test/regrtest.py. All of the skipped tests are for modules that are present in CPython but not in Jython, so they\'re fair game too. See the \"Missing Modules\" section of [../RegressionTestNotes](RegressionTestNotes) for a list as of 20061123.
 
-::: {}
-  ------------- ------- -------------------------------------
-  Module        Taken   Affected tests
-  csv           Y       test_csv
-  tarfile       N       test_tarfile
-  unicodedata   Y       test_unicodedata,test_codeccallback
-  heapq         N       test_heapq
-  mmap          Y       test_mmap
-  ------------- ------- -------------------------------------
-:::
+```{list-table}
+
+* - Module
+  - Taken
+  - Affected tests
+* - csv
+  - Y
+  - test_csv
+* - tarfile
+  - N
+  - test_tarfile
+* - unicodedata
+  - Y
+  - test_unicodedata,test_codeccallback
+* - heapq
+  - N
+  - test_heapq
+* - mmap
+  - Y
+  - test_mmap
+```
 
 ## Comments 
 

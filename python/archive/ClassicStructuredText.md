@@ -69,14 +69,14 @@ Special symbology is used to indicate special constructs:
 
   renders like this:
 
-  - ::: {}
-    +:----------:+:----------:+
-    | \*\*Ingredients\*\*     |
-    +------------+------------+
-    | \*Name\*   | \*Amount\* |
-    +------------+------------+
-    | Spam       | 10         |
-    +------------+------------+
-    | Eggs       | 3          |
-    +------------+------------+
-    :::
+  - ```{list-table}
+
+    * - \*\*Ingredients\*\*
+      -
+    * - \*Name\*
+      - \*Amount\*
+    * - Spam
+      - 10
+    * - Eggs
+      - 3
+    ```

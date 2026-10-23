@@ -8,13 +8,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 *([GrowlHelperApp](./GrowlHelperApp.html).app terminology, generated from /Library/PreferencePanes/Growl.prefPane/Contents/Resources/GrowlHelperApp.app)*
 
-::: {}
-  -------------- -----------------------------------------------------------------------------------------------------------------------------------------
-  **Suites**     [Growl](./MacPython(2f)Growl(2f)Terminology.html#suite_Growl)
-  **Commands**   [notify](./MacPython(2f)Growl(2f)Terminology.html#command_notify) [register](./MacPython(2f)Growl(2f)Terminology.html#command_register)
-  **Classes**    [Image](./MacPython(2f)Growl(2f)Terminology.html#class_Image) [Picture](./MacPython(2f)Growl(2f)Terminology.html#class_Picture)
-  -------------- -----------------------------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - **Suites**
+  - [Growl](./MacPython(2f)Growl(2f)Terminology.html#suite_Growl)
+* - **Commands**
+  - [notify](./MacPython(2f)Growl(2f)Terminology.html#command_notify) [register](./MacPython(2f)Growl(2f)Terminology.html#command_register)
+* - **Classes**
+  - [Image](./MacPython(2f)Growl(2f)Terminology.html#class_Image) [Picture](./MacPython(2f)Growl(2f)Terminology.html#class_Picture)
+```
 
 ## Growl 
 

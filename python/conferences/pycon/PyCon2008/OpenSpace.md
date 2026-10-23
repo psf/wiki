@@ -33,37 +33,22 @@ Questions or comments, send a message to the openSpace coordinator - [pkropf+pyc
 
 Here\'s a list of the open space rooms that are available at the conference along with their size and estimated seating capacity:
 
-  ------------------------------------------------------------------------
-  Room                              Size                 Seating
-  --------------------------------- -------------------- -----------------
-  Kennedy Int\'l                    32\' x 42\'          30
-
-  Templehof Int\'l                  18\' x 20\'          20
-
-  Kai Tak Int\'l                    28\' x 20\'          26
-
-  Haneda Int\'l \*\*                34\' x 20\'          \*\*
-
-  Haneda Int\'l A                   17\' x 20\'          18
-
-  Haneda Int\'l B                   17\' x 20\'          18
-
-  La Guardia Int\'l                 28\' x 20\'          26
-
-  Sydney Int\'l                     18\' x 20\'          20
-
-  Da Vinci Int\'l                   18\' x 20\'          20
-
-  Love Int\'l \*\*                  60\' x 40\'          \*\*
-
-  Love Int\'l A                     30\' x 40\'          30
-
-  Love Int\'l B                     30\' x 40\'          30
-
-  The Kitty Hawk                    54\' x 30\'          50
-
-  Midway \*                         56\' x 36\'          89 \*
-  ------------------------------------------------------------------------
+  | Room | Size | Seating |
+  |---|---|---|
+  | Kennedy Int\'l | 32\' x 42\' | 30 |
+  | Templehof Int\'l | 18\' x 20\' | 20 |
+  | Kai Tak Int\'l | 28\' x 20\' | 26 |
+  | Haneda Int\'l \*\* | 34\' x 20\' | \*\* |
+  | Haneda Int\'l A | 17\' x 20\' | 18 |
+  | Haneda Int\'l B | 17\' x 20\' | 18 |
+  | La Guardia Int\'l | 28\' x 20\' | 26 |
+  | Sydney Int\'l | 18\' x 20\' | 20 |
+  | Da Vinci Int\'l | 18\' x 20\' | 20 |
+  | Love Int\'l \*\* | 60\' x 40\' | \*\* |
+  | Love Int\'l A | 30\' x 40\' | 30 |
+  | Love Int\'l B | 30\' x 40\' | 30 |
+  | The Kitty Hawk | 54\' x 30\' | 50 |
+  | Midway \* | 56\' x 36\' | 89 \* |
 
 \[\* Midway is an amphitheater with fixed seats and a raised stage.\]
 

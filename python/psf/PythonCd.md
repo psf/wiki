@@ -8,13 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Welcome to your Python CD! 
 
-::: {}
-+-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
-| This is a bootable CD based on [Debian GNU/Linux](http://debian.org/) and [KNOPPIX](http://knoppix.de/).\ | ![](http://www.kloss-familie.de/guy/images/Python_cd_trans_sm.png "http://www.kloss-familie.de/guy/images/Python_cd_trans_sm.png") |
-| \                                                                                                                       |                                                                                                                                                     |
-| The special thing about it is that it has lots of Python stuff!                                                         |                                                                                                                                                     |
-+-------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------+
-:::
+```{list-table}
+
+* - This is a bootable CD based on [Debian GNU/Linux](http://debian.org/) and [KNOPPIX](http://knoppix.de/).\
+    \
+    The special thing about it is that it has lots of Python stuff!
+  - ![](http://www.kloss-familie.de/guy/images/Python_cd_trans_sm.png "http://www.kloss-familie.de/guy/images/Python_cd_trans_sm.png")
+```
 
 ## Contents of the Python CD 
 

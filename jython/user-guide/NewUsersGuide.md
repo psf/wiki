@@ -102,9 +102,11 @@ options
 -jar jar
 :   the program to run is read from the \_\_run\_\_.py file in the specified jar file
 
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------
-  [[-c `cmd`{.variable}]]   program to run is passed in as the cmd string. This option terminates the options list file run file as the program script file
-  ---------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------
+  ```{list-table}
+
+  * - [[-c `cmd`]]
+    - program to run is passed in as the cmd string. This option terminates the options list file run file as the program script file
+  ```
 
 - 
 
@@ -114,10 +116,13 @@ options
 args
 :   arguments passed to the program in sys.argv\[1:\]
 
-  ------------------------------- --------------------------------------
-  [[\--help]]      print a usage message and exit
-  [[\--version]]   print Jython version number and exit
-  ------------------------------- --------------------------------------
+  ```{list-table}
+
+  * - [[\--help]]
+    - print a usage message and exit
+  * - [[\--version]]
+    - print Jython version number and exit
+  ```
 
 :::: 
 ##### [Making Jython Scripts Executable](#id7)
@@ -263,53 +268,32 @@ Java classes have both static and instance methods this makes them behave much l
 
 Java methods and functions are called just exactly like their Python counterparts. There is some automatic type coercion that goes on both for the types being passed in and for the value returned by the method. The following table shows how Python objects are coerced to Java objects when passed as arguments in a function call. The Java Types show the expected Java type for the argument, and the Allowed Python Types shows what Python objects can be converted to the given Java type. Notice the special behavior of String\'s when a java.lang.Object is expected. This behavior might change if it is shown to cause problems.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Java Types                             Allowed Python Types
-  -------------------------------------- --------------------------------------------------------------------------------------------------------------------------
-  char                                   String (must have length 1)
-
-  boolean                                Integer (true = nonzero)
-
-  byte, short, int, long                 Integer
-
-  float, double                          Float
-
-  java.lang.String, byte\[\], char\[\]   String
-
-  java.lang.Class Class or JavaClass     (only if class subclasses from exactly one Java class; mutiple inheritance from more than one Java class is now illegal)
-
-  Foo\[\]                                Array (must contain objects of class or subclass of Foo)
-
-  java.lang.Object                       String-\>java.lang.String, all others unchanged
-
-  org.python.core.PyObject               All unchanged
-
-  Foo                                    Instance-\>Foo (if Instance is subclass of Foo); JavaInstance -\> Foo (if JavaInstance is instance of Foo or subclass)
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  | Java Types | Allowed Python Types |
+  |---|---|
+  | char | String (must have length 1) |
+  | boolean | Integer (true = nonzero) |
+  | byte, short, int, long | Integer |
+  | float, double | Float |
+  | java.lang.String, byte\[\], char\[\] | String |
+  | java.lang.Class Class or JavaClass | (only if class subclasses from exactly one Java class; mutiple inheritance from more than one Java class is now illegal) |
+  | Foo\[\] | Array (must contain objects of class or subclass of Foo) |
+  | java.lang.Object | String-\>java.lang.String, all others unchanged |
+  | org.python.core.PyObject | All unchanged |
+  | Foo | Instance-\>Foo (if Instance is subclass of Foo); JavaInstance -\> Foo (if JavaInstance is instance of Foo or subclass) |
 
 Returned values from a Java method are also possibly coerced back to an object that is more readily usable in Python. The following table shows those coercions.
 
-  -------------------------------------------------------------------------------------------------
-  Java Type                                Returned Python Type
-  ---------------------------------------- --------------------------------------------------------
-  char                                     String (of length 1)
-
-  boolean                                  Integer (true = 1, false = 0)
-
-  byte, short, int, long                   Integer
-
-  float, double                            Float
-
-  java.lang.String                         String
-
-  java.lang.Class                          JavaClass which represents given Java class
-
-  Foo\[\]                                  Array (containing objects of class or subclass of Foo)
-
-  org.python.core.PyObject (or subclass)   Unchanged
-
-  Foo                                      JavaInstance which represents the Java Class Foo
-  -------------------------------------------------------------------------------------------------
+  | Java Type | Returned Python Type |
+  |---|---|
+  | char | String (of length 1) |
+  | boolean | Integer (true = 1, false = 0) |
+  | byte, short, int, long | Integer |
+  | float, double | Float |
+  | java.lang.String | String |
+  | java.lang.Class | JavaClass which represents given Java class |
+  | Foo\[\] | Array (containing objects of class or subclass of Foo) |
+  | org.python.core.PyObject (or subclass) | Unchanged |
+  | Foo | JavaInstance which represents the Java Class Foo |
 :::
 
 :::: 
@@ -435,25 +419,16 @@ array will create a new array of the same length as the input sequence and will 
 
 type can either be a single character typecode (using the same mappings as Python\'s array module) or it can be an instance of a JavaClass object. The valid typecodes are shown in the following table:
 
-  -----------------------------------------------------------------------
-  Character Typecode              Corresponding Java Type
-  ------------------------------- ---------------------------------------
-  z                               boolean
-
-  c                               char
-
-  b                               byte
-
-  h                               short
-
-  i                               int
-
-  l                               long
-
-  f                               float
-
-  d                               double
-  -----------------------------------------------------------------------
+  | Character Typecode | Corresponding Java Type |
+  |---|---|
+  | z | boolean |
+  | c | char |
+  | b | byte |
+  | h | short |
+  | i | int |
+  | l | long |
+  | f | float |
+  | d | double |
 
 A quick example:
 

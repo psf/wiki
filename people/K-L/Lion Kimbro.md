@@ -10,14 +10,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ![](http://www.speakeasy.org/~lion/lion_positive2.jpg "http://www.speakeasy.org/~lion/lion_positive2.jpg")
 
-::: {}
-  ----------- --------------------------------------------------------------------
-  Email       [lion@speakeasy.org](mailto:lion@speakeasy.org)
-  Jabber IM   LionKimbro@jabber.org
-  Homepage    [http://speakeasy.org/\~lion/](http://speakeasy.org/~lion/)
-  Blog        [http://lion.taoriver.net/](http://lion.taoriver.net/)
-  ----------- --------------------------------------------------------------------
-:::
+```{list-table}
+
+* - Email
+  - [lion@speakeasy.org](mailto:lion@speakeasy.org)
+* - Jabber IM
+  - LionKimbro@jabber.org
+* - Homepage
+  - [http://speakeasy.org/\~lion/](http://speakeasy.org/~lion/)
+* - Blog
+  - [http://lion.taoriver.net/](http://lion.taoriver.net/)
+```
 
 [SeaPig](SeaPig) member. Avid wiki user, also participates on: [CommunityWiki](http://communitywiki.org/), [Futures wiki](http://futures.wiki.taoriver.net/)
 

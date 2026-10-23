@@ -6,11 +6,11 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  -------------------- ---------------------------------------------------------------------------------------------------
-  **Jython Monthly**    ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  -------------------- ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - **Jython Monthly**
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+```
 
 Please feel free to create new articles for the Jython Monthly newsletter in the appropriate section below!
 

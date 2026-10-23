@@ -23,9 +23,11 @@ The first draft for this document was written by Benjamin Peterson at [http://do
 :::::::::::: 
 ### Porting Extension Modules to 3.0
 
-  --------- -------------------
-  author:   Benjamin Peterson
-  --------- -------------------
+  ```{list-table}
+
+  * - author:
+    - Benjamin Peterson
+  ```
 
 ::: topic
 Abstract

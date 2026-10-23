@@ -8,17 +8,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### jEdit 
 
-::: {}
-+:--------:+:---------------------------------------------------:+
-| Quick Facts                                                    |
-+----------+-----------------------------------------------------+
-| Source   | [http://www.jedit.org](http://www.jedit.org) |
-+----------+-----------------------------------------------------+
-| Platform | JVM                                                 |
-+----------+-----------------------------------------------------+
-| License  | GPL                                                 |
-+----------+-----------------------------------------------------+
-:::
+```{list-table}
+
+* - Quick Facts
+  -
+* - Source
+  - [http://www.jedit.org](http://www.jedit.org)
+* - Platform
+  - JVM
+* - License
+  - GPL
+```
 
 jEdit is a nice Swing based editor for many languages and Java specially. You can add additional plugins like [JPyDbg](http://jpydbg.sourceforge.net/) and Jython for your Python work.
 

@@ -154,77 +154,41 @@ See \"Account Management\" for some relevant criteria.
 
 [Indico](http://cdsware.cern.ch/indico/) has been used to manage [EuroPython]() 2007. Here\'s how it fares in the above criteria:
 
-::: {}
-+:---------------------------------------------:+:------------------------------------------------------:+
-| **Account Management**                                                                                 |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Register yourself**                         | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Register others**                           | *Not at CERN*                                          |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Submit/edit/withdraw your own materials**   | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Submit/edit/withdraw materials for others** | *Only as administrator*                                |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Review materials**                          | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Administer conference**                     | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Registration**                                                                                       |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Registrant information**                    | *Supported - can add arbitrary fields*                 |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Export/reports of registrant information**  | *Yes (PDF, CSV)*                                       |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Badges**                                    | *Supported - interactive editor and PDF export*        |
-+-----------------------------------------------+--------------------------------------------------------+
-| **e-payment**                                 | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Pay later**                                 | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Non-paying registrants**                    | *Yes (1)*                                              |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Different prices/rates**                    | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Can generate total revenue**                | *No - would need to include non-registration revenues* |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Tutorials and extra events**                | *Yes (2)*                                              |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Capacity limits on events**                 | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Optional donations/extra items**            | *Yes (2)*                                              |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Edit registrations yourself**               | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Edit other registrations**                  | *Only as administrator*                                |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Cancel registrations yourself**             | *No*                                                   |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Cancel other registrations**                | *Only as administrator*                                |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Paper/Talk Submissions**                                                                             |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Reviewer role**                             | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Organiser role**                            | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Submission information**                    | *Supported*                                            |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Reviewer assignment**                       | *Done manually*                                        |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Reviewer voting/consensus forming**         | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Export/reports showing submission status**  | *Yes - filtering and export possible (XML, PDF)*       |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Reviewer comments (public and hidden**      | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **User comments**                             | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **E-mail notifications**                      | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-| **Export as proceedings**                     | *Yes*                                                  |
-+-----------------------------------------------+--------------------------------------------------------+
-:::
+| Account Management |  |
+|---|---|
+| **Register yourself** | *Yes* |
+| **Register others** | *Not at CERN* |
+| **Submit/edit/withdraw your own materials** | *Yes* |
+| **Submit/edit/withdraw materials for others** | *Only as administrator* |
+| **Review materials** | *Yes* |
+| **Administer conference** | *Yes* |
+| **Registration** |  |
+| **Registrant information** | *Supported - can add arbitrary fields* |
+| **Export/reports of registrant information** | *Yes (PDF, CSV)* |
+| **Badges** | *Supported - interactive editor and PDF export* |
+| **e-payment** | *Yes* |
+| **Pay later** | *Yes* |
+| **Non-paying registrants** | *Yes (1)* |
+| **Different prices/rates** | *Yes* |
+| **Can generate total revenue** | *No - would need to include non-registration revenues* |
+| **Tutorials and extra events** | *Yes (2)* |
+| **Capacity limits on events** | *Yes* |
+| **Optional donations/extra items** | *Yes (2)* |
+| **Edit registrations yourself** | *Yes* |
+| **Edit other registrations** | *Only as administrator* |
+| **Cancel registrations yourself** | *No* |
+| **Cancel other registrations** | *Only as administrator* |
+| **Paper/Talk Submissions** |  |
+| **Reviewer role** | *Yes* |
+| **Organiser role** | *Yes* |
+| **Submission information** | *Supported* |
+| **Reviewer assignment** | *Done manually* |
+| **Reviewer voting/consensus forming** | *Yes* |
+| **Export/reports showing submission status** | *Yes - filtering and export possible (XML, PDF)* |
+| **Reviewer comments (public and hidden** | *Yes* |
+| **User comments** | *Yes* |
+| **E-mail notifications** | *Yes* |
+| **Export as proceedings** | *Yes* |
 
 1.  An \"invitation code\" feature would let people register without manual validation of non-paying registrants afterwards. Generally, some kind of validation mechanism would be required, anyway.
 2.  Add chargeable items to the form for extra events and items.

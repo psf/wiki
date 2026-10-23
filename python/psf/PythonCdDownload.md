@@ -47,14 +47,17 @@ Then you should get the boot prompt from the [PythonCd](PythonCd).
 
 Just enter one of these boot options and hit \<ENTER\>:
 
-::: {}
-  ------ ------------------------------------------------------------
-  en24   english and kernel 2.4
-  en26   english and kernel 2.6 (default if you just hit \<ENTER\>)
-  de24   german and kernel 2.4
-  de26   german and kernel 2.6
-  ------ ------------------------------------------------------------
-:::
+```{list-table}
+
+* - en24
+  - english and kernel 2.4
+* - en26
+  - english and kernel 2.6 (default if you just hit \<ENTER\>)
+* - de24
+  - german and kernel 2.4
+* - de26
+  - german and kernel 2.6
+```
 
 The function keys F2 and F3 also show some other options. Use `desktop=fluxbox`{.backtick} in any case (there is no KDE).
 

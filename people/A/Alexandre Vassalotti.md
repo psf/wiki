@@ -18,12 +18,13 @@ Specialities:
 
 - General C extension development
 
-::: {}
-  --------- ----------------------------------------------------------------
-  Email     [alexandre@peadrop.com](mailto:alexandre@peadrop.com)
-  Website   [http://peadrop.com/](http://peadrop.com/)
-  --------- ----------------------------------------------------------------
-:::
+```{list-table}
+
+* - Email
+  - [alexandre@peadrop.com](mailto:alexandre@peadrop.com)
+* - Website
+  - [http://peadrop.com/](http://peadrop.com/)
+```
 
 ------------------------------------------------------------------------
 

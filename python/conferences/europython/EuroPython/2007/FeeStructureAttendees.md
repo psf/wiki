@@ -10,22 +10,19 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 A guide to attendee fees:
 
-::: {}
-  -------------------- ---------- ---------- ---------- ------------------------------ --------------------------- ---------------------------------------
-  **Level**            **2005**   **2006**   **2007**   **[PyCon](../../../pycon/PyCon) UK**   **[PyCon](../../../pycon/PyCon)**   **[RuPy](./RuPy.html)**
-  Speakers (early)     70 EUR                *N/A*                                                                 
-  Speakers (student)              65 EUR     *N/A*                                                                 
-  Speakers             89 EUR     120 EUR    100 EUR                                                               
-  Early                160 EUR    120 EUR    100 EUR    88 EUR (£60)                   143 EUR (\$195)             
-  Early+                          120 EUR                                                                          
-  Normal               220 EUR    190 EUR    160 EUR    140 EUR (£95)                  191 EUR (\$260)             95 EUR
-  At door              270 EUR               200 EUR    147 EUR (£100)                 265 EUR (\$360)             
-  Student (early)      100 EUR    65 EUR     65 EUR                                    92 EUR (\$125)              
-  Student (early+)                85 EUR                                                                           
-  Student              150 EUR    100 EUR    85 EUR                                    110 EUR (\$150)             15 EUR
-  Student (at door)    200 EUR               200 EUR                                   184 EUR (\$250)             
-  -------------------- ---------- ---------- ---------- ------------------------------ --------------------------- ---------------------------------------
-:::
+| Level | 2005 | 2006 | 2007 | [PyCon](../../../pycon/PyCon) UK | [PyCon](../../../pycon/PyCon) | [RuPy](./RuPy.html) |
+|---|---|---|---|---|---|---|
+| Speakers (early) | 70 EUR |  | *N/A* |  |  |  |
+| Speakers (student) |  | 65 EUR | *N/A* |  |  |  |
+| Speakers | 89 EUR | 120 EUR | 100 EUR |  |  |  |
+| Early | 160 EUR | 120 EUR | 100 EUR | 88 EUR (£60) | 143 EUR (\$195) |  |
+| Early+ |  | 120 EUR |  |  |  |  |
+| Normal | 220 EUR | 190 EUR | 160 EUR | 140 EUR (£95) | 191 EUR (\$260) | 95 EUR |
+| At door | 270 EUR |  | 200 EUR | 147 EUR (£100) | 265 EUR (\$360) |  |
+| Student (early) | 100 EUR | 65 EUR | 65 EUR |  | 92 EUR (\$125) |  |
+| Student (early+) |  | 85 EUR |  |  |  |  |
+| Student | 150 EUR | 100 EUR | 85 EUR |  | 110 EUR (\$150) | 15 EUR |
+| Student (at door) | 200 EUR |  | 200 EUR |  | 184 EUR (\$250) |  |
 
 See the minutes from [EuroPython/2007/IrcMeetings/IrcMeeting2](IrcMeetings/IrcMeeting2) for the agreed price classes.
 

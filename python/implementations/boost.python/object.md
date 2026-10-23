@@ -12,22 +12,33 @@ The library provides a class called **object**, which encapsulates a valid Pytho
 
 The first challenge was to provide support for object manipulations using a Python-like syntax, mostly in the form of operator overloads:
 
-::: {}
-  --------------- --------------------------
-  Python          C++
-  y = x.foo       y = x.attr(\"foo\");
-  x.foo = 1       x.attr(\"foo\") = 1;
-  y = x\[z\]      y = x\[z\];
-  x\[z\] = 1      x\[z\] = 1;
-  y = x\[3:-1\]   y = x.slice(3,-1);
-  y = x\[3:\]     y = x.slice(3,\_);
-  y = x\[:-2\]    y = x.slice(\_,-2);
-  z = x(1, y)     z = x(1, y);
-  z = x.f(1, y)   z = x.attr(\"f\")(1, y);
-  not x           !x
-  x and y         x && y
-  --------------- --------------------------
-:::
+```{list-table}
+
+* - Python
+  - C++
+* - y = x.foo
+  - y = x.attr(\"foo\");
+* - x.foo = 1
+  - x.attr(\"foo\") = 1;
+* - y = x\[z\]
+  - y = x\[z\];
+* - x\[z\] = 1
+  - x\[z\] = 1;
+* - y = x\[3:-1\]
+  - y = x.slice(3,-1);
+* - y = x\[3:\]
+  - y = x.slice(3,\_);
+* - y = x\[:-2\]
+  - y = x.slice(\_,-2);
+* - z = x(1, y)
+  - z = x(1, y);
+* - z = x.f(1, y)
+  - z = x.attr(\"f\")(1, y);
+* - not x
+  - !x
+* - x and y
+  - x && y
+```
 
 ##### object conversions 
 

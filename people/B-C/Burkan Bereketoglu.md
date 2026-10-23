@@ -16,11 +16,10 @@ We are here starting a Python User Group for our research laboratory on Accelera
 
 ## Interests 
 
-::: {}
-  -------------------------------------------------------------------------------------------------------------------
-  1\. Learning Theory (Knowledge Graphs, ML, DL, Deep Reinforcement Learning, Sequence Systems, Nonlinear Dynamics)
-  2\. Statistical Analysis and Simulation (Digital Twins, Mathematical and Physical Modeling)
-  3\. Game of Life
-  4\. Package Building and Instrumentation System Design
-  -------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - 1\. Learning Theory (Knowledge Graphs, ML, DL, Deep Reinforcement Learning, Sequence Systems, Nonlinear Dynamics)
+* - 2\. Statistical Analysis and Simulation (Digital Twins, Mathematical and Physical Modeling)
+* - 3\. Game of Life
+* - 4\. Package Building and Instrumentation System Design
+```

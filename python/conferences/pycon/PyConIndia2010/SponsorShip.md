@@ -10,21 +10,18 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 This is a list of sponsors whom we can meet. A good starting point is [BangPypers/PythonCompaniesInIndia](../../../community/BangPypers/PythonCompaniesInIndia). This is of course predicated on the venue.
 
-::: {}
-  --------------------------------------------------- ----------------------------------------------
-  **Sponsor name**                                    **Contact person/Plan of action**
-  Oracle (US)                                         Saju Pillai to check with contacts in the US
-  [ZeOmega](./ZeOmega.html)             Noufal to open a thread of communication
-  [ThoughtWorks](./ThoughtWorks.html)   
-  IIT Bombay                                          Noufal will mail Prabhu
-  Yahoo India R&D                                     
-  Packt Publishers                                    Anand Pillai
-  O\'Reilly                                           
-  Apress                                              
-  Google                                              
-  Azri Solutions                                      Mohan Sunkara
-  --------------------------------------------------- ----------------------------------------------
-:::
+| Sponsor name | Contact person/Plan of action |
+|---|---|
+| Oracle (US) | Saju Pillai to check with contacts in the US |
+| [ZeOmega](./ZeOmega.html) | Noufal to open a thread of communication |
+| [ThoughtWorks](./ThoughtWorks.html) |  |
+| IIT Bombay | Noufal will mail Prabhu |
+| Yahoo India R&D |  |
+| Packt Publishers | Anand Pillai |
+| O\'Reilly |  |
+| Apress |  |
+| Google |  |
+| Azri Solutions | Mohan Sunkara |
 
 Possible cold calls to all the sponsors at The US, APAC and Euro [PyCon](../PyCon) sites?
 

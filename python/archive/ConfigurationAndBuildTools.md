@@ -14,68 +14,108 @@ This page is for:
 
 - [Build automation](https://en.wikipedia.org/wiki/Build_automation) tools
 
-::: {}
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Name**                                                              | **[365 Day Ranking](https://hugovk.github.io/top-pypi-packages/)** | **Latest Release**      | **Description**                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [Bitbake](https://github.com/openembedded/bitbake)\           | None                                                                       | 1.46.2 (2020-08-04)     | A task executor used to build packages for [OpenEmbedded](../people/OpenEmbedded) and other projects. [Wikipedia](https://en.wikipedia.org/wiki/BitBake)                                                                                                                  |
-| (pypi: NONE)                                                          |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [Buildout](http://www.buildout.org/en/latest/)\                | \>5000                                                                     | 2.13.7 (2022-03-31)     | Build tool for creating applications, includes the capability to resolve Python dependencies that are packaged as Python eggs.                                                                                                                                                 |
-| (pypi: [zc.buildout](http://pypi.python.org/pypi/zc.buildout)) |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [distutils](http://docs.python.org/distutils/)\                | N/A                                                                        | N/A (ships with python) | standard module provides support for building and installing additional modules into a Python installation                                                                                                                                                                     |
-| (pypi: NONE)                                                          |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [doit](https://pydoit.org/)\                                  | 2813                                                                       | 0.36.0 (2022-04-22)     | Automation tool (bringing the power of build-tools to execute any kind of task)                                                                                                                                                                                                |
-| (pypi: [doit](https://pypi.org/project/doit/))                |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [Fabric](https://www.fabfile.org/)\                           | 1038                                                                       | 2.7.0 (2022-03-26)      | a simple pythonic remote deployment tool for application deployment or systems administration tasks. It builds on top of [Invoke](http://www.pyinvoke.org/).                                                                                                            |
-| (pypi: [fabric](https://pypi.org/project/fabric/))            |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [Fabricate](https://code.google.com/p/fabricate/)\            | \>5000                                                                     | 1.29.0 (2017-03-03)     | the better build tool: auto-dependency discovery via strace; a successor to Memoize. (Old repo/page: [code.google.com](https://code.google.com/archive/p/fabricate/))                                                                                                  |
-| (pypi: [fabricate](https://pypi.org/project/fabricate/))      |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [Invoke](http://www.pyinvoke.org/)\                            | 709                                                                        | 1.7.0 (2022-03-19)      | a Python task execution tool & library, drawing inspiration from various sources to arrive at a powerful & clean feature set. (aka: pyinvoke)                                                                                                                                  |
-| (pypi: [invoke](https://pypi.org/project/invoke/))            |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [microbuild](https://github.com/CalumJEadie/microbuild)\      | \>5000                                                                     | 0.3.3 (2013-03-26)      | Lightweight Python Build Tool.                                                                                                                                                                                                                                                 |
-| (pypi: [microbuild](https://pypi.org/project/microbuild/))    |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [Paver](https://github.com/paver/paver)\                      | \>5000                                                                     | 1.3.4 (2017-12-31)      | Build/distribution/deployment tool. Build files are in Python.                                                                                                                                                                                                                 |
-| (pypi: [Paver](https://pypi.org/project/Paver/))              |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [poethepoet](https://github.com/nat-n/poethepoet)\            | \>5000                                                                     | 0.14.0 (2022-06-18)     | A task runner that works well with poetry.                                                                                                                                                                                                                                     |
-| (pypi: [poethepoet](https://pypi.org/project/poethepoet/))    |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [PyBuilder](https://pybuilder.io/)\                           | \>5000                                                                     | 0.13.5 (2022-02-23)     | [PyBuilder](./PyBuilder.html) is a software build automation tool written in pure Python mainly targeting Python ecosystem.                                                                                                                                      |
-| (pypi: [pybuilder](https://pypi.org/project/pybuilder/))      |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [pynt](https://rags.github.io/pynt/)\                         | \>5000                                                                     | 0.8.2 (2018-06-24)      | A pure Python build tool. Tasks are just python functions. Manages dependencies between tasks. Allows parameter passing from the commandline. Forked from [microbuild](https://github.com/CalumJEadie/microbuild) ([github.com](https://github.com/rags/pynt)) |
-| (pypi: [pynt](https://pypi.org/project/pynt/))                |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [pypyr](https://pypyr.io/)\                                   | \>5000                                                                     | 5.5.0 (2022-05-26)      | task-runner for automation pipelines defined in yaml. cli & api.                                                                                                                                                                                                               |
-| (pypi: [pypyr](https://pypi.org/project/pypyr/))              |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [sandbox-venv](https://github.com/kernc/sandbox-venv/)\       | None                                                                       | 0.25.0 (2025-08-15)     | Wrap virtualenv/venv executables so that they transparently run in an isolated secure container sandbox.                                                                                                                                                                       |
-| (pypi: NONE)                                                          |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [SCons](https://www.scons.org/)\                              | 2829                                                                       | 4.4.0 (2022-07-30)      | Software construction tool written in Python, with Python as the configuration/scripting language ([code on GitHub](https://github.com/SCons/scons))                                                                                                                   |
-| (pypi: [SCons](https://pypi.org/project/SCons/))              |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [shovel](https://github.com/seomoz/shovel)\                   | None                                                                       | 0.4.0 (2018-03-30)      | Execute python functions as tasks                                                                                                                                                                                                                                              |
-| (pypi: [shovel](https://pypi.org/project/shovel/))            |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [Virtualenv](https://virtualenv.pypa.io/)\                    | 105                                                                        | 20.0.31 (2020-08-17)    | A tool for creating isolated Python environments.                                                                                                                                                                                                                              |
-| (pypi: [virtualenv](https://pypi.org/project/virtualenv/))    |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [Waf](https://waf.io/)\                                       | None                                                                       | 2.0.20 (2019-11-24)     | software construction tool (comparable to autotools, CMake, SCons, ant) [gitlab.com](https://gitlab.com/ita1024/waf/)                                                                                                                                                  |
-| (pypi: NONE)                                                          |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [pyinfra](https://pyinfra.com/)\                              | \>5000                                                                     | 2.0.2 (2022-04-20)      | pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more. [github.com](https://github.com/Fizzadar/pyinfra)                                                    |
-| (pypi: [pyinfra](https://pypi.org/project/pyinfra/))          |                                                                            |                         |                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------+----------------------------------------------------------------------------+-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-:::
+```{list-table}
+
+* - **Name**
+  - **[365 Day Ranking](https://hugovk.github.io/top-pypi-packages/)**
+  - **Latest Release**
+  - **Description**
+* - [Bitbake](https://github.com/openembedded/bitbake)\
+    (pypi: NONE)
+  - None
+  - 1.46.2 (2020-08-04)
+  - A task executor used to build packages for [OpenEmbedded](../people/OpenEmbedded) and other projects. [Wikipedia](https://en.wikipedia.org/wiki/BitBake)
+* - [Buildout](http://www.buildout.org/en/latest/)\
+    (pypi: [zc.buildout](http://pypi.python.org/pypi/zc.buildout))
+  - \>5000
+  - 2.13.7 (2022-03-31)
+  - Build tool for creating applications, includes the capability to resolve Python dependencies that are packaged as Python eggs.
+* - [distutils](http://docs.python.org/distutils/)\
+    (pypi: NONE)
+  - N/A
+  - N/A (ships with python)
+  - standard module provides support for building and installing additional modules into a Python installation
+* - [doit](https://pydoit.org/)\
+    (pypi: [doit](https://pypi.org/project/doit/))
+  - 2813
+  - 0.36.0 (2022-04-22)
+  - Automation tool (bringing the power of build-tools to execute any kind of task)
+* - [Fabric](https://www.fabfile.org/)\
+    (pypi: [fabric](https://pypi.org/project/fabric/))
+  - 1038
+  - 2.7.0 (2022-03-26)
+  - a simple pythonic remote deployment tool for application deployment or systems administration tasks. It builds on top of [Invoke](http://www.pyinvoke.org/).
+* - [Fabricate](https://code.google.com/p/fabricate/)\
+    (pypi: [fabricate](https://pypi.org/project/fabricate/))
+  - \>5000
+  - 1.29.0 (2017-03-03)
+  - the better build tool: auto-dependency discovery via strace; a successor to Memoize. (Old repo/page: [code.google.com](https://code.google.com/archive/p/fabricate/))
+* - [Invoke](http://www.pyinvoke.org/)\
+    (pypi: [invoke](https://pypi.org/project/invoke/))
+  - 709
+  - 1.7.0 (2022-03-19)
+  - a Python task execution tool & library, drawing inspiration from various sources to arrive at a powerful & clean feature set. (aka: pyinvoke)
+* - [microbuild](https://github.com/CalumJEadie/microbuild)\
+    (pypi: [microbuild](https://pypi.org/project/microbuild/))
+  - \>5000
+  - 0.3.3 (2013-03-26)
+  - Lightweight Python Build Tool.
+* - [Paver](https://github.com/paver/paver)\
+    (pypi: [Paver](https://pypi.org/project/Paver/))
+  - \>5000
+  - 1.3.4 (2017-12-31)
+  - Build/distribution/deployment tool. Build files are in Python.
+* - [poethepoet](https://github.com/nat-n/poethepoet)\
+    (pypi: [poethepoet](https://pypi.org/project/poethepoet/))
+  - \>5000
+  - 0.14.0 (2022-06-18)
+  - A task runner that works well with poetry.
+* - [PyBuilder](https://pybuilder.io/)\
+    (pypi: [pybuilder](https://pypi.org/project/pybuilder/))
+  - \>5000
+  - 0.13.5 (2022-02-23)
+  - [PyBuilder](./PyBuilder.html) is a software build automation tool written in pure Python mainly targeting Python ecosystem.
+* - [pynt](https://rags.github.io/pynt/)\
+    (pypi: [pynt](https://pypi.org/project/pynt/))
+  - \>5000
+  - 0.8.2 (2018-06-24)
+  - A pure Python build tool. Tasks are just python functions. Manages dependencies between tasks. Allows parameter passing from the commandline. Forked from [microbuild](https://github.com/CalumJEadie/microbuild) ([github.com](https://github.com/rags/pynt))
+* - [pypyr](https://pypyr.io/)\
+    (pypi: [pypyr](https://pypi.org/project/pypyr/))
+  - \>5000
+  - 5.5.0 (2022-05-26)
+  - task-runner for automation pipelines defined in yaml. cli & api.
+* - [sandbox-venv](https://github.com/kernc/sandbox-venv/)\
+    (pypi: NONE)
+  - None
+  - 0.25.0 (2025-08-15)
+  - Wrap virtualenv/venv executables so that they transparently run in an isolated secure container sandbox.
+* - [SCons](https://www.scons.org/)\
+    (pypi: [SCons](https://pypi.org/project/SCons/))
+  - 2829
+  - 4.4.0 (2022-07-30)
+  - Software construction tool written in Python, with Python as the configuration/scripting language ([code on GitHub](https://github.com/SCons/scons))
+* - [shovel](https://github.com/seomoz/shovel)\
+    (pypi: [shovel](https://pypi.org/project/shovel/))
+  - None
+  - 0.4.0 (2018-03-30)
+  - Execute python functions as tasks
+* - [Virtualenv](https://virtualenv.pypa.io/)\
+    (pypi: [virtualenv](https://pypi.org/project/virtualenv/))
+  - 105
+  - 20.0.31 (2020-08-17)
+  - A tool for creating isolated Python environments.
+* - [Waf](https://waf.io/)\
+    (pypi: NONE)
+  - None
+  - 2.0.20 (2019-11-24)
+  - software construction tool (comparable to autotools, CMake, SCons, ant) [gitlab.com](https://gitlab.com/ita1024/waf/)
+* - [pyinfra](https://pyinfra.com/)\
+    (pypi: [pyinfra](https://pypi.org/project/pyinfra/))
+  - \>5000
+  - 2.0.2 (2022-04-20)
+  - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more. [github.com](https://github.com/Fizzadar/pyinfra)
+```
 
 ### 1.1. Dead, Unmaintained or Discontinued Projects 
 

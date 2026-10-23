@@ -10,21 +10,18 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2007/MySprint`{.backtick}.
 
-::: {}
-  ------------------------------------------------------------------------------ ----------------------------------------- ------------------------------------------ -------------------------------------------
-  **Group/Topic**                                                                **Approx. number of people**              **Pre/Post EP**                            **Room (see \"Sprint locations\" below)**
-  [GrokSprint](../../people/GrokSprint)                                                8-12                                      after: 12-14 july                          ?
-  [SchoolToolSprint](../../archive/SchoolToolSprint)                                    6                                         after: 12 - 14 july                        ?
-  [ParsingForEducationalLinguistics](../../archive/ParsingForEducationalLinguistics)    6                                         after: 12 - 14 july                        ?
-  [LocalizingChandler](../../people/LocalizingChandler)                                ?                                         after: 12 - 13 july                        ?
-  [EuroPython2007/VisualStudio2005](EuroPython2007/VisualStudio2005)   2-3                                       after: 12 - 14 july                        ?
-  [EuroPython2007/PyPySprint](EuroPython2007/PyPySprint)               ?                                         after: 12 - 14 july                        ?
-  [EuroPython2007/BazaarSprint](EuroPython2007/BazaarSprint)           (4? 5?)                                   after: 12 - 14 july                        ?
-  [EuroPython2007/CheeseshopSprint](EuroPython2007/CheeseshopSprint)   (1? 2?)                                   before or after??: 12 - 14 july            ?
-  [EuroPython2007/Zope3Sprint](EuroPython2007/Zope3Sprint)             (1?)                                      after: 12 - 14 july                        ?
-  (Your topic)                                                                   (How many people - useful for planning)   (Before or after, perhaps precise dates)   (Where, once locations are known)
-  ------------------------------------------------------------------------------ ----------------------------------------- ------------------------------------------ -------------------------------------------
-:::
+| Group/Topic | Approx. number of people | Pre/Post EP | Room (see \"Sprint locations\" below) |
+|---|---|---|---|
+| [GrokSprint](../../people/GrokSprint) | 8-12 | after: 12-14 july ? |  |
+| [SchoolToolSprint](../../archive/SchoolToolSprint) | 6 | after: 12 - 14 july ? |  |
+| [ParsingForEducationalLinguistics](../../archive/ParsingForEducationalLinguistics) | 6 | after: 12 - 14 july ? |  |
+| [LocalizingChandler](../../people/LocalizingChandler) ? |  | after: 12 - 13 july ? |  |
+| [EuroPython2007/VisualStudio2005](EuroPython2007/VisualStudio2005) | 2-3 | after: 12 - 14 july | ? |
+| [EuroPython2007/PyPySprint](EuroPython2007/PyPySprint) | ? | after: 12 - 14 july | ? |
+| [EuroPython2007/BazaarSprint](EuroPython2007/BazaarSprint) | (4? 5?) | after: 12 - 14 july | ? |
+| [EuroPython2007/CheeseshopSprint](EuroPython2007/CheeseshopSprint) | (1? 2?) | before or after??: 12 - 14 july | ? |
+| [EuroPython2007/Zope3Sprint](EuroPython2007/Zope3Sprint) | (1?) | after: 12 - 14 july | ? |
+| (Your topic) | (How many people - useful for planning) | (Before or after, perhaps precise dates) | (Where, once locations are known) |
 
 ### Sprint Locations 
 

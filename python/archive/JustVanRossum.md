@@ -10,13 +10,15 @@ Just van Rossum is a Dutch (typo)graphic designer / [MacPython](../platforms/Mac
 
 We\'ve started a page with notes about learning Cocoa using [/PyObjC](./JustVanRossum(2f)PyObjC.html): LtrWiki:StartCocoa
 
-::: {}
-  ---------- ---------------------------------------------------------------
-  Location   Netherlands
-  Homepage   [http://www.letterror.com/](http://www.letterror.com/)
-  Wiki       LtrWiki:FrontPage
-  ---------- ---------------------------------------------------------------
-:::
+```{list-table}
+
+* - Location
+  - Netherlands
+* - Homepage
+  - [http://www.letterror.com/](http://www.letterror.com/)
+* - Wiki
+  - LtrWiki:FrontPage
+```
 
 ------------------------------------------------------------------------
 

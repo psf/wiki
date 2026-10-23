@@ -34,34 +34,19 @@ During the [EuroPython2015]() sprints in Bilbao, Spain, we\'re going to sprint o
 
 ### Meeting up in Bilbao 
 
-::: {}
-+---------------------------------+---------------------------------+--------------+------------+
-| **Name**                        | **Handle**                      | **Saturday** | **Sunday** |
-+---------------------------------+---------------------------------+--------------+------------+
-| Stein Magnus Jodal              | jodal                           | Y            | Y          |
-+---------------------------------+---------------------------------+--------------+------------+
-| Thomas Adamcik                  | adamcik                         | Y            | Y          |
-+---------------------------------+---------------------------------+--------------+------------+
-| Javier Domingo                  | txomon                          | Y            | Y          |
-+---------------------------------+---------------------------------+--------------+------------+
-| Dejan Prokić                    | dprokic                         | Y            | N          |
-+---------------------------------+---------------------------------+--------------+------------+
-| Danilo                          | dbrgn                           | Y            | Partially  |
-+---------------------------------+---------------------------------+--------------+------------+
-| Eric Jahn                       |                                 | Y            | Maybe      |
-+---------------------------------+---------------------------------+--------------+------------+
-| (you? edit this page yourself or ping jodal to be added here)     |              |            |
-+-------------------------------------------------------------------+--------------+------------+
-:::
+| Name | Handle | Saturday | Sunday |
+|---|---|---|---|
+| Stein Magnus Jodal | jodal | Y | Y |
+| Thomas Adamcik | adamcik | Y | Y |
+| Javier Domingo | txomon | Y | Y |
+| Dejan Prokić | dprokic | Y | N |
+| Danilo | dbrgn | Y | Partially |
+| Eric Jahn |  | Y | Maybe |
+| (you? edit this page yourself or ping jodal to be added here) |  |  |  |
 
 ### Joining in through #mopidy at freenode 
 
-::: {}
-+---------------------------------+---------------------------------+--------------+------------+
-| **Name**                        | **Handle**                      | **Saturday** | **Sunday** |
-+---------------------------------+---------------------------------+--------------+------------+
-| Nick Steel                      | kingosticks                     | Maybe        | Y          |
-+---------------------------------+---------------------------------+--------------+------------+
-| (you? edit this page yourself or ping jodal to be added here)     |              |            |
-+-------------------------------------------------------------------+--------------+------------+
-:::
+| Name | Handle | Saturday | Sunday |
+|---|---|---|---|
+| Nick Steel | kingosticks | Maybe | Y |
+| (you? edit this page yourself or ping jodal to be added here) |  |  |  |

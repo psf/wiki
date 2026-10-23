@@ -21,22 +21,19 @@ d.  This resolution be forwarded to the Bank together with the specimen signatur
 
 Signed
 
-::: {}
-  ------------------------ ------------------
-  **Name**                 **Designation**
-  Vivek Khurana            Vice President
-  Anand B Pillai           Vice President
-  Sreekanth S Rameshaiah   Treasurer
-  Noufal Ibrahim           Secretary
-  Kausikram Krishnasayee   Joint Secretary
-  Steven Fernandez         Committee Member
-  Kenneth Gonsalves        President
-  Sayamindu Dasgupta       Committee Member
-  Baishampayan Ghose       Committee Member
-  Satyaakam Goswami        Commitee Member
-  Lakshman Prasad          Commitee Member
-  ------------------------ ------------------
-:::
+| Name | Designation |
+|---|---|
+| Vivek Khurana | Vice President |
+| Anand B Pillai | Vice President |
+| Sreekanth S Rameshaiah | Treasurer |
+| Noufal Ibrahim | Secretary |
+| Kausikram Krishnasayee | Joint Secretary |
+| Steven Fernandez | Committee Member |
+| Kenneth Gonsalves | President |
+| Sayamindu Dasgupta | Committee Member |
+| Baishampayan Ghose | Committee Member |
+| Satyaakam Goswami | Commitee Member |
+| Lakshman Prasad | Commitee Member |
 
 ### 2. Resolution no 2 
 
@@ -50,19 +47,16 @@ The Registrar of societies Ootacamund be requested to rectify the mistake and is
 
 Signed
 
-::: {}
-  ------------------------ ------------------
-  **Name**                 **Designation**
-  Kenneth Gonsalves        President
-  Noufal Ibrahim           Secretary
-  Vivek Khurana            Vice President
-  Anand B Pillai           Vice President
-  Kausikram Krishnasayee   Joint Secretary
-  Baishampayan Ghose       Committee Member
-  Sreekanth S Rameshaiah   Treasurer
-  Satyaakam Goswami        Commitee Member
-  ------------------------ ------------------
-:::
+| Name | Designation |
+|---|---|
+| Kenneth Gonsalves | President |
+| Noufal Ibrahim | Secretary |
+| Vivek Khurana | Vice President |
+| Anand B Pillai | Vice President |
+| Kausikram Krishnasayee | Joint Secretary |
+| Baishampayan Ghose | Committee Member |
+| Sreekanth S Rameshaiah | Treasurer |
+| Satyaakam Goswami | Commitee Member |
 
 ### 3. Resolution no 3 
 
@@ -96,17 +90,14 @@ The register of members shall stand closed from 9 pm on Monday the 6th September
 
 Signed
 
-::: {}
-  ------------------------ -----------------
-  **Name**                 **Designation**
-  Kenneth Gonsalves        President
-  Vivek Khurana            Vice President
-  Satyaakam Goswami        Commitee Member
-  Baishampayan Ghose       Commitee Member
-  Sreekanth S Rameshaiah   Treasurer
-  Noufal Ibrahim           Secretary
-  ------------------------ -----------------
-:::
+| Name | Designation |
+|---|---|
+| Kenneth Gonsalves | President |
+| Vivek Khurana | Vice President |
+| Satyaakam Goswami | Commitee Member |
+| Baishampayan Ghose | Commitee Member |
+| Sreekanth S Rameshaiah | Treasurer |
+| Noufal Ibrahim | Secretary |
 
 ### 4. Resolution no 4 
 
@@ -140,16 +131,13 @@ The register of members shall stand closed from 9 pm on Monday the 27th August t
 
 Signed
 
-::: {}
-  ------------------------ ------------------
-  **Name**                 **Designation**
-  Kenneth Gonsalves        President
-  Sreekanth S Rameshaiah   Treasurer
-  Satyaakam Goswami        Commitee Member
-  Kausikram Krishnasayee   Joint Secretary
-  Baishampayan Ghose       Committee Member
-  ------------------------ ------------------
-:::
+| Name | Designation |
+|---|---|
+| Kenneth Gonsalves | President |
+| Sreekanth S Rameshaiah | Treasurer |
+| Satyaakam Goswami | Commitee Member |
+| Kausikram Krishnasayee | Joint Secretary |
+| Baishampayan Ghose | Committee Member |
 
 \-\--
 

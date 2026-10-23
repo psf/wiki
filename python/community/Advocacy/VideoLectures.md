@@ -25,11 +25,15 @@ Other collections of Python-related video:
 ::: 
 #### [Iterators, Generators, and Descriptors](http://lang.stanford.edu/courses/ee380/2003-2004/031029-ee380-100.wmv)
 
-  --------- --------------------
-  By:       Guido van Rossum
-  Date:     October 29, 2003
-  Length:   1 hr 24 min 38 sec
-  --------- --------------------
+  ```{list-table}
+
+  * - By:
+    - Guido van Rossum
+  * - Date:
+    - October 29, 2003
+  * - Length:
+    - 1 hr 24 min 38 sec
+  ```
 
 This is a [\"What\'s New in Python \[2.3\]\" talk](http://www.stanford.edu/class/ee380/Abstracts/031029.html) delivered to the [EE380 course](http://www.stanford.edu/class/ee380/ay0304.html) at Stanford.
 
@@ -39,11 +43,15 @@ Python 2.2 and 2.3 added significant power to Python\'s competence in the constr
 ::: 
 #### [Python 3000](http://video.google.com/videoplay?docid=-6459339159268485356)
 
-  --------- -------------------
-  By:       Guido van Rossum
-  Date:     July 2006
-  Length:   1 hr 6 min 41 sec
-  --------- -------------------
+  ```{list-table}
+
+  * - By:
+    - Guido van Rossum
+  * - Date:
+    - July 2006
+  * - Length:
+    - 1 hr 6 min 41 sec
+  ```
 
 The next major version of Python, nicknamed Python 3000 (or more prosaically Python 3.0), has been anticipated for a long time. For years I have been collecting and exploring ideas that were too radical for Python 2.x, and it\'s time to stop dreaming and start coding. In this talk I will present the community process that will be used to complete the specification for Python 3000, as well as some of the major changes to the language and the remaining challenges.
 :::
@@ -51,11 +59,15 @@ The next major version of Python, nicknamed Python 3000 (or more prosaically Pyt
 ::: 
 #### [Better, faster, smarter: Python yesterday, today \... and tomorrow](http://video.google.com/videoplay?docid=4539942226071440048)
 
-  --------- -------------------
-  By:       Alex Martelli
-  Date:     October 12, 2006
-  Length:   1 hr 2 min 35 sec
-  --------- -------------------
+  ```{list-table}
+
+  * - By:
+    - Alex Martelli
+  * - Date:
+    - October 12, 2006
+  * - Length:
+    - 1 hr 2 min 35 sec
+  ```
 
 A presentation to the Bay Area Python Interest Group, giving some historical introduction on Python 2.x and how it is developed, and then moving on to the features of Python 2.5.
 :::
@@ -63,11 +75,15 @@ A presentation to the Bay Area Python Interest Group, giving some historical int
 ::: 
 #### [Introducing Python](http://video.google.com/videoplay?docid=9023849479319414382)
 
-  --------- -------------------------------------------------------------
-  By:       Arlington Career Center Multimedia and Yorktown High School
-  Date:     November 2006
-  Length:   23 min 50 sec
-  --------- -------------------------------------------------------------
+  ```{list-table}
+
+  * - By:
+    - Arlington Career Center Multimedia and Yorktown High School
+  * - Date:
+    - November 2006
+  * - Length:
+    - 23 min 50 sec
+  ```
 
 A light-hearted introductory activity for a computer science course, this video contains interviews with luminaries from the Python community interspersed with A Python Love Story.
 
@@ -77,11 +93,15 @@ A joint, interdisciplinary project between Arlington Career Center Multimedia an
 ::: 
 #### [How Open Source Projects Survive Poisonous People](http://video.google.nl/videoplay?docid=-4216011961522818645)
 
-  --------- --------------------------------------------
-  By:       Ben Collins-Sussman & Brian W. Fitzpatrick
-  Date:     January 2007
-  Length:   54 min 55 sec
-  --------- --------------------------------------------
+  ```{list-table}
+
+  * - By:
+    - Ben Collins-Sussman & Brian W. Fitzpatrick
+  * - Date:
+    - January 2007
+  * - Length:
+    - 54 min 55 sec
+  ```
 
 By two of the authors of Subversion, Ben and Brian present on the social and organizational elements involved in protecting the attention and focus of your group, and how to build a healthy community. They relate the bikeshed story and then launch into how to deal with those people who, often unintentionally are selfish, uncooperative, and disrespectful. These people can silently poison the atmosphere of a happy developer community. Come learn how to identify these people and peacefully defuse them before they derail your group. Told through a series of (often amusing) real-life anecdotes and experiences.
 
@@ -91,11 +111,15 @@ Although the talk is focused on development teams, many of the principles relate
 ::: 
 #### [Python 3000 (2)](http://video.google.com/videoplay?docid=1189446823303316785)
 
-  --------- --------------------
-  By:       Guido van Rossum
-  Date:     February 14, 2007
-  Length:   1 hr 25 min 54 sec
-  --------- --------------------
+  ```{list-table}
+
+  * - By:
+    - Guido van Rossum
+  * - Date:
+    - February 14, 2007
+  * - Length:
+    - 1 hr 25 min 54 sec
+  ```
 
 Since the renewed Python 3000 effort was announced at PyCon 2006, a lot has happened. We\'ve implemented about half of the promised changes in a branch, we\'ve solidified the schedule, there\'s a refactoring tool that can do source-to-source translations, and we\'ve produced several gigabytes of discussion about language change proposals (most of which were deemed too radical in the end :-). In this talk, a preview of a keynote to be given at PyCon 2007, I\'ll discuss the Python 3000 road map, status, and what this means for the average Python user.
 :::
@@ -103,11 +127,15 @@ Since the renewed Python 3000 effort was announced at PyCon 2006, a lot has happ
 ::: 
 #### [Advanced Python or Understanding Python](http://video.google.com/videoplay?docid=7760178035196894549)
 
-  --------- --------------------
-  By:       Thomas Wouters
-  Date:     February 21, 2007
-  Length:   1 hr 15 min 43 sec
-  --------- --------------------
+  ```{list-table}
+
+  * - By:
+    - Thomas Wouters
+  * - Date:
+    - February 21, 2007
+  * - Length:
+    - 1 hr 15 min 43 sec
+  ```
 
 The Python language, while object-oriented, is fundamentally different from both C++ and Java. The dynamic and introspective nature of Python allow for language mechanics unlike that of static languages. This talk aims to enlighten programmers new to Python about these fundamentals, the language mechanics that flow from them and how to effectively put those to use. Among the topics covered are duck-typing, interfaces, descriptors, decorators, metaclasses, reference-counting and the cyclic-garbage collector, the divide between C/C++ data and Python objects and the CPython implementation in general.
 :::
@@ -115,26 +143,34 @@ The Python language, while object-oriented, is fundamentally different from both
 ::::: 
 #### Python Design Patterns
 
-  ----- ---------------
-  By:   Alex Martelli
-  ----- ---------------
+  ```{list-table}
+
+  * - By:
+    - Alex Martelli
+  ```
 
 ::: 
 ##### [Part 1](http://video.google.com/videoplay?docid=-3035093035748181693)
 
-  --------- ---------------
-  Date:     March 2007
-  Length:   58 min 47 sec
-  --------- ---------------
+  ```{list-table}
+
+  * - Date:
+    - March 2007
+  * - Length:
+    - 58 min 47 sec
+  ```
 :::
 
 ::: 
 ##### [Part 2](http://video.google.com/videoplay?docid=-288473283307306160)
 
-  --------- ---------------
-  Date:     April 2007
-  Length:   44 min 28 sec
-  --------- ---------------
+  ```{list-table}
+
+  * - Date:
+    - April 2007
+  * - Length:
+    - 44 min 28 sec
+  ```
 
 Design Patterns must be studied in the context on the language in which they\'ll get implemented (the Gang of Four made that point very strongly in their book, though almost everybody else seems not to have noticed :-). This talk explores several categories of classic \"elementary\" DPs in a Python context \-- Creational, Masquerading, Adaptation, and Template.
 :::

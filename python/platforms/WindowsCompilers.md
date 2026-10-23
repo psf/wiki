@@ -22,14 +22,11 @@ The compiler\'s architecture must be the same as Python\'s (for example: if you 
 
 Each Python version uses a specific compiler version (e.g. *CPython 2.7* uses *Visual C++ 9.0*, *CPython 3.3* uses *Visual C++ 10.0*, etc). So, you need to install the compiler version that corresponds to your Python version :
 
-::: {}
-  ---------------- ----------------------
-  **Visual C++**   **CPython**
-  14.x             3.5 - 3.12+
-  10.0             3.3 - 3.4
-  9.0              2.6 - 2.7, 3.0 - 3.2
-  ---------------- ----------------------
-:::
+| Visual C++ | CPython |
+|---|---|
+| 14.x | 3.5 - 3.12+ |
+| 10.0 | 3.3 - 3.4 |
+| 9.0 | 2.6 - 2.7, 3.0 - 3.2 |
 
 Please also have a look at [The Python Dev Guide for Windows](https://devguide.python.org/getting-started/setup-building/index.html#windows) to check for additional requirements or updates to the above table.
 

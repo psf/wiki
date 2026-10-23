@@ -16,29 +16,29 @@ Python combines remarkable power with very clear syntax. It has modules, classes
 
 ### Getting Started
 
-::: {}
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-|                                                                     |                                                                 |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| [Beginners Guide](getting-started/BeginnersGuide)                      | [Documentation](Documentation/Documentation)                     |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| Links to tutorials, courses and resources                           | Learning materials, topic guides and links to central resources |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| [Beginner Errors](archive/BeginnerErrorsWithPythonProgramming) | [Python Books](books/PythonBooks)                        |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| Some common pitfalls of beginners                                   | Books about Python plus reviews                                 |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| [Asking for Help](/python/Asking%20for%20Help.html)                 | [Python Audio Materials](archive/PythonAudioMaterial)      |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| Questions asked by beginners, answered here                         | A mixture of introductory and topical material                  |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| [Languages](archive/Languages)                                 | [Python Implementations](implementations/PythonImplementations)           |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| Resources written in languages other than English                   | Different software which runs programs in the Python language   |
-+---------------------------------------------------------------------+-----------------------------------------------------------------+
-| See also the [documentation category](archive/CategoryDocumentation) for all known documentation-related pages.                  |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-:::
+```{list-table}
+
+* -
+  -
+* - [Beginners Guide](getting-started/BeginnersGuide)
+  - [Documentation](Documentation/Documentation)
+* - Links to tutorials, courses and resources
+  - Learning materials, topic guides and links to central resources
+* - [Beginner Errors](archive/BeginnerErrorsWithPythonProgramming)
+  - [Python Books](books/PythonBooks)
+* - Some common pitfalls of beginners
+  - Books about Python plus reviews
+* - [Asking for Help](/python/Asking%20for%20Help.html)
+  - [Python Audio Materials](archive/PythonAudioMaterial)
+* - Questions asked by beginners, answered here
+  - A mixture of introductory and topical material
+* - [Languages](archive/Languages)
+  - [Python Implementations](implementations/PythonImplementations)
+* - Resources written in languages other than English
+  - Different software which runs programs in the Python language
+* - See also the [documentation category](archive/CategoryDocumentation) for all known documentation-related pages.
+  -
+```
 
 ### Events, Courses, Conferences, Community
 
@@ -62,29 +62,19 @@ Python combines remarkable power with very clear syntax. It has modules, classes
 
 ### Python Software
 
-::: {}
-  ------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------
+```{list-table}
 
-  [Python Projects](archive/PythonProjects)                                                         [Development Tools](archive/DevelopmentTools)
-  Information on finding software projects written in Python, including\...                              Managing your code more effectively
-  [Applications](archive/Applications)                                                              [Python Editors](editors/PythonEditors)
-  Ready-to-run applications which use Python                                                             Editing your code more effectively
-  [Useful Modules](archive/UsefulModules)                                                           [Publishing Python Modules](archive/PublishingPythonModules)
-  Some building blocks for your own projects (including frameworks for database, GUI, Web programming)   How to make others aware of your own works
-  ------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------
-:::
+* - [Python Projects](archive/PythonProjects) Information on finding software projects written in Python, including\... [Applications](archive/Applications) Ready-to-run applications which use Python [Useful Modules](archive/UsefulModules) Some building blocks for your own projects (including frameworks for database, GUI, Web programming)
+  - [Development Tools](archive/DevelopmentTools) Managing your code more effectively [Python Editors](editors/PythonEditors) Editing your code more effectively [Publishing Python Modules](archive/PublishingPythonModules) How to make others aware of your own works
+```
 
 ### Python Core Development Tools
 
-::: {}
-  --------------------------------------------------- ------------------------------------------------------------------
+```{list-table}
 
-  [The Python Web Site](infrastructure/PythonWebsite)   [Bug Tracker](infrastructure/TrackerDevelopment)
-  Maintaining the official Python online resources    Roundup and the code review services used by the Python project
-  [Package Index](archive/CheeseShopDev)         [Other Resources](archive/CategoryDevelopmentProcess)
-  The infrastructure behind Python package hosting    A list of all development process-related resources on this Wiki
-  --------------------------------------------------- ------------------------------------------------------------------
-:::
+* - [The Python Web Site](infrastructure/PythonWebsite) Maintaining the official Python online resources [Package Index](archive/CheeseShopDev) The infrastructure behind Python package hosting
+  - [Bug Tracker](infrastructure/TrackerDevelopment) Roundup and the code review services used by the Python project [Other Resources](archive/CategoryDevelopmentProcess) A list of all development process-related resources on this Wiki
+```
 
 ```{toctree}
 :maxdepth: 2

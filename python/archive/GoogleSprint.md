@@ -28,52 +28,177 @@ The primary focus will be on getting new features into 3.0 before the first alph
 
 ### Attendees Sign Up Here 
 
-- ::: {}
-    ---------------------------------------------- ----------------------------- ---------- ----------
-    Name                                           Dates                         Location   Googler?
-    Neal Norwitz                                   22-25                         MTV        Yes
-    Guido van Rossum                               22-24                         MTV        Yes
-    Talin                                          22-25                         MTV        Yes
-    Collin Winter                                  22-25                         MTV        Yes
-    Alex Martelli                                  22-24 halftime, 25 fulltime   MTV        Yes
-    Brian Fitzpatrick                              22-25                         CHI        Yes
-    Skip Montanaro                                 22-24                         CHI        No
-    Hasan Diwan                                    all days (evenings only)      MTV        No
-    Brett Slatkin                                  22-??                         MTV        Yes
-    Atul Varma                                     23                            CHI        No
-    Anrew Wilson                                   23                            CHI        No
-    Aza Raskin                                     23                            CHI        No
-    Jono [DiCarlo](./DiCarlo.html)   23                            CHI        No
-    Adrian Holovaty                                23                            CHI        No
-    Paul Smith                                     23                            CHI        No
-    Cosmin Stejerean                               22-25                         CHI        No
-    Rob Kapteyn                                    22-25                         CHI        No
-    Paul Lucas                                     22-25                         MTV        No
-    Jason Prado                                    22-23                         MTV        No
-    Anna Ravenscroft                               22-25PT                       MTV        No
-    Keith Dart                                     22-25 PT                      MTV        Yes
-    Gregory P. Smith                               22,24 maybe 25                MTV        Yes
-    Bill Janssen                                   ?????                         MTV        No
-    Larry Hastings                                 22-25                         MTV        No
-    Paul F. Dubois                                 22-25                         MTV        No
-    Dobromir Montauk                               23PT                          MTV        Yes
-    Alex Booth                                     23PT                          MTV        Yes
-    Molly Aplet                                    23PT                          MTV        Yes
-    Mikeal Rogers                                  22-??                         MTV        No
-    Daniel Corson                                  22-25                         MTV        No
-    Arif B Abdullah                                24-25                         MTV        No
-    Yuri Ginsburg                                  22-25 (afternoons)            MTV        No
-    Ero Carrera                                    22-24                         MTV        No
-    Benjamin Aranguren                             24-25                         MTV        No
-    Christopher Burns                              22-24, 25?                    MTV        No
-    Tom Waite                                      22-24, 25?                    MTV        No
-    Thuon Chen                                     22 (afternoon) 23-25          MTV        No
-    John Reese                                     22-?                          MTV        Yes
-    Jacques Frechet                                22                            MTV        No
-    J J                                            22-24?                        MTV        No
-    Matt Good                                      23-24                         MTV        Yes
-    ---------------------------------------------- ----------------------------- ---------- ----------
-  :::
+- ```{list-table}
+
+  * - Name
+    - Dates
+    - Location
+    - Googler?
+  * - Neal Norwitz
+    - 22-25
+    - MTV
+    - Yes
+  * - Guido van Rossum
+    - 22-24
+    - MTV
+    - Yes
+  * - Talin
+    - 22-25
+    - MTV
+    - Yes
+  * - Collin Winter
+    - 22-25
+    - MTV
+    - Yes
+  * - Alex Martelli
+    - 22-24 halftime, 25 fulltime
+    - MTV
+    - Yes
+  * - Brian Fitzpatrick
+    - 22-25
+    - CHI
+    - Yes
+  * - Skip Montanaro
+    - 22-24
+    - CHI
+    - No
+  * - Hasan Diwan
+    - all days (evenings only)
+    - MTV
+    - No
+  * - Brett Slatkin
+    - 22-??
+    - MTV
+    - Yes
+  * - Atul Varma
+    - 23
+    - CHI
+    - No
+  * - Anrew Wilson
+    - 23
+    - CHI
+    - No
+  * - Aza Raskin
+    - 23
+    - CHI
+    - No
+  * - Jono [DiCarlo](./DiCarlo.html)
+    - 23
+    - CHI
+    - No
+  * - Adrian Holovaty
+    - 23
+    - CHI
+    - No
+  * - Paul Smith
+    - 23
+    - CHI
+    - No
+  * - Cosmin Stejerean
+    - 22-25
+    - CHI
+    - No
+  * - Rob Kapteyn
+    - 22-25
+    - CHI
+    - No
+  * - Paul Lucas
+    - 22-25
+    - MTV
+    - No
+  * - Jason Prado
+    - 22-23
+    - MTV
+    - No
+  * - Anna Ravenscroft
+    - 22-25PT
+    - MTV
+    - No
+  * - Keith Dart
+    - 22-25 PT
+    - MTV
+    - Yes
+  * - Gregory P. Smith
+    - 22,24 maybe 25
+    - MTV
+    - Yes
+  * - Bill Janssen
+    - ?????
+    - MTV
+    - No
+  * - Larry Hastings
+    - 22-25
+    - MTV
+    - No
+  * - Paul F. Dubois
+    - 22-25
+    - MTV
+    - No
+  * - Dobromir Montauk
+    - 23PT
+    - MTV
+    - Yes
+  * - Alex Booth
+    - 23PT
+    - MTV
+    - Yes
+  * - Molly Aplet
+    - 23PT
+    - MTV
+    - Yes
+  * - Mikeal Rogers
+    - 22-??
+    - MTV
+    - No
+  * - Daniel Corson
+    - 22-25
+    - MTV
+    - No
+  * - Arif B Abdullah
+    - 24-25
+    - MTV
+    - No
+  * - Yuri Ginsburg
+    - 22-25 (afternoons)
+    - MTV
+    - No
+  * - Ero Carrera
+    - 22-24
+    - MTV
+    - No
+  * - Benjamin Aranguren
+    - 24-25
+    - MTV
+    - No
+  * - Christopher Burns
+    - 22-24, 25?
+    - MTV
+    - No
+  * - Tom Waite
+    - 22-24, 25?
+    - MTV
+    - No
+  * - Thuon Chen
+    - 22 (afternoon) 23-25
+    - MTV
+    - No
+  * - John Reese
+    - 22-?
+    - MTV
+    - Yes
+  * - Jacques Frechet
+    - 22
+    - MTV
+    - No
+  * - J J
+    - 22-24?
+    - MTV
+    - No
+  * - Matt Good
+    - 23-24
+    - MTV
+    - Yes
+  ```
 
 ### Food 
 

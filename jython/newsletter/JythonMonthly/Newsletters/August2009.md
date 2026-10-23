@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  ------------------------------- ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***             ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **August 2009 \-- Issue #33**   
-  ------------------------------- ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **August 2009 \-- Issue #33**
+  -
+```
 
 The podcast is also available at the podcast site (Available on 8/31/2009): [http://www.jythonpodcast.com](http://www.jythonpodcast.com)
 
@@ -175,14 +176,11 @@ This is a discussion all about the blog post that we mentioned earlier. A post t
 
 [jHepWork](http://jwork.org/jhepwork)
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  [Planet Jython](http://planet.jython.org/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |
+| [Planet Jython](http://planet.jython.org/) |

@@ -8,11 +8,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Use cases of the DB API for a PostgreSQL database
 
-  ------------ -----------------------------------------------------
-  Author:      Pavel Vinogradov
-  Version:     1.0.1
-  Copyright:   This document has been placed in the public domain.
-  ------------ -----------------------------------------------------
+  ```{list-table}
+
+  * - Author:
+    - Pavel Vinogradov
+  * - Version:
+    - 1.0.1
+  * - Copyright:
+    - This document has been placed in the public domain.
+  ```
 
 ::: 
 Contents

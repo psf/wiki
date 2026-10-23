@@ -10,11 +10,10 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 setuptools does many things. Breaking that down into different areas will allow people to contribute to a smaller chunk that they feel familiar with and excited about.
 
-::: {}
-  --------------------------------------------------------------------------------------
-  Note! This is the early stages of this. Feel free to brainstorm or organize at will.
-  --------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - Note! This is the early stages of this. Feel free to brainstorm or organize at will.
+```
 
 ### metadata
 

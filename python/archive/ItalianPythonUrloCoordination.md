@@ -22,13 +22,15 @@ An incomplete list of sources of this newsletter can be found here: [ItalianPyth
 
 Issues already edited using this Wiki:
 
-::: {}
-  --------------------------------------------- -----------------------------------------------------------
-  [PythonUrloWeek30](PythonUrloWeek30)   [PythonUrloWeek33](PythonUrloWeek33)
-  [PythonUrloWeek31](PythonUrloWeek31)   [PythonUrloWeek34](PythonUrloWeek34)
-  [PythonUrloWeek32](PythonUrloWeek32)   [PythonUrloWeek35](./PythonUrloWeek35.html)
-  --------------------------------------------- -----------------------------------------------------------
-:::
+```{list-table}
+
+* - [PythonUrloWeek30](PythonUrloWeek30)
+  - [PythonUrloWeek33](PythonUrloWeek33)
+* - [PythonUrloWeek31](PythonUrloWeek31)
+  - [PythonUrloWeek34](PythonUrloWeek34)
+* - [PythonUrloWeek32](PythonUrloWeek32)
+  - [PythonUrloWeek35](./PythonUrloWeek35.html)
+```
 
 ## Upcoming Issue 
 

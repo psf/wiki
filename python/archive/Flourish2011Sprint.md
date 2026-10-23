@@ -15,13 +15,9 @@ If you are working on test coverage, create one issue per module, e.g., \"Increa
 
 If you are fixing bugs that you find yourself or on [http://bugs.python.org](http://bugs.python.org), try to keep one bug/feature to one tracker issue. If you are working on issue #1234 and you happen to find something else while fixing it, submit your details for #1234 and create a new issue for your secondary find.
 
-  ---------------------------------------------------------------------------------------------------------------------------------
-  Name                             Ticket                                                                   Committed
-  -------------------------------- ------------------------------------------------------------------------ -----------------------
-  JustinLove                       [11751](http://bugs.python.org/issue11751)   (leave blank)
-
-  LynneQu                          [11754](http://bugs.python.org/issue11754)    
-
-  MattDorn                         [11758](http://bugs.python.org/issue11758)    
-  ---------------------------------------------------------------------------------------------------------------------------------
+  | Name | Ticket | Committed |
+  |---|---|---|
+  | JustinLove | [11751](http://bugs.python.org/issue11751) | (leave blank) |
+  | LynneQu | [11754](http://bugs.python.org/issue11754) |  |
+  | MattDorn | [11758](http://bugs.python.org/issue11758) |  |
 :::

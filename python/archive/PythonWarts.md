@@ -28,27 +28,24 @@ In the table below, the following terminology is used:
 
 Note that the [\"What\'s New in Python 3.0\" document](http://archive.is/c2tkF) also contains a list of changes in Python 3000. One can argue that many of the changes are useful fixes that were too mundane for people to write critiques about.
 
-::: {}
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------- ---------------------------------------------------------------------------------------
-  **Shortcoming**                                                                                                                                                                                        **Source**              **Python 3000 Remedy**
-  No do statement                                                                                                                                                                                        Kuchling                *No remedy*
-  Local variables and scoping                                                                                                                                                                            Kuchling, Nowak, Lutz   *No remedy*
-  Calling base class methods                                                                                                                                                                             Kuchling                [New Super](http://www.python.org/dev/peps/pep-3135/)
-  Catching multiple exceptions                                                                                                                                                                           Kuchling, Nowak         [Catching Exceptions in Python 3000](http://www.python.org/dev/peps/pep-3110/)
-  Explicit self in methods                                                                                                                                                                               Kuchling                *Rejected* - this would require name declarations
-  Doubled underscores for private variables                                                                                                                                                              Kuchling                *No remedy*
-  The .join() string method                                                                                                                                                                              Kuchling                *No remedy*
-  print \>\>                                                                                                                                                                                             Kuchling                [Make print a function](http://www.python.org/dev/peps/pep-3105/)
-  Inconsistent indentation                                                                                                                                                                               Nowak                   *Rejected* - indentation is central to Python\'s syntax
-  The += operator                                                                                                                                                                                        Nowak                   *No remedy*
-  Class attributes vs instance attributes                                                                                                                                                                Nowak                   *No remedy*
-  Mutable default arguments                                                                                                                                                                              Nowak, Ferg, Lutz       *No remedy*
-  [Backslashes are escape characters](http://web.archive.org/web/20161025191258/https://pythonconquerstheuniverse.wordpress.com/2008/06/04/gotcha-%E2%80%94-backslashes-are-escape-characters/)   Ferg                    *No remedy*
-  [Print and softspace](http://web.archive.org/web/20080503031358/http://www.ferg.org:80/projects/python_gotchas.html#contents_item_4)                                                            Ferg                    [Make print a function](http://www.python.org/dev/peps/pep-3105/)
-  [Omitting parentheses when invoking a method](http://web.archive.org/web/20081029013232/http://pythonconquerstheuniverse.blogspot.com:80/2008/06/gotcha-forgetting-parentheses.html)            Ferg, Lutz              *Rejected* - taking a reference to a function/method is a feature
-  Imports and reloading                                                                                                                                                                                  Lutz                    *No remedy* - improved reloading has been considered
-  Inconsistent/unpredictable comparisons/ordering                                                                                                                                                        Mertz                   *No remedy*
-  Deficient sequence support for iterators, generators                                                                                                                                                   Mertz                   *No remedy*
-  Attribute access mechanism proliferation                                                                                                                                                               Mertz                   *No remedy* - Mertz suggests standard decorators
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------- ---------------------------------------------------------------------------------------
-:::
+| Shortcoming | Source | Python 3000 Remedy |
+|---|---|---|
+| No do statement | Kuchling | *No remedy* |
+| Local variables and scoping | Kuchling, Nowak, Lutz | *No remedy* |
+| Calling base class methods | Kuchling | [New Super](http://www.python.org/dev/peps/pep-3135/) |
+| Catching multiple exceptions | Kuchling, Nowak | [Catching Exceptions in Python 3000](http://www.python.org/dev/peps/pep-3110/) |
+| Explicit self in methods | Kuchling | *Rejected* - this would require name declarations |
+| Doubled underscores for private variables | Kuchling | *No remedy* |
+| The .join() string method | Kuchling | *No remedy* |
+| print \>\> | Kuchling | [Make print a function](http://www.python.org/dev/peps/pep-3105/) |
+| Inconsistent indentation | Nowak | *Rejected* - indentation is central to Python\'s syntax |
+| The += operator | Nowak | *No remedy* |
+| Class attributes vs instance attributes | Nowak | *No remedy* |
+| Mutable default arguments | Nowak, Ferg, Lutz | *No remedy* |
+| [Backslashes are escape characters](http://web.archive.org/web/20161025191258/https://pythonconquerstheuniverse.wordpress.com/2008/06/04/gotcha-%E2%80%94-backslashes-are-escape-characters/) | Ferg | *No remedy* |
+| [Print and softspace](http://web.archive.org/web/20080503031358/http://www.ferg.org:80/projects/python_gotchas.html#contents_item_4) | Ferg | [Make print a function](http://www.python.org/dev/peps/pep-3105/) |
+| [Omitting parentheses when invoking a method](http://web.archive.org/web/20081029013232/http://pythonconquerstheuniverse.blogspot.com:80/2008/06/gotcha-forgetting-parentheses.html) | Ferg, Lutz | *Rejected* - taking a reference to a function/method is a feature |
+| Imports and reloading | Lutz | *No remedy* - improved reloading has been considered |
+| Inconsistent/unpredictable comparisons/ordering | Mertz | *No remedy* |
+| Deficient sequence support for iterators, generators | Mertz | *No remedy* |
+| Attribute access mechanism proliferation | Mertz | *No remedy* - Mertz suggests standard decorators |

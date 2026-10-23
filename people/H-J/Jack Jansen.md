@@ -8,13 +8,15 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Jack Jansen is the maintainer of [MacPython](../platforms/MacPython), and author of many of the Macintosh specific modules in Python (including [/bgen](./JackJansen(2f)bgen.html), the Apple style header file to Python C Extension helper that automatically generates many of them).
 
-::: {}
-  ---------- --------------------------------------------------------------------------
-  Location   Holland
-  Homepage   [http://homepages.cwi.nl/\~jack/](http://homepages.cwi.nl/~jack/)
-  Employer   [http://www.cwi.nl/](http://www.cwi.nl/)
-  ---------- --------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - Location
+  - Holland
+* - Homepage
+  - [http://homepages.cwi.nl/\~jack/](http://homepages.cwi.nl/~jack/)
+* - Employer
+  - [http://www.cwi.nl/](http://www.cwi.nl/)
+```
 
 Jack has a [test page](../platforms/MacPython/JacksTestPage) as well\...
 

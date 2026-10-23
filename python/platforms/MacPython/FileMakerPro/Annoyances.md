@@ -10,9 +10,6 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 - in some case, specifying the table class as `class_=k.table` doesn\'t work, use `class_='cTBL'` instead:
 
-::: {}
-  ----------------------------------------- ----------------------------------------
-  **Instead of:**                           **do:**
-  `fm.databases[1].count(class_=k.table)`   `fm.databases[1].count(class_='cTBL')`
-  ----------------------------------------- ----------------------------------------
-:::
+| Instead of: | do: |
+|---|---|
+| `fm.databases[1].count(class_=k.table)` | `fm.databases[1].count(class_='cTBL')` |

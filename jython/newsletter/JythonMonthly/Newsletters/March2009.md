@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  ------------------------------ ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***            ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **March 2009 \-- Issue #28**   
-  ------------------------------ ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **March 2009 \-- Issue #28**
+  -
+```
 
 Welcome to the March 2009 edition of the Jython Monthly Newsletter. It is amazing to see what is going on in the Jython world today as opposed to a couple of years ago. The community is live and well, the language is evolving, and the options with Jython are growing. Jython 2.5 beta 3 is now out in public with release candidates soon to follow \*\* hopefully sooner than you think \*\*! Django is alive and running well on Jython 2.5, Pylons is now functional and well\...things are good!
 
@@ -133,14 +134,11 @@ What would you like to see out of Jython the most?
 
 [Click Here to Take Poll](http://www.surveymonkey.com/s.aspx?sm=PQWhsiEwtHFjuGS9bkS8ig_3d_3d)
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  [Planet Jython](http://planet.jython.org/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |
+| [Planet Jython](http://planet.jython.org/) |

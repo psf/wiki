@@ -49,107 +49,175 @@ Gripes: poor audio; flickering projector; rooms too hot; not enough room (not al
 
 Question as posed: \"Assuming you attend next year, would you stay at a hotel with other [PyCon](../PyCon) attendees if we can coordinate a bulk room discount? Y/N\" \"If yes, what is your nightly room budget?\"
 
-::: {}
-  ------------- ------- -----
-  Choice        Votes   \%
-  No            32      33%
-  \$70/night    27      28%
-  \$95/night    18      19%
-  \$125/night   10      10%
-  \$150/night   9       9%
-  ------------- ------- -----
-:::
+```{list-table}
+
+* - Choice
+  - Votes
+  - \%
+* - No
+  - 32
+  - 33%
+* - \$70/night
+  - 27
+  - 28%
+* - \$95/night
+  - 18
+  - 19%
+* - \$125/night
+  - 10
+  - 10%
+* - \$150/night
+  - 9
+  - 9%
+```
 
 ## Requested talks 
 
 ### Wednesday 
 
-::: {}
-  ---- ---------------------------------------------------------------------------
-  22   Web
-  21   Python Implementations/Development ([PyPy](../../../implementations/PyPy), CPython, Jython)
-  14   Optimizations (Psyco, Starkiller)
-  12   Math/Science
-  9    Applications
-  9    Twisted
-  7    Crypto
-  7    Basic tutorials
-  6    [IronPython](../../../implementations/IronPython)
-  6    VoIP
-  5    GUI
-  3    Wrapper generators (SWIG, etc)
-  3    Databases
-  2    OO programming
-  2    Pyrex
-  2    Game programming
-  1    Komodo
-  1    Unicode
-  1    Programming methodology (XP, etc.)
-  1    Python and COM/XPCOM
-  1    Advocacy
-  ---- ---------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - 22
+  - Web
+* - 21
+  - Python Implementations/Development ([PyPy](../../../implementations/PyPy), CPython, Jython)
+* - 14
+  - Optimizations (Psyco, Starkiller)
+* - 12
+  - Math/Science
+* - 9
+  - Applications
+* - 9
+  - Twisted
+* - 7
+  - Crypto
+* - 7
+  - Basic tutorials
+* - 6
+  - [IronPython](../../../implementations/IronPython)
+* - 6
+  - VoIP
+* - 5
+  - GUI
+* - 3
+  - Wrapper generators (SWIG, etc)
+* - 3
+  - Databases
+* - 2
+  - OO programming
+* - 2
+  - Pyrex
+* - 2
+  - Game programming
+* - 1
+  - Komodo
+* - 1
+  - Unicode
+* - 1
+  - Programming methodology (XP, etc.)
+* - 1
+  - Python and COM/XPCOM
+* - 1
+  - Advocacy
+```
 
 ### Thursday 
 
-::: {}
-  ---- ---------------------------------
-  17   Graphics/GUI
-  15   Web
-  15   C Extensions
-  13   Tutorials
-  12   Testing/XP/Software development
-  4    Education
-  4    Databases
-  3    Applications
-  3    Jython/IronPython
-  2    Twisted
-  1    Games
-  1    Python Development
-  ---- ---------------------------------
-:::
+```{list-table}
+
+* - 17
+  - Graphics/GUI
+* - 15
+  - Web
+* - 15
+  - C Extensions
+* - 13
+  - Tutorials
+* - 12
+  - Testing/XP/Software development
+* - 4
+  - Education
+* - 4
+  - Databases
+* - 3
+  - Applications
+* - 3
+  - Jython/IronPython
+* - 2
+  - Twisted
+* - 1
+  - Games
+* - 1
+  - Python Development
+```
 
 ### Friday 
 
-::: {}
-  --- -------------------------------
-  7   Education
-  6   Web
-  4   Distutils
-  3   [MacPython](../../../platforms/MacPython)
-  3   Tutorials
-  3   Applications
-  2   Twisted
-  2   Python internals
-  1   Audio
-  1   Aspect-oriented programming
-  1   GUI
-  --- -------------------------------
-:::
+```{list-table}
+
+* - 7
+  - Education
+* - 6
+  - Web
+* - 4
+  - Distutils
+* - 3
+  - [MacPython](../../../platforms/MacPython)
+* - 3
+  - Tutorials
+* - 3
+  - Applications
+* - 2
+  - Twisted
+* - 2
+  - Python internals
+* - 1
+  - Audio
+* - 1
+  - Aspect-oriented programming
+* - 1
+  - GUI
+```
 
 ### Summary form 
 
-::: {}
-  ---- -------------------------------
-  28   Tutorials
-  26   Web
-  25   GUI/graphics
-  14   Math/science
-  12   Twisted
-  12   Python Development
-  11   C extensions
-  10   Testing/XP
-  10   Stackless/PyPy
-  9    Applications
-  5    Education
-  5    Databases
-  4    Performance
-  4    [MacPython](../../../platforms/MacPython)
-  4    Distutils
-  2    Games
-  1    Chandler
-  ---- -------------------------------
-:::
+```{list-table}
+
+* - 28
+  - Tutorials
+* - 26
+  - Web
+* - 25
+  - GUI/graphics
+* - 14
+  - Math/science
+* - 12
+  - Twisted
+* - 12
+  - Python Development
+* - 11
+  - C extensions
+* - 10
+  - Testing/XP
+* - 10
+  - Stackless/PyPy
+* - 9
+  - Applications
+* - 5
+  - Education
+* - 5
+  - Databases
+* - 4
+  - Performance
+* - 4
+  - [MacPython](../../../platforms/MacPython)
+* - 4
+  - Distutils
+* - 2
+  - Games
+* - 1
+  - Chandler
+```
 
 ------------------------------------------------------------------------
 

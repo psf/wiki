@@ -8,10 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Planning a Python Conference
 
-  --------- --------------------
-  Author:   Andrew M. Kuchling
-  Date:     2008-07-29
-  --------- --------------------
+  ```{list-table}
+
+  * - Author:
+    - Andrew M. Kuchling
+  * - Date:
+    - 2008-07-29
+  ```
 
 ::: 
 Contents

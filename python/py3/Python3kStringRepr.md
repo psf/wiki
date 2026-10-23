@@ -146,13 +146,17 @@ For a console that uses a Unicode-based encoding, for example, en_US.utf8 or de_
 ::: 
 ### References
 
-  ---------------------------- -------------------------------------------------------------------------------
-  [\[1\]](#id1)   Multibyte string on string::string_print (http://bugs.python.org/issue479898)
-  ---------------------------- -------------------------------------------------------------------------------
+  ```{list-table}
 
-  ---------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [\[2\]](#id2)   \[Python-3000\] Displaying strings containing unicode escapes ([http://mail.python.org/pipermail/python-3000/2008-April/013366.html](http://mail.python.org/pipermail/python-3000/2008-April/013366.html))
-  ---------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  * - [\[1\]](#id1)
+    - Multibyte string on string::string_print (http://bugs.python.org/issue479898)
+  ```
+
+  ```{list-table}
+
+  * - [\[2\]](#id2)
+    - \[Python-3000\] Displaying strings containing unicode escapes ([http://mail.python.org/pipermail/python-3000/2008-April/013366.html](http://mail.python.org/pipermail/python-3000/2008-April/013366.html))
+  ```
 :::
 
 ::: 

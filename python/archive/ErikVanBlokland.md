@@ -13,12 +13,13 @@ Erik Van Blokland is a Dutch type designer. Started the [../LettError](./LettErr
 Fame came with the release of Beowolf (co-designed with [JustVanRossum](JustVanRossum)), a font whose ragged edges shift randomly each time you print the font. Another font of his, Kosmik, has a version that flips between three alternates for each character for a more friendly, hand-drawn feel. Most of his fonts are published by [FontFont](http://www.fontfont.com/). He is a key developer on the [../RoboFog](./RoboFog.html) project with [JustVanRossum](JustVanRossum) and [PetrVanBlokland](./PetrVanBlokland.html).\
 \
 
-::: {}
-  ---------- -------------------------------------------------------
-  Location   Netherlands
-  Homepage   [http://letterror.com/](http://letterror.com/)
-  ---------- -------------------------------------------------------
-:::
+```{list-table}
+
+* - Location
+  - Netherlands
+* - Homepage
+  - [http://letterror.com/](http://letterror.com/)
+```
 
 ### More 
 

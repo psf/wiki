@@ -8,9 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## String formatting methods in Python 3000, based on PEP 3101
 
-  --------- ------------------
-  Author:   Andrea Bucciotti
-  --------- ------------------
+  ```{list-table}
+
+  * - Author:
+    - Andrea Bucciotti
+  ```
 
 ::: 
 #### Current formatting methods

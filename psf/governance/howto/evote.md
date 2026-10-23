@@ -8,12 +8,11 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Election Contacts 
 
-::: {}
-  --------------------------------------
-  Ian Cordasco, Election Administrator
-  Mark Mangoba, PSF IT Manager
-  --------------------------------------
-:::
+```{list-table}
+
+* - Ian Cordasco, Election Administrator
+* - Mark Mangoba, PSF IT Manager
+```
 
 ## Adding a New Election Administrator 
 

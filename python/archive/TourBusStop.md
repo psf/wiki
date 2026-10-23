@@ -12,13 +12,10 @@ This is the **PYTHON INFO** bus stop. This wiki is hosted at python.org and is a
 
 The buses\...
 
-::: {}
-  ------------ ------------------------------------------- -------------------------------------------------------------------------------------------------
-  **Bus \#**   **Tour**                                    **Next stop**
-  42           **SOFTWARE-DEVELOPER-TOUR**                 EclipseWiki *Detour: [WIKICENTRAL](http://c2.com/cgi/wiki?TourBusStop) (terminus)*
-  101          **[MoinMoin](MoinMoin) Wiki Tour**   #C++ Wiki *Detour: [PersonalTelco](http://wiki.personaltelco.net/index.cgi/TourBusStop)*
-  ------------ ------------------------------------------- -------------------------------------------------------------------------------------------------
-:::
+| Bus \# | Tour | Next stop |
+|---|---|---|
+| 42 | **SOFTWARE-DEVELOPER-TOUR** | EclipseWiki *Detour: [WIKICENTRAL](http://c2.com/cgi/wiki?TourBusStop) (terminus)* |
+| 101 | **[MoinMoin](MoinMoin) Wiki Tour** | #C++ Wiki *Detour: [PersonalTelco](http://wiki.personaltelco.net/index.cgi/TourBusStop)* |
 
 \... anytime you\'re ready to leave.
 

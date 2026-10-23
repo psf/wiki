@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  ------------------------------ ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***            ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **March 2008 \-- Issue #16**   
-  ------------------------------ ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **March 2008 \-- Issue #16**
+  -
+```
 
 March has been a great month for the Jython programming language! There has been a lot of activity on the blog-lines and much anticipation for the future of the language due to the recent hirings of Python programmer Ted Leung and Jython\'s own Frank Wierzbicki. We all wish them the best and hope that the language will flourish with this renewed awareness and Sun\'s devotion. This is a good day for Jython and Python programmers indeed!
 
@@ -61,14 +62,11 @@ IBM [WebSphere](../../../user-guide/WebSphere) Application Server V6.1 Scripting
 
 Find out more about this training: [http://www.integrotraining.com/CourseProfile.aspx?CourseCode=WA661](http://www.integrotraining.com/CourseProfile.aspx?CourseCode=WA661)
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  [Planet Jython](http://planet.jython.org/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |
+| [Planet Jython](http://planet.jython.org/) |

@@ -14,113 +14,167 @@ The dates are given in terms of time before the conference. Larger conferences n
 
 ## 1. Timeline 
 
-::: {}
-  --------------- --------------------------------------------------------------------
-  -18-24 months   Select conference city and venue
-  -18-24 months   Select dates. Important: Check they don\'t conflict with holidays.
-  -12-18 months   Book venue
-  -12-18 months   Finances: estimate costs and draw up a draft budget
-  -12-6 months    Finances: contact potential sponsors
-  XXX             Decide upon keynote speaker(s)
-  XXX             Call for proposals
-  XXX             E-mail speakers for invited talks
-  XXX             Review proposals
-  -6 months       Finances: Set registration price
-  XXX             Send proposal acceptances
-  XXX             Create schedule
-  XXX             Call for financial aid applications
-  XXX             Set up registration process and open early-bird registration
-  XXX             Post call for volunteers
-  XXX             Review/accept/reject financial aid applications
-  XXX             Arrange for wireless networking
-  XXX             Plan refreshments
-  XXX             End early-bird registration
-  --------------- --------------------------------------------------------------------
-:::
+```{list-table}
+
+* - -18-24 months
+  - Select conference city and venue
+* - -18-24 months
+  - Select dates. Important: Check they don\'t conflict with holidays.
+* - -12-18 months
+  - Book venue
+* - -12-18 months
+  - Finances: estimate costs and draw up a draft budget
+* - -12-6 months
+  - Finances: contact potential sponsors
+* - XXX
+  - Decide upon keynote speaker(s)
+* - XXX
+  - Call for proposals
+* - XXX
+  - E-mail speakers for invited talks
+* - XXX
+  - Review proposals
+* - -6 months
+  - Finances: Set registration price
+* - XXX
+  - Send proposal acceptances
+* - XXX
+  - Create schedule
+* - XXX
+  - Call for financial aid applications
+* - XXX
+  - Set up registration process and open early-bird registration
+* - XXX
+  - Post call for volunteers
+* - XXX
+  - Review/accept/reject financial aid applications
+* - XXX
+  - Arrange for wireless networking
+* - XXX
+  - Plan refreshments
+* - XXX
+  - End early-bird registration
+```
 
 #### 1.0.1. Refereed papers 
 
-::: {}
-  ----------- ---------------------------------------------
-  -9 months   Select program committee
-  XXX         Set up conference management software
-  -9 months   Post call for papers
-  -2 months   Paper submission deadline
-  XXX         Deadline for paper accept/decline decisions
-  XXX         Write page giving presentation advice
-  XXX         Notify paper authors of acceptance
-  XXX         Determine conference schedule
-  XXX         Arrange iCal/RSS publication of schedule
-  XXX         Pick session chairs
-  ----------- ---------------------------------------------
-:::
+```{list-table}
+
+* - -9 months
+  - Select program committee
+* - XXX
+  - Set up conference management software
+* - -9 months
+  - Post call for papers
+* - -2 months
+  - Paper submission deadline
+* - XXX
+  - Deadline for paper accept/decline decisions
+* - XXX
+  - Write page giving presentation advice
+* - XXX
+  - Notify paper authors of acceptance
+* - XXX
+  - Determine conference schedule
+* - XXX
+  - Arrange iCal/RSS publication of schedule
+* - XXX
+  - Pick session chairs
+```
 
 #### 1.0.2. BoFs 
 
-::: {}
-  ----------- --------------------------------------------------
-  -2 months   Issue call for [BoFs](./BoFs.html)
-  -2 weeks    Pick BoF topics
-  ----------- --------------------------------------------------
-:::
+```{list-table}
+
+* - -2 months
+  - Issue call for [BoFs](./BoFs.html)
+* - -2 weeks
+  - Pick BoF topics
+```
 
 #### 1.0.3. Swag 
 
-::: {}
-  ----------------------------- ----------------------------------------------------------------------------------------
-  XXX                           Determine other giveaways (sponsors may help?)
-  -90 days                      Selecting the swag vendor
-  -80 days                      Creating tshirt order based on size proportions of attendees prior year
-  -80 days                      Calling for volunteer to accept delivery of tshirts and totes in advance of conference
-  -55 days                      Bug graphic designer about images
-  -50 days                      Get T-shirt images from graphic designer
-  Close of early registration   Chair commits to attendance figure.
-  -45 days                      Get quote from swag vendor (T-shirts, tote bag)
-  -45 days                      Get chair\'s approval for T-shirt, tote budget
-  -45 days                      Have non-attending volunteers sign up on wiki to get shirts
-  -45 days                      Get tote bag images from graphic designer
-  -44 days                      Ordering tshirts, totes from swag vendor
-  -44 days                      Emailing attendee tshirt images to vendor
-  -44 days                      Emailing staff tshirt images to vendor
-  -44 days                      Emailing tote images to vendor
-  -44 days                      Submit reimbursement request to PSF treasurer
-  -37 days                      Proofread T-shirts, totes at vendor
-  -30 days                      Vendor ships to local volunteer
-  -30 days                      Optionally make a second order if registration numbers suggest it.
-  -1 day                        Stuff the bags
-  -1 day                        Fold T-shirts
-  -1 day                        Hand out some staff T-shirts
-  ----------------------------- ----------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - XXX
+  - Determine other giveaways (sponsors may help?)
+* - -90 days
+  - Selecting the swag vendor
+* - -80 days
+  - Creating tshirt order based on size proportions of attendees prior year
+* - -80 days
+  - Calling for volunteer to accept delivery of tshirts and totes in advance of conference
+* - -55 days
+  - Bug graphic designer about images
+* - -50 days
+  - Get T-shirt images from graphic designer
+* - Close of early registration
+  - Chair commits to attendance figure.
+* - -45 days
+  - Get quote from swag vendor (T-shirts, tote bag)
+* - -45 days
+  - Get chair\'s approval for T-shirt, tote budget
+* - -45 days
+  - Have non-attending volunteers sign up on wiki to get shirts
+* - -45 days
+  - Get tote bag images from graphic designer
+* - -44 days
+  - Ordering tshirts, totes from swag vendor
+* - -44 days
+  - Emailing attendee tshirt images to vendor
+* - -44 days
+  - Emailing staff tshirt images to vendor
+* - -44 days
+  - Emailing tote images to vendor
+* - -44 days
+  - Submit reimbursement request to PSF treasurer
+* - -37 days
+  - Proofread T-shirts, totes at vendor
+* - -30 days
+  - Vendor ships to local volunteer
+* - -30 days
+  - Optionally make a second order if registration numbers suggest it.
+* - -1 day
+  - Stuff the bags
+* - -1 day
+  - Fold T-shirts
+* - -1 day
+  - Hand out some staff T-shirts
+```
 
 #### 1.0.4. Demos 
 
-::: {}
-  ----- -----------------------------------
-  XXX   Post call for demos for demo room
-  ----- -----------------------------------
-:::
+```{list-table}
+
+* - XXX
+  - Post call for demos for demo room
+```
 
 ### 1.1. PSF Meeting 
 
-::: {}
-  ----------- -----------------------------------------
-  -3 months   Request nominees for new PSF members
-  -3 months   Request nominees for board of directors
-  -2 months   Send out agendas and proxy forms
-  ----------- -----------------------------------------
-:::
+```{list-table}
+
+* - -3 months
+  - Request nominees for new PSF members
+* - -3 months
+  - Request nominees for board of directors
+* - -2 months
+  - Send out agendas and proxy forms
+```
 
 ### 1.2. Next year\'s con 
 
-::: {}
-  ----------- -------------------------------------------------------------------------------------------------------------------------
-  -4 months   Write requirements for con sites (like [http://www.yapc.org/venue-reqs.txt](http://www.yapc.org/venue-reqs.txt))
-  -4 months   Post call for site proposals
-  -1 month    Check over site proposals
-  At con      Run a panel / voting session to choose a proposal
-  ----------- -------------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - -4 months
+  - Write requirements for con sites (like [http://www.yapc.org/venue-reqs.txt](http://www.yapc.org/venue-reqs.txt))
+* - -4 months
+  - Post call for site proposals
+* - -1 month
+  - Check over site proposals
+* - At con
+  - Run a panel / voting session to choose a proposal
+```
 
 ### 1.3. Days before conference 
 

@@ -58,18 +58,15 @@ Once the buildbot is running, don\'t forget to monitor the [build results](http:
 
 In order for the buildbot to operate properly, it needs access to various TCP ports on the internet. Below is a list of known ports and hosts; this list is not exhaustive and may evolve as new tests get written.
 
-::: {}
-  ---------- ------------------------------- -------------------------------------
-  **Port**   **Host**                        **Description**
-  20, 21     ftp.kernel.org, ftp.mirror.nl   test_urllib2net
-  53         your DNS server                 test_socket (and others implicitly)
-  80         python.org                      (several tests)
-  119        news.gmane.org                  test_nntplib
-  443        (various)                       test_ssl
-  465        smtp.gmail.com                  test_smtpnet
-  9020       python.org                      Buildbot connection
-  ---------- ------------------------------- -------------------------------------
-:::
+| Port | Host | Description |
+|---|---|---|
+| 20, 21 | ftp.kernel.org, ftp.mirror.nl | test_urllib2net |
+| 53 | your DNS server | test_socket (and others implicitly) |
+| 80 | python.org | (several tests) |
+| 119 | news.gmane.org | test_nntplib |
+| 443 | (various) | test_ssl |
+| 465 | smtp.gmail.com | test_smtpnet |
+| 9020 | python.org | Buildbot connection |
 
 Many tests will also create local TCP sockets and connect to them (usually through \"localhost\" or \"127.0.0.1\"), so make sure this capability hasn\'t been disabled.
 

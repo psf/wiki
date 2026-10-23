@@ -48,15 +48,17 @@ You will need:
 
 3.  The [action items wiki page](http://wiki.python.org/psf/Action_Items) **as of this month\'s meeting** [\[1\]](#wiki-history).
 
-+-------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \[1\] | *([1](#id1), [2](#id2))*                                                                                                    |
-|       |                                                                                                                                                       |
-|       | The wiki page may have changed since the meeting. You should use the version of the wiki page *as it was\** as of the beginning of the Board meeting. |
-|       |                                                                                                                                                       |
-|       | 1.  Use the \"Info\" link near the top of the page to see the revision history of the wiki page.                                                      |
-|       | 2.  In the \"Date\" column, find the date closest to (but before) the beginning of the Board meeting.                                                 |
-|       | 3.  In that row, click the \"View\" link in the \"Action\" (last) column.                                                                             |
-+-------+-------------------------------------------------------------------------------------------------------------------------------------------------------+
+```{list-table}
+
+* - \[1\]
+  - *([1](#id1), [2](#id2))*
+
+    The wiki page may have changed since the meeting. You should use the version of the wiki page *as it was\** as of the beginning of the Board meeting.
+
+    1.  Use the \"Info\" link near the top of the page to see the revision history of the wiki page.
+    2.  In the \"Date\" column, find the date closest to (but before) the beginning of the Board meeting.
+    3.  In that row, click the \"View\" link in the \"Action\" (last) column.
+```
 :::
 
 ::: 

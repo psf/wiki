@@ -27,26 +27,20 @@ or to run from the class directories:
 
 And here\'s what the options mean:
 
-::: {}
-  ----------------------------------- ------------------------------------------------------------------------------
-  **Command Line Option**             **Meaning**
-  `-Xnoagent`{.backtick}              Disables the old sun.tools.debug agent
-  `-Djava.compiler=NONE`{.backtick}   Turn off JIT compilation (required in order to use the \"classic\" debugger)
-  `-XDebug`{.backtick}                Enable debugging
-  `-Xrunjdwp:<options>`{.backtick}    Enable the Java Debug Wire Protocol
-  ----------------------------------- ------------------------------------------------------------------------------
-:::
+| Command Line Option | Meaning |
+|---|---|
+| `-Xnoagent` | Disables the old sun.tools.debug agent |
+| `-Djava.compiler=NONE` | Turn off JIT compilation (required in order to use the \"classic\" debugger) |
+| `-XDebug` | Enable debugging |
+| `-Xrunjdwp:<options>` | Enable the Java Debug Wire Protocol |
 
 And here\'s the `<options>`{.backtick}:
 
-::: {}
-  ---------------------------------- ------------------------------------------------------------
-  **JDWP Option**                    **Meaning**
-  `server=y`{.backtick}              Tell the app to listen for debugging connections
-  `transport=dt_socket`{.backtick}   We\'re going to use a socket (see below for other options)
-  `address=8000`{.backtick}          The socket to listen on
-  ---------------------------------- ------------------------------------------------------------
-:::
+| JDWP Option | Meaning |
+|---|---|
+| `server=y` | Tell the app to listen for debugging connections |
+| `transport=dt_socket` | We\'re going to use a socket (see below for other options) |
+| `address=8000` | The socket to listen on |
 
 Note: Once you hit enter, the app may not respond like it normally does. For the jython interpreter, it seems to \"hang\". But once you attach your debugger to it (below), it will respond with the familiar propmt\--kind of like \"lazy initialization\".
 

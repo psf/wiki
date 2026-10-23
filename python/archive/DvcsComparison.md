@@ -82,14 +82,29 @@ While there are more possible steps, the workflow is much more independent of th
 
 ## Contenders 
 
-::: {}
-  ------------------------------------------------------- ------------ --------- ----------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
-  Name                                                    Short Name   Version   2.x Trunk Mirror                                                                    3.x Trunk Mirror
-  [Bazaar](http:/bazaar-vcs.org/)                  bzr          1.12      [http://code.python.org/python/trunk](http://code.python.org/python/trunk)   [http://code.python.org/python/3.0](http://code.python.org/python/3.0)
-  [Mercurial](http://www.selenic.com/mercurial/)   hg           1.2.0     [http://code.python.org/hg/trunk/](http://code.python.org/hg/trunk/)         [http://code.python.org/hg/branches/py3k/](http://code.python.org/hg/branches/py3k/)
-  [git](http://www.git-scm.com/)                   N/A          1.6.1     git://code.python.org/python/trunk                                                  git://code.python.org/python/branches/py3k
-  ------------------------------------------------------- ------------ --------- ----------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - Name
+  - Short Name
+  - Version
+  - 2.x Trunk Mirror
+  - 3.x Trunk Mirror
+* - [Bazaar](http:/bazaar-vcs.org/)
+  - bzr
+  - 1.12
+  - [http://code.python.org/python/trunk](http://code.python.org/python/trunk)
+  - [http://code.python.org/python/3.0](http://code.python.org/python/3.0)
+* - [Mercurial](http://www.selenic.com/mercurial/)
+  - hg
+  - 1.2.0
+  - [http://code.python.org/hg/trunk/](http://code.python.org/hg/trunk/)
+  - [http://code.python.org/hg/branches/py3k/](http://code.python.org/hg/branches/py3k/)
+* - [git](http://www.git-scm.com/)
+  - N/A
+  - 1.6.1
+  - git://code.python.org/python/trunk
+  - git://code.python.org/python/branches/py3k
+```
 
 This PEP does not consider darcs, arch, or monotone. The main problem with these DVCSs is that they are simply not popular enough to bother supporting when they do not provide some very compelling features that the other DVCSs provide. Arch and darcs also have significant performance problems which seem unlikely to be addressed in the near future.
 
@@ -692,14 +707,25 @@ It will change, but not substantially so. When doing the maintenance branch, we\
 
 ### Operating Systems 
 
-::: {}
-  ------ ----------------------------------------- -------------------------------------------------------------------------------- -------------------------------
-  DVCS   Windows                                   OS X                                                                             UNIX
-  bzr    yes (installer) w/ tortoise               yes (installer, fink or [MacPorts](./MacPorts.html))               yes (various package formats)
-  hg     yes (third-party installer) w/ tortoise   yes (third-party installer, fink or [MacPorts](./MacPorts.html))   yes (various package formats)
-  git    yes (third-party installer)               yes (third-party installer, fink or [MacPorts](./MacPorts.html))   yes (.deb or .rpm)
-  ------ ----------------------------------------- -------------------------------------------------------------------------------- -------------------------------
-:::
+```{list-table}
+
+* - DVCS
+  - Windows
+  - OS X
+  - UNIX
+* - bzr
+  - yes (installer) w/ tortoise
+  - yes (installer, fink or [MacPorts](./MacPorts.html))
+  - yes (various package formats)
+* - hg
+  - yes (third-party installer) w/ tortoise
+  - yes (third-party installer, fink or [MacPorts](./MacPorts.html))
+  - yes (various package formats)
+* - git
+  - yes (third-party installer)
+  - yes (third-party installer, fink or [MacPorts](./MacPorts.html))
+  - yes (.deb or .rpm)
+```
 
 As the above table shows, all three DVCSs are available on all three major OS platforms. But what it also shows is that Bazaar is the only DVCS that directly supports Windows with a binary installer while Mercurial and git require you to rely on a third-party for binaries. Both bzr and hg have a tortoise version while git does not.
 
@@ -745,27 +771,33 @@ All three also [appear to be supported by Buildbot](http://buildbot.net/repos/re
 
 ## Usage On Top Of Subversion 
 
-::: {}
-  ------ --------------------------------------------------------------------------------------------------------
-  DVCS   svn support
-  bzr    [bzr-svn](http://bazaar-vcs.org/BzrForeignBranches/Subversion) (third-party)
-  hg     [multiple third-parties](http://www.selenic.com/mercurial/wiki/index.cgi/WorkingWithSubversion)
-  git    [git-svn](http://www.kernel.org/pub/software/scm/git/docs/git-svn.html)
-  ------ --------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - DVCS
+  - svn support
+* - bzr
+  - [bzr-svn](http://bazaar-vcs.org/BzrForeignBranches/Subversion) (third-party)
+* - hg
+  - [multiple third-parties](http://www.selenic.com/mercurial/wiki/index.cgi/WorkingWithSubversion)
+* - git
+  - [git-svn](http://www.kernel.org/pub/software/scm/git/docs/git-svn.html)
+```
 
 All three DVCSs have svn support, although git is the only one to come with that support out-of-the-box.
 
 ## Server Support 
 
-::: {}
-  ------ ------------------------------------------------------------------------------------
-  DVCS   Web interface
-  bzr    [loggerhead](https://launchpad.net/loggerhead)
-  hg     [hgweb](http://www.selenic.com/mercurial/wiki/index.cgi/HgWebDirStepByStep)
-  git    [gitweb](http://git.or.cz/gitwiki/Gitweb)
-  ------ ------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - DVCS
+  - Web interface
+* - bzr
+  - [loggerhead](https://launchpad.net/loggerhead)
+* - hg
+  - [hgweb](http://www.selenic.com/mercurial/wiki/index.cgi/HgWebDirStepByStep)
+* - git
+  - [gitweb](http://git.or.cz/gitwiki/Gitweb)
+```
 
 All three DVCSs support various hooks on the client and server side for e.g. pre/post-commit verifications.
 
@@ -799,15 +831,29 @@ The amount of time and effort it takes to get a checkout of Python\'s repository
 
 I measured the checking out of the 2.x trunk as if I was a non-core developer. Timings were done using the time command in zsh and space was calculated with du -c -h.
 
-::: {}
-  ------ --------------- ----------- -------
-  DVCS   San Francisco   Vancouver   Space
-  svn    1:04            2:59        139 M
-  bzr    10:45           16:04       276 M
-  hg     2:30            5:24        171 M
-  git    2:54            5:28        134 M
-  ------ --------------- ----------- -------
-:::
+```{list-table}
+
+* - DVCS
+  - San Francisco
+  - Vancouver
+  - Space
+* - svn
+  - 1:04
+  - 2:59
+  - 139 M
+* - bzr
+  - 10:45
+  - 16:04
+  - 276 M
+* - hg
+  - 2:30
+  - 5:24
+  - 171 M
+* - git
+  - 2:54
+  - 5:28
+  - 134 M
+```
 
 When comparing these numbers to svn, it is important to realize that it is not a 1:1 comparison. Svn does not pull down the entire revision history like all of the DVCSs do. That means svn can perform an initial checkout much faster than the DVCS purely based on the fact that it has less information to download for the network.
 
@@ -835,14 +881,21 @@ For hg, I never found the information I wanted on my own. It turns out I wanted 
 
 To see how long it takes to update an outdated repository I timed both updating a repository 700 commits behind and 50 commits behind (three weeks stale and 1 week stale, respectively).
 
-::: {}
-  ------ ------------- ------------
-  DVCS   700 commits   50 commits
-  bzr    39 s          7 s
-  hg     17 s          3 s
-  git    N/A           4 s
-  ------ ------------- ------------
-:::
+```{list-table}
+
+* - DVCS
+  - 700 commits
+  - 50 commits
+* - bzr
+  - 39 s
+  - 7 s
+* - hg
+  - 17 s
+  - 3 s
+* - git
+  - N/A
+  - 4 s
+```
 
 Note:
 

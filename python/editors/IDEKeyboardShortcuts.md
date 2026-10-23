@@ -12,16 +12,13 @@ Editors have a long standing problem with keyboard shortcuts - everyone invents 
 
 [http://stackoverflow.com/questions/6278807/why-every-ide-has-different-keyboard-shortcuts-for-debugging](http://stackoverflow.com/questions/6278807/why-every-ide-has-different-keyboard-shortcuts-for-debugging)
 
-::: {}
-  ------------- ------------- --
-                **Eclipse**   
-  Step Into     F5            
-  Step Over     F6            
-  Step Return   F7            
-  Resume        F8            
-  Terminate     Ctrl-F2       
-  ------------- ------------- --
-:::
+|  | Eclipse |  |
+|---|---|---|
+| Step Into | F5 |  |
+| Step Over | F6 |  |
+| Step Return | F7 |  |
+| Resume | F8 |  |
+| Terminate | Ctrl-F2 |  |
 
 ------------------------------------------------------------------------
 

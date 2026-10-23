@@ -34,19 +34,16 @@ There are two different approaches:
 
 Approach 2 offers the best integration options. Jython is primarily an implementation of Python so implementing the data structures as they are in Python takes priority over the Java implementations. In addition, the keyword and index arguments for method calls are already done. The implementation of the interfaces will need only delegate to the appropriate PyObject instance\'s method for the same functionality.
 
-::: {}
-  ------------------ ------------- -------------------
-  **Jython Class**   **Extends**   **Implements**
-  PySequence         PyObject      List (Collection)
-  PyArray            PySequence    
-  PyList             PySequence    
-  PyString           PySequence    
-  PyTuple            PySequence    
-  PyXRange           PySequence    
-  PySet              PyObject      Set
-  PyDictionary       PyObject      Map
-  ------------------ ------------- -------------------
-:::
+| Jython Class | Extends | Implements |
+|---|---|---|
+| PySequence | PyObject | List (Collection) |
+| PyArray | PySequence |  |
+| PyList | PySequence |  |
+| PyString | PySequence |  |
+| PyTuple | PySequence |  |
+| PyXRange | PySequence |  |
+| PySet | PyObject | Set |
+| PyDictionary | PyObject | Map |
 
 ### Discussion 
 
@@ -106,19 +103,16 @@ This is in response to \<waiting for post to show up on sourceforge\>. It is a w
 
 I\'ve been thinking on how to accomplish the \"Approach 2\" design, which is basically a delegation model, in the sense that the subject classes will continue to subclass PyObject. PySequence does not have an \"element data\" field\--which leaves the concrete classes to handle that. Here are some observations on the current 2.1 design:
 
-::: {}
-  ------------------ ------------- --------------------------------------------------- ---------------------------------------------------------------------------------------
-  **Jython Class**   **Extends**   **current element data field**                      **Notes**
-  PySequence         PyObject      N/A                                                 
-  PyArray            PySequence    `Object data;`{.backtick}                           `data`{.backtick} is set to primitive array or array of arbitrary class
-  PyList             PySequence    `protected PyObject[] list;`{.backtick}             
-  PyString           PySequence    `private String string;`{.backtick}                 jython depends heavily on interning of String
-  PyTuple            PySequence    \*`public PyObject[] list;`{.backtick}              `list`{.backtick} field is referenced directly by 8 classes in 14 methods
-  PyXRange           PySequence    N/A                                                 int attributes start, stop, step, (useless without `PySequence.__iter__()`{.backtick}
-  PySet              PyObject      `protected Hash`{.backtick}`Set _set;`{.backtick}   based on [BrianZimmer](../people/BrianZimmer)\'s [SetsModule](../modules/SetsModule)
-  PyDictionary       PyObject      `protected Hashtable table;`{.backtick}             
-  ------------------ ------------- --------------------------------------------------- ---------------------------------------------------------------------------------------
-:::
+| Jython Class | Extends | current element data field | Notes |
+|---|---|---|---|
+| PySequence | PyObject | N/A |  |
+| PyArray | PySequence | `Object data;` | `data` is set to primitive array or array of arbitrary class |
+| PyList | PySequence | `protected PyObject[] list;` |  |
+| PyString | PySequence | `private String string;` | jython depends heavily on interning of String |
+| PyTuple | PySequence | \*`public PyObject[] list;` | `list` field is referenced directly by 8 classes in 14 methods |
+| PyXRange | PySequence | N/A | int attributes start, stop, step, (useless without `PySequence.__iter__()` |
+| PySet | PyObject | `protected Hash``Set _set;` | based on [BrianZimmer](../people/BrianZimmer)\'s [SetsModule](../modules/SetsModule) |
+| PyDictionary | PyObject | `protected Hashtable table;` |  |
 
 My current thinking is that we should add a new branch to PySequence\--let\'s call it PySequenceList. PySequence would remain as is, and PySequenceList would subclass PySequence and implement the java.util.List interface. PyString and PyXRange would subclass PySequence and PyArray, PyList, PyTuple would subclass PySequenceList. This seems appropriate because, although PyXRange and PyString technically fall under the description of `List`{.backtick}, the practicality of them as a `List`{.backtick} is nil. Am I missing something obvious here? Would anyone ever use PyXRange in java? And PyString is auto-converted to a `java.lang.String`{.backtick}.
 
@@ -172,13 +166,10 @@ Other general improvements:
 
     In the case of PyImmutableSet, it\'s part of the Python module, so it must be implemented. The relationship for mutable and immutable collections in Jython:
 
-    ::: {}
-      ------------- ----------------
-      **Mutable**   **Immutable**
-      PyList        PyTuple
-      PySet         PyImmutableSet
-      PyDict        none
-      ------------- ----------------
-    :::
+    | Mutable | Immutable |
+    |---|---|
+    | PyList | PyTuple |
+    | PySet | PyImmutableSet |
+    | PyDict | none |
 
     Synchronization should follow the same approach.

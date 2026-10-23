@@ -16,60 +16,155 @@ If you have any questions about this rather ad hoc process, email [chris.mcavoy@
 
 [PyCon](../conferences/pycon/PyCon) 2008 Talks Schedule Worksheet \-- FRIDAY March 14th
 
-::: {}
-  -------------------- ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------
-  Place                Ballroom I                                                                                                        Ballroom II                                                                                      Ballroom III                                                                                       Ballroom IV
-  Chair                Chair 1                                                                                                           Chair 2                                                                                          Chair 3 Richard Jones [richard@python.org](mailto:richard@python.org)                     Chair 4 Johnny Stovall oouc [AdSymbol](./AdSymbol.html) yahoo
-  11:00:00 AM \"30+5   \"066 B Using Python To Teach Object-Oriented Programming in CS1 (Dr. Michael H Goldwasser, Dr. David Letscher)   \"014 I Developing With repoze.zope2 (Mr. Chris P [McDonough](./McDonough.html))   \"100 I Buffer interface in Py3K (Travis E Oliphant)                                               \"070 I Database development with Jython, SQLAlchemy, and Hibernate (Mr. Frank J Wierzbicki)\"
-  11:35:00 AM \"30+5   \"131 B MPI Cluster Programming with Python and Amazon EC2 (Peter Skomoroch)                                      \"053 I Your Pythonic Math Class of the Future (Kirby T Urner)                                   \"002 I How Import Does Its Thing (Mr. Brett Cannon)                                               \"128 A A New Compiler for Jython (Jim Baker, Mr. Tobias Ivarsson)\"
-  12:10:00 PM \"30+0   \"098 B Running a Successful Usergroup (Jeff Rush)                                                                \"087 I Stackless Python 101 (Mr. Christian Tismer)                                              \"079 I Python references and practical solutions to reference-related problems (Dr. Tim Couper)   \"043 A Applying expert system technology to code reuse with Pyke (Bruce Frederiksen)\"
-  -------------------- ----------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - Place
+  - Ballroom I
+  - Ballroom II
+  - Ballroom III
+  - Ballroom IV
+* - Chair
+  - Chair 1
+  - Chair 2
+  - Chair 3 Richard Jones [richard@python.org](mailto:richard@python.org)
+  - Chair 4 Johnny Stovall oouc [AdSymbol](./AdSymbol.html) yahoo
+* - 11:00:00 AM \"30+5
+  - \"066 B Using Python To Teach Object-Oriented Programming in CS1 (Dr. Michael H Goldwasser, Dr. David Letscher)
+  - \"014 I Developing With repoze.zope2 (Mr. Chris P [McDonough](./McDonough.html))
+  - \"100 I Buffer interface in Py3K (Travis E Oliphant)
+  - \"070 I Database development with Jython, SQLAlchemy, and Hibernate (Mr. Frank J Wierzbicki)\"
+* - 11:35:00 AM \"30+5
+  - \"131 B MPI Cluster Programming with Python and Amazon EC2 (Peter Skomoroch)
+  - \"053 I Your Pythonic Math Class of the Future (Kirby T Urner)
+  - \"002 I How Import Does Its Thing (Mr. Brett Cannon)
+  - \"128 A A New Compiler for Jython (Jim Baker, Mr. Tobias Ivarsson)\"
+* - 12:10:00 PM \"30+0
+  - \"098 B Running a Successful Usergroup (Jeff Rush)
+  - \"087 I Stackless Python 101 (Mr. Christian Tismer)
+  - \"079 I Python references and practical solutions to reference-related problems (Dr. Tim Couper)
+  - \"043 A Applying expert system technology to code reuse with Pyke (Bruce Frederiksen)\"
+```
 
 12:40:00 PM 90 \"Lunch\"
 
-::: {}
-  -------------------- --------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------
-  \"Chair              \"Chair 1                                                                                                             \"Chair 2                                                                                       \"Chair 3                                                                                                \"Chair 4
-  02:10:00 PM \"30+5   \"061 B Dogtail :: â€œTaking your applications for a walkâ€? (Mr. Ramakrishna Reddy Yekulla)                          \"036 I Case Study: Embedding Python into Counter-Strike: Source (Mr. Mattie Casper)            \"030 A [PyTriton](./PyTriton.html): building a petabyte storage system (Jonathan Ellis)   \"004 I Using Optparse, Subprocess, and Doctest To Make Agile Unix Utilities (Noah Gift)\"
-  02:45:00 PM \"30+5   \"103 B Using .NET Libraries in CPython (Mr. Feihong Hsu)                                                             \"094 I Python - all a scientist needs. (Dr. Julius B. Lucks)                                   \"025 I Rich UI Webapps with [TurboGears](../web/TurboGears) 2 and Dojo (Mr. Kevin Dangoor)              \"028 I Python in System Administration: How, When, and Why one [SysAdmin](./SysAdmin.html) uses Python (Mr. Sean Reifschneider)\"
-  03:20:00 PM \"30+5   \"051 B Jython on the Joint Strike Fighter (Mr. George F Rice)                                                        \"052 I Use Google Spreadsheets API to create a database in the cloud (Mr. Jeffrey W Scudder)   \"068 I The State of Django (Adrian Holovaty)                                                            \"075 I Tahoe: A Robust Distributed Secure Filesystem (Brian Warner)\"
-  03:55:00 PM \"30+0   \"095 B Like Switching on the Light: Managing an Elastic Compute Cluster with Python (George Belotsky, Heath Johns)   \"139 I High performance Network IO with Python + Libevent (Michael M Carter)                   \"064 A Django: Under the Hood (Marty Alchin)                                                            \"076 I The REST is Easy (Paul Winkler)\"
-  -------------------- --------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - \"Chair
+  - \"Chair 1
+  - \"Chair 2
+  - \"Chair 3
+  - \"Chair 4
+* - 02:10:00 PM \"30+5
+  - \"061 B Dogtail :: â€œTaking your applications for a walkâ€? (Mr. Ramakrishna Reddy Yekulla)
+  - \"036 I Case Study: Embedding Python into Counter-Strike: Source (Mr. Mattie Casper)
+  - \"030 A [PyTriton](./PyTriton.html): building a petabyte storage system (Jonathan Ellis)
+  - \"004 I Using Optparse, Subprocess, and Doctest To Make Agile Unix Utilities (Noah Gift)\"
+* - 02:45:00 PM \"30+5
+  - \"103 B Using .NET Libraries in CPython (Mr. Feihong Hsu)
+  - \"094 I Python - all a scientist needs. (Dr. Julius B. Lucks)
+  - \"025 I Rich UI Webapps with [TurboGears](../web/TurboGears) 2 and Dojo (Mr. Kevin Dangoor)
+  - \"028 I Python in System Administration: How, When, and Why one [SysAdmin](./SysAdmin.html) uses Python (Mr. Sean Reifschneider)\"
+* - 03:20:00 PM \"30+5
+  - \"051 B Jython on the Joint Strike Fighter (Mr. George F Rice)
+  - \"052 I Use Google Spreadsheets API to create a database in the cloud (Mr. Jeffrey W Scudder)
+  - \"068 I The State of Django (Adrian Holovaty)
+  - \"075 I Tahoe: A Robust Distributed Secure Filesystem (Brian Warner)\"
+* - 03:55:00 PM \"30+0
+  - \"095 B Like Switching on the Light: Managing an Elastic Compute Cluster with Python (George Belotsky, Heath Johns)
+  - \"139 I High performance Network IO with Python + Libevent (Michael M Carter)
+  - \"064 A Django: Under the Hood (Marty Alchin)
+  - \"076 I The REST is Easy (Paul Winkler)\"
+```
 
 \"[PyCon](../conferences/pycon/PyCon) 2008 Talks Schedule Worksheet \-- SATURDAY March 15th\"
 
-::: {}
-  -------------------- --------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------
-  \"Place              \"Ballroom II                                                                                                                                       \"Ballroom III                                                                                                                               \"Ballroom IV                                                          \"Ballroom V
-  \"Chair              \"Chair 1 Richard Jones [richard@python.org](mailto:richard@python.org)\"                                                                  \"Chair 2                                                                                                                                    \"Chair 3                                                              \"Chair 4
-  11:00:00 AM 30+5\"   009 B Using [PyGame](../multimedia/PyGame) and [PySight](./PySight.html) to Create an Interactive Halloween Activity (Mr. John Harrison)\"   032 I Decorated State Machines (Mr. Rodney Drenth)\"                                                                                         033 I SQLAlchemy 0.4 and Beyond (Mike Bayer)\"                         041 A Supervisor as a Platform (Mr. Chris P [McDonough](./McDonough.html), Mr. Mike Naberezny)\"
-  11:35:00 AM 30+5\"   116 B Core Python Containers \-- Under the Hood (Mr. Raymond D Hettinger)\"                                                                         085 X Fun with Frames, Metaclasses, Magic Methods, and Decorators (Mr. Feihong Hsu, Mr. Kumar [McMillan](./McMillan.html))\"   063 I Roll Your Own Data Persistence in Python (Mr. Sean J Taylor)\"   121 I Managing Complexity (and testing) (Matt Harrison)\"
-  12:10:00 PM 30+0\"   091 B To RE or not to RE - parsing text in Python (Anna M Ravenscroft)\"                                                                            127 I Unicode In Python, Completely Demystified (Mr. Kumar [McMillan](./McMillan.html))\"                                      037 I Developing reusable Django applications (James Bennett)\"        106 I py.test: towards interactive, distributed and rapid testing (Brian Dorsey, Maciej Fijalkowski, holger krekel)\"
-  -------------------- --------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
 
-::: {}
-  ----------------------------- ---------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------- --------------------------------------------------------------------
-  12:40:00 PM,90 \"Lunch\",,,                                                                                                                                                                                                                                                                                                                                                           
-  \"Chair                       \"Chair 1                                                                                                                    \"Chair 2                                                                                                                \"Chair 3                                                                                         \"Chair 4
-  02:10:00 PM 30+5\"            134 B Python-powered Multitouch (Peter Z Wang, Mr. David Kammeyer, Robert Kern)\"                                            021 I Sights and sounds with pyglet (Mr. Alex Holkner)\"                                                                 088 A Stackless [PyPy](../implementations/PyPy) (Mr. Christian Tismer)\"                                      077 I Using Grok to Walk Like a Duck (Mr. Brandon C Rhodes)\"
-  02:45:00 PM 30+5\"            065 B End-user computing without tears using Resolver, an [IronPython](../implementations/IronPython) spreadsheet (Mr. Giles Thomas)\"   140 I Case Study of Python Application Development \-- Humanized Enso (Jono [DiCarlo](./DiCarlo.html))\"   117 I The Power of Django Admin (Even For Non-Django Projects) (Mr. Steven C Wilcox)\"            126 I Building Trac Plugins (Mr. Noah Kantrowitz)\"
-  03:20:00 PM 45+0\"            005 B Getting started with test-driven development. (Mr. Jonathan Hartley)\"                                                 048 B [IronPython](../implementations/IronPython): The Road Ahead (Mr. Jim Hugunin)\"                                                089 I Don\'t call us, we\'ll call you: callback patterns and idioms in Python (Alex Martelli)\"   123 B 2to3: translating Python 2 to Python 3 (Mr. Collin Winter)\"
-  ----------------------------- ---------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------- --------------------------------------------------------------------
-:::
+* - \"Place
+  - \"Ballroom II
+  - \"Ballroom III
+  - \"Ballroom IV
+  - \"Ballroom V
+* - \"Chair
+  - \"Chair 1 Richard Jones [richard@python.org](mailto:richard@python.org)\"
+  - \"Chair 2
+  - \"Chair 3
+  - \"Chair 4
+* - 11:00:00 AM 30+5\"
+  - 009 B Using [PyGame](../multimedia/PyGame) and [PySight](./PySight.html) to Create an Interactive Halloween Activity (Mr. John Harrison)\"
+  - 032 I Decorated State Machines (Mr. Rodney Drenth)\"
+  - 033 I SQLAlchemy 0.4 and Beyond (Mike Bayer)\"
+  - 041 A Supervisor as a Platform (Mr. Chris P [McDonough](./McDonough.html), Mr. Mike Naberezny)\"
+* - 11:35:00 AM 30+5\"
+  - 116 B Core Python Containers \-- Under the Hood (Mr. Raymond D Hettinger)\"
+  - 085 X Fun with Frames, Metaclasses, Magic Methods, and Decorators (Mr. Feihong Hsu, Mr. Kumar [McMillan](./McMillan.html))\"
+  - 063 I Roll Your Own Data Persistence in Python (Mr. Sean J Taylor)\"
+  - 121 I Managing Complexity (and testing) (Matt Harrison)\"
+* - 12:10:00 PM 30+0\"
+  - 091 B To RE or not to RE - parsing text in Python (Anna M Ravenscroft)\"
+  - 127 I Unicode In Python, Completely Demystified (Mr. Kumar [McMillan](./McMillan.html))\"
+  - 037 I Developing reusable Django applications (James Bennett)\"
+  - 106 I py.test: towards interactive, distributed and rapid testing (Brian Dorsey, Maciej Fijalkowski, holger krekel)\"
+```
+
+```{list-table}
+
+* - 12:40:00 PM,90 \"Lunch\",,,
+  -
+  -
+  -
+  -
+* - \"Chair
+  - \"Chair 1
+  - \"Chair 2
+  - \"Chair 3
+  - \"Chair 4
+* - 02:10:00 PM 30+5\"
+  - 134 B Python-powered Multitouch (Peter Z Wang, Mr. David Kammeyer, Robert Kern)\"
+  - 021 I Sights and sounds with pyglet (Mr. Alex Holkner)\"
+  - 088 A Stackless [PyPy](../implementations/PyPy) (Mr. Christian Tismer)\"
+  - 077 I Using Grok to Walk Like a Duck (Mr. Brandon C Rhodes)\"
+* - 02:45:00 PM 30+5\"
+  - 065 B End-user computing without tears using Resolver, an [IronPython](../implementations/IronPython) spreadsheet (Mr. Giles Thomas)\"
+  - 140 I Case Study of Python Application Development \-- Humanized Enso (Jono [DiCarlo](./DiCarlo.html))\"
+  - 117 I The Power of Django Admin (Even For Non-Django Projects) (Mr. Steven C Wilcox)\"
+  - 126 I Building Trac Plugins (Mr. Noah Kantrowitz)\"
+* - 03:20:00 PM 45+0\"
+  - 005 B Getting started with test-driven development. (Mr. Jonathan Hartley)\"
+  - 048 B [IronPython](../implementations/IronPython): The Road Ahead (Mr. Jim Hugunin)\"
+  - 089 I Don\'t call us, we\'ll call you: callback patterns and idioms in Python (Alex Martelli)\"
+  - 123 B 2to3: translating Python 2 to Python 3 (Mr. Collin Winter)\"
+```
 
 \"[PyCon](../conferences/pycon/PyCon) 2008 Talks Schedule Worksheet \-- SUNDAY March 16th\"
 
-::: {}
-  -------------------- --------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------
-  \"Place              \"Ballroom II                                                                                 \"Ballroom III                                                                                            \"Ballroom IV                                                                         \"Ballroom V
-  \"Chair              \"Chair 1                                                                                     \"Chair 2                                                                                                 \"Chair 3                                                                             \"Chair 4
-  11:00:00 AM \"30+5   \"078 B Consuming HTML (Ian Bicking)                                                          \"084 I More Iterators in Action (Jim Baker)                                                              \"039 A What Zope did wrong (and how it\'s being fixed) (Lennart Regebro)             \"099 I Programming Microsoft Office using Python (wesley j chun)\"
-  11:35:00 AM \"30+5   \"013 B Crunchy: Crunching on Python Documentation (Mr. Johannes Woolard)                     \"024 I nose: testing for the lazy coder (Jason Pellerin)                                                 \"125 I Programming for the One Laptop Per Child laptop (Mr. Charles Merriam)         \"132 I Developing, Testing, and Debugging Python Applications with Wing IDE (Mr. Stephan R.A. Deibel)\"
-  12:10:00 PM \"30+0   \"071 B Pylons and [TurboGears](../web/TurboGears): Working together on the web (Mark Ramm)   \"003 I Python in your Browser with [IronPython](../implementations/IronPython) & Silverlight (Mr. Michael J Foord)   \"060 I Introducting Agile Testing Techniques to the OLPC Project (Dr. Titus Brown)   \"074 A Adventures in Stackless Python/Twisted Integration (Mr. Andrew A Francis)\"
-  -------------------- --------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - \"Place
+  - \"Ballroom II
+  - \"Ballroom III
+  - \"Ballroom IV
+  - \"Ballroom V
+* - \"Chair
+  - \"Chair 1
+  - \"Chair 2
+  - \"Chair 3
+  - \"Chair 4
+* - 11:00:00 AM \"30+5
+  - \"078 B Consuming HTML (Ian Bicking)
+  - \"084 I More Iterators in Action (Jim Baker)
+  - \"039 A What Zope did wrong (and how it\'s being fixed) (Lennart Regebro)
+  - \"099 I Programming Microsoft Office using Python (wesley j chun)\"
+* - 11:35:00 AM \"30+5
+  - \"013 B Crunchy: Crunching on Python Documentation (Mr. Johannes Woolard)
+  - \"024 I nose: testing for the lazy coder (Jason Pellerin)
+  - \"125 I Programming for the One Laptop Per Child laptop (Mr. Charles Merriam)
+  - \"132 I Developing, Testing, and Debugging Python Applications with Wing IDE (Mr. Stephan R.A. Deibel)\"
+* - 12:10:00 PM \"30+0
+  - \"071 B Pylons and [TurboGears](../web/TurboGears): Working together on the web (Mark Ramm)
+  - \"003 I Python in your Browser with [IronPython](../implementations/IronPython) & Silverlight (Mr. Michael J Foord)
+  - \"060 I Introducting Agile Testing Techniques to the OLPC Project (Dr. Titus Brown)
+  - \"074 A Adventures in Stackless Python/Twisted Integration (Mr. Andrew A Francis)\"
+```
 
 Richard Jones ([richard@python.org](mailto:richard@python.org)) will also volunteer to help run the Lightning Talks.

@@ -42,22 +42,19 @@ EmPy will run on any operating system with a full-featured Python interpreter; t
 
 EmPy is compatible with many different Python implementations, interpreter variants, packaging systems, and enhanced shells:
 
-::: {}
-  ------------------------------------------------------------------------------ ------------------------ --------------------------------------------------------------------------------
-  **Variant**                                                                    **Supported versions**   **Description**
-  [CPython](https://www.python.org/)                                     2.4 and up               Standard implementation in C
-  [PyPy](https://www.pypy.org/)                                          2.7 and up               Implementation with just-in-time compiler
-  [Stackless Python](https://github.com/stackless-dev/stackless/wiki/)   2.4 and up               Implementation supporting microthreading
-  [IronPython](https://ironpython.net/)                                  2.7 and up               Implementation for .NET CLR and Mono
-  [Jython](https://www.jython.org/)                                      2.5 to 2.7 (and up?)     Implementation for JVM
-  [ActiveState Python](https://www.activestate.com/products/python/)     2.7 and up               Secure supply chain open source solution
-  [eGenix PyRun](https://www.egenix.com/products/python/PyRun/)          2.5 and up               One-file, no-installation CPython environment
-  [WinPython](https://winpython.github.io/)                              3.0 and up               Portable Scientific Python for Windows
-  [PortablePython](https://portablepython.com/)                          2.7 and up               Minimalistic Python distribution for Windows
-  [IDLE](https://docs.python.org/3/library/idle.html)                    all                      Python\'s Integrated Development and Learning Environment
-  [IPython](https://ipython.org/)                                        all                      Powerful interactive shell; kernel for [Jupyter](https://jupyter.org/)
-  ------------------------------------------------------------------------------ ------------------------ --------------------------------------------------------------------------------
-:::
+| Variant | Supported versions | Description |
+|---|---|---|
+| [CPython](https://www.python.org/) | 2.4 and up | Standard implementation in C |
+| [PyPy](https://www.pypy.org/) | 2.7 and up | Implementation with just-in-time compiler |
+| [Stackless Python](https://github.com/stackless-dev/stackless/wiki/) | 2.4 and up | Implementation supporting microthreading |
+| [IronPython](https://ironpython.net/) | 2.7 and up | Implementation for .NET CLR and Mono |
+| [Jython](https://www.jython.org/) | 2.5 to 2.7 (and up?) | Implementation for JVM |
+| [ActiveState Python](https://www.activestate.com/products/python/) | 2.7 and up | Secure supply chain open source solution |
+| [eGenix PyRun](https://www.egenix.com/products/python/PyRun/) | 2.5 and up | One-file, no-installation CPython environment |
+| [WinPython](https://winpython.github.io/) | 3.0 and up | Portable Scientific Python for Windows |
+| [PortablePython](https://portablepython.com/) | 2.7 and up | Minimalistic Python distribution for Windows |
+| [IDLE](https://docs.python.org/3/library/idle.html) | all | Python\'s Integrated Development and Learning Environment |
+| [IPython](https://ipython.org/) | all | Powerful interactive shell; kernel for [Jupyter](https://jupyter.org/) |
 
 EmPy is also compatible with scaled-down implementations of Python, provided they support the set of standard modules that EmPy requires, namely:
 

@@ -16,14 +16,11 @@ This page gives some basics of working with time in Python. More detail can be f
 
 There are several ways to work with time:
 
-::: {}
-  ----------------------------- -----------------
-  **format**                    **Python**
-  seconds since the \"Epoch\"   `time.time()`
-  tuple                         `time.gmtime()`
-  string                        `time.ctime()`
-  ----------------------------- -----------------
-:::
+| format | Python |
+|---|---|
+| seconds since the \"Epoch\" | `time.time()` |
+| tuple | `time.gmtime()` |
+| string | `time.ctime()` |
 
 **The Epoch** is January 1st, 1970, midnight, on UNIX systems. On other systems, look at the results of `time.gmtime(0)` to discover the date of the Epoch.
 

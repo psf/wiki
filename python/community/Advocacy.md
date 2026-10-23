@@ -8,11 +8,10 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-::: {}
-  ---------------------------------
-  Getting Involved in Discussions
-  ---------------------------------
-:::
+```{list-table}
+
+* - Getting Involved in Discussions
+```
 
 Discussions on advocating the use of Python take place on the following mailing lists:
 

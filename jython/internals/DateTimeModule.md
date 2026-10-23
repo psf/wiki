@@ -39,17 +39,14 @@ And after discussing it with Brian, I\'ve re-thought that approach, and I now pl
 
 ### Design 
 
-::: {}
-  ---------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Python Class (from pure Python implementation)**   **Strategy**
-  timexxx                                              I think this is just a placeholder for something in C\...
-  timedelta                                            For now I plan to leave this alone, though this may be a place where a Java reimplementation may give a performance boost.
-  date                                                 Replace most logic with java.util.Catalog code.
-  tzinfo                                               This is an abstract class, a wrapper so that [java.util.TimeZone](http://java.sun.com/j2se/1.4.2/docs/api/java/util/TimeZone.html) could be used would be nice
-  time                                                 Leave as is for now, but review later
-  datetime                                             Replace most logic with java.util.Catalog code.
-  ---------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
+| Python Class (from pure Python implementation) | Strategy |
+|---|---|
+| timexxx | I think this is just a placeholder for something in C\... |
+| timedelta | For now I plan to leave this alone, though this may be a place where a Java reimplementation may give a performance boost. |
+| date | Replace most logic with java.util.Catalog code. |
+| tzinfo | This is an abstract class, a wrapper so that [java.util.TimeZone](http://java.sun.com/j2se/1.4.2/docs/api/java/util/TimeZone.html) could be used would be nice |
+| time | Leave as is for now, but review later |
+| datetime | Replace most logic with java.util.Catalog code. |
 
 ### Discussion 
 

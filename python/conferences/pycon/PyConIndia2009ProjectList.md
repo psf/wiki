@@ -8,15 +8,10 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Please use alphabetical order for Project names.
 
-::: {}
-+:---------:+:-----------------------------------------------------------:+:--------------:+----------------------------------+
-| **Project List**                                                                         |                                  |
-+-----------+-------------------------------------------------------------+----------------+----------------------------------+
-| *Project* | *URL*                                                       | *Contact*      | *E-mail*                         |
-+-----------+-------------------------------------------------------------+----------------+----------------------------------+
-| Poky      | [http://www.pokylinux.org](http://www.pokylinux.org) | Shakthi Kannan | shakthimaan \[AT\] gmail dot com |
-+-----------+-------------------------------------------------------------+----------------+----------------------------------+
-:::
+| Project List |  |  |  |
+|---|---|---|---|
+| *Project* | *URL* | *Contact* | *E-mail* |
+| Poky | [http://www.pokylinux.org](http://www.pokylinux.org) | Shakthi Kannan | shakthimaan \[AT\] gmail dot com |
 
 ------------------------------------------------------------------------
 

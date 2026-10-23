@@ -12,23 +12,58 @@ It is not known which version of Eclipse these comments refer to, please be care
 
 A few plugins for [Eclipse](Eclipse) are in progress that will enable Eclipse to be used as a Python IDE.
 
-::: {}
-+-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-| Name                                                  | URL                                                                                                                 | Version      | Last Update      | Licensing               | Supports Jython                       | Remarks                                          |
-+-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-| Dynamic Languages Toolkit                             | [http://www.eclipse.org/dltk/](http://www.eclipse.org/dltk/)                                                 | 4.0.0        | June 25, 2012    | EPL\*                   | ?                                     |                                                  |
-+-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-| Pydev                                                 | [http://pydev.org](http://pydev.org/)/                                                                       | 3.3.3        | January 27, 2014 | EPL\*                   | Yes                                   | It also supports [IronPython](../implementations/IronPython) |
-+-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-| [PythonMonkey](./PythonMonkey.html)     | [http://code.google.com/p/jrfonseca/wiki/PythonMonkey](http://code.google.com/p/jrfonseca/wiki/PythonMonkey) | 0.1.0        | October 21, 2007 |                         | Yes                                   |                                                  |
-+-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-| [TruStudio](./TruStudio.html)           | [http://www.xored.com/trustudio](http://www.xored.com/trustudio) (defunct)                                   | 1.0.1a / 1.1 | May 18, 2005     | no more available       | [Merged](http://www.eclipse.org/proposals/dltk/) into DLTK project                |
-+-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-| JyDT                                                  | [http://www.redrobinsoftware.net/jydt/](http://www.redrobinsoftware.net/jydt/)                               | 1.4.15       | June 23, 2006    | CPL                     | Jython only                           |                                                  |
-+-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-| [EclipseColorer](./EclipseColorer.html) | [http://colorer.sf.net/](http://colorer.sf.net/)                                                             | 0.9.9        | July 22, 2011    | Mozilla PL / GPL / LGPL | Yes?                                  | Syntax highlighting only                         |
-+-------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+--------------+------------------+-------------------------+---------------------------------------+--------------------------------------------------+
-:::
+```{list-table}
+
+* - Name
+  - URL
+  - Version
+  - Last Update
+  - Licensing
+  - Supports Jython
+  - Remarks
+* - Dynamic Languages Toolkit
+  - [http://www.eclipse.org/dltk/](http://www.eclipse.org/dltk/)
+  - 4.0.0
+  - June 25, 2012
+  - EPL\*
+  - ?
+  -
+* - Pydev
+  - [http://pydev.org](http://pydev.org/)/
+  - 3.3.3
+  - January 27, 2014
+  - EPL\*
+  - Yes
+  - It also supports [IronPython](../implementations/IronPython)
+* - [PythonMonkey](./PythonMonkey.html)
+  - [http://code.google.com/p/jrfonseca/wiki/PythonMonkey](http://code.google.com/p/jrfonseca/wiki/PythonMonkey)
+  - 0.1.0
+  - October 21, 2007
+  -
+  - Yes
+  -
+* - [TruStudio](./TruStudio.html)
+  - [http://www.xored.com/trustudio](http://www.xored.com/trustudio) (defunct)
+  - 1.0.1a / 1.1
+  - May 18, 2005
+  - no more available
+  - [Merged](http://www.eclipse.org/proposals/dltk/) into DLTK project
+  -
+* - JyDT
+  - [http://www.redrobinsoftware.net/jydt/](http://www.redrobinsoftware.net/jydt/)
+  - 1.4.15
+  - June 23, 2006
+  - CPL
+  - Jython only
+  -
+* - [EclipseColorer](./EclipseColorer.html)
+  - [http://colorer.sf.net/](http://colorer.sf.net/)
+  - 0.9.9
+  - July 22, 2011
+  - Mozilla PL / GPL / LGPL
+  - Yes?
+  - Syntax highlighting only
+```
 
 \* Eclipse Public License
 

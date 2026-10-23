@@ -18,20 +18,28 @@ Overview of Python modules for option parsing
 
 ## 2. External tools 
 
-::: {}
-+--------------------------------------------------------------------------------+----------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------------------------------------+
-| **Name**                                                                       | **[365 Day Ranking](https://hugovk.github.io/top-pypi-packages/)** | **Latest Release**  | **Description**                                                                               |
-+--------------------------------------------------------------------------------+----------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------------------------------------+
-| [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)\ | 103                                                                        | 0.11.0 (2020-10-27) | gflags merged into this                                                                       |
-| (pypi: [absl-py](https://pypi.org/project/absl-py/))                   |                                                                            |                     |                                                                                               |
-+--------------------------------------------------------------------------------+----------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------------------------------------+
-| [Click](https://palletsprojects.com/p/click/)\                         | 34                                                                         | 7.1.2 (2020-04-27)  | create beautiful command line interfaces in a composable way with as little code as necessary |
-| (pypi: [click](https://pypi.org/project/click/))                       |                                                                            |                     |                                                                                               |
-+--------------------------------------------------------------------------------+----------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------------------------------------+
-| [Typer](https://typer.tiangolo.com/)\                                  | 2321                                                                       | 0.3.2 (2020-08-16)  | build great CLIs. Easy to code. Based on Python type hints.                                   |
-| (pypi: [typer](https://pypi.org/project/typer/))                       |                                                                            |                     |                                                                                               |
-+--------------------------------------------------------------------------------+----------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------------------------------------+
-:::
+```{list-table}
+
+* - **Name**
+  - **[365 Day Ranking](https://hugovk.github.io/top-pypi-packages/)**
+  - **Latest Release**
+  - **Description**
+* - [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)\
+    (pypi: [absl-py](https://pypi.org/project/absl-py/))
+  - 103
+  - 0.11.0 (2020-10-27)
+  - gflags merged into this
+* - [Click](https://palletsprojects.com/p/click/)\
+    (pypi: [click](https://pypi.org/project/click/))
+  - 34
+  - 7.1.2 (2020-04-27)
+  - create beautiful command line interfaces in a composable way with as little code as necessary
+* - [Typer](https://typer.tiangolo.com/)\
+    (pypi: [typer](https://pypi.org/project/typer/))
+  - 2321
+  - 0.3.2 (2020-08-16)
+  - build great CLIs. Easy to code. Based on Python type hints.
+```
 
 More:
 

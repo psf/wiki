@@ -12,10 +12,3 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ------------------------------------------------------------------------
 
-::: {}
-\
-
-Display context of search results\
-
-Case-sensitive searching
-:::

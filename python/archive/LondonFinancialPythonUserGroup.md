@@ -12,14 +12,13 @@ Beginning in November 2009, Enthought started to organize a monthly event where 
 
 If you'd like to be kept informed about the details of these events, join us on the [LinkedIn group](http://www.linkedin.com/groups?gid=2428849) or contact Didrik ( [dpinte@enthought.com](mailto:dpinte@enthought.com) ) by e-mail. There is a \"high\" traffic mailing list for those who are interested about getting the latest information.
 
-::: {}
-  ---------------------------------------------------------------------------------------------------------------------------------------------
-  ![Google Groups](http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif "Google Groups")
-  **Subscribe to London Financial Python User Group**
-  Email:
-  [Visit this group](http://groups.google.com/group/lfpug?hl=en)
-  ---------------------------------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ![Google Groups](http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif "Google Groups")
+* - **Subscribe to London Financial Python User Group**
+* - Email:
+* - [Visit this group](http://groups.google.com/group/lfpug?hl=en)
+```
 
 ------------------------------------------------------------------------
 

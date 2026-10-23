@@ -61,12 +61,15 @@ If your doing lots of anchors on the same page, you may want to consider using t
 
 - Prevent a new page with and without code font.\
 
-::: {}
-  ------------------- ---------------------------- ---------------------------
-  with code font      `PySystemState`{.backtick}   `` `PySystemState` ``
-  without code font   PySystemState                ``` Py``System``State ```
-  ------------------- ---------------------------- ---------------------------
-:::
+````{list-table}
+
+* - with code font
+  - `PySystemState`
+  - `` `PySystemState` ``
+* - without code font
+  - PySystemState
+  - ``` Py``System``State ```
+````
 
 - Embedding python (one way\--there\'s [others](HelpOnFormatting#codeDisplay)).\
 

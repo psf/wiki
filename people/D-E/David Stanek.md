@@ -8,12 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## David Stanek 
 
-::: {}
-  ------- -------------------------------------------------------------
-  Email   [dstanek@dstanek.com](mailto:dstanek@dstanek.com)
-  Blog    [http://www.traceback.org](http://www.traceback.org)
-  ------- -------------------------------------------------------------
-:::
+```{list-table}
+
+* - Email
+  - [dstanek@dstanek.com](mailto:dstanek@dstanek.com)
+* - Blog
+  - [http://www.traceback.org](http://www.traceback.org)
+```
 
 **411**
 

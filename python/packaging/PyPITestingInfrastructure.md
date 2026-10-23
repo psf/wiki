@@ -315,16 +315,39 @@ Total: 11
 
 ##### Comparison of VMs 
 
-::: {}
-  -------------------------------- ------------------------------------------------- ------------------------------------------------------ ---------------------------------------------------- -----------------------------------------------
-  Criteria                         Xen                                               Qemu+KQemu                                             KVM                                                  [VirtualBox](./VirtualBox.html)
-  Host OS                          Linux,Solaris,BSD                                 Most                                                   Linux                                                Most
-  Guest OS                         Most(Kernel need to be modified)                  Most                                                   Most                                                 Most
-  Speed                            Performance loss on disk intensive operations     Qemu is usually slow. But Kqemu has good performance   Good performance                                     Good performance
-  Virtual Hard Disk Image Format   VMDK,VHD                                          VMDK,VHD,QCOW2,RAW                                     VMDK,VHD,QCOW2,RAW                                   VDI,VMDK,VHD
-  Community Support                Community not very active in the fast few years   Support dropped for KQemu                              [RedHat](../people/RedHat) is currently supporting it   Oracle is currently working on it
-  -------------------------------- ------------------------------------------------- ------------------------------------------------------ ---------------------------------------------------- -----------------------------------------------
-:::
+```{list-table}
+
+* - Criteria
+  - Xen
+  - Qemu+KQemu
+  - KVM
+  - [VirtualBox](./VirtualBox.html)
+* - Host OS
+  - Linux,Solaris,BSD
+  - Most
+  - Linux
+  - Most
+* - Guest OS
+  - Most(Kernel need to be modified)
+  - Most
+  - Most
+  - Most
+* - Speed
+  - Performance loss on disk intensive operations
+  - Qemu is usually slow. But Kqemu has good performance
+  - Good performance
+  - Good performance
+* - Virtual Hard Disk Image Format
+  - VMDK,VHD
+  - VMDK,VHD,QCOW2,RAW
+  - VMDK,VHD,QCOW2,RAW
+  - VDI,VMDK,VHD
+* - Community Support
+  - Community not very active in the fast few years
+  - Support dropped for KQemu
+  - [RedHat](../people/RedHat) is currently supporting it
+  - Oracle is currently working on it
+```
 
 Clearly the competition drops down to Vbox,KVM Reasons for choosing Vbox over KVM 1)Vbox support for multiple platforms 2)KVM's native disk image QCOW2 is very slow. Ofcourse I could use other disk images but that would require external tools. 3)KVM's dependency on linux kernel
 

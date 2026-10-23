@@ -87,11 +87,15 @@ There are also email extensions that we may want to support. This list is not co
 - [RFC2111](http://tools.ietf.org/html/rfc2111) Content-ID and Message-ID Uniform Resource Locators
 - [RFC2112](http://tools.ietf.org/html/rfc2112) The MIME Multipart/Related Content-type
 
-  ---------------------------- ---------------------------------------------------
-  [\[1\]](#id1)   In fact, rfc0733 obsoletes several previous RFCs.
-  ---------------------------- ---------------------------------------------------
+  ```{list-table}
 
-  ---------------------------- -----------------------------------------------------------------------------------------------------------------------
-  [\[2\]](#id2)   mimetypes does not currently have a maintainer listed in maintainers.rst, which may mean we get to tackle it as well.
-  ---------------------------- -----------------------------------------------------------------------------------------------------------------------
+  * - [\[1\]](#id1)
+    - In fact, rfc0733 obsoletes several previous RFCs.
+  ```
+
+  ```{list-table}
+
+  * - [\[2\]](#id2)
+    - mimetypes does not currently have a maintainer listed in maintainers.rst, which may mean we get to tackle it as well.
+  ```
 :::

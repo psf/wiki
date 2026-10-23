@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  -------------------------------- ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***              ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **October 2008 \-- Issue #23**   
-  -------------------------------- ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **October 2008 \-- Issue #23**
+  -
+```
 
 Happy Halloween Jython Enthusiasts! This is always a good time of year for me as I enjoy the fall weather, but it is also a busy time of the year. The schedules are getting booked with end of the year expectations and the holiday season that awaits. This distribution of Jython Monthly is a bit late, but it is full of good news and content and I hope you\'ll be pleased.
 
@@ -87,14 +88,11 @@ You may ask why we need another web framework, or what a different web framework
 
 [Pydev 1.3.24 Released](http://pydev.sourceforge.net/)
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  [Planet Jython](http://planet.jython.org/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |
+| [Planet Jython](http://planet.jython.org/) |

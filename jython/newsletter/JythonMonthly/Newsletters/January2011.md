@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  ---------------------------------------------- ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***                            ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **December 2010/January 2011 \-- Issue #47**   
-  ---------------------------------------------- ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **December 2010/January 2011 \-- Issue #47**
+  -
+```
 
 This is the Jython Monthly newsletter for the months of December 2010 and January of 2011. Jython 2.5.2 RC3 has been released to the Jython community for review. Please download and test now if you haven\'t done so already! There is a significant amount of material to cover for this issue. I will be unable to record a podcast due to some timing issues, so I apologize for that. I am hoping to get back into the monthly schedule for releasing the newsletter and podcast at some point in the near future.
 
@@ -123,14 +124,11 @@ Please go [download](http://www.jython.org/downloads.html) the release and test 
 
 [Jython Processor with Swing GUI](http://jythonprocessor.sourceforge.net/)
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  [Planet Jython](http://planet.jython.org/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |
+| [Planet Jython](http://planet.jython.org/) |

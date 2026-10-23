@@ -8,12 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Infrastructure Working Group Charter 
 
-::: {}
-  --------------------- -----------
-  **Effective until**   \...
-  **Chair**             Ee Durbin
-  --------------------- -----------
-:::
+```{list-table}
+
+* - **Effective until**
+  - \...
+* - **Chair**
+  - Ee Durbin
+```
 
 ### Mission 
 

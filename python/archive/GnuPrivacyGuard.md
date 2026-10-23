@@ -31,15 +31,12 @@ The manual is currently missing from the various python documentation repositori
 
 The following commands should install gpgme\'s python library on various operating systems
 
-::: {}
-  ---------------------------------------------- ------------- ---------------------------
-  **operating system**                           **package**   **example command**
-  [alpine](https://alpinelinux.org/)     py3-gpgme     `apk add py3-gpgme`
-  [debian](https://www.debian.org/)      python3-gpg   `apt install python3-gpg`
-  MacOS ([homebrew](https://brew.sh/))   gpgme         `brew install gpgme`
-  [Ubuntu](https://ubuntu.com/)          python3-gpg   `apt install python3-gpg`
-  ---------------------------------------------- ------------- ---------------------------
-:::
+| operating system | package | example command |
+|---|---|---|
+| [alpine](https://alpinelinux.org/) | py3-gpgme | `apk add py3-gpgme` |
+| [debian](https://www.debian.org/) | python3-gpg | `apt install python3-gpg` |
+| MacOS ([homebrew](https://brew.sh/)) | gpgme | `brew install gpgme` |
+| [Ubuntu](https://ubuntu.com/) | python3-gpg | `apt install python3-gpg` |
 
 ## Running gpg executables 
 

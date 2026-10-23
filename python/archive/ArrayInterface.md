@@ -81,26 +81,41 @@ Some C-API calls should also be made available:
 
 ## Additions to the struct string-syntax 
 
-::: {}
-  --------------------- ---------------------------------------------------------------
-  Character             Description
-  \'1\'                 bit (number before states how many bits)
-  \'?\'                 platform \_Bool type
-  \'g\'                 long double
-  \'F\'                 complex float
-  \'D\'                 complex double
-  \'G\'                 complex long double
-  \'c\'                 ucs-1 (latin-1) encoding
-  \'u\'                 ucs-2
-  \'w\'                 ucs-4
-  \'O\'                 pointer to Python Object
-  \'T{}\'               structure (detailed layout inside {})
-  \'(k1,k2,\...,kn)\'   multi-dimensional array of whatever follows
-  \':name:\'            optional name of the preceeding element
-  \'&\'                 specific pointer (prefix before another charater)
-  \'X{}\'               pointer to a function (optional function signature inside {})
-  --------------------- ---------------------------------------------------------------
-:::
+```{list-table}
+
+* - Character
+  - Description
+* - \'1\'
+  - bit (number before states how many bits)
+* - \'?\'
+  - platform \_Bool type
+* - \'g\'
+  - long double
+* - \'F\'
+  - complex float
+* - \'D\'
+  - complex double
+* - \'G\'
+  - complex long double
+* - \'c\'
+  - ucs-1 (latin-1) encoding
+* - \'u\'
+  - ucs-2
+* - \'w\'
+  - ucs-4
+* - \'O\'
+  - pointer to Python Object
+* - \'T{}\'
+  - structure (detailed layout inside {})
+* - \'(k1,k2,\...,kn)\'
+  - multi-dimensional array of whatever follows
+* - \':name:\'
+  - optional name of the preceeding element
+* - \'&\'
+  - specific pointer (prefix before another charater)
+* - \'X{}\'
+  - pointer to a function (optional function signature inside {})
+```
 
 Endian-specification is also allowed inside the string so that it can change if needed.
 

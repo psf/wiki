@@ -40,16 +40,13 @@ The following information is retained for reference.
 
 Add your sprint suggestion to the list below. If you intend to provide more than a brief description or have a discussion about the sprinting goals, feel free to add a new Wiki page for such purposes, using a name like `EuroPython2006/MySprint`{.backtick}.
 
-::: {}
-  --------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ----------------- -------------------------------------------------------
-  **Group/Topic**                                                             **Approx. number of people**                                                                         **Pre/Post EP**   **Room (see \"Sprint locations\" below)**
-  [MoinMoin](http://moinmo.in/EuroPython2006/Sprint "MoinMoin")   Less than [PyPy](../../implementations/PyPy) ![:-)](/wiki/europython/img/smile.png%20":-)")   6-9 July          C
-  [EuroPython2006/PYxIDEsSprint](EuroPython2006/PYxIDEsSprint)      at least 1!                                                                                          6-9 July          C
-  [EuroPython2006/Zope3Sprint](EuroPython2006/Zope3Sprint)          ?                                                                                                    Pre               D
-  [EuroPython2006/PyPySprint](EuroPython2006/PyPySprint)            15-25                                                                                                6-9 July          B
-  [EuroPython2006/PyPiSprint](EuroPython2006/PyPiSprint)            at least 2                                                                                           6-9 July          D (Thursday), otherwise A (except Thu from 1500-1700)
-  --------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- ----------------- -------------------------------------------------------
-:::
+| Group/Topic | Approx. number of people | Pre/Post EP | Room (see \"Sprint locations\" below) |
+|---|---|---|---|
+| [MoinMoin](http://moinmo.in/EuroPython2006/Sprint "MoinMoin") | Less than [PyPy](../../implementations/PyPy) ![:-)](/wiki/europython/img/smile.png%20":-)") | 6-9 July | C |
+| [EuroPython2006/PYxIDEsSprint](EuroPython2006/PYxIDEsSprint) | at least 1! | 6-9 July | C |
+| [EuroPython2006/Zope3Sprint](EuroPython2006/Zope3Sprint) | ? | Pre | D |
+| [EuroPython2006/PyPySprint](EuroPython2006/PyPySprint) | 15-25 | 6-9 July | B |
+| [EuroPython2006/PyPiSprint](EuroPython2006/PyPiSprint) | at least 2 | 6-9 July | D (Thursday), otherwise A (except Thu from 1500-1700) |
 
 - Hmm, this table says that Zope will not sprint in the next days but nevertheless they have a room \... ![:-)](/wiki/europython/img/smile.png%20":-)")
 

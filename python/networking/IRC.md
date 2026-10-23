@@ -28,10 +28,7 @@ Are mostly on [freenode](http://freenode.net) IRC network:
 
 ## List of IRC Clients written in Python 
 
-::: {}
-  -------------- ------------- -------- ----------- ------------- ----------- --------------
-  **Name**       **License**   **UI**   **Linux**   **Windows**   **MacOS**   **Comments**
-  sushi.tekka    BSD 2         GTK      Yes         ?             ?           
-  sushi.nigiri   BSD 2         Urwid    Yes         ?             ?           
-  -------------- ------------- -------- ----------- ------------- ----------- --------------
-:::
+| Name | License | UI | Linux | Windows | MacOS | Comments |
+|---|---|---|---|---|---|---|
+| sushi.tekka | BSD 2 | GTK | Yes | ? | ? |  |
+| sushi.nigiri | BSD 2 | Urwid | Yes | ? | ? |  |

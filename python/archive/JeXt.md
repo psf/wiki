@@ -8,17 +8,17 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ### jExt 
 
-::: {}
-+:--------:+:-------------------------------------------------:+
-| Quick Facts                                                  |
-+----------+---------------------------------------------------+
-| Site     | [http://www.jext.org](http://www.jext.org) |
-+----------+---------------------------------------------------+
-| Platform | JVM                                               |
-+----------+---------------------------------------------------+
-| License  | GPL?                                              |
-+----------+---------------------------------------------------+
-:::
+```{list-table}
+
+* - Quick Facts
+  -
+* - Site
+  - [http://www.jext.org](http://www.jext.org)
+* - Platform
+  - JVM
+* - License
+  - GPL?
+```
 
 jExt is a Java based editor. It is scriptable using Python (Jython). If you want a faster, lighter [JedIt](./JedIt.html), jExt is what you want.
 

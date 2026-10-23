@@ -80,15 +80,24 @@ The legacy version of PyPI is the code that was running on [http://pypi.python.o
 
 PyPI is a WSGI application that can be executed standalone using `python pypi.wsgi`{.backtick} command if all requirements are met. `pypi.wsgi`{.backtick} contains usual WSGI wrapper code and delegates request processing to `WebUI.run()`{.backtick} method from `webui.py`{.backtick}. This method just opens DB and handles exceptions, actual request processing is done in `WebUI.inner_run()`{.backtick}. This method analyzes URL endpoint and executes appropriate handler. As of 2011-04, the rules to match endpoints to handlers are the following:
 
-::: {}
-  ------------------ -------------------- --------------------------------------------
-  /simple            WebUI.run_simple()   dump all package names on single html page
-  /simple/(.+)/      WebUI.run_simple()   dump all links for a package in html list
-  /serversig/(.+)/   .run_simple_sign()   save as above, but signed by server
-  /mirrors           .mirrors()           display static page with a list of mirrors
-  /daytime           .daytime()           display current server time
-  ------------------ -------------------- --------------------------------------------
-:::
+```{list-table}
+
+* - /simple
+  - WebUI.run_simple()
+  - dump all package names on single html page
+* - /simple/(.+)/
+  - WebUI.run_simple()
+  - dump all links for a package in html list
+* - /serversig/(.+)/
+  - .run_simple_sign()
+  - save as above, but signed by server
+* - /mirrors
+  - .mirrors()
+  - display static page with a list of mirrors
+* - /daytime
+  - .daytime()
+  - display current server time
+```
 
 \...
 

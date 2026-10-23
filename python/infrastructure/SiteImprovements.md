@@ -75,12 +75,21 @@ Note: we should probably review these, see which ones are still problems and fil
 
 - Add **core development/source** page with a table of
 
-::: {}
-  ---------------- --------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------- --------------- ---------------------------------------------
-  Python Version   ViewVC                                                                                        SVN                                                                                                 Snapshot Download                                                             Code Coverage   [BuildBots](./BuildBots.html)
-  2.7              [http://svn.python.org/view/python/trunk/](http://svn.python.org/view/python/trunk/)   [http://svn.python.org/projects/python/trunk](http://svn.python.org/projects/python/trunk)   [http://svn.python.org/snapshots/](http://svn.python.org/snapshots/)   ???             ???
-  ---------------- --------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------- --------------- ---------------------------------------------
-:::
+```{list-table}
+
+* - Python Version
+  - ViewVC
+  - SVN
+  - Snapshot Download
+  - Code Coverage
+  - [BuildBots](./BuildBots.html)
+* - 2.7
+  - [http://svn.python.org/view/python/trunk/](http://svn.python.org/view/python/trunk/)
+  - [http://svn.python.org/projects/python/trunk](http://svn.python.org/projects/python/trunk)
+  - [http://svn.python.org/snapshots/](http://svn.python.org/snapshots/)
+  - ???
+  - ???
+```
 
 ### Wiki Content 
 

@@ -87,31 +87,25 @@ Tables summarising the default values on different operating systems:
 
 ##### posix
 
-::: {}
-  ------------------------ ---------------------------------------------------- ---------------------------------------------------- ------------------------------- --------------------------------
-  **Prefix identifier**    **Default value: Standard scheme**                   **Default value: User scheme**                       **Environment variable**        **Command line option**
-  `$base`{.backtick}       `sys.prefix`{.backtick}                              `~/.local`{.backtick}                                `$PYDIST_BASE`{.backtick}       `--prefix`{.backtick}
-  `$platbase`{.backtick}   `sys.exec_prefix`{.backtick}                         `~/.local`{.backtick}                                `$PYDIST_PLATBASE`{.backtick}   `--exec-prefix`{.backtick}
-  `$purelib`{.backtick}    `$base/lib/pythonX.Y/site-packages`{.backtick}       `$base/lib/pythonX.Y/site-packages`{.backtick}       `$PYDIST_PURELIB`{.backtick}    `--install-purelib`{.backtick}
-  `$platlib`{.backtick}    `$platbase/lib/pythonX.Y/site-packages`{.backtick}   `$platbase/lib/pythonX.Y/site-packages`{.backtick}   `$PYDIST_PLATLIB`{.backtick}    `--install-platlib`{.backtick}
-  `$scripts`{.backtick}    `$base/bin`{.backtick}                               `$base/bin`{.backtick}                               `$PYDIST_SCRIPTS`{.backtick}    `--install-scripts`{.backtick}
-  `$data`{.backtick}       `$base/share`{.backtick}                             `$base/share`{.backtick}                             `$PYDIST_DATA`{.backtick}       `--install-data`{.backtick}
-  ------------------------ ---------------------------------------------------- ---------------------------------------------------- ------------------------------- --------------------------------
-:::
+| Prefix identifier | Default value: Standard scheme | Default value: User scheme | Environment variable | Command line option |
+|---|---|---|---|---|
+| `$base` | `sys.prefix` | `~/.local` | `$PYDIST_BASE` | `--prefix` |
+| `$platbase` | `sys.exec_prefix` | `~/.local` | `$PYDIST_PLATBASE` | `--exec-prefix` |
+| `$purelib` | `$base/lib/pythonX.Y/site-packages` | `$base/lib/pythonX.Y/site-packages` | `$PYDIST_PURELIB` | `--install-purelib` |
+| `$platlib` | `$platbase/lib/pythonX.Y/site-packages` | `$platbase/lib/pythonX.Y/site-packages` | `$PYDIST_PLATLIB` | `--install-platlib` |
+| `$scripts` | `$base/bin` | `$base/bin` | `$PYDIST_SCRIPTS` | `--install-scripts` |
+| `$data` | `$base/share` | `$base/share` | `$PYDIST_DATA` | `--install-data` |
 
 ##### nt
 
-::: {}
-  ------------------------ ------------------------------------ ------------------------------------------------------ ------------------------------- --------------------------------
-  **Prefix identifier**    **Default value: Standard scheme**   **Default value: User scheme**                         **Environment variable**        **Command line option**
-  `$base`{.backtick}       `sys.prefix`{.backtick}              `os.environ.get('%APPDATA%')`{.backtick}               `$PYDIST_BASE`{.backtick}       `--prefix`{.backtick}
-  `$platbase`{.backtick}   `sys.exec_prefix`{.backtick}         `os.environ.get('%APPDATA%')`{.backtick}               `$PYDIST_PLATBASE`{.backtick}   `--exec-prefix`{.backtick}
-  `$purelib`{.backtick}    `$base/Python`{.backtick}            `$base/Python/PythonXY/site-packages`{.backtick}       `$PYDIST_PURELIB`{.backtick}    `--install-purelib`{.backtick}
-  `$platlib`{.backtick}    `$platbase/Python`{.backtick}        `$platbase/Python/PythonXY/site-packages`{.backtick}   `$PYDIST_PLATLIB`{.backtick}    `--install-platlib`{.backtick}
-  `$scripts`{.backtick}    `$base/Scripts`{.backtick}           `$base/Python/Scripts`{.backtick}                      `$PYDIST_SCRIPTS`{.backtick}    `--install-scripts`{.backtick}
-  `$data`{.backtick}       `$base/Data`{.backtick}              `$base/Python/Python26`{.backtick}                     `$PYDIST_DATA`{.backtick}       `--install-data`{.backtick}
-  ------------------------ ------------------------------------ ------------------------------------------------------ ------------------------------- --------------------------------
-:::
+| Prefix identifier | Default value: Standard scheme | Default value: User scheme | Environment variable | Command line option |
+|---|---|---|---|---|
+| `$base` | `sys.prefix` | `os.environ.get('%APPDATA%')` | `$PYDIST_BASE` | `--prefix` |
+| `$platbase` | `sys.exec_prefix` | `os.environ.get('%APPDATA%')` | `$PYDIST_PLATBASE` | `--exec-prefix` |
+| `$purelib` | `$base/Python` | `$base/Python/PythonXY/site-packages` | `$PYDIST_PURELIB` | `--install-purelib` |
+| `$platlib` | `$platbase/Python` | `$platbase/Python/PythonXY/site-packages` | `$PYDIST_PLATLIB` | `--install-platlib` |
+| `$scripts` | `$base/Scripts` | `$base/Python/Scripts` | `$PYDIST_SCRIPTS` | `--install-scripts` |
+| `$data` | `$base/Data` | `$base/Python/Python26` | `$PYDIST_DATA` | `--install-data` |
 
 ##### mac
 

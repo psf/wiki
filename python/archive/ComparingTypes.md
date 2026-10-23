@@ -12,35 +12,61 @@ These two tables to show some *comparable* collection types when transfering fro
 
 This first table shows the python object you might use if you would have used the other object in a previous language.
 
-::: {}
-+-----------------------------------------------------------+
-| **Other Languages to Python**                             |
-+-----------------------------------------------------------+
-:::
+```{list-table}
+:header-rows: 1
 
-- ::: {}
-    ------------ --------- --------- ------- ------
-    python       php       Java      C/C++   perl
-    list         array\*   array     array   ?
-    dictionary   array     hashmap   map     ?
-    ------------ --------- --------- ------- ------
-  :::
+* - Other Languages to Python
+```
+
+- ```{list-table}
+
+  * - python
+    - php
+    - Java
+    - C/C++
+    - perl
+  * - list
+    - array\*
+    - array
+    - array
+    - ?
+  * - dictionary
+    - array
+    - hashmap
+    - map
+    - ?
+  ```
 
 \*php array is more like a dictionary, but it can have numeric keys.\
 \
 And conversly if you were to try and replace something in python you can use the following Objects to mimic the python one.
 
-::: {}
-+-----------------------------------------------------------+
-| **Python to other languages**                             |
-+-----------------------------------------------------------+
-:::
+```{list-table}
+:header-rows: 1
 
-- ::: {}
-    ------------- --------- ----------------------------------------------------------------- ------- ------
-    python        php       Java                                                              C/C++   perl
-    list          array\*   java.util.[ArrayList](./ArrayList.html)\<Object\>   array   ?
-    dictionary    array     [HashMap](./HashMap.html)\<Object,Object\>          Map     ?
-    array.array   ?         array                                                             array   ?
-    ------------- --------- ----------------------------------------------------------------- ------- ------
-  :::
+* - Python to other languages
+```
+
+- ```{list-table}
+
+  * - python
+    - php
+    - Java
+    - C/C++
+    - perl
+  * - list
+    - array\*
+    - java.util.[ArrayList](./ArrayList.html)\<Object\>
+    - array
+    - ?
+  * - dictionary
+    - array
+    - [HashMap](./HashMap.html)\<Object,Object\>
+    - Map
+    - ?
+  * - array.array
+    - ?
+    - array
+    - array
+    - ?
+  ```

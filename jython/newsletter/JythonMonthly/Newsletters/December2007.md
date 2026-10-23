@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  --------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ***Jython Monthly***                                                                ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **December 2007 \-- Issue #13**    ![](http://lh5.google.com/juneau001/R259iI_6Z_I/AAAAAAAABBE/QYoKXeM6Flc/s144/wreath_3.gif "http://lh5.google.com/juneau001/R259iI_6Z_I/AAAAAAAABBE/QYoKXeM6Flc/s144/wreath_3.gif")
-  --------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **December 2007 \-- Issue #13**
+  - ![](http://lh5.google.com/juneau001/R259iI_6Z_I/AAAAAAAABBE/QYoKXeM6Flc/s144/wreath_3.gif "http://lh5.google.com/juneau001/R259iI_6Z_I/AAAAAAAABBE/QYoKXeM6Flc/s144/wreath_3.gif")
+```
 
 There are a few good articles included in this month\'s newsletter. Rob Andrews has written another helpful article on Jython. There was an excellent article published on Javaworld regarding scripting on the Java platform. Lastly, there is a helpful article for those who are interested in using JavaFX with Jython.
 
@@ -75,14 +76,11 @@ Franklin Pierce was the first president to decorate an official White House Chri
 
 Electric Christmas lights were first used in 1854.
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  [Planet Jython](http://planet.jython.org/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |
+| [Planet Jython](http://planet.jython.org/) |

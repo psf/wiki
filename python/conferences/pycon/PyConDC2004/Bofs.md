@@ -14,27 +14,45 @@ BOFs will be held between 8pm and 11pm on Wednesday and Thursday (March 24 and 2
 
 Wednesday, March 24
 
-::: {}
-  ------- ------------------------------------------------- -------------------------------------
-  time    Room 1                                            Room2
-  6:30+   PBF Social at TGI Friday\'s (across the street)   
-  7pm                                                       [DistutilsBof](../../../packaging/DistutilsBof)
-  8pm     [QuixoteBof](../../../web/QuixoteBof)                   [DocutilsBof](../../../people/DocutilsBof)
-  9pm     [ChandlerBof](../../../people/ChandlerBof)                 
-  10pm                                                      
-  ------- ------------------------------------------------- -------------------------------------
-:::
+```{list-table}
+
+* - time
+  - Room 1
+  - Room2
+* - 6:30+
+  - PBF Social at TGI Friday\'s (across the street)
+  -
+* - 7pm
+  -
+  - [DistutilsBof](../../../packaging/DistutilsBof)
+* - 8pm
+  - [QuixoteBof](../../../web/QuixoteBof)
+  - [DocutilsBof](../../../people/DocutilsBof)
+* - 9pm
+  - [ChandlerBof](../../../people/ChandlerBof)
+  -
+* - 10pm
+  -
+  -
+```
 
 Thursday, March 25
 
-::: {}
-  ------ ----------------------------------- -------------------------------------------------
-  time   Room 1                              Room2
-  8pm    [GraphicsBof](../../../people/GraphicsBof)   [PyDotOrgBof](./PyDotOrgBof.html)
-  9pm    [DatabaseBof](../../../database/DatabaseBof)   [TeachingPythonBof](../../../education/TeachingPythonBof)
-  10pm   [WebSigBof](../../../archive/WebSigBof)       
-  ------ ----------------------------------- -------------------------------------------------
-:::
+```{list-table}
+
+* - time
+  - Room 1
+  - Room2
+* - 8pm
+  - [GraphicsBof](../../../people/GraphicsBof)
+  - [PyDotOrgBof](./PyDotOrgBof.html)
+* - 9pm
+  - [DatabaseBof](../../../database/DatabaseBof)
+  - [TeachingPythonBof](../../../education/TeachingPythonBof)
+* - 10pm
+  - [WebSigBof](../../../archive/WebSigBof)
+  -
+```
 
 Ed Ream was sick and cancelled the Leo BOF.
 

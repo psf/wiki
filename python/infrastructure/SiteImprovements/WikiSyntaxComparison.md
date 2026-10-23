@@ -10,21 +10,18 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 Courtesy of [RadomirDopieralski](http://moinmo.in/RadomirDopieralski "MoinMoin")\... (with editions)
 
-::: {}
-  ------------------------------------------------- ------------------------------------------------------------ --------------------------------------------- ---------------------------------------------
-  **[MoinMoin](MoinMoin) 1.5 and earlier**   **[MoinMoin](MoinMoin) 1.6 and later**                **Google Code**                               **Trac**
-  `WikiName`{.backtick}                             `WikiName`{.backtick}                                        `WikiName`{.backtick}                         `WikiName`{.backtick}
-  `http://example.com`{.backtick}                   `http://example.com`{.backtick}                              `http://example.com`{.backtick}               `http://example.com`{.backtick}
-  `["page name"]`{.backtick}                        `[[page name]]`{.backtick}                                   -no requests to add-                          wiki:\"page name\"
-  `[http://example.com link text]`{.backtick}       `[[http://example.com|link text]]`{.backtick}                `[http://example.com link text]`{.backtick}   `[http://example.com link text]`{.backtick}
-  `[:WikiName:link text]`{.backtick}                `[[WikiName|link text]]`{.backtick}                          `[WikiName link text]`{.backtick}             `[wiki:WikiName link text]`{.backtick}
-  `[:page name:link text]`{.backtick}               `[[page name|link text]]`{.backtick}                         -no need-                                     -no need-
-  `attachment:something.zip`{.backtick}             `[[attachment:something.zip]]`{.backtick}                    -no attachments-                              -full URL-
-  `image:something.png`{.backtick}                  `{{attachment:something.png}}`{.backtick}                    -URL ending in .gif, .png, .jpg-              `[[Image(something.png)]]`{.backtick}
-                                                    `[[page name|link text|additional parameters]]`{.backtick}                                                 
-                                                    `{{page name|link text|additional parameters}}`{.backtick}                                                 
-  ------------------------------------------------- ------------------------------------------------------------ --------------------------------------------- ---------------------------------------------
-:::
+| [MoinMoin](MoinMoin) 1.5 and earlier | [MoinMoin](MoinMoin) 1.6 and later | Google Code | Trac |
+|---|---|---|---|
+| `WikiName` | `WikiName` | `WikiName` | `WikiName` |
+| `http://example.com` | `http://example.com` | `http://example.com` | `http://example.com` |
+| `["page name"]` | `[[page name]]` | -no requests to add- | wiki:\"page name\" |
+| `[http://example.com link text]` | `[[http://example.com\|link text]]` | `[http://example.com link text]` | `[http://example.com link text]` |
+| `[:WikiName:link text]` | `[[WikiName\|link text]]` | `[WikiName link text]` | `[wiki:WikiName link text]` |
+| `[:page name:link text]` | `[[page name\|link text]]` | -no need- | -no need- |
+| `attachment:something.zip` | `[[attachment:something.zip]]` | -no attachments- | -full URL- |
+| `image:something.png` | `{{attachment:something.png}}` | -URL ending in .gif, .png, .jpg- | `[[Image(something.png)]]` |
+|  | `[[page name\|link text\|additional parameters]]` |  |  |
+|  | `{{page name\|link text\|additional parameters}}` |  |  |
 
 The rationale for the change is that links, apart from those in the `WikiName`{.backtick} and bare URL styles, end up with a uniform syntax, and the embedding of an object in the page is done by modifying the bracketing style. Previously, linking to a page in the same Wiki and using a label instead of the page name involved a relatively arcane syntax; this common case now fits in much better.
 

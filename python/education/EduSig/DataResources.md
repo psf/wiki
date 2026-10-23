@@ -74,11 +74,10 @@ Contributions are welcome but content listed here must be distributable under an
 
 ------------------------------------------------------------------------
 
-::: {}
-  ----------------
-  Suggestion Box
-  ----------------
-:::
+```{list-table}
+
+* - Suggestion Box
+```
 
 - world temperature measurements
 - distances between cities

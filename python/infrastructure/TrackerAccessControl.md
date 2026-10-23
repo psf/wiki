@@ -17,42 +17,169 @@ The permissions in the table are as follows:
 
 The classes can be roughly divided into enumerations (issue_type, severity, component, version, priority, status, resolution, keyword), content (issue, msg, file), and administration (user, query).
 
-::: {}
-  -------------------------- ----------- ------ ----------- -------------
-  Class.Field                Anonymous   User   Developer   Coordinator
-  issue_type                 R           R      R           RCE
-  severity                   R           R      R           RCE
-  component                  R           R      R           RCE
-  version                    R           R      R           RCE
-  priority                   R           R      R           RCE
-  status                     R           R      R           RCE
-  resolution                 R           R      R           RCE
-  keyword                    R           R      RCE         RCE
-  issue                      R           RC     RCE         RCE
-  file                       r           RC     RCE         RCE
-  msg                        r           RC     RCE         RCE
-  user                       C           Rv     Rv          RE
-  query                                  vCe    vCe         vCe
-  public query                           RC     RC          RC
-  issue.title                            E                  
-  issue.type                             E                  
-  issue.components                       E                  
-  issue.versions                         E                  
-  issue.severity                         E                  
-  issue.messages                         E                  
-  issue.files                            E                  
-  issue.nosy                             E                  
-  user.username                          e      e           
-  user.password                          e      e           
-  user.address                           e      e           
-  user.realname                          e      e           
-  user.phone                             e      e           
-  user.organization                      e      e           
-  user.alternate_addresses               e      e           
-  user.queries                           e      e           
-  user.timezone                          e      e           
-  -------------------------- ----------- ------ ----------- -------------
-:::
+```{list-table}
+
+* - Class.Field
+  - Anonymous
+  - User
+  - Developer
+  - Coordinator
+* - issue_type
+  - R
+  - R
+  - R
+  - RCE
+* - severity
+  - R
+  - R
+  - R
+  - RCE
+* - component
+  - R
+  - R
+  - R
+  - RCE
+* - version
+  - R
+  - R
+  - R
+  - RCE
+* - priority
+  - R
+  - R
+  - R
+  - RCE
+* - status
+  - R
+  - R
+  - R
+  - RCE
+* - resolution
+  - R
+  - R
+  - R
+  - RCE
+* - keyword
+  - R
+  - R
+  - RCE
+  - RCE
+* - issue
+  - R
+  - RC
+  - RCE
+  - RCE
+* - file
+  - r
+  - RC
+  - RCE
+  - RCE
+* - msg
+  - r
+  - RC
+  - RCE
+  - RCE
+* - user
+  - C
+  - Rv
+  - Rv
+  - RE
+* - query
+  -
+  - vCe
+  - vCe
+  - vCe
+* - public query
+  -
+  - RC
+  - RC
+  - RC
+* - issue.title
+  -
+  - E
+  -
+  -
+* - issue.type
+  -
+  - E
+  -
+  -
+* - issue.components
+  -
+  - E
+  -
+  -
+* - issue.versions
+  -
+  - E
+  -
+  -
+* - issue.severity
+  -
+  - E
+  -
+  -
+* - issue.messages
+  -
+  - E
+  -
+  -
+* - issue.files
+  -
+  - E
+  -
+  -
+* - issue.nosy
+  -
+  - E
+  -
+  -
+* - user.username
+  -
+  - e
+  - e
+  -
+* - user.password
+  -
+  - e
+  - e
+  -
+* - user.address
+  -
+  - e
+  - e
+  -
+* - user.realname
+  -
+  - e
+  - e
+  -
+* - user.phone
+  -
+  - e
+  - e
+  -
+* - user.organization
+  -
+  - e
+  - e
+  -
+* - user.alternate_addresses
+  -
+  - e
+  - e
+  -
+* - user.queries
+  -
+  - e
+  - e
+  -
+* - user.timezone
+  -
+  - e
+  - e
+  -
+```
 
 In addition, the following permissions are granted:
 

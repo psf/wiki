@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  ------------------------------ ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***            ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **August 2006 \-- Issue #2**   
-  ------------------------------ ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **August 2006 \-- Issue #2**
+  -
+```
 
 Welcome to the another issue of Jython Monthly. The content of this newsletter will focus on using and developing the Jython languge. I want to encourage the readers of Jython Monthly to send any articles, tips, tricks, or any other Jython related material to me if you think it should be distributed with this newsletter.
 
@@ -187,19 +188,13 @@ Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/
 
 ## Useful Links 
 
-::: {}
-  ----------------------------------------------------------------------------------------------------------------------------------
-  **Articles**
-  [Using Jython to Test Hibernate Criteria Queries](http://jroller.com/page/techkriti?entry=using_jython_to_test_hibernate)
-  ----------------------------------------------------------------------------------------------------------------------------------
-:::
+| Articles |
+|---|
+| [Using Jython to Test Hibernate Criteria Queries](http://jroller.com/page/techkriti?entry=using_jython_to_test_hibernate) |
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |

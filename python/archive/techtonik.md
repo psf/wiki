@@ -126,16 +126,13 @@ Dynamic data visualization examples:
 
 `Explicit is better than implicit.`{.backtick} doesn\'t apply to humans, apparently.
 
-::: {}
-  ---------------------------------------- --------------------------------------------- ---------------------------------------------------------------
-  **Explicit**                             **Implicit**                                  **Comment**
-  it\'s annoying, urgent, really serious   \--                                           humans don\'t like serious issues, remove
-  fix it ASAP                              \--                                           humans read it as a direct command, become aggravated, remove
-  you\'re wrong                            I\'m not sure that\'s a good idea             humans don\'t like to be wrong, become demotivated
-  X suxx                                   I think Y would be a better solution that X   humans attached to X don\'t like when X suxx, but may like Y
-  X suxx                                   X is great, but..                             humans attached to X may get outrageous to hear that X suxx
-  ---------------------------------------- --------------------------------------------- ---------------------------------------------------------------
-:::
+| Explicit | Implicit | Comment |
+|---|---|---|
+| it\'s annoying, urgent, really serious | \-- | humans don\'t like serious issues, remove |
+| fix it ASAP | \-- | humans read it as a direct command, become aggravated, remove |
+| you\'re wrong | I\'m not sure that\'s a good idea | humans don\'t like to be wrong, become demotivated |
+| X suxx | I think Y would be a better solution that X | humans attached to X don\'t like when X suxx, but may like Y |
+| X suxx | X is great, but.. | humans attached to X may get outrageous to hear that X suxx |
 
 ------------------------------------------------------------------------
 

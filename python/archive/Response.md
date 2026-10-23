@@ -16,18 +16,18 @@ Building **Response** object is a common way to return information from URL hand
 
 - webapp2/WebOb: [http://webapp-improved.appspot.com/api/webapp2.html#webapp2.Response](http://webapp-improved.appspot.com/api/webapp2.html#webapp2.Response)
 
-::: {}
-+:---------------------------------------------------------------------------------------------------------------:+:-----------------------------------:+
-| **Default Content-Type**                                                                                                                              |
-+-----------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| [Django](https://docs.djangoproject.com/en/1.7/ref/request-response/#django.http.HttpResponse.__init__) | text/html; charset=utf-8            |
-+-----------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| [Flask](http://flask.pocoo.org/docs/0.10/api/#response-objects)                                          | text/html; charset=utf-8            |
-+-----------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| [Bottle](http://bottlepy.org/docs/dev/tutorial.html#generating-content)                                  | ﻿text/html; charset=utf-8\           |
-|                                                                                                                 | application/json\                   |
-|                                                                                                                 | \<empty\>                           |
-+-----------------------------------------------------------------------------------------------------------------+-------------------------------------+
-| [webapp2/WebOb](http://webapp-improved.appspot.com/guide/response.html#guide-response)                   | ﻿﻿text/html; charset=utf-8            |
-+-----------------------------------------------------------------------------------------------------------------+-------------------------------------+
-:::
+```{list-table}
+
+* - **Default Content-Type**
+  -
+* - [Django](https://docs.djangoproject.com/en/1.7/ref/request-response/#django.http.HttpResponse.__init__)
+  - text/html; charset=utf-8
+* - [Flask](http://flask.pocoo.org/docs/0.10/api/#response-objects)
+  - text/html; charset=utf-8
+* - [Bottle](http://bottlepy.org/docs/dev/tutorial.html#generating-content)
+  - ﻿text/html; charset=utf-8\
+    application/json\
+    \<empty\>
+* - [webapp2/WebOb](http://webapp-improved.appspot.com/guide/response.html#guide-response)
+  - ﻿﻿text/html; charset=utf-8
+```

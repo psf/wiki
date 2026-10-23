@@ -8,10 +8,13 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## The No-fuss Guide to Building PyQt on Windows XP
 
-  --------- ------------------------------------------------------------------------------------------
-  Date:     2007-07-11
-  Author:   Martin Blais \<[blais@furius.ca](mailto:blais@furius.ca)\>
-  --------- ------------------------------------------------------------------------------------------
+  ```{list-table}
+
+  * - Date:
+    - 2007-07-11
+  * - Author:
+    - Martin Blais \<[blais@furius.ca](mailto:blais@furius.ca)\>
+  ```
 
 ::: 
 Abstract

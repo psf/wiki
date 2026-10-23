@@ -8,13 +8,12 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 ## Michael Leinartas 
 
-::: {}
-  ---------------------------------------------------------------------
-  Application Support/Release Engineer
-  Orbitz.com
-  [mleinartas@orbitz.com](mailto:mleinartas@orbitz.com)
-  gtalk: [mleinartas@gmail.com](mailto:mleinartas@gmail.com)
-  ---------------------------------------------------------------------
-:::
+```{list-table}
+
+* - Application Support/Release Engineer
+* - Orbitz.com
+* - [mleinartas@orbitz.com](mailto:mleinartas@orbitz.com)
+* - gtalk: [mleinartas@gmail.com](mailto:mleinartas@gmail.com)
+```
 
 [CategoryHomepage](CategoryHomepage)

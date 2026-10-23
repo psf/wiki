@@ -22,16 +22,11 @@ Nyttige udgangspunkter for udforskning af wiki:
 
 Her er en titelsøgning. Prøv f.eks. *administration*:
 
-- ::: {}
-  :::
+-
 
 Her er en fritekst-søgning.
 
-- ::: {}
-  \
-  ☒ Display context of search results\
-  ☐ Case-sensitive searching
-  :::
+-
 
 Du kan også bruge \"regulære udtryk\" (regex), f.eks.
 
@@ -39,7 +34,4 @@ Du kan også bruge \"regulære udtryk\" (regex), f.eks.
 
 Eller gå direkte til en side, eller oprette en ny side ved at indtaste dens navn her:
 
-- :::: {}
-  ::: {}
-  :::
-  ::::
+-

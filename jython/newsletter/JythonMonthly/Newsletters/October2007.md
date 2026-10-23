@@ -6,12 +6,13 @@
 This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
 ```
 
-::: {}
-  -------------------------------- ---------------------------------------------------------------------------------------------------
-  ***Jython Monthly***              ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
-  **October 2007 \-- Issue #11**   
-  -------------------------------- ---------------------------------------------------------------------------------------------------
-:::
+```{list-table}
+
+* - ***Jython Monthly***
+  - ![](http://www.jython.org/css/jython.png "http://www.jython.org/css/jython.png")
+* - **October 2007 \-- Issue #11**
+  -
+```
 
 There has been a lot going on since the last issue of Jython Monthly! My life events are oddly similar to those events which have taken place for Jython. As we all know, the excellent Jython developers have come together and brought us another rock solid release. Similarly, my wife and I had our third child this past summer and the new addition is doing great. Just as our third child has brought many changes and lots of new twists to our life, the release of Jython 2.2 brings forth many great additions and lots of repairs from the last release. I thank my wife for giving me a great family, they are lots of fun and make my life complete. All Jython users, including myself, thank the Jython developers for their time and efforts\...keep up the great work. The past five months have been great, but I am glad to have the opportunity to start this newsletter once again.
 
@@ -97,14 +98,11 @@ Jython - Average Job Salary & Stats in UK [http://www.itjobswatch.co.uk/jobs/uk/
 
 ## Useful Links 
 
-::: {}
-  ----------------------------------------------------------------
-  **Links**
-  [Jython Home](http://www.jython.org)
-  [Python Home](http://www.python.org)
-  [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython)
-  [Freshmeat.net](http://freshmeat.net/projects/jython/)
-  [Python Daily News](http://www.pythonware.com/daily/)
-  [Planet Jython](http://planet.jython.org/)
-  ----------------------------------------------------------------
-:::
+| Links |
+|---|
+| [Jython Home](http://www.jython.org) |
+| [Python Home](http://www.python.org) |
+| [Jython WikiPedia](http://en.wikipedia.org/wiki/Jython) |
+| [Freshmeat.net](http://freshmeat.net/projects/jython/) |
+| [Python Daily News](http://www.pythonware.com/daily/) |
+| [Planet Jython](http://planet.jython.org/) |
