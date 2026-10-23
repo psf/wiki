@@ -101,7 +101,6 @@ myst_heading_anchors = 0
 suppress_warnings = [
     "myst.header",
     "myst.xref_missing",
-    "myst.directive_unknown",
     "myst.substitution",
     "toc.not_readable",
     "toc.excluded",
