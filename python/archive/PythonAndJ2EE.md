@@ -52,43 +52,82 @@ Tag libraries provide a means of extending the \"vocabulary\" available in the f
 
 Many \*SP systems have been invented for Python. Indeed, there can be a certain amount of confusion about the number of distinct frameworks available and their relation to each other. For a comparable technology, however, one would look for support for clean interaction with application components (beans), support for the extension of the \"vocabulary\" provided through tag libraries, and the ability to embed presentation-oriented logic within resources in a similar fashion to that provided by scriptlets.
 
-+:-------------:+:---------------------------:+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| **Framework**                               | **Equivalent**                                                                                     | **Notes**                                                                                  |
-+---------------+-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| JSP           | mod_python                  | [Python Server Pages](http://www.modpython.org/live/current/doc-html/pyapi-psp.html)        |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Webware                     | [Python Server Pages](http://webware.sourceforge.net/Webware-0.8.1/PSP/Docs/index.html)     |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | [SkunkWeb](../people/SkunkWeb) | [STML](http://skunkweb.sourceforge.net/stmlrefer/)                                          |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Zope                        | DTML                                                                                               | Zope Page Templates (ZPT) is an alternative presentation technology                        |
-+---------------+-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| Beans         | mod_python                  | No apparent equivalent                                                                             |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Webware                     | No apparent equivalent                                                                             |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | [SkunkWeb](../people/SkunkWeb) | [:component:](http://skunkweb.sourceforge.net/stmlrefer/node25.html)                        |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Zope                        | DTML Methods?                                                                                      | ZPT uses a DOM-based model to access data, rather than a simple object-oriented approach   |
-+---------------+-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| Tag Libraries | mod_python                  | No apparent equivalent                                                                             |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Webware                     | No apparent equivalent                                                                             |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | [SkunkWeb](../people/SkunkWeb) | No apparent equivalent                                                                             |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Zope                        | Tags are implemented using Products                                                                | ZPT is not entirely compatible with the notion of tag libraries                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Spyce                       | [Spyce taglibs](http://spyce.sourceforge.net/doc-tag_new.html)                              |                                                                                            |
-+---------------+-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-| Scriptlets    | mod_python                  | Part of the core PSP functionality                                                                 |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Webware                     | Part of the core PSP functionality                                                                 |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | [SkunkWeb](../people/SkunkWeb) | Tags support control-flow concepts                                                                 |                                                                                            |
-|               +-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
-|               | Zope                        | Iteration is supported using DTML tags, and arbitrary presentation can be coded in the tag classes | ZPT provides DTML-style iteration and other elementary control-flow concepts are supported |
-+---------------+-----------------------------+----------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------+
+```{list-table}
+:header-rows: 1
+
+* - Framework
+  -
+  - Equivalent
+  - Notes
+* - JSP
+  - mod_python
+  - [Python Server Pages](http://www.modpython.org/live/current/doc-html/pyapi-psp.html)
+  -
+* -
+  - Webware
+  - [Python Server Pages](http://webware.sourceforge.net/Webware-0.8.1/PSP/Docs/index.html)
+  -
+* -
+  - [SkunkWeb](../people/SkunkWeb)
+  - [STML](http://skunkweb.sourceforge.net/stmlrefer/)
+  -
+* -
+  - Zope
+  - DTML
+  - Zope Page Templates (ZPT) is an alternative presentation technology
+* - Beans
+  - mod_python
+  - No apparent equivalent
+  -
+* -
+  - Webware
+  - No apparent equivalent
+  -
+* -
+  - [SkunkWeb](../people/SkunkWeb)
+  - [:component:](http://skunkweb.sourceforge.net/stmlrefer/node25.html)
+  -
+* -
+  - Zope
+  - DTML Methods?
+  - ZPT uses a DOM-based model to access data, rather than a simple object-oriented approach
+* - Tag Libraries
+  - mod_python
+  - No apparent equivalent
+  -
+* -
+  - Webware
+  - No apparent equivalent
+  -
+* -
+  - [SkunkWeb](../people/SkunkWeb)
+  - No apparent equivalent
+  -
+* -
+  - Zope
+  - Tags are implemented using Products
+  - ZPT is not entirely compatible with the notion of tag libraries
+* -
+  - Spyce
+  - [Spyce taglibs](http://spyce.sourceforge.net/doc-tag_new.html)
+  -
+* - Scriptlets
+  - mod_python
+  - Part of the core PSP functionality
+  -
+* -
+  - Webware
+  - Part of the core PSP functionality
+  -
+* -
+  - [SkunkWeb](../people/SkunkWeb)
+  - Tags support control-flow concepts
+  -
+* -
+  - Zope
+  - Iteration is supported using DTML tags, and arbitrary presentation can be coded in the tag classes
+  - ZPT provides DTML-style iteration and other elementary control-flow concepts are supported
+```
 
 ### Session Beans 
 

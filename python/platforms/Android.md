@@ -8,16 +8,49 @@ This page was migrated from the old MoinMoin-based wiki. Information may be outd
 
 There are several ways to use Python on Android. The following table summarizes those projects which are currently active:
 
-+:-----------------------------------------------------------------------------------------------------------------------------------------------------------------:+:-------------------:+:-------------------------------------------------------------------------------------:+:------------------:+:------------------------:+:----------------------------------------------------------------:+:------------------------------------------------------------------------------------------------:+:------------------:+:-------:+:---------------:+
-| **Project**                                                                                                                                                       | **General**                                                                                                 | **APIs**                                                                                                                                                                                                            | **Build**                                      |
-|                                                                                                                                                                   +---------------------+---------------------------------------------------------------------------------------+--------------------+--------------------------+------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+--------------------+---------+-----------------+
-|                                                                                                                                                                   | **Python versions** | **Google Play links**                                                                 | **User interface** | **Android APIs**         | **Call Python from Java**                                        | **Native Python packages**                                                                       | **Standalone APK** | **iOS** | **Desktop OSs** |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+---------------------------------------------------------------------------------------+--------------------+--------------------------+------------------------------------------------------------------+--------------------------------------------------------------------------------------------------+--------------------+---------+-----------------+
-| **[BeeWare](https://beeware.org)** is a toolkit for developing cross-platform apps with native user interfaces. Its Android support is based on Chaquopy. | 3.10 - 3.14         | None                                                                                  | Native Android     | All                      | [Yes](https://chaquo.com/chaquopy/doc/current/java.html) | [List](https://chaquo.com/pypi-13.1/)                                                    | Yes                | Yes     | Yes             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------+                     +---------------------------------------------------------------------------------------+                    |                          |                                                                  |                                                                                                  +--------------------+---------+-----------------+
-| **[Chaquopy](https://chaquo.com/chaquopy/)** is a plugin for Android Studio\'s Gradle-based build system.                                                 |                     | [Demo](https://play.google.com/store/apps/details?id=com.chaquo.python.demo3) |                    |                          |                                                                  |                                                                                                  | Yes                | No      | No              |
 ```{list-table}
+:header-rows: 2
 
+* - Project
+  - General
+  -
+  - APIs
+  -
+  -
+  -
+  - Build
+  -
+  -
+* -
+  - Python versions
+  - Google Play links
+  - User interface
+  - Android APIs
+  - Call Python from Java
+  - Native Python packages
+  - Standalone APK
+  - iOS
+  - Desktop OSs
+* - **[BeeWare](https://beeware.org)** is a toolkit for developing cross-platform apps with native user interfaces. Its Android support is based on Chaquopy.
+  - 3.10 - 3.14
+  - None
+  - Native Android
+  - All
+  - [Yes](https://chaquo.com/chaquopy/doc/current/java.html)
+  - [List](https://chaquo.com/pypi-13.1/)
+  - Yes
+  - Yes
+  - Yes
+* - **[Chaquopy](https://chaquo.com/chaquopy/)** is a plugin for Android Studio\'s Gradle-based build system.
+  -
+  - [Demo](https://play.google.com/store/apps/details?id=com.chaquo.python.demo3)
+  -
+  -
+  -
+  -
+  - Yes
+  - No
+  - No
 * - **[Kivy](https://kivy.org/docs/guide/android.html)** is a cross-platform OpenGL-based user interface toolkit.
   - 2.7, 3.5, 3.6
   - [Demo](https://play.google.com/store/apps/details?id=org.kivy.showcase)

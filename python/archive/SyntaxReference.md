@@ -321,12 +321,12 @@ object
     ||<-2> cell spanning 2 columns ||
     ||||use empty cells as a shorthand ||
 
-+:--------------------:+--------------------------------------:+
-| cell spanning 2 rows | cell in the 2nd column                |
-|                      +---------------------------------------+
-|                      | cell in the 2nd column of the 2nd row |
 ```{list-table}
 
+* - cell spanning 2 rows
+  - cell in the 2nd column
+* -
+  - cell in the 2nd column of the 2nd row
 * - cell spanning 2 columns
   -
 * - use empty cells as a shorthand
@@ -339,13 +339,18 @@ object
     ||<)> right ||
     ||<(> left ||
 
-+:--------------:+:-----------------:+:-----------------:+
-| top (combined) | center (combined) | bottom (combined) |
-|                +-------------------+                   |
-|                | right             |                   |
-|                +-------------------+                   |
-|                | left              |                   |
-+----------------+-------------------+-------------------+
+```{list-table}
+
+* - top (combined)
+  - center (combined)
+  - bottom (combined)
+* -
+  - right
+  -
+* -
+  - left
+  -
+```
 
 ### Coloured Table Cells 
 
@@ -368,12 +373,12 @@ object
     ||<bgcolor="#00FF00"> like <#00FF00> ||
     ||<colspan="2"> like <-2>||
 
-+------------------+--------------+
-| A                | like \<\|2\> |
-+------------------+              |
-| like \<#00FF00\> |              |
 ```{list-table}
 
+* - A
+  - like \<\|2\>
+* - like \<#00FF00\>
+  -
 * - like \<-2\>
   -
 ```

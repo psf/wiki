@@ -42,52 +42,64 @@ Starship.python.net is a machine hosted by Stefan Drees in a datacenter in Germa
 
 1.  Keep the current server in the current datacenter.
 
-      ------- -----------------------------------------------------------------------
-      Pros:   No work to do, except for collecting the money.
-      Cons:   Expensive (149 EUR/month) minus the part contributed by Stefan Drees.
-      ------- -----------------------------------------------------------------------
+    ```{list-table}
+
+    * - Pros:
+      - No work to do, except for collecting the money.
+    * - Cons:
+      - Expensive (149 EUR/month) minus the part contributed by Stefan Drees.
+    ```
 
 2.  Get a cheaper (but much better!) dedicated server in the current datacenter.
 
-    +------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Details:               | 69 EUR/month will get us a CPU AMD Athlon 64 3000+, 1 GB RAM, 2 x 80 GB hard disc (RAID1), 80 GB ftp-based backup space, unlimited traffic via 100 Mbit/s, GeoTrust Inc. SSL certificate, with an additional Cisco-based firewall. |
-    +------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Questions and proposed answers/alternatives:                                                                                                                                                                                                                |
-    +------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    |                        | - How will we pay for it? PSF or individuals                                                                                                                                                                                       |
-    |                        | - Who will receive payment? Stefan Drees as partial refund.                                                                                                                                                                        |
-    |                        | - Who is responsible for paying the bills? Stefan Drees, like before.                                                                                                                                                              |
-    +------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Pros:                  | No unknowns.                                                                                                                                                                                                                       |
-    +------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-    | Cons:                  | Payment logistics (see Questions above).                                                                                                                                                                                           |
-    +------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    ```{list-table}
+
+    * - Details:
+      - 69 EUR/month will get us a CPU AMD Athlon 64 3000+, 1 GB RAM, 2 x 80 GB hard disc (RAID1), 80 GB ftp-based backup space, unlimited traffic via 100 Mbit/s, GeoTrust Inc. SSL certificate, with an additional Cisco-based firewall.
+    * - Questions and proposed answers/alternatives:
+      -
+    * -
+      -
+        - How will we pay for it? PSF or individuals
+        - Who will receive payment? Stefan Drees as partial refund.
+        - Who is responsible for paying the bills? Stefan Drees, like before.
+    * - Pros:
+      - No unknowns.
+    * - Cons:
+      - Payment logistics (see Questions above).
+    ```
 
     A \"show of hands\" survey on the crew member\'s list showed that many members would be willing to pay for the starship\'s upkeep, certainly enough to cover the monthly cost.
 
 3.  Host with XS4ALL on a python.org machine, such as MacTeagle.
 
-    +------------+---------------------------------------------+
-    | Questions: | - Is XS4ALL *willing* to host the starship? |
-    |            | - Is there a machine available?             |
-    +------------+---------------------------------------------+
-    | Pros:      | Potentially free.                           |
-    +------------+---------------------------------------------+
-    | Cons:      | Unknowns (see questions above).             |
-    +------------+---------------------------------------------+
+    ```{list-table}
+
+    * - Questions:
+      -
+        - Is XS4ALL *willing* to host the starship?
+        - Is there a machine available?
+    * - Pros:
+      - Potentially free.
+    * - Cons:
+      - Unknowns (see questions above).
+    ```
 
 4.  Host elsewhere.
 
     - [http://python-hosting.com](http://python-hosting.com)
-      +------------+-----------------------------------------------------------------------------------------------------------------+
-      | Questions: | - Are they willing to host the starship?                                                                        |
-      |            | - At what cost?                                                                                                 |
-      |            | - With what functionality? (We\'d need more than the \"free Trac & SVN\" they provide to open-source projects.) |
-      +------------+-----------------------------------------------------------------------------------------------------------------+
-      | Pros:      | Potentially free.                                                                                               |
-      +------------+-----------------------------------------------------------------------------------------------------------------+
-      | Cons:      | Unknowns (see questions above).                                                                                 |
-      +------------+-----------------------------------------------------------------------------------------------------------------+
+      ```{list-table}
+
+      * - Questions:
+        -
+          - Are they willing to host the starship?
+          - At what cost?
+          - With what functionality? (We\'d need more than the \"free Trac & SVN\" they provide to open-source projects.)
+      * - Pros:
+        - Potentially free.
+      * - Cons:
+        - Unknowns (see questions above).
+      ```
     - Alternatives?
 :::
 

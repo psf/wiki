@@ -210,47 +210,29 @@ If an object does not define its own format specifiers, a standard set of format
 
   The available integer presentation types are:
 
-  > ------------------------------------------------------------------------------------------------------
-  >   Type    Meaning
-  >   ------- ----------------------------------------------------------------------------------------------
-  >   \'b\'   Binary. Outputs the number in base 2.
-  >
-  >   \'c\'   Character. Converts the integer to the corresponding Unicode character before printing.
-  >
-  >   \'d\'   Decimal Integer. Outputs the number in base 10.
-  >
-  >   \'o\'   Octal format. Outputs the number in base 8.
-  >
-  >   \'x\'   Hex format. Outputs the number in base 16, using lower- case letters for the digits above 9.
-  >
-  >   \'X\'   Hex format. Outputs the number in base 16, using upper- case letters for the digits above 9.
-  >
-  >   None    the same as \'d\'
-  >   ------------------------------------------------------------------------------------------------------
+  | Type | Meaning |
+  |---|---|
+  | \'b\' | Binary. Outputs the number in base 2. |
+  | \'c\' | Character. Converts the integer to the corresponding Unicode character before printing. |
+  | \'d\' | Decimal Integer. Outputs the number in base 10. |
+  | \'o\' | Octal format. Outputs the number in base 8. |
+  | \'x\' | Hex format. Outputs the number in base 16, using lower- case letters for the digits above 9. |
+  | \'X\' | Hex format. Outputs the number in base 16, using upper- case letters for the digits above 9. |
+  | None | the same as \'d\' |
 
   The available presentation types for floating point and decimal values are:
 
-  > --------------------------------------------------------------------------------------------------------------------------------------------------
-  >   Type    Meaning
-  >   ------- ------------------------------------------------------------------------------------------------------------------------------------------
-  >   \'e\'   Exponent notation. Prints the number in scientific notation using the letter \'e\' to indicate the exponent.
-  >
-  >   \'E\'   Exponent notation. Same as \'e\' except it uses an upper case \'E\' as the separator character.
-  >
-  >   \'f\'   Fixed point. Displays the number as a fixed-point number.
-  >
-  >   \'F\'   Fixed point. Same as \'f\'.
-  >
-  >   \'g\'   General format. This prints the number as a fixed-point number, unless the number is too large, in which case it switches to \'e\'.
-  >
-  >   \'G\'   General format. Same as \'g\' except switches to \'E\' if the number gets to large.
-  >
-  >   \'n\'   Number. This is the same as \'g\', except that it uses the current locale setting to insert the appropriate number separator characters.
-  >
-  >   \'%\'   Percentage. Multiplies the number by 100 and displays in fixed (\'f\') format, followed by a percent sign.
-  >
-  >   None    the same as \'g\'
-  >   --------------------------------------------------------------------------------------------------------------------------------------------------
+  | Type | Meaning |
+  |---|---|
+  | \'e\' | Exponent notation. Prints the number in scientific notation using the letter \'e\' to indicate the exponent. |
+  | \'E\' | Exponent notation. Same as \'e\' except it uses an upper case \'E\' as the separator character. |
+  | \'f\' | Fixed point. Displays the number as a fixed-point number. |
+  | \'F\' | Fixed point. Same as \'f\'. |
+  | \'g\' | General format. This prints the number as a fixed-point number, unless the number is too large, in which case it switches to \'e\'. |
+  | \'G\' | General format. Same as \'g\' except switches to \'E\' if the number gets to large. |
+  | \'n\' | Number. This is the same as \'g\', except that it uses the current locale setting to insert the appropriate number separator characters. |
+  | \'%\' | Percentage. Multiplies the number by 100 and displays in fixed (\'f\') format, followed by a percent sign. |
+  | None | the same as \'g\' |
 
   Integer example:
 

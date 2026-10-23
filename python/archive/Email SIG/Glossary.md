@@ -39,9 +39,10 @@ NOTE: this is a proposed draft, not a final document!
 
 :   Data in the form it enters the email module parser, or exits the email module generator (primarily the former). [\[\*\]](#id2) A related term is \'wire-format\', the difference being that wire-format data is understood to be RFC conformant. Raw data may or may not be RFC conformant, and may or may not be bytes (if, for example, it comes from a doctest or other text input source).
 
-      ----------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      [\[\*\]](#id1)   Note that in the past this term has been used ambiguously to also refer to the original source data that was transfer-encoded into the form that is the actual raw data that the email module deals with.
-      ----------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    ```{list-table}
+    * - [\[\*\]](#id1)
+      - Note that in the past this term has been used ambiguously to also refer to the original source data that was transfer-encoded into the form that is the actual raw data that the email module deals with.
+    ```
 
 **string**
 :   python3 unicode string
