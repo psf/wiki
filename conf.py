@@ -162,9 +162,9 @@ html_theme_options = {
             ],
         },
     ],
-    "open_in_chatgpt": True,
-    "open_in_claude": True,
-    "open_in_perplexity": True,
+    "open_in_chatgpt": False,
+    "open_in_claude": False,
+    "open_in_perplexity": False,
 }
 
 
