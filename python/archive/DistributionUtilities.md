@@ -22,6 +22,39 @@ The following projects support the production of executable application from Pyt
   - Latest update date
   - Latest version
   - Notes
+* - [Freeze](../archive/Freeze)
+  - Python 2 & ( [3 when fixed](http://bugs.python.org/issue16047))
+  - Varies by python version
+  - Varies by python version
+  - Bundled with Python in the \"Tools\" Directory as **freeze.py** allows building executables (Unix-only?)
+* - [py2exe](http://www.py2exe.org/)
+  - Python 3.10+
+  - 2026-06-21
+  - 0.14.2.0
+  - Transform Python scripts into standalone Windows executable. See [py2exe](../platforms/Py2Exe)
+* - [PyInstaller](http://www.pyinstaller.org/)
+  - Python 2
+  - 2026-09-12
+  - 6.22.3
+  - Derived from McMillan\'s installer
+* - [pyarmor](https://pypi.python.org/pypi/pyarmor/)
+  - Python 3.7+
+  - 2026-10-22
+  - 9.2.8
+  - Obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts
+```
+
+The following projects are assumed to no longer be maintained.
+
+
+```{list-table}
+:header-rows: 1
+
+* - Package
+  - Target
+  - Latest update date
+  - Latest version
+  - Notes
 * - [bbfreeze](http://pypi.python.org/pypi/bbfreeze/)
   - Python 2
   - 2014-01-20
@@ -29,8 +62,8 @@ The following projects support the production of executable application from Pyt
   - Create standalone executables from python scripts
 * - [esky](http://pypi.python.org/pypi/esky/)
   - Python 2 & 3
-  - 2013-03-27
-  - 0.9.8
+  - 2015-09-24
+  - 0.9.9
   - An auto-update framework built on top of bbfreeze
 * - [cx Freeze](http://www.python.net/crew/atuining/cx_Freeze/)
   - Python 2
@@ -42,16 +75,6 @@ The following projects support the production of executable application from Pyt
   - 2004-10-12
   - 1.2
   - Creates EXE loaders for Python scripts (for Windows)
-* - [Freeze](../archive/Freeze)
-  - Python 2 & ( [3 when fixed](http://bugs.python.org/issue16047))
-  - Varies by python version
-  - Varies by python version
-  - Bundled with Python in the \"Tools\" Directory as **freeze.py** allows building executables (Unix-only?)
-* - [py2exe](http://www.py2exe.org/)
-  - Python 2
-  - 2008-11-16
-  - 0.6.9
-  - Transform Python scripts into standalone Windows executable. See [py2exe](../platforms/Py2Exe)
 * - [py2app](http://undefined.org/python/#py2app)
   - Python 2 & 3
   - 2014-02-06
@@ -62,21 +85,11 @@ The following projects support the production of executable application from Pyt
   - 2003-06-04
   - 5b5_4
   - Includes notes about (other) distributing solutions
-* - [PyInstaller](http://www.pyinstaller.org/)
-  - Python 2
-  - 2013-09-18
-  - 2.1
-  - Derived from McMillan\'s installer
 * - [Signet](http://jamercee.github.io/signet/)
   - Python 2
-  - 2014-07-28
-  - 1.0.10
+  - 2020-06-19
+  - 3.0.2
   - Signet is a distutils extension for creating tamper resistant python, while still distributing python code.
-* - [pyarmor](https://pypi.python.org/pypi/pyarmor/)
-  - Python 2 & 3
-  - 2018-10-29
-  - 4.1.4
-  - Obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts
 ```
 
 ### Installers 
