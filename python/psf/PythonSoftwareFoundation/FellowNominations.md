@@ -1,24 +1,331 @@
-# Python Software Foundation / Fellow Nominations
-
-```{admonition} Legacy Wiki Page
-:class: note
-
-This page was migrated from the old MoinMoin-based wiki. Information may be outdated or no longer applicable. For current documentation, see [python.org](https://www.python.org).
-```
-
-## PSF Fellow Nominations 
+# PSF Fellow Nominations
 
 PSF Fellow Nominations are added to this page. Please send your nomination to [psf-fellow@python.org](mailto:psf-fellow@python.org) .
 
 More info about the nomination process can be found here: [https://www.python.org/psf/fellows/](https://www.python.org/psf/fellows/)
 
-### Nominations 
-
-Please add new nominations here and also post them to the psf-members mailing list.
+## Nominations 
 
 #### Example Entry: Joe User 
 
 I, John Doe, propose that Joe User be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a co-founder of the [PyCon](../../conferences/pycon/PyCon) Foobar regional conference, a lead organizer for the 2011 and 2012 editions of the Marsian Python community\'s flagship Python conference, [MarsPython](./MarsPython.html) and as a long-term contributor to international collaborative efforts amongst the Marsian Python community.
+
+### 2026 Q1 Nominations
+
+#### Dhyey Mavani 
+
+I, Pratik Dixit, nominate Dhyey Mavani for recognition as a Fellow of the Python Software Foundation due to his sustained and high impact contributions to the Python ecosystem through open source engineering, documentation, and community enablement.
+
+Why Dhyey meets the PSF Fellow criteria:
+
+Widely used Python ecosystem contributions with strong engineering quality
+Dhyey has created and maintains multiple Python packages and research grade tools that make advanced methods accessible to practitioners and students. These projects include well documented APIs, reproducible benchmarking, and ongoing maintenance and iteration. His work demonstrates technical excellence and strong software engineering practices, achieving meaningful usage within the community.
+
+Examples of his Python contributions include:
+CCRVAM, the first-ever Python package for model-free exploratory analysis of multivariate discrete data using discrete copula methods, was released publicly and garnered over 30,000 downloads in a few months.
+ChipFiring, the first-ever Python package for efficient analysis and simulation of chip firing dynamics on multigraphs, supporting mathematical and applied research workflows. It has garnered over 7,000 downloads, which is significant for such a niche package.
+QuantileFlow, a unified Python quantile sketching framework for tail latency estimation, includes an optimized Python implementation that outperforms DataDog's official Python package implementation by 44%.
+
+Documentation, teaching, and enablement for Python users
+Beyond code, Dhyey consistently turns complex technical work into clear explanations and practical resources for others, including students and early career engineers. He has a demonstrated track record of mentoring and teaching, and he has built educational resources that lower the barrier to entry for Python based data and systems work, aligning with the PSF goal of growing and strengthening the Python community. Concrete examples include deployed documentation for each of the packages above via readthedocs.io. He is also a thought leader in the AI community through technical writing and public education, with articles in major trade media outlets including VentureBeat, LeadDev, and DZone, and broader features such as Business Insider. More information is available at linkedin.com/in/dhyey-mavani.
+
+Community minded leadership and positive culture
+Dhyey is an active collaborator who shares knowledge generously, supports peers, and contributes with a constructive, community first mindset. In my experience working with him, he consistently raised the bar for clarity, rigor, and inclusivity in technical discussions and project execution. He sets a strong example of the professional conduct we aspire to in the Python community.
+
+He also drove Python adoption at Amherst College by establishing the engineering organization for the Ideas 2 Innovation venture accelerator and growing it to 50 people. Under his leadership, the group developed and deployed scalable Python based applications using Django, pytest, scikit learn, and matplotlib. Notable projects that saw campus and broader adoption include Amherst Connect, Amherst Coursework, and MatPlus. These projects are available at github.com/ac-i2i-engineering.
+
+Finally, as president of the Amherst Quant Finance Club, he helped establish an Amherst quant competition involving trading simulations in Python, further increasing Python’s reach among students. He also contributed to improvements to niche packages such as CVXPortfolio through the group’s research engineering efforts in ConvexTrader (acquantclub.com/ConvexTrader/).
+
+#### El-Karece Asiedu
+*Selected in Q1 of 2026*
+
+I, Abigail Mesrenyame Dogbe, am pleased to nominate El-Karece Asiedu for recognition of her impactful contributions to the Python Software Community. 
+
+As the User Group Lead for Python Ghana, El-Karece has contributed to the growth and development of the Python Accra community, building a dedicated team of eight core members and expanding the community to over 350 active participants. Under her leadership, the group organized numerous impactful events, including webinars, in-person build sessions, technical talks, and beginner-friendly training programs that introduced participants to Python and diverse career pathways. Her work has been well documented through community blogs and recorded sessions, demonstrating both transparency and a commitment to knowledge sharing. Below are a couple of documentation showing her work and impact:
+1. Python for beginner webinar: https://blog.pythonghana.org/everything-python-beginner-friendly-edition
+2. AI-Powered Growth: Leveraging Python/Django for Personal and Business Success: https://blog.pythonghana.org/ai-powered-growth-leveraging-pythondjango-for-personal-and-business-success
+3. Python Accra Meetup: https://blog.pythonghana.org/python-accra-meetup-0823
+
+Beyond local community building, El-Karece has contributed significantly to the broader Python ecosystem. She volunteered at PyCon Ghana 2022, mentored participants at the Humble Data Workshop, and served as part of the Local Organizing Committee for PyCon Africa 2024 in Ghana. She also took on communications leadership roles, serving as Communications Lead for PyCon Africa 2024 and contributing to the PyCon Africa 2025 communications team through social media and outreach efforts. Through sustained leadership, mentorship, content creation, and event organization, El-Karece has strengthened Python’s presence in Ghana and across Africa, encouraging inclusive access, technical growth, and long-term community engagement.
+
+#### (James) Kanin Kearpimy
+*Selected in Q1 of 2026*
+
+I, Gatuk Sudarat Chattanon, propose (James) Kanin Kearpimy for being recognized as Fellow of Python Software Foundation. James is co-chair of PyCon Thailand 2023 - 2025. After a big pause of PyCon Thailand due to pandemic in 2020, He reinitiated it back from group up with almost new team members. He sparked the momentum back by collaborating with over 10+ local python communities in Thailand. Now, James is going to be advisor of the new PyCon Thailand 2026 - 2027 organization team. 
+ 
+Moreover, James is often involved in international python communities. He is call-for-proposal reviewer of PyCon APAC 2025, and PyCon US 2024. James also empowers inclusiveness and diversity. He is a big supporter of PyLadies 2024 - 2025. He, moreover, concentrates on sustainability of the PyCon Thailand community. James also loves Python internally, in particular CPython. He often hosts talks and workshops on CPython such as “CPython JIT: The mystery as all we know”.
+ 
+I strongly believe that his contribution is significant in both local and international Python communities and this recognition will strengthen the Python contributor community in Thailand as he will be the first group of Thai PSF Fellow.
+
+
+#### Jonas Obrist
+*Selected in Q1 of 2026*
+
+I, Kwon-Han Bae, am pleased to nominate Jonas Obrist for recognition as a Python Software Foundation Fellow.
+
+Jonas has made sustained, high-impact contributions to the Python community across governance, conference service, inclusion efforts, and open source work.
+
+Key contributions include:
+
+- Board member, PyCon JP Association (2019–present), supporting long-term organizational continuity.
+- Extensive international conference contribution across five continents as organizer, speaker, volunteer, attendee, and sponsor.
+Conference leadership as chairperson/organizer of DjangoCon Europe 2012.
+- Repeated volunteer service at PyCon JP (multiple years, 2016–2025) and PyCon US 2023.
+- Inclusion and accessibility advocacy at PyCon JP for non-Japanese speakers and international participants.
+- Regional community support as MC for two Python Asia Organization Charity Talk events (2025 H1, 2025 H2).
+- Open source leadership, including years as lead maintainer of django CMS and ongoing work encouraging open source and community participation.
+- Prior recognition by the Django Software Foundation (2012) as one of the first two non core-committer Individual Members.
+
+Jonas consistently demonstrates the values the PSF Fellow program recognizes: long-term volunteer service, inclusive community-building, and meaningful impact. I strongly support his nomination.
+
+#### Kristen McIntyre
+*Selected in Q1 of 2026*
+
+We, Jon Banafato and Elaine Wong, nominate Kristen McIntyre to be
+recognized as a Fellow of the Python Software Foundation for her service
+as a Posters Co-Chair and Chair for PyCon US since 2019
+(https://us.pycon.org/2019/about/staff/,
+https://us.pycon.org/2026/about/support/).
+
+#### Phebe Polk
+*Selected in Q1 of 2026*
+
+I, James Abel, propose that Phebe Polk be recognized as a PSF Fellow in recognition of her extraordinary leadership in the Python community, as evidenced by:
+
+- Creating the infrastructure of the Bay Area Python Association (BAPyA, https://www.bapya.org/), unifying the work of the San Francisco and Silicon Valley Python Communities, and bringing these  efforts under the PSF for support and fiscal transparency
+- Chaired PyBay 2023 and has been an organizer every year since.
+- Co-organizing SF Python meetup since 2023.
+- Presenting at regional conferences and meetups such as PyCon JP 2022 (“Building Pytest Plugins”) and Pyninsula meetup.
+- Co-led BayPiggies (Bay Area Python Interest Group) meetup, facilitating the return to post-pandemic in-person events in 2023, including sourcing hosting locations.
+
+Under her co-leadership, SF Python meetup engages members in monthly events. Likewise, the PyBay conference she organized in 2023 draws hundreds of attendees annually and has just passed its 10th anniversary.  Phebe was directly responsible for recruiting, training, and coordinating dozens of volunteers for these events. Finally, in her leadership role as BAPyA Treasurer, Phebe ensures transparent and sustainable support for regional groups and meetups. Her commitment and tenure (multiple years of sustained involvement) have led to substantial community growth and event excellence.
+
+Phebe’s impact extends beyond raw numbers. She actively mentors new organizers and speakers, fostering inclusivity and knowledge transfer. She helped SF Python and PyBay recover from the pandemic by recruiting new volunteers and ensuring documentation of processes, making our community’s efforts reproducible year over year. She also advocates strongly for community needs — for instance, proposing improvements in membership and sponsorship infrastructure. She also actively engages with Python community organizers and Python conference organizers in other areas of the country, ensuring that the enormous SF Bay Area Python community is using best practices.
+
+Phebe fully embodies the PSF’s expectation that a Python Fellow produces “long-lasting and substantial gains in the number and quality of Python users”. Phebe’s leadership has tangibly expanded our regional community and inspired countless contributors.
+
+In summary, Phebe Polk’s roles (conference co-chair, meetup co-organizer, association treasurer), measurable outcomes (membership, attendance, volunteer engagement) and long duration of service make her an excellent candidate for PSF Fellow. Thank you for your consideration.
+
+----- 
+
+I, Chris Brousseau, have known Phebe for a decade and she has consistently been the most active driver of leadership recruiting in the Bay Area Python community - where she has been active for about a decade.  As Chair of PyBay 2023 and a continuing organizer, co-organizer of SF Python, and co-leader of BayPiggies during its return to in-person events, she has played a central role in rebuilding and expanding the Bay Area Python ecosystem.  Her energy and time devoted is inspiring, and one of the reasons I love this community.  I fully support Phebe Polk’s nomination as Python Software Foundation Fellow.
+
+------
+
+I, Karen Dalton, fully support the nomination of Phebe Polk to be a Python Software Foundation Fellow. She has worked tirelessly over the past several years to support the rich and nuanced work of the San Francisco and Silicon Valley Python Community, which we typically call the SF Bay Area. She originally envisioned and made real the Bay Area Python Association to support the work of our SF Bay Area Meetups (SF Python, Peninsula, and BayPiggies) and our annual conference PyBay. Not only did our separate meetup group efforts become more coordinated and fiscally transparent as a result (in accordance with our open-source mentality and non-profit status), but the SF Bay Area community Python leaders are now communicating and collaborating more than ever before. On a personal note, when BayPIGgies lost our primary corporate host location for our meetups due to the pandemic, Phebe heroically found a location for us in 2023. We had our first in person meeting again after the pandemic due to her work. It is just one of many things she has done for our community. But it was so joyful to be back with our Python colleagues in person again. It shows so much of what she brings to Python: hard work, connection, collaboration, and more for the programming language we love.  From the heart, Phebe Polk deserves to be a Python Software Foundation Fellow.
+
+#### Philippe Gagnon
+*Selected in Q1 of 2026*
+
+We, Jon Banafato and Elaine Wong, nominate Philippe Gagnon to be
+recognized as a Fellow of the Python Software Foundation for his work as
+the Program Committee Chair for PyCon US since 2020
+(https://us.pycon.org/2020/about/staff/,
+https://us.pycon.org/2026/about/support/).
+
+#### Randeep Singh
+
+I, Motilal Nayak, would like to nominate Randeep Singh for Python Software Foundation Fellow membership in recognition of sustained, high‑impact technical and community contributions to the Python ecosystem.
+
+Because of Randeep’s outstanding contributions to the software field in general, he was elevated to the IEEE Senior member grade in Sept 2025 and was also granted Fellow IETE (The Institution of Electronics and Telecommunication Engineers) membership recently.
+
+Randeep has led multiple large‑scale healthcare (for Blue Cross Blue Shield, top US payer covering 1 in 3 Americans) data and interoperability platforms built in Python (some of the libraries used in most of these solutions are petl, pandas, numpy, json etc.), along with some reporting tools, including:
+
+A Master Member Index (MMI) used to unify and match over 130 million member records across 35+ Blue Cross Blue Shield (BCBS) entities, significantly improving data quality, patient matching, and care coordination with this data interoperability solution. This work and Randeep’s contributions were recognised by BCBSA CEO with President’s Award in 2020, the highest honor conferred upon best teams delivering highest impact solutions. This work received external recognition for BCBSA with articles in HealthcareITNews & DistilInfo  
+    A HEDIS (Healthcare Effectiveness Data and Information Set) measurement implementation in Python that supports large‑scale quality of care reporting, enabling more accurate, timely measurement of clinical performance for driving over $350 million annual bonus payout to 35+ independent Blue Cross Blue Shield (BCBS) companies. Randeep’s contributions were recognised by the BCBSA CEO with another President’s Award in 2021.
+    The Care Coordination 360 (CC360) platform, a Python‑based solution that integrates predictive analytics, care management workflows, and multi‑channel outreach to support early intervention and ongoing management for chronic and rare conditions. Randeep received multiple Value awards, highest being from BCBSA Executive Director and Business Partner for his outstanding contributions for this work from 2022-2025.
+    Earlier in his career Randeep helped build Automated Production batch monitoring utility for Allstate Insurance Data Warehouse (ADW), which helped operations teams proactively identify long running jobs so remediation steps could be taken in timely manner to avoid costly batch cycles delays which directly impacted business users reporting for premiums, marketing, quotes etc. Considering there were 20,000+ jobs running in the nightly batch; this has a huge impact on data availability for business users. For this innovative solution Randeep was awarded Syntel CEO’s Smart Value award in the year 2011, which is 1 of 5 such awards given annually among 20000+ employees.
+
+These systems are enterprise‑critical, directly affecting health outcomes and cost stewardship for millions of members. Randeep has consistently advocated for Python as the core implementation language, demonstrating that Python can successfully support mission‑critical, high‑volume healthcare workloads.
+
+Beyond technical delivery, Randeep has made substantial community and educational contributions:
+
+- Mentoring multiple technical teams, helping engineers and analysts develop strong Python, data engineering, and architectural skills, and fostering a culture of clean, maintainable Python practices.
+- Volunteering as a mentor for Network For Teaching Entrepreneurship (NFTE) a Global Innovation program, using Python and computational thinking to support youth and emerging entrepreneurs in building practical, technology‑enabled solutions.
+- Providing technical feedback on Python‑related publications for BPB Publications as volunteer reviewer, improving the quality, accuracy, and accessibility of Python learning materials for a global audience.
+- Volunteering to provide technical feedback on Natural Language Processing & Python related publications for Orange Ava Publications, helping advance Python & NLP learning.
+- Serving as a volunteer technical reviewer for Journal of Managed Care & Specialty Pharmacy (JMCP) a medical journal with an impact factor of 2.35. Randeep reviewed their research papers from top researchers for Medical Therapy Management (MTM) disparities, which used Python and Machine learning models for deriving conclusions.
+
+
+These activities go well beyond Randeep’s formal job responsibilities and have had sustained impact over several years, combining deep engineering work with education and community uplift. They exemplify the PSF’s mission of advancing open source technology and fostering a diverse, global Python community.
+
+In light of the breadth and depth of these contributions—spanning large‑scale Python systems in healthcare, mentoring, youth outreach, and improving Python educational content—I strongly believe Randeep Singh meets the criteria for PSF Fellow membership.
+
+#### Robin Linacre
+
+I, Matt Upson, am writing to nominate Robin Linacre for PSF Fellow in recognition of his outstanding engineering contributions to the Python ecosystem through the creation and ongoing development of Splink, a probabilistic record linkage library that has become critical infrastructure for governments, national statistical offices, and researchers worldwide.
+
+##### Solving a Critical Global Problem
+---------------------------------
+
+Record linkage (connecting records about the same entity across datasets that lack unique identifiers) is one of the most fundamental and pervasive challenges in public sector data. Governments worldwide hold vast administrative datasets covering health records, tax data, education records, court systems, and census data that could yield transformative insights if linked. Traditionally this required either expensive proprietary software or labour-intensive manual matching.
+
+Robin Linacre's creation of Splink has democratized access to world-class probabilistic record linkage. By making a fast, accurate, and scalable solution freely available as open-source Python, he has enabled governments, researchers, and organizations around the world (regardless of budget) to unlock the value in their data. The downstream impact is essentially immeasurable: better policy decisions, more efficient public services, and research that improves lives.
+
+##### Engineering Contributions
+-------------------------
+
+Record linkage is a deceptively hard engineering problem. The task is simple to state: given records without unique identifiers, determine which ones refer to the same real-world entity. But two challenges make it formidable at scale.
+
+First, computational complexity. Comparing every record to every other record is O(n²). A million records means a trillion comparisons; a hundred million records is essentially impossible with brute force.
+
+Second, data quality. Real-world data is messy. Names are misspelled ("Smyth" vs "Smith"), abbreviated ("Rob" vs "Robert"), or recorded differently across systems. Dates get transposed. Addresses change. Simple exact-matching rules fail; overly loose rules produce too many false positives.
+
+Splink tackles both challenges:
+
+-Blocking reduces computational complexity by only comparing records that could plausibly match (e.g., those sharing a first name or postcode). This brings trillion-comparison problems down to millions, without sacrificing recall.
+
+- Probabilistic scoring replaces brittle rules with a statistical model that combines evidence across fields. The model learns that a match on an unusual surname provides stronger evidence than a match on "Smith", and that a typo in a postcode is less concerning than a mismatch on date of birth.
+
+- Fuzzy matching handles data quality issues using string similarity functions (Jaro, Jaro-Winkler, Levenshtein) and phonetic algorithms (Soundex, Metaphone), so "Stephen" and "Steven" can be recognised as likely matches.
+
+- Unsupervised learning via the Expectation Maximisation algorithm means no manually labelled training data is required, making the tool practical to deploy in new domains.
+
+- Backend flexibility allows the same Python API to run on DuckDB (linking a million records in around a minute on a laptop) or scale to Spark/AWS Athena for datasets exceeding 100 million records.
+
+- Explainability through interactive visualizations shows exactly why any pair of records was or was not matched, which is essential for quality assurance in high-stakes applications like census linkage or healthcare records.
+
+The library is accompanied by comprehensive documentation, an eight-part tutorial, eighteen worked example notebooks, and a peer-reviewed publication in the International Journal of Population Data Science [1].
+
+##### Adoption and Impact
+-------------------
+Splink has achieved remarkable adoption across sectors:
+
+Downloads: 650,000+ monthly on PyPI [2]
+GitHub: 1,800+ stars, 74 contributors [3]
+
+Government and Public Sector
+
+United Kingdom:
+    Office for National Statistics: Used for the Business Index, Demographic Index, and 2021 Census linkage [4]
+    NHS England: Core engine for a new probabilistic data linkage service across NHS datasets
+    Ministry of Defence: Powers the Veteran's Card verification system
+    Ministry of Justice: Links courts, prisons, and probation data for the Data First research programme
+    UK Health Security Agency: Links HIV testing data to national health records
+
+International:
+    🇦🇺 Australian Bureau of Statistics: Used to build the 2024 National Linkage Spine and planned for 2026 Census quality assurance
+    🇩🇪 German Federal Statistical Office (Destatis): Used for linking register-based census data
+    🇪🇺 European Medicines Agency: Detects duplicate adverse event reports for veterinary medicines
+    🇺🇸 US Defense Health Agency: Identified duplicated hospital records across 200+ million data points
+    🌐 UNHCR: Analyses and enhances dataset quality by identifying potential duplicates
+    🇨🇦 Ontario Ministry of Children, Community, and Social Services: Main data-integration tool for inter-ministerial linking
+
+Academia
+
+University of Cambridge (CAMPOP): First full-count linking of English and Welsh censuses (1851–1921)
+Harvard Medical School: Probabilistic linkage of 8.1 million death records to EHR data (American Journal of Epidemiology, 2025)
+Princeton, Stanford, UC Berkeley, University of Pennsylvania: Used in peer-reviewed research on housing policy, political attitudes, and voting behaviour
+
+Private Sector
+Marie Curie: Built single customer view, achieving in two months what previously took a year
+Club Brugge: Links football players across data providers
+GN Group: Deduplicates large volumes of customer records
+The Data City: Links Companies House data to job postings and financial events
+
+##### Recognition
+-----------
+Splink has received significant recognition for its impact:
+
+- OpenUK Awards 2025: Open Data category – Winner
+- Civil Service Awards 2025: Innovation category – Winner
+- Civil Service Awards 2025: Excellence in Delivery – Winner (dashboard powered by Splink)
+- Civil Service Awards 2023: Best Use of Data, Science, and Technology – Runner-up
+- Analysis in Government Awards 2022: People's Choice Award – Winner
+- Analysis in Government Awards 2022: Innovative Methods – Runner-up
+- Analysis in Government Awards 2020: Innovative Methods – Winner
+
+##### Community Leadership
+--------------------
+Robin has been an active contributor to the Python data science community:
+
+- Presented Splink at PyData conferences, making probabilistic record linkage accessible to a broader audience
+- Maintains extensive educational content including interactive tutorials that run in the browser
+- Actively engages with the user community through GitHub issues and discussions
+-nDeveloped supplementary libraries for data standardisation, cluster analysis, and synthetic data generation
+
+##### Conclusion
+----------
+
+Robin Linacre has made an exceptional contribution to the Python ecosystem. Splink solves a genuinely hard problem - probabilistic record linkage at scale - and does so with technical sophistication, excellent documentation, and a commitment to openness. The library has become essential infrastructure for national statistical offices, healthcare systems, and government departments across multiple countries. This work exemplifies the kind of engineering excellence and public benefit that PSF Fellow recognition is designed to honour.
+
+#### Sarah Kuchinsky
+*Selected in Q1 of 2026*
+
+We, Jon Banafato and Elaine Wong, nominate Sarah Kuchinsky to be
+recognized as a Fellow of the Python Software Foundation. Sarah has
+served as the Tutorials Committee Chair for PyCon US since 2019
+(https://us.pycon.org/2019/about/staff/,
+https://us.pycon.org/2026/about/support/), as the PyBeach 2025
+Conference Chair (https://2025.pybeach.org/organizers), and as an
+organizer for the PyLadies Silicon Valley and SoCal Python meetup
+groups. Sarah's work was recently recognized with a PSF Community
+Service Award
+(https://pyfound.blogspot.com/2025/10/announcing-psf-community-service-award.html),
+and we hope to see her selected as a PSF Fellow as well.
+
+#### Sony Valdez
+*Selected in Q1 of 2026*
+
+I, Kwon-Han Bae, am writing to nominate Sony Valdez for recognition as a Python Software Foundation Fellow, in appreciation of his long-standing, high-impact contributions to the Python community in the Philippines.
+
+I have known Sony for many years through the Python community and have seen him contribute consistently through workshops, conference leadership, and sustained volunteer work. He has also been a frequent speaker, sharing Python knowledge and community experience in a way that repeatedly brought new people into the ecosystem and helped organizations adopt Python.
+
+Sony’s contributions are notable for their breadth and consistency over more than a decade:
+• Python education and adoption (2010 to present): He has facilitated Python workshops at various schools across the Philippines, with many of those schools adopting Python afterward.
+• Grassroots community building (2011 onward): In 2011, he started teaching Python in a small town in the Philippines, which influenced nearby colleges to adopt Python as well.
+• PyCon Philippines leadership and continuity (2012 onward): He spoke at the first PyCon Philippines in 2012 and has continued giving talks at every PyCon Philippines since then.
+• Founding and governance (2013 to present): He became one of the founders of Python Philippines in 2013 and has served as a Board of Trustee member since 2013, helping provide stability and continuity for the organization.
+• Conference leadership (2014 to 2015): He served as chairman of PyCon Philippines for both 2014 and 2015, demonstrating operational leadership and accountability at a national community event.
+• Core volunteer service (2014 to present): He has remained a core volunteer of PyCon Philippines, contributing year after year beyond formal leadership roles.
+• Industry enablement (2012 to present): He has facilitated Python training for corporate programmers, helping teams adopt Python in professional environments.
+• Open source enablement (2024 to present): He has organized sprints for open source Python projects, encouraging contributors to participate and turning interest into real contributions.
+• Community operations and engagement: He managed the Python Philippines Facebook group, including a weekly “Show Off Python” automated post series, helping maintain regular community engagement.
+• Mentorship and support: He has provided guidance and practical help to many students learning Python, and he has delivered numerous talks and workshops for meetups and events.
+
+While Sony’s public website and social media presence do not fully reflect this long record of service (his personal website has been down for a while, and he has not been very active on social media in recent years), his community impact has been sustained and clearly visible through real-world initiatives, ongoing governance, repeated conference involvement, and hands-on education and mentorship.
+
+Sony’s work exemplifies the spirit of PSF Fellows: sustained volunteer service, leadership, and meaningful impact on Python adoption and community health. I strongly support his nomination and believe he is highly deserving of recognition as a PSF Fellow.
+
+#### Steve Yonkeu
+*Selected in Q1 of 2026*
+
+I am writing to self-nominate myself, Steve Yonkeu, for consideration as a Python Software Foundation Fellow. I believe my work aligns with the PSF Fellow criteria of extraordinary service, leadership, and sustained impact on the Python community and ecosystem.
+
+Over the past several years, I have made significant contributions to Python through community building, education, and advocacy, including:
+
+- Founding and leading Python Cameroon and Django Cameroon, growing active and sustainable communities that organize regular meetups, workshops, mentorship programs, and learning initiatives for developers at all levels.
+- Organizing and speaking at regional and international Python conferences, including PyCon Africa, where I have contributed as both a speaker and organizer to expand Python adoption and skills across the African continent.
+- Speaking at PyCon US and serving as a reviewer for talks and workshops at PyCon US, contributing directly to the quality and inclusiveness of one of the largest Python conferences globally.
+- Designing and delivering Python bootcamps, including hands-on training programs such as the Eyang bootcamp, focused on practical skills, employability, and long-term developer growth.
+- Mentoring students and early-career developers, helping create sustainable pathways into open source, professional software development, and community leadership.
+- Promoting Python publicly through talks, technical tutorials, and community initiatives that encourage contribution, knowledge sharing, and best practices within the Python ecosystem.
+
+In addition to my Python-focused contributions, I was recently recognized as a Microsoft Most Valuable Professional (MVP), reflecting external acknowledgment of my sustained volunteer work, technical leadership, and impact in developer education and community building.
+
+I believe these efforts demonstrate sustained leadership, extraordinary service in organizing, teaching, reviewing, and evangelizing Python, and a long-lasting positive impact on both local and global Python communities.
+
+------
+
+I, Sarah Abderemane, propose that Steve Yonkeu be recognized as a Fellow of the PSF due to his significant and sustained contributions to the Python and Django communities.
+
+Steve has played a key leadership role in organizing PyCon Africa for three consecutive years (2024–2026), contributing to the growth and visibility of one of the most important Python conferences on the continent. He has also led and organized sprints at PyCon Africa in 2024 and 2025, fostering open-source collaboration and creating inclusive entry points for new contributors.
+
+He is a member of the Django Software Foundation and has served for three consecutive years as a talks and tutorials reviewer for PyCon US. Internationally, he has spoken at conferences such as Community Over Code Asia and Community Over Code North America, strengthening collaboration across global open-source communities.
+
+In 2021, he founded Django Cameroon, which has grown to more than 1,500 active members and delivered over 30 bootcamps, impacting learners of all ages. As lead and chair of Python Cameroon, he has significantly expanded access to Python education and open-source participation across Africa, actively contributing to greater geographical diversity and representation within the global Python ecosystem.
+
+Beyond community leadership, Steve contributes to major open-source projects such as Django and Apache Airflow. He also created Django Crafts, a collection of creative experiments that showcases the flexibility and playfulness of Django and Python
+
+Through his contributions and commitment, he perfectly embodies the values of a PSF Fellow.
+
+-----
+
+I, Abigail Mesrenyame Dogbe, am honored to nominate Steve Yonkeu as a Fellow of the Python Software Foundation in recognition of his sustained and high-impact contributions to the global Python ecosystem. With over seven years of experience working with Python and cloud technologies, Steve reflects both the depth and consistency of his contributions to the Python Software community in his home country Cameroon, in Africa and the Global Python Software Community. 
+
+He has organized Python Africa for two consecutive years (2024 and 2025), with tasks including leading and coordinating sprints, while creating meaningful spaces for collaboration and contribution. He has also served for three years as a reviewer for PyCon US talks and tutorials. As an international speaker at conferences such as Community Over Code in Asia and North America, he has amplified the visibility of African Python communities on the global stage.
+
+In 2021, Steve founded the Django Cameroon community in 2021, which has grown to more than 1,500 active members and delivered over 30 bootcamps, impacting learners of all ages within five years. He also leads and chairs Python Cameroon, strengthening local engagement and sustainability. In addition to his leadership, he actively contributes to widely used open source projects such as Django and Apache Airflow, and created Django Crafts, an initiative that showcases the creativity and accessibility of Django and Python. Steve’s technical excellence, community leadership, and long-term commitment to growing the Python ecosystem make him a deserving candidate for PSF Fellowship.
 
 ### 2025 Q4 Nominations 
 
@@ -92,7 +399,7 @@ In addition to her content creation, Ramya has been an active community organize
 
 Ramya's work exemplifies dedication to the Python community through empowering developers and advancing Python's role in AI and machine learning. For these reasons, I strongly support her nomination as a PSF Fellow.
 
-=== Sai
+#### Sai Vishnu Kiran Bhyravajosyula
 
 I, Ryan M. Pruden, nominate Sai Vishnu Kiran Bhyravajosyula ("Vishnu") for recognition as a Fellow of the Python Software Foundation.
 
