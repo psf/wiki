@@ -13,7 +13,7 @@ I, John Doe, propose that Joe User be recognized as a Fellow of the Python Softw
 ### 2026 Q3 Nominations
 
 #### Aldo Caneo
-** Selected in Q3 of 2026 **
+*Selected in Q3 of 2026*
 
 I, Denny Perez, would like to nominate Aldo Caneo for Fellow Membership in the Python Software Foundation.
 
@@ -26,7 +26,7 @@ In addition to his work with Python Chile, Aldo has volunteered as a reviewer fo
 I have had the opportunity to work closely with Aldo and have consistently seen his commitment, reliability, and willingness to help wherever needed.
 
 #### Donghee Na
-** Selected in Q3 of 2026 **
+*Selected in Q3 of 2026*
 
 I, Kwonhan, propose that Donghee Na be recognized as a Fellow of the Python Software Foundation.
 
@@ -39,7 +39,7 @@ His technical involvement in Python is at the highest level. As a CPython Core D
 He has been doing this consistently at the highest levels. He meets the criteria.
 
 #### Paul Moore
-** Selected in Q3 of 2026 **
+*Selected in Q3 of 2026*
 
 I, Alyssa Coghlan, nominate Paul Moore as a PSF Fellow. Paul replaced me as the standing delegate for non-PyPI Python Packaging Interoperability PEPs several years ago (I asked if he was willing to do it, and he accepted, and Guido accepted the amended delegation, since this was before the Steering Council). Paul maintained that delegation through the transition of the standing delegations to the Steering Council when it was formed, and has been supportive of the recent efforts to replace the packaging standing delegations with an elected Packaging Council.
 
@@ -140,7 +140,7 @@ participation, I propose that Petr Andreev be recognized as a Fellow
 of the Python Software Foundation.
 
 #### Takayuki Shimizukawa
-** Selected in Q3 of 2026 **
+*Selected in Q3 of 2026*
 
 I, Bae KwonHan, PSF Fellow and PSF Board Director, propose that Takayuki Shimizukawa be recognized as a Fellow of the Python Software Foundation.
 
@@ -226,7 +226,7 @@ qualities I would expect of a PSF Fellow.
 ### 2026 Q2 Nominations
 
 #### Andy Terrel
-**Selected in Q2 of 2026**
+*Selected in Q2 of 2026*
 
 I, Travis Oliphant am pleased to nominate Andy Terrel as a Fellow of the Python Software Foundation. 
 
@@ -287,7 +287,7 @@ Python gave me more than technical skills. It gave me confidence, opportunities,
 Being considered for PSF Fellow would be an incredible honor and encouragement for me to continue contributing with even greater responsibility and consistency in the years ahead.  And, it's my second time, I'm nominating myself as a PSF fellow.  While I may still be early in my career compared to many respected members of this community, I hope my work, consistency, and willingness to give back reflect the spirit of contribution the PSF Fellow recognition stands for.
 
 #### Julius Boakye
-**Selected in Q2 of 2026**
+*Selected in Q2 of 2026*
 
 I, Michael Young, a PSF Fellow and community builder, am delighted to nominate Julius Boakye for Fellow membership in the Python Software Foundation (PSF) in recognition of his extraordinary and sustained contributions to the global Python community.
 
@@ -302,7 +302,7 @@ His contributions go well beyond casual volunteering. He has devoted countless h
 Julius Boakye exemplifies the values of the Python community: openness, collaboration, inclusion, and service. I strongly believe his extraordinary efforts and enduring impact make him exceptionally deserving of recognition as a Fellow of the PSF.
 
 #### Petr Viktorin
-**Selected in Q2 of 2026** 
+*Selected in Q2 of 2026* 
 
 I, Stan Ulbrych (CPython and PyPy core developer, Python Security Response
 Team member, and PSF contributing member), Peter Bierma (Python core developer),
@@ -334,14 +334,14 @@ Miro sincerely believes that Petr's mentorship and long term friendship made him
 And Karolina is one example of what Petr's kind continuous involvement can help achieve: he's been there for many steps of her path, from print("Hello world!") through community engagement to occasional contributing to CPython. 
 
 #### Sayantika Banik
-**Selected in Q2 of 2026**
+*Selected in Q2 of 2026*
 
 I, Abhijeet Mote, would like to nominate Sayantika Banik as a representative from the PSF Diversity & Inclusion Workgroup. Although I do not know her personally, her long-standing contributions to the Python community, work in diversity and inclusion initiatives, and leadership across organizations like Python Software Foundation, PyLadies Bangalore, and Django Software Foundation clearly reflect her commitment to building a welcoming and inclusive community.
 
 Her experience in community building, open-source collaboration, and advocacy for underrepresented groups would make her a valuable voice for the broader Python ecosystem. As part of the D&I workgroup community, I'm excited to support her nomination.
 
 #### Takanori Suzuki
-**Selected in Q2 of 2026**
+*Selected in Q2 of 2026*
 
 I, Bae KwonHan, PSF Fellow and PSF Board Director, propose that Takanori Suzuki be recognized as a Fellow of the Python Software Foundation.
 
