@@ -10,6 +10,219 @@ More info about the nomination process can be found here: [https://www.python.or
 
 I, John Doe, propose that Joe User be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a co-founder of the [PyCon](../../conferences/pycon/PyCon) Foobar regional conference, a lead organizer for the 2011 and 2012 editions of the Marsian Python community\'s flagship Python conference, [MarsPython](./MarsPython.html) and as a long-term contributor to international collaborative efforts amongst the Marsian Python community.
 
+### 2026 Q3 Nominations
+
+#### Aldo Caneo
+** Selected in Q3 of 2026 **
+
+I, Denny Perez, would like to nominate Aldo Caneo for Fellow Membership in the Python Software Foundation.
+
+Aldo Caneo is an Industrial Civil Engineer from the Pontificia Universidad Católica de Chile who became involved with the Python community after attending the first PyCon Chile in 2021. Since early 2022, he has served as a coordinator of Python Chile, where he has been a dedicated volunteer supporting the growth and sustainability of the community.
+
+Over the years, Aldo has helped organize PyCon Chile, PyDays, and local meetups, coordinating with sponsors, speakers, and service providers, while also supporting the maintenance of event websites and community operations. His work has been essential to the success of many Python community activities in Chile.
+
+In addition to his work with Python Chile, Aldo has volunteered as a reviewer for the PyCon US Charlas program for 2 years.
+
+I have had the opportunity to work closely with Aldo and have consistently seen his commitment, reliability, and willingness to help wherever needed.
+
+#### Donghee Na
+** Selected in Q3 of 2026 **
+
+I, Kwonhan, propose that Donghee Na be recognized as a Fellow of the Python Software Foundation.
+
+I first met Donghee at PyCon Korea near 2018 and I have observed his dedication to the Python community. after spending multiple years to become CPython Core Dev, he dedicated to Python Communities in Korea and Asia.
+
+He is deeply passionate about fostering CPython activities, particularly in the APAC region. He frequently leads CPython Mentored Sprints and organizes local Core Sprints. Through these events, he actively lowers the barrier to entry for new open-source contributors and encourages developer engagement in open-source contributions. He doesn't just write code; he builds communities and mentors the next generation of contributors.
+
+His technical involvement in Python is at the highest level. As a CPython Core Developer, he contributes significantly to improving CPython's performance, maintenance, and internal implementations. Recognizing his leadership and technical judgment, he was elected to the Python Steering Council for the 2025 and 2026 terms. In this role, he assumes a mandate to maintain the quality and stability of the Python language and CPython interpreter, improve the contributor experience, and establish decision-making processes for Python Enhancement Proposals.
+
+He has been doing this consistently at the highest levels. He meets the criteria.
+
+#### Paul Moore
+** Selected in Q3 of 2026 **
+
+I, Alyssa Coghlan, nominate Paul Moore as a PSF Fellow. Paul replaced me as the standing delegate for non-PyPI Python Packaging Interoperability PEPs several years ago (I asked if he was willing to do it, and he accepted, and Guido accepted the amended delegation, since this was before the Steering Council). Paul maintained that delegation through the transition of the standing delegations to the Steering Council when it was formed, and has been supportive of the recent efforts to replace the packaging standing delegations with an elected Packaging Council.
+
+Throughout that time, Paul has been a responsible and effective steward of the often fractious packaging standardisation process. Along with his direct contributions to pip and other Python projects, I believe Paul is an eminently suitable PSF Fellow candidate.
+
+#### Petr Andreev
+
+I nominate myself, Petr Andreev, for recognition as a Fellow of the Python
+Software Foundation for sustained contributions to Python through
+advanced technical education, mentorship into real CPython work,
+conference organization, public technical speaking, and international
+community engagement.
+
+Petr has worked since 2024 as a lecturer and course creator focused on
+Advanced Python, CPython internals, performance, concurrency, memory
+management, garbage collection, free-threading, profiling, and
+high-performance computing. He designed three 15-module Advanced
+Python courses, delivered more than 90 classes to more than 140
+students, and mentored 13 students to conference-level technical
+research.
+
+A central part of his work is building a practical path from learning
+Python to participating in its development. Under his mentorship, five
+students opened nine CPython issues and pull requests. Three pull
+requests were merged, including documentation improvements and a fix
+for a memory leak in array.array. The public contribution record is
+available here:
+
+https://github.com/PyotrAndreev/open-source-talk-log/blob/main/students_contribute_log.md
+
+This work has helped students experience the complete contribution
+process: selecting an appropriately scoped problem, studying CPython
+internals, preparing a change, responding to review, and communicating
+the result. The benefit therefore extends beyond individual patches by
+developing contributors who understand the technical and collaborative
+practices required in an established open-source project.
+
+In May 2026, Petr created Python Days, a two-day technical conference
+for his students. He guided participants through research and talk
+preparation and involved a CPython core developer in evaluating their
+presentations. Five students delivered talks on generators in CPython,
+CPython CI/CD, synchronization in free-threaded CPython, MicroPython
+internals, and memory management under constrained conditions.
+
+Python Days:
+https://www.linkedin.com/posts/petrpy_python-days-2-days-5-strong-technical-activity-7461418537191067648-IpO6
+
+Student conference-talk record:
+https://github.com/PyotrAndreev/open-source-talk-log/blob/main/students_conference_talks.md
+
+Petr is also mentoring another student toward presenting at PyCon
+Indonesia. His approach connects coursework, technical research,
+open-source contribution, expert review, and conference speaking
+rather than treating these as isolated activities.
+
+Petr makes his teaching available beyond his university classrooms
+through a public Advanced Python course:
+
+https://www.youtube.com/playlist?list=PLJR10EXrBaAv0L-IRGXj2DVwnZwCb2Mds
+
+He has delivered more than ten talks at PyCons and Python conferences
+across Europe and Asia, translating developments in CPython and
+high-performance Python into material usable by engineers, students,
+and community members. Selected examples include:
+
+Turn Your Personal Growth into Python Impact — PyCon Busan keynote
+https://www.youtube.com/watch?v=AXJzHol7JdQ
+
+High-Load Python: SIMD, GPU, and Horizontal Scaling — PythonAsia
+https://youtu.be/82YSVb4-Y6c
+
+Free Threading: Future CPython — PyCon Russia
+https://www.youtube.com/watch?v=p3TFW9I1KfA
+
+Python: C, Bytecode, and the GIL — MoscowPython
+https://www.youtube.com/watch?v=o08cV4AZnjQ
+
+His broader service includes work as a PyCon US Speaker Mentorship
+mentor, a EuroSciPy program reviewer, a PSF member, an educator, and a
+Python community organizer. Through speaking and direct engagement
+with communities across Europe and Asia, he has shared technical
+knowledge while learning from organizers, educators, students,
+contributors, and maintainers working in different institutional and
+cultural settings.
+
+The strongest evidence of Petr's impact is the system he has built
+around other people. Students have moved from structured coursework
+into public research, merged CPython contributions, and technical
+conference talks. The underlying materials and records are public,
+allowing others to examine the work and reuse parts of the pathway.
+His contribution is therefore not limited to personal technical
+output: it increases the number and capability of people able to
+participate in Python's technical and community ecosystem.
+
+For these sustained efforts in teaching, mentoring, organizing,
+publicly promoting Python, and coordinating others into meaningful
+participation, I propose that Petr Andreev be recognized as a Fellow
+of the Python Software Foundation.
+
+#### Takayuki Shimizukawa
+** Selected in Q3 of 2026 **
+
+I, Bae KwonHan, PSF Fellow and PSF Board Director, propose that Takayuki Shimizukawa be recognized as a Fellow of the Python Software Foundation.
+
+Takayuki has been a consistent and active speaker at Python conferences across Asia and globally. His recent speaking engagements include PythonAsia 2026 (presenting on implementing slides using the Pyxel retro game engine), PyCon APAC 2025 (Structlog in Practice), PyCon Philippines 2024 (explaining the internal mechanisms of the `len()` function), and PyCon APAC 2023 (Django ORM). Beyond Asia, he has also presented at global conferences such as PyCon US and EuroPython.
+
+His dedication to the community is demonstrated by his role as the Accounting Director of the PyCon JP Association, where he contributes significantly to the operation of the conferences. In Q4 2021, he received the PSF Community Service Award for his work organizing regional events, monitoring trademarks, and notably raising over $25,000 for the PSF through the "PyCon JP Charity Talks." He also continuously hosts the Python mini hack-a-thon and serves as an instructor for PyCamp.
+
+In the open-source ecosystem, Takayuki is well known as a Co-maintainer of Sphinx, the core documentation tool for Python, and he operates the local user group Sphinx-Users.jp. Alongside his open-source contributions, he has significantly aided knowledge distribution by writing and translating numerous books, including "Expert Python Programming 4th Edition" (2023), "The Self-taught Computer Scientist" (2022), "Let's Start Sphinx, 3rd Edition" (2022), and "The Self-Taught Programmer" (2018).
+
+Through his extensive community leadership, open-source maintenance, speaking engagements, and publishing, he has shown deep and sustained dedication to the Python ecosystem. He meets the criteria.
+
+#### Yesudeep Jose Mangalapilly
+
+I, Prashant Kumar, would like to nominate Yesudeep Jose Mangalapilly for recognition as
+a Fellow of the Python Software Foundation.
+
+I am a PSF Supporting Member and worked with Yesudeep at GlobalLogic
+as his peer, including collaborating with him on Firebase Genkit. I
+have seen him break down difficult engineering problems, give careful
+and constructive feedback, and mentor other engineers. He creates room
+for disagreement without allowing it to become personal, and his teams
+are better for it.
+
+Yesudeep is the original author of Watchdog, the Python
+filesystem-monitoring library he started in 2010 and maintained
+through 2016. Watchdog unifies the native filesystem event mechanisms
+on Linux, macOS, Windows, and BSD behind one Python API. The project
+later passed into community stewardship and remains actively
+maintained.
+
+https://pypi.org/project/watchdog/
+
+https://github.com/gorakhargosh/watchdog
+
+Watchdog now receives roughly 100 million downloads a month from PyPI.
+It is used by Google's Agent Development Kit and Dart SDK, Apple's
+FoundationDB, the AWS SAM CLI, Streamlit, Apache Superset, Home
+Assistant, Hugging Face, and projects at NASA JPL, U.S. national
+laboratories, and government agencies.
+
+Yesudeep has assembled a source-linked record of that adoption. Its
+entries point to the downstream projects' own manifests, imports,
+packages, or publications:
+
+https://yesudeep.com/watchdog/
+
+Current download statistics are available here:
+
+https://pypistats.org/packages/watchdog
+
+I believe Watchdog meets the PSF's engineering criterion. It addressed
+a difficult cross-platform problem, has remained useful for sixteen
+years, and has achieved widespread use across the Python ecosystem.
+Its successful continuation under later maintainers also speaks to the
+durability of its design and engineering.
+
+Watchdog is the largest part of Yesudeep's Python record, but not the
+only part. He also contributed early Python 3 support, multicore key
+generation, and a substantially faster integer-to-bytes implementation
+to python-rsa. Its maintainer credited that work by name:
+
+https://github.com/sybrenstuvel/python-rsa/blob/42b0e14ffbeeb9d99d1037e6440a2cc61780e4ea/CHANGELOG.md
+
+More recently, from January 2025 through March 2026, Yesudeep served
+as the founding engineering manager and a technical architect for the
+Python SDK of Google's open-source Genkit project. He helped shape the
+Python implementation, reviewed contributions, built and supported its
+engineering team, and led the SDK through its v0.5.0 release in
+February 2026. His public commits, reviews, and the release are
+available here:
+
+https://github.com/genkit-ai/genkit/commits?author=yesudeep
+
+https://github.com/genkit-ai/genkit/pulls?q=is%3Apr+reviewed-by%3Ayesudeep
+
+https://github.com/genkit-ai/genkit/releases/tag/py/v0.5.0
+
+In my experience working with Yesudeep, he treats contributors and
+colleagues with respect and takes mentorship seriously. His conduct is
+consistent with the Python community's Code of Conduct and with the
+qualities I would expect of a PSF Fellow.
+
 ### 2026 Q2 Nominations
 
 #### Andy Terrel
