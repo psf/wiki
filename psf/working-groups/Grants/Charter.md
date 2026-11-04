@@ -227,7 +227,7 @@ Vice Chair:
 
 Appointed Board Director:
 
-- TBD
+- Abigail Mesrenyame Dogbe (Africa, Ghana/North America)
 
 Participants:
 
