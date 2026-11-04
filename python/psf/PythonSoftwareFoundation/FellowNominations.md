@@ -10,6 +10,138 @@ More info about the nomination process can be found here: [https://www.python.or
 
 I, John Doe, propose that Joe User be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a co-founder of the [PyCon](../../conferences/pycon/PyCon) Foobar regional conference, a lead organizer for the 2011 and 2012 editions of the Marsian Python community\'s flagship Python conference, [MarsPython](./MarsPython.html) and as a long-term contributor to international collaborative efforts amongst the Marsian Python community.
 
+### 2026 Q2 Nominations
+
+#### Andy Terrel
+**Selected in Q2 of 2026**
+
+I, Travis Oliphant am pleased to nominate Andy Terrel as a Fellow of the Python Software Foundation. 
+
+Andy has made extraordinary, sustained contributions to Python and the broader Python ecosystem by helping create and sustain foundational scientific Python infrastructure. His work spans technical contributions to projects such as Dask, Conda, and SymPy; institution-building through helping found and lead NumFOCUS for many years; and continued leadership in the future of Python for accelerated scientific computing through CUDA Python and GPU enablement. His impact is not limited to one library or one company: it is visible across the scientific Python ecosystem, including NumPy, Pandas, Jupyter, Dask, Conda, SymPy, and the broader PyData community.  He has consistently been a champion of the Python community in every company he has worked at.
+
+----
+
+I, Bryce Adelstein Lelbach, am nominating Andy R. Terrel as a PSF Fellow. Andy has made significant and sustained contributions to the Python ecosystem through scientific computing, open-source leadership, education, and community service.
+
+Andy has been an influential contributor and advocate in the scientific Python community for more than fifteen years. His work has included contributions to projects and infrastructure that helped establish Python as a leading platform for scientific and high-performance computing. He has also played major leadership roles within NumFOCUS, helping provide organizational and financial support to core Python ecosystem projects including NumPy, SciPy, pandas, and Jupyter.
+
+Through his work at NVIDIA and throughout the broader PyData ecosystem, Andy has continued advancing Python’s role in accelerated computing and GPU programming, making high-performance computing more accessible to Python developers. He has also an excellent mentor, teacher, and leader to many, including myself.
+
+In addition to technical contributions, Andy has served the community through conference organization, mentorship, tutorials, public speaking, and ecosystem governance. His long-term leadership, technical impact, and dedication to sustaining the Python scientific ecosystem make him highly deserving of recognition as a PSF Fellow. 
+
+---
+
+I, Jeremy Tanner, am nominating Andy R. Terrel as a PSF Fellow. Andy has made sustained, high-impact contributions to the Python ecosystem across open-source infrastructure, scientific computing, packaging, community governance, education, and advocacy for more than fifteen years. His work has materially advanced Python’s position as the dominant platform for scientific and high-performance computing.
+
+Andy is widely recognized as a leader in the PyData and scientific Python communities. He has been a contributor to the scientific Python ecosystem since at least 2006 and has helped shape foundational projects and institutions that millions of Python users rely on today. His public biographies and professional profiles identify him as a co-creator or early contributor to projects including Dask, Conda, and SymPy, and as a founder and long-serving leader of NumFOCUS. (NVIDIA Developer)
+
+His technical contributions span both research and production software. Andy’s published work in GPU computing, finite element methods, and scientific computing demonstrates deep expertise in computational science and performance engineering. His work helped advance Python’s use on large-scale heterogeneous computing systems and GPUs, contributing to the broader acceptance of Python in scientific and HPC environments. (arXiv)
+
+In addition to direct software contributions, Andy has provided exceptional organizational and governance leadership to the Python ecosystem through NumFOCUS. He has served as a board member and officer over multiple terms and continues to help guide the organization supporting many of the most important projects in scientific Python, including NumPy, SciPy, pandas, Jupyter, and related infrastructure. (NumFOCUS) His leadership helped establish sustainable governance and financial support structures for open-source scientific computing projects that are now central to modern Python usage in academia, industry, and machine learning.
+
+Andy has also contributed significantly through conference organization, mentoring, and public education. He served in organizing and program committee roles for SciPy conferences, PyHPC workshops, and broader Python HPC outreach efforts. He has taught scientific computing and GPU programming courses, delivered tutorials and talks internationally, mentored contributors through programs such as Google Summer of Code, and consistently advocated for Python adoption in computational science. (andy.terrel.us)
+
+At NVIDIA, Andy continues to expand Python’s reach into accelerated computing and AI infrastructure as CUDA Python Product Lead. In this role he has worked to improve GPU computing accessibility for Python developers and strengthen interoperability between the scientific Python ecosystem and modern accelerator hardware. (NVIDIA Developer)
+
+Equally important, Andy has consistently demonstrated the type of stewardship, long-term commitment, and ecosystem-level thinking that the PSF Fellow distinction is intended to recognize. His influence extends beyond any single library or organization. Through technical leadership, governance, mentorship, conference work, and advocacy, he has helped build and sustain major parts of the modern Python scientific computing ecosystem.
+
+Andy Terrel exemplifies the qualities of a PSF Fellow: technical excellence, broad and lasting community impact, sustained volunteer leadership, and service to the growth and health of the Python community.
+
+#### Dhanush Kandhan
+
+I, Dhanush Kandhan, would like to humbly nominate myself for PSF Fellow consideration for Q2 2026.
+
+Python has been a part of my life since school. I started learning it in 8th grade simply because I was curious about how software works and wanted to build things on my own. What began with small experiments slowly became a long-term journey of learning, building, teaching, and contributing back to the community that shaped me as a developer.
+
+As I grew with Python, I became fascinated not only by writing applications, but by understanding the ecosystem itself like how Python manages to stay simple for beginners while still powering large-scale systems, AI infrastructure, scientific computing, and developer tooling worldwide. That curiosity eventually led me to the community side of Python, where I found some of the most welcoming and inspiring people I’ve ever met.
+
+During my time in Chennai, I regularly attended ChennaiPy meetups, where I learned from experienced developers and maintainers who were always open to helping others grow. Those interactions changed the way I looked at technology and open source. They taught me that Python is not only a language, but also a culture of sharing knowledge and lifting others along the way.
+
+One of my earliest goals as a student was very simple: I wanted to create something that another developer somewhere in the world would install using pip install. During my second year of college, that dream became real through guro (https://github.com/dhanushk-offl/guro), a Python-based system monitoring and benchmarking toolkit focused on microcomputers. I built it independently through documentation, experimentation, and guidance from community members. Over time, the project crossed more than 4,000 downloads, and knowing that developers actually found value in something I created was deeply meaningful to me.
+
+Since then, I’ve continued building and contributing around Python-focused tooling and AI systems. I worked on hallx (https://hallx.pages.dev), a model-agnostic hallucination detection engine for AI agents, and also contributed to Nvidia TensorFlow-related internal packages. My work often sits at the intersection of Python, infrastructure, developer experience, and AI engineering.
+
+However, one thing I value equally alongside technical contribution is community contribution.
+
+I have volunteered with ChennaiPy for their meetups and served as part of the Technical Working Group for PyCon India 2025, helping with the conference landing page development. I have also taught Python to more than 1,000 students through the Naan Mudhalvan Mentorship Programme, an initiative by the Government of Tamil Nadu focused on empowering students through technology education.
+
+Teaching students who were writing Python for the first time reminded me of my own beginnings. Many of them came from backgrounds where access to mentorship and opportunities was limited, and being able to help them take their first steps into programming has been one of the most fulfilling parts of my journey so far.
+
+I still consider myself early in my journey, and there is a lot more I want to learn from this community. At the same time, I believe I have consistently tried to contribute in meaningful ways, through open source, teaching, volunteering, mentorship, and by encouraging more people to enter the Python ecosystem.
+
+Python gave me more than technical skills. It gave me confidence, opportunities, friendships, and a direction in life. Because of that, I have always felt that contributing back to the community is not optional for me, it is a responsibility. Python is the reason for my first dollars of income in my life.
+
+Being considered for PSF Fellow would be an incredible honor and encouragement for me to continue contributing with even greater responsibility and consistency in the years ahead.  And, it's my second time, I'm nominating myself as a PSF fellow.  While I may still be early in my career compared to many respected members of this community, I hope my work, consistency, and willingness to give back reflect the spirit of contribution the PSF Fellow recognition stands for.
+
+#### Julius Boakye
+**Selected in Q2 of 2026**
+
+I, Michael Young, a PSF Fellow and community builder, am delighted to nominate Julius Boakye for Fellow membership in the Python Software Foundation (PSF) in recognition of his extraordinary and sustained contributions to the global Python community.
+
+Julius Boakye is a software engineer, community organizer, international speaker, and open source advocate from Accra, Ghana. Over the years, Julius has been nothing short of exceptional in his contribution to growing and strengthening Python communities both across Africa and internationally.
+
+Julius has been very integral in organizing and supporting numerous Python conferences (PyCon) and community initiatives. He has also spoken at and contributed to conferences such as PyCon Portugal, PyCon Lithuania, PyCon Namibia, PyCon Ghana, and is actively involved in PyCon Africa. He has also volunteered and served as an organizer for DjangoCon Europe, DjangoCon Africa,  and DjangoCon US 2024 & 2025, where he was the Opportunity Grant Co-chair, helping broaden access and inclusion for attendees from around the world, and was key in the communication and design team during PyCon Africa. In addition to these, Julius is an active member of the DSF as an Individual Member and continues to contribute to open source communities through advocacy, mentoring, and educational outreach.
+
+Within Ghana and across Africa, Julius has helped organize meetups, workshops, and technical sessions focused on Python, Django, and open source software during our user group meetups, in PyClubs sessions on university campuses, and during international PyCons. Through these events, he has mentored aspiring developers, introduced newcomers to Python, and created opportunities for others to grow in technology and community leadership.
+
+His contributions go well beyond casual volunteering. He has devoted countless hours to organizing events, mentoring developers, supporting conference accessibility, and promoting Python throughout Africa and beyond. His leadership has led to long-lasting and substantial gains in the number, diversity, and engagement of Python users and contributors.
+
+Julius Boakye exemplifies the values of the Python community: openness, collaboration, inclusion, and service. I strongly believe his extraordinary efforts and enduring impact make him exceptionally deserving of recognition as a Fellow of the PSF.
+
+#### Petr Viktorin
+**Selected in Q2 of 2026** 
+
+I, Stan Ulbrych (CPython and PyPy core developer, Python Security Response
+Team member, and PSF contributing member), Peter Bierma (Python core developer),
+Miro Hrončok (a Czech Python community member and PSF contributing member)
+and Karolina Surma (Outstanding PyLady Awardee 2025, chairwoman of the board of Pyvec, Czech Python nonprofit)
+propose that Petr Viktorin be recognized as a Fellow of the Python Software
+Foundation, due to his significant contributions to the Python community.
+As a Python core team, Python Security Response Team and C API Working Group
+member (and current developer in residence for the PSF!), Petr has made significant
+contributions to CPython. His work does not stop there. For example,
+he has also made great improvements to the Developer Guide and our
+Buildbot infrastructure.
+
+Beyond his technical work, Petr has also been a driving force in the Czech Python
+community. He founded the Czech PyLadies beginners' courses in Brno,
+an initiative that grew into a country-wide program running regularly for over 10 years in
+every major city in Czechia! He has been a long-time participant in the Brno
+Pyvo community meetups, has helped organize every Czech PyCon to date,
+and serves on the board of Pyvec, the Czech Python nonprofit.
+Petr has also organized numerous coaching and teaching projects for
+Czech PyLadies, and has written much of the infrastructure for community
+websites such as pyladies.cz and pyvo.cz.
+
+Finally, Petr has served as a supportive mentor to many contributors, including ourselves!
+Without his mentorship, I, Stan, would not be a Python core developer. Peter
+Bierma also agrees that without Petr's mentorship, he would not even be a CPython
+contributor -- let alone a core developer.
+Miro sincerely believes that Petr's mentorship and long term friendship made him a better person.
+And Karolina is one example of what Petr's kind continuous involvement can help achieve: he's been there for many steps of her path, from print("Hello world!") through community engagement to occasional contributing to CPython. 
+
+#### Sayantika Banik
+**Selected in Q2 of 2026**
+
+I, Abhijeet Mote, would like to nominate Sayantika Banik as a representative from the PSF Diversity & Inclusion Workgroup. Although I do not know her personally, her long-standing contributions to the Python community, work in diversity and inclusion initiatives, and leadership across organizations like Python Software Foundation, PyLadies Bangalore, and Django Software Foundation clearly reflect her commitment to building a welcoming and inclusive community.
+
+Her experience in community building, open-source collaboration, and advocacy for underrepresented groups would make her a valuable voice for the broader Python ecosystem. As part of the D&I workgroup community, I'm excited to support her nomination.
+
+#### Takanori Suzuki
+**Selected in Q2 of 2026**
+
+I, Bae KwonHan, PSF Fellow and PSF Board Director, propose that Takanori Suzuki be recognized as a Fellow of the Python Software Foundation.
+
+I first met Takanori at PyCon APAC in 2013, and he has been at nearly every Python conference I've attended across Asia since. Sometimes as a speaker, sometimes just there alongside everyone else. That kind of consistency, across borders and over years, tells you something.
+
+Since 2019, he has spoken at PyCon events in at least 10 countries and regions outside Japan: South Korea, Taiwan (four times), Indonesia, the Philippines (twice), Singapore, Malaysia, Thailand, Hong Kong (twice), and China. More than 15 appearances in Asia, plus EuroPython four times and PyCon US five times. He doesn't just show up and present. He writes conference reports, follows up with people he meets, and introduces communities to each other. A full record of his talks is at https://slides.takanory.net/.
+
+His involvement in PyCon JP goes back to 2011, when he joined staff for PyCon mini JP, the first PyCon in Japan. He's been there ever since, chairing the conference from 2014 to 2016, co-chairing again for 2024 and 2026, and serving as Representative Board Chair of the PyCon JP Association since 2023. In 2016, he started the Python Bootcamp, a series of tutorials held in cities across Japan, including many that had never hosted anything like it. During COVID, he organized a charity fundraiser for the PSF and ran PyCon JP TV to keep the community together.
+
+He has also written a lot. 21 Python books since 2008, covering beginner introductions, data analysis, and machine learning, several updated across multiple editions as the language changed. He has also translated 4 books into Japanese and supervised 9 more. That's 34 books total, which at some point stops being a publishing credential and starts looking more like a curriculum.
+
+He has been doing this for fifteen years. He meets the criteria.
+
 ### 2026 Q1 Nominations
 
 #### Dhyey Mavani 
