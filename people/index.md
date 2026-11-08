@@ -1,6 +1,6 @@
 # People
 
-This section contains 446 pages.
+This section contains 447 pages.
 
 ```{toctree}
 :maxdepth: 1
