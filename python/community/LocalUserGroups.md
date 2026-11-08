@@ -885,6 +885,14 @@ There are also a number of \"In House Users Group\" within some, (mostly larger)
 
 - Pyladies Ecuador. [Twitter](https://twitter.com/PyladiesEc/), [Facebook](https://www.facebook.com/pyladiesecq/)
 
+### El Salvador
+
+- [Python El Salvador](https://python.org.sv) - San Salvador
+
+  - [Meetup](https://www.meetup.com/python-el-salvador/)
+
+  - [Code of Conduct](https://python.org.sv/codigo-de-conducta/)
+ 
 ### Mexico 
 
 - [- PythonCabal](http://groups.google.com/group/pythoncabal) Python User Group in Guadalajara.
