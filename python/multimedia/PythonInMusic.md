@@ -168,6 +168,8 @@ This page is divided in three sections: Music software written in Python, Music 
 
 - **[sounddevice](http://python-sounddevice.rtfd.org/)** - This module provides bindings for the [PortAudio](http://www.portaudio.com/) library (using [CFFI](https://cffi.rtfd.org/)) and a few convenience functions to play and record [NumPy](http://www.numpy.org/) arrays containing audio signals.
 
+- **[music](https://ttm.github.io/music/)** - A Python package that synthesizes sound sample by sample with NumPy, from the equations of MASS (Music and Audio in Sample Sequences): notes with vibrato and glissando, envelopes, band-limited oscillators, coloured noise and filters, scales and chords, change ringing, spatialization with measured HRTFs, binaural beats and singing. Its documentation has a page of [sounds it computes](https://ttm.github.io/music/listen.html), each under the code that makes it. MIT licensed; `pip install music`.
+
 ### Community 
 
 - **[PythonSound](http://pythonsound.sourceforge.net/)** - The Python Sound Project aims to develop a productive community around Python, Csound and other synthesis engines as tools for algorithmic and computer assisted composition of electroacoustic music.
