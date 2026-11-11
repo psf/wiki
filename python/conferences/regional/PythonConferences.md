@@ -136,6 +136,8 @@ If you are planning a Python conference event, please check the dates in the [Py
 
 - [PyCon Taiwan](https://tw.pycon.org/) (Taiwan)
 
+- [PyCon Tajikistan](https://pycon.tj/) (Tajikistan)
+
 - [PyCon Thailand](https://th.pycon.org) (Thailand)
 
 - [PyCon Turkey](https://tr.pycon.org/) (Turkey)
