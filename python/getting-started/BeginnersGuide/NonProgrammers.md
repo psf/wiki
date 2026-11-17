@@ -64,6 +64,9 @@ These sites give you instant feedback on programming problems that you can solve
 
 - [LabEx - Hands-on Labs](https://labex.io/skilltrees/python) - Practice Python programming with interactive exercises in a web-based coding environment, offering hands-on labs and real-world scenarios.
 
+- - [LearningPeople](https://www.learningpeople.com/uk/courses/coding-courses/python-novice-to-pythonista/) - Accredited online course for IT professionals looking to take their career to the next level.
+
+
 - [LearnPython](https://www.learnpython.org/) is an interactive Python tutorial that is suitable for absolute beginners.
 
 - [Learn Python](https://learn-python.adamemery.dev) - A no install Python course with interactive exercises powered by Pyodide.
