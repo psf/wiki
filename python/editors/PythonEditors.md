@@ -119,6 +119,7 @@ There\'s an [EditorConfigurationHowto](../archive/EditorConfigurationHowto) avai
 | [JupyterLite](https://jupyter.org/try-jupyter/lab/) | A [JupyterLab](./JupyterLab.html) distribution that runs entirely in the browser built from the ground-up using [JupyterLab](./JupyterLab.html) components and extensions. |
 | [Google Colab](https://colab.google/) | A hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. |
 | [Cliprun](https://https://cliprun.com/) | Online Python compiler which supports libraries, file handling & data visualization. Available as [Python Code Runner](https://chromewebstore.google.com/detail/python-code-runner/keiealdacakpnbbljlmhfgcebmaadieg) for Chrome. |
+| [OnlineCompiler.io](https://onlinecompiler.io/python-online-compiler) | Runs Python 3.14 in the browser with standard input; pandas, NumPy and matplotlib are preinstalled. Free, and no account is needed to run code. Also offers share links and a REST API. |
 
 ### Glorified Editors 
 
