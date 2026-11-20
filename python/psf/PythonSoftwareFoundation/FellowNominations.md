@@ -10,6 +10,797 @@ More info about the nomination process can be found here: [https://www.python.or
 
 I, John Doe, propose that Joe User be recognized as a Fellow of the Python Software Foundation, due to his significant contributions to the Python community as a co-founder of the [PyCon](../../conferences/pycon/PyCon) Foobar regional conference, a lead organizer for the 2011 and 2012 editions of the Marsian Python community\'s flagship Python conference, [MarsPython](./MarsPython.html) and as a long-term contributor to international collaborative efforts amongst the Marsian Python community.
 
+### 2026 Q4 Nominations
+
+#### Aditya Ranjan
+I, Aditya Ranjan, respectfully submit my self-nomination for consideration for Fellow Membership of the Python Software Foundation during the Q4 2026 nomination cycle.
+
+I am a Senior Data Engineer with more than 16 years of experience in software engineering, distributed data processing, Python-based automation, and scalable data architectures.
+
+My nomination focuses on my public technical writing and educational contributions related to Python-based data engineering, particularly PySpark performance optimization, recursive schema compatibility, and reliable workflow orchestration.
+
+Through my published technical articles, I aim to make complex engineering concepts more accessible to practitioners by explaining the underlying causes of performance bottlenecks, data compatibility failures, and workflow reliability challenges.
+
+My technical work emphasizes reproducible engineering methods, deterministic verification, schema correctness, idempotency, maintainable architecture, and systematic performance analysis.
+
+The attached nomination provides:
+
+   - A detailed account of my public technical authorship and its educational value.
+
+   - An original, non-proprietary technical synthesis for reasoning about reliable Python data pipelines.
+
+   - A criterion-by-criterion explanation of how my work relates to the published PSF Fellow requirements.
+
+   - Publicly identifiable references for evaluating my technical contributions.
+
+I value the Python community's emphasis on accessible knowledge, open collaboration, technical excellence, respectful participation, and responsible software engineering.
+
+I would also like to highlight my ongoing and completed open-source engineering activities, which reflect my commitment to improving the reliability, correctness, performance, and maintainability of widely used data engineering technologies, including Python-based ecosystems.
+
+Apache Airflow (Python-based workflow orchestration)
+
+    PR #76965 — Proposed improvements to trigger API scalability for large DAG authorization sets, including regression tests and maintainer review.
+
+    Issue #76852 — Investigated unwanted debug output in the asynchronous S3Hook implementation and prepared a targeted fix with test coverage.
+
+    Issue #76851 — Additional investigation involving Airflow reliability.
+
+    PR #76367 — Participated in technical code review and provided feedback.
+
+Apache Spark / PySpark Ecosystem
+
+    SPARK-60027 — Investigated floating-point row-ordering and correctness behavior.
+
+    SPARK-60865 / PR #60047 — Worked on development tooling and Ruff formatting compatibility.
+
+    Contributed technical analysis and educational writing on Spark performance optimization, distributed processing, and architectural efficiency.
+
+Apache Iceberg
+
+    PR #18813 / Issue #18723 — Proposed improvements to signed-zero predicate evaluation and associated regression testing.
+
+    PR #18823 / Issue #18797 — Investigated a JDBC lock factory initialization race and developed a proposed concurrency fix with tests.
+
+    Issue #18886 — Investigated signed-zero behavior in Parquet dictionary filtering.
+
+    Issue #18943 — Worked on S3 client preloading behavior.
+
+    Issue #19045 — Investigating integer truncation and partition projection correctness, including regression tests.
+
+    Participated in technical discussions involving Azure storage credential handling and other Iceberg reliability issues.
+
+dbt Open-Source Ecosystem
+
+    dbt Core PR #17230 — Worked on development tooling improvements and associated review feedback.
+
+    dbt Hub PR #4841 — Submitted GitHub Actions checkout compatibility improvements.
+
+    dbt-jsonschema PR #267 — Added test coverage for Jinja Boolean configuration handling.
+
+Across these projects, my work includes issue analysis, reproducible defect investigation, proposed code changes, regression testing, technical review, and collaboration with maintainers. Some contributions remain under review, and I recognize the importance of distinguishing submitted work from accepted or merged changes.
+
+In addition, I actively share technical knowledge through published articles and independent research on Python-based data pipelines, PySpark optimization, schema compatibility, data correctness, and reliable workflow orchestration.
+
+My goal is to contribute not only code but also reproducible engineering knowledge that helps developers build more dependable systems.
+
+Public GitHub profile:
+https://github.com/adiranjan25
+
+#### Ahmed Ibrahim
+I, Shaghayegh Moradirad, am writing to put Ahmed Ibrahim forward for PSF Fellow recognition. I’ve worked with Ahmed at OpenAI and strongly support his nomination. He brings care to his engineering work and makes time to help others grow, mentoring many new graduates and other engineers. His contributions to pandas and the Codex Python SDK provide a public record of his service to the Python ecosystem.
+
+In pandas, Ahmed contributed improvements that make everyday data-analysis operations more useful and consistent. He added custom names for DataFrame comparison results, contributed the transition to consistent tuple keys when iterating over groups specified by a one-element list, and fixed grouped resampling on empty DataFrames. These contributions included tests and release documentation. His name appears in the contributor lists for both pandas 1.5.0 and pandas 2.0.0, which document the resulting features and fixes.
+
+More recently, Ahmed has helped improve the reliability and usability of the open-source Codex Python SDK. Three examples illustrate the substance of that work:
+
+   - Integration testing: he added deterministic tests against the actual pinned app-server process, exercising synchronous and asynchronous Python clients, streaming, approvals, and session operations while mocking the upstream service.
+   - Documentation and packaging: he prepared the PyPI-facing README, installation and authentication examples, Python help documentation, and package validation, helping developers install and understand the SDK.
+   - Release engineering: he added an independent beta-release workflow, stable-runtime pinning, and PyPI publishing infrastructure.
+
+The SDK is a collaborative project, and Ahmed’s work supports a package that other Python projects have integrated. Public examples include Argonne-LCF’s ChemGraph and Volcengine’s Python agent-development kit. These integrations show the reach of the shared tooling he helps maintain.
+
+His support for developers extends beyond code. Alongside the mentoring I know from working with him, he has supported computer science courses at Minerva University and provided technical interview preparation and mentoring. I value both sides of his contribution: improving tools people depend on and helping engineers develop their own skills.
+
+I would be proud to see Ahmed’s work recognized. Please consider his case through the Working Group’s nomination process, and let me know whether Ahmed or I need to complete any membership formalities before it can be considered.
+
+#### Akash Rana
+I, Riyansh Karani, nominate Akash Rana for PSF Fellow membership for his Python engineering, open-source contributions, and teaching. I am a Senior Software Engineer at Waymo. Akash and I have been friends since college, built several projects together, and later worked at Rhombus Power.
+
+At Rhombus Power, Akash worked as a Senior Data Engineer developing Python software for the company’s analytical products. He built predictive models, optimization tools, and scalable data pipelines, and improved the performance and memory use of batch-processing jobs. He delivered Python systems that supported data analysis, forecasting, and resource-allocation decisions for the U.S. Department of Defense and the U.S. Air Force. These systems ran in public and government cloud environments.
+
+At Acubed, Airbus’s research center, Akash was a Senior Data Engineer on Wayfinder’s Python data platform for autonomous-flight research. He developed pipelines supporting more than 80 million images and labels, improved parallel processing and data access, and supported the training and evaluation of vision models. He also taught colleagues to use the platform and query its data independently.
+
+At Microsoft, Akash maintains and extends Compass, an internal Python system that uses retrieval-augmented generation (RAG) to answer questions over engineering documentation. The shared service indexed documentation for approximately 40 teams, allowing them to reuse ingestion, retrieval, and model integration. His work also includes AutoGen prototypes, MCP integrations, and automation of daily on-call reporting using Agents.
+
+Our undergraduate work included image-processing kernels Akash developed for a handwriting-recognition system and the Python client and Django interface he built for our SCARA robot. We also co-authored a 2016 paper (https://www.google.com/url?q=https://airccj.org/CSCP/vol6/csit65903.pdf&source=gmail&ust=1795287976350000&sa=E) on floating-point division architecture. We passed SCARA to the next student cohort and published the code in my GitHub repository, which credits Akash. As IEEE Student Council Technical Head, he also helped run Python and Arduino workshops for roughly 50 students.
+
+Handwriting-recognition project: https://www.google.com/url?q=https://github.com/ironstein0/handwriting-recognition-using-neural-networks-on-FPGA-final-year-project&source=gmail&ust=1795287976350000&sa=E
+SCARA code and team credits: https://www.google.com/url?q=https://github.com/RiyanshKarani01235/scara&source=gmail&ust=1795287976350000&sa=E
+
+In 2017, Akash independently studied Stanford’s CS224n natural language processing course through its YouTube lectures and online materials. He solved the assignments himself in Python and published his solutions and explanations on GitHub so others could learn from his work. The BEGAN project also merged his Python script for downloading and unpacking training data. I recommend him for his sustained engineering contributions and his willingness to share useful code and knowledge with others.
+
+CS224n repository: https://www.google.com/url?q=https://github.com/akash9182/CS224n&source=gmail&ust=1795287976350000&sa=E
+BEGAN contribution: https://www.google.com/url?q=https://github.com/artcg/BEGAN/pull/5&source=gmail&ust=1795287976350000&sa=E
+
+#### Ali Tavallaie
+I, Alireza Sadraei, propose that Ali Tavallaie be recognized as a Fellow of the Python Software Foundation for his extraordinary and long-standing contributions to the Python community, particularly in Iran and the broader MENA region.
+
+I have known Ali for several years, have worked with him closely, and have witnessed firsthand his technical abilities, leadership, and exceptional skills in public speaking and community building. I have been a professional programmer for over 10 years. I currently work as a Generative AI Developer at Miba AG, and Python has been my primary programming language for many years. From this perspective, I can confidently say that Ali is one of the strongest and most dedicated Python community leaders I have encountered.
+
+Ali’s contributions include:
+
+   - Core member and long-term organizer of the Tehran Python User Group (TehPug) and Tehran Linux User Group (TehLUG). He has been actively involved in organizing and running approximately 280 volunteer-driven meetups and sessions, many of which have had around 200 participants. These events have been free, community-run, and often supported personally by the organizers.
+   - Member of the Python Software Foundation Diversity & Inclusion Workgroup (PSF D&I WG), where he works to make the Python community more global and inclusive.
+   - PyTorch Foundation Ambassador (2026–2028 cohort).
+   - Open-source maintainer and contributor: Maintainer of PGMQ (a lightweight message queue on PostgreSQL with 5,000+ GitHub stars) and its Python client; contributor to CPython, Kombu, Hugging Face speech-to-speech, Perth, and other projects.
+   - Teaching and education: Involved with PyTeach, charity teaching of AI/Python, participation in programs such as Stanford Data Ocean, and contribution to the Persian translation of Think Python.
+   - Regular speaker at local events (TehPug, PyDay Iran, and others), sharing knowledge on Python, queues, presentations, community building, and AI.
+
+Ali has demonstrated both technical excellence and exceptional community leadership. His work has had a lasting positive impact on the number and quality of Python users in a challenging environment, and he consistently exemplifies the values we aspire to in the Python community.
+
+#### Aseda Addai-Deseh
+I, Abigail Mesrenyame Dogbe, propose that Aseda Addai-Deseh be recognized as a Fellow of the Python Software Foundation, for her significant contributions to the Python Software Community, specifically with PyLadies Ghana as a Team player and the Lead for the community's Data Science Initiative, IndabaX Ghana, Women in Machine Learning and Data Science and volunteering at PyCon US.
+
+Aseda has been at the forefront of Leading the Data Science Initiative since 2019 which has helped increase the PyLadies Ghana and Python Ghana membership as a whole. She has helped organize boot camps and meetups that have provided training materials and tutorials to about 60 women from Ghana, Nigeria, Tanzania, etc. During these sessions, she coordinated all volunteering efforts from other members and mentors. This effort has led to some members gaining full-time Data Science roles and others finding a career path using Python for Data Science. Her vision for the community is to help more women land these roles.
+
+In 2019, Aseda gave a talk on "A reintroduction to Data Science" at the first-ever PyCon Africa, hosted in Ghana. Her session was published here (https://www.youtube.com/watch?v=CyMhOsTJLQk). Like other members of the community, I have benefitted from Aseda's willingness to collaborate and achieve the goals of the community.
+
+Her leadership and dedicated service to the data science ecosystems in Ghana as a core organizer of the Ghana Data Science Summit (IndabaX Ghana) and co-lead of the Women in Machine Learning & Data Science (WiMLDS) Accra chapter has been amazing. Aseda has consistently built accessible pathways for thousands of Africans to master Python and machine learning. Her efforts in organizing large-scale technical conferences, leading hands-on workshops, and championing gender diversity in tech have empowered an entire generation of local developers and researchers. By bridging the gap between local talent and global AI advancements, Aseda embodies the spirit of community service, making her exceptionally deserving of this honor.
+
+#### Aswanth R
+I'm Aswanth R, a 17-year-old student, security researcher, and Contributing Member of the PSF from India. I’d like to nominate myself for Fellow membership.
+
+I’m writing this myself because I’ve built and maintained my main project largely on my own. It’s called Pytml—a lightweight JavaScript bridge built on Pyodide that lets people run Python in the browser using a simple script tag, without needing a backend or build step.
+
+I actually built Pytml out of personal necessity. A lot of browser-Python setups break without a server or active connection. I wanted something that works offline over local file:// pages so students in classrooms with spotty internet could learn Python without setup friction. It handles inline scripts, DOM events, standard input(), canvas/audio helpers, and micropip packages.
+
+A few quick details:
+
+- Currently at version 2.5 across 7 releases under Apache 2.0.
+
+- Includes complete project governance (Code of Conduct, Security, Contributing, Changelog, and security.txt).
+
+- Includes interactive demos, tutorials, and documentation.
+
+Python has been a huge part of my learning path, and Pytml is my way of making it easier for others to start coding. Thanks so much for taking the time to read this.
+
+Pytml - https://pytml.js.org
+
+Portfolio - https://a-r.is-a.dev
+
+#### Calvin Tsang
+On behalf of the PSF Diversity and Inclusion Workgroup, I, Goergi Ker, am pleased to submit the following nomination for PSF Fellow. Calvin Tsang has served the Python community in Hong Kong and across Asia-Pacific through more than a decade of sustained volunteer organising, community leadership and regional collaboration.
+
+He has been active in open source since 2013 and has helped organise PyCon Hong Kong since its first edition in 2015. He was Marketing Lead in 2018 and Vice President in 2024, and he chaired PyCon HK 2026, the conference’s 12th edition, which drew participants from more than 17 regions and received more than 110 talk proposals. PyCon HK is fully volunteer-run. Calvin has built what lets it last from year to year: sponsorship strategy, volunteer recruitment and mentoring, partnerships with local institutions, and consistent branding.
+
+As Vice President of Open Source Hong Kong (OSHK), he has helped organise more than 100 community events on Python, Open Data, IoT and cloud-native technology. He co-hosts the regular OSHK x Hong Kong Python User Group meetups, which have passed their 87th edition. In 2025 he co-founded PyLadies Hong Kong to create a dedicated space for women in the local community.
+
+Calvin also links communities across the region. He served on the PyCon APAC organising committee, volunteers with the Python Asia Organization, and keeps up active exchanges with Python communities in Taiwan, Japan, Korea, the Philippines, Indonesia, Singapore, Malaysia and India. He works in Chinese, English and Japanese. 
+
+Taken together his more than ten years of organising PyCon Hong Kong, his leadership of local meetups and events, and his work connecting communities across Asia-Pacific clearly meet the Fellow criteria for extraordinary service through organising and promoting Python. His efforts have produced lasting gains in the number and reach of Python users in Hong Kong and the wider region.
+
+We believe Calvin Tsang is an exemplary member of the Python community and a strong candidate for PSF Fellow status.
+
+    https://www.linkedin.com/in/calvin-tsang-a03811169/
+    https://opensource.hk/author/calvintsang/
+    https://github.com/DebugTsang
+
+#### Carolina Gómez Trejos
+On behalf of the PSF Diversity and Inclusion Workgroup, I, Goergi Ker, am pleased to submit the following nomination for PSF Fellow. Carolina Gómez Trejos has served the Python and Django community in Colombia through sustained organizing, teaching, and speaking since 2017, with a clear focus on bringing women and people outside the capital cities into tech.
+
+In 2017, she helped organize the first Django Girls workshop in Pereira. From that effort, the first Python Pereira community was created, giving the local community a lasting space to share knowledge. In 2018, she became an organizer of Django Girls Colombia and has since helped organize more than 20 workshops in different cities across the country, reaching more than 1,000 people, mostly women. In 2025, she was nominated, seconded, and approved as an Individual Member of the Django Software Foundation in recognition of this work and her support for community growth and inclusion in tech (https://www.djangoproject.com/foundation/individual-members/).
+
+Since 2019, she has been an organizer of Python Medellín, which holds monthly meetups with around 70 attendees each, sharing knowledge and promoting Python in the city. Since 2025, she has co-led Python Colombia together with Karolina Ladino and Nicole Franco as a triumvirate. In this role, they have organized two PyDays, in Bogotá and in Sogamoso, Boyacá, where the most recent one gathered around 120 attendees. They have also launched new initiatives such as a refreshed website, a learning path for people who want to start with Python, a newsletter, and a podcast.
+
+She has contributed to PyCon Colombia every year from 2018 to 2025, helping propose keynote speakers, taking part in the talk selection process, and serving as master of ceremonies in different auditoriums.
+
+She also shares her knowledge through teaching and speaking. In 2023 and 2024, she was an instructor at Código Facilito, teaching Python and Django in the Backend with Python bootcamp (https://codigofacilito.com/programas/backend-python-g2/profesores) and the Advanced Python bootcamp (https://codigofacilito.com/programas/python-avanzado-g2/profesores). She presented “Automation of tasks with Selenium” at PyCon Colombia 2019 (https://2019.pycon.co/ponencias/automatizacion-de-tareas-con-selenium/) and, in 2026, “Código con impacto: Cómo escalamos Django Girls Colombia automatizando lo invisible” at PyLatam.
+
+Taken together, her nine years of consistent community organizing, her work creating new local communities, her teaching, and her deliberate efforts to include women and people outside major cities clearly meet the Fellow criteria for extraordinary service through organizing, promoting, and teaching Python. Her efforts have produced lasting gains in the number, quality, and inclusivity of Python users in Colombia.
+
+We believe Carolina Gómez Trejos is an exemplary member of the Python community and a strong candidate for PSF Fellow status.
+
+    https://www.linkedin.com/in/carolinagomezt/ 		
+    https://carogomezt.github.io/
+
+#### Chaitanya Cawatapali 
+My name is Laurens de Jong and I want to nominate Chaitanya Cawatapali as a Fellow of the Python Software Foundation.
+ 
+The recognition is for Chaitanya’s work on a project launched in 2020. They designed and delivered a Python‑based pipeline that securely bridges our internal Identity and Access Management (IAM) systems with Adobe Cloud/Admin Console. The solution automatically synchronizes user permissions across multiple AEM environments. The result for the business is no manual provisioning effort and subsequent improved security compliance.
+
+#### Gabriela Villarreal
+I, Denny Perez, would like to nominate Gabriela Villarreal for Fellow Membership in the Python Software Foundation.
+
+Gabriela Villarreal is a Psychopedagogue and a long-time member of the Python community in Mexico. With her husband, she started the Python Monterrey community in 2012 and has remained involved for more than a decade.
+
+Gabriela helped organize the first PyCon Latam in 2019. I have had the opportunity to work closely with her on the PyCon Latam organizing team since 2020. Throughout these years, she has consistently collaborated across different areas of the conference and has been an active, reliable member of the organizing team.
+
+Outside of PyCon Latam, Gabriela works with students at the primary and secondary school levels. She also continues to contribute to the Python community in Mexico and is currently organizing PyDay Mexico, with four PyDay events in four different cities across the country.
+
+Gabriela's long-standing involvement with Python Monterrey, PyCon Latam, and other Python events in Mexico demonstrates her sustained commitment to the Python community. I believe her years of volunteer work and contributions to organizing Python communities and events make her a strong candidate for PSF Fellow Membership.
+
+#### Fatemeh Tarashi Kashani
+On behalf of the PSF Diversity and Inclusion Workgroup, I, Goergi Ker, am pleased to submit the following nomination for PSF Fellow. Fatemeh has served the Python community through sustained, extraordinary efforts in organizing local events, teaching, and building inclusive spaces for Python users in Iran. This work has continued for more than a decade under challenging circumstances.
+
+Since 2013 she has been a core organizer of the Tehran Python Users Group (TehPUG). Under her continuous involvement the group has held 87 meetups and several workshops. Fatemeh has been one of the organizers for essentially every one of these events, helping keep a regular, welcoming local community alive, encouraging speakers, facilitating discussions, and maintaining the group’s presence and mailing list. This long-term stewardship has created a lasting home for Python learners and practitioners in the region.
+
+In parallel, she has contributed directly to the broader Python ecosystem as a volunteer editor of the Python Wiki (since 2015) and as a PSF Managing Member. She has also shared her knowledge publicly: she presented on NumPy and SciPy at IrPyCon 2016 and more recently spoke at PyDay Iran 2025. Beyond pure Python events, she managed WeTech (2017–2018), a Girls’ Tech Meetup focused on empowering young women in technology. This was an explicit and practical contribution to diversity and inclusion.
+
+Fatemeh’s technical background in computational algebraic geometry and her work as a mathematical developer and educator further amplify her impact. She teaches Python (and C++) to youth and adults, and she maintains curated resources that lower barriers for people interested in specialized areas of the scientific Python stack.
+
+Taken together, her more than twelve years of consistent community organizing (including 87 TehPUG meetups plus workshops), her deliberate efforts to create space for underrepresented groups (especially women and local developers in Iran), and her ongoing public teaching and documentation work clearly meet the Fellow criteria for extraordinary service through organizing, promoting, and teaching Python. Her efforts have produced long-lasting gains in the number, quality, and inclusivity of Python users in her region and have been recognized as going well beyond ordinary volunteering.
+
+We believe Fatemeh Tarashi Kashani is an exemplary member of the Python community and a strong candidate for PSF Fellow status.
+https://www.linkedin.com/in/fatemehtarashi/?skipRedirect=true
+https://github.com/FatemehTarashi
+
+#### Geoffrey Logovi
+I, Abigail Mesrenyame Dogbe, am pleased to nominate Geoffrey Logovi for recognition as a Fellow of the Python Software Foundation for his significant and growing contributions to the Python and open-source communities in Togo and across Africa. 
+
+Geoffrey is a co-founder of Python Togo and has played an important role in building the community, developing its programs, engaging new members, and creating pathways for people in Togo to participate in the global Python ecosystem. His work includes contributing to the development of PyCon Togo, supporting its mentorship initiatives, engaging potential sponsors and partners, and helping connect local developers and students with opportunities in the wider open-source community. Through these efforts, Geoffrey is helping establish the foundations of a sustainable Python community in Togo rather than simply organizing individual events.
+
+Geoffrey's contribution also extends beyond Python events into open-source education, developer advocacy, and community enablement. As Programme Manager for Hyver's Open Source for All program, he works on onboarding young people and students into open source, helping them develop skills, contribute to projects, and access international opportunities. He has also created and maintained educational resources such as LearningHub, a collaborative repository designed to enable students and educators to share learning materials, project guides, sample code, and other resources.
+
+Similar to Wachiou, I have been personally fascinated about all the work Geoffrey has done in his country and how it inspires the french community in Africa.
+
+#### José Arnulfo Reyes Hernández
+I, Denny Perez, would like to nominate José Arnulfo Reyes Hernández, known in the community as Arnulfo Reyes, for Fellow Membership in the Python Software Foundation.
+
+I first met Arnulfo through PyCon Latam in 2019, where he was part of the volunteer team. Since then, I have had the opportunity to follow his work with Python Panamá and to collaborate with him through different initiatives in the Latin American Python community.
+
+Arnulfo has been contributing to the Python community since 2014 and has led Python Panamá since 2019. Together with the volunteer team, he helped move the community from annual meetups to monthly gatherings between July 2019 and June 2021, maintaining community activities during the pandemic.
+
+He is also a coordinator of PyCon Panamá, which started as PyConnect and continued with editions in 2024 and 2025. Since 2024, he has promoted PyCafé, a community space for people to meet, exchange knowledge, and stay connected.
+
+In 2025, Arnulfo coordinated the Python Route, an initiative that brought Python learning activities to provinces outside Panama City. The program reached approximately 80 participants and provided more than 40 hours of Python sessions across different skill levels.
+
+His contributions also extend beyond Panama. Arnulfo has volunteered with the PyCon US Charlas team and was invited as a keynote speaker at PyCon Latam 2025.
+
+Over the years, I have seen Arnulfo consistently contribute his time to building and maintaining Python communities. His work in Panama, together with his participation in regional and international Python initiatives, reflects a sustained commitment to the community.
+
+For these reasons, I am happy to nominate Arnulfo for PSF Fellow Membership.
+
+#### Karim Shoair
+I Karim Shoair, would like to nominate myself for PSF Fellow membership for creating and maintaining Scrapling, an open-source Python web-scraping framework I first released in 2024, and multiple widely used Python projects on my GitHub that I built over the years.
+
+I built Scrapling to solve a problem I kept running into: when a site changes its HTML, selectors that worked yesterday can stop working. Scrapling’s adaptive selectors can find the same elements after the page structure changes. I maintain the documentation and published a hands-on Python tutorial so other developers can use that approach in their own crawlers.
+
+Scrapling has millions of downloads and more than 104,000 GitHub stars. One example is Chile Hub, an independent open-data project. Its pipeline uses Scrapling to collect roster and mandate data for Chile’s 50 senators and add district information for 155 deputies.
+
+#### Keanya Phelps
+On behalf of the PSF Diversity and Inclusion Workgroup, I, Goergi Ker, am pleased to submit the following nomination for PSF Fellow. Keanya Phelps has served the Python and Django communities through conference leadership, mentoring and advocacy, with a clear focus on making the community welcoming to newcomers, career changers and people from underrepresented communities.
+
+Keanya came to tech in mid-career through a coding bootcamp and has become one of the clearest voices in the community for people who take a similar route. Her involvement with DjangoCon US grew quickly. She spoke in 2023, chaired the sprints in 2024, and then wrote the proposal that brought DjangoCon US to Chicago, where she served as Conference Chair in 2025. 
+
+She mentors as well as organises. As a Captain in Djangonaut Space, she guided new contributors through their first contributions to Django. She has spoken about mentoring and pair programming in the Django community, including at DjangoCon Europe 2024. She is an Individual Member of the Django Software Foundation and stood for its Board in 2025.
+
+She is also a member of the PSF Diversity and Inclusion Workgroup, where she supports the Workgroup’s efforts to make the wider Python community more inclusive. 
+
+Taken together, her conference leadership, her mentoring of new contributors and her dedicated work on inclusion clearly meet the Fellow criteria for extraordinary service through organising, coordinating and promoting Python. Her efforts have produced lasting gains in the number and inclusivity of people who take part in the Python and Django communities.
+
+We believe Keanya Phelps is an exemplary member of the Python community and a strong candidate for PSF Fellow status.
+
+    https://www.linkedin.com/in/keanyaphelps/
+    https://djangochat.com/episodes/from-bootcamp-to-project-manager-keanya-phelps
+
+#### María José Molina-Contreras
+On behalf of the PSF Diversity and Inclusion Workgroup, I, Goergi Ker, am pleased to submit the following nomination for PSF Fellow. María José Molina-Contreras is a Berlin-based data scientist with a PhD in biotechnology. For years she has organised, mentored and spoken in the Python community, with a focus on helping women and Spanish speakers learn Python and take on leadership roles.
+
+She has been an organiser of PyLadiesCon since 2023. In 2024 and 2025, she co-chaired the conference. PyLadiesCon brings together PyLadies chapters and learners from around the world, many of whom cannot travel to in-person events.
+
+She co-founded PyLadies en Español to create a space for Spanish-speaking women in Python. She also contributes to the Spanish translation of the official Python documentation (Python Docs ES) and has coordinated the Python en Español Discord community. Her work makes Python’s core resources available to millions of Spanish speakers.
+
+She has volunteered at EuroPython since 2023. She also shares her knowledge as a speaker at EuroPython (2019, 2021 and 2023) and PyCon US (2022 and 2024), where her talks on machine learning, TinyML and beginner-friendly hardware projects show the many ways people use Python.
+
+Her service has been recognised twice this year: with a PSF Community Service Award in Q2 2026 and with a 2026 PyLadies Award from the PyLadies Global Council.
+
+Taken together, her organising, translation, mentoring and speaking clearly meet the Fellow criteria for extraordinary service through organising, promoting and teaching Python. Her efforts have produced lasting gains in the number and inclusivity of Python users, especially women and Spanish speakers.
+
+We believe María José Molina-Contreras is an exemplary member of the Python community and a strong candidate for PSF Fellow status.
+
+    https://www.linkedin.com/in/mjmolinacontreras/
+    https://aiforautomation.dev/about
+#### Max Schmitt
+I, Peter Morgan, would like to nominate Max Schmitt (https://github.com/mxschmitt) for his contributions to Python browser automation and testing.
+
+Max co-created Playwright for Python, giving Python developers a way to automate Chromium, Firefox and WebKit through one API. He also created and maintained pytest-playwright, bringing those capabilities into the pytest workflow. His initial pull request introduced the plugin, tests, packaging and CI.
+
+These tools have made cross-browser testing more accessible to Python developers. Playwright for Python has over 134M downloads/month and 15,000 GitHub stars, reflecting the project’s broad adoption and community interest. Max’s sustained engineering and support for its users have made a meaningful contribution to the Python ecosystem.
+
+#### Nicole Franco León
+On behalf of the PSF Diversity and Inclusion Workgroup, I, Goergi Ker, am pleased to submit the following nomination for PSF Fellow. Nicole Franco León is a Colombian geographical and environmental engineer who has spent eight years helping more people discover, learn and stay in Python. Her work spans local organizing, national leadership, beginner workshops and Spanish-language talks, all with a common thread: opening doors for those often left out of tech spaces, especially women and people outside Colombia’s main cities.
+
+Since 2025 she has been one of the three members of the triumvirate leading Python Colombia. Under this leadership the community organized PyDay Bogotá (October 2025) and PyDay Boyacá (2026). Taking these events to regional cities brings Python where technical gatherings are scarce. Before joining the leadership, she volunteered at PyCon Colombia.
+Much of her experience was built in PyLadies Bogotá, which she joined as a volunteer in 2018 and now leads, keeping it a welcoming place for women to learn, share their projects and gain confidence.
+
+Nicole also shows up where newcomers take their first steps. She helped organize Humble Data Bogotá in 2023 and has supported the lead organizers of Django Girls Bogotá 2025, Django Girls global virtual 2026 and Django Girls Boyacá 2026, accompanying participants as they write their first programs and encouraging them to continue.
+
+Her background in GIS, remote sensing and spatial analysis gives her a distinctive voice. She uses Python and open source geospatial tools in conservation work and shares that knowledge in Spanish: she presented “Álgebra de mapas en Python” at PyCon US Charlas 2022 and “Jaguares y serpientes” in 2023, and “De ArcPy al ecosistema open source: mi migración hacia un análisis geoespacial sin fronteras” at PyCon Latam 2026. These talks broaden the idea of who uses Python and why.
+
+Nicole also co-founded Fundación Átoma, an organization devoted to technology learning with a human purpose, whose goal is to create more inclusive spaces for people, especially women, to enter and grow in tech.
+
+Taken together, her eight years of community organising, her leadership of PyLadies Bogotá and Python Colombia, her support for newcomers’ first steps, and her Spanish-language teaching clearly meet the Fellow criteria for extraordinary service through organising, promoting and teaching Python. Her efforts have produced lasting gains in the number, quality and inclusivity of Python users in Colombia.
+
+We believe Nicole Franco León is an exemplary member of the Python community and a strong candidate for PSF Fellow status.
+
+    https://www.linkedin.com/in/nicolefrale/ 
+
+#### Nihan Kumar
+My name is Nihan Kumar, and I would like to submit my self-nomination for consideration as a Fellow of the Python Software Foundation (PSF).
+
+I have over 10 years of professional experience working with Python, with a strong focus on software engineering, enterprise application development, process automation, system integration, and technical problem-solving.
+
+Throughout my professional career, I have continuously worked with Python technologies, applying my technical knowledge to develop software solutions, improve application performance, streamline operational processes, and address complex engineering challenges.
+
+Although my professional experience has primarily focused on industry-level Python development rather than direct participation in open-source or Python community initiatives, I would like to present my technical expertise and professional achievements for consideration under the PSF Fellowship criteria.
+
+1. Extensive Professional Experience in Python Development
+
+Over the past decade, I have developed substantial knowledge and practical expertise in Python programming and its applications across software development and enterprise technology environments.
+
+My professional experience has enabled me to understand Python's capabilities, programming paradigms, software architecture principles, and practical applications in addressing complex technical requirements.
+
+My areas of professional experience include:
+
+    Python application development and maintenance.
+
+    Backend software engineering and application architecture.
+
+    Automation of repetitive and complex technical processes.
+
+    Data processing, transformation, and integration.
+
+    Development of reusable Python modules and software utilities.
+
+    Application debugging, testing, and performance optimization.
+
+    Integration of Python-based applications with enterprise systems.
+
+    Implementation of reliable and maintainable software solutions.
+
+Through my experience, I have developed a strong technical foundation in applying Python to real-world engineering challenges while supporting software quality, operational efficiency, and application maintainability.
+
+2. Professional Contributions Through Python Software Engineering
+
+Throughout my professional journey, I have focused on utilizing Python to develop technology solutions and address complex software engineering requirements.
+
+My contributions have primarily involved applying Python programming techniques to improve the functionality, efficiency, and reliability of software applications.
+
+My experience spans several areas of Python engineering:
+
+Python-Based Software Development
+
+I have worked on Python-based software applications designed to address technical and operational requirements. My experience includes developing application functionality, implementing programming logic, and maintaining software solutions to support business and engineering needs.
+
+Automation and Process Optimization
+
+I have used Python to support the automation of technical processes and repetitive workflows. Such applications demonstrate Python's ability to simplify complex operations, reduce manual effort, and improve process consistency.
+
+Reusable Software Development
+
+My Python experience includes working with modular programming approaches and reusable software components to support maintainability and efficient development practices.
+
+System Integration and Data Processing
+
+I have applied Python in professional environments where software systems require data processing, integration, and communication across applications and enterprise technologies.
+
+Application Quality and Performance
+
+I have developed practical knowledge of testing, debugging, maintaining, and optimizing Python applications, supporting reliable software performance and sustainable development.
+
+These areas represent my professional engagement with Python and its practical implementation within enterprise software engineering.
+
+3. Contributions to Enterprise Automation and Technical Efficiency
+
+One of the important areas of my professional experience has been applying Python to improve technical processes and support automation.
+
+I recognize Python as a powerful technology for simplifying software workflows, improving operational consistency, and supporting scalable software development.
+
+Throughout my career, I have worked with Python-based approaches for addressing automation and development requirements, including:
+
+    Automating repetitive technical activities.
+
+    Supporting efficient data processing and transformation.
+
+    Improving the consistency of software-driven workflows.
+
+    Developing maintainable scripts and application components.
+
+    Integrating applications and services using Python.
+
+    Supporting technical troubleshooting and software improvements.
+
+My work with Python has provided extensive exposure to the practical challenges of developing and maintaining software in professional environments.
+
+Representative Project Impact: [Insert verified examples of Python automation projects, technical improvements, measurable results, or systems supported.]
+
+4. Supporting the Professional Adoption and Application of Python
+
+Throughout my professional career, I have actively utilized Python as a core technology for developing software solutions and addressing engineering requirements.
+
+My experience demonstrates the practical value of Python in professional software development, particularly in supporting automation, application integration, data processing, and software maintainability.
+
+Through my work, I have gained an understanding of how Python-based solutions can help organizations improve technical operations and implement software-driven processes.
+
+Where supported by project evidence, my contributions can also be demonstrated through reusable technical solutions, organizational adoption of Python applications, and improvements achieved through Python-based engineering.
+
+I believe that the professional application of Python is an important part of its broader technology ecosystem.
+
+5. Sustained Commitment to Python Technologies
+
+My continued involvement with Python for more than a decade reflects my professional commitment to using and developing expertise in the language.
+
+Throughout my career, I have consistently strengthened my Python programming knowledge and applied it to increasingly complex software engineering requirements.
+
+I have developed an appreciation for Python's flexibility, readability, extensive ecosystem, and ability to support a wide variety of technology solutions.
+
+My long-term professional experience has reinforced my interest in Python and its continued development as a widely used programming language.
+
+6. Nature of My Contributions
+
+I would like to clarify that my contributions to Python have primarily been through professional software engineering and enterprise technology applications, rather than through direct contributions to the public Python open-source community.
+
+I have not been actively involved in Python community activities, such as organizing conferences, maintaining public Python packages, or participating in community volunteer initiatives.
+
+However, I have spent more than 10 years applying Python in professional environments, developing technical expertise, addressing software engineering challenges, and supporting Python-based technology solutions.
+
+I respectfully request that the PSF Fellow Work Group consider whether my professional technical achievements and sustained engagement with Python can qualify as relevant contributions under the Fellowship criteria.
+
+I understand that professional experience alone does not necessarily establish eligibility for Fellowship and that extraordinary impact on Python and its community is an important consideration.
+
+7. Conclusion and Request for Fellowship Consideration
+
+I respectfully submit my self-nomination for consideration as a Fellow of the Python Software Foundation.
+
+With more than 10 years of experience in Python programming and software engineering, I have developed extensive technical knowledge of Python and its application in professional technology environments.
+
+My career has involved working with Python-based software solutions, automation, enterprise development practices, and complex engineering requirements.
+
+#### Nikita Pastukhov 
+I am Kirill Podoprigora, a core developer of CPython, and I would like to nominate Nikita Pastukhov for PSF Fellow membership.
+
+What he built
+
+Nikita is the author and lead maintainer of FastStream, a Python framework for building event-driven services on top of Kafka, RabbitMQ, NATS and Redis. He started it in 2023 as Propan, a solo project, and has maintained it ever since.
+
+It is no longer a hobby project by any measure I know how to apply:
+
+1.3 million downloads in the last 30 days, 15.6 million in total (pepy.tech) — top 3% of PyPI by downloads. Roughly 1,000–1,200 public repositories declare a direct dependency on it, and 77 published packages depend on it
+170+ contributors, 5.3k GitHub stars
+
+Who relies on it
+
+What convinced me was not the download count but who shows up in the dependency graph. FastStream is used in production by public institutions across eight jurisdictions:
+
+NERSC, the US Department of Energy supercomputing centre at Berkeley Lab in NERSC/interactEM it is not a line in a manifest but the backbone of the orchestrator, the agent and the event consumers
+
+NCATS, an institute of the US National Institutes of Health, via PolusAI/aithena
+
+ECMWF, the European Centre for Medium-Range Weather Forecasts — ecmwf/IonBeam
+
+Vera C. Rubin Observatory (NSF and US DOE): FastStream is part of lsst-sqre/safir, the framework on which the observatory builds its services, so every service built on Safir inherits it
+
+NHS Lancashire & South Cumbria Secure Data Environment, Hydro-Québec, the IT department of the City of Munich, the Italian land registry, and the IT'IS Foundation in Zurich, where it is pulled in by some eighteen services of the osparc-simcore platform
+
+Every one of these is verifiable from a public manifest in the organisation's own repository.
+
+How the ecosystem treats his work
+
+pydantic runs its release gate against his code. His second library, FastDepends, is one of eighteen projects in pydantic/pydantic/.github/workflows/third-party.yml alongside FastAPI, SQLModel, LangChain, Django Ninja and the MCP Python SDK. pydantic does not ship a release without checking it has not broken FastDepends.
+
+RabbitMQ lists FastStream among its Python clients in the official documentation, next to pika, aio-pika and aioamqp: rabbitmq.com/client-libraries/devtools.
+
+NATS published him in their blog: https://nats.io/blog/nats-supported-by-faststream/
+
+Logfire ships a documented integration. Its event-streams category contains exactly three entries: Airflow, Celery and FastStream.
+
+Work outside his own project
+
+FastStream is the only Python framework that generates an AsyncAPI specification directly from code, and Nikita has spent two years pushing that part of the ecosystem forward rather than keeping the work inside his own repository.
+
+The clearest example is the "Try it out" feature in asyncapi-react. The request had been open since February 2024 and had stalled twice, with the community concluding it could not be done because browsers cannot speak AMQP, MQTT or Kafka. Nikita brought a contributor to the issue, kept it alive, and in November 2025 proposed the design that unblocked it, do not connect the browser to a broker, send an HTTP request to a server that turns it into an event (asyncapi/asyncapi-react#914). The maintainer responded by building a general plugin system into the React component, which shipped in @asyncapi/react-component v3.0.0. Much of the coordination happened off GitHub, over Slack and with the AsyncAPI leadership; the public thread is the visible part of it.
+
+It is a project, not a person
+
+This matters to me more than the numbers. FastStream has six code owners, and five of them are not Nikita: entire brokers and subsystems belong to other people: MQTT, Redis, the ASGI and CLI layers, and all of the observability code. He grew these maintainers deliberately, by handing over whole areas and letting people own them. Two companies have paid engineers to build features into the project because they needed them in production: Prometheus support (#1791) and OpenTelemetry support (#1398) — and both contributors stayed.
+
+Community work
+
+Nikita is a visible member of the Russian-speaking Python community and a frequent speaker: PiterPy 2025 ("Open Source from the inside"), PiterPy 2024 ("Message brokers and Python in 2024"), Podlodka Python Crew, and a steady stream of podcast appearances and live streams. He writes constantly about Python engineering, his articles have reached over 330,000 readers and runs a Telegram channel about open source and Python development. He is also a co-maintainer of AG2, and FastStream was selected for BenchCouncil Open100, the list of the 100 best open source projects of 2023, alongside LangChain, LLaMA and Mojo.
+
+Why I think he qualifies
+
+Nikita took a problem most Python developers meet eventually - writing correct asynchronous, broker-backed and built something that national laboratories, health services and weather agencies now run in production, that pydantic protects in its own CI, and that message brokers recommend in their documentation. He did it in the open, gave away ownership of most of it, and spent his own effort improving standards and tools that are not his.
+
+#### Preet Mehta
+I would like to nominate myself for PSF Fellow membership, on the teaching and community-organizing track.
+
+My name is Preet Mehta. I am a data engineering and healthcare analytics leader based in Boston, and I teach Python-centered data engineering every day to a large free community:
+
+   - Founder and lead educator of the "Data Engineering & Cloud Hub," a free 1,500-member WhatsApp teaching community, where I post daily Python and data-engineering lessons (pandas, PySpark, Databricks, SQL) at no cost to learners.
+   - 3,000+ students mentored in data engineering and Python, including UMass Boston AI students I mentor and Northeastern University hackathon participants I judge and coach.
+   - Invited judge for 12 AI hackathons, where I design scoring rubrics and give written feedback to student teams building in Python.
+   - Organizer of the Boston Databricks User Group, and a speaker at PyData Boston.
+   - Open-source Python work in my public repositories (data pipelines and ML projects on GitHub under ynpreet), and a 2026 HW Foundation 50 Under 50 in AI honoree.
+
+In my day job I am Manager, Healthcare Analytics at EXL Service, where my flagship work is a Medicaid home-visit churn prediction model in production on Apache Spark and Databricks, addressing a program losing about $4 million a year on wasted visits and saving over $1 million a year.
+
+I understand Fellows are recognized for sustained contributions to the Python community. My contribution is teaching and organizing: bringing Python to thousands of learners who would otherwise have no access to it, and keeping that teaching free.
+
+#### Reuven Lerner
+On behalf of the PSF Diversity and Inclusion Workgroup, I, Goergi Ker, am pleased to submit the following nomination for PSF Fellow. Reuven Lerner has served the Python community for three decades as an educator and author, helping people around the world move from knowing Python to using it with confidence.
+
+He has written three books on Python, one of which now has a fully revised second edition:
+
+    Python Workout (Manning, 2020) 
+
+    Pandas Workout (Manning, 2024) 
+
+    Python Workout, Second Edition (Manning, 2026) 
+
+    AI-Assisted Python for Nonprogrammers (O’Reilly, 2026) 
+
+His books are widely used by self-learners, teachers and teams. Alongside them, his free weekly newsletters, Better Developers (more than 30,000 readers) and Bamboo Weekly, put practical Python and Pandas lessons in front of developers every week at no cost.
+
+Reuven shares his knowledge generously at community conferences. He has spoken at PyCon US and EuroPython for many consecutive years and regularly gives hands-on tutorials at PyCon US. He has also spoken many times at PyCon Taiwan, PyCon India, PyCon Israel and PyData Tel Aviv, as well as at PyCon Africa. As a result, learners across North America, Europe, Asia and Africa have had direct access to an experienced teacher.
+
+Through his training company, LernerPython, Reuven has also been a long-time supporter of Python conferences around the world, and he has helped keep community events accessible and sustainable. 
+
+He has been a member of the PSF Diversity and Inclusion Workgroup since its founding, supporting the Workgroup’s efforts to make the Python community more welcoming and accessible. 
+
+Taken together, his three decades of teaching, his books and free educational writing, his tutorials in many regions, his company’s long-standing support for Python conferences, and his commitment to diversity and inclusion clearly meet the Fellow criteria for extraordinary service through teaching, writing and promoting Python. His efforts have produced lasting gains in the number and skill of Python users worldwide.
+
+We believe Reuven Lerner is an exemplary member of the Python community and a strong candidate for PSF Fellow status.
+
+    https://www.linkedin.com/in/reuven/
+    https://github.com/reuven
+
+#### Sarah Abderemane
+I, Steve Yonkeu, am nominating Sarah Abderemane for PSF Fellow in recognition of her sustained contributions to the Python community through open‑source development, accessibility, community building, mentorship, and leadership.
+
+Sarah has contributed to the Python ecosystem at multiple levels. She has been a member of the Black Python Devs Leadership Council since 2024 and served as the BPD booth lead organizer at EuroPython 2026. She also volunteered at EuroPython as a session chair, contributed to PyLadies Paris, supported the PyCon France Code of Conduct team, and helped organize the PyLadies Lunch at PyCon France.
+
+A core part of Sarah’s work is her commitment to accessibility and inclusion. She has contributed to Jupyter Accessibility, adding Read the Docs support and creating the Jupyter Accessibility logo, and has been a member of the Django Accessibility Team since 2022.
+
+Her contributions extend deeply into the Django community. She is a Django code contributor, organizer of the Django Paris meetup, and a Django Girls coach and organizer. She coached Django Girls in 2022 and 2024, organized Django Girls Krakow in 2026, and helped organize DjangoCon Europe 2023, continuing as a volunteer in 2024 and 2025.
+
+Sarah co‑founded and advises Djangonaut Space, a mentorship initiative that helps people become active contributors to the Django community. This demonstrates her commitment not only to personal contribution but also to creating pathways for others to grow within open source.
+
+Her leadership within the Django Software Foundation (DSF) has been significant. She served on the DSF Board from 2024–2025, including a term as Vice President in 2025. Her DSF roles include:
+
+- Contributing to the Social Media Working Group  
+- Serving on the Fundraising Working Group  
+- Chairing the Website Working Group  
+- Acting as a Django Discord staff member  
+- Organizing DSF booths at conferences  
+
+Sarah is also an active speaker and educator across the international Python and Django communities. Notable talks and keynotes include:
+
+- “The Courage to Lead Imperfectly” – PyLadiesCon  
+- “Building Temples: My Journey from Dreamer to Builder” – DjangoDay India  
+- “50 Shades of Green – One Contribution to the Django World” – DjangoCon Africa  
+- Accessibility keynote – PyCon Italy  
+- DSF governance – DjangoCongress JP  
+- Djangonaut Space mentorship program – PyLadiesCon  
+
+More recently, her impact has been especially visible in the African and international Python communities. Within two months she delivered keynotes at both PyCon Cameroon and PyCon Togo, and also spoke at DjangoCon US.
+
+What stands out about Sarah’s contribution is its consistency and breadth. She does not merely write code or attend conferences; she creates opportunities for others, contributes to open‑source governance, advocates for accessibility, mentors contributors, organizes events, and shares her experience widely.
+
+Sarah embodies the collaborative spirit of the Python community: technical contribution, community strengthening, mentorship, and making open source accessible to everyone. I believe her sustained work across Python and Django makes her a deserving PSF Fellow.
+
+#### Swapna Chimanchodkar
+I would like to nominate myself, Swapna Chimanchodkar, for consideration as a Fellow of the Python Software Foundation (PSF).
+
+Throughout my career at UBS and Cognizant, I have focused on translating complex technological capabilities into practical solutions, improving organizational efficiency, strengthening data-driven decision-making, and encouraging the adoption of modern digital practices.
+
+My experience includes leading and project-managing Python-based enterprise technology initiatives, particularly in Finance management analytics, capital projections, and decision-support applications. These initiatives have involved overseeing solution architecture, Python development, testing, and deployment, while coordinating multidisciplinary business and technology teams. I have also mentored and guided approximately 10–20 individuals involved in project delivery, providing technical and business direction, supporting problem-solving, and maintaining oversight to ensure successful implementation.
+
+My professional contributions extend beyond enterprise project delivery to include research, industry knowledge sharing, professional mentoring, and the advancement of technology-enabled practices. My achievements have also received recognition from professional organizations, including IEEE, Sigma Xi, and The Institute of Leadership.
+
+I would like to highlight the following contributions and achievements in support of my nomination.
+
+1. Enterprise Technology Innovation and Digital Transformation
+
+At UBS Financial Services, I have led strategic digital transformation initiatives involving enterprise data management, financial reporting automation, cloud-based applications, analytics platforms, and technology modernization.
+
+My responsibilities have included developing transformation strategies, collaborating with multidisciplinary technology teams, improving data governance, and supporting the implementation of scalable digital solutions across financial operations.
+
+Python-Based Finance Management Analytics and Decision-Support Solution
+
+I project-managed the implementation of a Python-based management analytics solution for the US Group Finance organization, supporting a Finance population of approximately 300–500 professionals. The initiative focused on consolidating critical organizational, workforce, capital-related, and operational parameters into a structured management reporting and decision-support capability.
+
+The solution enabled senior Finance management to review important workforce metrics, including employee joiners, open positions, and attrition, alongside capital-related indicators and other key parameters required for Finance management oversight and decision-making. By providing greater visibility into these interconnected metrics, the initiative supported more informed management discussions, improved organizational transparency, and strengthened data-driven decision-making across the Finance organization.
+
+My responsibilities included defining and coordinating business requirements, project-managing the initiative, overseeing solution architecture and Python development, coordinating testing and deployment, and working with business and technology stakeholders to ensure that the solution addressed the reporting and management information requirements of a large, geographically distributed Finance organization.
+
+Python-Based Finance and Capital Projection Solution – MEG Implementation
+
+I also project-managed a Python-based Finance and capital projection solution as part of the MEG implementation at UBS in the United States, including the associated user interface (UI). This initiative addressed a critical requirement within financial institutions: supporting reliable Finance and capital projections for operational planning, financial oversight, and regulatory reporting responsibilities.
+
+The solution was designed to facilitate the projection and review of key Finance and capital parameters, providing a structured technology-enabled approach to financial planning and management analysis. I coordinated business requirements, oversaw solution architecture and Python development, and managed testing, deployment, technology delivery, stakeholder engagement, and implementation activities to translate complex Finance requirements into a practical Python-based application with an accessible user interface.
+
+In addition to managing the technical and delivery aspects, I provided guidance and mentoring to approximately 10–20 individuals involved across these enterprise technology initiatives. My involvement included helping team members understand business requirements, providing direction on deliverables, facilitating collaboration between business and technology stakeholders, supporting issue resolution, and maintaining oversight of project activities to ensure alignment with the intended outcomes.
+
+These initiatives demonstrate my experience leading Python-enabled technology implementations in a complex banking environment, where reliable data, timely financial projections, management visibility, and disciplined technology delivery are essential. They also illustrate how programming technologies can be applied to address practical enterprise challenges beyond conventional software development.
+
+One of my significant contributions was leading the Return-on-Investment on Prospective Projects analytics initiative, which introduced a structured approach to evaluating technology investments and monitoring project performance through integrated reporting and visualization. This initiative improved investment visibility, supported management decision-making, and received recognition as the winning project at the Americas Finance Shark Tank Finals in 2022.
+
+I also led financial reporting transformation initiatives focused on reducing reporting production timelines by two days through process redesign, automation, and improved reporting practices.
+
+These contributions demonstrate my ability to identify complex operational challenges, introduce practical technology-enabled solutions, and coordinate their implementation across enterprise environments.
+
+2. Intelligent Automation, Machine Learning, and Measurable Business Impact
+
+During my tenure at Cognizant, I led digital transformation and process modernization programs for global financial services organizations.
+
+My work involved identifying opportunities for robotic process automation, machine learning, natural language processing, digital dashboards, and advanced analytics to improve operational performance.
+
+In a banking foreign exchange transformation initiative, I contributed to technology-enabled improvements that reduced manual intervention by approximately 10–30%, while supporting greater operational consistency and process efficiency.
+
+Earlier in my career at UBS India Service Centre, I led the Investment Banking Vendor Spend Reporting – Cycle Time Reduction initiative, introducing automation, reporting standardization, and improved workflow planning.
+
+The initiative achieved a 70% reduction in process time, demonstrating the effectiveness of combining technology adoption with structured process improvement.
+
+In my subsequent enterprise transformation work at UBS in the United States, I expanded my involvement in Python-based technology initiatives, particularly in Finance management analytics and capital projection capabilities. These projects required translating complex business requirements into structured technology solutions, overseeing solution architecture and Python development, coordinating testing and deployment, and ensuring that the resulting capabilities addressed practical management and operational needs.
+
+My experience in these initiatives demonstrates how Python can support enterprise-scale data processing, management information, financial analysis, and decision-support capabilities in highly complex and regulated environments.
+
+Through these initiatives, I have contributed to improving operational reliability, reducing repetitive manual activities, strengthening business processes, and encouraging the adoption of intelligent technologies across financial institutions.
+
+3. Research Publications and Advancement of Technology Knowledge
+
+Beyond enterprise technology implementation, I have contributed to professional knowledge sharing through research addressing digital transformation, intelligent technologies, and operational modernization.
+
+In 2025, I authored the research article:
+
+“Process and Digital Transformation in Industrial Manufacturing: A Strategic Framework”
+
+Published in the International Journal of Computational and Experimental Science and Engineering (IJCESEN).
+
+DOI: https://doi.org/10.22399/ijcesen.4268
+
+My research examines how industrial organizations can integrate process optimization, machine learning, predictive maintenance, cloud analytics, and digital technologies to improve operational effectiveness.
+
+The article presents a strategic framework for combining technological capabilities with organizational readiness, process redesign, and data-driven decision-making.
+
+Through this publication, I have contributed to professional discussions surrounding intelligent automation, technology integration, and sustainable digital transformation.
+
+My research reflects my commitment to examining emerging technological approaches and sharing knowledge that can help professionals and organizations understand complex digital transformation challenges.
+
+I intend to build on this research and enterprise implementation experience by exploring practical applications of Python across industries, particularly in process automation, data analytics, predictive capabilities, and technology-enabled decision-making.
+
+4. Industry Speaking, Professional Education, and Knowledge Sharing
+
+I have contributed to professional knowledge sharing through industry conferences, leadership training, mentoring, and discussions on emerging technologies.
+
+At the NexGen Banking Summit USA 2024, I participated as a keynote speaker and panelist.
+
+My keynote presentation was titled:
+
+“AI Digital Transformation: For Business Innovation and Impact”
+
+I also participated in a panel discussion titled:
+
+“Data-Driven Digital Transformation in the Banking Sector in the Era of AI.”
+
+Through these engagements, I shared practical perspectives on artificial intelligence, digital transformation, data analytics, and the organizational challenges associated with adopting emerging technologies.
+
+My discussions emphasized connecting technological innovation with measurable business outcomes, improving data-driven decision-making, and preparing organizations for technology-enabled transformation.
+
+Beyond external speaking engagements, I have contributed to professional development by training and mentoring individuals in analytical and visualization technologies, including Python, Alteryx, Tableau, and process mining tools.
+
+My knowledge-sharing contributions also extend to mentoring and guiding professionals involved in enterprise technology transformation projects. Through these engagements, I have helped individuals strengthen their understanding of analytical technologies, process optimization, project execution, and the practical application of technology to business challenges.
+
+Building on my experience with Python-based enterprise solutions, I am interested in extending this knowledge-sharing approach through educational content and professional learning initiatives focused on practical Python applications. Potential areas include Python for enterprise automation, financial analytics, data management, and decision-support systems.
+
+These activities have enabled me to share practical knowledge, encourage professional learning, and support the adoption of improved analytical and digital practices.
+
+5. Professional Recognition and Distinguished Memberships
+
+My sustained contributions to technology leadership, research, innovation, and professional development have received recognition from several professional organizations.
+
+IEEE Senior Member (2025): I was elevated to IEEE Senior Member grade in recognition of my professional experience and contributions to the engineering and technology profession.
+
+Sigma Xi Full Member (2025): I was elected a Full Member of Sigma Xi, The Scientific Research Honor Society, recognizing my research achievements and professional contributions.
+
+Fellow of The Institute of Leadership (2026): I received Fellow recognition reflecting my professional leadership experience and achievements.
+
+Royal Fellow, International Organization for Academic and Scientific Development (2025): I received this recognition for my professional and academic contributions.
+
+Marquis Who’s Who Honored Listee (2024): I received recognition for my professional accomplishments and career achievements.
+
+In addition to these external recognitions, I have received organizational awards, including the UBS Group CFO Star Award and the Americas Finance Shark Tank Finals Winner Award (2022).
+
+These recognitions reflect my sustained professional engagement in technology innovation, research, leadership, and organizational transformation.
+
+6. Mentoring, Collaboration, and Advancement of Digital Technology Practices
+
+Throughout my career, I have collaborated with multidisciplinary teams across the United States, United Kingdom, and India, supporting the implementation of technology-driven solutions in complex enterprise environments.
+
+My responsibilities have extended beyond managing technology initiatives to include mentoring professionals, supporting team development, encouraging collaboration, and helping organizations adopt improved digital practices.
+
+In my UBS enterprise technology initiatives, including the Python-based Finance management analytics and capital projection projects, I have actively mentored and guided approximately 10–20 individuals involved in project delivery. My role extended beyond project management to providing direction, supporting problem-solving, helping team members navigate business and technology requirements, and maintaining oversight of their respective deliverables.
+
+I provided guidance to project participants across different responsibilities, encouraged collaboration between business and technology stakeholders, and monitored progress, dependencies, risks, and implementation activities to help ensure successful project execution. This combination of mentoring, delivery oversight, and cross-functional coordination helped align individual contributions with broader organizational objectives and project outcomes.
+
+At UBS and Cognizant, I have worked with business and technology stakeholders to identify automation opportunities, strengthen analytical capabilities, and develop approaches that improve organizational efficiency.
+
+My mentoring approach emphasizes developing individual capabilities while maintaining accountability for collective delivery. By sharing practical experience, providing guidance, and encouraging knowledge transfer, I have supported professionals in developing stronger analytical, problem-solving, and technology implementation capabilities.
+
+I have also supported leadership development and professional learning initiatives, sharing practical knowledge of analytical technologies, process optimization, and digital transformation.
+
+My leadership approach emphasizes collaboration, knowledge transfer, continuous improvement, and the responsible application of emerging technologies.
+
+Through mentoring, training, research, and professional speaking engagements, I have sought to make advanced technological concepts more accessible to professionals and business leaders responsible for implementing digital solutions.
+
+7. Sustained Commitment to Technology Advancement and Collaborative Learning
+
+My professional journey has consistently focused on improving how organizations understand, adopt, and apply technology to address complex operational challenges.
+
+From early process automation and reporting improvements to enterprise-wide digital transformation, intelligent analytics, and research into emerging technologies, I have continued to develop and apply approaches that support innovation and operational excellence.
+
+My experience spans financial services, enterprise data management, artificial intelligence, machine learning, process optimization, and digital technology adoption.
+
+I recognize the Python Software Foundation’s important role in advancing open-source technology, education, collaboration, and a global community of technology professionals.
+
+My professional contributions include leading Python-based enterprise technology initiatives that demonstrate the practical application of Python in financial management, data analytics, management decision-support, and complex operational environments. Through these initiatives, I have helped translate programming capabilities into practical business solutions supporting management visibility and critical Finance processes.
+
+I believe that technology creates the greatest value when technical innovation is combined with effective knowledge sharing, mentoring, collaboration, and opportunities for others to develop their capabilities. My professional experience in leading multidisciplinary technology initiatives and mentoring project participants reflects this commitment.
+
+While I have contributed to the industry through usage and championing on Python for enterprise initiatives, as a next step I want to focus on further extending my professional experience to the broader Python ecosystem, I am interested in developing an educational knowledge-sharing initiative titled “Python for Enterprise Finance Transformation: Management Analytics, Capital Projections, and Decision Support.” The proposed initiative would explore practical applications of Python in enterprise environments, drawing on generalizable industry challenges and implementation approaches while respecting organizational confidentiality. It would aim to make complex technology concepts more accessible to professionals, aspiring Python practitioners, and business leaders interested in applying Python to real-world operational challenges.
+
+I also intend to continue exploring opportunities to share practical Python knowledge through educational resources, professional mentoring, research, and engagement with technology communities.
+
+I remain committed to supporting the principles of accessible technology, collaborative learning, and knowledge sharing through professional education, mentoring, research, and continued engagement with technology communities.
+
+Conclusion
+
+My professional career reflects nearly two decades of sustained contributions to enterprise technology transformation, intelligent automation, research, innovation, professional education, and leadership.
+
+Through my work at UBS and Cognizant, I have demonstrated the ability to translate emerging technologies into practical solutions, deliver measurable operational improvements, and encourage the adoption of modern digital practices across complex organizational environments.
+
+My experience leading Python-based Finance management analytics and capital projection initiatives further demonstrates the application of Python to enterprise-scale challenges, supporting senior management decision-making, financial planning, and critical operational requirements. These initiatives have involved overseeing solution architecture, Python development, testing, and deployment, as well as mentoring approximately 10–20 project participants, coordinating multidisciplinary teams, and maintaining delivery oversight to achieve organizational objectives.
+
+My research publication, industry speaking engagements, mentoring activities, and independent recognitions from IEEE, Sigma Xi, and The Institute of Leadership further demonstrate my commitment to technological advancement and knowledge sharing.
+
+I believe my combination of enterprise technology leadership, practical Python implementation experience, research, mentoring, and commitment to professional education provides a valuable perspective on how Python can address complex real-world challenges and enable broader technology adoption.
+
+I respectfully submit my self-nomination for consideration by the Python Software Foundation Fellow Work Group, highlighting my professional contributions to technology innovation, Python-enabled enterprise transformation, research, leadership, and collaborative learning.
+
+#### Uzair Ali
+I, Uzair Ali, would like to nominate myself for PSF Fellow. 
+
+Why I believe I meet the criteria (engineering track):
+
+Agno (Python agent framework): 39 merged pull requests authored between October 2025 and April 2026, spanning model reasoning and structured outputs, response caching and memory optimization, the AgentOS API and client SDKs, vector stores and knowledge, tools, workflows, and the Agent Skills system I authored (PR #5890). Credited by name in 25 published releases (v2.1.3 through v2.5.15). documented downstream use: DuploCloud's dcaf project describes building on Agno's skills system and upgraded Agno specifically to get it. and many more
+
+Earlier ecosystem work: four merged pull requests to IntelOwl and three to GreedyBear (both Django/DRF projects, 2021-22), a merged fix to Django REST Framework (#8207, 2021), three merged pull requests to LiteLLM (2025), and one to moto (#5841, 2023).
+
+Links:
+https://github.com/uzaxirr
+https://github.com/agno-agi/agno/pulls?q=is%3Apr+author%3Auzaxirr+is%3Amerged
+https://github.com/agno-agi/agno/pull/5890
+https://github.com/intelowlproject/IntelOwl/pulls?q=is%3Apr+author%3Auzaxirr
+https://github.com/GreedyBear-Project/GreedyBear/pulls?q=is%3Apr+author%3Auzaxirr
+https://github.com/encode/django-rest-framework/pull/8207
+https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Auzaxirr+is%3Amerged
+https://github.com/getmoto/moto/pull/5841
+
+Thank you for considering my nomination. 
+
+#### Wachiou Bouraima 
+I, Abigail Mesrenyame Dogbe, am pleased to nominate Wachiou Bouraima for recognition as a Fellow of the Python Software Foundation for his extraordinary contributions to building the Python community in Togo and strengthening connections across the African Python ecosystem. 
+
+Wachiou has played a central role in establishing and growing Python Togo, creating opportunities for developers, students, educators, and Python enthusiasts to learn, connect, and contribute. As a lead organizer of PyCon Togo, he has helped develop a national Python conference and a broader community infrastructure around it. Python Togo organizes events, training, and activities that promote the use of Python in Togo, while the current PyCon Togo team identifies Wachiou as its Lead Organizer. His contribution is particularly significant because he is helping develop a Python ecosystem in a country where the community is still emerging, creating pathways for people to become not only Python users but also community members and contributors.
+
+Wachiou's contribution extends beyond Togo. He has been involved in PyCon Africa, helping connect the Python community in Togo with the broader African ecosystem, while also contributing directly to open source.
+
+I have been personally fascinated about all the work he has done in his country and how it inspires the french community in Africa.
+
+#### Wentao Ye
+I, Will Vincent, wanted to propose Wentao Ye for recognition as a PSF Fellow this quarter. He's someone I have interacted with digitally for a while and I think his open-source work, specifically around vLLM, but also PyTorch, makes him worth consideration.
+
 ### 2026 Q3 Nominations
 
 #### Aldo Caneo
