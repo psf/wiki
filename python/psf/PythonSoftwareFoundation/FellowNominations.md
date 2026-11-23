@@ -168,6 +168,11 @@ Pytml - https://pytml.js.org
 
 Portfolio - https://a-r.is-a.dev
 
+- pandas Core Contributions: Merged a C/Cython bug-fix PR (#69485, targeting the 3.2 milestone) resolving a segmentation fault in to_json(date_format="iso") and fixing exception handling in apply_tzinfo_offset, with an active follow-up PR (#71432) addressing boolean query evaluation in HDFStore.select.
+- Pyodide Ecosystem Integration: Collaborated with Pyodide core maintainers to have Pytml officially listed in Pyodide's related-projects documentation (pyodide/pyodide#6475).
+- Open-Source Python Tooling: Continued maintaining ErrorAI (a PyPI utility for automated runtime exception diagnostics) and developing accessible educational web-Python tooling for students with limited hardware and connectivity.
+- Security Research & Community: Active ethical security researcher recognized on the NASA Vulnerability Disclosure Program Hall of Fame and an ISC2 Candidate.
+
 #### Calvin Tsang
 On behalf of the PSF Diversity and Inclusion Workgroup, I, Goergi Ker, am pleased to submit the following nomination for PSF Fellow. Calvin Tsang has served the Python community in Hong Kong and across Asia-Pacific through more than a decade of sustained volunteer organising, community leadership and regional collaboration.
 
@@ -349,7 +354,7 @@ My areas of professional experience include:
     Automation of repetitive and complex technical processes.
 
     Data processing, transformation, and integration.
-
+Thejesh Avula
     Development of reusable Python modules and software utilities.
 
     Application debugging, testing, and performance optimization.
@@ -767,6 +772,17 @@ My research publication, industry speaking engagements, mentoring activities, an
 I believe my combination of enterprise technology leadership, practical Python implementation experience, research, mentoring, and commitment to professional education provides a valuable perspective on how Python can address complex real-world challenges and enable broader technology adoption.
 
 I respectfully submit my self-nomination for consideration by the Python Software Foundation Fellow Work Group, highlighting my professional contributions to technology innovation, Python-enabled enterprise transformation, research, leadership, and collaborative learning.
+
+#### Thejesh Avula
+I, Divya C, would like to nominate Thejesh Avula for PSF Fellow. Thejesh is the founder of Shelly Codes (https://shelly.codes), a free app that teaches children real Python.  I am a Senior Software Engineer at Microsoft, where Thejesh and I are colleagues, and I have watched his Python work up close.
+
+Thejesh is one of the most committed open source contributors I know. He contributes to CPython, mostly in the standard library. His recent pull requests include fixes for quadratic running time in textwrap when breaking long words, in email.header when folding long headers, and in optparse when parsing many positional arguments, plus a correction to the documented parameter names in email.utils. These are performance and correctness fixes that most users never notice but that make Python more reliable. His work reaches well beyond CPython. He is the second-ranked contributor to Understand-Anything, a project that turns a codebase into an interactive knowledge graph and has more than 93,000 stars on GitHub, and the third-ranked contributor to the AI Agent book repository, the open source home of a book on AI agent design and engineering, with its text and chapter code in Python, which has more than 55,000 stars. He also helps keep the Python documentation accurate for people who don't read English first. I have been translating the Python documentation into Telugu, and he reviewed my translations for Python 3.14 and 3.15 to check that the technical meaning held up. That is slow, unglamorous work, and he did it because he wants Python to reach more people.
+
+Thejesh also cares a great deal about teaching. His point is that in the LLM era, many people are shipping code they have never read and could not run or explain, and that more people need to learn what code looks like, how to run it, and how to tell whether it works. He turned that belief into a real program. Shelly Codes is a free iPad app that teaches children to write real Python 3: kids type code, tap Run, and watch a turtle draw what they wrote. It starts with Python's turtle module and builds up to loops, colors, lists, conditionals and custom functions across 36 levels in 8 chapters, with error messages that explain mistakes in plain language. He piloted it from December 2025 to August 2026 with 736 children aged 8 to 14 across two schools, and eight software engineers reviewed it. I was one of those reviewers, and I saw how carefully he tested before he called it ready. He has since released it free on the App Store, with no ads, in-app purchases, accounts or tracking, and it works offline. I think that shows how he treats young learners. They are users who deserve a product that works, and he does the testing first.
+
+On the PSF's criteria, I see two fits. His CPython and wider open source work matches the engineering and design category, and his children's program and his support for translation match coordination, outreach and teaching. He works in the open, helps other contributors, and cares a great deal about people who are new to Python. I think he would represent the Fellows well.
+
+Supporting links: https://shelly.codes, https://apps.apple.com/us/app/shelly-codes/id6830177069, https://github.com/python/cpython/pulls/thejesh23, https://github.com/Egonex-AI/Understand-Anything, https://github.com/bojieli/ai-agent-book, https://github.com/thejesh23, https://www.linkedin.com/in/thejeshavula/
 
 #### Uzair Ali
 I, Uzair Ali, would like to nominate myself for PSF Fellow. 
