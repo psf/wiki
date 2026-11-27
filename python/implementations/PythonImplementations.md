@@ -114,6 +114,8 @@ The following implementations are apparent works in progress; they may not be ab
 
 - [pocketpy](https://github.com/blueloveTH/pocketpy) - pocketpy is a lightweight (\~10000 LOC) Python interpreter for game scripting
 
+- [pagh-python](https://github.com/ccclosed/pagh-python) - a Python subset interpreter written in Rust that runs in user mode on the pagh-riscv bare-metal OS
+
 ### Extensions 
 
 These are typically part of CPython (or some other implementation) but change the implementation\'s behaviour:
