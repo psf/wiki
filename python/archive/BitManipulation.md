@@ -27,6 +27,8 @@ Relevant libraries include:
 
 - [bitstruct - This module performs conversions between Python values and C bit field structs represented as Python bytearrays.](https://pypi.python.org/pypi/bitstruct/)
 
+- [binarycalc - converts between bases 2, 8, 10 and 16 (with two's complement) and between text and 8-bit binary](https://pypi.org/project/binarycalc/). There is also a [browser version that shows the steps](https://www.binarycalc.com/binary-converter/)
+
 Some simple code is at [ActiveState Code Recipes: Bit-field manipulation](https://code.activestate.com/recipes/113799-bit-field-manipulation/) (in Python 2 syntax).
 
 Here are some other examples.
