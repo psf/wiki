@@ -103,13 +103,13 @@ No budget will be needed for this. Possibly in the future, this WG can address b
 
 ### Participants 
 
+- Abhijeet Mote
 - Bruno Rocha
 - Chukwudi Nwachukwu
 - David Markey
 - Jon Banafato
 - Kristian Glass
 - Kushal Das
-- Łukasz Langa
 - Mark Smith
 - Ngazetungue Muheue
 - Stéphane Wirtel
@@ -117,5 +117,6 @@ No budget will be needed for this. Possibly in the future, this WG can address b
 
 Former Participants:
 
-- Naomi Ceder
 - Aisha Bello
+- Naomi Ceder
+- Łukasz Langa

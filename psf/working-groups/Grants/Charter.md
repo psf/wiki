@@ -239,13 +239,13 @@ Participants:
 - Fernando Masanori (South America)
 - Kevin Rodriguez-Turcios (South America/North America)
 - Kushal Das (Asia)
-- Michael Iyanda (Africa, Nigeria)
 - Sayan Chowdhury (Asia)
 - Vicky Twomey-Lee (Europe)
-- Younggun Kim (Asia)
 
 Former Members:
 
 - Darshita Chaturvedi (Asia / North America)
 - Gonzalo Peña-Castellanos (South America, Colombia)
 - Lorena Mesa (North America)
+- Michael Iyanda (Africa, Nigeria)
+- Younggun Kim (Asia)
